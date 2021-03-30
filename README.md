@@ -1,10 +1,32 @@
-# Solasta Portuguese Translation
+# Solasta Unofficial Translation
 
-Although this Mod is finished the translation is a work in progress. I expect help to fine tune it.
+* This Mod allows additional text translations to be easily added to the Solasta cRPG game.
+* I expect the community to step in, work as a team, and provide better translations files than the ones I got from Google API.
+* Current translations:
+	- Brazilian Portuguese (pt-BR)
+	- Spanish (es)
 
-# How to Translate
+# How to Install
 
-1. Open $SOLASTA_HOME/Mods/SolastaPortugueseTranslation/Translations.json on a text editor
+* You need Unity Mod Manager installed on your game folder. Please follow instructions on Nexus or Discord.
+
+	- Current version of Unity Mod Manager injects into the game at a later stage. I already reported this to UMM author. Meanwhile you need to edit your config.xml file inside your GAME_FOLDER/Solasta_data/Managed/UnityModManager. Replace with below:
+
+		```
+		<?xml version="1.0" encoding="utf-8"?>
+			<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Solasta">
+			<Folder>Solasta</Folder>
+			<ModsDirectory>Mods</ModsDirectory>
+			<ModInfo>Info.json</ModInfo>
+			<GameExe>Solasta.exe</GameExe>
+			<EntryPoint>[UnityEngine.UIModule.dll]UnityEngine.Canvas.cctor:Before</EntryPoint>
+			<StartingPoint>[Assembly-CSharp.dll]TacticalAdventuresApplication.Update:After</StartingPoint>
+		<MinimalManagerVersion>0.22.13</MinimalManagerVersion>
+		</Config>
+		```
+# How to fix bad translations and notify
+
+1. Open $SOLASTA_HOME/Mods/SolastaUnofficialTranslations/Translation-<LANGUAGE-CODE>.json on a text editor
 2. Apply your corrections
 3. Submit a request to this repo
 

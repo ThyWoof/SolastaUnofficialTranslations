@@ -10,8 +10,8 @@
     <ProjectGuid>{2CAEA425-CE96-4E2A-8248-FD55675B20F6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SolastaPortugueseTranslation</RootNamespace>
-    <AssemblyName>SolastaPortugueseTranslation</AssemblyName>
+    <RootNamespace>SolastaUnofficialTranslations</RootNamespace>
+    <AssemblyName>SolastaUnofficialTranslations</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -35,7 +35,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug Install|AnyCPU'">
     <DebugSymbols>true</DebugSymbols>
-    <OutputPath>$(SolastaInstallDir)\Mods\SolastaPortugueseTranslation\</OutputPath>
+    <OutputPath>$(SolastaInstallDir)\Mods\SolastaUnofficialTranslations\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <DebugType>portable</DebugType>
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -46,7 +46,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release Install|AnyCPU'">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>$(SolastaInstallDir)\Mods\SolastaPortugueseTranslation\</OutputPath>
+    <OutputPath>$(SolastaInstallDir)\Mods\SolastaUnofficialTranslations\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -90,6 +90,10 @@
       <HintPath>$(SolastaInstallDir)\Solasta_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>$(SolastaInstallDir)\Solasta_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="UnityModManager">
       <HintPath>$(SolastaInstallDir)\Solasta_Data\Managed\UnityModManager\UnityModManager.dll</HintPath>
       <Private>False</Private>
@@ -103,7 +107,10 @@
     <None Include="Info.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Translations.json">
+    <None Include="Languages.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Translation-pt-BR.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
