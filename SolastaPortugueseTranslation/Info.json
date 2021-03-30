@@ -1,0 +1,9 @@
+﻿{
+	"Id": "SolastaPortugueseTranslation",
+	"DisplayName": "SolastaPortugueseTranslation",
+	"Author": "Zappastuff",
+	"Version": "1.0.1",
+	"ManagerVersion": "0.22.14",
+	"AssemblyName": "SolastaPortugueseTranslation.dll",
+	"EntryMethod": "SolastaPortugueseTranslation.Main.Load"
+}
