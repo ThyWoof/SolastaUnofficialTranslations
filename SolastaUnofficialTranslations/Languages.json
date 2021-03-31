@@ -1,8 +1,20 @@
 [
   {
+    "Code": "es",
+    "Text": "Espanol",
+    "Desc": "Espanol",
+    "File": "Translation-es.json"
+  },
+  {
+    "Code": "it",
+    "Text": "Italiano",
+    "Desc": "Italiano",
+    "File": "Translation-it.json"
+  },
+  {
     "Code": "pt-BR",
-    "Text": "Português",
-    "Desc": "Português Brasil",
+    "Text": "Portugues",
+    "Desc": "Portugues Brasil",
     "File": "Translation-pt-BR.json"
   }
 ]
