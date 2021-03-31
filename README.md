@@ -6,6 +6,7 @@
 	- Brazilian Portuguese (pt-BR)
 	- Spanish (es)
 	- Italian (it)
+	- British English (en-GB)
 
 # How to Install
 

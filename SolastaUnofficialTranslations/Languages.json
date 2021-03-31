@@ -1,5 +1,11 @@
 [
   {
+    "Code": "en-GB",
+    "Text": "English (GB)",
+    "Desc": "English (GB)",
+    "File": "Translation-en-GB.json"
+  },
+  {
     "Code": "es",
     "Text": "Espanol",
     "Desc": "Espanol",

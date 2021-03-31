@@ -1,13 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 using System.Reflection;
 using UnityModManagerNet;
 using HarmonyLib;
-using System.IO;
 using Newtonsoft.Json.Linq;
 using I2.Loc;
-using System.Collections.Generic;
-using System.Linq;
-using System.Collections;
 
 namespace SolastaUnofficialTranslations
 { 
