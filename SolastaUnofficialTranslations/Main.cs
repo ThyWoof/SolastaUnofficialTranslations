@@ -7,12 +7,16 @@ using Newtonsoft.Json.Linq;
 using I2.Loc;
 using System.Collections.Generic;
 using System.Linq;
+using System.Collections;
 
 namespace SolastaUnofficialTranslations
 { 
     public class Main
     {
         private static JArray languages;
+
+        public static UnityModManager.ModEntry.ModLogger logger;
+        public static bool enabled;
 
         public static void Log(string msg)
         {
@@ -28,9 +32,6 @@ namespace SolastaUnofficialTranslations
         {
             if (logger != null) logger.Error(msg);
         }
-
-        public static UnityModManager.ModEntry.ModLogger logger;
-        public static bool enabled;
 
         static void LoadLanguages()
         {
@@ -81,7 +82,7 @@ namespace SolastaUnofficialTranslations
                     }
                     catch
                     {
-                        Log("FAIL: language " + code + " on key: " + key);
+                        Log("FAIL: language code not found on: " + translation.ToString());
                     }
                 }
             }
@@ -137,9 +138,11 @@ namespace SolastaUnofficialTranslations
         internal static class SettingDropListItem_Bind_Patch
         {
             public static void Postfix(
-                SettingDropListItem __instance, Setting setting, 
+                SettingDropListItem __instance,
+                Setting setting, 
                 SettingItem.OnSettingChangedHandler onSettingChanged, 
-                SettingTypeDropListAttribute ___settingTypeDropListAttribute, GuiDropdown ___dropList)
+                SettingTypeDropListAttribute ___settingTypeDropListAttribute, 
+                GuiDropdown ___dropList)
             {
                 if (__instance == null)
                     return;
@@ -164,6 +167,10 @@ namespace SolastaUnofficialTranslations
                             continue;
                         }
 
+                        if (!items.Contains<String>(code))
+                        {
+                            items[top++] = code;
+                        }
                         if (!___dropList.options.Any(o => o.text == text))
                         {
                             ___dropList.options.Add(new GuiDropdown.OptionDataAdvanced 
@@ -171,7 +178,6 @@ namespace SolastaUnofficialTranslations
                                 text = text,
                                 TooltipContent = "Setting/&TextLanguage" + code + "Description"
                             });
-                            items[top++] = code;  
                         }
                     }
                 }
