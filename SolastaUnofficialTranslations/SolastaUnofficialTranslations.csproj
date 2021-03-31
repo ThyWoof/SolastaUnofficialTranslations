@@ -110,6 +110,9 @@
     <None Include="Languages.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="Repository.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="Translation-es.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
