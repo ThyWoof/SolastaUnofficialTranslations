@@ -55,7 +55,6 @@ namespace SolastaUnofficialTranslations
                 var languageSourceData = LocalizationManager.Sources[0];
                 languageSourceData.AddLanguage(text, code);
                 var languageIndex = languageSourceData.GetLanguageIndex(text);
-                languageSourceData.EnableLanguage(text, true);
 
                 // add language translation keys
                 languageSourceData.AddTerm("Setting/&TextLanguage" + code + "Title").Languages[languageIndex] = text;
@@ -65,7 +64,17 @@ namespace SolastaUnofficialTranslations
                 var translations = JArray.Parse(File.ReadAllText(UnityModManager.modsPath + @"/SolastaUnofficialTranslations/" + file));
                 foreach (JObject translation in translations)
                 {
-                    var key = translation["key"].ToString();
+                    String key;
+                    try
+                    {
+                        key = translation["key"].ToString();
+                    }
+                    catch
+                    {
+                        Log("FAIL: key not found on: " + translation.ToString());
+                        continue;
+                    }
+
                     try
                     {
                         languageSourceData.AddTerm(key).Languages[languageIndex] = translation[code].ToString();
@@ -100,6 +109,9 @@ namespace SolastaUnofficialTranslations
         {
             public static void Prefix(GameManager __instance, Dictionary<string, string> ___languageByCode)
             {
+                if (__instance == null)
+                    return;
+
                 String code, text;
                 foreach (JObject language in languages)
                 {
@@ -107,11 +119,15 @@ namespace SolastaUnofficialTranslations
                     {
                         code = language["Code"].ToString();
                         text = language["Text"].ToString();
-                        ___languageByCode.Add(code, text);
                     }
                     catch
                     {
                         continue;
+                    }
+
+                    if (!___languageByCode.ContainsKey(code))
+                    {
+                        ___languageByCode.Add(code, text);
                     }
                 }  
             }
@@ -130,6 +146,11 @@ namespace SolastaUnofficialTranslations
 
                 if (___settingTypeDropListAttribute?.Name == "TextLanguage")
                 {
+                    int top = ___settingTypeDropListAttribute.Items.Count<String>();
+                    String[] items = new String[top + languages.Count];
+                    Array.Copy(___settingTypeDropListAttribute.Items, items, top);
+                    ___settingTypeDropListAttribute.Items = items;
+
                     String code, text;
                     foreach (JObject language in languages)
                     {
@@ -145,18 +166,12 @@ namespace SolastaUnofficialTranslations
 
                         if (!___dropList.options.Any(o => o.text == text))
                         {
-                            ___dropList.options.Add(new GuiDropdown.OptionDataAdvanced
-                                {
-                                    text = text,
-                                    TooltipContent = "Setting/&TextLanguage" + code + "Description"
+                            ___dropList.options.Add(new GuiDropdown.OptionDataAdvanced 
+                            {
+                                text = text,
+                                TooltipContent = "Setting/&TextLanguage" + code + "Description"
                             });
-
-                            int index = 0;
-                            String[] items = new String[___settingTypeDropListAttribute.Items.Count<String>() + 1];
-                            foreach (var item in ___settingTypeDropListAttribute.Items)
-                                items[index++] = item;
-                            items[index] = code;
-                            ___settingTypeDropListAttribute.Items = items;
+                            items[top++] = code;  
                         }
                     }
                 }
