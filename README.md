@@ -10,23 +10,7 @@
 
 # How to Install
 
-* You need Unity Mod Manager installed in your game folder. Please follow instructions on Nexus or Discord.
-
-	- Current version of Unity Mod Manager injects into the game at a later stage. I already reported this to UMM author.
-	- Meanwhile you need to edit your config.xml file inside *GAME_FOLDER/Solasta_data/Managed/UnityModManager*. Replace with below:
-
-		```
-		<?xml version="1.0" encoding="utf-8"?>
-			<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Solasta">
-			<Folder>Solasta</Folder>
-			<ModsDirectory>Mods</ModsDirectory>
-			<ModInfo>Info.json</ModInfo>
-			<GameExe>Solasta.exe</GameExe>
-			<EntryPoint>[UnityEngine.UIModule.dll]UnityEngine.Canvas.cctor:Before</EntryPoint>
-			<StartingPoint>[Assembly-CSharp.dll]TacticalAdventuresApplication.Start:After</StartingPoint>
-		<MinimalManagerVersion>0.22.13</MinimalManagerVersion>
-		</Config>
-		```
+* You need [Unity Mod Manager 0.23.3](https://www.nexusmods.com/site/mods/21?tab=files) or higher installed in your game folder. Please follow instructions on Nexus or Discord.
 
 # How to fix bad translations
 
