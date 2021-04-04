@@ -87,12 +87,12 @@
   {
     "key": "Action/&ActionTypeFreeOnceAvailableMultipleDescription",
     "en": "This free action is available!",
-    "pt-BR": "Esta ação gratuita está disponível!"
+    "pt-BR": "Esta ação livre está disponível!"
   },
   {
     "key": "Action/&ActionTypeFreeOnceAvailableSingleDescription",
     "en": "Your free action is available!",
-    "pt-BR": "Sua ação gratuita está disponível!"
+    "pt-BR": "Sua ação livre está disponível!"
   },
   {
     "key": "Action/&ActionTypeFreeOnceDescription",
@@ -107,7 +107,7 @@
   {
     "key": "Action/&ActionTypeFreeOnceUnavailableMultipleDescription",
     "en": "You have used this free action.",
-    "pt-BR": "Você usou esta ação gratuita."
+    "pt-BR": "Você usou esta ação livre."
   },
   {
     "key": "Action/&ActionTypeFreeOnceUnavailableSingleDescription",
@@ -132,7 +132,7 @@
   {
     "key": "Action/&ActionTypeMainTitle",
     "en": "Main Actions",
-    "pt-BR": "Principais Ações"
+    "pt-BR": "Ações Principais"
   },
   {
     "key": "Action/&ActionTypeMainUnavailableMultipleDescription",
@@ -152,7 +152,7 @@
   {
     "key": "Action/&ActionTypeMoveTitle",
     "en": "Move",
-    "pt-BR": "Jogada"
+    "pt-BR": "mover"
   },
   {
     "key": "Action/&ActionTypeOtherDescription",
@@ -202,7 +202,7 @@
   {
     "key": "Action/&AssignTargetDescription",
     "en": "You can select a new target for {0}.",
-    "pt-BR": "Você pode selecionar um novo destino para {0}."
+    "pt-BR": "Você pode selecionar um novo alvo por {0}."
   },
   {
     "key": "Action/&AssignTargetTitle",
@@ -242,7 +242,7 @@
   {
     "key": "Action/&AttackExecuteDisadvantageDescription",
     "en": "Click to attack the target with disadvantage.",
-    "pt-BR": "Clique para atacar o alvo em desvantagem."
+    "pt-BR": "Clique para atacar o alvo com desvantagem."
   },
   {
     "key": "Action/&AttackIterativeDescription",
@@ -262,7 +262,7 @@
   {
     "key": "Action/&BlockAttackTitle",
     "en": "Block attack",
-    "pt-BR": "Ataque de bloco"
+    "pt-BR": "Bloquear ataque"
   },
   {
     "key": "Action/&CastDescription",
@@ -272,7 +272,7 @@
   {
     "key": "Action/&CastRitualDescription",
     "en": "Cast spell as a ritual (takes 10 minutes, does not use a spell slot).",
-    "pt-BR": "Lance feitiço como um ritual (leva 10 minutos, não usa um espaço de feitiço)."
+    "pt-BR": "Lance feitiço como um ritual (leva 10 minutos, não utiliza slots de magia)."
   },
   {
     "key": "Action/&CastRitualTitle",
@@ -372,7 +372,7 @@
   {
     "key": "Action/&CunningActionDescription",
     "en": "Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash or Disengage action.",
-    "pt-BR": "Começando no 2º nível, seu raciocínio rápido e agilidade permitem que você se mova e aja rapidamente. Você pode realizar uma ação bônus em cada um de seus turnos no combate. Esta ação pode ser usada apenas para executar a ação Dash ou Disengage."
+    "pt-BR": "Começando no 2º nível, seu raciocínio rápido e agilidade permitem que você se mova e aja rapidamente. Você pode realizar uma ação bônus em cada um de seus turnos no combate. Esta ação pode ser usada apenas para executar a ação de Disparada ou Desengajar."
   },
   {
     "key": "Action/&CunningActionTitle",
@@ -382,42 +382,42 @@
   {
     "key": "Action/&DashDescription",
     "en": "When you take the Dash action, you gain extra movement for your current turn. The increase equals your speed, after applying any modifiers.",
-    "pt-BR": "Ao realizar a ação Dash, você ganha movimento extra no seu turno atual. O aumento é igual à sua velocidade, após a aplicação de quaisquer modificadores."
+    "pt-BR": "Ao realizar a ação de Disparada, você ganha movimento extra no seu turno atual. O aumento é igual à sua velocidade, após a aplicação de quaisquer modificadores."
   },
   {
     "key": "Action/&DashTitle",
     "en": "Dash",
-    "pt-BR": "Traço"
+    "pt-BR": "Disparada"
   },
   {
     "key": "Action/&DisengageDescription",
     "en": "If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn.",
-    "pt-BR": "Se você realizar a ação Desengatar, seu movimento não provocará ataques de oportunidade pelo resto do turno."
+    "pt-BR": "Se você realizar a ação Desengajar, seu movimento não provocará ataques de oportunidade pelo resto do turno."
   },
   {
     "key": "Action/&DisengageTitle",
     "en": "Disengage",
-    "pt-BR": "Desengate"
+    "pt-BR": "Desengajar"
   },
   {
     "key": "Action/&DodgeDescription",
     "en": "When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage.",
-    "pt-BR": "Ao realizar a ação Dodge, você se concentra inteiramente em evitar ataques. Até o início de seu próximo turno, qualquer jogada de ataque feita contra você tem desvantagem se você puder ver o atacante e fizer testes de resistência de Destreza com vantagem."
+    "pt-BR": "Ao realizar a ação de Desviar, você se concentra inteiramente em evitar ataques. Até o início de seu próximo turno, qualquer jogada de ataque feita contra você tem desvantagem se você puder ver o atacante e você faz um teste de resistência de Destreza com vantagem."
   },
   {
     "key": "Action/&DodgeTitle",
     "en": "Dodge",
-    "pt-BR": "desviar"
+    "pt-BR": "Desviar"
   },
   {
     "key": "Action/&DropProneDescription",
     "en": "You can drop prone without using any of your speed. To move while prone, you must crawl or use magic such as teleportation. The cost of moving while crawling is doubled. The cost of crawling in difficult terrain, therefore, is tripled. Dropping prone adds the Prone condition: melee attacks against you have advantage, ranged attacks against you have disadvantage, your own attacks have disadvantage.",
-    "pt-BR": "Você pode cair de bruços sem usar sua velocidade. Para se mover deitado, você deve rastejar ou usar magia, como teletransporte. O custo de movimentação durante o rastreamento é dobrado. O custo de rastejar em terrenos difíceis, portanto, é triplicado. Cair de bruços adiciona a condição Prono: ataques corpo a corpo contra você têm vantagem, ataques à distância contra você têm desvantagem, e seus próprios ataques têm desvantagem."
+    "pt-BR": "Você pode cair de bruços sem usar sua velocidade. Para se mover deitado, você deve rastejar ou usar magia, como teletransporte. O custo de movimentação enquanto rasteja é dobrado. O custo de rastejar em terrenos difíceis, entretanto, é triplicado. Cair de bruços adiciona a condição caído: ataques corpo a corpo contra você têm vantagem, ataques à distância contra você têm desvantagem, e seus próprios ataques têm desvantagem."
   },
   {
     "key": "Action/&DropProneTitle",
     "en": "Drop",
-    "pt-BR": "Solta"
+    "pt-BR": "Soltar"
   },
   {
     "key": "Action/&EnemyCreatureTitle",
@@ -462,7 +462,7 @@
   {
     "key": "Action/&HideDescription",
     "en": "When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the rules for hiding. If you succeed, any attack roll made against you has disadvantage and you have advantage on your attacks. This lasts while you remain undetected. You cannot try to hide if you are currently detected.",
-    "pt-BR": "Quando você executa a ação Ocultar, você faz um teste de Destreza (Furtividade) na tentativa de se esconder, seguindo as regras para se esconder. Se você tiver sucesso, qualquer jogada de ataque feita contra você terá desvantagem e você terá vantagem em seus ataques. Isso dura enquanto você não é detectado. Você não pode tentar se esconder se for detectado no momento."
+    "pt-BR": "Quando você executa a ação Ocultar, você faz um teste de Destreza (Furtividade) na tentativa de se esconder, seguindo as regras para se esconder. Se você tiver sucesso, qualquer jogada de ataque feita contra você terá desvantagem e você terá vantagem em seus ataques. Isso dura enquanto você não é detectado. Você não pode tentar se esconder se for detectado."
   },
   {
     "key": "Action/&HideTitle",
@@ -507,7 +507,7 @@
   {
     "key": "Action/&MoveTitle",
     "en": "Move",
-    "pt-BR": "Jogada"
+    "pt-BR": "Mover"
   },
   {
     "key": "Action/&NeutralCreatureTitle",
@@ -617,42 +617,42 @@
   {
     "key": "Alignment/&ChaoticEvilDescription",
     "en": "Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Demons, red dragons, and orcs are chaotic evil.",
-    "pt-BR": "Criaturas do mal caótico (CE) agem com violência arbitrária, estimuladas por sua ganância, ódio ou sede de sangue. Demônios, dragões vermelhos e orcs são o mal caótico."
+    "pt-BR": "Caótico e mal (CM) é a tendência de criaturas que agem com violência arbitrária, estimulada por sua ganância, ódio ou sede de sangue. Demônios, dragões vermelhos e orcs são caóticos e maus."
   },
   {
     "key": "Alignment/&ChaoticEvilTitle",
     "en": "Chaotic Evil",
-    "pt-BR": "Mal caótico"
+    "pt-BR": "caótico e Mal"
   },
   {
     "key": "Alignment/&ChaoticEvilTitleShort",
     "en": "CE",
-    "pt-BR": "CE"
+    "pt-BR": "CM"
   },
   {
     "key": "Alignment/&ChaoticGoodDescription",
     "en": "Chaotic good (CG) creatures act as their conscience directs, with little regard for what others expect. Copper dragons, many elves, and unicorns are chaotic good.",
-    "pt-BR": "Criaturas boas caóticas (CG) agem de acordo com as instruções de sua consciência, com pouca consideração pelo que os outros esperam. Dragões de cobre, muitos elfos e unicórnios são caóticos e bons."
+    "pt-BR": "Caótico e Bom (CB) é a tendência de criaturas que agem de acordo com sua própria consciência, se importando pouco com as expectativas dos outros. Dragões de cobre, muitos elfos e unicórnios são caóticos e bons."
   },
   {
     "key": "Alignment/&ChaoticGoodTitle",
     "en": "Chaotic Good",
-    "pt-BR": "Caótico Bom"
+    "pt-BR": "Caótico e Bom"
   },
   {
     "key": "Alignment/&ChaoticGoodTitleShort",
     "en": "CG",
-    "pt-BR": "CG"
+    "pt-BR": "CB"
   },
   {
     "key": "Alignment/&ChaoticNeutralDescription",
     "en": "Chaotic neutral (CN) creatures follow their whims, holding their personal freedom above all else. Many barbarians and rogues, and some bards, are chaotic neutral.",
-    "pt-BR": "Criaturas neutras caóticas (CN) seguem seus caprichos, mantendo sua liberdade pessoal acima de tudo. Muitos bárbaros e ladinos, e alguns bardos, são caóticos e neutros."
+    "pt-BR": "Caótico e Neutro (CN) é a tendência das criaturas que seguem seus próprios caprichos, mantendo sua liberdade pessoal acima de tudo. Muitos bárbaros e ladinos, e alguns bardos, são caóticos e neutros."
   },
   {
     "key": "Alignment/&ChaoticNeutralTitle",
     "en": "Chaotic Neutral",
-    "pt-BR": "Neutro caótico"
+    "pt-BR": "caótico e Neutro"
   },
   {
     "key": "Alignment/&ChaoticNeutralTitleShort",
@@ -662,42 +662,42 @@
   {
     "key": "Alignment/&LawfulEvilDescription",
     "en": "Lawful evil (LE) creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order. Devils, blue dragons, and hobgoblins are lawful evil.",
-    "pt-BR": "Criaturas lícitas e malignas (LE) tomam metodicamente o que desejam, dentro dos limites de um código de tradição, lealdade ou ordem. Diabos, dragões azuis e hobgoblins são o mal legal."
+    "pt-BR": "Leal e Mau (LM) é a tendência das criaturas que conseguem metodicamente tudo o que querem, dentro dos limites de uma tradição, lei ou ordem. Diabos, dragões azuis e hobgoblins são leais e maus."
   },
   {
     "key": "Alignment/&LawfulEvilTitle",
     "en": "Lawful Evil",
-    "pt-BR": "Mal legal"
+    "pt-BR": "Leal e Mau"
   },
   {
     "key": "Alignment/&LawfulEvilTitleShort",
     "en": "LE",
-    "pt-BR": "LE"
+    "pt-BR": "LM"
   },
   {
     "key": "Alignment/&LawfulGoodDescription",
     "en": "Lawful good (LG) creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.",
-    "pt-BR": "Pode-se esperar que as criaturas leais e boas (LG) façam a coisa certa conforme o esperado pela sociedade. Dragões de ouro, paladinos e a maioria dos anões são leal e bons."
+    "pt-BR": "Leal e Bom (LB) é a tendência de criaturas que se pode contar para fazer que é correto como é esperado pela sociedade. Dragões de ouro, paladinos e a maioria dos anões são leais e bons."
   },
   {
     "key": "Alignment/&LawfulGoodTitle",
     "en": "Lawful Good",
-    "pt-BR": "Bem legal"
+    "pt-BR": "Leal e Bom"
   },
   {
     "key": "Alignment/&LawfulGoodTitleShort",
     "en": "LG",
-    "pt-BR": "LG"
+    "pt-BR": "LB"
   },
   {
     "key": "Alignment/&LawfulNeutralDescription",
     "en": "Lawful neutral (LN) individuals act in accordance with law, tradition, or personal codes. Many monks and some wizards are lawful neutral.",
-    "pt-BR": "Indivíduos legítimos neutros (LN) agem de acordo com a lei, tradição ou códigos pessoais. Muitos monges e alguns magos são lealmente neutros."
+    "pt-BR": "Leal e Neutro (LN) é a tendência dos indivíduos que agem de acordo com as leis, tradições ou códigos pessoais. Muitos monges e alguns magos são leais neutros."
   },
   {
     "key": "Alignment/&LawfulNeutralTitle",
     "en": "Lawful Neutral",
-    "pt-BR": "Legalmente neutro"
+    "pt-BR": "Leal e Neutro"
   },
   {
     "key": "Alignment/&LawfulNeutralTitleShort",
@@ -707,27 +707,27 @@
   {
     "key": "Alignment/&NeutralDescription",
     "en": "Neutral (N) is the alignment of those who prefer to steer clear of moral questions and don't take sides, doing what seems best at the time. Lizardfolk, most druids, and many humans are neutral.",
-    "pt-BR": "Neutro (N) é o alinhamento de quem prefere se afastar de questões morais e não tomar partido, fazendo o que parece melhor na hora. O povo lagarto, a maioria dos druidas e muitos humanos são neutros."
+    "pt-BR": "Neutro (N) é a tendência de quem prefere se afastar de questões morais e não tomar partido, fazendo o que aparenta ser melhor conforme a situação. O povo lagarto, a maioria dos druidas e muitos humanos são neutros."
   },
   {
     "key": "Alignment/&NeutralEvilDescription",
     "en": "Neutral evil (NE) is the alignment of those who do whatever they can get away with, without compassion or qualms. Many drow, some cloud giants, and yugoloths are neutral evil.",
-    "pt-BR": "Mal neutro (NE) é o alinhamento daqueles que fazem tudo o que podem, sem compaixão ou escrúpulos. Muitos drows, alguns gigantes das nuvens e yugoloths são neutros e malignos."
+    "pt-BR": "Neutro e Mal (NM) é a tendência daqueles que farão tudo o que quiserem, sem compaixão ou remorso. Muitos drows, alguns gigantes das nuvens e yugoloths são neutros e maus."
   },
   {
     "key": "Alignment/&NeutralEvilTitle",
     "en": "Neutral Evil",
-    "pt-BR": "Mal Neutro"
+    "pt-BR": "Neutro e Mal"
   },
   {
     "key": "Alignment/&NeutralEvilTitleShort",
     "en": "NE",
-    "pt-BR": "NE"
+    "pt-BR": "NM"
   },
   {
     "key": "Alignment/&NeutralGoodDescription",
     "en": "Neutral good (NG) folk do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good",
-    "pt-BR": "Pessoas neutras e boas (NG) fazem o melhor que podem para ajudar os outros de acordo com suas necessidades. Muitos seres celestiais, alguns gigantes das nuvens e a maioria dos gnomos são neutros e bons"
+    "pt-BR": "Neutro e Bom (NB) é a tendência do povo que faz o melhor que pode para ajudar os outros de acordo com suas necessidades. Muitos seres celestiais, alguns gigantes das nuvens e a maioria dos gnomos são neutros e bons"
   },
   {
     "key": "Alignment/&NeutralGoodTitle",
@@ -737,7 +737,7 @@
   {
     "key": "Alignment/&NeutralGoodTitleShort",
     "en": "NG",
-    "pt-BR": "NG"
+    "pt-BR": "NB"
   },
   {
     "key": "Alignment/&NeutralTitle",
@@ -772,7 +772,7 @@
   {
     "key": "Attribute/&ArmorClassTitle",
     "en": "AC",
-    "pt-BR": "AC"
+    "pt-BR": "CA"
   },
   {
     "key": "Attribute/&AttacksNumberDescription",
@@ -812,7 +812,7 @@
   {
     "key": "Attribute/&CharismaTitle",
     "en": "CHA",
-    "pt-BR": "CHA"
+    "pt-BR": "CAR"
   },
   {
     "key": "Attribute/&CharismaTitleLong",
@@ -852,7 +852,7 @@
   {
     "key": "Attribute/&DexterityTitle",
     "en": "DEX",
-    "pt-BR": "DEX"
+    "pt-BR": "DES"
   },
   {
     "key": "Attribute/&DexterityTitleLong",
@@ -877,17 +877,17 @@
   {
     "key": "Attribute/&HealingPoolTitle",
     "en": "Healing Pool",
-    "pt-BR": "Piscina de cura"
+    "pt-BR": "reserva de cura"
   },
   {
     "key": "Attribute/&HitDiceDescription",
     "en": "The number of hit dice the character has earned through class advancement, which can be used to recover health during rest time.",
-    "pt-BR": "O número de dados de vida que o personagem ganhou através do avanço de classe, que pode ser usado para recuperar a saúde durante o tempo de descanso."
+    "pt-BR": "O número de dados de vida que o personagem ganhou através do avanço de classe, pode ser usado para recuperar a saúde durante o descanso."
   },
   {
     "key": "Attribute/&HitDiceTitle",
     "en": "Hit Dice",
-    "pt-BR": "Dados de sucesso"
+    "pt-BR": "Dado de Vida"
   },
   {
     "key": "Attribute/&HitPointBonusPerLevelDescription",
@@ -922,7 +922,7 @@
   {
     "key": "Attribute/&IntelligenceDescription",
     "en": "Intelligence measures mental acuity, accuracy of recall, and the ability to reason.\\nImportant for: Wizard.",
-    "pt-BR": "A inteligência mede a acuidade mental, a precisão da memória e a capacidade de raciocinar.\\nImportante para: Mago."
+    "pt-BR": "A inteligência mede a perspicácia mental, a precisão da memória e a capacidade de raciocinar.\\nImportante para: Mago."
   },
   {
     "key": "Attribute/&IntelligenceTitle",
@@ -962,7 +962,7 @@
   {
     "key": "Attribute/&ProficiencyBonusDescription",
     "en": "The proficiency bonus is a character-wide bonus, added to rolls where you are proficient: attack rolls with proficient weapons, proficient skill or tool checks, proficient saving throws, and the attack bonus and save difficulty of your magical attacks. The proficiency bonus is incremented at levels 5, 9, 13, and 17, representing the growing expertise of your character in these attacks, skill/tool checks, saving throws, and magical abilities.",
-    "pt-BR": "O bônus de proficiência é um bônus de todo o personagem, adicionado às jogadas onde você é proficiente: jogadas de ataque com armas proficientes, testes de habilidade ou ferramenta proficientes, testes de resistência proficientes e o bônus de ataque e dificuldade de resistência de seus ataques mágicos. O bônus de proficiência é incrementado nos níveis 5, 9, 13 e 17, representando a crescente perícia de seu personagem nesses ataques, testes de habilidade / ferramenta, testes de resistência e habilidades mágicas."
+    "pt-BR": "O bônus de proficiência é um bônus de todos os personagem possuem, adicionado às jogadas onde você é proficiente: jogadas de ataque com armas proficientes, testes de habilidade ou ferramenta proficientes, testes de resistência proficientes e o bônus de ataque e dificuldade de resistência de seus ataques mágicos. O bônus de proficiência é incrementado nos níveis 5, 9, 13 e 17, representando a crescente perícia de seu personagem nesses ataques, testes de habilidade / ferramenta, testes de resistência e habilidades mágicas."
   },
   {
     "key": "Attribute/&ProficiencyBonusTitle",
@@ -1022,7 +1022,7 @@
   {
     "key": "Attribute/&StrengthTitle",
     "en": "STR",
-    "pt-BR": "STR"
+    "pt-BR": "FOR"
   },
   {
     "key": "Attribute/&StrengthTitleLong",
@@ -1032,47 +1032,47 @@
   {
     "key": "Attribute/&TagBackgroundCantripTitle",
     "en": "Background Cantrip",
-    "pt-BR": "Cantrip de fundo"
+    "pt-BR": "Truque de antecedente"
   },
   {
     "key": "Attribute/&TagBackgroundExpertiseTitle",
     "en": "Background Expertise",
-    "pt-BR": "Experiência de fundo"
+    "pt-BR": "Experiência de antecedente"
   },
   {
     "key": "Attribute/&TagBackgroundFeatTitle",
     "en": "Background Feats",
-    "pt-BR": "Talentos de fundo"
+    "pt-BR": "Talentos de antecedente"
   },
   {
     "key": "Attribute/&TagBackgroundLanguageTitle",
     "en": "Background Languages",
-    "pt-BR": "Línguas de fundo"
+    "pt-BR": "Línguas de Antecedente"
   },
   {
     "key": "Attribute/&TagBackgroundSkillTitle",
     "en": "Background Skills",
-    "pt-BR": "Habilidades básicas"
+    "pt-BR": "Habilidades de antecedentes"
   },
   {
     "key": "Attribute/&TagBackgroundSpellTitle",
     "en": "Background Spells",
-    "pt-BR": "Feitiços de fundo"
+    "pt-BR": "Feitiços de antecedentes"
   },
   {
     "key": "Attribute/&TagBackgroundToolTypeTitle",
     "en": "Background Tools",
-    "pt-BR": "Ferramentas de fundo"
+    "pt-BR": "Ferramentas de antecedentes"
   },
   {
     "key": "Attribute/&TagClassCantripTitle",
     "en": "Class Cantrips",
-    "pt-BR": "Classe Cantrips"
+    "pt-BR": "Trques de Classe"
   },
   {
     "key": "Attribute/&TagClassExpertiseTitle",
     "en": "Class Expertise",
-    "pt-BR": "Experiência de aula"
+    "pt-BR": "Péricias de Classe"
   },
   {
     "key": "Attribute/&TagClassFeatTitle",
@@ -1082,12 +1082,12 @@
   {
     "key": "Attribute/&TagClassLanguageTitle",
     "en": "Class Language",
-    "pt-BR": "Língua da aula"
+    "pt-BR": "Línguas de classe"
   },
   {
     "key": "Attribute/&TagClassSkillTitle",
     "en": "Class Skills",
-    "pt-BR": "Habilidades de aula"
+    "pt-BR": "Habilidades de classe"
   },
   {
     "key": "Attribute/&TagClassSpellTitle",
@@ -1102,7 +1102,7 @@
   {
     "key": "Attribute/&TagRaceCantripTitle",
     "en": "Ancestry Cantrips",
-    "pt-BR": "Ancestry Cantrips"
+    "pt-BR": "Truques de ancestralidade"
   },
   {
     "key": "Attribute/&TagRaceExpertiseTitle",
@@ -1117,7 +1117,7 @@
   {
     "key": "Attribute/&TagRaceLanguageTitle",
     "en": "Ancestry Languages",
-    "pt-BR": "Línguas ancestrais"
+    "pt-BR": "Línguas de ancestralidade"
   },
   {
     "key": "Attribute/&TagRaceSkillTitle",
@@ -1127,17 +1127,17 @@
   {
     "key": "Attribute/&TagRaceSpellTitle",
     "en": "Ancestry Spells",
-    "pt-BR": "Feitiços de Ancestrais"
+    "pt-BR": "Feitiços de ancestralidade"
   },
   {
     "key": "Attribute/&TagRaceToolTypeTitle",
     "en": "Ancestry Tools",
-    "pt-BR": "Ferramentas Ancestrais"
+    "pt-BR": "Ferramentas de ancestralidade"
   },
   {
     "key": "Attribute/&TagSubclassCantripTitle",
     "en": "Subclass Cantrips",
-    "pt-BR": "Subclasse Cantrips"
+    "pt-BR": "Truques da Subclasse"
   },
   {
     "key": "Attribute/&TagSubclassExpertiseTitle",
@@ -1177,7 +1177,7 @@
   {
     "key": "Attribute/&WisdomTitle",
     "en": "WIS",
-    "pt-BR": "WIS"
+    "pt-BR": "SAB"
   },
   {
     "key": "Attribute/&WisdomTitleLong",
@@ -1212,7 +1212,7 @@
   {
     "key": "Background/&AristocratTitle",
     "en": "Aristocrat",
-    "pt-BR": "Aristocrata"
+    "pt-BR": "Nobre"
   },
   {
     "key": "Background/&KS_GarradMilesBackground_Description",
@@ -1222,7 +1222,7 @@
   {
     "key": "Background/&KS_GarradMilesBackground_Title",
     "en": "Sellsword",
-    "pt-BR": "Sellsword"
+    "pt-BR": "Mercenário"
   },
   {
     "key": "Background/&KS_RhuadSwiftHandBackground_Description",
@@ -1262,7 +1262,7 @@
   {
     "key": "Background/&LawkeeperTitle",
     "en": "Lawkeeper",
-    "pt-BR": "Lawkeeper"
+    "pt-BR": "Protetor da lei"
   },
   {
     "key": "Background/&LowlifeDescription",
@@ -1272,7 +1272,7 @@
   {
     "key": "Background/&LowLifeTitle",
     "en": "Lowlife",
-    "pt-BR": "Lowlife"
+    "pt-BR": "Criança de Rua"
   },
   {
     "key": "Background/&PhilosopherDescription",
@@ -1292,7 +1292,7 @@
   {
     "key": "Background/&SellswordTitle",
     "en": "Sellsword",
-    "pt-BR": "Sellsword"
+    "pt-BR": "Mercenário"
   },
   {
     "key": "Background/&SpecialtyDescription",
@@ -1452,7 +1452,7 @@
   {
     "key": "BodyColor/&EyesHazelTitle",
     "en": "Hazel",
-    "pt-BR": "Hazel"
+    "pt-BR": "castanho dourado"
   },
   {
     "key": "BodyColor/&EyesLavenderTitle",
@@ -1672,12 +1672,12 @@
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto1",
     "en": "Waiting for Lord Carran",
-    "pt-BR": "Esperando por Lord Carran"
+    "pt-BR": "Esperando pelo Lorde Carran"
   },
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto2",
     "en": "Another Round",
-    "pt-BR": "Outro round"
+    "pt-BR": "Outra rodada"
   },
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto3",
@@ -1687,7 +1687,7 @@
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto4",
     "en": "Lord Carran Finally Arrives",
-    "pt-BR": "Lord Carran finalmente chega"
+    "pt-BR": "Lorde Carran finalmente chega"
   },
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_DialogTitle_Annie01",
@@ -1697,12 +1697,12 @@
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_DialogTitle_Annie02",
     "en": "The Scavengers",
-    "pt-BR": "The Scavengers"
+    "pt-BR": "os necrófagos"
   },
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem01",
     "en": "The Outpost",
-    "pt-BR": "The Outpost"
+    "pt-BR": "O posto avançado"
   },
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem02",
@@ -1807,12 +1807,12 @@
   {
     "key": "Campaign/&CrownOfTheMagisterDescription",
     "en": "The new realms of Solasta turn their eyes towards the Badlands and its treasures, but war isn't the only threat looming over the Principality of Masgarth.",
-    "pt-BR": "Os novos reinos de Solasta voltam seus olhos para Badlands e seus tesouros, mas a guerra não é a única ameaça que paira sobre o Principado de Masgarth."
+    "pt-BR": "Os novos reinos de Solasta voltam seus olhos para as terras baldias e seus tesouros, mas a guerra não é a única ameaça que paira sobre o Principado de Masgarth."
   },
   {
     "key": "Campaign/&CrownOfTheMagisterIntroduction1",
     "en": "It is the year 1024 after the Cataclysm. New states have arisen around the Badlands and crave its treasures.",
-    "pt-BR": "É o ano de 1024 após o Cataclismo. Novos estados surgiram em torno de Badlands e anseiam por seus tesouros."
+    "pt-BR": "É o ano de 1024 após o Cataclismo. Novos estados surgiram em torno das terras baldias e anseiam por seus tesouros."
   },
   {
     "key": "Campaign/&CrownOfTheMagisterIntroduction2",
@@ -1822,7 +1822,7 @@
   {
     "key": "Campaign/&CrownOfTheMagisterIntroduction3",
     "en": "The Legacy Council is formed, to ensure that this knowledge is shared. It issues a call for agents to explore the Badlands in its name.",
-    "pt-BR": "O Legacy Council é formado, para garantir que esse conhecimento seja compartilhado. Ele emite uma chamada para agentes explorarem Badlands em seu nome."
+    "pt-BR": "O Conselho de Legado é formado, para garantir que esse conhecimento seja compartilhado. Ele emite uma chamada para agentes explorarem as terras baldias em seu nome."
   },
   {
     "key": "Campaign/&CrownOfTheMagisterIntroduction4",
@@ -1832,7 +1832,7 @@
   {
     "key": "Campaign/&CrownOfTheMagisterJournalStart",
     "en": "A group of adventurers gathers at the Gravekeep's Cask Inn, waiting for the instructions of the Legacy Council. The party has {0} members.",
-    "pt-BR": "Um grupo de aventureiros se reúne na pousada do Gravekeep's Cask, esperando as instruções do Conselho de Legado. A festa tem {0} membros."
+    "pt-BR": "Um grupo de aventureiros se reúne na pousada do Gravekeep's Cask, esperando as instruções do Conselho de Legado. O grupo tem {0} membros."
   },
   {
     "key": "Campaign/&CrownOfTheMagisterTitle",
@@ -1977,7 +1977,7 @@
   {
     "key": "Caption/&ShoveTargetTooBigCaption",
     "en": "Target is too big for this creature to shove",
-    "pt-BR": "O alvo é muito grande para esta criatura empurrar"
+    "pt-BR": "O alvo é muito grande para ser empurrada"
   },
   {
     "key": "Caption/&TargetAwakenDescription",
@@ -2117,17 +2117,17 @@
   {
     "key": "CharacterFamily/&FeyDescription",
     "en": "Fey are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests.",
-    "pt-BR": "Fey são criaturas mágicas intimamente ligadas às forças da natureza. Eles moram em bosques crepusculares e florestas enevoadas."
+    "pt-BR": "Fadas são criaturas mágicas intimamente ligadas às forças da natureza. Eles moram em bosques crepusculares e florestas enevoadas."
   },
   {
     "key": "CharacterFamily/&FeyTitle",
     "en": "Fey",
-    "pt-BR": "Fey"
+    "pt-BR": "Fada"
   },
   {
     "key": "CharacterFamily/&FiendDescription",
     "en": "Fiends are creatures of wickedness that are native to the Lower Planes. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable.",
-    "pt-BR": "Os demônios são criaturas perversas, nativas dos Planos Inferiores. Alguns são servos de divindades, mas muitos mais trabalham sob a liderança de arquidevios e príncipes demoníacos. Sacerdotes e magos malignos às vezes convocam demônios ao mundo material para cumprir suas ordens. Se um mal celestial é uma raridade, um demônio bom é quase inconcebível."
+    "pt-BR": "Os demônios são criaturas perversas, nativas dos Planos Inferiores. Alguns são servos de divindades, mas muitos mais trabalham sob a liderança de arquidiabos e príncipes demoníacos. Sacerdotes e magos malignos às vezes convocam demônios ao mundo material para cumprir suas ordens. Se um mal celestial é uma raridade, um demônio bom é quase inconcebível."
   },
   {
     "key": "CharacterFamily/&FiendTitle",
@@ -2137,7 +2137,7 @@
   {
     "key": "CharacterFamily/&GiantDescription",
     "en": "Giants tower over humans and their kind. They are humanlike in shape, though some have multiple heads or deformities. The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.",
-    "pt-BR": "Gigantes se elevam sobre os humanos e sua espécie. Eles são de forma humana, embora alguns tenham várias cabeças ou deformidades. As seis variedades do verdadeiro gigante são gigantes das colinas, gigantes da pedra, gigantes do gelo, gigantes do fogo, gigantes das nuvens e gigantes da tempestade. Além disso, criaturas como ogros e trolls são gigantes."
+    "pt-BR": "Os gigantes sobre os humanos e a sua espécie. São de forma humana, embora alguns tenham múltiplas cabeças ou deformidades. As seis variedades de verdadeiro gigante são gigantes das colinas, gigantes de pedra, gigantes da geada, gigantes do fogo, gigantes das nuvens, e gigantes da tempestade. Além destes, criaturas como os ogros e os trolls são gigantes."
   },
   {
     "key": "CharacterFamily/&GiantTitle",
@@ -2157,7 +2157,7 @@
   {
     "key": "CharacterFamily/&MonstrosityDescription",
     "en": "Monstrosities are monsters in the strictest sense - frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of magical experimentation gone awry, and others are the product of terrible curses. They defy categorization, and in some sense serve as a catch-all category for creatures that don't fit into any other type.",
-    "pt-BR": "Monstrosidades são monstros no sentido mais estrito - criaturas assustadoras que não são comuns, não são verdadeiramente naturais e quase nunca são benignas. Alguns são resultados de experiências mágicas que deram errado e outros são produto de maldições terríveis. Eles desafiam a categorização e, em certo sentido, servem como uma categoria abrangente para criaturas que não se encaixam em nenhum outro tipo."
+    "pt-BR": "Monstrosidades são monstros no sentido literal da palavra - criaturas assustadoras que não são comuns, não são verdadeiramente naturais e quase nunca são benignas. Alguns são resultados de experiências mágicas que deram errado e outros são produto de maldições terríveis. Eles desafiam a categorização e, em certo sentido, servem como uma categoria abrangente para criaturas que não se encaixam em nenhum outro tipo."
   },
   {
     "key": "CharacterFamily/&MonstrosityTitle",
@@ -2177,12 +2177,12 @@
   {
     "key": "CharacterFamily/&PlantDescription",
     "en": "Plants in this context are vegetable creatures, not ordinary flora. Most of them are ambulatory, and some are carnivorous. The quintessential plants are the shambling mound and the treant. Fungal creatures also fall into this category.",
-    "pt-BR": "As plantas, neste contexto, são criaturas vegetais, não uma flora comum. A maioria deles é ambulante e alguns são carnívoros. As plantas quintessenciais são o monte cambaleante e o treant. As criaturas fúngicas também se enquadram nesta categoria."
+    "pt-BR": "As plantas, neste contexto, são criaturas vegetais, não uma flora comum. A maioria deles é ambulante e algumas são carnívoras. As plantas quintessenciais são o monte cambaleante e o treant. As criaturas fúngicas também se enquadram nesta categoria."
   },
   {
     "key": "CharacterFamily/&PlantTitle",
     "en": "Plant",
-    "pt-BR": "Plantar"
+    "pt-BR": "Planta"
   },
   {
     "key": "CharacterFamily/&UndeadDescription",
@@ -2252,7 +2252,7 @@
   {
     "key": "CharacterInteraction/&StartLongRestDescription",
     "en": "Click to start a long rest for the party.",
-    "pt-BR": "Clique para iniciar um longo descanso para a festa."
+    "pt-BR": "Clique para o grup iniciar umlongo descanso."
   },
   {
     "key": "CharacterInteraction/&TriggerTrapDescription",
@@ -2287,12 +2287,12 @@
   {
     "key": "Class/&FighterDescription",
     "en": "Fighters are trained in the arts of combat. They are adept with most weapons, but often choose to specialize. All fighters can use armor, shields, and ranged weapons.",
-    "pt-BR": "Os lutadores são treinados nas artes do combate. Eles são adeptos da maioria das armas, mas geralmente optam por se especializar. Todos os lutadores podem usar armaduras, escudos e armas de longo alcance."
+    "pt-BR": "Os guerreiros são treinados nas artes do combate. Eles são adeptos da maioria das armas, mas geralmente optam por se especializar. Todos os lutadores podem usar armaduras, escudos e armas de longo alcance."
   },
   {
     "key": "Class/&FighterTitle",
     "en": "Fighter",
-    "pt-BR": "Lutador"
+    "pt-BR": "Guerreiro"
   },
   {
     "key": "Class/&PaladinDescription",
@@ -2307,22 +2307,22 @@
   {
     "key": "Class/&RangerDescription",
     "en": "Wanderers of Solasta's wilderness, rangers are trained survivalists, fierce in battle, and stealthy hunters. Excellent trackers and archers, they also have some spellcasting ability.",
-    "pt-BR": "Wanderers da selva de Solasta, os rangers são sobreviventes treinados, ferozes na batalha e caçadores furtivos. Excelentes rastreadores e arqueiros, eles também têm alguma habilidade de lançar feitiços."
+    "pt-BR": "Andarilhos da selva de Solasta, os Patrulheiros são sobreviventes treinados, ferozes na batalha e caçadores furtivos. Excelentes rastreadores e arqueiros, eles também têm alguma habilidade de lançar feitiços."
   },
   {
     "key": "Class/&RangerTitle",
     "en": "Ranger",
-    "pt-BR": "guarda-florestal"
+    "pt-BR": "Patrulheiro"
   },
   {
     "key": "Class/&RogueDescription",
     "en": "Rogues are versatile first and foremost. They use their natural talents to master various skills and find their own way to thrive. Generally resourceful, they are known for their cunning and their ability to launch deadly sneak attacks.",
-    "pt-BR": "Rogues são versáteis em primeiro lugar. Eles usam seus talentos naturais para dominar várias habilidades e encontrar sua própria maneira de prosperar. Geralmente engenhosos, eles são conhecidos por sua astúcia e capacidade de lançar ataques furtivos mortais."
+    "pt-BR": "Ladinos são versáteis em primeiro lugar. Eles usam seus talentos naturais para dominar várias habilidades e encontrar sua própria maneira de prosperar. Geralmente engenhosos, eles são conhecidos por sua astúcia e capacidade de lançar ataques furtivos mortais."
   },
   {
     "key": "Class/&RogueTitle",
     "en": "Rogue",
-    "pt-BR": "Por conta própria"
+    "pt-BR": "Ladino"
   },
   {
     "key": "Class/&WizardDescription",
@@ -2342,7 +2342,7 @@
   {
     "key": "Deity/&ArunTitle",
     "en": "Arun",
-    "pt-BR": "Uma corrida"
+    "pt-BR": "Arun"
   },
   {
     "key": "Deity/&EinarDescription",
@@ -2357,7 +2357,7 @@
   {
     "key": "Deity/&MaraikeDescription",
     "en": "The goddess of life and death, the patron of healers and embalmers, and the embodiment of universal duality. Traditionally, she is Arun's wife. Her cult consists of two orders:\\nThe Order of Life Regnant travels the land as healers and defenders. They worship the healing, motherly aspect of Maraike.\\nThe Order of Oblivion is an order of avengers and embalmers. Where evil tries to pervert the cycle of life and death, the Order ensures that the culprits are dealt with, and their undead victims returned to their rest. ",
-    "pt-BR": "A deusa da vida e da morte, a patrona dos curandeiros e embalsamadores e a personificação da dualidade universal. Tradicionalmente, ela é a esposa de Arun. Seu culto consiste em duas ordens:\\nA Ordem da Vida Regnant viaja pela terra como curandeiros e defensores. Eles adoram o aspecto curador e maternal de Maraike.\\nA Ordem do Esquecimento é uma ordem de vingadores e embalsamadores. Onde o mal tenta perverter o ciclo de vida e morte, a Ordem garante que os culpados sejam tratados e suas vítimas mortas-vivas retornem ao seu descanso."
+    "pt-BR": "A deusa da vida e da morte, a patrona dos curandeiros e embalsamadores e a personificação da dualidade universal. Tradicionalmente, ela é a esposa de Arun. Seu culto consiste em duas ordens:\\nA Ordem da Vida Regente viaja pela terra como curandeiros e defensores. Eles adoram o aspecto curador e maternal de Maraike.\\nA Ordem do Esquecimento é uma ordem de vingadores e embalsamadores. Onde o mal tenta perverter o ciclo de vida e morte, a Ordem garante que os culpados sejam tratados e suas vítimas mortas-vivas retornem ao seu descanso."
   },
   {
     "key": "Deity/&MaraikeTitle",
@@ -2367,7 +2367,7 @@
   {
     "key": "Deity/&MisayeDescription",
     "en": "The goddess of mischief, protector of rogues and swindlers, and patron of all those who chafe against rules and enjoy a little chaos. \\nPriests of Misaye seldom live a relaxing life. Usually, they are one step ahead of the law - if they are lucky! Many lead a double life - normal citizens by day and priests of Misaye by night - because the cult of Misaye is outlawed in many nations and barely tolerated in most others.",
-    "pt-BR": "A deusa da travessura, protetora de malandros e vigaristas e patrona de todos aqueles que se irritam com as regras e desfrutam de um pouco de caos.\\nOs padres de Misaye raramente vivem uma vida relaxante. Normalmente, eles estão um passo à frente da lei - se tiverem sorte! Muitos levam uma vida dupla - cidadãos normais durante o dia e sacerdotes de Misaye à noite - porque o culto de Misaye é proibido em muitas nações e mal tolerado na maioria das outras."
+    "pt-BR": "A deusa da travessura, protetora de malandros e vigaristas e patrona de todos aqueles que se irritam com as regras e desfrutam de um pouco de caos.\\nOs sacerdotes de Misaye raramente vivem uma vida relaxante. Normalmente, eles estão um passo à frente da lei - se tiverem sorte! Muitos levam uma vida dupla - cidadãos normais durante o dia e sacerdotes de Misaye à noite - porque o culto de Misaye é proibido em muitas nações e mal tolerado na maioria das outras."
   },
   {
     "key": "Deity/&MisayeTitle",
@@ -2377,7 +2377,7 @@
   {
     "key": "Deity/&PakriDescription",
     "en": "The goddess of law and knowledge and patron of judges and lawyers, teachers, librarians, and scholars.\\nShe gifted humans with the thirst for knowledge so they could learn and develop their society, and the law which preserves civilization. Her clergy is divided into two orders: The Order of the Book includes the most learned lawyer-priests in the world. The Order of the Owl sends its members across the land to help those in need of protection and justice.",
-    "pt-BR": "A deusa da lei e do conhecimento e patrona de juízes e advogados, professores, bibliotecários e acadêmicos.\\nEla deu aos humanos a sede de conhecimento para que pudessem aprender e desenvolver sua sociedade e a lei que preserva a civilização. Seu clero está dividido em duas ordens: A Ordem do Livro inclui os advogados-padres mais eruditos do mundo. A Ordem da Coruja envia seus membros por todo o país para ajudar aqueles que precisam de proteção e justiça."
+    "pt-BR": "A deusa da lei e do conhecimento e patrona dos juízes e advogados, professores, bibliotecários e acadêmicos.\\nEla deu aos humanos a sede de conhecimento para que pudessem aprender e desenvolver sua sociedade e a lei que preserva a civilização. Seu clero está dividido em duas ordens: A Ordem do Livro inclui os advogados-padres mais eruditos do mundo. A Ordem da Coruja envia seus membros por todo o país para ajudar aqueles que precisam de proteção e justiça."
   },
   {
     "key": "Deity/&PakriTitle",
@@ -2387,7 +2387,7 @@
   {
     "key": "DialogFlags/&Authority_Description",
     "en": "A tendency to enforce rules and beliefs with authority and leadership.",
-    "pt-BR": "A tendência de fazer cumprir regras e crenças com autoridade e liderança."
+    "pt-BR": "A tendência para impor regras e crenças com autoridade e liderança."
   },
   {
     "key": "DialogFlags/&Authority_Title",
@@ -2397,7 +2397,7 @@
   {
     "key": "DialogFlags/&Cynicism_Description",
     "en": "A tendency to scoff at principles and values.",
-    "pt-BR": "Uma tendência para zombar de princípios e valores."
+    "pt-BR": "A tendência de zombar de princípios e valores."
   },
   {
     "key": "DialogFlags/&Cynicism_Title",
@@ -2427,7 +2427,7 @@
   {
     "key": "DialogFlags/&Greed_Description",
     "en": "A tendency to value wealth and comfort above all else.",
-    "pt-BR": "Uma tendência a valorizar a riqueza e o conforto acima de tudo."
+    "pt-BR": "A tendência de valorizar a riqueza e o conforto acima de tudo."
   },
   {
     "key": "DialogFlags/&Greed_Title",
@@ -2437,7 +2437,7 @@
   {
     "key": "DialogFlags/&Helpfulness_Description",
     "en": "A tendency to always try to help those in need.",
-    "pt-BR": "Uma tendência de sempre tentar ajudar quem precisa."
+    "pt-BR": "A tendência de sempre tentar ajudar quem precisa."
   },
   {
     "key": "DialogFlags/&Helpfulness_Title",
@@ -2487,7 +2487,7 @@
   {
     "key": "DialogFlags/&SelfPreservation_Description",
     "en": "A tendency to take care of one's own safety above all.",
-    "pt-BR": "Uma tendência a zelar pela própria segurança acima de tudo."
+    "pt-BR": "A tendência a zelar pela própria segurança acima de tudo."
   },
   {
     "key": "DialogFlags/&SelfPreservation_Title",
@@ -2567,7 +2567,7 @@
   {
     "key": "EffectProxy/&ProxyFlamingSphereDescription",
     "en": "Move the sphere up to 6 cells or slam it into an opponent",
-    "pt-BR": "Mova a esfera até 6 células ou bata em um oponente"
+    "pt-BR": "Mova a esfera até 6 células ou atinja um oponente"
   },
   {
     "key": "EffectProxy/&ProxyFlamingSphereTitle",
@@ -2607,7 +2607,7 @@
   {
     "key": "EffectProxy/&ProxyWallOfFireDescription",
     "en": "A burning wall that injures creatures in or next to it.",
-    "pt-BR": "Uma parede em chamas que fere criaturas dentro ou ao lado dela."
+    "pt-BR": "Uma parede de chamas que fere criaturas dentro ou ao lado dela."
   },
   {
     "key": "EffectProxy/&ProxyWindWallDescription",
@@ -2627,7 +2627,7 @@
   {
     "key": "Encounter/&Abjuration_Ruins01_EncounterDescription",
     "en": "As you traveled through the Badlands towards Coparann, Kythaela asked you to stop near an old ruin…",
-    "pt-BR": "Enquanto você viajava por Badlands em direção a Coparann, Kythaela pediu que você parasse perto de uma velha ruína ..."
+    "pt-BR": "Enquanto você viajava pelas terras baldias em direção a Coparann, Kythaela pediu que você parasse perto de uma velha ruína ..."
   },
   {
     "key": "Encounter/&Abjuration_Ruins01_EncounterTitle",
@@ -2652,7 +2652,7 @@
   {
     "key": "Encounter/&BadlandsSpidersEncounterTitle",
     "en": "Badlands Spiders",
-    "pt-BR": "Badlands Spiders"
+    "pt-BR": "aranha das terras baldias"
   },
   {
     "key": "Encounter/&BanditsEncounterDescription",
@@ -2687,7 +2687,7 @@
   {
     "key": "Encounter/&EagleNestEncounterTitle",
     "en": "Eagle Nest",
-    "pt-BR": "Eagle Nest"
+    "pt-BR": "Ninho de Águia"
   },
   {
     "key": "Encounter/&FlyingSnakesEncounterDescription",
@@ -2697,7 +2697,7 @@
   {
     "key": "Encounter/&FlyingSnakesEncounterTitle",
     "en": "Brimstone Vipers",
-    "pt-BR": "Brimstone Vipers"
+    "pt-BR": "Víbora de enxofre"
   },
   {
     "key": "Encounter/&GoblinCrusadersDescription",
@@ -2707,7 +2707,7 @@
   {
     "key": "Encounter/&GoblinCrusadersTitle",
     "en": "Goblin Crusade",
-    "pt-BR": "Goblin Crusade"
+    "pt-BR": "Goblin Cruzado"
   },
   {
     "key": "Encounter/&GoblinhuntingpartyEncounterDescription",
@@ -2717,7 +2717,7 @@
   {
     "key": "Encounter/&GoblinhuntingpartyEncounterTitle",
     "en": "Goblin Hunting Party",
-    "pt-BR": "Goblin Hunting Party"
+    "pt-BR": "Goblin Cançando em Grupo"
   },
   {
     "key": "Encounter/&GoblinWarPartyDescription",
@@ -2727,7 +2727,7 @@
   {
     "key": "Encounter/&GoblinWarPartyTitle",
     "en": "Goblin War Party",
-    "pt-BR": "Goblin War Party"
+    "pt-BR": "Goblin Bando de Guerra"
   },
   {
     "key": "Encounter/&OrcMaraudersTitle",
@@ -2752,12 +2752,12 @@
   {
     "key": "Encounter/&WinterWolfpackEncounterTitle",
     "en": "Winter Wolf and Pack",
-    "pt-BR": "Winter Wolf e Pack"
+    "pt-BR": "Lobo de Inverno e Alcateia"
   },
   {
     "key": "Encounter/&WolfpackEncounterDescription",
     "en": "A pack of ravenous wolves, desperate for a kill.",
-    "pt-BR": "Uma matilha de lobos vorazes, desesperados por uma morte."
+    "pt-BR": "Uma Alcateia de lobos vorazes, desesperados por uma morte."
   },
   {
     "key": "Encounter/&WolfpackEncounterTitle",
@@ -2817,7 +2817,7 @@
   {
     "key": "Equipment/&Abjuration_MonasteryJournal_Content2",
     "en": "Strange beasts roam the night, but for some reason they do not dare to enter our valley.\\n\\nI buried my daughter last night. She died as much from despair as from the rockslide and the earthquake. Now, I wait for my own end.\\n\\nTraveler - if you read this, say a prayer for our souls, for I cannot. I reject the gods whose folly brought us here! I curse them all!\\n\\nThe beasts have grown bolder, but they still avoid our valley. A pity, since I could use the meat. I am surviving on grain and vegetables, but solitude makes for hard labor and my strength is not what it was.",
-    "pt-BR": "Animais estranhos vagam pela noite, mas por algum motivo eles não se atrevem a entrar em nosso vale.\\n\\nEu enterrei minha filha ontem à noite. Ela morreu tanto de desespero quanto do deslizamento de rochas e do terremoto. Agora, espero pelo meu próprio fim.\\n\\nTraveler - se você ler isto, faça uma oração por nossas almas, pois eu não posso. Rejeito os deuses cuja loucura nos trouxe aqui! Eu amaldiçoo todos eles!\\n\\nAs feras ficaram mais ousadas, mas ainda evitam nosso vale. Uma pena, já que eu poderia usar a carne. Estou sobrevivendo com grãos e vegetais, mas a solidão me dá muito trabalho e minha força não é o que era."
+    "pt-BR": "Animais estranhos vagam pela noite, mas por algum motivo eles não se atrevem a entrar em nosso vale.\\n\\nEu enterrei minha filha ontem à noite. Ela morreu tanto de desespero quanto pelo deslizamento das rochas e do terremoto. Agora, espero pelo meu próprio fim.\\n\\nTraveler - se você ler isto, faça uma oração por nossas almas, pois eu não posso. Rejeito os deuses cuja loucura nos trouxe aqui! Eu amaldiçoo todos eles!\\n\\nAs feras ficaram mais ousadas, mas ainda evitam nosso vale. Uma pena, já que eu poderia usar a carne. Estou sobrevivendo com grãos e vegetais, mas a solidão me dá muito trabalho e minha força já não é como foi um dia."
   },
   {
     "key": "Equipment/&Abjuration_MonasteryJournal_Content3",
@@ -2832,7 +2832,7 @@
   {
     "key": "Equipment/&Abjuration_MonasteryJournal_Title",
     "en": "Journal of Emtan Darwaz",
-    "pt-BR": "Journal of Emtan Darwaz"
+    "pt-BR": "Diário de Emtan Darwaz"
   },
   {
     "key": "Equipment/&AmmoPackFormat",
@@ -2857,7 +2857,7 @@
   {
     "key": "Equipment/&ArcaneFocusGeneralDescription",
     "en": "A sorcerer, warlock, or wizard can use this kind of item as a spellcasting focus.",
-    "pt-BR": "Um feiticeiro, feiticeiro ou mago pode usar esse tipo de item como foco de conjuração."
+    "pt-BR": "Um feiticeiro, bruxo ou mago pode usar esse tipo de item como foco de conjuração."
   },
   {
     "key": "Equipment/&ArcaneFocusOrbTitle",
@@ -2912,12 +2912,12 @@
   {
     "key": "Equipment/&Armor_ChainShirtDescription",
     "en": "Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.",
-    "pt-BR": "Feita de anéis de metal entrelaçados, uma camisa de corrente é usada entre as camadas de roupas ou couro. Esta armadura oferece proteção modesta para a parte superior do corpo do usuário e permite que o som dos anéis esfregando um contra o outro seja abafado pelas camadas externas."
+    "pt-BR": "Feito de anéis de metal intercalados, um camisão de cota de malha é usado entre as camadas de roupa. Essa armadura oferece proteção modesta para a parte superior do corpo de quem a usa e permite que o som dos anéis de metal, friccionados uns contra os outros, sejam amortecidos pelas camadas exteriores."
   },
   {
     "key": "Equipment/&Armor_ChainShirtTitle",
     "en": "Chain Shirt",
-    "pt-BR": "Camisa de corrente"
+    "pt-BR": "Camisão de malha"
   },
   {
     "key": "Equipment/&Armor_Commoner_ClothesDescription",
@@ -2927,17 +2927,17 @@
   {
     "key": "Equipment/&Armor_Commoner_ClothesTitle",
     "en": "Commoner's Clothing",
-    "pt-BR": "Roupas do Plebeu"
+    "pt-BR": "Roupas de Plebeu"
   },
   {
     "key": "Equipment/&Armor_Dwarven_HalfPlateDescription",
     "en": "Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps. This armor is decorated in the dwarven style.",
-    "pt-BR": "A meia placa consiste em placas de metal moldadas que cobrem a maior parte do corpo do usuário. Não inclui proteção para as pernas além de grevas simples presas com tiras de couro. Esta armadura é decorada no estilo dos anões."
+    "pt-BR": "A meia armadura consiste em placas de metal moldadas que cobrem a maior parte do corpo do usuário. Não inclui proteção para as pernas além de grevas simples presas com tiras de couro. Esta armadura é decorada no estilo dos anões."
   },
   {
     "key": "Equipment/&Armor_Dwarven_HalfPlateTitle",
     "en": "Dwarven Half Plate",
-    "pt-BR": "Meia Placa Anã"
+    "pt-BR": "Meia Armadura Anã"
   },
   {
     "key": "Equipment/&Armor_HalfPlateDescription",
@@ -2947,7 +2947,7 @@
   {
     "key": "Equipment/&Armor_HalfPlateTitle",
     "en": "Half Plate",
-    "pt-BR": "Meia Prato"
+    "pt-BR": "Meia Armadura"
   },
   {
     "key": "Equipment/&Armor_HideDescription",
@@ -2997,17 +2997,17 @@
   {
     "key": "Equipment/&Armor_PlateTitle",
     "en": "Plate",
-    "pt-BR": "Prato"
+    "pt-BR": "Placas"
   },
   {
     "key": "Equipment/&Armor_RingMailDescription",
     "en": "This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.",
-    "pt-BR": "Esta armadura é de couro com pesados anéis costurados nela. Os anéis ajudam a reforçar a armadura contra golpes de espadas e machados. A cota de malha é inferior à cota de malha e geralmente é usada apenas por aqueles que não podem pagar por uma armadura melhor."
+    "pt-BR": "Esta armadura feita de couro com pesados anéis costurados nela. Os anéis ajudam a reforçar a armadura contra golpes de espadas e machados. A cota de anéis é inferior à cota de malha e geralmente é usada apenas por aqueles que não podem pagar por uma armadura melhor."
   },
   {
     "key": "Equipment/&Armor_RingMailTitle",
     "en": "Ring Mail",
-    "pt-BR": "Ring Mail"
+    "pt-BR": "Cota de Anéis"
   },
   {
     "key": "Equipment/&Armor_ScaleMailDescription",
@@ -3017,7 +3017,7 @@
   {
     "key": "Equipment/&Armor_ScaleMailTitle",
     "en": "Scale Mail",
-    "pt-BR": "Scale Mail"
+    "pt-BR": "Brúnia"
   },
   {
     "key": "Equipment/&Armor_Scavenger_Outfit_01_Description",
@@ -3027,7 +3027,7 @@
   {
     "key": "Equipment/&Armor_Scavenger_Outfit_01_Title",
     "en": "Scavenger Ranger Outfit",
-    "pt-BR": "Roupa de Scavenger Ranger"
+    "pt-BR": "Roupa de Patrulheiro Necrófago"
   },
   {
     "key": "Equipment/&Armor_Scavenger_Outfit_02_Description",
@@ -3037,7 +3037,7 @@
   {
     "key": "Equipment/&Armor_Scavenger_Outfit_02_Title",
     "en": "Scavenger Scout Outfit",
-    "pt-BR": "Roupa de Scavenger Scout"
+    "pt-BR": "Roupa de Batedor Necrófago"
   },
   {
     "key": "Equipment/&Armor_Scholar_ClothesDescription",
@@ -3077,7 +3077,7 @@
   {
     "key": "Equipment/&Armor_VigdisTitle",
     "en": "Kaikkonen Family Armor",
-    "pt-BR": "Kaikkonen Family Armor"
+    "pt-BR": "Armadura da familia Kaikkonen "
   },
   {
     "key": "Equipment/&ArrowPlus1Title",
@@ -3087,7 +3087,7 @@
   {
     "key": "Equipment/&ArrowTypeTitle",
     "en": "Arrow",
-    "pt-BR": "Seta"
+    "pt-BR": "Flecha"
   },
   {
     "key": "Equipment/&ArtisanToolsCategoryTitle",
@@ -3102,7 +3102,7 @@
   {
     "key": "Equipment/&ArtisanToolSmithToolsTypeTitle",
     "en": "Smith's tools",
-    "pt-BR": "Ferramentas de Smith"
+    "pt-BR": "Ferramentas de Ferreiro"
   },
   {
     "key": "Equipment/&ArtItems_25_GP_Comb",
@@ -3247,12 +3247,12 @@
   {
     "key": "Equipment/&Bacgkground_Aristocrat_Item_Description",
     "en": "This ring bears the arms of your noble family, marking you as a member.",
-    "pt-BR": "Este anel carrega as armas de sua nobre família, marcando você como um membro."
+    "pt-BR": "Este anel carrega o brasão de sua nobre família, marcando você como um membro."
   },
   {
     "key": "Equipment/&Bacgkground_Aristocrat_Item_Title",
     "en": "Sigil Ring",
-    "pt-BR": "Sigil Ring"
+    "pt-BR": "Anel de sigilo"
   },
   {
     "key": "Equipment/&Bacgkground_Lawkeeper_Item_Description",
@@ -3262,7 +3262,7 @@
   {
     "key": "Equipment/&Bacgkground_Lawkeeper_Item_Title",
     "en": "Lawkeeper's Badge",
-    "pt-BR": "Distintivo de Lawkeeper"
+    "pt-BR": "Distintivo de Guardião"
   },
   {
     "key": "Equipment/&Bacgkground_Sellsword_Item_Description",
@@ -3272,7 +3272,7 @@
   {
     "key": "Equipment/&Bacgkground_Sellsword_Item_Title",
     "en": "Military Campaign Ribbon",
-    "pt-BR": "Fita de campanha militar"
+    "pt-BR": "Faixa de campanha militar"
   },
   {
     "key": "Equipment/&Backpack3Title",
@@ -11852,7 +11852,7 @@
   {
     "key": "MainMenu/&QuitTitle",
     "en": "Quit",
-    "pt-BR": "Desistir"
+    "pt-BR": "Sair"
   },
   {
     "key": "MainMenu/&SaveDateHeader",
@@ -12982,12 +12982,12 @@
   {
     "key": "Modal/&DefeatDescription",
     "en": "The party had no way to revive their dead - game over! Try giving Revivify scrolls to characters who can use them.",
-    "pt-BR": "A festa não tinha como reviver seus mortos - fim de jogo! Tente dar pergaminhos Revivify para personagens que podem usá-los."
+    "pt-BR": "O grupo não tinha como reviver seus mortos - fim de jogo! Tente dar pergaminhos Revivify para personagens que podem usá-los."
   },
   {
     "key": "Modal/&DefeatTitle",
     "en": "Game Over",
-    "pt-BR": "Game Over"
+    "pt-BR": "fim de jogo."
   },
   {
     "key": "Modal/&DeleteButtonTitle",
@@ -13022,7 +13022,7 @@
   {
     "key": "Modal/&ErrorModalQuitTitle",
     "en": "Quit the Game",
-    "pt-BR": "Saia do jogo"
+    "pt-BR": "Sair do jogo"
   },
   {
     "key": "Modal/&ErrorModalTitle",
@@ -13072,7 +13072,7 @@
   {
     "key": "Modal/&InterruptLevelUpAvailableTitle",
     "en": "Interrupt when a character can level up.",
-    "pt-BR": "Interrompa quando um personagem pode subir de nível."
+    "pt-BR": "Interrompa quando um personagem puder subir de nível."
   },
   {
     "key": "Modal/&InterruptLongRestCompleteTitle",
@@ -13147,17 +13147,17 @@
   {
     "key": "Modal/&PartyWaitMinutesPluralFormat",
     "en": "The party is waiting for {0} minutes.",
-    "pt-BR": "A festa está esperando por {0} minutos."
+    "pt-BR": "O grupo está esperando por {0} minutos."
   },
   {
     "key": "Modal/&PartyWaitMinutesSingleFormat",
     "en": "The party is waiting for {0} minute.",
-    "pt-BR": "A festa está esperando por {0} minuto."
+    "pt-BR": "O grupo está esperando por {0} minuto."
   },
   {
     "key": "Modal/&RequiredRestsMultipleFormat",
     "en": "{0} long rests",
-    "pt-BR": "{0} pausas longas"
+    "pt-BR": "{0} descanso longo"
   },
   {
     "key": "Modal/&RequiredRestsNoneFormat",
@@ -13302,7 +13302,7 @@
   {
     "key": "Monster/&Archmage_Description",
     "en": "An evil mage who has sought an isolated location to perform unspeakable experiments without interference.",
-    "pt-BR": "Um mago malvado que procurou um local isolado para realizar experimentos indizíveis sem interferência."
+    "pt-BR": "Um mago maligno que procurou um local isolado para realizar experimentos indescritíveis sem interferência."
   },
   {
     "key": "Monster/&Archmage_Title",
@@ -13317,7 +13317,7 @@
   {
     "key": "Monster/&Badlands Hunter_Title",
     "en": "Badlands Hunter",
-    "pt-BR": "Badlands Hunter"
+    "pt-BR": "caçador dos ermos"
   },
   {
     "key": "Monster/&BanditCaptain_Description",
@@ -13327,7 +13327,7 @@
   {
     "key": "Monster/&BanditCaptain_Title",
     "en": "Bandit Captain",
-    "pt-BR": "Capitão bandido"
+    "pt-BR": "Capitão dos bandido"
   },
   {
     "key": "Monster/&Berserker_Description",
@@ -13357,7 +13357,7 @@
   {
     "key": "Monster/&BroodOfDreadTitle",
     "en": "Brood of Dread",
-    "pt-BR": "Ninhada de medo"
+    "pt-BR": "Ninhada do medo"
   },
   {
     "key": "Monster/&BroodOfFleshDescription",
@@ -13377,7 +13377,7 @@
   {
     "key": "Monster/&CultFanatic_Title",
     "en": "Cult Fanatic",
-    "pt-BR": "Fanático de culto"
+    "pt-BR": "Fanático do culto"
   },
   {
     "key": "Monster/&Darkweaver_Description",
@@ -13397,12 +13397,12 @@
   {
     "key": "Monster/&DireWolf_Title",
     "en": "Dire Wolf",
-    "pt-BR": "Dire Wolf"
+    "pt-BR": "Lobo Terrível"
   },
   {
     "key": "Monster/&EagleMatriarchDescription",
     "en": "A very large eagle found in the Marches.",
-    "pt-BR": "Uma grande águia encontrada nas Marcas."
+    "pt-BR": "Uma grande águia encontrada nas Fronteiras."
   },
   {
     "key": "Monster/&EagleMatriarchTitle",
@@ -13412,7 +13412,7 @@
   {
     "key": "Monster/&FireSpider_Description",
     "en": "A giant spider fused with a small fire elemental by the weird magical influence of the Badlands.",
-    "pt-BR": "Uma aranha gigante fundida com um pequeno elemental de fogo pela influência mágica estranha de Badlands."
+    "pt-BR": "Uma aranha gigante fundida com um pequeno elemental de fogo pela influência mágica estranha das terras baldias."
   },
   {
     "key": "Monster/&FireSpider_Title",
@@ -13422,12 +13422,12 @@
   {
     "key": "Monster/&FlyingSnakeDescription",
     "en": "A winged snake found in the Badlands.",
-    "pt-BR": "Uma cobra alada encontrada em Badlands."
+    "pt-BR": "Uma cobra alada encontrada nas terras baldias."
   },
   {
     "key": "Monster/&FlyingSnakeTitle",
     "en": "Brimstone Viper",
-    "pt-BR": "Brimstone Viper"
+    "pt-BR": "Víbora de enxofre"
   },
   {
     "key": "Monster/&GargoyleDescription",
@@ -13477,7 +13477,7 @@
   {
     "key": "Monster/&Ghost_Title",
     "en": "Spectral Avenger",
-    "pt-BR": "Spectral Avenger"
+    "pt-BR": "Vingador Espectral"
   },
   {
     "key": "Monster/&GhostWolf_Description",
@@ -13497,22 +13497,22 @@
   {
     "key": "Monster/&GhoulTitle",
     "en": "Ghoul",
-    "pt-BR": "canibal"
+    "pt-BR": "Ghoul"
   },
   {
     "key": "Monster/&GiantEagle_Description",
     "en": "A giant eagle, corrupted by the magical fluxes of the Badlands.",
-    "pt-BR": "Uma águia gigante, corrompida pelos fluxos mágicos de Badlands."
+    "pt-BR": "Uma águia gigante, corrompida pelos fluxos mágicos das terras baldias."
   },
   {
     "key": "Monster/&GiantEagle_Title",
     "en": "Badlands Eagle",
-    "pt-BR": "Badlands Eagle"
+    "pt-BR": "Águia-serrana"
   },
   {
     "key": "Monster/&GiantSpiderDescription",
     "en": "Very large spiders, they live in the depths of the Badlands and are sensitive to light.",
-    "pt-BR": "Aranhas muito grandes, elas vivem nas profundezas de Badlands e são sensíveis à luz."
+    "pt-BR": "Aranhas muito grandes, elas vivem nas profundezas das terras baldias e são sensíveis à luz."
   },
   {
     "key": "Monster/&GiantSpiderTitle",
@@ -13542,7 +13542,7 @@
   {
     "key": "Monster/&GoblinSkirmisherTitle",
     "en": "Goblin Skirmisher",
-    "pt-BR": "Escaramuçador de Goblin"
+    "pt-BR": "Escaramuçador Goblin"
   },
   {
     "key": "Monster/&GoblinTitle",
@@ -13592,7 +13592,7 @@
   {
     "key": "Monster/&Necromancer_Description",
     "en": "An evil wizard specializing in necromancy.",
-    "pt-BR": "Um feiticeiro malvado especializado em necromancia."
+    "pt-BR": "Um feiticeiro maléfico especializado em necromancia."
   },
   {
     "key": "Monster/&Necromancer_Title",
@@ -13622,12 +13622,12 @@
   {
     "key": "Monster/&OrcArcherDescription",
     "en": "Orcs have archers among their troops. Despite their effectiveness, they are perceived as cowards and are generally second rank warriors.",
-    "pt-BR": "Orcs têm arqueiros entre suas tropas. Apesar de sua eficácia, eles são vistos como covardes e geralmente são guerreiros de segunda categoria."
+    "pt-BR": "Os orcs têm arqueiros entre suas tropas. Apesar de sua eficácia, eles são vistos como covardes e geralmente são guerreiros de segunda categoria."
   },
   {
     "key": "Monster/&OrcArcherTitle",
     "en": "Orc Archer",
-    "pt-BR": "Orc Archer"
+    "pt-BR": "Orc Arqueiro"
   },
   {
     "key": "Monster/&OrcBerserkerDescription",
@@ -13642,12 +13642,12 @@
   {
     "key": "Monster/&OrcChieftainDescription",
     "en": "Chieftains are the stronger orcs who have survived battles and challenges from other orcs to seize a position of power.",
-    "pt-BR": "Chieftains são os orcs mais fortes que sobreviveram a batalhas e desafios de outros orcs para conquistar uma posição de poder."
+    "pt-BR": "Chefes guerreiros são os orcs mais fortes que sobreviveram a batalhas e desafios de outros orcs para conquistar uma posição de poder."
   },
   {
     "key": "Monster/&OrcChieftainTitle",
     "en": "Orc Chieftain",
-    "pt-BR": "Orc Chieftain"
+    "pt-BR": "Chefe Guerreir Orc"
   },
   {
     "key": "Monster/&OrcDescription",
@@ -13672,7 +13672,7 @@
   {
     "key": "Monster/&PhaseSpider_Description",
     "en": "A monstrous spider able to travel freely to and from the ethereal plane.",
-    "pt-BR": "Uma aranha monstruosa capaz de viajar livremente de e para o plano etéreo."
+    "pt-BR": "Uma aranha monstruosa capaz de viajar livremente para o plano etéreo."
   },
   {
     "key": "Monster/&PhaseSpider_Title",
@@ -13732,7 +13732,7 @@
   {
     "key": "Monster/&SkeletonEnforcer_Title",
     "en": "Skeletal Enforcer",
-    "pt-BR": "Skeletal Enforcer"
+    "pt-BR": "Executor Esquelético"
   },
   {
     "key": "Monster/&SkeletonKnight_Description",
@@ -13797,7 +13797,7 @@
   {
     "key": "Monster/&SorakAssassinTitle",
     "en": "Sorr-Akkath Assassin",
-    "pt-BR": "Sorr-Akkath Assassin"
+    "pt-BR": "Assassino Sorr-Akkath"
   },
   {
     "key": "Monster/&SorakGruntDescription",
@@ -13827,12 +13827,12 @@
   {
     "key": "Monster/&SorakSkirmisherTitle",
     "en": "Sorr-Akkath Skirmisher",
-    "pt-BR": "Escaramuçador de Sorr-Akkath"
+    "pt-BR": "Escaramuçador Sorr-Akkath"
   },
   {
     "key": "Monster/&SpectralSpiderDescription",
     "en": "Dead Badlands spiders somehow transformed into undead.",
-    "pt-BR": "Aranhas Dead Badlands de alguma forma se transformaram em mortos-vivos."
+    "pt-BR": "Aranhas mortas das terras baldias de alguma forma se transformaram em mortos-vivos."
   },
   {
     "key": "Monster/&SpectralSpiderTitle",
@@ -13847,12 +13847,12 @@
   {
     "key": "Monster/&SpiderTitle",
     "en": "Badlands Spider",
-    "pt-BR": "Badlands Spider"
+    "pt-BR": "aranha das terras baldias"
   },
   {
     "key": "Monster/&Spy_Description",
     "en": "A lawless rogue trained to spy and kill for wealthy masters.",
-    "pt-BR": "Um bandido sem lei treinado para espionar e matar para senhores ricos."
+    "pt-BR": "Um bandido fora da lei treinado para espionar e matar para senhores ricos."
   },
   {
     "key": "Monster/&Spy_Title",
@@ -13902,7 +13902,7 @@
   {
     "key": "Monster/&VeteranDescription",
     "en": "Veterans are professional fighters who take up arms for pay or in defense of something they value or believe in. They include retired soldiers as well as mercenaries who have never served anyone's interests but their own.",
-    "pt-BR": "Os veteranos são lutadores profissionais que pegam em armas por dinheiro ou em defesa de algo que valorizam ou em que acreditam. Eles incluem soldados aposentados e mercenários que nunca serviram aos interesses de ninguém além dos seus."
+    "pt-BR": "Os veteranos são lutadores profissionais que pegam em armas por dinheiro ou em defesa de algo que valorizam ou acreditam. Eles incluem soldados aposentados e mercenários que nunca serviram aos interesses de ninguém além dos seus."
   },
   {
     "key": "Monster/&VeteranTitle",
@@ -14002,7 +14002,7 @@
   {
     "key": "MonsterAttacks/&Attack_Shrieker_Title",
     "en": "Nekkesh Blade",
-    "pt-BR": "Nekkesh Blade"
+    "pt-BR": "Lâmina Nekkesh"
   },
   {
     "key": "MonsterAttacks/&Attack_Spine_Title",
@@ -14022,7 +14022,7 @@
   {
     "key": "MonsterAttacks/&Attack_Web_Title",
     "en": "Poison Web",
-    "pt-BR": "Poison Web"
+    "pt-BR": "Teia Venenosa"
   },
   {
     "key": "NamedPlace/&AerElai_Title",
@@ -14032,7 +14032,7 @@
   {
     "key": "NamedPlace/&BADLANDS_Title",
     "en": "THE BADLANDS",
-    "pt-BR": "AS BADLANDS"
+    "pt-BR": "AS Terras Baldias"
   },
   {
     "key": "NamedPlace/&CopperheadRoad_Title",
@@ -18345,7 +18345,7 @@
   {
     "key": "Race/&ElfTitle",
     "en": "Elf",
-    "pt-BR": "Duende"
+    "pt-BR": "Elfo"
   },
   {
     "key": "Race/&HalfElfDescription",
@@ -18870,7 +18870,7 @@
   {
     "key": "Reaction/&BlockAttackReactTitle",
     "en": "Block",
-    "pt-BR": "Quadra"
+    "pt-BR": "Bloqueio"
   },
   {
     "key": "Reaction/&BlockAttackTitle",
@@ -19105,7 +19105,7 @@
   {
     "key": "Reaction/&SpendSpellSlotDivineSmiteReactTitle",
     "en": "Smite",
-    "pt-BR": "Desbaratar"
+    "pt-BR": "Punir"
   },
   {
     "key": "Reaction/&SpendSpellSlotDivineSmiteTitle",
@@ -19125,7 +19125,7 @@
   {
     "key": "Reaction/&SubitemSelectDivineSmiteDescription",
     "en": "Select a slot level to consume for your Divine Smite",
-    "pt-BR": "Selecione um nível de slot para consumir para seu Divine Smite"
+    "pt-BR": "Selecione um nível de slot para consumir para seu Punião Divina"
   },
   {
     "key": "Reaction/&SubitemSelectDivineSmiteTitle",
@@ -20733,7 +20733,7 @@
   {
     "key": "Rules/&DamagePiercingTitle",
     "en": "Piercing",
-    "pt-BR": "Piercing"
+    "pt-BR": "Perfurante"
   },
   {
     "key": "Rules/&DamagePoisonDescription",
@@ -20743,7 +20743,7 @@
   {
     "key": "Rules/&DamagePoisonTitle",
     "en": "Poison",
-    "pt-BR": "Poção"
+    "pt-BR": "veneno"
   },
   {
     "key": "Rules/&DamagePsychicDescription",
@@ -46107,7 +46107,7 @@
   {
     "key": "PartyBanter/&Serious3_Trap_Detected_Self",
     "en": "There's a trap!",
-    "pt-BR": "Existe uma armadilha!"
+    "pt-BR": "Há uma armadilha!"
   },
   {
     "key": "PartyBanter/&Serious1_Secret_door_Detected_Self",
@@ -46187,12 +46187,12 @@
   {
     "key": "PartyBanter/&Serious1_Critical_Hit_Given_Self",
     "en": "Bleed!",
-    "pt-BR": "Sangrar!"
+    "pt-BR": "Sangre!"
   },
   {
     "key": "PartyBanter/&Serious2_Critical_Hit_Given_Self",
     "en": "Die!",
-    "pt-BR": "Morrer!"
+    "pt-BR": "Morra!"
   },
   {
     "key": "PartyBanter/&Serious3_Critical_Hit_Given_Self",
@@ -46212,7 +46212,7 @@
   {
     "key": "PartyBanter/&Serious3_Normal_Hit_Given_Self",
     "en": "More coming your way.",
-    "pt-BR": "Mais vindo em sua direção."
+    "pt-BR": "Mais estão vindo em sua direção."
   },
   {
     "key": "PartyBanter/&Serious4_Normal_Hit_Given_Self",
@@ -46252,7 +46252,7 @@
   {
     "key": "PartyBanter/&Serious1_Kill_Enemy_Self",
     "en": "I win again.",
-    "pt-BR": "Eu ganho de novo."
+    "pt-BR": "Eu venci de novo."
   },
   {
     "key": "PartyBanter/&Serious2_Kill_Enemy_Self",
@@ -46282,12 +46282,12 @@
   {
     "key": "PartyBanter/&Serious2_Healed_by_ally_Self",
     "en": "I'll remember.",
-    "pt-BR": "Lembrarei."
+    "pt-BR": "Eu lembrarei."
   },
   {
     "key": "PartyBanter/&Serious3_Healed_by_ally_Self",
     "en": "I owe you one.",
-    "pt-BR": "Eu devo-te uma."
+    "pt-BR": "Eu te devo uma."
   },
   {
     "key": "PartyBanter/&Serious1_Allied_KnockedDown_Self",
@@ -46427,7 +46427,7 @@
   {
     "key": "PartyBanter/&Serious2_Critical_Hit_Given_Other",
     "en": "Kill 'em all!",
-    "pt-BR": "Matar todos eles!"
+    "pt-BR": "Matem todos eles!"
   },
   {
     "key": "PartyBanter/&Serious3_Critical_Hit_Given_Other",
@@ -46482,7 +46482,7 @@
   {
     "key": "PartyBanter/&Heroic1_Trap_Detected_Self",
     "en": "Hold it - I see a trap!",
-    "pt-BR": "Espere aí - eu vejo uma armadilha!"
+    "pt-BR": "Espere aí - eu vi uma armadilha!"
   },
   {
     "key": "PartyBanter/&Heroic2_Trap_Detected_Self",
@@ -79677,7 +79677,7 @@
   {
     "key": "TreasureTable/&Mundane_GearTitle",
     "en": "Mundane Gear",
-    "pt-BR": "Mundane Gear"
+    "pt-BR": "Equipamento Mundano"
   },
   {
     "key": "TreasureTable/&25_GP_Art_ItemsTitle",
