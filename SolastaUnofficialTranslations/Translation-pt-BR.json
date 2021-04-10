@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "key": "Action/&ActionDisarmDescription",
     "en": "[OBSOLETE]Click to disarm this trap.",
@@ -957,7 +957,7 @@
   {
     "key": "Attribute/&MovePointsTitle",
     "en": "Move",
-    "pt-BR": "Jogada"
+    "pt-BR": "Deslocamento"
   },
   {
     "key": "Attribute/&ProficiencyBonusDescription",
@@ -1697,7 +1697,7 @@
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_DialogTitle_Annie02",
     "en": "The Scavengers",
-    "pt-BR": "os necrófagos"
+    "pt-BR": "os Catadores"
   },
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem01",
@@ -3027,7 +3027,7 @@
   {
     "key": "Equipment/&Armor_Scavenger_Outfit_01_Title",
     "en": "Scavenger Ranger Outfit",
-    "pt-BR": "Roupa de Patrulheiro Necrófago"
+    "pt-BR": "Roupa de Catador Patrulheiro"
   },
   {
     "key": "Equipment/&Armor_Scavenger_Outfit_02_Description",
@@ -3037,7 +3037,7 @@
   {
     "key": "Equipment/&Armor_Scavenger_Outfit_02_Title",
     "en": "Scavenger Scout Outfit",
-    "pt-BR": "Roupa de Batedor Necrófago"
+    "pt-BR": "Roupa de Catador Batedor"
   },
   {
     "key": "Equipment/&Armor_Scholar_ClothesDescription",
@@ -3292,17 +3292,17 @@
   {
     "key": "Equipment/&BaseArmorDescription",
     "en": "AC set to {0}\\n+ DEX bonus",
-    "pt-BR": "AC definido para {0}\\n+ bônus DEX"
+    "pt-BR": "CA definido para {0}\\n+ bônus DEX"
   },
   {
     "key": "Equipment/&BaseArmorNoDexDescription",
     "en": "AC set to {0}\\nNo DEX bonus",
-    "pt-BR": "AC definido para {0}\\nNenhum bônus DEX"
+    "pt-BR": "CA definido para {0}\\nNenhum bônus DEX"
   },
   {
     "key": "Equipment/&BaseArmorWithCapDescription",
     "en": "AC set to {0}\\n+ DEX bonus (max {1})",
-    "pt-BR": "AC definido para {0}\\n+ bônus DEX (máx. {1})"
+    "pt-BR": "CA definido para {0}\\n+ bônus DEX (máx. {1})"
   },
   {
     "key": "Equipment/&BattleaxeTypeTitle",
@@ -3327,12 +3327,12 @@
   {
     "key": "Equipment/&BoltplusOne",
     "en": "Bolt +1",
-    "pt-BR": "Parafuso +1"
+    "pt-BR": "Seta +1"
   },
   {
     "key": "Equipment/&BoltTypeTitle",
     "en": "Crossbow Bolt",
-    "pt-BR": "Parafuso de besta"
+    "pt-BR": "Seta de besta"
   },
   {
     "key": "Equipment/&BoneKeep_Angbi_Bones_Description",
@@ -3347,7 +3347,7 @@
   {
     "key": "Equipment/&BoneKeep_Document_AdventurerJournal01_Description",
     "en": "Part of a journal with a series of notes, found on a dead adventurer inside the Solar Maze.",
-    "pt-BR": "Parte de um diário com uma série de anotações, encontrado em um aventureiro morto dentro do Labirinto Solar."
+    "pt-BR": "Parte de um diário com uma série de anotações, encontrado com um aventureiro morto dentro do Labirinto Solar."
   },
   {
     "key": "Equipment/&BoneKeep_Document_AdventurerJournal01_text1",
@@ -3377,7 +3377,7 @@
   {
     "key": "Equipment/&BoneKeep_Document_AdventurerJournal02_text1",
     "en": "Last night we finally found the stairs! I think Aksha was holding back on us, because they're not real stairs - just some kind of symbol…",
-    "pt-BR": "Ontem à noite finalmente encontramos as escadas! Acho que Aksha estava se segurando, porque não são escadas de verdade - apenas algum tipo de símbolo ..."
+    "pt-BR": "Ontem à noite finalmente encontramos as escadas! Acho que Aksha estava nos segurando, porque não são escadas de verdade - apenas algum tipo de símbolo ..."
   },
   {
     "key": "Equipment/&BoneKeep_Document_AdventurerJournal02_text2",
@@ -3402,17 +3402,17 @@
   {
     "key": "Equipment/&BoneKeep_Document_AkshasJournal_text1",
     "en": "Lizzaria sent another party of her stupid zombies. One of them was an ogre, as if that would make things harder. Reek and Filth took care of it - I didn't even have to walk out. When will she understand that her attempts are useless? I'm getting tired of pretending to ignore who sends these monsters. I'm also getting tired of Mardracht. The old elf is powerful, for sure, but his mind is in decay. While he barricades himself in his solar, I've read all his damn books, but learned almost nothing.",
-    "pt-BR": "Lizzaria enviou outro grupo de seus zumbis idiotas. Um deles era um ogro, como se isso fosse dificultar as coisas. Reek and Filth cuidou disso - eu nem precisei sair. Quando ela vai entender que suas tentativas são inúteis? Estou ficando cansado de fingir que ignoro quem manda esses monstros. Também estou ficando cansado de Mardracht. O velho elfo é poderoso, com certeza, mas sua mente está em decadência. Enquanto ele se barricou em seu solar, li todos os seus malditos livros, mas não aprendi quase nada."
+    "pt-BR": "Lizzaria enviou outro grupo de seus zumbis idiotas. Um deles era um ogro, como se isso fosse dificultar as coisas. Reek e Filth cuidou disso - eu nem precisei sair. Quando ela vai entender que suas tentativas são inúteis? Estou ficando cansado de fingir que ignoro quem manda esses monstros. Também estou ficando cansado de Mardracht. O velho elfo é poderoso, com certeza, mas sua mente está em decadência. Enquanto ele se barricou em seu solar, li todos os seus malditos livros, mas não aprendi quase nada."
   },
   {
     "key": "Equipment/&BoneKeep_Document_AkshasJournal_text2",
     "en": "A Doom Gem. It took me forever to imbue it enough power to make it worthwhile. I still don't understand how the wizards of Manacalon could have done it in less than a year. Anyway, now I could use it to craft a nice weapon, but to what end? Killing Lizarria's zombies? I'm losing interest in the project now the difficult part is done. I don't need a magic dagger to make my enemies bleed.\\n",
-    "pt-BR": "A Doom Gem. Levei uma eternidade para imbuir poder suficiente para fazer valer a pena. Ainda não entendo como os feiticeiros de Manacalon podem ter feito isso em menos de um ano. De qualquer forma, agora eu poderia usá-lo para criar uma bela arma, mas para quê? Matando os zumbis de Lizarria? Estou perdendo o interesse pelo projeto agora que a parte difícil está feita. Não preciso de uma adaga mágica para fazer meus inimigos sangrarem.\\n"
+    "pt-BR": "Uma Gema da Perdição. Levei uma eternidade para imbuir poder suficiente para fazer valer a pena. Ainda não entendo como os feiticeiros de Manacalon podem ter feito isso em menos de um ano. De qualquer forma, agora eu poderia usá-lo para criar uma bela arma, mas para quê? Matando os zumbis de Lizarria? Estou perdendo o interesse pelo projeto agora que a parte difícil está feita. Não preciso de uma adaga mágica para fazer meus inimigos sangrarem.\\n"
   },
   {
     "key": "Equipment/&BoneKeep_Document_AkshasJournal_text3",
     "en": "Reek is a good minion. He used to be handsome, but undeath doesn't suit him. Now he's just an obedient little pawn. Who would guess he was once a nobleman? I kept his armor and shield - he doesn't need them any more. Filth was always scum, but now at least she is of some use. She brings corpses to feed the ghouls, so I don't have to walk through piles of rotting fools. I'm thinking of creating another Brood, though. A nice, meaty Brood of Flesh would be nice. Maybe next month.",
-    "pt-BR": "Reek é um bom lacaio. Ele costumava ser bonito, mas por baixo não combina com ele. Agora ele é apenas um peão obediente. Quem diria que ele já foi um nobre? Eu mantive sua armadura e escudo - ele não precisa mais deles. A sujeira sempre foi escória, mas agora pelo menos ela tem alguma utilidade. Ela traz cadáveres para alimentar os ghouls, então eu não tenho que andar em meio a pilhas de idiotas podres. Estou pensando em criar outro Brood, no entanto. Uma boa e carnuda Ninhada de Carne seria bom. Talvez no próximo mês."
+    "pt-BR": "Reek é um bom lacaio. Ele costumava ser bonito, mas não-vida não combina com ele. Agora ele é apenas um peão obediente. Quem diria que ele já foi um nobre? Eu mantive sua armadura e escudo - ele não precisa mais deles. Filth sempre foi escória, mas agora pelo menos ela tem alguma utilidade. Ela traz cadáveres para alimentar os ghouls, então eu não tenho que andar em meio a pilhas de idiotas podres. Estou pensando em criar outra ninhada, no entanto. Uma boa e carnuda Ninhada de Carne seria bom. Talvez no próximo mês."
   },
   {
     "key": "Equipment/&BoneKeep_Document_AkshasJournal_Title",
@@ -3432,7 +3432,7 @@
   {
     "key": "Equipment/&BonusArmorDescription",
     "en": "{0} to AC",
-    "pt-BR": "{0} para AC"
+    "pt-BR": "{0} para CA"
   },
   {
     "key": "Equipment/&BootsLevitationTitle",
@@ -3452,7 +3452,7 @@
   {
     "key": "Equipment/&BracersOfArcheryTitle",
     "en": "Bracers of Archery",
-    "pt-BR": "Braçadeiras de tiro com arco"
+    "pt-BR": "Braçadeiras de Arquearia"
   },
   {
     "key": "Equipment/&BracersOfArcheryUnidentifiedDescription",
@@ -3467,7 +3467,7 @@
   {
     "key": "Equipment/&BulletTypeTitle",
     "en": "Sling Bullet",
-    "pt-BR": "Sling Bullet"
+    "pt-BR": "Bala de Funda"
   },
   {
     "key": "Equipment/&BurglarPackTitle",
@@ -3492,7 +3492,7 @@
   {
     "key": "Equipment/&CaerLem_Daliat_Document_Title",
     "en": "Silent Whisper Parchment",
-    "pt-BR": "Pergaminho Silent Whisper"
+    "pt-BR": "Pergaminho Sussurro silencioso "
   },
   {
     "key": "Equipment/&CaerLem_Document_Inquisitor_Content",
@@ -3617,7 +3617,7 @@
   {
     "key": "Equipment/&ContainerArmorStandTitle",
     "en": "Armor Stand",
-    "pt-BR": "Armor Stand"
+    "pt-BR": "suporte de armadura"
   },
   {
     "key": "Equipment/&ContainerBarrelTitle",
@@ -3647,7 +3647,7 @@
   {
     "key": "Equipment/&ContainerChestTitle",
     "en": "Chest",
-    "pt-BR": "Peito"
+    "pt-BR": "Cofre"
   },
   {
     "key": "Equipment/&ContainerCorpseTitle",
@@ -3692,7 +3692,7 @@
   {
     "key": "Equipment/&ContainerWeaponsRackTitle",
     "en": "Weapons Rack",
-    "pt-BR": "Rack de armas"
+    "pt-BR": "Prateleira de armas"
   },
   {
     "key": "Equipment/&CraftingManualContentDescription",
@@ -3717,7 +3717,7 @@
   {
     "key": "Equipment/&CraftingPackTitle",
     "en": "Crafting Starter Pack",
-    "pt-BR": "Crafting Starter Pack"
+    "pt-BR": "Pacote Inicial para Artesanato"
   },
   {
     "key": "Equipment/&CurrencyCopperDescription",
@@ -3727,7 +3727,7 @@
   {
     "key": "Equipment/&CurrencyCopperTitle",
     "en": "cp",
-    "pt-BR": "cp"
+    "pt-BR": "PC"
   },
   {
     "key": "Equipment/&CurrencyElectrumDescription",
@@ -3737,7 +3737,7 @@
   {
     "key": "Equipment/&CurrencyElectrumTitle",
     "en": "ep",
-    "pt-BR": "ep"
+    "pt-BR": "PE"
   },
   {
     "key": "Equipment/&CurrencyGoldDescription",
@@ -3747,7 +3747,7 @@
   {
     "key": "Equipment/&CurrencyGoldTitle",
     "en": "gp",
-    "pt-BR": "gp"
+    "pt-BR": "PO"
   },
   {
     "key": "Equipment/&CurrencyPlatinumDescription",
@@ -3757,7 +3757,7 @@
   {
     "key": "Equipment/&CurrencyPlatinumTitle",
     "en": "pp",
-    "pt-BR": "pp"
+    "pt-BR": "PPL"
   },
   {
     "key": "Equipment/&CurrencySilverDescription",
@@ -3767,7 +3767,7 @@
   {
     "key": "Equipment/&CurrencySilverTitle",
     "en": "sp",
-    "pt-BR": "sp"
+    "pt-BR": "PP"
   },
   {
     "key": "Equipment/&Dagger_plus_1_Description",
@@ -3912,7 +3912,7 @@
   {
     "key": "Equipment/&Enchanted_BattleAxe_Punisher_Title",
     "en": "Punisher Battleaxe",
-    "pt-BR": "Punisher Battleaxe"
+    "pt-BR": "Machado de Batalha Justiceiro"
   },
   {
     "key": "Equipment/&Enchanted_Breastplate_Of_Deflection_Title",
@@ -4002,7 +4002,7 @@
   {
     "key": "Equipment/&Enchanted_Dagger_Souldrinker_Title",
     "en": "Souldrinker Dagger",
-    "pt-BR": "Adaga Souldrinker"
+    "pt-BR": "Adaga bebedora de alma"
   },
   {
     "key": "Equipment/&Enchanted_EmpressGarb_Title",
@@ -4017,7 +4017,7 @@
   {
     "key": "Equipment/&Enchanted_Fullplate_Of_Robustness_Title",
     "en": "Plate Armor of Robustness",
-    "pt-BR": "Plate Armor of Robustness"
+    "pt-BR": "Armadura de Placas Robusta"
   },
   {
     "key": "Equipment/&Enchanted_Fullplate_Of_Sturdiness_Description",
@@ -4047,12 +4047,12 @@
   {
     "key": "Equipment/&Enchanted_Greataxe_Stormblade_Title",
     "en": "Stormblade Greataxe",
-    "pt-BR": "Stormblade Greataxe"
+    "pt-BR": "Machado longo lâmina da tempestade"
   },
   {
     "key": "Equipment/&Enchanted_Greatsword_Doom_Title",
     "en": "Doomblade Greatsword",
-    "pt-BR": "Doomblade Greatsword"
+    "pt-BR": "Espada longa Lâmina da Ruína"
   },
   {
     "key": "Equipment/&Enchanted_Greatsword_Lightbringer_Description",
@@ -4062,7 +4062,7 @@
   {
     "key": "Equipment/&Enchanted_Greatsword_Lightbringer_Title",
     "en": "Lightbringer Greatsword",
-    "pt-BR": "Espada Larga Lightbringer"
+    "pt-BR": "Espada Longa portador da luz"
   },
   {
     "key": "Equipment/&Enchanted_Greatsword_of_acuteness_Description",
@@ -4122,7 +4122,7 @@
   {
     "key": "Equipment/&Enchanted_Longbow_Lightbringer_Title",
     "en": "Lightbringer Longbow",
-    "pt-BR": "Lightbringer Longbow"
+    "pt-BR": "Arco longo portador da luz"
   },
   {
     "key": "Equipment/&Enchanted_Longbow_Lightning_Description",
@@ -4132,7 +4132,7 @@
   {
     "key": "Equipment/&Enchanted_Longbow_Lightning_Title",
     "en": "Stormbow",
-    "pt-BR": "Stormbow"
+    "pt-BR": "Arco de tempestade"
   },
   {
     "key": "Equipment/&Enchanted_Longbow_Of_Accuracy_Description",
@@ -4147,7 +4147,7 @@
   {
     "key": "Equipment/&Enchanted_Longsword_Dragonblade_Title",
     "en": "Dragonblade",
-    "pt-BR": "Dragonblade"
+    "pt-BR": "Lâmina do dragão"
   },
   {
     "key": "Equipment/&Enchanted_Longsword_Frostburn_Title",
@@ -4542,7 +4542,7 @@
   {
     "key": "Equipment/&HectorLetterContent1",
     "en": "It was a bad plan; I said so from the start. It took me a month to master Griff's full appearance and a year to build the spider cult. The orcs are now loyal to me and eager to follow me to war, but the Scavengers have found the city and started encroaching on the orcs' territory. I decided to use the orcs ahead of schedule and wipe out the Scavengers. There were only a dozen of them, but they put up more of a fight than I expected, and I had to change the plan again. I sacrificed more orcs to capture their leader, a man named Hector. I will cancel the operation with the spider cult, and take the appearance of this Hector. A prominent member of the Scavengers could be useful. I must spend time alone with him deeper in the ruins, where the orcs don't go.",
-    "pt-BR": "Era um plano ruim; Eu disse isso desde o início. Levei um mês para dominar a aparência completa de Griff e um ano para construir o culto da aranha. Os orcs agora são leais a mim e estão ansiosos para me seguir na guerra, mas os Necrófagos encontraram a cidade e começaram a invadir o território dos orcs. Decidi usar os orcs antes do planejado e eliminar os Scavengers. Havia apenas uma dúzia deles, mas eles resistiram mais do que eu esperava, e eu tive que mudar o plano novamente. Eu sacrifiquei mais orcs para capturar seu líder, um homem chamado Hector. Vou cancelar a operação com o culto da aranha e fazer a aparição desse Hector. Um membro proeminente dos Necrófagos pode ser útil. Devo passar um tempo a sós com ele nas profundezas das ruínas, onde os orcs não vão."
+    "pt-BR": "Era um plano ruim; Eu disse isso desde o início. Levei um mês para dominar a aparência completa de Griff e um ano para construir o culto da aranha. Os orcs agora são leais a mim e estão ansiosos para me seguir na guerra, mas os Catadores encontraram a cidade e começaram a invadir o território dos orcs. Decidi usar os orcs antes do planejado e eliminar os Scavengers. Havia apenas uma dúzia deles, mas eles resistiram mais do que eu esperava, e eu tive que mudar o plano novamente. Eu sacrifiquei mais orcs para capturar seu líder, um homem chamado Hector. Vou cancelar a operação com o culto da aranha e fazer a aparição desse Hector. Um membro proeminente dos catadores pode ser útil. Devo passar um tempo a sós com ele nas profundezas das ruínas, onde os orcs não vão."
   },
   {
     "key": "Equipment/&HectorLetterContent2",
@@ -6737,7 +6737,7 @@
   {
     "key": "Faction/&ScavengersTitle",
     "en": "Scavengers",
-    "pt-BR": "Necrófagos"
+    "pt-BR": "Catadores"
   },
   {
     "key": "Faction/&SilentWhisperDescription",
@@ -7082,7 +7082,7 @@
   {
     "key": "Failure/&FailureFlagPartyTooSpreadOut",
     "en": "You must gather your party together.",
-    "pt-BR": "Você deve reunir sua festa."
+    "pt-BR": "Você deve reunir seu grupo."
   },
   {
     "key": "Failure/&FailureFlagProjectileBlocked",
@@ -7442,7 +7442,7 @@
   {
     "key": "Feature/&AcademicSkillsTitle",
     "en": "Bookworm",
-    "pt-BR": "Bookworm"
+    "pt-BR": "Devorador de livros"
   },
   {
     "key": "Feature/&AcademicToolsDescription",
@@ -7642,7 +7642,7 @@
   {
     "key": "Feature/&AuraOfCourageTitle",
     "en": "Aura of Courage",
-    "pt-BR": "Aura of Courage"
+    "pt-BR": "Aura da coragem"
   },
   {
     "key": "Feature/&AuraOfProtectionDescription",
@@ -8787,7 +8787,7 @@
   {
     "key": "Feature/&LowlifeSkillsTitle",
     "en": "Cutpurse",
-    "pt-BR": "Cutpurse"
+    "pt-BR": "Batedor de carteiras"
   },
   {
     "key": "Feature/&LowlifeSkillsToolsDescription",
@@ -9732,7 +9732,7 @@
   {
     "key": "Feature/&SpySkillsTitle",
     "en": "Spycraft",
-    "pt-BR": "Spycraft"
+    "pt-BR": "Espionagem"
   },
   {
     "key": "Feature/&SpySkillsToolsDescription",
@@ -9742,7 +9742,7 @@
   {
     "key": "Feature/&SpySkillsToolsTitle",
     "en": "Rough Diplomacy",
-    "pt-BR": "Diplomacia Rough"
+    "pt-BR": "Diplomacia Rude"
   },
   {
     "key": "Feature/&SylvanMoveSpeedDescription",
@@ -10092,7 +10092,7 @@
   {
     "key": "Feedback/&AdditionalDamageDivineFavorFormat",
     "en": "Divine Favor!",
-    "pt-BR": "Favor divino!"
+    "pt-BR": "Favorecimento divino!"
   },
   {
     "key": "Feedback/&AdditionalDamageDivineFavorLine",
@@ -10102,7 +10102,7 @@
   {
     "key": "Feedback/&AdditionalDamageDivineSmiteFormat",
     "en": "Smite!",
-    "pt-BR": "Desbaratar!"
+    "pt-BR": "Castigar!"
   },
   {
     "key": "Feedback/&AdditionalDamageDivineSmiteLine",
@@ -10132,7 +10132,7 @@
   {
     "key": "Feedback/&AdditionalDamagePredatorFormat",
     "en": "Predator!",
-    "pt-BR": "Predator!"
+    "pt-BR": "Predador!"
   },
   {
     "key": "Feedback/&AdditionalDamagePredatorLine",
@@ -10227,7 +10227,7 @@
   {
     "key": "Feedback/&AttackFailureOutcome",
     "en": "{0} (Miss)",
-    "pt-BR": "{0} (senhorita)"
+    "pt-BR": "{0} (Falhou)"
   },
   {
     "key": "Feedback/&AttackOfOpportunityFormat",
@@ -10777,7 +10777,7 @@
   {
     "key": "Feedback/&RollAttackCriticalFailureTitle",
     "en": "Critical Miss",
-    "pt-BR": "Miss Crítica"
+    "pt-BR": "Falha Crítica"
   },
   {
     "key": "Feedback/&RollAttackCriticalSuccessTitle",
@@ -10787,7 +10787,7 @@
   {
     "key": "Feedback/&RollAttackFailureTitle",
     "en": "Miss",
-    "pt-BR": "Senhorita"
+    "pt-BR": "Falhou"
   },
   {
     "key": "Feedback/&RollAttackSuccessTitle",
@@ -11392,12 +11392,12 @@
   {
     "key": "Label/&EnterLocationDescription",
     "en": "Have the party enter this location.",
-    "pt-BR": "Faça a festa entrar neste local."
+    "pt-BR": "Faça o grupo entrar neste local."
   },
   {
     "key": "Label/&EnterLocationTitle",
     "en": "Enter",
-    "pt-BR": "Digitar"
+    "pt-BR": "Entrar"
   },
   {
     "key": "Label/&TravelToLocationDescription",
@@ -11407,7 +11407,7 @@
   {
     "key": "Label/&TravelToLocationTitle",
     "en": "Travel",
-    "pt-BR": "Viagem"
+    "pt-BR": "Viajar"
   },
   {
     "key": "Language/&CommonDescription",
@@ -12797,7 +12797,7 @@
   {
     "key": "Message/&PartyLosesGoldPieces",
     "en": "Party loses {0} gold pieces",
-    "pt-BR": "A festa perde {0} moedas de ouro"
+    "pt-BR": "O grupo perdeu {0} moedas de ouro"
   },
   {
     "key": "Message/&QuitLocationDescription",
@@ -12917,12 +12917,12 @@
   {
     "key": "Modal/&CampCaptionMultipleHoursFormat",
     "en": "The party is setting camp for {0} hours.",
-    "pt-BR": "A festa vai armar acampamento por {0} horas."
+    "pt-BR": "O grupo vai armar acampamento por {0} horas."
   },
   {
     "key": "Modal/&CampCaptionSingleHourFormat",
     "en": "The party is setting camp for an hour.",
-    "pt-BR": "A festa vai acampar por uma hora."
+    "pt-BR": "O grupo vai acampar por uma hora."
   },
   {
     "key": "Modal/&CancelButtonTitle",
@@ -15362,7 +15362,7 @@
   {
     "key": "Quest/&Caer_Cyflen_Merton_Quest_AskAnnieDescription",
     "en": "Lord Carran told you that Arwin Merton used to be a Scavenger, and a famous one. Ask Annie Bagmordah to tell you more about him.",
-    "pt-BR": "Lorde Carran disse a você que Arwin Merton costumava ser um Necrófago e famoso. Peça a Annie Bagmordah para lhe contar mais sobre ele."
+    "pt-BR": "Lorde Carran disse a você que Arwin Merton costumava ser um Catador famoso. Peça a Annie Bagmordah para lhe contar mais sobre ele."
   },
   {
     "key": "Quest/&Caer_Cyflen_Merton_Quest_AskAnnieTitle",
@@ -15612,12 +15612,12 @@
   {
     "key": "Quest/&Caer_Cyflen_Quest_AfterTutorial_04_OPTIONAL_MeetScavs_Description",
     "en": "Annie Bagmordah, the Scavengers' quartermaster, asked you to visit their headquarters beside the Gravekeep's Cask.",
-    "pt-BR": "Annie Bagmordah, contramestre dos Necrófagos, pediu que você visitasse o quartel-general ao lado do Casco do Gravekeep."
+    "pt-BR": "Annie Bagmordah, contramestre dos Catadores, pediu que você visitasse o quartel-general ao lado do Casco do Gravekeep."
   },
   {
     "key": "Quest/&Caer_Cyflen_Quest_AfterTutorial_04_OPTIONAL_MeetScavs_Outcome1Description",
     "en": "You have been introduced to the Scavengers.",
-    "pt-BR": "Você foi apresentado aos Necrófagos."
+    "pt-BR": "Você foi apresentado aos Catadores."
   },
   {
     "key": "Quest/&Caer_Cyflen_Quest_AfterTutorial_04_OPTIONAL_MeetScavs_Title",
@@ -15895,12 +15895,12 @@
   {
     "key": "Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrik_Outcome1Description",
     "en": "You learned that Henrik was killed in Caer Lem, and there is no one left to negotiate with the Scavengers.",
-    "pt-BR": "Você soube que Henrik foi morto em Caer Lem e não sobrou ninguém para negociar com os Necrófagos."
+    "pt-BR": "Você soube que Henrik foi morto em Caer Lem e não sobrou ninguém para negociar com os Catadores."
   },
   {
     "key": "Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrikDescription",
     "en": "Annie Bagmordah, the Scavengers' quartermaster, asked you to speak to Captain Henrik on her behalf to get the authorization to build a Scavenger camp in the Caer Lem outpost. Bring back Henrik's answer.",
-    "pt-BR": "Annie Bagmordah, contramestre dos Necrófagos, pediu que você falasse com o capitão Henrik em nome dela para obter a autorização para construir um acampamento de necrófagos no posto avançado de Caer Lem. Traga de volta a resposta de Henrik."
+    "pt-BR": "Annie Bagmordah, contramestre dos Catadores, pediu que você falasse com o capitão Henrik em nome dela para obter a autorização para construir um acampamento dos catadores no posto avançado de Caer Lem. Traga de volta a resposta de Henrik."
   },
   {
     "key": "Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrikTitle",
@@ -16435,7 +16435,7 @@
   {
     "key": "Quest/&Kickstarter_Loading_Text",
     "en": "To strengthen your friendship with the Scavengers, you have agreed to help them. Runnel, one of their men, returned wounded from the archeological site of Telema in the Badlands. Find out what happened and earn some goodwill from Runnel's fellow adventurers.",
-    "pt-BR": "Para fortalecer sua amizade com os Necrófagos, você concordou em ajudá-los. Runnel, um de seus homens, voltou ferido do sítio arqueológico de Telema em Badlands. Descubra o que aconteceu e ganhe a boa vontade dos companheiros aventureiros de Runnel."
+    "pt-BR": "Para fortalecer sua amizade com os Catadores, você concordou em ajudá-los. Runnel, um de seus homens, voltou ferido do sítio arqueológico de Telema em Badlands. Descubra o que aconteceu e ganhe a boa vontade dos companheiros aventureiros de Runnel."
   },
   {
     "key": "Quest/&Monastery_Title",
@@ -16985,7 +16985,7 @@
   {
     "key": "Quest/&TelemaLevel_Quest_CollapseDescription",
     "en": "You are under attack from countless deep spiders! Use light to keep them away, and run as fast as you can to reach the room's exit. Don't forget to gather all you party up there!",
-    "pt-BR": "Você está sob ataque de inúmeras aranhas profundas! Use a luz para mantê-los afastados e corra o mais rápido que puder para chegar à saída da sala. Não se esqueça de reunir toda a sua festa lá em cima!"
+    "pt-BR": "Você está sob ataque de inúmeras aranhas profundas! Use a luz para mantê-los afastados e corra o mais rápido que puder para chegar à saída da sala. Não se esqueça de reunir todo o seu grupo lá em cima!"
   },
   {
     "key": "Quest/&TelemaLevel_Quest_CollapseTitle",
@@ -17000,7 +17000,7 @@
   {
     "key": "Quest/&TelemaLevel_Quest_DealWithOrcsDescription",
     "en": "This is the orc camp the Scavengers warned you about. Scout it and find if Hector is around. Put all your team in cautious mode to avoid detection while you're above the orcs.",
-    "pt-BR": "Este é o acampamento orc sobre o qual os Necrófagos o avisaram. Faça um reconhecimento e descubra se Hector está por perto. Coloque toda a sua equipe em modo cauteloso para evitar a detecção enquanto você estiver acima dos orcs."
+    "pt-BR": "Este é o acampamento orc sobre o qual os Catadores o avisaram. Faça um reconhecimento e descubra se Hector está por perto. Coloque toda a sua equipe em modo cauteloso para evitar a detecção enquanto você estiver acima dos orcs."
   },
   {
     "key": "Quest/&TelemaLevel_Quest_DealWithOrcsTitle",
@@ -17015,7 +17015,7 @@
   {
     "key": "Quest/&TelemaLevel_Quest_EnterDescription",
     "en": "Lena and Dek have confirmed that another Scavenger, Hector, was taken alive by the orcs during their raid. They have moved him inside the old temple. Find Hector and take him back. Do not forget to equip torches or cast Light spells down there.",
-    "pt-BR": "Lena e Dek confirmaram que outro Necrófago, Hector, foi levado vivo pelos orcs durante o ataque. Eles o moveram para dentro do antigo templo. Encontre Hector e leve-o de volta. Não se esqueça de equipar tochas ou lançar feitiços de luz lá embaixo."
+    "pt-BR": "Lena e Dek confirmaram que outro Catador, Hector, foi levado vivo pelos orcs durante o ataque. Eles o moveram para dentro do antigo templo. Encontre Hector e leve-o de volta. Não se esqueça de equipar tochas ou lançar feitiços de luz lá embaixo."
   },
   {
     "key": "Quest/&TelemaLevel_Quest_EnterTitle",
@@ -17095,7 +17095,7 @@
   {
     "key": "Quest/&TelemaLevel_Quest_FindScavsTitle",
     "en": "Find the Scavengers",
-    "pt-BR": "Encontre os Necrófagos"
+    "pt-BR": "Encontre os Catadores"
   },
   {
     "key": "Quest/&TelemaLevel_Quest_Rest_Outcome1Description",
@@ -17140,7 +17140,7 @@
   {
     "key": "Quest/&TelemaLevel_Quest_ReturnToScavsTitle",
     "en": "Return to the Scavengers",
-    "pt-BR": "Voltar para os Necrófagos"
+    "pt-BR": "Voltar para os Catadores"
   },
   {
     "key": "Quest/&TelemaLevel_Title",
@@ -18205,7 +18205,7 @@
   {
     "key": "Race/&ElfHighTitle",
     "en": "High Elf",
-    "pt-BR": "Elfo alto"
+    "pt-BR": "Alto Elfo"
   },
   {
     "key": "Race/&ElfMaleName10Title",
@@ -18340,7 +18340,7 @@
   {
     "key": "Race/&ElfSylvanTitle",
     "en": "Sylvan Elf",
-    "pt-BR": "Elfo Silvestre"
+    "pt-BR": "Elfo da Floresta"
   },
   {
     "key": "Race/&ElfTitle",
@@ -18495,7 +18495,7 @@
   {
     "key": "Race/&HalflingIslandTitle",
     "en": "Island Halfling",
-    "pt-BR": "Ilha Halfling"
+    "pt-BR": "Halfling das ilhas"
   },
   {
     "key": "Race/&HalflingMaleName1Title",
@@ -18530,7 +18530,7 @@
   {
     "key": "Race/&HalflingMarshTitle",
     "en": "Marsh Halfling",
-    "pt-BR": "Marsh Halfling"
+    "pt-BR": "Halfling do Pântano"
   },
   {
     "key": "Race/&HalflingSurName1Title",
@@ -19453,7 +19453,7 @@
   {
     "key": "Rules/&ConditionAuraOfCourageTitle",
     "en": "Aura of Courage",
-    "pt-BR": "Aura of Courage"
+    "pt-BR": "Aura da Coragem"
   },
   {
     "key": "Rules/&ConditionAuraOfProtectionDescription",
@@ -20658,12 +20658,12 @@
   {
     "key": "Rules/&DamageBludgeoningDescription",
     "en": "Blunt force attacks - hammers, falling, constriction, and the like - deal bludgeoning damage.",
-    "pt-BR": "Ataques de força bruta - martelos, quedas, constrição e outros - causam danos por contusão."
+    "pt-BR": "Ataques de força bruta - martelos, quedas, constrição e outros - causam danos por concussão."
   },
   {
     "key": "Rules/&DamageBludgeoningTitle",
     "en": "Bludgeoning",
-    "pt-BR": "Espancamento"
+    "pt-BR": "concussão"
   },
   {
     "key": "Rules/&DamageColdDescription",
@@ -20773,7 +20773,7 @@
   {
     "key": "Rules/&DamageSlashingTitle",
     "en": "Slashing",
-    "pt-BR": "Cortando"
+    "pt-BR": "Cortante"
   },
   {
     "key": "Rules/&DamageThunderDescription",
@@ -21328,17 +21328,17 @@
   {
     "key": "Rules/&TurnOccurenceEndOfTurnFormat",
     "en": "End of Turn",
-    "pt-BR": "Fim da Curva"
+    "pt-BR": "Fim do Turno"
   },
   {
     "key": "Rules/&TurnOccurenceEndOfTurnNoPerceptionOfSourceFormat",
     "en": "End of Turn",
-    "pt-BR": "Fim da Curva"
+    "pt-BR": "Fim do Turno"
   },
   {
     "key": "Rules/&TurnOccurenceStartOfTurnFormat",
     "en": "Start of Turn",
-    "pt-BR": "Início da curva"
+    "pt-BR": "Início do Turno"
   },
   {
     "key": "Rules/&VerboseComponentTitle",
@@ -21563,12 +21563,12 @@
   {
     "key": "Screen/&BackgroundFeaturesTitle",
     "en": "Background Features",
-    "pt-BR": "Recursos de fundo"
+    "pt-BR": "Recursos de Antecedente"
   },
   {
     "key": "Screen/&BackgroundHeaderTitle",
     "en": "Background",
-    "pt-BR": "Fundo"
+    "pt-BR": "Antecedente"
   },
   {
     "key": "Screen/&BackTitle",
@@ -22028,7 +22028,7 @@
   {
     "key": "Screen/&DropItemTitle",
     "en": "Drop",
-    "pt-BR": "Solta"
+    "pt-BR": "Largar"
   },
   {
     "key": "Screen/&DungeonMasterTitle",
@@ -22243,7 +22243,7 @@
   {
     "key": "Screen/&ExamineDocumentTitle",
     "en": "Read",
-    "pt-BR": "Leitura"
+    "pt-BR": "Ler"
   },
   {
     "key": "Screen/&ExistingClassSelectionTitle",
@@ -22313,7 +22313,7 @@
   {
     "key": "Screen/&GameMenuTitle",
     "en": "Menu",
-    "pt-BR": "Cardápio"
+    "pt-BR": "Menu"
   },
   {
     "key": "Screen/&GamePausedTitle",
@@ -22728,7 +22728,7 @@
   {
     "key": "Screen/&JournalTitle",
     "en": "Party Journal",
-    "pt-BR": "Diário de Festa"
+    "pt-BR": "Diário do grupo"
   },
   {
     "key": "Screen/&JournalTravelContinuedTitle",
@@ -23348,17 +23348,17 @@
   {
     "key": "Screen/&QuitLocationTitle",
     "en": "Quit Location",
-    "pt-BR": "Localização de saída"
+    "pt-BR": "sair do local"
   },
   {
     "key": "Screen/&RaceHeaderTitle",
     "en": "Ancestry",
-    "pt-BR": "Ancestralidade"
+    "pt-BR": "Raça"
   },
   {
     "key": "Screen/&RacialFeaturesTitle",
     "en": "Ancestry Features",
-    "pt-BR": "Características de ancestralidade"
+    "pt-BR": "Traços Raciais"
   },
   {
     "key": "Screen/&ReadyCantripAttackDescription",
@@ -23533,7 +23533,7 @@
   {
     "key": "Screen/&ReviveCastSpellFormat",
     "en": "Cast {0}",
-    "pt-BR": "Elenco {0}"
+    "pt-BR": "conjurar {0}"
   },
   {
     "key": "Screen/&ReviveItemSpellSubtitlePluralFormat",
@@ -24163,7 +24163,7 @@
   {
     "key": "Screen/&TravelFatigueDescription",
     "en": "The party accumulates fatigue through navigating the world map. A long rest recovers fatigue points.",
-    "pt-BR": "A festa acumula cansaço ao navegar pelo mapa-múndi. Um longo descanso recupera os pontos de fadiga."
+    "pt-BR": "O grupo acumula cansaço ao navegar pelo mapa-múndi. Um longo descanso recupera os pontos de fadiga."
   },
   {
     "key": "Screen/&TravelFatigueTitle",
@@ -24173,7 +24173,7 @@
   {
     "key": "Screen/&TravelFoodDescription",
     "en": "How much food your party carries. You need one unit per character per long rest.",
-    "pt-BR": "Quanta comida sua festa carrega. Você precisa de uma unidade por personagem por longo descanso."
+    "pt-BR": "Quanta comida seu grupo carrega. Você precisa de uma unidade por personagem por longo descanso."
   },
   {
     "key": "Screen/&TravelFoodMultipleFormat",
@@ -24668,7 +24668,7 @@
   {
     "key": "Setting/&PartyReactionTrapDetectedNoReactionDescription",
     "en": "The party continues with its current actions.",
-    "pt-BR": "A festa continua com suas ações atuais."
+    "pt-BR": "O grupo continua com suas ações atuais."
   },
   {
     "key": "Setting/&PartyReactionTrapDetectedNoReactionTitle",
@@ -24678,7 +24678,7 @@
   {
     "key": "Setting/&PartyReactionTrapDetectedStopMovementDescription",
     "en": "The party stops moving.",
-    "pt-BR": "A festa para de se mover."
+    "pt-BR": "O grupo parou de se mover."
   },
   {
     "key": "Setting/&PartyReactionTrapDetectedStopMovementTitle",
@@ -25238,7 +25238,7 @@
   {
     "key": "Skill/&MedecineTitle",
     "en": "Medicine",
-    "pt-BR": "Medicamento"
+    "pt-BR": "Medicina"
   },
   {
     "key": "Skill/&NatureDescription",
@@ -25501,7 +25501,7 @@
   {
     "key": "Spell/&AcidSplashDescription",
     "en": "Launch an acid bolt.",
-    "pt-BR": "Lance um parafuso de ácido."
+    "pt-BR": "Lance uma seta de ácido."
   },
   {
     "key": "Spell/&AcidSplashTitle",
@@ -25516,7 +25516,7 @@
   {
     "key": "Spell/&AidTitle",
     "en": "Aid",
-    "pt-BR": "Ajuda"
+    "pt-BR": "socorro"
   },
   {
     "key": "Spell/&AnimateDeadDescription",
@@ -25641,7 +25641,7 @@
   {
     "key": "Spell/&BlurTitle",
     "en": "Blur",
-    "pt-BR": "Borrão"
+    "pt-BR": "Ofuscar"
   },
   {
     "key": "Spell/&BrandingSmiteDescription",
@@ -25651,7 +25651,7 @@
   {
     "key": "Spell/&BrandingSmiteTitle",
     "en": "Branding Smite",
-    "pt-BR": "Branding Smite"
+    "pt-BR": "Marca da Punição"
   },
   {
     "key": "Spell/&BurningHandsDescription",
@@ -25671,7 +25671,7 @@
   {
     "key": "Spell/&CharmPersonTitle",
     "en": "Charm Person",
-    "pt-BR": "Charme Pessoa"
+    "pt-BR": "Encantar Pessoa"
   },
   {
     "key": "Spell/&ChillTouchDescription",
@@ -25681,7 +25681,7 @@
   {
     "key": "Spell/&ChillTouchTitle",
     "en": "Chill Touch",
-    "pt-BR": "Chill Touch"
+    "pt-BR": "Toque Gélido"
   },
   {
     "key": "Spell/&ColorSprayTitle",
@@ -25801,7 +25801,7 @@
   {
     "key": "Spell/&DispelMagicDescription",
     "en": "End active spells on a creature or object.",
-    "pt-BR": "Acabar com os feitiços ativos em uma criatura ou objeto."
+    "pt-BR": "dissipe efeitos de feitiços ativos em uma criatura ou objeto."
   },
   {
     "key": "Spell/&DispelMagicTitle",
@@ -25816,7 +25816,7 @@
   {
     "key": "Spell/&DivineFavorTitle",
     "en": "Divine Favor",
-    "pt-BR": "Favor Divino"
+    "pt-BR": "Favorecimento Divino"
   },
   {
     "key": "Spell/&EnhanceAbilityBearsEnduranceDescription",
@@ -25906,7 +25906,7 @@
   {
     "key": "Spell/&FaerieFireTitle",
     "en": "Faerie Fire",
-    "pt-BR": "Faerie Fire"
+    "pt-BR": "Fogo de fada"
   },
   {
     "key": "Spell/&FalseLifeDescription",
@@ -25926,7 +25926,7 @@
   {
     "key": "Spell/&FearTitle",
     "en": "Fear",
-    "pt-BR": "Temer"
+    "pt-BR": "Medo"
   },
   {
     "key": "Spell/&FeatherFallDescription",
@@ -25936,7 +25936,7 @@
   {
     "key": "Spell/&FeatherFallTitle",
     "en": "Feather Fall",
-    "pt-BR": "Feather Fall"
+    "pt-BR": "queda suave"
   },
   {
     "key": "Spell/&FindTrapsDescription",
@@ -25966,7 +25966,7 @@
   {
     "key": "Spell/&FireBoltTitle",
     "en": "Fire Bolt",
-    "pt-BR": "Fire Bolt"
+    "pt-BR": "Raio de Fogo"
   },
   {
     "key": "Spell/&FlamingSphereDescription",
@@ -25986,7 +25986,7 @@
   {
     "key": "Spell/&FlyTitle",
     "en": "Fly",
-    "pt-BR": "Mosca"
+    "pt-BR": "Voar"
   },
   {
     "key": "Spell/&FogCloudDescription",
@@ -26026,7 +26026,7 @@
   {
     "key": "Spell/&GuidingBoltTitle",
     "en": "Guiding Bolt",
-    "pt-BR": "Parafuso Guia"
+    "pt-BR": "Seta Guia"
   },
   {
     "key": "Spell/&HasteDescription",
@@ -26046,7 +26046,7 @@
   {
     "key": "Spell/&HealingWordTitle",
     "en": "Healing Word",
-    "pt-BR": "Palavra de Cura"
+    "pt-BR": "Palavra Curativa"
   },
   {
     "key": "Spell/&HeroismDescription",
@@ -26066,7 +26066,7 @@
   {
     "key": "Spell/&HideousLaughterTitle",
     "en": "Hideous Laughter",
-    "pt-BR": "Risada horrível"
+    "pt-BR": "Riso Histérico"
   },
   {
     "key": "Spell/&HoldPersonDescription",
@@ -26116,7 +26116,7 @@
   {
     "key": "Spell/&InflictWoundsTitle",
     "en": "Inflict Wounds",
-    "pt-BR": "Infligir feridas"
+    "pt-BR": "Infligir ferimentos"
   },
   {
     "key": "Spell/&InvisibilityDescription",
@@ -26146,7 +26146,7 @@
   {
     "key": "Spell/&KnockTitle",
     "en": "Knock",
-    "pt-BR": "Bater"
+    "pt-BR": "Abrir Fechaduras"
   },
   {
     "key": "Spell/&LesserRestorationDescription",
@@ -26166,7 +26166,7 @@
   {
     "key": "Spell/&LightDescription",
     "en": "An object you can touch emits a powerful light for a limited time.",
-    "pt-BR": "Um objeto que você pode tocar emite uma luz poderosa por um tempo limitado."
+    "pt-BR": "Um objeto que você possa tocar emite uma luz poderosa por um tempo limitado."
   },
   {
     "key": "Spell/&LightningBoltDescription",
@@ -26181,7 +26181,7 @@
   {
     "key": "Spell/&LightTitle",
     "en": "Light",
-    "pt-BR": "Claro"
+    "pt-BR": "iluminar"
   },
   {
     "key": "Spell/&LongstriderDescription",
@@ -26201,7 +26201,7 @@
   {
     "key": "Spell/&MageArmorTitle",
     "en": "Mage Armor",
-    "pt-BR": "Armadura de Mago"
+    "pt-BR": "Armadura Mágica"
   },
   {
     "key": "Spell/&MagicCircleDescription",
@@ -26301,7 +26301,7 @@
   {
     "key": "Spell/&PrayerOfHealingTitle",
     "en": "Prayer of Healing",
-    "pt-BR": "Oração de Cura"
+    "pt-BR": "Oração Curativa"
   },
   {
     "key": "Spell/&ProtectionFromEnergyAcidDescription",
@@ -26391,7 +26391,7 @@
   {
     "key": "Spell/&RaiseDeadTitle",
     "en": "Raise Dead",
-    "pt-BR": "Raise Dead"
+    "pt-BR": "Animar Morto"
   },
   {
     "key": "Spell/&RayOfEnfeeblementDescription",
@@ -26411,7 +26411,7 @@
   {
     "key": "Spell/&RayOfFrostTitle",
     "en": "Ray of Frost",
-    "pt-BR": "Ray of Frost"
+    "pt-BR": "Raio de Gelo"
   },
   {
     "key": "Spell/&RemoveCurseDescription",
@@ -26501,7 +26501,7 @@
   {
     "key": "Spell/&ShadowArmorTitle",
     "en": "Shadow Armor",
-    "pt-BR": "Shadow Armor"
+    "pt-BR": "Armadura Sombria"
   },
   {
     "key": "Spell/&ShadowDaggerDescription",
@@ -26511,7 +26511,7 @@
   {
     "key": "Spell/&ShadowDaggerTitle",
     "en": "Shadow Dagger",
-    "pt-BR": "Shadow Dagger"
+    "pt-BR": "Adaga Sombria"
   },
   {
     "key": "Spell/&ShatterDescription",
@@ -26556,7 +26556,7 @@
   {
     "key": "Spell/&SleepTitle",
     "en": "Sleep",
-    "pt-BR": "Dorme"
+    "pt-BR": "Dormir"
   },
   {
     "key": "Spell/&SleetStormDescription",
@@ -26576,7 +26576,7 @@
   {
     "key": "Spell/&SlowTitle",
     "en": "Slow",
-    "pt-BR": "Lento"
+    "pt-BR": "Lentidão"
   },
   {
     "key": "Spell/&SpareTheDyingDescription",
@@ -26656,7 +26656,7 @@
   {
     "key": "Spell/&TrueStrikeTitle",
     "en": "True Strike",
-    "pt-BR": "True Strike"
+    "pt-BR": "Ataque Certeiro"
   },
   {
     "key": "Spell/&VampiricTouchDescription",
@@ -26776,7 +26776,7 @@
   {
     "key": "Stage/&AbilityScoresBonusFromRaceTitle",
     "en": "From Ancestry",
-    "pt-BR": "De ancestrais"
+    "pt-BR": "pela linhagem"
   },
   {
     "key": "Stage/&AbilityScoresCurrentTitle",
@@ -26821,7 +26821,7 @@
   {
     "key": "Stage/&AbilityScoresMethodPointsTitle",
     "en": "Point Buy",
-    "pt-BR": "Point Buy"
+    "pt-BR": "Compra de pontos"
   },
   {
     "key": "Stage/&AbilityScoresMethodRollTitle",
@@ -27001,7 +27001,7 @@
   {
     "key": "Stage/&BackgroundSelectionStageTitle",
     "en": "Background",
-    "pt-BR": "Fundo"
+    "pt-BR": "Antecedentes"
   },
   {
     "key": "Stage/&CantripLearnPluralTitle",
@@ -27491,7 +27491,7 @@
   {
     "key": "Stage/&RaceSelectionStageTitle",
     "en": "Ancestry",
-    "pt-BR": "Ancestralidade"
+    "pt-BR": "Raça"
   },
   {
     "key": "Stage/&RaceSubraceCountDescription",
@@ -28546,12 +28546,12 @@
   {
     "key": "Tooltip/&LightingTargetUnlitFormat",
     "en": "{0} is unlit.",
-    "pt-BR": "{0} está apagado."
+    "pt-BR": "{0} está Sem iluminação."
   },
   {
     "key": "Tooltip/&LightingUnlitFormat",
     "en": "Unlit",
-    "pt-BR": "Apagado"
+    "pt-BR": "Sem iluminação"
   },
   {
     "key": "Tooltip/&LightSourceEffectsTitle",
@@ -29186,7 +29186,7 @@
   {
     "key": "Travel/&FatigueExhaustedDescription",
     "en": "The party is completely exhausted and must rest.",
-    "pt-BR": "A festa está completamente exausta e deve descansar."
+    "pt-BR": "O grupo está completamente exausto e deve descansar."
   },
   {
     "key": "Travel/&FatigueExhaustedTitle",
@@ -29196,7 +29196,7 @@
   {
     "key": "Travel/&FatigueFreshDescription",
     "en": "The party is fresh and can keep on traveling.",
-    "pt-BR": "A festa está fresca e pode continuar viajando."
+    "pt-BR": "O grupo descansou e pode continuar viajando."
   },
   {
     "key": "Travel/&FatigueFreshTitle",
@@ -29206,7 +29206,7 @@
   {
     "key": "Travel/&FatigueImpededDescription",
     "en": "The party is slightly tired but can keep traveling.",
-    "pt-BR": "A festa está um pouco cansada, mas pode continuar viajando."
+    "pt-BR": "O grupo está um pouco cansado, mas pode continuar viajando."
   },
   {
     "key": "Travel/&FatigueImpededTitle",
@@ -29236,7 +29236,7 @@
   {
     "key": "Travel/&PaceSlowDescription",
     "en": "The party travels slowly (16 miles per day), paying more attention to the surroundings and being less noticeable.",
-    "pt-BR": "A festa viaja lentamente (16 milhas por dia), prestando mais atenção ao entorno e sendo menos perceptível."
+    "pt-BR": "O grupo viaja lentamente (16 milhas por dia), prestando mais atenção ao entorno e sendo menos perceptível."
   },
   {
     "key": "Travel/&PaceSlowTitle",
@@ -29256,7 +29256,7 @@
   {
     "key": "Travel/&StandardCampActivity03Title",
     "en": "{0} cooks a nice meal for the party.",
-    "pt-BR": "{0} cozinha uma boa refeição para a festa."
+    "pt-BR": "{0} cozinha uma boa refeição para o grupo."
   },
   {
     "key": "Travel/&StandardCampActivity04Title",
@@ -29321,7 +29321,7 @@
   {
     "key": "Travel/&StandardRandomEvents2Title",
     "en": "The party passes an old Imperial marketplace, now used as a meeting point for Scavengers.",
-    "pt-BR": "A festa passa por um antigo mercado Imperial, agora usado como ponto de encontro dos Catadores."
+    "pt-BR": "O grupo passa por um antigo mercado Imperial, agora usado como ponto de encontro dos Catadores."
   },
   {
     "key": "Travel/&StandardRandomEvents3Title",
@@ -29471,7 +29471,7 @@
   {
     "key": "Travel/&TravelEventIngredientGatheringFailure1Title",
     "en": "The party did not find any useful ingredients.",
-    "pt-BR": "A festa não encontrou nenhum ingrediente útil."
+    "pt-BR": "O grupo não encontrou nenhum ingrediente útil."
   },
   {
     "key": "Travel/&TravelEventIngredientGatheringSuccess1Title",
@@ -29481,22 +29481,22 @@
   {
     "key": "Travel/&TravelEventLongRestCompleteFailure1Title",
     "en": "The party has failed to complete its long rest",
-    "pt-BR": "A festa não conseguiu completar seu longo descanso"
+    "pt-BR": "O grupo não conseguiu completar seu longo descanso"
   },
   {
     "key": "Travel/&TravelEventLongRestCompleteSuccess1Title",
     "en": "The party has finished its long rest and consumed {0} unit(s) of food.",
-    "pt-BR": "A festa terminou seu longo descanso e consumiu {0} unidade (s) de comida."
+    "pt-BR": "O grupo terminou seu longo descanso e consumiu {0} unidade (s) de comida."
   },
   {
     "key": "Travel/&TravelEventLongRestStart1Title",
     "en": "The party starts to rest",
-    "pt-BR": "A festa começa a descansar"
+    "pt-BR": "O grupo começa a descansar"
   },
   {
     "key": "Travel/&TravelEventNavigationStarts1Title",
     "en": "The party is on the move",
-    "pt-BR": "A festa esta em movimento"
+    "pt-BR": "O grupo esta em movimento"
   },
   {
     "key": "Travel/&TravelEventNewDayTitle",
@@ -29506,7 +29506,7 @@
   {
     "key": "Travel/&TravelEventSetCamp1Title",
     "en": "The party sets camp",
-    "pt-BR": "A festa acampa"
+    "pt-BR": "O grupo monta acampamento"
   },
   {
     "key": "Travel/&TravelJourneyBeginsTitle",
@@ -29516,7 +29516,7 @@
   {
     "key": "Travel/&TravelJourneyEndsTitle",
     "en": "The party has arrived",
-    "pt-BR": "A festa chegou"
+    "pt-BR": "O grupo chegou"
   },
   {
     "key": "TutorialSection/&BasicsTitle",
@@ -29596,7 +29596,7 @@
   {
     "key": "TutorialStep/&GatheringTitle",
     "en": "Gathering Your Party",
-    "pt-BR": "Reunindo sua festa"
+    "pt-BR": "Reunindo seu grupo"
   },
   {
     "key": "TutorialStep/&InventorySpaceDescription",
@@ -29666,7 +29666,7 @@
   {
     "key": "TutorialStep/&OutgameCharacterSelectionTitle",
     "en": "Party Setup",
-    "pt-BR": "Configuração de festa"
+    "pt-BR": "Configuração de grupo"
   },
   {
     "key": "TutorialStep/&OutgameCharacterCreationAbilityScoresDescription",
@@ -29676,7 +29676,7 @@
   {
     "key": "TutorialStep/&OutgameCharacterCreationAbilityScoresTitle",
     "en": "Ability Scores",
-    "pt-BR": "Pontuação de habilidade"
+    "pt-BR": "Pontos de habilidade"
   },
   {
     "key": "TutorialStep/&OutgameCharacterCreationAbilityScores2Description",
@@ -29881,7 +29881,7 @@
   {
     "key": "TutorialStep/&Tuto_CampaignMap3_Description",
     "en": "You can set up travel so you don't need to micro-manage your party. \\n\\nWhenever someone can level up, a long rest can be started immediately without finishing the day's travel.\\nWhen a crafting task is complete, you can set up a new one without losing time.\\nYou can open the post-rest window after a long rest, for instance, to modify your prepared spells.\\n",
-    "pt-BR": "Você pode configurar a viagem para que não precise microgerenciar sua festa.\\n\\nQuando alguém pode subir de nível, um longo descanso pode ser iniciado imediatamente sem terminar a viagem do dia.\\nQuando uma tarefa de artesanato for concluída, você pode configurar uma nova sem perder tempo.\\nVocê pode abrir a janela de pós-descanso depois de um longo descanso, por exemplo, para modificar seus feitiços preparados.\\n"
+    "pt-BR": "Você pode configurar a viagem para que não precise microgerenciar seu grupo.\\n\\nQuando alguém pode subir de nível, um longo descanso pode ser iniciado imediatamente sem terminar a viagem do dia.\\nQuando uma tarefa de artesanato for concluída, você pode configurar uma nova sem perder tempo.\\nVocê pode abrir a janela de pós-descanso depois de um longo descanso, por exemplo, para modificar seus feitiços preparados.\\n"
   },
   {
     "key": "TutorialStep/&Tuto_CampaignMap3_Title",
@@ -30071,7 +30071,7 @@
   {
     "key": "TutorialStep/&Tuto_ShortRest_Description",
     "en": "Short rests are a useful way to recover while exploring a dungeon. You can do so whenever you are far enough away from all enemies, though this may be impossible in a very hostile location. The party must all be together.\\n\\nA short rest is a period of downtime of one hour, in which characters do nothing more strenuous than eating, drinking, reading, and tending to wounds.\\n\\n",
-    "pt-BR": "Descansos curtos são uma maneira útil de se recuperar enquanto explora uma masmorra. Você pode fazer isso sempre que estiver longe o suficiente de todos os inimigos, embora isso possa ser impossível em um local muito hostil. A festa deve ser toda junta.\\n\\nUm breve descanso é um período de inatividade de uma hora, no qual os personagens não fazem nada mais extenuante do que comer, beber, ler e cuidar de feridas.\\n\\n"
+    "pt-BR": "Descansos curtos são uma maneira útil de se recuperar enquanto explora uma masmorra. Você pode fazer isso sempre que estiver longe o suficiente de todos os inimigos, embora isso possa ser impossível em um local muito hostil. O grupo deve ser toda junta.\\n\\nUm breve descanso é um período de inatividade de uma hora, no qual os personagens não fazem nada mais extenuante do que comer, beber, ler e cuidar de feridas.\\n\\n"
   },
   {
     "key": "TutorialStep/&Tuto_ShortRest_Title",
@@ -30116,12 +30116,12 @@
   {
     "key": "TutorialStep/&Tuto_TeamBalance_Description",
     "en": "A balanced party has a better chance of surviving any kind of situation. For instance, one damage dealer (fighter), one healer (cleric), one magic user (wizard), and one stealthy character (rogue) make for a classic, balanced party. \\nA paladin is a combination of a damage dealer, healer, and magic user, with some ability in all three areas. Likewise, a ranger is a damage dealer, a stealthy character, and a magic user. \\nIt's best to avoid having two or three characters of the same class, as this seriously limits your options. Four of the same class is even worse - but hey, it's your party!",
-    "pt-BR": "Uma festa equilibrada tem mais chance de sobreviver a qualquer tipo de situação. Por exemplo, um causador de danos (lutador), um curandeiro (clérigo), um usuário de magia (mago) e um personagem furtivo (ladino) formam um grupo clássico e equilibrado.\\nUm paladino é uma combinação de negociante de dano, curador e usuário de magia, com alguma habilidade em todas as três áreas. Da mesma forma, um ranger é um causador de danos, um personagem furtivo e um usuário de magia.\\nÉ melhor evitar ter dois ou três personagens da mesma classe, pois isso limita seriamente suas opções. Quatro da mesma classe é ainda pior - mas ei, a festa é sua!"
+    "pt-BR": "Um grupo equilibrado tem mais chance de sobreviver a qualquer tipo de situação. Por exemplo, um causador de danos (lutador), um curandeiro (clérigo), um usuário de magia (mago) e um personagem furtivo (ladino) formam um grupo clássico e equilibrado.\\nUm paladino é uma combinação de dano, curandeiro e usuário de magia, com alguma habilidade em todas as três áreas. Da mesma forma, um patrulheiro causa de dano, personagem furtivo e um usuário de magia.\\nÉ melhor evitar ter dois ou três personagens da mesma classe, pois isso limita seriamente suas opções. Quatro da mesma classe é ainda pior - mas ei, o grupo é sua!"
   },
   {
     "key": "TutorialStep/&Tuto_TeamBalance_Title",
     "en": "Party Balance",
-    "pt-BR": "Balanço da festa"
+    "pt-BR": "Equilibrio do grupo"
   },
   {
     "key": "TutorialStep/&Tuto_Telema_CameraElevation_Description",
@@ -30171,7 +30171,7 @@
   {
     "key": "TutorialStep/&Tuto_Telema_Identify2_Title",
     "en": "Ritual Casting",
-    "pt-BR": "Elenco Ritual"
+    "pt-BR": "Conjurando um Ritual"
   },
   {
     "key": "TutorialStep/&Tuto_UseCovers_Description",
@@ -31146,12 +31146,12 @@
   {
     "key": "Travel/&TravelEventExplorationEndsTitle",
     "en": "The party has found a way in.",
-    "pt-BR": "A festa encontrou uma maneira de entrar."
+    "pt-BR": "O grupo encontrou uma maneira de entrar."
   },
   {
     "key": "Travel/&TravelEventExplorationStartsTitle",
     "en": "The party starts looking for access to the location.",
-    "pt-BR": "A festa começa a buscar acesso ao local."
+    "pt-BR": "O grupo começa a buscar acesso ao local."
   },
   {
     "key": "CharacterInteraction/&SorakTrackDescription",
@@ -33361,7 +33361,7 @@
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_Mertonsquest_01",
     "en": "First Scavenger",
-    "pt-BR": "Primeiro Necrófago"
+    "pt-BR": "Primeiro Catador"
   },
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_Coparann_Cleric",
@@ -33371,7 +33371,7 @@
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_Coparann_Scavengers",
     "en": "The Scavengers of Coparann",
-    "pt-BR": "Os Necrófagos de Coparann"
+    "pt-BR": "Os Catadores de Coparann"
   },
   {
     "key": "Campaign/&CrownOfTheMagister_Journal_TOM_0Beryl",
@@ -33661,12 +33661,12 @@
   {
     "key": "Setting/&PartyD20StyleDescription",
     "en": "Die style for party d20 rolls",
-    "pt-BR": "Estilo de matriz para rolos de festa d20"
+    "pt-BR": "Estilo de matriz para rolos do grupo d20"
   },
   {
     "key": "Setting/&PartyD20StyleTitle",
     "en": "Party d20 Style",
-    "pt-BR": "Estilo Party d20"
+    "pt-BR": "Estilo de grupo d20"
   },
   {
     "key": "Setting/&PartySecondaryD20StyleDescription",
@@ -33746,7 +33746,7 @@
   {
     "key": "Setting/&PartyJournalTitle",
     "en": "Party Journal",
-    "pt-BR": "Diário de Festa"
+    "pt-BR": "Diário do grupo"
   },
   {
     "key": "Setting/&BestiaryTitle",
@@ -35036,7 +35036,7 @@
   {
     "key": "Equipment/&MertonStashTitle",
     "en": "Unknown Party Stash",
-    "pt-BR": "Stash de festa desconhecido"
+    "pt-BR": "Stash do grupo desconhecido"
   },
   {
     "key": "Equipment/&MertonsJournal_Title",
@@ -35576,7 +35576,7 @@
   {
     "key": "Screen/&PartyTeleportationTitle",
     "en": "Party Teleportation",
-    "pt-BR": "Teletransporte de festa"
+    "pt-BR": "Teletransporte do grupo"
   },
   {
     "key": "Screen/&TeleportTitle",
@@ -36519,7 +36519,7 @@
   {
     "key": "Quest/&Caer_Lem_Scavengers_ClaimCaerLem_TalkToAnnie_Outcome1Description",
     "en": "You started your business with the Scavengers by sending them to Caer Lem in order to loot everything you left there.",
-    "pt-BR": "Você começou seu negócio com os Necrófagos, enviando-os a Caer Lem para saquear tudo o que você deixou lá."
+    "pt-BR": "Você começou seu negócio com os Catadores, enviando-os a Caer Lem para saquear tudo o que você deixou lá."
   },
   {
     "key": "TutorialStep/&Tuto_T8_Scav01_Title",
@@ -36529,7 +36529,7 @@
   {
     "key": "TutorialStep/&Tuto_T8_Scav01_Description",
     "en": "When you have cleared a location of monsters, go to any Scavenger outpost to report your deeds. They will send their people there to collect the minor loot left and sell it.\\nEach time you visit a Scavenger HQ, you can claim the money they owe you.",
-    "pt-BR": "Quando você limpar uma localização de monstros, vá para qualquer posto avançado de Necrófagos para relatar seus feitos. Eles enviarão seu pessoal lá para coletar o pequeno saque restante e vendê-lo.\\nCada vez que você visitar um QG de Scavenger, você pode reivindicar o dinheiro que eles lhe devem."
+    "pt-BR": "Quando você limpar uma localização de monstros, vá para qualquer posto avançado dos Catadores para relatar seus feitos. Eles enviarão seu pessoal lá para coletar o pequeno saque restante e vendê-lo.\\nCada vez que você visitar um QG de Scavenger, você pode reivindicar o dinheiro que eles lhe devem."
   },
   {
     "key": "TutorialStep/&Tuto_T8_Scav02_Title",
@@ -43612,17 +43612,17 @@
   {
     "key": "Travel/&StandardRandomEvents13Title",
     "en": "The party passes by a mass grave and walks away with a somber look.",
-    "pt-BR": "A festa passa por uma vala comum e se afasta com um olhar sombrio."
+    "pt-BR": "O grupo passa por uma vala comum e se afasta com um olhar sombrio."
   },
   {
     "key": "Travel/&StandardRandomEvents14Title",
     "en": "The party passes by a Manacalon statue representing yet another emperor.",
-    "pt-BR": "A festa passa por uma estátua de Manacalon que representa mais um imperador."
+    "pt-BR": "O grupo passa por uma estátua de Manacalon que representa mais um imperador."
   },
   {
     "key": "Travel/&StandardRandomEvents15Title",
     "en": "The party passes by a broken statue of an elven woman with a slave.",
-    "pt-BR": "A festa passa por uma estátua quebrada de uma mulher élfica com uma escrava."
+    "pt-BR": "O grupo passa por uma estátua quebrada de uma mulher élfica com uma escrava."
   },
   {
     "key": "Travel/&StandardRandomEvents16Title",
@@ -43642,17 +43642,17 @@
   {
     "key": "Travel/&StandardRandomEvents19Title",
     "en": "The party passes by a shrine to Maraike and hears a bird singing.",
-    "pt-BR": "A festa passa por um santuário dedicado a Maraike e ouve o canto de um pássaro."
+    "pt-BR": "O grupo passa por um santuário dedicado a Maraike e ouve o canto de um pássaro."
   },
   {
     "key": "Travel/&StandardRandomEvents20Title",
     "en": "The party passes by a shrine to Misaye and hears someone laughing.",
-    "pt-BR": "A festa passa por um santuário dedicado a Misaye e ouve alguém rindo."
+    "pt-BR": "O grupo passa por um santuário dedicado a Misaye e ouve alguém rindo."
   },
   {
     "key": "Travel/&StandardRandomEvents21Title",
     "en": "The party passes by a ruined Imperial tollgate on which flowers have grown.",
-    "pt-BR": "A festa passa por um pedágio Imperial em ruínas, onde flores cresceram."
+    "pt-BR": "O grupo passa por um pedágio Imperial em ruínas, onde flores cresceram."
   },
   {
     "key": "Travel/&StandardRandomEvents22Title",
@@ -43662,12 +43662,12 @@
   {
     "key": "Travel/&StandardRandomEvents23Title",
     "en": "The party walks in light rain for some time.",
-    "pt-BR": "A festa anda na chuva fraca há algum tempo."
+    "pt-BR": "O grupo anda na chuva fraca por algum tempo."
   },
   {
     "key": "Travel/&StandardRandomEvents24Title",
     "en": "The party walks in heavy rain for a while.",
-    "pt-BR": "A festa anda sob forte chuva por um tempo."
+    "pt-BR": "O grupo anda sob forte chuva por um tempo."
   },
   {
     "key": "Travel/&StandardRandomEvents25Title",
@@ -44107,7 +44107,7 @@
   {
     "key": "Feedback/&PartyMoneySpentLine",
     "en": "The party loses {0}.",
-    "pt-BR": "A festa perde {0}."
+    "pt-BR": "O grupo perdeu {0}."
   },
   {
     "key": "NPC/&NPC_Scavenger_TOM_Title",
@@ -45727,7 +45727,7 @@
   {
     "key": "PartyBanter/&Cynical1_Secret_door_Detected_Self",
     "en": "Look! A secret door!",
-    "pt-BR": "Olhar! Uma porta secreta!"
+    "pt-BR": "vejam! Uma porta secreta!"
   },
   {
     "key": "PartyBanter/&Cynical2_Secret_door_Detected_Self",
@@ -45887,7 +45887,7 @@
   {
     "key": "PartyBanter/&Cynical5_Kill_Enemy_Self",
     "en": "Another one bites the dust!",
-    "pt-BR": "Outro morde a poeira!"
+    "pt-BR": "mais um bate as botas!"
   },
   {
     "key": "PartyBanter/&Cynical1_Healed_by_ally_Self",
@@ -47337,7 +47337,7 @@
   {
     "key": "Narration/&Telema_4_Entrance_Cleric",
     "en": "Don't forget... we're here to help the Scavengers.",
-    "pt-BR": "Não se esqueça ... estamos aqui para ajudar os Necrófagos."
+    "pt-BR": "Não se esqueça ... estamos aqui para ajudar os Catadores."
   },
   {
     "key": "Narration/&Telema_5_Entrance_Rogue",
@@ -48607,7 +48607,7 @@
   {
     "key": "Narration/&Telema_246_Rescue_Hector",
     "en": "Me? I'm just another Scavenger, really.",
-    "pt-BR": "Eu? Na verdade, sou apenas mais um Necrófago."
+    "pt-BR": "Eu? Na verdade, sou apenas mais um Catador."
   },
   {
     "key": "Narration/&Telema_247_Rescue_Hector",
@@ -49892,7 +49892,7 @@
   {
     "key": "Narration/&Council_00_4_Any_Default",
     "en": "Look! Is that… ",
-    "pt-BR": "Olhar! É aquele…"
+    "pt-BR": "Olhem! É aquele…"
   },
   {
     "key": "Narration/&Council_00_5_Any_Default",
@@ -50577,12 +50577,12 @@
   {
     "key": "Narration/&Scavengers_Dialog_01_17_Lawkeeper_Default",
     "en": "Scavengers, eh? I never knew if they were legit or not.",
-    "pt-BR": "Necrófagos, hein? Eu nunca soube se eles eram legítimos ou não."
+    "pt-BR": "Catadores, hein? Eu nunca soube se eles eram legítimos ou não."
   },
   {
     "key": "Narration/&Scavengers_Dialog_01_18_Sellsword_Default",
     "en": "They're tough, these Scavengers. Fearless.",
-    "pt-BR": "Eles são fortes, esses Scavengers. Destemido."
+    "pt-BR": "Eles são fortes, esses Catadores. Destemido."
   },
   {
     "key": "Narration/&Scavengers_Dialog_01_19_Highclass_Default",
@@ -50597,7 +50597,7 @@
   {
     "key": "Narration/&Scavengers_Dialog_01_21_Nosy_Default",
     "en": "The Scavengers! They've seen so much already - the first explorers of the ancient empire!",
-    "pt-BR": "Os Necrófagos! Eles já viram muito - os primeiros exploradores do antigo império!"
+    "pt-BR": "Os Catadores! Eles já viram muito - os primeiros exploradores do antigo império!"
   },
   {
     "key": "Narration/&Scavengers_Dialog_01_22_Authority_Default",
@@ -50757,7 +50757,7 @@
   {
     "key": "Narration/&Scavengers_Dialog_02_27_NosyAuthority_Default",
     "en": "Do you know Arwin Merton, the so-called First Scavenger?",
-    "pt-BR": "Você conhece Arwin Merton, o chamado Primeiro Necrófago?"
+    "pt-BR": "Você conhece Arwin Merton, o chamado Primeiro Catador?"
   },
   {
     "key": "Narration/&Scavengers_Dialog_02_28_Quartermaster_NPC",
@@ -50857,7 +50857,7 @@
   {
     "key": "Narration/&Scavengers_Dialog_02_47_Quartermaster_NPC",
     "en": "Fine. Feel free to visit us anytime. Or drop into any Scavenger camp.",
-    "pt-BR": "Multar. Sinta-se à vontade para nos visitar a qualquer hora. Ou cair em qualquer acampamento de necrófagos."
+    "pt-BR": "Bem. Sinta-se à vontade para nos visitar a qualquer hora. Ou cair em qualquer acampamento dos Catadores."
   },
   {
     "key": "Narration/&Scavengers_Dialog_02_48_Nosy_Authority_Default",
@@ -51017,7 +51017,7 @@
   {
     "key": "Narration/&CaerLem_Entrance19_Default_Noflag",
     "en": "Look! That tower… that's insane!",
-    "pt-BR": "Olhar! Essa torre ... isso é loucura!"
+    "pt-BR": "Olhem! Essa torre ... isso é loucura!"
   },
   {
     "key": "Narration/&CaerLem_Entrance20_NOSY_Noflag",
@@ -52512,7 +52512,7 @@
   {
     "key": "Narration/&CaerLem_Darik211_Darik_NPC",
     "en": "We always do, like the Scavengers.",
-    "pt-BR": "Sempre fazemos isso, como os Necrófagos."
+    "pt-BR": "Sempre fazemos isso, como os Catadores."
   },
   {
     "key": "Narration/&CaerLem_Darik212_Darik_NPC",
@@ -53527,7 +53527,7 @@
   {
     "key": "Narration/&Council01_19_NPC_Carran",
     "en": "Another party came back yesterday… ",
-    "pt-BR": "Outra festa voltou ontem ... "
+    "pt-BR": "Outro grupo voltou ontem ... "
   },
   {
     "key": "Narration/&Council01_20_NPC_Carran",
@@ -53662,7 +53662,7 @@
   {
     "key": "Narration/&Council01_46_NPC_Ed_Morgan",
     "en": "…we saw a group that we took to be Scavengers.",
-    "pt-BR": "… Vimos um grupo que consideramos ser Necrófagos."
+    "pt-BR": "… Vimos um grupo que consideramos ser Catadores."
   },
   {
     "key": "Narration/&Council01_47_NPC_Ed_Morgan",
@@ -54622,7 +54622,7 @@
   {
     "key": "Narration/&TowerOfMagic_9_Starter_Default",
     "en": "Who are these people? Scavengers?",
-    "pt-BR": "Quem são essas pessoas? Necrófagos?"
+    "pt-BR": "Quem são essas pessoas? Catadores?"
   },
   {
     "key": "Narration/&TowerOfMagic_10_Partner_Default",
@@ -55737,7 +55737,7 @@
   {
     "key": "Narration/&Council02_1_23_Merton_NPC",
     "en": "Arwin Merton. He used to be a legend - the first Scavenger, they say.",
-    "pt-BR": "Arwin Merton. Ele costumava ser uma lenda - o primeiro Necrófago, dizem."
+    "pt-BR": "Arwin Merton. Ele costumava ser uma lenda - o primeiro Catador, dizem."
   },
   {
     "key": "Narration/&Council02_1_24_Merton_NPC",
@@ -56047,7 +56047,7 @@
   {
     "key": "Narration/&Antiquarians_Dialog_01_11_HalmanSummer_NPC",
     "en": "The Scavengers? They'd sell an antique Emperor's sword for its metal value.",
-    "pt-BR": "Os Necrófagos? Eles venderiam uma espada antiga do imperador por seu valor de metal."
+    "pt-BR": "Os Catadoress? Eles venderiam uma espada antiga do imperador por seu valor de metal."
   },
   {
     "key": "Narration/&Antiquarians_Dialog_01_12_HalmanSummer_NPC",
@@ -62532,7 +62532,7 @@
   {
     "key": "Narration/&ScavengersQuestTelema_Start_18_Any_Default",
     "en": "Well, I suppose we can do that for our friends the Scavengers.",
-    "pt-BR": "Bem, suponho que possamos fazer isso por nossos amigos, os Necrófagos."
+    "pt-BR": "Bem, suponho que possamos fazer isso por nossos amigos, os Catadores."
   },
   {
     "key": "Narration/&ScavengersQuestTelema_Start_19_Annie_NPC",
@@ -62637,7 +62637,7 @@
   {
     "key": "Narration/&ScavengersCoparann_1_Any_Default",
     "en": "Are you the local… boss of the Scavengers?",
-    "pt-BR": "Você é o ... chefe local dos Necrófagos?"
+    "pt-BR": "Você é o ... chefe local dos Catadores?"
   },
   {
     "key": "Narration/&ScavengersCoparann_2_Milan_NPC",
@@ -63662,7 +63662,7 @@
   {
     "key": "Narration/&BackgroundQuest_Acolyte_MeetEmtan_13_Emtan_NPC",
     "en": "Arun! The lord is still here!",
-    "pt-BR": "Uma corrida! O senhor ainda está aqui!"
+    "pt-BR": "Arun! O senhor ainda está aqui!"
   },
   {
     "key": "Narration/&BackgroundQuest_Acolyte_MeetEmtan_14_Acolyte_Default",
@@ -65542,7 +65542,7 @@
   {
     "key": "Narration/&Optional_Lowlife_Quest_Tavern30_Deceiver_Success4",
     "en": "You see, the sword was already spoken for when you stole it from the Scavengers…",
-    "pt-BR": "Veja, a espada já estava falada quando você a roubou dos Necrófagos ..."
+    "pt-BR": "Veja, a espada já tinha falado quando você a roubou dos Catadores ..."
   },
   {
     "key": "Narration/&Optional_Lowlife_Quest_Tavern31_Deceiver_Success5",
@@ -67107,7 +67107,7 @@
   {
     "key": "Narration/&NecromancyQuest02_01_Starter_Normal",
     "en": "Look! What's that?",
-    "pt-BR": "Olhar! O que é isso?"
+    "pt-BR": "Vejam! O que é isso?"
   },
   {
     "key": "Narration/&NecromancyQuest02_02_Partner_Normal",
@@ -70982,7 +70982,7 @@
   {
     "key": "Narration/&AbjurationQuest_Tower_9_BroodD_NPC",
     "en": "The feast is just starting!",
-    "pt-BR": "A festa está apenas começando!"
+    "pt-BR": "O grupo está apenas começando!"
   },
   {
     "key": "Narration/&AbjurationQuest_Tower_10_BroodF_NPC",
@@ -73392,7 +73392,7 @@
   {
     "key": "Narration/&CradleOfFire_SandRaven_12_Cynical_Default",
     "en": "Amaaazing.",
-    "pt-BR": "Amaaazing."
+    "pt-BR": "Incriveeel."
   },
   {
     "key": "Narration/&CradleOfFire_SandRaven_13_Pragmatic_Default",
@@ -76357,7 +76357,7 @@
   {
     "key": "Narration/&TowerOfMagic_Discovery_04",
     "en": "I see the point of the Scavengers now…",
-    "pt-BR": "Eu vejo o ponto dos Necrófagos agora ..."
+    "pt-BR": "Eu vejo o ponto dos Catadores agora ..."
   },
   {
     "key": "Narration/&TowerOfMagic_Discovery_05",
@@ -76967,7 +76967,7 @@
   {
     "key": "Narration/&CarranTalk_11_WRITTEN_B3",
     "en": "Ask for details about the Scavengers.",
-    "pt-BR": "Peça detalhes sobre os Scavengers."
+    "pt-BR": "Peça detalhes sobre os Catadores."
   },
   {
     "key": "Narration/&CarranTalk_12_WRITTEN_ChangeTopics",
@@ -77067,7 +77067,7 @@
   {
     "key": "Narration/&CarranTalk_31_Player_Default",
     "en": "What can you tell us about the Scavengers?",
-    "pt-BR": "O que você pode nos dizer sobre os Necrófagos?"
+    "pt-BR": "O que você pode nos dizer sobre os Catadores?"
   },
   {
     "key": "Narration/&CarranTalk_32_Carran_NPC",
@@ -78232,7 +78232,7 @@
   {
     "key": "Screen/&EditorCaptionMoveButtonTitle",
     "en": "Move",
-    "pt-BR": "Jogada"
+    "pt-BR": "Deslocamento"
   },
   {
     "key": "Screen/&EditorCaptionMoveButtonDescription",
@@ -78627,7 +78627,7 @@
   {
     "key": "Gadget/&CampfireDescription",
     "en": "An interactive campfire used to start a long rest for the party",
-    "pt-BR": "Uma fogueira interativa costumava iniciar um longo descanso para a festa"
+    "pt-BR": "Uma fogueira interativa usada para iniciar um longo descanso para o grupo"
   },
   {
     "key": "Gadget/&ChestTitle",
@@ -78657,7 +78657,7 @@
   {
     "key": "Gadget/&EntranceDescription",
     "en": "The starting point for the party ",
-    "pt-BR": "O ponto de partida para a festa "
+    "pt-BR": "O ponto de partida para O grupo "
   },
   {
     "key": "Gadget/&ExitTitle",
@@ -78667,7 +78667,7 @@
   {
     "key": "Gadget/&ExitDescription",
     "en": "An exit point for the party. Can lead to another user location",
-    "pt-BR": "Um ponto de saída para a festa. Pode levar a outro local do usuário"
+    "pt-BR": "Um ponto de saída para O grupo. Pode levar a outro local do usuário"
   },
   {
     "key": "Gadget/&HiddenDoorTitle",
@@ -79522,7 +79522,7 @@
   {
     "key": "Gadget/&ParameterSpeechDescription",
     "en": "The text that is displayed when interacting with this gadget",
-    "pt-BR": "O texto que é exibido ao interagir com este gadget"
+    "pt-BR": "O texto que é exibido ao interagir com este apetrecho"
   },
   {
     "key": "Gadget/&ParameterEncounterGroupDescription",
@@ -79597,17 +79597,17 @@
   {
     "key": "EnvironmentEffect/&FireBurstDescription",
     "en": "An eruption causes fire damage",
-    "pt-BR": "Uma erupção causa danos de fogo"
+    "pt-BR": "Uma erupção flamegante que causa danos de fogo"
   },
   {
     "key": "EnvironmentEffect/&GroundSpikesTitle",
     "en": "Ground Spikes",
-    "pt-BR": "Picos de solo"
+    "pt-BR": "Crescer Espinhos"
   },
   {
     "key": "EnvironmentEffect/&GroundSpikesDescription",
     "en": "Spikes rise from the ground, causing piercing damage",
-    "pt-BR": "Picos sobem do solo, causando danos perfurantes"
+    "pt-BR": "Espinhos crescem do solo, causando danos perfurantes"
   },
   {
     "key": "EnvironmentEffect/&LightningDischargeTitle",
@@ -79617,7 +79617,7 @@
   {
     "key": "EnvironmentEffect/&LightningDischargeDescription",
     "en": "Discharges electricity in the vicinity, causing electrical damage",
-    "pt-BR": "Descarrega eletricidade nas proximidades, causando danos elétricos"
+    "pt-BR": "Descarrega eletricidade nas proximidades, causando dano elétrico"
   },
   {
     "key": "EnvironmentEffect/&PoisonCloudTitle",
@@ -79627,7 +79627,7 @@
   {
     "key": "EnvironmentEffect/&PoisonCloudDescription",
     "en": "A noxious cloud inflicts poison damage and the poisoned condition",
-    "pt-BR": "Uma nuvem nociva inflige danos de veneno e a condição de envenenamento"
+    "pt-BR": "Uma nuvem nociva que inflige danos de veneno e a condição de envenenamento"
   },
   {
     "key": "Tooltip/&TrapEffectsTitle",
@@ -79682,12 +79682,12 @@
   {
     "key": "TreasureTable/&25_GP_Art_ItemsTitle",
     "en": "25 gp Art Items",
-    "pt-BR": "25 itens de arte gp"
+    "pt-BR": "25 po Itens de Arte "
   },
   {
     "key": "TreasureTable/&50_GP_Art_ItemsTitle",
     "en": "50 gp Art Items",
-    "pt-BR": "50 itens de arte gp"
+    "pt-BR": "50 po Itens de Arte"
   },
   {
     "key": "Screen/&EditorLocationAuthorVersionTitle",
