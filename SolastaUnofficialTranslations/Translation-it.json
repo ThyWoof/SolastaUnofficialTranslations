@@ -347,7 +347,7 @@
         {
             "key": "Action/&CastTitle",
             "en": "Cast Spell",
-            "it": "Lanciare un incantesimo"
+            "it": "Incantesimi"
         },
         {
             "key": "Action/&CautiousDescription",
@@ -357,7 +357,7 @@
         {
             "key": "Action/&CautiousTitle",
             "en": "Cautious",
-            "it": "Prudente"
+            "it": "Furtivo"
         },
         {
             "key": "Action/&ClimbDescription",
@@ -377,7 +377,7 @@
         {
             "key": "Action/&CunningActionTitle",
             "en": "Cunning Action",
-            "it": "Astuta azione"
+            "it": "Azione Astuta"
         },
         {
             "key": "Action/&DashDescription",
@@ -387,7 +387,7 @@
         {
             "key": "Action/&DashTitle",
             "en": "Dash",
-            "it": "Dash"
+            "it": "Scatto"
         },
         {
             "key": "Action/&DisengageDescription",
@@ -537,7 +537,7 @@
         {
             "key": "Action/&PowerTitle",
             "en": "Use Power",
-            "it": "Usa il potere"
+            "it": "Potere"
         },
         {
             "key": "Action/&ReadyDescription",
@@ -772,7 +772,7 @@
         {
             "key": "Attribute/&ArmorClassTitle",
             "en": "AC",
-            "it": "corrente alternata"
+            "it": "CA"
         },
         {
             "key": "Attribute/&AttacksNumberDescription",
@@ -2292,7 +2292,7 @@
         {
             "key": "Class/&FighterTitle",
             "en": "Fighter",
-            "it": "Combattente"
+            "it": "Guerriero"
         },
         {
             "key": "Class/&PaladinDescription",
@@ -2322,7 +2322,7 @@
         {
             "key": "Class/&RogueTitle",
             "en": "Rogue",
-            "it": "Rogue"
+            "it": "Ladro"
         },
         {
             "key": "Class/&WizardDescription",
@@ -2332,7 +2332,7 @@
         {
             "key": "Class/&WizardTitle",
             "en": "Wizard",
-            "it": "procedura guidata"
+            "it": "Mago"
         },
         {
             "key": "Deity/&ArunDescription",
@@ -11852,7 +11852,7 @@
         {
             "key": "MainMenu/&QuitTitle",
             "en": "Quit",
-            "it": "Smettere"
+            "it": "Esci"
         },
         {
             "key": "MainMenu/&SaveDateHeader",
@@ -18015,7 +18015,7 @@
         {
             "key": "Race/&DwarfHillTitle",
             "en": "Hill Dwarf",
-            "it": "Hill Dwarf"
+            "it": "Nani Delle Colline"
         },
         {
             "key": "Race/&DwarfMaleName1Title",
@@ -18495,7 +18495,7 @@
         {
             "key": "Race/&HalflingIslandTitle",
             "en": "Island Halfling",
-            "it": "Isola Halfling"
+            "it": "Halfling Isolani"
         },
         {
             "key": "Race/&HalflingMaleName1Title",
@@ -18850,7 +18850,7 @@
         {
             "key": "Reaction/&AlterAttackSpellReactTitle",
             "en": "Cast Spell",
-            "it": "Lanciare un incantesimo"
+            "it": "Incantesimi"
         },
         {
             "key": "Reaction/&AlterAttackSpellTitle",
@@ -18895,7 +18895,7 @@
         {
             "key": "Reaction/&CastFallPreventionSpellReactTitle",
             "en": "Cast Spell",
-            "it": "Lanciare un incantesimo"
+            "it": "Incantesimo"
         },
         {
             "key": "Reaction/&CastFallPreventionSpellTitle",
@@ -18915,7 +18915,7 @@
         {
             "key": "Reaction/&CastImmunityToSpellReactTitle",
             "en": "Cast Spell",
-            "it": "Lanciare un incantesimo"
+            "it": "Incantesimi"
         },
         {
             "key": "Reaction/&CastImmunityToSpellTitle",
@@ -25727,7 +25727,7 @@
         {
             "key": "Spell/&CureWoundsTitle",
             "en": "Cure Wounds",
-            "it": "Cura le ferite"
+            "it": "Cura Ferite"
         },
         {
             "key": "Spell/&DancingLightsDescription",
@@ -25962,12 +25962,12 @@
         {
             "key": "Spell/&FireBoltDescription",
             "en": "Launch a fire bolt.",
-            "it": "Lancia un fulmine."
+            "it": "Lancia un Dardo infuocato."
         },
         {
             "key": "Spell/&FireBoltTitle",
             "en": "Fire Bolt",
-            "it": "Fire Bolt"
+            "it": "Dardo Infuocato"
         },
         {
             "key": "Spell/&FlamingSphereDescription",
@@ -26242,7 +26242,7 @@
         {
             "key": "Spell/&MagicMissileTitle",
             "en": "Magic Missile",
-            "it": "Missile magico"
+            "it": "Dardo Incantato"
         },
         {
             "key": "Spell/&MagicWeaponDescription",
@@ -26932,7 +26932,7 @@
         {
             "key": "Stage/&AbilityTipTitle",
             "en": "Tip",
-            "it": "Mancia"
+            "it": "Consiglio"
         },
         {
             "key": "Stage/&AllSpellsFormat",
@@ -29557,7 +29557,7 @@
         {
             "key": "TutorialStep/&CautiousModeTitle",
             "en": "Cautious Mode",
-            "it": "Modalità prudente"
+            "it": "Modalità Furtiva"
         },
         {
             "key": "TutorialStep/&ConfigWeapons2Description",
@@ -31992,7 +31992,7 @@
         {
             "key": "Modal/&LoadingTipTitle",
             "en": "Tip",
-            "it": "Mancia"
+            "it": "Consiglio"
         },
         {
             "key": "Failure/&FailureFlagRestNotPermitted",
@@ -33772,7 +33772,7 @@
         {
             "key": "Setting/&CastSpellTitle",
             "en": "Cast Spell",
-            "it": "Lanciare un incantesimo"
+            "it": "Incantesimi"
         },
         {
             "key": "Setting/&EndTurnTitle",
