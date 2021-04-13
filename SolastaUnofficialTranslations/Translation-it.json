@@ -812,7 +812,7 @@
         {
             "key": "Attribute/&CharismaTitle",
             "en": "CHA",
-            "it": "CHA"
+            "it": "CAR"
         },
         {
             "key": "Attribute/&CharismaTitleLong",
@@ -1022,7 +1022,7 @@
         {
             "key": "Attribute/&StrengthTitle",
             "en": "STR",
-            "it": "STR"
+            "it": "FOR"
         },
         {
             "key": "Attribute/&StrengthTitleLong",
@@ -1177,7 +1177,7 @@
         {
             "key": "Attribute/&WisdomTitle",
             "en": "WIS",
-            "it": "WIS"
+            "it": "SAG"
         },
         {
             "key": "Attribute/&WisdomTitleLong",
@@ -3102,7 +3102,7 @@
         {
             "key": "Equipment/&ArtisanToolSmithToolsTypeTitle",
             "en": "Smith's tools",
-            "it": "Strumenti di Smith"
+            "it": "Strumenti da fabbro"
         },
         {
             "key": "Equipment/&ArtItems_25_GP_Comb",
@@ -7077,7 +7077,7 @@
         {
             "key": "Failure/&FailureFlagOnlyAfterALongRest",
             "en": "You can only do this after a long rest.",
-            "it": "Puoi farlo solo dopo un lungo riposo."
+            "it": "Puoi farlo solo dopo un riposo lungo."
         },
         {
             "key": "Failure/&FailureFlagPartyTooSpreadOut",
@@ -7957,7 +7957,7 @@
         {
             "key": "Feature/&DomainBattleDivineWrathDescription",
             "en": "As an action, gain 3 temporary HP per cleric level. Recovered after a long rest.",
-            "it": "Con un'azione, ottieni 3 HP temporanei per livello da chierico. Recuperato dopo un lungo riposo."
+            "it": "Con un'azione, ottieni 3 HP temporanei per livello da chierico. Recuperato dopo un riposo lungo."
         },
         {
             "key": "Feature/&DomainBattleDivineWrathTitle",
@@ -8502,7 +8502,7 @@
         {
             "key": "Feature/&FighterActionSurgeDescription",
             "en": "Regain a main action immediately. Take a short or long rest to recover this power.",
-            "it": "Recupera immediatamente un'azione principale. Fai un breve o lungo riposo per recuperare questo potere."
+            "it": "Recupera immediatamente un'azione principale. Fai un breve o riposo lungo per recuperare questo potere."
         },
         {
             "key": "Feature/&FighterActionSurgeTitle",
@@ -9172,7 +9172,7 @@
         {
             "key": "Feature/&PowerTraditionGreenmageMagicalArrowDescription",
             "en": "Your arrow can transform into a vine on impact. The target must make a Strength saving throw or be restrained until the end of your next turn. You can use this feature a number of times equal to your Intelligence modifier (minimum 1). All uses recharge at the end of a long rest.",
-            "it": "La tua freccia può trasformarsi in una vite all'impatto. Il bersaglio deve effettuare un tiro salvezza sulla Forza o essere trattenuto fino alla fine del tuo prossimo turno. Puoi usare questa caratteristica un numero di volte pari al tuo modificatore di Intelligenza (minimo 1). Tutti gli usi si ricaricano alla fine di un lungo riposo."
+            "it": "La tua freccia può trasformarsi in una vite all'impatto. Il bersaglio deve effettuare un tiro salvezza sulla Forza o essere trattenuto fino alla fine del tuo prossimo turno. Puoi usare questa caratteristica un numero di volte pari al tuo modificatore di Intelligenza (minimo 1). Tutti gli usi si ricaricano alla fine di un riposo lungo."
         },
         {
             "key": "Feature/&PowerTraditionGreenmageMagicalArrowTitle",
@@ -9182,7 +9182,7 @@
         {
             "key": "Feature/&PowerTraditionShockArcanistArcaneFuryDescription",
             "en": "Add your proficiency bonus and INT bonus to your evocation spell damage for 1 minute. Recharges after a long rest.",
-            "it": "Aggiungi il tuo bonus di competenza e il bonus INT al danno dell'incantesimo di evocazione per 1 minuto. Si ricarica dopo un lungo riposo."
+            "it": "Aggiungi il tuo bonus di competenza e il bonus INT al danno dell'incantesimo di evocazione per 1 minuto. Si ricarica dopo un riposo lungo."
         },
         {
             "key": "Feature/&PowerTraditionShockArcanistArcaneFuryTitle",
@@ -11372,7 +11372,7 @@
         {
             "key": "Label/&CampfireLocationRestDescription",
             "en": "Interact with this item to start a long rest.",
-            "it": "Interagisci con questo oggetto per iniziare un lungo riposo."
+            "it": "Interagisci con questo oggetto per iniziare un riposo lungo."
         },
         {
             "key": "Label/&CampfireLocationRestTitle",
@@ -12597,7 +12597,7 @@
         {
             "key": "MerchantCategory/&CraftingTitle",
             "en": "Crafting",
-            "it": "Crafting"
+            "it": "Creazione"
         },
         {
             "key": "MerchantCategory/&IngredientTitle",
@@ -12797,7 +12797,7 @@
         {
             "key": "Message/&PartyLosesGoldPieces",
             "en": "Party loses {0} gold pieces",
-            "it": "La festa perde {0} monete d'oro"
+            "it": "Il gruppo perde {0} monete d'oro"
         },
         {
             "key": "Message/&QuitLocationDescription",
@@ -12822,7 +12822,7 @@
         {
             "key": "Message/&ResumeRestDescription",
             "en": "Do you want to continue your long rest?",
-            "it": "Vuoi continuare il tuo lungo riposo?"
+            "it": "Vuoi continuare il tuo riposo lungo?"
         },
         {
             "key": "Message/&ResumeRestTitle",
@@ -12917,12 +12917,12 @@
         {
             "key": "Modal/&CampCaptionMultipleHoursFormat",
             "en": "The party is setting camp for {0} hours.",
-            "it": "La festa sta preparando il campo per {0} ore."
+            "it": "Il gruppo sta preparando il campo per {0} ore."
         },
         {
             "key": "Modal/&CampCaptionSingleHourFormat",
             "en": "The party is setting camp for an hour.",
-            "it": "La festa si accampa per un'ora."
+            "it": "Il gruppo si accampa per un'ora."
         },
         {
             "key": "Modal/&CancelButtonTitle",
@@ -12982,7 +12982,7 @@
         {
             "key": "Modal/&DefeatDescription",
             "en": "The party had no way to revive their dead - game over! Try giving Revivify scrolls to characters who can use them.",
-            "it": "La festa non ha avuto modo di resuscitare i loro morti: il gioco è finito! Prova a dare le pergamene di Revivify ai personaggi che possono usarle."
+            "it": "Il gruppo non ha avuto modo di resuscitare i loro morti: il gioco è finito! Prova a dare le pergamene di Revivify ai personaggi che possono usarle."
         },
         {
             "key": "Modal/&DefeatTitle",
@@ -13142,17 +13142,17 @@
         {
             "key": "Modal/&NumberSelectionValidateTitle",
             "en": "Validate",
-            "it": "Convalidare"
+            "it": "Convalida"
         },
         {
             "key": "Modal/&PartyWaitMinutesPluralFormat",
             "en": "The party is waiting for {0} minutes.",
-            "it": "La festa attende {0} minuti."
+            "it": "Il gruppo attende {0} minuti."
         },
         {
             "key": "Modal/&PartyWaitMinutesSingleFormat",
             "en": "The party is waiting for {0} minute.",
-            "it": "La festa attende {0} minuto."
+            "it": "Il gruppo attende {0} minuto."
         },
         {
             "key": "Modal/&RequiredRestsMultipleFormat",
@@ -19265,7 +19265,7 @@
         {
             "key": "RestActivity/&PrepareSpellsDescription",
             "en": "You can change your list of prepared spells when you finish a long rest.",
-            "it": "Puoi modificare l'elenco degli incantesimi preparati quando finisci un lungo riposo."
+            "it": "Puoi modificare l'elenco degli incantesimi preparati quando finisci un riposo lungo."
         },
         {
             "key": "RestActivity/&PrepareSpellsTitle",
@@ -19469,22 +19469,22 @@
         {
             "key": "Rules/&ConditionBackFromTheDead1Description",
             "en": "-1 penalty on attack rolls, saving throws and ability checks. Complete a long rest to reduce the penalty.",
-            "it": "-1 penalità ai tiri per colpire, ai tiri salvezza e alle prove di abilità. Completa un lungo riposo per ridurre la penalità."
+            "it": "-1 penalità ai tiri per colpire, ai tiri salvezza e alle prove di abilità. Completa un riposo lungo per ridurre la penalità."
         },
         {
             "key": "Rules/&ConditionBackFromTheDead2Description",
             "en": "-2 penalty on attack rolls, saving throws and ability checks. Complete a long rest to reduce the penalty.",
-            "it": "-2 penalità ai tiri per colpire, ai tiri salvezza e alle prove di abilità. Completa un lungo riposo per ridurre la penalità."
+            "it": "-2 penalità ai tiri per colpire, ai tiri salvezza e alle prove di abilità. Completa un riposo lungo per ridurre la penalità."
         },
         {
             "key": "Rules/&ConditionBackFromTheDead3Description",
             "en": "-3 penalty on attack rolls, saving throws and ability checks. Complete a long rest to reduce the penalty.",
-            "it": "-3 penalità ai tiri per colpire, ai tiri salvezza e alle prove di abilità. Completa un lungo riposo per ridurre la penalità."
+            "it": "-3 penalità ai tiri per colpire, ai tiri salvezza e alle prove di abilità. Completa un riposo lungo per ridurre la penalità."
         },
         {
             "key": "Rules/&ConditionBackFromTheDead4Description",
             "en": "-4 penalty on attack rolls, saving throws and ability checks. Complete a long rest to reduce the penalty.",
-            "it": "-4 penalità ai tiri per colpire, ai tiri salvezza e alle prove di abilità. Completa un lungo riposo per ridurre la penalità."
+            "it": "-4 penalità ai tiri per colpire, ai tiri salvezza e alle prove di abilità. Completa un riposo lungo per ridurre la penalità."
         },
         {
             "key": "Rules/&ConditionBackFromTheDeadTitle",
@@ -20894,7 +20894,7 @@
         {
             "key": "Rules/&DurationLongRestFormat",
             "en": "Until long rest",
-            "it": "Fino a lungo riposo"
+            "it": "Fino a riposo lungo"
         },
         {
             "key": "Rules/&DurationMinutePluralFormat",
@@ -21139,7 +21139,7 @@
         {
             "key": "Rules/&RateLongRestFormatTitle",
             "en": "long rest",
-            "it": "lungo riposo"
+            "it": "Riposo Lungo"
         },
         {
             "key": "Rules/&RateNoneFormatTitle",
@@ -23129,7 +23129,7 @@
         {
             "key": "Screen/&PrepareClearTitle",
             "en": "Clear",
-            "it": "Chiaro"
+            "it": "Pulisci"
         },
         {
             "key": "Screen/&PreparedSpellDescription",
@@ -24164,7 +24164,7 @@
         {
             "key": "Screen/&TravelFatigueDescription",
             "en": "The party accumulates fatigue through navigating the world map. A long rest recovers fatigue points.",
-            "it": "La festa accumula fatica navigando sulla mappa del mondo. Un lungo riposo recupera i punti di fatica."
+            "it": "Il gruppo accumula fatica navigando sulla mappa del mondo. Un riposo lungo recupera i punti di fatica."
         },
         {
             "key": "Screen/&TravelFatigueTitle",
@@ -24669,7 +24669,7 @@
         {
             "key": "Setting/&PartyReactionTrapDetectedNoReactionDescription",
             "en": "The party continues with its current actions.",
-            "it": "La festa continua con le sue azioni in corso."
+            "it": "Il gruppo continua con le sue azioni in corso."
         },
         {
             "key": "Setting/&PartyReactionTrapDetectedNoReactionTitle",
@@ -24679,7 +24679,7 @@
         {
             "key": "Setting/&PartyReactionTrapDetectedStopMovementDescription",
             "en": "The party stops moving.",
-            "it": "La festa smette di muoversi."
+            "it": "Il gruppo smette di muoversi."
         },
         {
             "key": "Setting/&PartyReactionTrapDetectedStopMovementTitle",
@@ -24694,7 +24694,7 @@
         {
             "key": "Setting/&PrepareSpellsLongRestDescription",
             "en": "Changing a character's prepared spells requires a long rest.",
-            "it": "Cambiare gli incantesimi preparati di un personaggio richiede un lungo riposo."
+            "it": "Cambiare gli incantesimi preparati di un personaggio richiede un riposo lungo."
         },
         {
             "key": "Setting/&PrepareSpellsLongRestTitle",
@@ -26027,7 +26027,7 @@
         {
             "key": "Spell/&GuidingBoltTitle",
             "en": "Guiding Bolt",
-            "it": "Bullone guida"
+            "it": "Dardo Tracciante"
         },
         {
             "key": "Spell/&HasteDescription",
@@ -28052,7 +28052,7 @@
         {
             "key": "Tip/&LoadingTip01",
             "en": "Casting spells consumes spell slots. Most classes regain spell slots after a long rest.",
-            "it": "Lanciare incantesimi consuma slot incantesimi. La maggior parte delle classi riguadagna gli slot incantesimo dopo un lungo riposo."
+            "it": "Lanciare incantesimi consuma slot incantesimi. La maggior parte delle classi riguadagna gli slot incantesimo dopo un riposo lungo."
         },
         {
             "key": "Tip/&LoadingTip02",
@@ -28077,7 +28077,7 @@
         {
             "key": "Tip/&LoadingTip06",
             "en": "Taking a long rest is the main way to recover all your spell slots, although wizards can use Arcane Recovery to recover a few low-level slots during short rests.",
-            "it": "Fare un lungo riposo è il modo principale per recuperare tutti i tuoi slot incantesimo, sebbene i maghi possano usare Recupero arcano per recuperare alcuni slot di basso livello durante brevi pause."
+            "it": "Fare un riposo lungo è il modo principale per recuperare tutti i tuoi slot incantesimo, sebbene i maghi possano usare Recupero arcano per recuperare alcuni slot di basso livello durante brevi pause."
         },
         {
             "key": "Tip/&LoadingTip07",
@@ -28107,7 +28107,7 @@
         {
             "key": "Tip/&LoadingTip14",
             "en": "To perform a long rest, you must find a suitable place: either an inn such as the Gravekeep's Cask, or a campfire when exploring.",
-            "it": "Per eseguire un lungo riposo, è necessario trovare un luogo adatto: una locanda come il Gravekeep's Cask o un falò durante l'esplorazione."
+            "it": "Per eseguire un riposo lungo, è necessario trovare un luogo adatto: una locanda come il Gravekeep's Cask o un falò durante l'esplorazione."
         },
         {
             "key": "Tip/&LoadingTip15",
@@ -29187,7 +29187,7 @@
         {
             "key": "Travel/&FatigueExhaustedDescription",
             "en": "The party is completely exhausted and must rest.",
-            "it": "La festa è completamente esaurita e deve riposare."
+            "it": "Il gruppo è completamente esaurita e deve riposare."
         },
         {
             "key": "Travel/&FatigueExhaustedTitle",
@@ -29197,7 +29197,7 @@
         {
             "key": "Travel/&FatigueFreshDescription",
             "en": "The party is fresh and can keep on traveling.",
-            "it": "La festa è fresca e può continuare a viaggiare."
+            "it": "Il gruppo è fresca e può continuare a viaggiare."
         },
         {
             "key": "Travel/&FatigueFreshTitle",
@@ -29207,7 +29207,7 @@
         {
             "key": "Travel/&FatigueImpededDescription",
             "en": "The party is slightly tired but can keep traveling.",
-            "it": "La festa è un po 'stanca ma può continuare a viaggiare."
+            "it": "Il gruppo è un po 'stanca ma può continuare a viaggiare."
         },
         {
             "key": "Travel/&FatigueImpededTitle",
@@ -29227,7 +29227,7 @@
         {
             "key": "Travel/&PaceNormalDescription",
             "en": "The party travels at a normal pace (24 miles a day), striking a good balance between speed and awareness of its surroundings.",
-            "it": "La festa viaggia a un ritmo normale (24 miglia al giorno), trovando un buon equilibrio tra velocità e consapevolezza di ciò che lo circonda."
+            "it": "Il gruppo viaggia a un ritmo normale (24 miglia al giorno), trovando un buon equilibrio tra velocità e consapevolezza di ciò che lo circonda."
         },
         {
             "key": "Travel/&PaceNormalTitle",
@@ -29237,7 +29237,7 @@
         {
             "key": "Travel/&PaceSlowDescription",
             "en": "The party travels slowly (16 miles per day), paying more attention to the surroundings and being less noticeable.",
-            "it": "La festa viaggia lentamente (16 miglia al giorno), prestando maggiore attenzione all'ambiente circostante ed essendo meno evidente."
+            "it": "Il gruppo viaggia lentamente (16 miglia al giorno), prestando maggiore attenzione all'ambiente circostante ed essendo meno evidente."
         },
         {
             "key": "Travel/&PaceSlowTitle",
@@ -29317,12 +29317,12 @@
         {
             "key": "Travel/&StandardRandomEvents1Title",
             "en": "The party comes across a band of mercenaries.",
-            "it": "La festa incontra una banda di mercenari."
+            "it": "Il gruppo incontra una banda di mercenari."
         },
         {
             "key": "Travel/&StandardRandomEvents2Title",
             "en": "The party passes an old Imperial marketplace, now used as a meeting point for Scavengers.",
-            "it": "La festa passa in un vecchio mercato imperiale, ora utilizzato come punto d'incontro per Scavengers."
+            "it": "Il gruppo passa in un vecchio mercato imperiale, ora utilizzato come punto d'incontro per Scavengers."
         },
         {
             "key": "Travel/&StandardRandomEvents3Title",
@@ -29332,12 +29332,12 @@
         {
             "key": "Travel/&StandardRandomEvents4Title",
             "en": "The party meets a wandering scholar from Gallivan.",
-            "it": "La festa incontra uno studioso errante di Gallivan."
+            "it": "Il gruppo incontra uno studioso errante di Gallivan."
         },
         {
             "key": "Travel/&StandardRandomEvents5Title",
             "en": "The party meets a band of Pilgrims on their way to the Einareum.",
-            "it": "La festa incontra una banda di pellegrini in viaggio verso l'Einareum."
+            "it": "Il gruppo incontra una banda di pellegrini in viaggio verso l'Einareum."
         },
         {
             "key": "Travel/&StandardRandomEvents6Title",
@@ -29427,7 +29427,7 @@
         {
             "key": "Travel/&TravelEventFoodSearchFailure1Title",
             "en": "The party did not find any food.",
-            "it": "La festa non ha trovato cibo."
+            "it": "Il gruppo non ha trovato cibo."
         },
         {
             "key": "Travel/&TravelEventFoodSearchSuccess1Title",
@@ -29472,7 +29472,7 @@
         {
             "key": "Travel/&TravelEventIngredientGatheringFailure1Title",
             "en": "The party did not find any useful ingredients.",
-            "it": "La festa non ha trovato ingredienti utili."
+            "it": "Il gruppo non ha trovato ingredienti utili."
         },
         {
             "key": "Travel/&TravelEventIngredientGatheringSuccess1Title",
@@ -29482,22 +29482,22 @@
         {
             "key": "Travel/&TravelEventLongRestCompleteFailure1Title",
             "en": "The party has failed to complete its long rest",
-            "it": "La festa non è riuscita a completare il suo lungo riposo"
+            "it": "Il gruppo non è riuscita a completare il suo riposo lungo"
         },
         {
             "key": "Travel/&TravelEventLongRestCompleteSuccess1Title",
             "en": "The party has finished its long rest and consumed {0} unit(s) of food.",
-            "it": "Il gruppo ha terminato il suo lungo riposo e ha consumato {0} unità di cibo."
+            "it": "Il gruppo ha terminato il suo riposo lungo e ha consumato {0} unità di cibo."
         },
         {
             "key": "Travel/&TravelEventLongRestStart1Title",
             "en": "The party starts to rest",
-            "it": "La festa inizia a riposare"
+            "it": "Il gruppo inizia a riposare"
         },
         {
             "key": "Travel/&TravelEventNavigationStarts1Title",
             "en": "The party is on the move",
-            "it": "La festa è in movimento"
+            "it": "Il gruppo è in movimento"
         },
         {
             "key": "Travel/&TravelEventNewDayTitle",
@@ -29507,7 +29507,7 @@
         {
             "key": "Travel/&TravelEventSetCamp1Title",
             "en": "The party sets camp",
-            "it": "La festa si accampa"
+            "it": "Il gruppo si accampa"
         },
         {
             "key": "Travel/&TravelJourneyBeginsTitle",
@@ -29517,7 +29517,7 @@
         {
             "key": "Travel/&TravelJourneyEndsTitle",
             "en": "The party has arrived",
-            "it": "La festa è arrivata"
+            "it": "Il gruppo è arrivata"
         },
         {
             "key": "TutorialSection/&BasicsTitle",
@@ -29822,7 +29822,7 @@
         {
             "key": "TutorialStep/&OutgameCharacterCreationSpells3Description",
             "en": "Each provides a list of spells tailored to the class flavor. For example, clerics have healing spells, while wizards can harness the power of the elements.\\n\\nSome classes can access all the spells from there, while others like the wizard must collect them in their spellbook.\\n\\nAnd finally, some classes require you to select and prepare their spells through a long rest, while others are free to use their known spells provided they have remaining spell slots.",
-            "it": "Ciascuno fornisce un elenco di incantesimi su misura per il gusto della classe. Ad esempio, i chierici hanno incantesimi curativi, mentre i maghi possono sfruttare il potere degli elementi.\\n\\nAlcune classi possono accedere a tutti gli incantesimi da lì, mentre altre come il mago devono raccoglierle nel loro libro degli incantesimi.\\n\\nE infine, alcune le classi richiedono di selezionare e preparare i loro incantesimi durante un lungo riposo, mentre gli altri sono liberi di usare i loro incantesimi conosciuti a condizione che abbiano slot incantesimi rimanenti."
+            "it": "Ciascuno fornisce un elenco di incantesimi su misura per il gusto della classe. Ad esempio, i chierici hanno incantesimi curativi, mentre i maghi possono sfruttare il potere degli elementi.\\n\\nAlcune classi possono accedere a tutti gli incantesimi da lì, mentre altre come il mago devono raccoglierle nel loro libro degli incantesimi.\\n\\nE infine, alcune le classi richiedono di selezionare e preparare i loro incantesimi durante un riposo lungo, mentre gli altri sono liberi di usare i loro incantesimi conosciuti a condizione che abbiano slot incantesimi rimanenti."
         },
         {
             "key": "TutorialStep/&OutgameCharacterCreationSpells3Title",
@@ -29842,7 +29842,7 @@
         {
             "key": "TutorialStep/&RestingDescription",
             "en": "When your party is low on health and spells, you can take a long rest as long as you are in a safe location and you have one food ration per character.\\n\\nA long rest heals all your hit points and recharges most of your powers, as well as giving back half your maximum hit dice.",
-            "it": "Quando il tuo gruppo è a corto di salute e incantesimi, puoi riposarti a lungo fintanto che ti trovi in ​​un luogo sicuro e hai una razione di cibo per personaggio.\\n\\nUn lungo riposo cura tutti i tuoi punti ferita e ricarica la maggior parte dei tuoi poteri, oltre a restituire la metà dei tuoi dadi massimi."
+            "it": "Quando il tuo gruppo è a corto di salute e incantesimi, puoi riposarti a lungo fintanto che ti trovi in ​​un luogo sicuro e hai una razione di cibo per personaggio.\\n\\nUn riposo lungo cura tutti i tuoi punti ferita e ricarica la maggior parte dei tuoi poteri, oltre a restituire la metà dei tuoi dadi massimi."
         },
         {
             "key": "TutorialStep/&RestingTitle",
@@ -29882,7 +29882,7 @@
         {
             "key": "TutorialStep/&Tuto_CampaignMap3_Description",
             "en": "You can set up travel so you don't need to micro-manage your party.\\n\\nWhenever someone can level up, a long rest can be started immediately without finishing the day's travel.\\nWhen a crafting task is complete, you can set up a new one without losing time.\\nYou can open the post-rest window after a long rest, for instance, to modify your prepared spells.\\n",
-            "it": "Puoi impostare il viaggio in modo da non dover gestire in modo micro la tua festa.\\n\\nOgni volta che qualcuno può salire di livello, è possibile avviare immediatamente un riposo lungo senza terminare il viaggio della giornata.\\nQuando un'attività di creazione è completa, puoi configurarne una nuova senza perdere tempo.\\nPuoi aprire la finestra di post-riposo dopo un lungo riposo, ad esempio, per modificare i tuoi incantesimi preparati.\\n"
+            "it": "Puoi impostare il viaggio in modo da non dover gestire in modo micro la tua festa.\\n\\nOgni volta che qualcuno può salire di livello, è possibile avviare immediatamente un riposo lungo senza terminare il viaggio della giornata.\\nQuando un'attività di creazione è completa, puoi configurarne una nuova senza perdere tempo.\\nPuoi aprire la finestra di post-riposo dopo un riposo lungo, ad esempio, per modificare i tuoi incantesimi preparati.\\n"
         },
         {
             "key": "TutorialStep/&Tuto_CampaignMap3_Title",
@@ -29922,12 +29922,12 @@
         {
             "key": "TutorialStep/&Tuto_CampaignMap7_Description",
             "en": "After a night attack, you can safely go back to sleep and complete your long rest.\\nTo do so, simply click on the campfire.\\nAll your characters will receive the benefits of the long rest as normal.\\n\\nA cleric of the Oblivion domain with Peaceful Rest will not be surprised in future. This time was for the purpose of explaining the rule.",
-            "it": "Dopo un attacco notturno, puoi tranquillamente tornare a dormire e completare il tuo lungo riposo.\\nPer farlo, fai semplicemente clic sul fuoco.\\nTutti i tuoi personaggi riceveranno i benefici del lungo riposo come di consueto.\\n\\nUn chierico di il dominio Oblivion con Peaceful Rest non sarà sorpreso in futuro. Questa volta era allo scopo di spiegare la regola."
+            "it": "Dopo un attacco notturno, puoi tranquillamente tornare a dormire e completare il tuo riposo lungo.\\nPer farlo, fai semplicemente clic sul fuoco.\\nTutti i tuoi personaggi riceveranno i benefici del riposo lungo come di consueto.\\n\\nUn chierico di il dominio Oblivion con Peaceful Rest non sarà sorpreso in futuro. Questa volta era allo scopo di spiegare la regola."
         },
         {
             "key": "TutorialStep/&Tuto_CampaignMap7_Title",
             "en": "Finishing Your Long Rest",
-            "it": "Finire il tuo lungo riposo"
+            "it": "Finire il tuo riposo lungo"
         },
         {
             "key": "TutorialStep/&Tuto_FindCouncil_Description",
@@ -29962,7 +29962,7 @@
         {
             "key": "TutorialStep/&Tuto_LevelUpGeneric_Description",
             "en": "When you reach the target experience for your next level, take a long rest to open the level-up window.\\n\\nThere you will gain additional hit points and features, depending on your class.\\n\\nDon't forget that you can take a long rest to level up in an inn, during travel, or inside an exploration location.",
-            "it": "Quando raggiungi l'esperienza di destinazione per il tuo livello successivo, fai una lunga pausa per aprire la finestra di aumento di livello.\\n\\nLa otterrai punti ferita e funzionalità aggiuntivi, a seconda della tua classe.\\n\\nNon dimenticare che tu può richiedere un lungo riposo per salire di livello in una locanda, durante il viaggio o all'interno di un luogo di esplorazione."
+            "it": "Quando raggiungi l'esperienza di destinazione per il tuo livello successivo, fai una lunga pausa per aprire la finestra di aumento di livello.\\n\\nLa otterrai punti ferita e funzionalità aggiuntivi, a seconda della tua classe.\\n\\nNon dimenticare che tu può richiedere un riposo lungo per salire di livello in una locanda, durante il viaggio o all'interno di un luogo di esplorazione."
         },
         {
             "key": "TutorialStep/&Tuto_LevelUpGeneric_Title",
@@ -30082,7 +30082,7 @@
         {
             "key": "TutorialStep/&Tuto_ShortRest2_Description",
             "en": "After a short rest, characters can spend hit dice to recover hit points. Heroes have one hit die per level. Once they are spent, they need a long rest to get them back. You can spend all or part of your hit dice after a short rest.\\n\\nOther abilities may be recovered by taking a short rest, according to a character's class and level.\\n",
-            "it": "Dopo un breve riposo, i personaggi possono spendere i dadi vita per recuperare i punti ferita. Gli eroi hanno un dado per colpire per livello. Una volta esauriti, hanno bisogno di un lungo riposo per riaverli. Puoi spendere tutti o parte dei tuoi dadi vita dopo un breve riposo.\\n\\nAltre abilità possono essere recuperate facendo un breve riposo, in base alla classe e al livello del personaggio.\\n"
+            "it": "Dopo un breve riposo, i personaggi possono spendere i dadi vita per recuperare i punti ferita. Gli eroi hanno un dado per colpire per livello. Una volta esauriti, hanno bisogno di un riposo lungo per riaverli. Puoi spendere tutti o parte dei tuoi dadi vita dopo un breve riposo.\\n\\nAltre abilità possono essere recuperate facendo un breve riposo, in base alla classe e al livello del personaggio.\\n"
         },
         {
             "key": "TutorialStep/&Tuto_ShortRest2_Title",
@@ -30102,7 +30102,7 @@
         {
             "key": "TutorialStep/&Tuto_SurpriseAttack_Description",
             "en": "You have been surprised while camping! You must fight off your attackers before you can leave.\\nHaving been surprised, you cannot take any action during the first turn of the battle!\\n\\nDon't hold back your spells and powers! You will finish your long rest after the battle, so put all your strength into this fight for survival!",
-            "it": "Sei stato sorpreso durante il campeggio! Devi combattere i tuoi attaccanti prima di poter partire.\\nSono rimasto sorpreso, non puoi intraprendere alcuna azione durante il primo turno della battaglia!\\n\\nNon trattenere i tuoi incantesimi e poteri! Finirai il tuo lungo riposo dopo la battaglia, quindi metti tutte le tue forze in questa lotta per la sopravvivenza!"
+            "it": "Sei stato sorpreso durante il campeggio! Devi combattere i tuoi attaccanti prima di poter partire.\\nSono rimasto sorpreso, non puoi intraprendere alcuna azione durante il primo turno della battaglia!\\n\\nNon trattenere i tuoi incantesimi e poteri! Finirai il tuo riposo lungo dopo la battaglia, quindi metti tutte le tue forze in questa lotta per la sopravvivenza!"
         },
         {
             "key": "TutorialStep/&Tuto_SurpriseAttack_Title",
@@ -30827,12 +30827,12 @@
         {
             "key": "Message/&WaitForLongRestDescription",
             "en": "You have already performed a long rest today. Would you like to wait until the start of a new day?",
-            "it": "Hai già eseguito un lungo riposo oggi. Vorresti aspettare l'inizio di un nuovo giorno?"
+            "it": "Hai già eseguito un riposo lungo oggi. Vorresti aspettare l'inizio di un nuovo giorno?"
         },
         {
             "key": "Message/&WaitForLongRestTitle",
             "en": "Waiting to Perform a Long Rest",
-            "it": "In attesa di eseguire un lungo riposo"
+            "it": "In attesa di eseguire un riposo lungo"
         },
         {
             "key": "Equipment/&ContainerHarvestable_Angry_Bush_Title",
@@ -31147,12 +31147,12 @@
         {
             "key": "Travel/&TravelEventExplorationEndsTitle",
             "en": "The party has found a way in.",
-            "it": "La festa ha trovato un modo per entrare."
+            "it": "Il gruppo ha trovato un modo per entrare."
         },
         {
             "key": "Travel/&TravelEventExplorationStartsTitle",
             "en": "The party starts looking for access to the location.",
-            "it": "La festa inizia a cercare l'accesso alla location."
+            "it": "Il gruppo inizia a cercare l'accesso alla location."
         },
         {
             "key": "CharacterInteraction/&SorakTrackDescription",
@@ -35142,7 +35142,7 @@
         {
             "key": "Feature/&PowerFunctionApplyPoisonTitle",
             "en": "Apply",
-            "it": "Applicare"
+            "it": "Applica"
         },
         {
             "key": "Tooltip/&ItemDynamicPropertyFormat",
@@ -35717,7 +35717,7 @@
         {
             "key": "Spell/&GoodberryDescription",
             "en": "Creates 10 berries infused with magic. Eating a berry restores 1 hit point and provides sustenance for a long rest. Berries vanish after a long rest.",
-            "it": "Crea 10 bacche infuse di magia. Mangiare una bacca ripristina 1 punto ferita e fornisce sostentamento per un lungo riposo. Le bacche svaniscono dopo un lungo riposo."
+            "it": "Crea 10 bacche infuse di magia. Mangiare una bacca ripristina 1 punto ferita e fornisce sostentamento per un riposo lungo. Le bacche svaniscono dopo un riposo lungo."
         },
         {
             "key": "Equipment/&Abjuration_HolySymbol_Title",
@@ -39110,7 +39110,7 @@
         {
             "key": "Feature/&DomainElementalHeraldOfTheElementsColdDescription",
             "en": "The target suffers cold damage and must succeed with a STR save or become restrained until the end of its next turn. Can be used a number of times equal to your WIS bonus until a long rest.",
-            "it": "Il bersaglio subisce danni da freddo e deve superare un Tiro Salvezza su STR o restare bloccato fino alla fine del suo turno successivo. Può essere utilizzato un numero di volte pari al tuo bonus WIS fino a un lungo riposo."
+            "it": "Il bersaglio subisce danni da freddo e deve superare un Tiro Salvezza su STR o restare bloccato fino alla fine del suo turno successivo. Può essere utilizzato un numero di volte pari al tuo bonus WIS fino a un riposo lungo."
         },
         {
             "key": "Feature/&DomainElementalHeraldOfTheElementsColdShortTitle",
@@ -39125,7 +39125,7 @@
         {
             "key": "Feature/&DomainElementalHeraldOfTheElementsThunderDescription",
             "en": "The creature in the area must succeed with a CON save or suffer lightning damage and become restrained until the end of their next turn. Can be used a number of times equal to your WIS bonus until a long rest.",
-            "it": "La creatura nell'area deve superare un Tiro Salvezza CON o subire danni da fulmine e diventare trattenuta fino alla fine del turno successivo. Può essere utilizzato un numero di volte pari al tuo bonus WIS fino a un lungo riposo."
+            "it": "La creatura nell'area deve superare un Tiro Salvezza CON o subire danni da fulmine e diventare trattenuta fino alla fine del turno successivo. Può essere utilizzato un numero di volte pari al tuo bonus WIS fino a un riposo lungo."
         },
         {
             "key": "Feature/&DomainElementalHeraldOfTheElementsThunderShortTitle",
@@ -42553,7 +42553,7 @@
         {
             "key": "Feature/&DomainElementalHeraldOfTheElementsFireDescription",
             "en": "The target suffers fire damage and must succeed a STR save or be pushed. Can be used a number of times equal to your WIS bonus until a long rest.",
-            "it": "Il bersaglio subisce danni da fuoco e deve superare un Tiro Salvezza STR o essere spinto. Può essere utilizzato un numero di volte pari al tuo bonus WIS fino a un lungo riposo."
+            "it": "Il bersaglio subisce danni da fuoco e deve superare un Tiro Salvezza STR o essere spinto. Può essere utilizzato un numero di volte pari al tuo bonus WIS fino a un riposo lungo."
         },
         {
             "key": "Quest/&Quest_Background_Lawkeeper_Suspect2BTitle",
@@ -43613,12 +43613,12 @@
         {
             "key": "Travel/&StandardRandomEvents13Title",
             "en": "The party passes by a mass grave and walks away with a somber look.",
-            "it": "La festa passa davanti a una fossa comune e se ne va con uno sguardo cupo."
+            "it": "Il gruppo passa davanti a una fossa comune e se ne va con uno sguardo cupo."
         },
         {
             "key": "Travel/&StandardRandomEvents14Title",
             "en": "The party passes by a Manacalon statue representing yet another emperor.",
-            "it": "La festa passa davanti a una statua di Manacalon che rappresenta l'ennesimo imperatore."
+            "it": "Il gruppo passa davanti a una statua di Manacalon che rappresenta l'ennesimo imperatore."
         },
         {
             "key": "Travel/&StandardRandomEvents15Title",
@@ -43638,7 +43638,7 @@
         {
             "key": "Travel/&StandardRandomEvents18Title",
             "en": "The party passes by a shrine to Pakri and feels a cold breeze.",
-            "it": "La festa passa da un santuario a Pakri e sente una brezza fredda."
+            "it": "Il gruppo passa da un santuario a Pakri e sente una brezza fredda."
         },
         {
             "key": "Travel/&StandardRandomEvents19Title",
@@ -43648,12 +43648,12 @@
         {
             "key": "Travel/&StandardRandomEvents20Title",
             "en": "The party passes by a shrine to Misaye and hears someone laughing.",
-            "it": "La festa passa da un santuario a Misaye e sente qualcuno che ride."
+            "it": "Il gruppo passa da un santuario a Misaye e sente qualcuno che ride."
         },
         {
             "key": "Travel/&StandardRandomEvents21Title",
             "en": "The party passes by a ruined Imperial tollgate on which flowers have grown.",
-            "it": "La festa passa davanti a un casello imperiale in rovina sul quale sono cresciuti dei fiori."
+            "it": "Il gruppo passa davanti a un casello imperiale in rovina sul quale sono cresciuti dei fiori."
         },
         {
             "key": "Travel/&StandardRandomEvents22Title",
@@ -43663,17 +43663,17 @@
         {
             "key": "Travel/&StandardRandomEvents23Title",
             "en": "The party walks in light rain for some time.",
-            "it": "La festa cammina sotto una pioggia leggera per un po 'di tempo."
+            "it": "Il gruppo cammina sotto una pioggia leggera per un po 'di tempo."
         },
         {
             "key": "Travel/&StandardRandomEvents24Title",
             "en": "The party walks in heavy rain for a while.",
-            "it": "La festa cammina sotto una forte pioggia per un po '."
+            "it": "Il gruppo cammina sotto una forte pioggia per un po '."
         },
         {
             "key": "Travel/&StandardRandomEvents25Title",
             "en": "The party walks in a powerful storm for a short time.",
-            "it": "La festa entra in una potente tempesta per un breve periodo."
+            "it": "Il gruppo entra in una potente tempesta per un breve periodo."
         },
         {
             "key": "Travel/&StandardCampActivity13Title",
@@ -44108,7 +44108,7 @@
         {
             "key": "Feedback/&PartyMoneySpentLine",
             "en": "The party loses {0}.",
-            "it": "La festa perde {0}."
+            "it": "Il gruppo perde {0}."
         },
         {
             "key": "NPC/&NPC_Scavenger_TOM_Title",
@@ -70983,7 +70983,7 @@
         {
             "key": "Narration/&AbjurationQuest_Tower_9_BroodD_NPC",
             "en": "The feast is just starting!",
-            "it": "La festa è appena iniziata!"
+            "it": "Il gruppo è appena iniziata!"
         },
         {
             "key": "Narration/&AbjurationQuest_Tower_10_BroodF_NPC",
@@ -78328,7 +78328,7 @@
         {
             "key": "Screen/&ClearElementTitle",
             "en": "Clear",
-            "it": "Chiaro"
+            "it": "Pulisci"
         },
         {
             "key": "Screen/&ClearElementDescription",
@@ -78628,7 +78628,7 @@
         {
             "key": "Gadget/&CampfireDescription",
             "en": "An interactive campfire used to start a long rest for the party",
-            "it": "Un falò interattivo utilizzato per iniziare un lungo riposo per la festa"
+            "it": "Un falò interattivo utilizzato per iniziare un riposo lungo per la festa"
         },
         {
             "key": "Gadget/&ChestTitle",
