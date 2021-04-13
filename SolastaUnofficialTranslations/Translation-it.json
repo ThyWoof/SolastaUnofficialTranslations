@@ -1222,7 +1222,7 @@
         {
             "key": "Background/&KS_GarradMilesBackground_Title",
             "en": "Sellsword",
-            "it": "Sellsword"
+            "it": "Mercenario"
         },
         {
             "key": "Background/&KS_RhuadSwiftHandBackground_Description",
@@ -1232,7 +1232,7 @@
         {
             "key": "Background/&KS_RhuadSwiftHandBackground_Title",
             "en": "Spy",
-            "it": "Spiare"
+            "it": "Spia"
         },
         {
             "key": "Background/&KS_VigdisKaikonnenBackground_Description",
@@ -1262,7 +1262,7 @@
         {
             "key": "Background/&LawkeeperTitle",
             "en": "Lawkeeper",
-            "it": "Lawkeeper"
+            "it": "Protettore della legge"
         },
         {
             "key": "Background/&LowlifeDescription",
@@ -1272,7 +1272,7 @@
         {
             "key": "Background/&LowLifeTitle",
             "en": "Lowlife",
-            "it": "Lowlife"
+            "it": "Monello"
         },
         {
             "key": "Background/&PhilosopherDescription",
@@ -2122,7 +2122,7 @@
         {
             "key": "CharacterFamily/&FeyTitle",
             "en": "Fey",
-            "it": "Fey"
+            "it": "Fatato"
         },
         {
             "key": "CharacterFamily/&FiendDescription",
@@ -2862,17 +2862,17 @@
         {
             "key": "Equipment/&ArcaneFocusOrbTitle",
             "en": "Orb",
-            "it": "Orb"
+            "it": "Sfera"
         },
         {
             "key": "Equipment/&ArcaneFocusRodTitle",
             "en": "Rod",
-            "it": "Rod"
+            "it": "Verga"
         },
         {
             "key": "Equipment/&ArcaneFocusStaffTitle",
             "en": "Staff",
-            "it": "Personale"
+            "it": "Bastone"
         },
         {
             "key": "Equipment/&ArcaneFocusWandTitle",
@@ -3472,7 +3472,7 @@
         {
             "key": "Equipment/&BurglarPackTitle",
             "en": "Burglar's Pack",
-            "it": "Pacchetto dello scassinatore"
+            "it": "Kit da scassinatore"
         },
         {
             "key": "Equipment/&CaerLem_Daliat_Document_Content",
@@ -3862,7 +3862,7 @@
         {
             "key": "Equipment/&DungeoneerPackTitle",
             "en": "Dungeoneer's Pack",
-            "it": "Pacchetto da Dungeoneer"
+            "it": "Kit da Avventuriero"
         },
         {
             "key": "Equipment/&EmptyFlaskDescription",
@@ -4342,7 +4342,7 @@
         {
             "key": "Equipment/&ExplorerPackTitle",
             "en": "Explorer's Pack",
-            "it": "Pacchetto dell'esploratore"
+            "it": "Kit da esploratore"
         },
         {
             "key": "Equipment/&FireArrowTitle",
@@ -5762,7 +5762,7 @@
         {
             "key": "Equipment/&PriestPackTitle",
             "en": "Priest's Pack",
-            "it": "Pacchetto del prete"
+            "it": "Kit da prete"
         },
         {
             "key": "Equipment/&QuarterstaffTypeTitle",
@@ -5817,7 +5817,7 @@
         {
             "key": "Equipment/&ScholarPackTitle",
             "en": "Scholar's Pack",
-            "it": "Pacchetto dello studioso"
+            "it": "Kit da studioso"
         },
         {
             "key": "Equipment/&ScimitarTypeTitle",
@@ -5957,22 +5957,22 @@
         {
             "key": "Equipment/&ScrollHoldPersonDescription",
             "en": "When you use this scroll, you cast the Hold Person spell.",
-            "it": "Quando usi questa pergamena, lanci l'incantesimo Hold Person."
+            "it": "Quando usi questa pergamena, lanci l'incantesimo Blocca Persona."
         },
         {
             "key": "Equipment/&ScrollHoldPersonTitle",
             "en": "Scroll of Hold Person",
-            "it": "Pergamena di Hold Person"
+            "it": "Pergamena di Blocca Persona"
         },
         {
             "key": "Equipment/&ScrollIdentifyDescription",
             "en": "When you use this scroll, you cast the Identify spell.",
-            "it": "Quando usi questa pergamena, lanci l'incantesimo Identifica."
+            "it": "Quando usi questa pergamena, lanci l'incantesimo Identificare."
         },
         {
             "key": "Equipment/&ScrollIdentifyTitle",
             "en": "Scroll of Identify",
-            "it": "Scroll of Identify"
+            "it": "Pergamena di Identificare"
         },
         {
             "key": "Equipment/&ScrollJumpDescription",
@@ -5992,7 +5992,7 @@
         {
             "key": "Equipment/&ScrollKitToolTypeTitle",
             "en": "Scroll Kit",
-            "it": "Kit di scorrimento"
+            "it": "Kit per pergamene"
         },
         {
             "key": "Equipment/&ScrollLesserRestorationDescription",
@@ -8377,7 +8377,7 @@
         {
             "key": "Feature/&DwarfLanguagesTitle",
             "en": "Languages",
-            "it": "Le lingue"
+            "it": "Lingue"
         },
         {
             "key": "Feature/&DwarfResilienceDescription",
@@ -8422,7 +8422,7 @@
         {
             "key": "Feature/&ElfFeyAncestryTitle",
             "en": "Fey Ancestry",
-            "it": "Fey Ancestry"
+            "it": "REttaggio Fatato"
         },
         {
             "key": "Feature/&ElfHighCastSpellDescription",
@@ -8452,7 +8452,7 @@
         {
             "key": "Feature/&ElfSylvanLanguagesTitle",
             "en": "Languages",
-            "it": "Le lingue"
+            "it": "Lingue"
         },
         {
             "key": "Feature/&ElfSylvanSurvivalDescription",
@@ -8467,7 +8467,7 @@
         {
             "key": "Feature/&ElfWeaponTrainingTitle",
             "en": "Elf Weapon Training",
-            "it": "Elf Weapon Training"
+            "it": "Addestramento nelle Armi Elfiche"
         },
         {
             "key": "Feature/&Emptystring",
@@ -8592,7 +8592,7 @@
         {
             "key": "Feature/&HalfElfLanguagesTitle",
             "en": "Languages",
-            "it": "Le lingue"
+            "it": "Lingue"
         },
         {
             "key": "Feature/&HalflingBraveTitle",
@@ -8607,7 +8607,7 @@
         {
             "key": "Feature/&HalflingIslandLanguagesTitle",
             "en": "Languages",
-            "it": "Le lingue"
+            "it": "Lingue"
         },
         {
             "key": "Feature/&HalflingLuckyDescription",
@@ -8627,7 +8627,7 @@
         {
             "key": "Feature/&HalflingMarshHidingTitle",
             "en": "Marsh Halfling Hiding",
-            "it": "Marsh Halfling si nasconde"
+            "it": "Halfling delle Paludi si nasconde"
         },
         {
             "key": "Feature/&HalflingMarshLanguagesDescription",
@@ -8637,7 +8637,7 @@
         {
             "key": "Feature/&HalflingMarshLanguagesTitle",
             "en": "Languages",
-            "it": "Le lingue"
+            "it": "Lingue"
         },
         {
             "key": "Feature/&HalflingMarshTerrainDescription",
@@ -8692,7 +8692,7 @@
         {
             "key": "Feature/&HighElfLanguagesTitle",
             "en": "Languages",
-            "it": "Le lingue"
+            "it": "Lingue"
         },
         {
             "key": "Feature/&HumanAbilityScoreChoiceDescription",
@@ -8712,7 +8712,7 @@
         {
             "key": "Feature/&HumanLanguagesTitle",
             "en": "Languages",
-            "it": "Le lingue"
+            "it": "Lingue"
         },
         {
             "key": "Feature/&ImmuneSpellsPluralFormat",
@@ -8987,7 +8987,7 @@
         {
             "key": "Feature/&PaladinLayonHandsTitle",
             "en": "Lay on Hands",
-            "it": "Imponi le mani"
+            "it": "Imposizione delle mani"
         },
         {
             "key": "Feature/&PaladinNeutralizePoisonDescription",
@@ -9732,7 +9732,7 @@
         {
             "key": "Feature/&SpySkillsTitle",
             "en": "Spycraft",
-            "it": "Spycraft"
+            "it": "Abilità Da Spia"
         },
         {
             "key": "Feature/&SpySkillsToolsDescription",
@@ -9872,7 +9872,7 @@
         {
             "key": "Feature/&VisionDarkvisionTitle",
             "en": "Darkvision",
-            "it": "Darkvision"
+            "it": "Scurovisione"
         },
         {
             "key": "Feature/&VisionDetectInvisibilityDescription",
@@ -10402,7 +10402,7 @@
         {
             "key": "Feedback/&CriticalAttackOutcome",
             "en": "{0} (CRITICAL HIT)",
-            "it": "{0} (COLPO CRITICO)"
+            "it": "{0} (CRITICO)"
         },
         {
             "key": "Feedback/&CriticalFailureFormat",
@@ -10782,7 +10782,7 @@
         {
             "key": "Feedback/&RollAttackCriticalSuccessTitle",
             "en": "Critical Hit",
-            "it": "Colpo critico"
+            "it": "Critico"
         },
         {
             "key": "Feedback/&RollAttackFailureTitle",
@@ -18530,7 +18530,7 @@
         {
             "key": "Race/&HalflingMarshTitle",
             "en": "Marsh Halfling",
-            "it": "Marsh Halfling"
+            "it": "Halfling delle Paludi"
         },
         {
             "key": "Race/&HalflingSurName1Title",
@@ -19724,7 +19724,7 @@
         {
             "key": "Rules/&ConditionDarkvisionTitle",
             "en": "Darkvision",
-            "it": "Darkvision"
+            "it": "Scurovisione"
         },
         {
             "key": "Rules/&ConditionDazzledDescription",
@@ -19774,7 +19774,7 @@
         {
             "key": "Rules/&ConditionDetectMagicTitle",
             "en": "Detect Magic",
-            "it": "Rileva Magic"
+            "it": "Individuazione del Magico"
         },
         {
             "key": "Rules/&ConditionDiscipleImmuneColdDescription",
@@ -20554,7 +20554,7 @@
         {
             "key": "Rules/&ConditionTrueStrikeTitle",
             "en": "True Strike",
-            "it": "True Strike"
+            "it": "Colpo Preciso"
         },
         {
             "key": "Rules/&ConditionTurnedDescription",
@@ -21749,7 +21749,7 @@
         {
             "key": "Screen/&CloseTitle",
             "en": "Close",
-            "it": "Vicino"
+            "it": "Chiudi"
         },
         {
             "key": "Screen/&CompletedQuestsListTitle",
@@ -22499,7 +22499,7 @@
         {
             "key": "Screen/&JournalBestiaryLanguagesTitle",
             "en": "Languages",
-            "it": "Le lingue"
+            "it": "Lingue"
         },
         {
             "key": "Screen/&JournalBestiaryLootOptionsTitle",
@@ -22934,7 +22934,7 @@
         {
             "key": "Screen/&MerchantDetectMagicTitle",
             "en": "Detect Magic",
-            "it": "Rileva Magic"
+            "it": "Individuazione del Magico"
         },
         {
             "key": "Screen/&MerchantFactionRelationEffectDescription",
@@ -22974,7 +22974,7 @@
         {
             "key": "Screen/&NextPageTitle",
             "en": "Next",
-            "it": "Il prossimo"
+            "it": "Avanti"
         },
         {
             "key": "Screen/&NextTutorialStepDescription",
@@ -23039,7 +23039,7 @@
         {
             "key": "Screen/&PartyJournalButtonTitle",
             "en": "Journal",
-            "it": "rivista"
+            "it": "Diario"
         },
         {
             "key": "Screen/&PassTitle",
@@ -23189,7 +23189,7 @@
         {
             "key": "Screen/&PreviousPageTitle",
             "en": "Previous",
-            "it": "Precedente"
+            "it": "Indietro"
         },
         {
             "key": "Screen/&PreviousTutorialStepDescription",
@@ -23199,7 +23199,7 @@
         {
             "key": "Screen/&PreviousTutorialStepTitle",
             "en": "Previous",
-            "it": "Precedente"
+            "it": "Indietro"
         },
         {
             "key": "Screen/&ProficienciesTitle",
@@ -23259,7 +23259,7 @@
         {
             "key": "Screen/&ProficiencyToggleLanguageTitle",
             "en": "Languages",
-            "it": "Le lingue"
+            "it": "Lingue"
         },
         {
             "key": "Screen/&ProficiencyToggleSavingThrowTitle",
@@ -25149,7 +25149,7 @@
         {
             "key": "Skill/&AcrobaticsTitle",
             "en": "Acrobatics",
-            "it": "Acrobazie"
+            "it": "Acrobazia"
         },
         {
             "key": "Skill/&AnimalHandlingDescription",
@@ -25159,7 +25159,7 @@
         {
             "key": "Skill/&AnimalHandlingTitle",
             "en": "Animal Handling",
-            "it": "Gestione degli animali"
+            "it": "Addestrare animali"
         },
         {
             "key": "Skill/&ArcanaDescription",
@@ -25219,7 +25219,7 @@
         {
             "key": "Skill/&IntimidationTitle",
             "en": "Intimidation",
-            "it": "Intimidazione"
+            "it": "Intimidire"
         },
         {
             "key": "Skill/&InvestigationDescription",
@@ -25229,7 +25229,7 @@
         {
             "key": "Skill/&InvestigationTitle",
             "en": "Investigation",
-            "it": "Indagine"
+            "it": "Indagare"
         },
         {
             "key": "Skill/&MedecineDescription",
@@ -25239,7 +25239,7 @@
         {
             "key": "Skill/&MedecineTitle",
             "en": "Medicine",
-            "it": "Medicinale"
+            "it": "Medicina"
         },
         {
             "key": "Skill/&NatureDescription",
@@ -25267,7 +25267,7 @@
         {
             "key": "Skill/&PerformanceTitle",
             "en": "Performance",
-            "it": "Prestazione"
+            "it": "Intrattenere"
         },
         {
             "key": "Skill/&PersuasionDescription",
@@ -25297,7 +25297,7 @@
         {
             "key": "Skill/&SleightOfHandTitle",
             "en": "Sleight of Hand",
-            "it": "Gioco di prestigio"
+            "it": "Rapidità di Mano"
         },
         {
             "key": "Skill/&StealthDescription",
@@ -25307,7 +25307,7 @@
         {
             "key": "Skill/&StealthTitle",
             "en": "Stealth",
-            "it": "Invisibile"
+            "it": "Furtività"
         },
         {
             "key": "Skill/&SurvivalDescription",
@@ -25507,7 +25507,7 @@
         {
             "key": "Spell/&AcidSplashTitle",
             "en": "Acid Splash",
-            "it": "Acid Splash"
+            "it": "Spruzzo Acido"
         },
         {
             "key": "Spell/&AidDescription",
@@ -25537,7 +25537,7 @@
         {
             "key": "Spell/&BaneTitle",
             "en": "Bane",
-            "it": "Bane"
+            "it": "Anatema"
         },
         {
             "key": "Spell/&BarkskinDescription",
@@ -25622,7 +25622,7 @@
         {
             "key": "Spell/&BlessTitle",
             "en": "Bless",
-            "it": "Benedici"
+            "it": "Benedizione"
         },
         {
             "key": "Spell/&BlindnessDescription",
@@ -25662,7 +25662,7 @@
         {
             "key": "Spell/&BurningHandsTitle",
             "en": "Burning Hands",
-            "it": "Mani ardenti"
+            "it": "Mani Brucianti"
         },
         {
             "key": "Spell/&CharmPersonDescription",
@@ -25672,7 +25672,7 @@
         {
             "key": "Spell/&CharmPersonTitle",
             "en": "Charm Person",
-            "it": "Persona di fascino"
+            "it": "Charm"
         },
         {
             "key": "Spell/&ChillTouchDescription",
@@ -25687,7 +25687,7 @@
         {
             "key": "Spell/&ColorSprayTitle",
             "en": "Color Spray",
-            "it": "Spray colore"
+            "it": "Spray colorato"
         },
         {
             "key": "Spell/&ConjureGoblinoidsDescription",
@@ -25757,7 +25757,7 @@
         {
             "key": "Spell/&DarkvisionTitle",
             "en": "Darkvision",
-            "it": "Darkvision"
+            "it": "Scurovisione"
         },
         {
             "key": "Spell/&DaylightDescription",
@@ -25787,7 +25787,7 @@
         {
             "key": "Spell/&DetectEvilAndGoodTitle",
             "en": "Detect Evil and Good",
-            "it": "Rileva il male e il bene"
+            "it": "Individuazioned del bene e del male"
         },
         {
             "key": "Spell/&DetectMagicDescription",
@@ -25797,7 +25797,7 @@
         {
             "key": "Spell/&DetectMagicTitle",
             "en": "Detect Magic",
-            "it": "Rileva Magic"
+            "it": "Individuazione del Magico"
         },
         {
             "key": "Spell/&DispelMagicDescription",
@@ -25897,7 +25897,7 @@
         {
             "key": "Spell/&ExpeditiousRetreatTitle",
             "en": "Expeditious Retreat",
-            "it": "Ritiro rapido"
+            "it": "Ritirata rapido"
         },
         {
             "key": "Spell/&FaerieFireDescription",
@@ -25937,7 +25937,7 @@
         {
             "key": "Spell/&FeatherFallTitle",
             "en": "Feather Fall",
-            "it": "Caduta di piume"
+            "it": "Caduta morbida"
         },
         {
             "key": "Spell/&FindTrapsDescription",
@@ -26067,7 +26067,7 @@
         {
             "key": "Spell/&HideousLaughterTitle",
             "en": "Hideous Laughter",
-            "it": "Risate orribili"
+            "it": "Risata Incontenibile"
         },
         {
             "key": "Spell/&HoldPersonDescription",
@@ -26077,7 +26077,7 @@
         {
             "key": "Spell/&HoldPersonTitle",
             "en": "Hold Person",
-            "it": "Hold Person"
+            "it": "Blocca Persona"
         },
         {
             "key": "Spell/&HuntersMarkDescription",
@@ -26202,7 +26202,7 @@
         {
             "key": "Spell/&MageArmorTitle",
             "en": "Mage Armor",
-            "it": "Armatura da mago"
+            "it": "Armatura Magica"
         },
         {
             "key": "Spell/&MagicCircleDescription",
@@ -26372,7 +26372,7 @@
         {
             "key": "Spell/&ProtectionFromEvilGoodTitle",
             "en": "Protect vs Evil & Good",
-            "it": "Proteggi contro il male e il bene"
+            "it": "Protezione dal bene e dal male"
         },
         {
             "key": "Spell/&ProtectionFromPoisonDescription",
@@ -26552,12 +26552,12 @@
         {
             "key": "Spell/&ShockingGraspTitle",
             "en": "Shocking Grasp",
-            "it": "Stretta scioccante"
+            "it": "Stretta folgorante"
         },
         {
             "key": "Spell/&SleepTitle",
             "en": "Sleep",
-            "it": "Dormire"
+            "it": "Sonno"
         },
         {
             "key": "Spell/&SleetStormDescription",
@@ -26657,7 +26657,7 @@
         {
             "key": "Spell/&TrueStrikeTitle",
             "en": "True Strike",
-            "it": "True Strike"
+            "it": "Colpo Preciso"
         },
         {
             "key": "Spell/&VampiricTouchDescription",
@@ -26667,7 +26667,7 @@
         {
             "key": "Spell/&VampiricTouchTitle",
             "en": "Vampiric Touch",
-            "it": "Tocco vampirico"
+            "it": "Tocco del vampiro"
         },
         {
             "key": "Spell/&WallOfFireDescription",
@@ -28947,7 +28947,7 @@
         {
             "key": "Tooltip/&TagLoadingTitle",
             "en": "Loading",
-            "it": "Caricamento in corso"
+            "it": "Caricamento"
         },
         {
             "key": "Tooltip/&TagMagicalTitle",
@@ -30282,7 +30282,7 @@
         {
             "key": "TutorialStep/&Tuto01_Questlog_Title",
             "en": "Journal",
-            "it": "rivista"
+            "it": "Diario"
         },
         {
             "key": "TutorialStep/&Tuto01_Questlog2_Description",
@@ -32702,7 +32702,7 @@
         {
             "key": "Spell/&ComprehendLanguagesTitle",
             "en": "Comprehend Languages",
-            "it": "Comprendere le lingue"
+            "it": "Comprensione dei linguaggi"
         },
         {
             "key": "Spell/&ComprehendLanguagesDescription",
@@ -34087,7 +34087,7 @@
         {
             "key": "Screen/&ReviewGameTitle",
             "en": "Review the Game",
-            "it": "Rivedi il gioco"
+            "it": "Recensisci il gioco"
         },
         {
             "key": "Caption/&CannotBePlacedOnCharacterCaption",
@@ -40000,7 +40000,7 @@
         {
             "key": "Feature/&Smith_Title",
             "en": "Smithing",
-            "it": "Smithing"
+            "it": "Fabbro"
         },
         {
             "key": "Feature/&Smith_Description",
@@ -78233,7 +78233,7 @@
         {
             "key": "Screen/&EditorCaptionMoveButtonTitle",
             "en": "Move",
-            "it": "Mossa"
+            "it": "Movimento"
         },
         {
             "key": "Screen/&EditorCaptionMoveButtonDescription",
