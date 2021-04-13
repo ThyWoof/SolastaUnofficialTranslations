@@ -862,7 +862,7 @@
         {
             "key": "Attribute/&ExperienceDescription",
             "en": "The character's current experience point total. Required for next level: {0}XP",
-            "it": "Il totale dei punti esperienza attuali del personaggio. Richiesto per il livello successivo: {0} XP"
+            "it": "Il totale dei punti esperienza attuali del personaggio. Richiesto per il livello successivo: {0} PE"
         },
         {
             "key": "Attribute/&ExperienceTitle",
@@ -907,7 +907,7 @@
         {
             "key": "Attribute/&HitPointsTitle",
             "en": "HP",
-            "it": "HP"
+            "it": "PF"
         },
         {
             "key": "Attribute/&InitiativeDescription",
@@ -5652,7 +5652,7 @@
         {
             "key": "Equipment/&PotionHealingRemedyDescription",
             "en": "Contains a shimmering liquid. Heals some of your lost HP when drunk.",
-            "it": "Contiene un liquido scintillante. Cura alcuni dei tuoi HP persi quando sei ubriaco."
+            "it": "Contiene un liquido scintillante. Cura alcuni dei tuoi PF persi quando sei ubriaco."
         },
         {
             "key": "Equipment/&PotionHealingRemedyTitle",
@@ -5682,7 +5682,7 @@
         {
             "key": "Equipment/&PotionOfGreaterHealingDescription",
             "en": "Contains a shimmering liquid. Heals some of your lost HP when drunk.",
-            "it": "Contiene un liquido scintillante. Cura alcuni dei tuoi HP persi quando sei ubriaco."
+            "it": "Contiene un liquido scintillante. Cura alcuni dei tuoi PF persi quando sei ubriaco."
         },
         {
             "key": "Equipment/&PotionOfGreaterHealingTitle",
@@ -5692,7 +5692,7 @@
         {
             "key": "Equipment/&PotionOfHealingDescription",
             "en": "Contains a shimmering liquid. Heals some of your lost HP when drunk.",
-            "it": "Contiene un liquido scintillante. Cura alcuni dei tuoi HP persi quando sei ubriaco."
+            "it": "Contiene un liquido scintillante. Cura alcuni dei tuoi PF persi quando sei ubriaco."
         },
         {
             "key": "Equipment/&PotionOfHealingTitle",
@@ -5732,7 +5732,7 @@
         {
             "key": "Equipment/&PotionOfSuperiorHealingDescription",
             "en": "Contains a shimmering liquid. Heals some of your lost HP when drunk.",
-            "it": "Contiene un liquido scintillante. Cura alcuni dei tuoi HP persi quando sei ubriaco."
+            "it": "Contiene un liquido scintillante. Cura alcuni dei tuoi PF persi quando sei ubriaco."
         },
         {
             "key": "Equipment/&PotionOfSuperiorHealingTitle",
@@ -5742,7 +5742,7 @@
         {
             "key": "Equipment/&PotionofwaterbreatingDescription",
             "en": "Contains a shimmering liquid. Heals some of your lost HP when drunk.",
-            "it": "Contiene un liquido scintillante. Cura alcuni dei tuoi HP persi quando sei ubriaco."
+            "it": "Contiene un liquido scintillante. Cura alcuni dei tuoi PF persi quando sei ubriaco."
         },
         {
             "key": "Equipment/&PotionofwaterbreatingTitle",
@@ -6532,7 +6532,7 @@
         {
             "key": "Equipment/&WeaponTagLoadingTitle",
             "en": "Loading",
-            "it": "Caricamento in corso"
+            "it": "Caricamentoq"
         },
         {
             "key": "Equipment/&WeaponTagReachTitle",
@@ -7957,7 +7957,7 @@
         {
             "key": "Feature/&DomainBattleDivineWrathDescription",
             "en": "As an action, gain 3 temporary HP per cleric level. Recovered after a long rest.",
-            "it": "Con un'azione, ottieni 3 HP temporanei per livello da chierico. Recuperato dopo un riposo lungo."
+            "it": "Con un'azione, ottieni 3 PF temporanei per livello da chierico. Recuperato dopo un riposo lungo."
         },
         {
             "key": "Feature/&DomainBattleDivineWrathTitle",
@@ -8212,7 +8212,7 @@
         {
             "key": "Feature/&DomainLifeDiscipleOfLifeDescription",
             "en": "When casting a healing spell, the target regains additional HP equal to (2 x spell level).",
-            "it": "Quando lancia un incantesimo curativo, il bersaglio riguadagna PS aggiuntivi pari a (2 x livello dell'incantesimo)."
+            "it": "Quando lancia un incantesimo curativo, il bersaglio riguadagna PF aggiuntivi pari a (2 x livello dell'incantesimo)."
         },
         {
             "key": "Feature/&DomainLifeDiscipleOfLifeTitle",
@@ -8547,7 +8547,7 @@
         {
             "key": "Feature/&FighterSecondWindDescription",
             "en": "Regain (1d10 + level) HP as a bonus action.",
-            "it": "Recupera (1d10 + livello) HP come azione bonus."
+            "it": "Recupera (1d10 + livello) PF come azione bonus."
         },
         {
             "key": "Feature/&FighterSecondWindTitle",
@@ -8977,12 +8977,12 @@
         {
             "key": "Feature/&PaladinLayonHandsDescription",
             "en": "Spend points from your healing pool to restore lost HP.",
-            "it": "Spendi punti dalla tua riserva di guarigione per ripristinare gli HP persi."
+            "it": "Spendi punti dalla tua riserva di guarigione per ripristinare gli PF persi."
         },
         {
             "key": "Feature/&PaladinLayonHandsHyeronimusDescription",
             "en": "Restores a large number of lost HP.",
-            "it": "Ripristina un gran numero di HP persi."
+            "it": "Ripristina un gran numero di PF persi."
         },
         {
             "key": "Feature/&PaladinLayonHandsTitle",
@@ -9077,7 +9077,7 @@
         {
             "key": "Feature/&PowerOathOfDevotionSacredWeaponTitle",
             "en": "Channel Divinity: Sacred Weapon",
-            "it": "Incanalare Divinity: Sacred Weapon"
+            "it": "Incanalare Divinità: Arma Scara"
         },
         {
             "key": "Feature/&PowerOathOfDevotionTurnUnholyDescription",
@@ -9087,12 +9087,12 @@
         {
             "key": "Feature/&PowerOathOfDevotionTurnUnholyShortTitle",
             "en": "Turn the Unholy",
-            "it": "Trasforma l'empio"
+            "it": "Scacciare gli Empi "
         },
         {
             "key": "Feature/&PowerOathOfDevotionTurnUnholyTitle",
             "en": "Channel Divinity: Turn the Unholy",
-            "it": "Channel Divinity: Turn the Unholy"
+            "it": "Channel Divinità: Scacciare gli Empi"
         },
         {
             "key": "Feature/&PowerOathOfMotherlandFieryPresenceDescription",
@@ -10102,7 +10102,7 @@
         {
             "key": "Feedback/&AdditionalDamageDivineSmiteFormat",
             "en": "Smite!",
-            "it": "Colpisci!"
+            "it": "Colpito!"
         },
         {
             "key": "Feedback/&AdditionalDamageDivineSmiteLine",
@@ -10112,7 +10112,7 @@
         {
             "key": "Feedback/&AdditionalDamageFavoredEnemyFormat",
             "en": "Favored Enemy!",
-            "it": "Nemico preferito!"
+            "it": "Nemico prescelto!"
         },
         {
             "key": "Feedback/&AdditionalDamageFavoredEnemyLine",
@@ -10142,7 +10142,7 @@
         {
             "key": "Feedback/&AdditionalDamageSmiteTheHiddenDarkvisionFormat",
             "en": "Smite the Hidden!",
-            "it": "Colpisci l'occulto!"
+            "it": "Colpisci l'occultato!"
         },
         {
             "key": "Feedback/&AdditionalDamageSmiteTheHiddenDarkvisionLine",
@@ -10152,7 +10152,7 @@
         {
             "key": "Feedback/&AdditionalDamageSmiteTheHiddenShapechangerFormat",
             "en": "Smite the Hidden!",
-            "it": "Colpisci l'occulto!"
+            "it": "Colpisci l'occultato!"
         },
         {
             "key": "Feedback/&AdditionalDamageSmiteTheHiddenShapechangerLine",
@@ -10162,7 +10162,7 @@
         {
             "key": "Feedback/&AdditionalDamageSneakAttackFormat",
             "en": "Sneak Attack!",
-            "it": "Attacco furtivo!"
+            "it": "Attacco Furtivo!"
         },
         {
             "key": "Feedback/&AdditionalDamageSneakAttackLine",
@@ -10222,12 +10222,12 @@
         {
             "key": "Feedback/&AttackFailureFormat",
             "en": "Attack Miss ({0})",
-            "it": "Attacco mancato ({0})"
+            "it": "Mancato ({0})"
         },
         {
             "key": "Feedback/&AttackFailureOutcome",
             "en": "{0} (Miss)",
-            "it": "{0} (signorina)"
+            "it": "{0} (Mancato)"
         },
         {
             "key": "Feedback/&AttackOfOpportunityFormat",
@@ -10242,12 +10242,12 @@
         {
             "key": "Feedback/&AttackSuccessFormat",
             "en": "Attack Hit ({0})",
-            "it": "Colpo d'attacco ({0})"
+            "it": "Colpito ({0})"
         },
         {
             "key": "Feedback/&AttackSuccessOutcome",
             "en": "{0} (Hit)",
-            "it": "{0} (Hit)"
+            "it": "{0} (Colpito)"
         },
         {
             "key": "Feedback/&BrightLightCaption",
@@ -10262,12 +10262,12 @@
         {
             "key": "Feedback/&CannotHealFormat",
             "en": "Cannot Heal!",
-            "it": "Non posso guarire!"
+            "it": "Non posso curare!"
         },
         {
             "key": "Feedback/&CannotReceiveAnyHealingLine",
             "en": "{0} cannot receive any healing",
-            "it": "{0} non può ricevere alcuna guarigione"
+            "it": "{0} non può ricevere alcuna cura"
         },
         {
             "key": "Feedback/&CheckFailureCaption",
@@ -10372,7 +10372,7 @@
         {
             "key": "Feedback/&CoverHalfCaption",
             "en": "1/2 cover",
-            "it": "1/2 copertina"
+            "it": "1/2 copertura"
         },
         {
             "key": "Feedback/&CoverThreeQuarterCaption",
@@ -10382,7 +10382,7 @@
         {
             "key": "Feedback/&CriticalAbilityCheckFailureOutcome",
             "en": "{0} (CRITICAL FAILURE)",
-            "it": "{0} (ERRORE CRITICO)"
+            "it": "{0} (FALLIMENTO CRITICO)"
         },
         {
             "key": "Feedback/&CriticalAbilityCheckOutcome",
@@ -10407,12 +10407,12 @@
         {
             "key": "Feedback/&CriticalFailureFormat",
             "en": "Critical Failure!",
-            "it": "Errore critico!"
+            "it": "Fallimento critico!"
         },
         {
             "key": "Feedback/&DarknessCaption",
             "en": "Magical Darkness",
-            "it": "Magica oscurità"
+            "it": "Oscurità Magica"
         },
         {
             "key": "Feedback/&DarknessDescription",
@@ -10422,7 +10422,7 @@
         {
             "key": "Feedback/&DeadlyFallLine",
             "en": "{0} fell to their death.",
-            "it": "{0} sono caduti a morte."
+            "it": "{0} sono caduti morti."
         },
         {
             "key": "Feedback/&DeathSaveAnyAdvantageConsoleLine",
@@ -10437,7 +10437,7 @@
         {
             "key": "Feedback/&DeathSaveCriticalFailureFormat",
             "en": "{0} Critical Failure",
-            "it": "{0} Errore critico"
+            "it": "{0} Fallimento critico"
         },
         {
             "key": "Feedback/&DeathSaveCriticalFailureLine",
@@ -10507,12 +10507,12 @@
         {
             "key": "Feedback/&ExperienceGainedFormat",
             "en": "+{0}XP",
-            "it": "+ {0} XP"
+            "it": "+ {0} PE"
         },
         {
             "key": "Feedback/&ExperienceGainedLine",
             "en": "{0} gains {1}XP",
-            "it": "{0} guadagna {1} XP"
+            "it": "{0} guadagna {1} PE"
         },
         {
             "key": "Feedback/&FragileGroundDetectedFormat",
@@ -10787,12 +10787,12 @@
         {
             "key": "Feedback/&RollAttackFailureTitle",
             "en": "Miss",
-            "it": "Perdere"
+            "it": "Mancato"
         },
         {
             "key": "Feedback/&RollAttackSuccessTitle",
             "en": "Hit",
-            "it": "Colpire"
+            "it": "Colpito"
         },
         {
             "key": "Feedback/&RollCheckCriticalFailureTitle",
@@ -11142,7 +11142,7 @@
         {
             "key": "Format/&MaxHealthFormat",
             "en": "of {0} HP",
-            "it": "di {0} HP"
+            "it": "di {0} PF"
         },
         {
             "key": "Format/&Rank1Title",
@@ -19025,7 +19025,7 @@
         {
             "key": "Reaction/&PassTitle",
             "en": "Pass",
-            "it": "Passaggio"
+            "it": "Passa"
         },
         {
             "key": "Reaction/&ReactionShotDescription",
@@ -19779,7 +19779,7 @@
         {
             "key": "Rules/&ConditionDiscipleImmuneColdDescription",
             "en": "Immune to cold damage and regain HP from cold.",
-            "it": "Immune ai danni da freddo e riguadagna HP dal freddo."
+            "it": "Immune ai danni da freddo e riguadagna PF dal freddo."
         },
         {
             "key": "Rules/&ConditionDiscipleImmuneColdTitle",
@@ -19789,7 +19789,7 @@
         {
             "key": "Rules/&ConditionDiscipleImmuneFireDescription",
             "en": "Immune to lightning damage and regain HP from lightning.",
-            "it": "Immune ai danni da fulmine e recupera HP dai fulmini."
+            "it": "Immune ai danni da fulmine e recupera PF dai fulmini."
         },
         {
             "key": "Rules/&ConditionDiscipleImmuneFireTitle",
@@ -19799,7 +19799,7 @@
         {
             "key": "Rules/&ConditionDiscipleImmuneLightningDescription",
             "en": "Immune to fire damage and regain HP from fire.",
-            "it": "Immune ai danni da fuoco e riguadagna HP dal fuoco."
+            "it": "Immune ai danni da fuoco e riguadagna PF dal fuoco."
         },
         {
             "key": "Rules/&ConditionDiscipleImmuneLightningTitle",
@@ -20534,7 +20534,7 @@
         {
             "key": "Rules/&ConditionTemporaryHitPointsTitle",
             "en": "Temporary HP",
-            "it": "HP temporanei"
+            "it": "PF temporanei"
         },
         {
             "key": "Rules/&ConditionTraditionShockArcanistArcaneFuryDescription",
@@ -22329,7 +22329,7 @@
         {
             "key": "Screen/&HitDiceItemStatusFullHPTitle",
             "en": "Full HP",
-            "it": "HP completo"
+            "it": "PF completo"
         },
         {
             "key": "Screen/&HitDiceItemStatusOutofHDTitle",
@@ -22469,7 +22469,7 @@
         {
             "key": "Screen/&JournalBestiaryChallengeAndXPFormat",
             "en": "{0} ({1}XP)",
-            "it": "{0} ({1} XP)"
+            "it": "{0} ({1} PE)"
         },
         {
             "key": "Screen/&JournalBestiaryChallengeDescription",
@@ -23044,7 +23044,7 @@
         {
             "key": "Screen/&PassTitle",
             "en": "Pass",
-            "it": "Passaggio"
+            "it": "Passa"
         },
         {
             "key": "Screen/&PauseDescription",
@@ -23529,7 +23529,7 @@
         {
             "key": "Screen/&ResumeTitle",
             "en": "Resume",
-            "it": "Curriculum vitae"
+            "it": "Riprendi"
         },
         {
             "key": "Screen/&ReviveCastSpellFormat",
@@ -24219,7 +24219,7 @@
         {
             "key": "Screen/&TravelResumeTitle",
             "en": "Resume",
-            "it": "Curriculum vitae"
+            "it": "Riprendi"
         },
         {
             "key": "Screen/&TreasuryPoolDescription",
@@ -24239,7 +24239,7 @@
         {
             "key": "Screen/&TreasuryShareTitle",
             "en": "Share",
-            "it": "Condividere"
+            "it": "Condividi"
         },
         {
             "key": "Screen/&TreasuryTitle",
@@ -25517,7 +25517,7 @@
         {
             "key": "Spell/&AidTitle",
             "en": "Aid",
-            "it": "Aiuti"
+            "it": "Aiuto"
         },
         {
             "key": "Spell/&AnimateDeadDescription",
@@ -25887,7 +25887,7 @@
         {
             "key": "Spell/&EnhanceAbilityTitle",
             "en": "Enhance Ability",
-            "it": "Migliora l'abilità"
+            "it": "Caratteristica Potenziata"
         },
         {
             "key": "Spell/&ExpeditiousRetreatDescription",
@@ -26077,7 +26077,7 @@
         {
             "key": "Spell/&HoldPersonTitle",
             "en": "Hold Person",
-            "it": "Blocca Persona"
+            "it": "Blocca Persone"
         },
         {
             "key": "Spell/&HuntersMarkDescription",
@@ -26157,7 +26157,7 @@
         {
             "key": "Spell/&LesserRestorationTitle",
             "en": "Lesser Restoration",
-            "it": "Restauro minore"
+            "it": "Ristorare minore"
         },
         {
             "key": "Spell/&LevitateTitle",
@@ -27317,7 +27317,7 @@
         {
             "key": "Stage/&LevelUpCaptionTitle",
             "en": "{0} is now a level {1} {2}",
-            "it": "{0} è ora un livello {1} {2}"
+            "it": "{0} è ora un {2} di livello {1} "
         },
         {
             "key": "Stage/&LevelUpHeader",
@@ -31987,7 +31987,7 @@
         {
             "key": "Modal/&LoadingShortTitle",
             "en": "Loading",
-            "it": "Caricamento in corso"
+            "it": "Caricamento"
         },
         {
             "key": "Modal/&LoadingTipTitle",
@@ -32677,7 +32677,7 @@
         {
             "key": "Spell/&GoodberryTitle",
             "en": "Goodberry",
-            "it": "Goodberry"
+            "it": "Bacche Benefiche"
         },
         {
             "key": "Spell/&DetectPoisonAndDiseaseTitle",
@@ -33232,7 +33232,7 @@
         {
             "key": "Equipment/&Item_Berry_Ration_Title",
             "en": "Goodberry",
-            "it": "Goodberry"
+            "it": "Bacche Benefiche"
         },
         {
             "key": "Equipment/&HalpfPlatePlus1_Title",
@@ -34627,7 +34627,7 @@
         {
             "key": "Spell/&CalmEmotionsTitle",
             "en": "Calm Emotions",
-            "it": "Calme emozioni"
+            "it": "Calmare emozioni"
         },
         {
             "key": "Spell/&CalmEmotionsOnAllyTitle",
@@ -53418,7 +53418,7 @@
         {
             "key": "Narration/&CaerLem_End5_Starter_Formal",
             "en": "I suppose we'll meet again in Caer Cyflen? Are you good to return by yourselves?",
-            "it": "Suppongo che ci rivedremo a Caer Cyflen? Siete bravi a tornare da soli?"
+            "it": "Suppongo che ci rivedremo a Caer Cyflen? Siete in grado di tornare da soli?"
         },
         {
             "key": "Narration/&CaerLem_End7_Beryl_NPC",
