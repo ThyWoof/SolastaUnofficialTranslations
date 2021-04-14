@@ -2947,7 +2947,7 @@
         {
             "key": "Equipment/&Armor_HalfPlateTitle",
             "en": "Half Plate",
-            "it": "Mezza piastra"
+            "it": "Mezza Armatura"
         },
         {
             "key": "Equipment/&Armor_HideDescription",
@@ -2967,7 +2967,7 @@
         {
             "key": "Equipment/&Armor_LeatherTitle",
             "en": "Leather",
-            "it": "Pelle"
+            "it": "Cuoio"
         },
         {
             "key": "Equipment/&Armor_Noble_ClothesDescription",
@@ -2997,7 +2997,7 @@
         {
             "key": "Equipment/&Armor_PlateTitle",
             "en": "Plate",
-            "it": "Piatto"
+            "it": "Armatura Completa"
         },
         {
             "key": "Equipment/&Armor_RingMailDescription",
@@ -3017,7 +3017,7 @@
         {
             "key": "Equipment/&Armor_ScaleMailTitle",
             "en": "Scale Mail",
-            "it": "Scala posta"
+            "it": "Armatura di Scaglie"
         },
         {
             "key": "Equipment/&Armor_Scavenger_Outfit_01_Description",
@@ -4497,7 +4497,7 @@
         {
             "key": "Equipment/&GreataxeTypeTitle",
             "en": "Greataxe",
-            "it": "Greataxe"
+            "it": "Ascia Bipenne"
         },
         {
             "key": "Equipment/&GreatclubTypeTitle",
@@ -4517,7 +4517,7 @@
         {
             "key": "Equipment/&HandaxeTypeTitle",
             "en": "Handaxe",
-            "it": "Handaxe"
+            "it": "Ascia"
         },
         {
             "key": "Equipment/&HandCrossbowTypeTitle",
@@ -5352,7 +5352,7 @@
         {
             "key": "Equipment/&LongbowTypeTitle",
             "en": "Longbow",
-            "it": "Longbow"
+            "it": "Arco Lungo"
         },
         {
             "key": "Equipment/&Longsword_plus_one_Description",
@@ -5447,7 +5447,7 @@
         {
             "key": "Equipment/&MorningstarTypeTitle",
             "en": "Morningstar",
-            "it": "Stella del mattino"
+            "it": "Morning Star"
         },
         {
             "key": "Equipment/&MusicalInstrumentCategoryTitle",
@@ -5767,12 +5767,12 @@
         {
             "key": "Equipment/&QuarterstaffTypeTitle",
             "en": "Quarterstaff",
-            "it": "Quarterstaff"
+            "it": "Bastone Ferrato"
         },
         {
             "key": "Equipment/&RapierTypeTitle",
             "en": "Rapier",
-            "it": "Rapier"
+            "it": "Stocco"
         },
         {
             "key": "Equipment/&ReachTitle",
@@ -6187,12 +6187,12 @@
         {
             "key": "Equipment/&ShortbowTypeTitle",
             "en": "Shortbow",
-            "it": "Shortbow"
+            "it": "Arco Corto"
         },
         {
             "key": "Equipment/&ShortswordTypeTitle",
             "en": "Shortsword",
-            "it": "Spadone"
+            "it": "Spada Corta"
         },
         {
             "key": "Equipment/&SickleTypeTitle",
@@ -6502,12 +6502,12 @@
         {
             "key": "Equipment/&WarhammerTypeTitle",
             "en": "Warhammer",
-            "it": "Warhammer"
+            "it": "Martello da Guerra"
         },
         {
             "key": "Equipment/&WarpickTypeTitle",
             "en": "War Pick",
-            "it": "Scelta di guerra"
+            "it": "Piccone da guerra"
         },
         {
             "key": "Equipment/&WeaponTagAmmunitionTitle",
@@ -6517,7 +6517,7 @@
         {
             "key": "Equipment/&WeaponTagFinesseTitle",
             "en": "Finesse",
-            "it": "Finezza"
+            "it": "Accurata"
         },
         {
             "key": "Equipment/&WeaponTagHeavyTitle",
@@ -12522,7 +12522,7 @@
         {
             "key": "Merchant/&CaerCyflen_Gorim_Ironsoot_StoreTitle",
             "en": "General Store for Adventurers",
-            "it": "Magazzino per avventurieri"
+            "it": "Negozio per avventurieri"
         },
         {
             "key": "Merchant/&CaerCyflen_Halman_Summer_Store_AntiquariansTitle",
@@ -21564,12 +21564,12 @@
         {
             "key": "Screen/&BackgroundFeaturesTitle",
             "en": "Background Features",
-            "it": "Funzionalità in background"
+            "it": "Abilità del background"
         },
         {
             "key": "Screen/&BackgroundHeaderTitle",
             "en": "Background",
-            "it": "sfondo"
+            "it": "Background"
         },
         {
             "key": "Screen/&BackTitle",
@@ -26482,7 +26482,7 @@
         {
             "key": "Spell/&ScorchingRayTitle",
             "en": "Scorching Ray",
-            "it": "Raggio ardente"
+            "it": "Raggio Rovente"
         },
         {
             "key": "Spell/&SeeInvisibilityDescription",
@@ -28932,7 +28932,7 @@
         {
             "key": "Tooltip/&TagLeatherTitle",
             "en": "Leather",
-            "it": "Pelle"
+            "it": "Cuoio"
         },
         {
             "key": "Tooltip/&TagLightSourceTitle",
@@ -62328,7 +62328,7 @@
         {
             "key": "Narration/&Scavengers_Dialog_02_7_Quartermaster_NPC",
             "en": "Well, not your fault. Thanks for the heads-up.",
-            "it": "Beh, non è colpa tua. Grazie per il testa a testa."
+            "it": "Beh, non è colpa tua. Grazie per l'aggiornamento."
         },
         {
             "key": "Narration/&Scavengers_Dialog_02_8_Starter_Default",
