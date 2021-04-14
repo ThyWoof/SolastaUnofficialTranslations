@@ -917,7 +917,7 @@
         {
             "key": "Attribute/&InitiativeTitle",
             "en": "Init",
-            "it": "Dentro"
+            "it": "Iniziativa"
         },
         {
             "key": "Attribute/&IntelligenceDescription",
@@ -3027,7 +3027,7 @@
         {
             "key": "Equipment/&Armor_Scavenger_Outfit_01_Title",
             "en": "Scavenger Ranger Outfit",
-            "it": "Completo da Ranger Scavenger"
+            "it": "Completo da Ranger Spazzino"
         },
         {
             "key": "Equipment/&Armor_Scavenger_Outfit_02_Description",
@@ -5412,7 +5412,7 @@
         {
             "key": "Equipment/&MaxRangeTitle",
             "en": "Max Range",
-            "it": "Gamma massima"
+            "it": "Gittata massima"
         },
         {
             "key": "Equipment/&MediumArmorCategoryDescription",
@@ -11857,7 +11857,7 @@
         {
             "key": "MainMenu/&SaveDateHeader",
             "en": "Save Date",
-            "it": "Salva data"
+            "it": "Data di Salvataggio"
         },
         {
             "key": "MainMenu/&SelectCharacterSlotDescription",
@@ -15362,7 +15362,7 @@
         {
             "key": "Quest/&Caer_Cyflen_Merton_Quest_AskAnnieDescription",
             "en": "Lord Carran told you that Arwin Merton used to be a Scavenger, and a famous one. Ask Annie Bagmordah to tell you more about him.",
-            "it": "Lord Carran ti ha detto che Arwin Merton era uno Scavenger, e famoso. Chiedi ad Annie Bagmordah di dirti di più su di lui."
+            "it": "Lord Carran ti ha detto che Arwin Merton era uno Spazzino, e famoso. Chiedi ad Annie Bagmordah di dirti di più su di lui."
         },
         {
             "key": "Quest/&Caer_Cyflen_Merton_Quest_AskAnnieTitle",
@@ -15900,7 +15900,7 @@
         {
             "key": "Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrikDescription",
             "en": "Annie Bagmordah, the Scavengers' quartermaster, asked you to speak to Captain Henrik on her behalf to get the authorization to build a Scavenger camp in the Caer Lem outpost. Bring back Henrik's answer.",
-            "it": "Annie Bagmordah, quartiermastro degli Scavengers, ti ha chiesto di parlare con il capitano Henrik a suo nome per ottenere l'autorizzazione a costruire un accampamento di Scavenger nell'avamposto di Caer Lem. Riporta la risposta di Henrik."
+            "it": "Annie Bagmordah, quartiermastro degli Scavengers, ti ha chiesto di parlare con il capitano Henrik a suo nome per ottenere l'autorizzazione a costruire un accampamento di Spazzini nell'avamposto di Caer Lem. Riporta la risposta di Henrik."
         },
         {
             "key": "Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrikTitle",
@@ -17015,7 +17015,7 @@
         {
             "key": "Quest/&TelemaLevel_Quest_EnterDescription",
             "en": "Lena and Dek have confirmed that another Scavenger, Hector, was taken alive by the orcs during their raid. They have moved him inside the old temple. Find Hector and take him back. Do not forget to equip torches or cast Light spells down there.",
-            "it": "Lena e Dek hanno confermato che un altro Scavenger, Hector, è stato preso vivo dagli orchi durante il loro raid. Lo hanno trasferito all'interno del vecchio tempio. Trova Hector e riportalo indietro. Non dimenticare di equipaggiare torce o lanciare incantesimi di Luce laggiù."
+            "it": "Lena e Dek hanno confermato che un altro Spazzino, Hector, è stato preso vivo dagli orchi durante il loro raid. Lo hanno trasferito all'interno del vecchio tempio. Trova Hector e riportalo indietro. Non dimenticare di equipaggiare torce o lanciare incantesimi di Luce laggiù."
         },
         {
             "key": "Quest/&TelemaLevel_Quest_EnterTitle",
@@ -17085,12 +17085,12 @@
         {
             "key": "Quest/&TelemaLevel_Quest_FindScavs_Outcome1Description",
             "en": "You have reached the ruins of Telema and talked to Lena and Dek, the surviving Scavengers of Runnel's party. ",
-            "it": "Hai raggiunto le rovine di Telema e hai parlato con Lena e Dek, gli Scavenger sopravvissuti del gruppo di Runnel. "
+            "it": "Hai raggiunto le rovine di Telema e hai parlato con Lena e Dek, gli Spazzini sopravvissuti del gruppo di Runnel. "
         },
         {
             "key": "Quest/&TelemaLevel_Quest_FindScavsDescription",
             "en": "You have been asked by Runnel, a Scavenger, to go to the ruins of Telema to help his friends who were attacked by orcs. You owe their boss a favor, so you accepted the job.",
-            "it": "Ti è stato chiesto da Runnel, uno Scavenger, di andare alle rovine di Telema per aiutare i suoi amici attaccati dagli orchi. Devi un favore al loro capo, quindi hai accettato il lavoro."
+            "it": "Ti è stato chiesto da Runnel, uno Spazzino, di andare alle rovine di Telema per aiutare i suoi amici attaccati dagli orchi. Devi un favore al loro capo, quindi hai accettato il lavoro."
         },
         {
             "key": "Quest/&TelemaLevel_Quest_FindScavsTitle",
@@ -22729,7 +22729,7 @@
         {
             "key": "Screen/&JournalTitle",
             "en": "Party Journal",
-            "it": "Diario delle feste"
+            "it": "Diario del Gruppo"
         },
         {
             "key": "Screen/&JournalTravelContinuedTitle",
@@ -24454,7 +24454,7 @@
         {
             "key": "Setting/&DamagePiercingStyleTitle",
             "en": "Piercing Damage Style",
-            "it": "Stile di danno penetrante"
+            "it": "Stile di danno perforante"
         },
         {
             "key": "Setting/&DamagePoisonStyleDescription",
@@ -28062,7 +28062,7 @@
         {
             "key": "Tip/&LoadingTip03",
             "en": "Open the Journal screen ($Shortcut[PartyJournal]) to consult your party progress, objectives, and achievements.",
-            "it": "Apri la schermata del diario ($ Shortcut [PartyJournal]) per consultare i progressi, gli obiettivi e i risultati del tuo gruppo."
+            "it": "Apri la schermata del diario (Tasto J) per consultare i progressi, gli obiettivi e i risultati del tuo gruppo."
         },
         {
             "key": "Tip/&LoadingTip04",
@@ -28812,7 +28812,7 @@
         {
             "key": "Tooltip/&TagDamagePiercingTitle",
             "en": "Piercing Damage",
-            "it": "Danno penetrante"
+            "it": "Danni perforanti"
         },
         {
             "key": "Tooltip/&TagDamagePoisonTitle",
@@ -28882,7 +28882,7 @@
         {
             "key": "Tooltip/&TagFinesseTitle",
             "en": "Finesse",
-            "it": "Finezza"
+            "it": "Accurata"
         },
         {
             "key": "Tooltip/&TagFlamableTitle",
@@ -29002,7 +29002,7 @@
         {
             "key": "Tooltip/&TagRangeTitle",
             "en": "Range",
-            "it": "Gamma"
+            "it": "Gittata"
         },
         {
             "key": "Tooltip/&TagReachTitle",
@@ -29187,7 +29187,7 @@
         {
             "key": "Travel/&FatigueExhaustedDescription",
             "en": "The party is completely exhausted and must rest.",
-            "it": "Il gruppo è completamente esaurita e deve riposare."
+            "it": "Il gruppo è completamente esausto e deve riposare."
         },
         {
             "key": "Travel/&FatigueExhaustedTitle",
@@ -29197,7 +29197,7 @@
         {
             "key": "Travel/&FatigueFreshDescription",
             "en": "The party is fresh and can keep on traveling.",
-            "it": "Il gruppo è fresca e può continuare a viaggiare."
+            "it": "Il gruppo è fresco e può continuare a viaggiare."
         },
         {
             "key": "Travel/&FatigueFreshTitle",
@@ -29207,7 +29207,7 @@
         {
             "key": "Travel/&FatigueImpededDescription",
             "en": "The party is slightly tired but can keep traveling.",
-            "it": "Il gruppo è un po 'stanca ma può continuare a viaggiare."
+            "it": "Il gruppo è un po' stanco ma può continuare a viaggiare."
         },
         {
             "key": "Travel/&FatigueImpededTitle",
@@ -29517,7 +29517,7 @@
         {
             "key": "Travel/&TravelJourneyEndsTitle",
             "en": "The party has arrived",
-            "it": "Il gruppo è arrivata"
+            "it": "Il gruppo è arrivato"
         },
         {
             "key": "TutorialSection/&BasicsTitle",
@@ -33362,7 +33362,7 @@
         {
             "key": "Campaign/&CrownOfTheMagister_Journal_Mertonsquest_01",
             "en": "First Scavenger",
-            "it": "Primo Scavenger"
+            "it": "Primo Spazzino"
         },
         {
             "key": "Campaign/&CrownOfTheMagister_Journal_Coparann_Cleric",
@@ -35072,7 +35072,7 @@
         {
             "key": "Tutorial/&PartyStash_Description",
             "en": "This chest is yours to use. No one can loot it, you can stash up to 50 items inside it. Many adventurers use this Scavenger service to store some of their stuff.",
-            "it": "Puoi usare questo baule. Nessuno può saccheggiarlo, puoi riporre fino a 50 oggetti al suo interno. Molti avventurieri usano questo servizio Scavenger per immagazzinare alcune delle loro cose."
+            "it": "Puoi usare questo baule. Nessuno può saccheggiarlo, puoi riporre fino a 50 oggetti al suo interno. Molti avventurieri usano questo servizio Spazzini per immagazzinare alcune delle loro cose."
         },
         {
             "key": "Tutorial/&QuickShopping_Title",
@@ -36490,7 +36490,7 @@
         {
             "key": "Quest/&Abjuration_Visit_Scavs_Title",
             "en": "Visit the Local Scavenger HQ",
-            "it": "Visita il quartier generale dello Scavenger locale"
+            "it": "Visita il quartier generale dello Spazzino locale"
         },
         {
             "key": "Quest/&Abjuration_Visit_Scavs_Description",
@@ -36525,12 +36525,12 @@
         {
             "key": "TutorialStep/&Tuto_T8_Scav01_Title",
             "en": "Scavenger System",
-            "it": "Scavenger System"
+            "it": "Missioni degli Spazzini"
         },
         {
             "key": "TutorialStep/&Tuto_T8_Scav01_Description",
             "en": "When you have cleared a location of monsters, go to any Scavenger outpost to report your deeds. They will send their people there to collect the minor loot left and sell it.\\nEach time you visit a Scavenger HQ, you can claim the money they owe you.",
-            "it": "Dopo aver ripulito una posizione dai mostri, recati in un avamposto di Scavenger per segnalare le tue azioni. Manderanno lì i loro uomini a raccogliere il bottino minore rimasto e a venderlo.\\nOgni volta che visiti un quartier generale di Scavenger, puoi richiedere i soldi che ti devono."
+            "it": "Dopo aver ripulito una posizione dai mostri, recati in un avamposto di Spazzini per segnalare le tue azioni. Manderanno lì i loro uomini a raccogliere il bottino minore rimasto e a venderlo.\\nOgni volta che visiti un quartier generale di Spazzini, puoi richiedere i soldi che ti devono."
         },
         {
             "key": "TutorialStep/&Tuto_T8_Scav02_Title",
@@ -36540,7 +36540,7 @@
         {
             "key": "TutorialStep/&Tuto_T8_Scav02_Description",
             "en": "They take about 20 percent of the total value of what they brought back. You also have the chance to buy back some of the collected stuff beforehand.\\n\\nYou don't have to talk to the Scavenger quartermaster to use the system, you can click on the sign nearby.",
-            "it": "Prendono circa il 20 percento del valore totale di ciò che hanno portato indietro. Hai anche la possibilità di riacquistare alcune delle cose raccolte in anticipo.\\n\\nNon devi parlare con il quartiermastro Scavenger per usare il sistema, puoi fare clic sul segno vicino."
+            "it": "Prendono circa il 20 percento del valore totale di ciò che hanno portato indietro. Hai anche la possibilità di riacquistare alcune delle cose raccolte in anticipo.\\n\\nNon devi parlare con il quartiermastro Spazzino per usare il sistema, puoi fare clic sul segno vicino."
         },
         {
             "key": "Subclass/&DomainOblivionDescription",
@@ -36975,7 +36975,7 @@
         {
             "key": "CharacterInteraction/&UseScavengersDescription",
             "en": "Click to use the Scavenger System",
-            "it": "Fare clic per utilizzare il sistema Scavenger"
+            "it": "Fare clic per utilizzare il sistema Spazzini"
         },
         {
             "key": "TutorialStep/&Tuto_T8_CriticalCharacters_Title",
@@ -39410,7 +39410,7 @@
         {
             "key": "Setting/&DifficultyPresetPreset4Title",
             "en": "Scavenger Mode",
-            "it": "Modalità Scavenger"
+            "it": "Modalità Spazzini"
         },
         {
             "key": "Setting/&DifficultyPresetPreset4Description",
@@ -43593,7 +43593,7 @@
         {
             "key": "Map/&Location_ScavengerCamp_Title",
             "en": "Scavenger Camp",
-            "it": "Scavenger Camp"
+            "it": "Campo degli Spazzini"
         },
         {
             "key": "TutorialStep/&MajorGateBoneKeep_Title",
@@ -48608,7 +48608,7 @@
         {
             "key": "Narration/&Telema_246_Rescue_Hector",
             "en": "Me? I'm just another Scavenger, really.",
-            "it": "Me? Sono solo un altro Scavenger, davvero."
+            "it": "Me? Sono solo un altro Spazzino, davvero."
         },
         {
             "key": "Narration/&Telema_247_Rescue_Hector",
@@ -49173,7 +49173,7 @@
         {
             "key": "Narration/&Tavern_02_20_Stealth_Normal",
             "en": "Never mind him. He's just another drunk Scavenger.",
-            "it": "Non badare a lui. È solo un altro Scavenger ubriaco."
+            "it": "Non badare a lui. È solo un altro Spazzino ubriaco."
         },
         {
             "key": "Narration/&Tavern_02_21_Stealth_Cynical",
@@ -50428,7 +50428,7 @@
         {
             "key": "Narration/&Bartender_Dialog_01_9_Bartender_NPC",
             "en": "An old Scavenger, a diplomat from the Council, a knight, a lord, a beggar…",
-            "it": "Un vecchio Scavenger, un diplomatico del Consiglio, un cavaliere, un signore, un mendicante ..."
+            "it": "Un vecchio Spazzino, un diplomatico del Consiglio, un cavaliere, un signore, un mendicante ..."
         },
         {
             "key": "Narration/&Bartender_Dialog_01_10_Bartender_NPC",
@@ -50513,7 +50513,7 @@
         {
             "key": "Narration/&Scavengers_Dialog_01_4_Quartermaster_NPC",
             "en": "I'm Annie Bagmordah, Quartermaster of the Scavenger's guild.",
-            "it": "Sono Annie Bagmordah, quartiermastro della gilda del tesoro."
+            "it": "Sono Annie Bagmordah, quartiermastro della gilda degli Spazzini."
         },
         {
             "key": "Narration/&Scavengers_Dialog_01_5_Quartermaster_NPC",
@@ -50583,7 +50583,7 @@
         {
             "key": "Narration/&Scavengers_Dialog_01_18_Sellsword_Default",
             "en": "They're tough, these Scavengers. Fearless.",
-            "it": "Sono tosti, questi Scavenger. Impavido."
+            "it": "Sono tosti, questi Spazzini. Impavido."
         },
         {
             "key": "Narration/&Scavengers_Dialog_01_19_Highclass_Default",
@@ -50758,7 +50758,7 @@
         {
             "key": "Narration/&Scavengers_Dialog_02_27_NosyAuthority_Default",
             "en": "Do you know Arwin Merton, the so-called First Scavenger?",
-            "it": "Conosci Arwin Merton, il cosiddetto First Scavenger?"
+            "it": "Conosci Arwin Merton, il cosiddetto Primo Spazzino?"
         },
         {
             "key": "Narration/&Scavengers_Dialog_02_28_Quartermaster_NPC",
@@ -50858,7 +50858,7 @@
         {
             "key": "Narration/&Scavengers_Dialog_02_47_Quartermaster_NPC",
             "en": "Fine. Feel free to visit us anytime. Or drop into any Scavenger camp.",
-            "it": "Bene. Sentiti libero di farci visita in qualsiasi momento. Oppure entra in un qualsiasi campo di Scavenger."
+            "it": "Bene. Sentiti libero di farci visita in qualsiasi momento. Oppure entra in un qualsiasi campo di Spazzini."
         },
         {
             "key": "Narration/&Scavengers_Dialog_02_48_Nosy_Authority_Default",
@@ -53528,7 +53528,7 @@
         {
             "key": "Narration/&Council01_19_NPC_Carran",
             "en": "Another party came back yesterday… ",
-            "it": "Un'altra festa è tornata ieri ... "
+            "it": "Un altro gruppo è tornata ieri ... "
         },
         {
             "key": "Narration/&Council01_20_NPC_Carran",
@@ -53853,7 +53853,7 @@
         {
             "key": "Narration/&Council01_84_PlayerChoice_1_WRITTEN",
             "en": "We do.",
-            "it": "Noi facciamo."
+            "it": "Lo abbiamo fatto."
         },
         {
             "key": "Narration/&Council01_85_PlayerChoice_2_WRITTEN",
@@ -55738,7 +55738,7 @@
         {
             "key": "Narration/&Council02_1_23_Merton_NPC",
             "en": "Arwin Merton. He used to be a legend - the first Scavenger, they say.",
-            "it": "Arwin Merton. Era una leggenda: il primo Scavenger, dicono."
+            "it": "Arwin Merton. Era una leggenda: il primo Spazzino, dicono."
         },
         {
             "key": "Narration/&Council02_1_24_Merton_NPC",
@@ -56558,7 +56558,7 @@
         {
             "key": "Narration/&Merton_01_4_Any_Default",
             "en": "First Scavenger? Where does that come from?",
-            "it": "Primo Scavenger? Da dove viene?"
+            "it": "Primo Spazzino? Da dove viene?"
         },
         {
             "key": "Narration/&Merton_01_5_Merton_NPC",
@@ -70983,7 +70983,7 @@
         {
             "key": "Narration/&AbjurationQuest_Tower_9_BroodD_NPC",
             "en": "The feast is just starting!",
-            "it": "Il gruppo è appena iniziata!"
+            "it": "La festa è appena iniziata!"
         },
         {
             "key": "Narration/&AbjurationQuest_Tower_10_BroodF_NPC",
@@ -73108,12 +73108,12 @@
         {
             "key": "Narration/&CradleOfFire_BladefangQuest_16_Any_Default",
             "en": "Ancestors were great warriors from the Endless Range.",
-            "it": "Gli antenati erano grandi guerrieri della Gamma Infinita."
+            "it": "Gli antenati erano grandi guerrieri della Potata Infinita."
         },
         {
             "key": "Narration/&CradleOfFire_BladefangQuest_17_ChoiceB_Default",
             "en": "What's the Endless Range?",
-            "it": "Cos'è la gamma infinita?"
+            "it": "Cos'è la Potata infinita?"
         },
         {
             "key": "Narration/&CradleOfFire_BladefangQuest_18_History_Default",
