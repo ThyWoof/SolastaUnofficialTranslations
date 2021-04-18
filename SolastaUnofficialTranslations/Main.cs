@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -18,8 +19,9 @@ namespace SolastaUnofficialTranslations
     class Languages
     {
         private static readonly List<LanguageEntry> languages = new List<LanguageEntry>();
-
         private static void Log(string msg) => Main.Log(msg);
+
+        private static void Error(string msg) => Main.Error(msg);
 
         public static void LoadLanguages(string languageFile)
         {
@@ -38,7 +40,7 @@ namespace SolastaUnofficialTranslations
                 }
                 catch
                 {
-                    Log("Invalid language entry:" + language.ToString());
+                    Error("Invalid language entry:" + language.ToString());
                     continue;
                 }
                 languages.Add(languageEntry);
@@ -56,6 +58,7 @@ namespace SolastaUnofficialTranslations
                 // add language to localization manager
                 var languageSourceData = LocalizationManager.Sources[0];
                 languageSourceData.AddLanguage(language.text, language.code);
+
                 var languageIndex = languageSourceData.GetLanguageIndex(language.text);
 
                 // add language translation keys
@@ -73,7 +76,7 @@ namespace SolastaUnofficialTranslations
                     }
                     catch
                     {
-                        Log("key not found: " + translation.ToString());
+                        Error("key not found: " + translation.ToString());
                         continue;
                     }
                     try
@@ -82,7 +85,7 @@ namespace SolastaUnofficialTranslations
                     }
                     catch
                     {
-                        Log(language.code + " code not found: " + translation.ToString());
+                        Error(language.code + " code not found: " + translation.ToString());
                     }
                 }
             }
@@ -91,31 +94,21 @@ namespace SolastaUnofficialTranslations
 
     public class Main
     {
-        public static UnityModManager.ModEntry.ModLogger logger;
-        public static bool enabled;
+        [Conditional("DEBUG")]
+        internal static void Log(string msg) => Logger.Log(msg);
+        internal static void Error(Exception ex) => Logger?.Error(ex.ToString());
+        internal static void Error(string msg) => Logger?.Error(msg);
+        internal static UnityModManager.ModEntry.ModLogger Logger { get; private set; }
 
-        public static void Log(string msg)
-        {
-            if (logger != null) logger.Log(msg);
-        }
 
-        public static void Error(Exception ex)
-        {
-            if (logger != null) logger.Error(ex.ToString());
-        }
-
-        public static void Error(string msg)
-        {
-            if (logger != null) logger.Error(msg);
-        }
-
-        static bool Load(UnityModManager.ModEntry modEntry)
+        internal static bool Load(UnityModManager.ModEntry modEntry)
         {
             try
             {
-                logger = modEntry.Logger;
-                Languages.LoadLanguages(UnityModManager.modsPath + @"/SolastaUnofficialTranslations/Languages.json");
-                Languages.LoadTranslations();
+                Logger = modEntry.Logger;
+
+                ModBeforeDBReady();
+
                 var harmony = new Harmony(modEntry.Info.Id);
                 harmony.PatchAll(Assembly.GetExecutingAssembly());
             }
@@ -124,45 +117,56 @@ namespace SolastaUnofficialTranslations
                 Error(ex);
                 throw;
             }
+
             return true;
         }
 
-        [HarmonyPatch(typeof(GameManager), "BindServiceSettings")]
-        internal static class GameManager_BindServiceSettings_Patch
+        [HarmonyPatch(typeof(MainMenuScreen), "RuntimeLoaded")]
+        internal static class MainMenuScreen_RuntimeLoaded_Patch
         {
-            public static void Prefix(Dictionary<string, string> ___languageByCode)
+            internal static void Postfix()
             {
-                if (___languageByCode != null)
-                    foreach (LanguageEntry language in Languages.GetAll())
-                        if (!___languageByCode.ContainsKey(language.code))
-                            ___languageByCode.Add(language.code, language.text);
+                ModAfterDBReady();
             }
         }
 
-        [HarmonyPatch(typeof(SettingDropListItem), "Bind")]
-        internal static class SettingDropListItem_Bind_Patch
+        // ENTRY POINT IF YOU NEED SERVICE LOCATORS ACCESS
+        internal static void ModBeforeDBReady()
         {
-            public static void Postfix(
-                SettingTypeDropListAttribute ___settingTypeDropListAttribute, 
-                GuiDropdown ___dropList)
+            Languages.LoadLanguages(UnityModManager.modsPath + @"/SolastaUnofficialTranslations/Languages.json");
+            Languages.LoadTranslations();
+        }
+
+        // ENTRY POINT IF YOU NEED SAFE DATABASE ACCESS
+        internal static void ModAfterDBReady()
+        {
+
+        }
+    }
+
+    [HarmonyPatch(typeof(SettingDropListItem), "Bind")]
+    internal static class SettingDropListItem_Bind_Patch
+    {
+        public static void Postfix(
+            SettingTypeDropListAttribute ___settingTypeDropListAttribute, 
+            GuiDropdown ___dropList)
+        {
+            if (___settingTypeDropListAttribute?.Name == "TextLanguage")
             {
-                if (___settingTypeDropListAttribute?.Name == "TextLanguage")
+                int top = ___settingTypeDropListAttribute.Items.Count<String>();
+                String[] items = new String[top + Languages.Count()];
+                Array.Copy(___settingTypeDropListAttribute.Items, items, top);
+                ___settingTypeDropListAttribute.Items = items;
+                foreach (LanguageEntry language in Languages.GetAll())
                 {
-                    int top = ___settingTypeDropListAttribute.Items.Count<String>();
-                    String[] items = new String[top + Languages.Count()];
-                    Array.Copy(___settingTypeDropListAttribute.Items, items, top);
-                    ___settingTypeDropListAttribute.Items = items;
-                    foreach (LanguageEntry language in Languages.GetAll())
-                    {
-                        if (!items.Contains<String>(language.code))
-                            items[top++] = language.code;
-                        if (!___dropList.options.Any(o => o.text == language.text))
-                            ___dropList.options.Add(new GuiDropdown.OptionDataAdvanced 
-                            {
-                                text = language.text,
-                                TooltipContent = "Setting/&TextLanguage" + language.code + "Description"
-                            });
-                    }
+                    if (!items.Contains<String>(language.code))
+                        items[top++] = language.code;
+                    if (!___dropList.options.Any(o => o.text == language.text))
+                        ___dropList.options.Add(new GuiDropdown.OptionDataAdvanced 
+                        {
+                            text = language.text,
+                            TooltipContent = "Setting/&TextLanguage" + language.code + "Description"
+                        });
                 }
             }
         }
