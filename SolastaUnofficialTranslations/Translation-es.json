@@ -1,4 +1,4 @@
-﻿ [
+﻿[
         {
             "key": "Action/&ActionDisarmDescription",
             "en": "[OBSOLETE]Click to disarm this trap.",
@@ -72,7 +72,7 @@
         {
             "key": "Action/&ActionTypeBonusTitle",
             "en": "Bonus",
-            "es": "Prima"
+            "es": "Bonus"
         },
         {
             "key": "Action/&ActionTypeBonusUnavailableMultipleDescription",
@@ -387,7 +387,7 @@
         {
             "key": "Action/&DashTitle",
             "en": "Dash",
-            "es": "Pizca"
+            "es": "Correr"
         },
         {
             "key": "Action/&DisengageDescription",
@@ -397,7 +397,7 @@
         {
             "key": "Action/&DisengageTitle",
             "en": "Disengage",
-            "es": "Desacoplar"
+            "es": "Destrabar"
         },
         {
             "key": "Action/&DodgeDescription",
@@ -497,7 +497,7 @@
         {
             "key": "Action/&LevitateTitle",
             "en": "Levitate",
-            "es": "Levantar por levitación"
+            "es": "Levitar"
         },
         {
             "key": "Action/&MoveDescription",
@@ -622,12 +622,12 @@
         {
             "key": "Alignment/&ChaoticEvilTitle",
             "en": "Chaotic Evil",
-            "es": "Mal caótico"
+            "es": "Caótico Malvado"
         },
         {
             "key": "Alignment/&ChaoticEvilTitleShort",
             "en": "CE",
-            "es": "CE"
+            "es": "CM"
         },
         {
             "key": "Alignment/&ChaoticGoodDescription",
@@ -637,12 +637,12 @@
         {
             "key": "Alignment/&ChaoticGoodTitle",
             "en": "Chaotic Good",
-            "es": "Bien caotico"
+            "es": "Caótico Bueno"
         },
         {
             "key": "Alignment/&ChaoticGoodTitleShort",
             "en": "CG",
-            "es": "CG"
+            "es": "CB"
         },
         {
             "key": "Alignment/&ChaoticNeutralDescription",
@@ -652,7 +652,7 @@
         {
             "key": "Alignment/&ChaoticNeutralTitle",
             "en": "Chaotic Neutral",
-            "es": "Neutral caótico"
+            "es": "Caótico Neutral"
         },
         {
             "key": "Alignment/&ChaoticNeutralTitleShort",
@@ -667,12 +667,12 @@
         {
             "key": "Alignment/&LawfulEvilTitle",
             "en": "Lawful Evil",
-            "es": "Legalmente malvado"
+            "es": "Legal malvado"
         },
         {
             "key": "Alignment/&LawfulEvilTitleShort",
             "en": "LE",
-            "es": "LE"
+            "es": "LM"
         },
         {
             "key": "Alignment/&LawfulGoodDescription",
@@ -682,12 +682,12 @@
         {
             "key": "Alignment/&LawfulGoodTitle",
             "en": "Lawful Good",
-            "es": "Permitido por la ley"
+            "es": "Legal Bueno"
         },
         {
             "key": "Alignment/&LawfulGoodTitleShort",
             "en": "LG",
-            "es": "LG"
+            "es": "LB"
         },
         {
             "key": "Alignment/&LawfulNeutralDescription",
@@ -717,12 +717,12 @@
         {
             "key": "Alignment/&NeutralEvilTitle",
             "en": "Neutral Evil",
-            "es": "Neutral Evil"
+            "es": "Neutral Malvado"
         },
         {
             "key": "Alignment/&NeutralEvilTitleShort",
             "en": "NE",
-            "es": "nordeste"
+            "es": "NM"
         },
         {
             "key": "Alignment/&NeutralGoodDescription",
@@ -732,12 +732,12 @@
         {
             "key": "Alignment/&NeutralGoodTitle",
             "en": "Neutral Good",
-            "es": "Buen neutral"
+            "es": "Neutral Bueno"
         },
         {
             "key": "Alignment/&NeutralGoodTitleShort",
             "en": "NG",
-            "es": "NG"
+            "es": "NB"
         },
         {
             "key": "Alignment/&NeutralTitle",
@@ -747,7 +747,7 @@
         {
             "key": "Alignment/&NeutralTitleShort",
             "en": "N",
-            "es": "norte"
+            "es": "N"
         },
         {
             "key": "Alignment/&UnalignedDescription",
@@ -762,7 +762,7 @@
         {
             "key": "Alignment/&UnalignedTitleShort",
             "en": "UN",
-            "es": "Naciones Unidas"
+            "es": "UN"
         },
         {
             "key": "Attribute/&ArmorClassDescription",
@@ -772,7 +772,7 @@
         {
             "key": "Attribute/&ArmorClassTitle",
             "en": "AC",
-            "es": "C.A."
+            "es": "CA"
         },
         {
             "key": "Attribute/&AttacksNumberDescription",
@@ -827,7 +827,7 @@
         {
             "key": "Attribute/&ConstitutionTitle",
             "en": "CON",
-            "es": "ESTAFA"
+            "es": "CON"
         },
         {
             "key": "Attribute/&ConstitutionTitleLong",
@@ -927,7 +927,7 @@
         {
             "key": "Attribute/&IntelligenceTitle",
             "en": "INT",
-            "es": "EN T"
+            "es": "INT"
         },
         {
             "key": "Attribute/&IntelligenceTitleLong",
@@ -967,7 +967,7 @@
         {
             "key": "Attribute/&ProficiencyBonusTitle",
             "en": "Prof.",
-            "es": "Profe."
+            "es": "Prof."
         },
         {
             "key": "Attribute/&SpeedDescription",
@@ -1032,7 +1032,7 @@
         {
             "key": "Attribute/&TagBackgroundCantripTitle",
             "en": "Background Cantrip",
-            "es": "Cantrip de fondo"
+            "es": "Trucos por trasfondo"
         },
         {
             "key": "Attribute/&TagBackgroundExpertiseTitle",
@@ -1042,27 +1042,27 @@
         {
             "key": "Attribute/&TagBackgroundFeatTitle",
             "en": "Background Feats",
-            "es": "Dotes de fondo"
+            "es": "Dotes por trasfondo"
         },
         {
             "key": "Attribute/&TagBackgroundLanguageTitle",
             "en": "Background Languages",
-            "es": "Idiomas de fondo"
+            "es": "Idiomas por trasfondo"
         },
         {
             "key": "Attribute/&TagBackgroundSkillTitle",
             "en": "Background Skills",
-            "es": "Habilidades de fondo"
+            "es": "Habilidades por trasfondo"
         },
         {
             "key": "Attribute/&TagBackgroundSpellTitle",
             "en": "Background Spells",
-            "es": "Hechizos de fondo"
+            "es": "Hechizos por trasfondo"
         },
         {
             "key": "Attribute/&TagBackgroundToolTypeTitle",
             "en": "Background Tools",
-            "es": "Herramientas de fondo"
+            "es": "Herramientas por trasfondo"
         },
         {
             "key": "Attribute/&TagClassCantripTitle",
@@ -1222,7 +1222,7 @@
         {
             "key": "Background/&KS_GarradMilesBackground_Title",
             "en": "Sellsword",
-            "es": "Sellsword"
+            "es": "Mercenario"
         },
         {
             "key": "Background/&KS_RhuadSwiftHandBackground_Description",
@@ -1292,7 +1292,7 @@
         {
             "key": "Background/&SellswordTitle",
             "en": "Sellsword",
-            "es": "Sellsword"
+            "es": "Mercenario"
         },
         {
             "key": "Background/&SpecialtyDescription",
@@ -1312,7 +1312,7 @@
         {
             "key": "Background/&SpyTitle",
             "en": "Spy",
-            "es": "Espiar"
+            "es": "Espía"
         },
         {
             "key": "Behavior/&AttackingDescription",
@@ -1362,7 +1362,7 @@
         {
             "key": "Behavior/&MovingTitle",
             "en": "Moving",
-            "es": "Moviente"
+            "es": "Móvil"
         },
         {
             "key": "Behavior/&NoBehaviorDescription",
@@ -2102,7 +2102,7 @@
         {
             "key": "CharacterFamily/&DragonTitle",
             "en": "Dragon",
-            "es": "Continuar"
+            "es": "Dragón"
         },
         {
             "key": "CharacterFamily/&ElementalDescription",
@@ -2292,7 +2292,7 @@
         {
             "key": "Class/&FighterTitle",
             "en": "Fighter",
-            "es": "Combatiente"
+            "es": "Guerrero"
         },
         {
             "key": "Class/&PaladinDescription",
@@ -2312,7 +2312,7 @@
         {
             "key": "Class/&RangerTitle",
             "en": "Ranger",
-            "es": "guardabosque"
+            "es": "Explorador"
         },
         {
             "key": "Class/&RogueDescription",
@@ -2807,7 +2807,7 @@
         {
             "key": "Equipment/&_Item_RingOfProtection_plus_one_Unidentified_Title",
             "en": "Precious Ring",
-            "es": "Precioso anillo"
+            "es": "Anillo precioso"
         },
         {
             "key": "Equipment/&Abjuration_MonasteryJournal_Content",
@@ -3002,7 +3002,7 @@
         {
             "key": "Equipment/&Armor_RingMailDescription",
             "en": "This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.",
-            "es": "Esta armadura es una armadura de cuero con pesados ​​anillos cosidos. Los anillos ayudan a reforzar la armadura contra los golpes de espadas y hachas. La cota de malla es inferior a la cota de malla y, por lo general, solo la usan quienes no pueden pagar una mejor armadura."
+            "es": "Esta armadura es una armadura de cuero con pesados anillos cosidos. Los anillos ayudan a reforzar la armadura contra los golpes de espadas y hachas. La cota de malla es inferior a la cota de malla y, por lo general, solo la usan quienes no pueden pagar una mejor armadura."
         },
         {
             "key": "Equipment/&Armor_RingMailTitle",
@@ -3412,7 +3412,7 @@
         {
             "key": "Equipment/&BoneKeep_Document_AkshasJournal_text3",
             "en": "Reek is a good minion. He used to be handsome, but undeath doesn't suit him. Now he's just an obedient little pawn. Who would guess he was once a nobleman? I kept his armor and shield - he doesn't need them any more. Filth was always scum, but now at least she is of some use. She brings corpses to feed the ghouls, so I don't have to walk through piles of rotting fools. I'm thinking of creating another Brood, though. A nice, meaty Brood of Flesh would be nice. Maybe next month.",
-            "es": "Reek es un buen subordinado. Solía ​​ser guapo, pero la no muerte no le sienta bien. Ahora es solo un pequeño peón obediente. ¿Quién diría que alguna vez fue un noble? Conservé su armadura y escudo, ya no los necesita. La suciedad siempre fue escoria, pero ahora al menos es de alguna utilidad. Ella trae cadáveres para alimentar a los necrófagos, así no tengo que caminar entre montones de tontos podridos. Sin embargo, estoy pensando en crear otra Prole. Una buena y carnosa Prole de carne estaría bien. Quizás el próximo mes."
+            "es": "Reek es un buen subordinado. Solía ser guapo, pero la no muerte no le sienta bien. Ahora es solo un pequeño peón obediente. ¿Quién diría que alguna vez fue un noble? Conservé su armadura y escudo, ya no los necesita. La suciedad siempre fue escoria, pero ahora al menos es de alguna utilidad. Ella trae cadáveres para alimentar a los necrófagos, así no tengo que caminar entre montones de tontos podridos. Sin embargo, estoy pensando en crear otra Prole. Una buena y carnosa Prole de carne estaría bien. Quizás el próximo mes."
         },
         {
             "key": "Equipment/&BoneKeep_Document_AkshasJournal_Title",
@@ -9817,7 +9817,7 @@
         {
             "key": "Feature/&TraditionPotentCantripTitle",
             "en": "Potent Cantrip",
-            "es": "Cantrip potente"
+            "es": "Truco potente"
         },
         {
             "key": "Feature/&TraditionSavantDescription",
@@ -10017,7 +10017,7 @@
         {
             "key": "Feedback/&ActivatePowerLine",
             "en": "{0} activates the {1} power",
-            "es": "{0} activa el {1} ​​poder"
+            "es": "{0} activa el {1} poder"
         },
         {
             "key": "Feedback/&ActivatePowerWithChanelDivinityLine",
@@ -10562,7 +10562,7 @@
         {
             "key": "Feedback/&ImmuneToDamageLine",
             "en": "{0} is immune to {1} damage",
-            "es": "{0} es inmune al {1} ​​daño"
+            "es": "{0} es inmune al {1} daño"
         },
         {
             "key": "Feedback/&ImmuneToSpellFormat",
@@ -10772,7 +10772,7 @@
         {
             "key": "Feedback/&RitualCastLine",
             "en": "{0} casts the {1} spell as a ritual",
-            "es": "{0} lanza el {1} ​​hechizo como un ritual"
+            "es": "{0} lanza el {1} hechizo como un ritual"
         },
         {
             "key": "Feedback/&RollAttackCriticalFailureTitle",
@@ -10912,7 +10912,7 @@
         {
             "key": "Feedback/&SpellCastLine",
             "en": "{0} casts the {1} spell",
-            "es": "{0} lanza el {1} ​​hechizo"
+            "es": "{0} lanza el {1} hechizo"
         },
         {
             "key": "Feedback/&SpellCastSuperiorSlotLine",
@@ -10972,7 +10972,7 @@
         {
             "key": "Feedback/&SpellScribedLine",
             "en": "{0} tries to copy the {1} spell into a spellbook {2}",
-            "es": "{0} intenta copiar el {1} ​​hechizo en un libro de hechizos {2}"
+            "es": "{0} intenta copiar el {1} hechizo en un libro de hechizos {2}"
         },
         {
             "key": "Feedback/&SpellScribedSuccess",
@@ -13187,12 +13187,12 @@
         {
             "key": "Modal/&SaveButtonTitle",
             "en": "Save",
-            "es": "Ahorrar"
+            "es": "Guardar"
         },
         {
             "key": "Modal/&SaveGameHeader",
             "en": "Save",
-            "es": "Ahorrar"
+            "es": "Guardar"
         },
         {
             "key": "Modal/&SaveGamePlaceholder",
@@ -13331,7 +13331,7 @@
         },
         {
             "key": "Monster/&Berserker_Description",
-            "en": "Hailing from barbaric lands, berserkers come together in war parties to seek battle.",
+            "en": "Hailing from barbaric lands, berserkers come together in war parties to seek battle.",
             "es": "Provenientes de tierras bárbaras, los berserkers se unen en partidas de guerra para buscar la batalla."
         },
         {
@@ -13691,7 +13691,7 @@
         },
         {
             "key": "Monster/&Priest_Description",
-            "en": "An evil priest leads a religious sect conducting depraved rites in the shadows of respectable society.",
+            "en": "An evil priest leads a religious sect conducting depraved rites in the shadows of respectable society.",
             "es": "Un sacerdote malvado dirige una secta religiosa que lleva a cabo ritos depravados a la sombra de una sociedad respetable."
         },
         {
@@ -13701,7 +13701,7 @@
         },
         {
             "key": "Monster/&Scout_Description",
-            "en": "Scouts are skilled hunters and trackers who offer their services for a fee.",
+            "en": "Scouts are skilled hunters and trackers who offer their services for a fee.",
             "es": "Los exploradores son cazadores y rastreadores expertos que ofrecen sus servicios por una tarifa."
         },
         {
@@ -13861,7 +13861,7 @@
         },
         {
             "key": "Monster/&Thug_Description",
-            "en": "Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.",
+            "en": "Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.",
             "es": "Los matones son ejecutores despiadados, hábiles en la intimidación y la violencia. Trabajan por dinero y tienen pocos escrúpulos."
         },
         {
@@ -14542,7 +14542,7 @@
         {
             "key": "NPC/&NPC_IlastarKeenmindAirgetineDescription",
             "en": "Ilastar is a member of the noble house Airgetine, whose forefathers were wizards of the Arcaneum. As with many Imperial families of that time, his family was originally a minor branch of the clan and began to rise to prominence after the Cataclysm, as it backed the first Emperor (\"The Wailing Emperor\") who took the rough decisions ultimately leading to the survival of Civilization and to the rise of the New Empire. More than anybody else of his generation, Ilastar is aware of what was lost and was a major proponent of participating to the Council, in the hope of gathering magical materials and writings expanding his knowledge of magic and thus giving the empire an edge in future conflicts. His main worry is that historical documents come to the fore, revealing some truths better left alone. ",
-            "es": "Ilastar es miembro de la noble casa Airgetine, cuyos antepasados ​​fueron magos del Arcaneum. Al igual que con muchas familias imperiales de esa época, su familia era originalmente una rama menor del clan y comenzó a cobrar prominencia después del Cataclismo, ya que respaldó al primer Emperador (\"El Emperador de los Lamentos\") que tomó las decisiones difíciles que finalmente llevaron a la supervivencia de la civilización y el surgimiento del Nuevo Imperio. Más que cualquier otra persona de su generación, Ilastar es consciente de lo que se perdió y fue uno de los principales defensores de la participación en el Consejo, con la esperanza de reunir materiales y escritos mágicos ampliando su conocimiento de la magia y dando así al imperio una ventaja en conflictos futuros. . Su principal preocupación es que los documentos históricos salgan a la luz, revelando algunas verdades que es mejor dejar en paz."
+            "es": "Ilastar es miembro de la noble casa Airgetine, cuyos antepasados fueron magos del Arcaneum. Al igual que con muchas familias imperiales de esa época, su familia era originalmente una rama menor del clan y comenzó a cobrar prominencia después del Cataclismo, ya que respaldó al primer Emperador (\"El Emperador de los Lamentos\") que tomó las decisiones difíciles que finalmente llevaron a la supervivencia de la civilización y el surgimiento del Nuevo Imperio. Más que cualquier otra persona de su generación, Ilastar es consciente de lo que se perdió y fue uno de los principales defensores de la participación en el Consejo, con la esperanza de reunir materiales y escritos mágicos ampliando su conocimiento de la magia y dando así al imperio una ventaja en conflictos futuros. . Su principal preocupación es que los documentos históricos salgan a la luz, revelando algunas verdades que es mejor dejar en paz."
         },
         {
             "key": "NPC/&NPC_IlastarKeenmindAirgetineTitle",
@@ -14717,7 +14717,7 @@
         {
             "key": "Quest/&Abjuration_Quest_02_FollowKythaelaDescription",
             "en": "Escort Kythaela to Coparann and use every opportunity to help her recover her memories.",
-            "es": "Escolta a Kythaela a Coparann ​​y aprovecha cada oportunidad para ayudarla a recuperar sus recuerdos."
+            "es": "Escolta a Kythaela a Coparann y aprovecha cada oportunidad para ayudarla a recuperar sus recuerdos."
         },
         {
             "key": "Quest/&Abjuration_Quest_02_FollowKythaelaTitle",
@@ -15950,7 +15950,7 @@
         {
             "key": "Quest/&Caravan_Quest_03_BringTheLetterDescription",
             "en": "Take the letter to the owner of the general store at the mining settlement of Coparann in the Marches.",
-            "es": "Lleve la carta al dueño de la tienda general en el asentamiento minero de Coparann ​​en las Marcas."
+            "es": "Lleve la carta al dueño de la tienda general en el asentamiento minero de Coparann en las Marcas."
         },
         {
             "key": "Quest/&Caravan_Quest_03_BringTheLetterTitle",
@@ -16000,7 +16000,7 @@
         {
             "key": "Quest/&Coparann_Quest_01_TalkToThePeopleDescription",
             "en": "Meet the people of Coparann and find out more about the situation.",
-            "es": "Conozca a la gente de Coparann ​​y descubra más sobre la situación."
+            "es": "Conozca a la gente de Coparann y descubra más sobre la situación."
         },
         {
             "key": "Quest/&Coparann_Quest_01_TalkToThePeopleTitle",
@@ -16444,7 +16444,7 @@
         },
         {
             "key": "Quest/&Quest_Background_Academic_AccessTheLibrary_Outcome1Description",
-            "en": "You fought monsters in the cave and recovered enough old books to restore the Antiquarians' trust in Master Dackin. ",
+            "en": "You fought monsters in the cave and recovered enough old books to restore the Antiquarians' trust in Master Dackin. ",
             "es": "Luchaste contra monstruos en la cueva y recuperaste suficientes libros antiguos para restaurar la confianza de los anticuarios en el maestro Dackin. "
         },
         {
@@ -19879,7 +19879,7 @@
         {
             "key": "Rules/&ConditionEnfeebledDescription",
             "en": "Half damage on STR based attacks.",
-            "es": "Medio daño en ataques basados ​​en STR."
+            "es": "Medio daño en ataques basados en STR."
         },
         {
             "key": "Rules/&ConditionEnfeebledTitle",
@@ -20499,7 +20499,7 @@
         {
             "key": "Rules/&ConditionStunnedDescription",
             "en": "Unable to act or move; attacks against creatures have advantage; automatically fails Strength and Dexterity saving throws.",
-            "es": "Incapaz de actuar o moverse; los ataques contra criaturas tienen ventaja; falla automáticamente los tiros de salvación de Fuerza y ​​Destreza."
+            "es": "Incapaz de actuar o moverse; los ataques contra criaturas tienen ventaja; falla automáticamente los tiros de salvación de Fuerza y Destreza."
         },
         {
             "key": "Rules/&ConditionStunnedTitle",
@@ -21234,7 +21234,7 @@
         {
             "key": "Rules/&SpellLevel0FormatTitle",
             "en": "Cantrip",
-            "es": "Broma"
+            "es": "Truco"
         },
         {
             "key": "Rules/&SpellLevel1FormatTitle",
@@ -23669,7 +23669,7 @@
         {
             "key": "Screen/&ScoreModifierDescription",
             "en": "The bonus applied to actions and effects based on this ability score.",
-            "es": "La bonificación aplicada a acciones y efectos basados ​​en esta puntuación de habilidad."
+            "es": "La bonificación aplicada a acciones y efectos basados en esta puntuación de habilidad."
         },
         {
             "key": "Screen/&ScoreOptimizeForTitle",
@@ -26292,7 +26292,7 @@
         {
             "key": "Spell/&PoisonSprayTitle",
             "en": "Poison Spray",
-            "es": "Aerosol venenoso"
+            "es": "Rociada venenosa"
         },
         {
             "key": "Spell/&PrayerOfHealingDescription",
@@ -26587,7 +26587,7 @@
         {
             "key": "Spell/&SpareTheDyingTitle",
             "en": "Spare the Dying",
-            "es": "Perdona a los moribundos"
+            "es": "Perdón para los moribundos"
         },
         {
             "key": "Spell/&SpiderClimbDescription",
@@ -26657,7 +26657,7 @@
         {
             "key": "Spell/&TrueStrikeTitle",
             "en": "True Strike",
-            "es": "True Strike"
+            "es": "Impacto certero"
         },
         {
             "key": "Spell/&VampiricTouchDescription",
@@ -27317,7 +27317,7 @@
         {
             "key": "Stage/&LevelUpCaptionTitle",
             "en": "{0} is now a level {1} {2}",
-            "es": "{0} ahora es un nivel {1} ​​{2}"
+            "es": "{0} ahora es un nivel {1} {2}"
         },
         {
             "key": "Stage/&LevelUpHeader",
@@ -27747,7 +27747,7 @@
         {
             "key": "Subclass/&DomainElementalColdDescription",
             "en": "The Elemental domain allows a cleric to become one with the elements. The ice sub-domain makes you less vulnerable to cold damage and grants you ice-based attacks.",
-            "es": "El dominio Elemental permite que un clérigo se vuelva uno con los elementos. El subdominio de hielo te hace menos vulnerable al daño por frío y te otorga ataques basados ​​en hielo."
+            "es": "El dominio Elemental permite que un clérigo se vuelva uno con los elementos. El subdominio de hielo te hace menos vulnerable al daño por frío y te otorga ataques basados en hielo."
         },
         {
             "key": "Subclass/&DomainElementalColdTitle",
@@ -27757,7 +27757,7 @@
         {
             "key": "Subclass/&DomainElementalFireDescription",
             "en": "The Elemental domain allows a cleric to become one with the elements. The fire sub-domain makes you less vulnerable to fire damage and grants you fire-based attacks.",
-            "es": "El dominio Elemental permite que un clérigo se vuelva uno con los elementos. El subdominio de fuego te hace menos vulnerable al daño de fuego y te otorga ataques basados ​​en fuego."
+            "es": "El dominio Elemental permite que un clérigo se vuelva uno con los elementos. El subdominio de fuego te hace menos vulnerable al daño de fuego y te otorga ataques basados en fuego."
         },
         {
             "key": "Subclass/&DomainElementalFireTitle",
@@ -27767,7 +27767,7 @@
         {
             "key": "Subclass/&DomainElementalLightningDescription",
             "en": "The Elemental domain allows a cleric to become one with the elements. The lightning sub-domain makes you less vulnerable to lightning damage and grants you lightning-based attacks.",
-            "es": "El dominio Elemental permite que un clérigo se vuelva uno con los elementos. El subdominio de rayos te hace menos vulnerable al daño de rayos y te otorga ataques basados ​​en rayos."
+            "es": "El dominio Elemental permite que un clérigo se vuelva uno con los elementos. El subdominio de rayos te hace menos vulnerable al daño de rayos y te otorga ataques basados en rayos."
         },
         {
             "key": "Subclass/&DomainElementalLightningTitle",
@@ -28147,12 +28147,12 @@
         {
             "key": "Tip/&LoadingTip22",
             "en": "Most characters can jump two cells without a problem. Longer jumps require strength, and proficiency with Athletics helps a lot. You always have a chance to fall prone when landing if you jump far.",
-            "es": "La mayoría de los personajes pueden saltar dos casillas sin problemas. Los saltos más largos requieren fuerza y ​​el dominio del atletismo ayuda mucho. Siempre tienes la posibilidad de caer boca abajo al aterrizar si saltas lejos."
+            "es": "La mayoría de los personajes pueden saltar dos casillas sin problemas. Los saltos más largos requieren fuerza y el dominio del atletismo ayuda mucho. Siempre tienes la posibilidad de caer boca abajo al aterrizar si saltas lejos."
         },
         {
             "key": "Tip/&LoadingTip23",
             "en": "Most characters can climb two cells without a problem. Climbing higher requires strength, and proficiency with Athletics helps a lot. Some characters, like thieves or darkweavers, have superior climbing abilities.",
-            "es": "La mayoría de los personajes pueden escalar dos celdas sin problema. Escalar más alto requiere fuerza y ​​el dominio del atletismo ayuda mucho. Algunos personajes, como ladrones o tejedores oscuros, tienen habilidades superiores para trepar."
+            "es": "La mayoría de los personajes pueden escalar dos celdas sin problema. Escalar más alto requiere fuerza y el dominio del atletismo ayuda mucho. Algunos personajes, como ladrones o tejedores oscuros, tienen habilidades superiores para trepar."
         },
         {
             "key": "Tip/&LoadingTip25",
@@ -30207,7 +30207,7 @@
         {
             "key": "TutorialStep/&Tuto01_Climbing_and_jumping_Description",
             "en": "To jump or climb, simply click on the destination.\\n\\nDepending on the character's Strength and proficiency with Athletics, you can jump and climb between 2 and 5 cells.\\n\\nYou can always jump over 2 cells, drop down 3 cells, and climb up one cell, or climb up easy surfaces like ladders or ropes without any trouble.",
-            "es": "Para saltar o escalar, simplemente haz clic en el destino.\\n\\nDependiendo de la fuerza y ​​habilidad del personaje con el atletismo, puedes saltar y escalar entre 2 y 5 celdas.\\n\\nSiempre puedes saltar 2 celdas, desplegar 3 celdas , y suba una celda, o suba superficies fáciles como escaleras o cuerdas sin ningún problema."
+            "es": "Para saltar o escalar, simplemente haz clic en el destino.\\n\\nDependiendo de la fuerza y habilidad del personaje con el atletismo, puedes saltar y escalar entre 2 y 5 celdas.\\n\\nSiempre puedes saltar 2 celdas, desplegar 3 celdas , y suba una celda, o suba superficies fáciles como escaleras o cuerdas sin ningún problema."
         },
         {
             "key": "TutorialStep/&Tuto01_Climbing_and_jumping_Title",
@@ -32017,7 +32017,7 @@
         {
             "key": "Equipement/&Document_BloodFangInvasion_Content02",
             "en": "And so the force we sent after the raiders got wiped out, almost to the last man. It was more than a raid from an orcish clan; it was a full invasion aimed at conquering our vale! We were almost surprised at the gates, but managed to close them in time! We had lost our finest but our walls were strong and we were able to produce weapons to replenish our depleted arrows and bolt stocks quite fast. This siege gave us pause, as we didn't quite understand its purpose. The only access to the Vale of Coparann goes through the pass blocked by our town and the fortress. The vale itself is only easily accessible if you can fly! Otherwise, the steep walls provide as fine a natural defense as I have ever seen! ",
-            "es": "Y así, la fuerza que enviamos después de que los asaltantes fueran aniquilados, casi hasta el último hombre. Fue más que una incursión de un clan orco; ¡Fue una invasión total destinada a conquistar nuestro valle! Casi nos sorprendimos con las puertas, ¡pero logramos cerrarlas a tiempo! Habíamos perdido lo mejor de nosotros, pero nuestros muros eran fuertes y pudimos producir armas para reponer nuestras flechas y cerrojos agotados con bastante rapidez. Este asedio nos dio una pausa, ya que no entendíamos muy bien su propósito. El único acceso al Valle de Coparann ​​pasa por el paso bloqueado por nuestro pueblo y la fortaleza. ¡Solo se puede acceder fácilmente al valle si se puede volar! De lo contrario, las paredes empinadas proporcionan una defensa natural más fina que jamás haya visto."
+            "es": "Y así, la fuerza que enviamos después de que los asaltantes fueran aniquilados, casi hasta el último hombre. Fue más que una incursión de un clan orco; ¡Fue una invasión total destinada a conquistar nuestro valle! Casi nos sorprendimos con las puertas, ¡pero logramos cerrarlas a tiempo! Habíamos perdido lo mejor de nosotros, pero nuestros muros eran fuertes y pudimos producir armas para reponer nuestras flechas y cerrojos agotados con bastante rapidez. Este asedio nos dio una pausa, ya que no entendíamos muy bien su propósito. El único acceso al Valle de Coparann pasa por el paso bloqueado por nuestro pueblo y la fortaleza. ¡Solo se puede acceder fácilmente al valle si se puede volar! De lo contrario, las paredes empinadas proporcionan una defensa natural más fina que jamás haya visto."
         },
         {
             "key": "Equipement/&Document_BloodFangInvasion_Content03",
@@ -32377,7 +32377,7 @@
         {
             "key": "Equipment/&Illusion_Armor2_Content01",
             "en": "The arms and armor of Berien Tharanduil, Admiral-General of the Afon-Dwar and Lord Marshal of the West. Through strength and diplomacy he opened trade with the hill dwarves and brought an end to halfling raids along the river.",
-            "es": "Las armas y armaduras de Berien Tharanduil, almirante general de Afon-Dwar y lord mariscal de Occidente. A través de la fuerza y ​​la diplomacia, abrió el comercio con los enanos de las colinas y puso fin a las incursiones de los medianos a lo largo del río."
+            "es": "Las armas y armaduras de Berien Tharanduil, almirante general de Afon-Dwar y lord mariscal de Occidente. A través de la fuerza y la diplomacia, abrió el comercio con los enanos de las colinas y puso fin a las incursiones de los medianos a lo largo del río."
         },
         {
             "key": "Equipment/&Illusion_Notice1_Title",
@@ -32482,7 +32482,7 @@
         {
             "key": "Equipment/&Illusion_Book3_Content02",
             "en": "The human ancestors of the orcs were members of wild barbarian tribes from the more remote parts of Tirmar. Ferocity and courage in battle were the highest values in their culture, so when the forces of our two worlds combined at the Battle of the Rift, it was these tribes who sought out the most dangerous locations in order to win the most glory by the values of their culture. This brought them very close to the Rift itself, and therefore made them most vulnerable to the unpredictable magical energies that flared out from it. All of those who fought beside them perished, even the elite of the Iron Legions - but somehow these barbarians, strong of mind and strong of body, were able to survive. However, their bodies and minds were both affected, and they became the first orcs to exist in both worlds.",
-            "es": "Los antepasados ​​humanos de los orcos eran miembros de tribus bárbaras salvajes de las partes más remotas de Tirmar. La ferocidad y el coraje en la batalla eran los valores más altos en su cultura, por lo que cuando las fuerzas de nuestros dos mundos se combinaron en la Batalla de la Grieta, fueron estas tribus las que buscaron los lugares más peligrosos para ganar la mayor gloria por los valores. de su cultura. Esto los acercó mucho a la Grieta en sí y, por lo tanto, los hizo más vulnerables a las energías mágicas impredecibles que brotaban de ella. Todos los que lucharon junto a ellos perecieron, incluso la élite de las Legiones de Hierro, pero de alguna manera estos bárbaros, de mente y cuerpo fuertes, pudieron sobrevivir. Sin embargo, sus cuerpos y mentes se vieron afectados y se convirtieron en los primeros orcos en existir en ambos mundos."
+            "es": "Los antepasados humanos de los orcos eran miembros de tribus bárbaras salvajes de las partes más remotas de Tirmar. La ferocidad y el coraje en la batalla eran los valores más altos en su cultura, por lo que cuando las fuerzas de nuestros dos mundos se combinaron en la Batalla de la Grieta, fueron estas tribus las que buscaron los lugares más peligrosos para ganar la mayor gloria por los valores. de su cultura. Esto los acercó mucho a la Grieta en sí y, por lo tanto, los hizo más vulnerables a las energías mágicas impredecibles que brotaban de ella. Todos los que lucharon junto a ellos perecieron, incluso la élite de las Legiones de Hierro, pero de alguna manera estos bárbaros, de mente y cuerpo fuertes, pudieron sobrevivir. Sin embargo, sus cuerpos y mentes se vieron afectados y se convirtieron en los primeros orcos en existir en ambos mundos."
         },
         {
             "key": "Equipment/&Illusion_Book4_Title",
@@ -35096,7 +35096,7 @@
         },
         {
             "key": "Equipment/&ArcaneShieldstaff_Lore_Description",
-            "en": "Shield staves are rare artifacts from ages long past. Crafted by an ancient mage during wartime, this staff promises to keep its user safe and free to focus on other magical pursuits, leaving defense to the staff.",
+            "en": "Shield staves are rare artifacts from ages long past. Crafted by an ancient mage during wartime, this staff promises to keep its user safe and free to focus on other magical pursuits, leaving defense to the staff.",
             "es": "Las duelas de escudo son artefactos raros de épocas pasadas. Creado por un antiguo mago durante la guerra, este bastón promete mantener a su usuario seguro y libre para concentrarse en otras actividades mágicas, dejando la defensa al bastón."
         },
         {
@@ -35192,7 +35192,7 @@
         {
             "key": "Spell/&Shine_Title",
             "en": "Shine",
-            "es": "Brillar"
+            "es": "Alumbrar"
         },
         {
             "key": "Spell/&Shine_Description",
@@ -35202,7 +35202,7 @@
         {
             "key": "Spell/&Sparkle_Title",
             "en": "Sparkle",
-            "es": "Brillar"
+            "es": "Destello"
         },
         {
             "key": "Spell/&Sparkle_Description",
@@ -36112,7 +36112,7 @@
         {
             "key": "Feedback/&ResistantToDamageLine",
             "en": "{0} is resistant to {1} damage and only takes half damage.",
-            "es": "{0} es resistente al {1} ​​daño y solo recibe la mitad del daño."
+            "es": "{0} es resistente al {1} daño y solo recibe la mitad del daño."
         },
         {
             "key": "Feedback/&ResistantToDamageFormat",
@@ -36630,7 +36630,7 @@
         {
             "key": "Equipment/&GauntletsOfOgrePower_Description",
             "en": "Arasdir Lighthand crafted these gauntlets, showing ogres the superiority of mind over matter. ",
-            "es": "Arasdir Mano Ligera elaboró ​​estos guanteletes, mostrando a los ogros la superioridad de la mente sobre la materia. "
+            "es": "Arasdir Mano Ligera elaboró estos guanteletes, mostrando a los ogros la superioridad de la mente sobre la materia. "
         },
         {
             "key": "Equipment/&RingDarkvision_Description",
@@ -36710,7 +36710,7 @@
         {
             "key": "Equipment/&MantleOfSpellResistance_Description",
             "en": "Medreth Sharpeye crafted this item to protect Coedymwarth scouts on their long-range forays. ",
-            "es": "Medreth Sharpeye elaboró ​​este objeto para proteger a los exploradores de Coedymwarth en sus incursiones de largo alcance. "
+            "es": "Medreth Sharpeye elaboró este objeto para proteger a los exploradores de Coedymwarth en sus incursiones de largo alcance. "
         },
         {
             "key": "Equipment/&MantleOfSpellResistance_Unidentified_Title",
@@ -41395,7 +41395,7 @@
         {
             "key": "Quest/&Quest_Background_Sellsword_TalkToMildred1Description",
             "en": "You received a letter from Mildred in Coparann asking you to come visit her.",
-            "es": "Recibió una carta de Mildred en Coparann ​​pidiéndole que viniera a visitarla."
+            "es": "Recibió una carta de Mildred en Coparann pidiéndole que viniera a visitarla."
         },
         {
             "key": "Quest/&Quest_Background_Sellsword_TalkToMildred1_Outcome1Description",
@@ -41410,7 +41410,7 @@
         {
             "key": "Quest/&Quest_Background_Sellsword_TalkToNikannenDescription",
             "en": "Sergeant Nikannen in Coparann can help you get the keys to your house. Go find him.",
-            "es": "El sargento Nikannen de Coparann ​​puede ayudarlo a conseguir las llaves de su casa. Ve a buscarlo."
+            "es": "El sargento Nikannen de Coparann puede ayudarlo a conseguir las llaves de su casa. Ve a buscarlo."
         },
         {
             "key": "Quest/&Quest_Background_Sellsword_TalkToNikannen_Outcome1Description",
@@ -41425,7 +41425,7 @@
         {
             "key": "Quest/&Quest_Background_Sellsword_GetTheKeysDescription",
             "en": "Find the Archivist in Coparann Keep Basement in order to get your keys.",
-            "es": "Encuentra al archivero en Coparann ​​Keep Basement para conseguir tus llaves."
+            "es": "Encuentra al archivero en Coparann Keep Basement para conseguir tus llaves."
         },
         {
             "key": "Quest/&Quest_Background_Sellsword_GetTheKeys_Outcome1Description",
@@ -41440,7 +41440,7 @@
         {
             "key": "Quest/&Quest_Background_Sellsword_VisitYourHouseDescription",
             "en": "Go to your house near Coparann and investigate the place.",
-            "es": "Ve a tu casa cerca de Coparann ​​e investiga el lugar."
+            "es": "Ve a tu casa cerca de Coparann e investiga el lugar."
         },
         {
             "key": "Quest/&Quest_Background_Sellsword_VisitYourHouse_Outcome1Description",
@@ -41455,12 +41455,12 @@
         {
             "key": "Quest/&Quest_Background_Sellsword_TalkToMildred2Description",
             "en": "Mildred may be able to help you understand the note you found in your house. Go to Coparann and talk to her.",
-            "es": "Mildred puede ayudarlo a comprender la nota que encontró en su casa. Ve a Coparann ​​y habla con ella."
+            "es": "Mildred puede ayudarlo a comprender la nota que encontró en su casa. Ve a Coparann y habla con ella."
         },
         {
             "key": "Quest/&Quest_Background_Sellsword_TalkToMildred2_Outcome1Description",
             "en": "You understand that the note points to a traitor in Coparann, and that you need to see the papers of your parents' trial. ",
-            "es": "Entiende que la nota apunta a un traidor en Coparann ​​y que necesita ver los papeles del juicio de sus padres. "
+            "es": "Entiende que la nota apunta a un traidor en Coparann y que necesita ver los papeles del juicio de sus padres. "
         },
         {
             "key": "Quest/&Quest_Background_Sellsword_ConfrontArchivistTitle",
@@ -41470,7 +41470,7 @@
         {
             "key": "Quest/&Quest_Background_Sellsword_ConfrontArchivistDescription",
             "en": "Go to the Archivist in Coparann and ask for the trial papers.",
-            "es": "Vaya al Archivero en Coparann ​​y solicite los documentos de prueba."
+            "es": "Vaya al Archivero en Coparann y solicite los documentos de prueba."
         },
         {
             "key": "Quest/&Quest_Background_Sellsword_ConfrontArchivist_Outcome1Descriptio",
@@ -41485,7 +41485,7 @@
         {
             "key": "Quest/&Quest_Background_Sellsword_TalkToCeannardDescription",
             "en": "Meet the Ceannard in Coparann and ask for retribution.",
-            "es": "Reúnete con el Ceannard en Coparann ​​y pide venganza."
+            "es": "Reúnete con el Ceannard en Coparann y pide venganza."
         },
         {
             "key": "Quest/&Quest_Background_Sellsword_TalkToCeannard_Outcome1Description",
@@ -41515,7 +41515,7 @@
         {
             "key": "Map/&Location_Farmhouse_Description",
             "en": "A farmhouse in the vale of Coparann which belongs to your family.",
-            "es": "Una masía en el valle de Coparann ​​que pertenece a tu familia."
+            "es": "Una masía en el valle de Coparann que pertenece a tu familia."
         },
         {
             "key": "Equipment/&Sellsword_Background_Quest_Document_01_Title",
@@ -41555,7 +41555,7 @@
         {
             "key": "Equipment/&Sellsword_Background_Quest_Document_04_Description",
             "en": "This document is an official order from Sergeant Nikannen allowing you to retrieve the key to your house from the Archivist in Coparann Keep Basement.",
-            "es": "Este documento es una orden oficial del Sargento Nikannen que le permite recuperar la llave de su casa del Archivero en Coparann ​​Keep Basement."
+            "es": "Este documento es una orden oficial del Sargento Nikannen que le permite recuperar la llave de su casa del Archivero en Coparann Keep Basement."
         },
         {
             "key": "NPC/&NPC_Arrok_Title",
@@ -42014,7 +42014,7 @@
         },
         {
             "key": "Equipment/&PickupQuest_Item_PaintedHide_Title",
-            "en": "Painted Hide",
+            "en": "Painted Hide",
             "es": "Piel pintada"
         },
         {
@@ -42225,7 +42225,7 @@
         {
             "key": "Quest/&PickupQuest_07_RunsInTheFamily_01_DESCRIPTION",
             "en": "Lord Danantar wants you to retrieve an item from the ruins around Adrasteia's Tower. He believes one of his ancestors lived there. Find anything that proves this and bring it back. Client: The Circle of Danantar. Reward: One pearl worth 100 gp, three level-5 spell scrolls.",
-            "es": "Lord Danantar quiere que recuperes un objeto de las ruinas alrededor de la Torre de Adrasteia. Cree que uno de sus antepasados ​​vivió allí. Encuentra cualquier cosa que demuestre esto y tráelo de vuelta. Cliente: El Círculo de Danantar. Recompensa: una perla por valor de 100 po, tres pergaminos de hechizo de nivel 5."
+            "es": "Lord Danantar quiere que recuperes un objeto de las ruinas alrededor de la Torre de Adrasteia. Cree que uno de sus antepasados vivió allí. Encuentra cualquier cosa que demuestre esto y tráelo de vuelta. Cliente: El Círculo de Danantar. Recompensa: una perla por valor de 100 po, tres pergaminos de hechizo de nivel 5."
         },
         {
             "key": "Quest/&PickupQuest_07_RunsInTheFamily_01_OUTCOME",
@@ -42280,7 +42280,7 @@
         {
             "key": "Quest/&PickupQuest_12_HallowedDead_01_DESCRIPTION",
             "en": "The Ceannard is looking for heroes to investigate the Hall of the Hallowed Dead. Regular patrols of the Valley have shown that someone or something entered the Halls, and everyone in the Vale of Coparann is reluctant to enter the Halls. Find what is going on there.",
-            "es": "El Ceannard está buscando héroes para investigar el Salón de los Hallowed Dead. Las patrullas regulares del Valle han demostrado que alguien o algo entró en los Salones, y todos en el Valle de Coparann ​​son reacios a entrar en los Salones. Descubra lo que está sucediendo allí."
+            "es": "El Ceannard está buscando héroes para investigar el Salón de los Hallowed Dead. Las patrullas regulares del Valle han demostrado que alguien o algo entró en los Salones, y todos en el Valle de Coparann son reacios a entrar en los Salones. Descubra lo que está sucediendo allí."
         },
         {
             "key": "Quest/&PickupQuest_12_HallowedDead_01_OUTCOME",
@@ -42433,7 +42433,7 @@
         {
             "key": "Map/&Location_ImperialOutpostDescription",
             "en": "You passed by these ruins when traveling to Coparann with Kythaela.",
-            "es": "Pasaste por estas ruinas cuando viajabas a Coparann ​​con Kythaela."
+            "es": "Pasaste por estas ruinas cuando viajabas a Coparann con Kythaela."
         },
         {
             "key": "Map/&Location_ImperialOutpostTitle",
@@ -42753,7 +42753,7 @@
         {
             "key": "Spell/&ContagionFilthFeverDescription",
             "en": "The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.",
-            "es": "La criatura tiene desventaja en las pruebas de Fuerza, las tiradas de salvación de Fuerza y ​​las tiradas de ataque que usan Fuerza."
+            "es": "La criatura tiene desventaja en las pruebas de Fuerza, las tiradas de salvación de Fuerza y las tiradas de ataque que usan Fuerza."
         },
         {
             "key": "Spell/&ContagionFleshRotTitle",
@@ -51578,7 +51578,7 @@
         {
             "key": "Narration/&CaerLem_Darik3_Spy_Default",
             "en": "I used to work in an embassy. Learned a few tricks.",
-            "es": "Solía ​​trabajar en una embajada. Aprendí algunos trucos."
+            "es": "Solía trabajar en una embajada. Aprendí algunos trucos."
         },
         {
             "key": "Narration/&CaerLem_Darik4_Starter_Default",
@@ -51633,7 +51633,7 @@
         {
             "key": "Narration/&CaerLem_Darik14_Spy_Default",
             "en": "I used to work for Delanim, at the embassy near the New Empire border.",
-            "es": "Solía ​​trabajar para Delanim, en la embajada cerca de la frontera del Nuevo Imperio."
+            "es": "Solía trabajar para Delanim, en la embajada cerca de la frontera del Nuevo Imperio."
         },
         {
             "key": "Narration/&CaerLem_Darik15_Darik_NPC",
@@ -52813,7 +52813,7 @@
         {
             "key": "Narration/&CaerLem_Beryl211_Highclass_WRITTEN",
             "en": "Your ancestors would agree.",
-            "es": "Tus antepasados ​​estarían de acuerdo."
+            "es": "Tus antepasados estarían de acuerdo."
         },
         {
             "key": "Narration/&CaerLem_Beryl212_Intimidation_Default",
@@ -55738,7 +55738,7 @@
         {
             "key": "Narration/&Council02_1_23_Merton_NPC",
             "en": "Arwin Merton. He used to be a legend - the first Scavenger, they say.",
-            "es": "Arwin Merton. Solía ​​ser una leyenda, el primer carroñero, dicen."
+            "es": "Arwin Merton. Solía ser una leyenda, el primer carroñero, dicen."
         },
         {
             "key": "Narration/&Council02_1_24_Merton_NPC",
@@ -56103,7 +56103,7 @@
         {
             "key": "Narration/&Arcaneum_Dialog_01_8_HeddlonSurespell_NPC",
             "en": "We are particularly interested in anything from the Old Empire that you might find in the Badlands.",
-            "es": "Estamos particularmente interesados ​​en cualquier cosa del Viejo Imperio que pueda encontrar en Badlands."
+            "es": "Estamos particularmente interesados en cualquier cosa del Viejo Imperio que pueda encontrar en Badlands."
         },
         {
             "key": "Narration/&Arcaneum_Dialog_01_9_HeddlonSurespell_NPC",
@@ -61613,7 +61613,7 @@
         {
             "key": "Narration/&LegendaryQuest_3_4_Merton_NPC",
             "en": "It used to be my thing.",
-            "es": "Solía ​​ser lo mío."
+            "es": "Solía ser lo mío."
         },
         {
             "key": "Narration/&LegendaryQuest_3_5_Cynical_Normal",
@@ -64253,7 +64253,7 @@
         {
             "key": "Narration/&Optional_Sellsword_Quest_CoparannInn_20_MildredWarmhearth_NPC",
             "en": "Fifteen years ago, Coparann was threatened by an orcish horde.",
-            "es": "Hace quince años, Coparann ​​fue amenazada por una horda de orcos."
+            "es": "Hace quince años, Coparann fue amenazada por una horda de orcos."
         },
         {
             "key": "Narration/&Optional_Sellsword_Quest_CoparannInn_21_MildredWarmhearth_NPC",
@@ -66948,7 +66948,7 @@
         {
             "key": "Narration/&NecromancyQuest01_16_Persuade_Default_20_Success",
             "en": "We're… interested in the castle. Can you tell us anything about it?",
-            "es": "Estamos ... interesados ​​en el castillo. ¿Puedes contarnos algo al respecto?"
+            "es": "Estamos ... interesados en el castillo. ¿Puedes contarnos algo al respecto?"
         },
         {
             "key": "Narration/&NecromancyQuest01_17_Talbut_NPC_Persuasion_20_Success",
@@ -67707,7 +67707,7 @@
         },
         {
             "key": "Narration/&NecromancyQuest04_35_Lizzaria_NPC",
-            "en": "If you want to talk to Mardracht, you'll have to get past Aksha. ",
+            "en": "If you want to talk to Mardracht, you'll have to get past Aksha. ",
             "es": "Si quieres hablar con Mardracht, tendrás que pasar por Aksha. "
         },
         {
@@ -67717,7 +67717,7 @@
         },
         {
             "key": "Narration/&NecromancyQuest04_37_Lizzaria_NPC",
-            "en": "A defiler. She lives upstairs. ",
+            "en": "A defiler. She lives upstairs. ",
             "es": "Un profanador. Vive arriba."
         },
         {
@@ -67727,12 +67727,12 @@
         },
         {
             "key": "Narration/&NecromancyQuest04_39_Lizzaria_NPC",
-            "en": "…and suddenly she'd installed herself upstairs and no one talked to the master except through her. ",
+            "en": "…and suddenly she'd installed herself upstairs and no one talked to the master except through her. ",
             "es": "… Y de repente se instaló arriba y nadie habló con el maestro excepto a través de ella. "
         },
         {
             "key": "Narration/&NecromancyQuest04_40_Lizzaria_NPC",
-            "en": "I haven't seen Mardracht face to face since she got here. ",
+            "en": "I haven't seen Mardracht face to face since she got here. ",
             "es": "No he visto a Mardracht cara a cara desde que llegó. "
         },
         {
@@ -67762,7 +67762,7 @@
         },
         {
             "key": "Narration/&NecromancyQuest04_43_Starter_Normal",
-            "en": "So we'll have to go through her? ",
+            "en": "So we'll have to go through her? ",
             "es": "¿Entonces tendremos que pasar por ella? "
         },
         {
@@ -67772,7 +67772,7 @@
         },
         {
             "key": "Narration/&NecromancyQuest04_44_Lizzaria_NPC2",
-            "en": "…and those defiler powers of hers are no joke, either.",
+            "en": "…and those defiler powers of hers are no joke, either.",
             "es": "... y esos poderes profanadores de ella tampoco son una broma."
         },
         {
@@ -67792,12 +67792,12 @@
         },
         {
             "key": "Narration/&NecromancyQuest04_46_Starter_Normal2",
-            "en": "Now, suppose we do manage to reach Master Mardracht…",
+            "en": "Now, suppose we do manage to reach Master Mardracht…",
             "es": "Ahora, supongamos que logramos llegar al Maestro Mardracht ..."
         },
         {
             "key": "Narration/&NecromancyQuest04_47_Starter_Normal",
-            "en": "…what's the best way to approach him? ",
+            "en": "…what's the best way to approach him? ",
             "es": "… ¿Cuál es la mejor manera de acercarse a él? "
         },
         {
@@ -67812,12 +67812,12 @@
         },
         {
             "key": "Narration/&NecromancyQuest04_48_Lizzaria_NPC3",
-            "en": "…and then Aksha - who knows what she's done to him? ",
+            "en": "…and then Aksha - who knows what she's done to him? ",
             "es": "... y luego Aksha, ¿quién sabe lo que le ha hecho? "
         },
         {
             "key": "Narration/&NecromancyQuest04_49_Lizzaria_NPC",
-            "en": "The stairs will take you to her apartments. Good luck getting past her. ",
+            "en": "The stairs will take you to her apartments. Good luck getting past her. ",
             "es": "Las escaleras te llevarán a sus apartamentos. Buena suerte pasándola."
         },
         {
@@ -69303,7 +69303,7 @@
         {
             "key": "Narration/&AbjurationQuest_Caravan_3Galar_NPC",
             "en": "Those… fellows joined my caravan at Coparann…",
-            "es": "Esos ... compañeros se unieron a mi caravana en Coparann ​​..."
+            "es": "Esos ... compañeros se unieron a mi caravana en Coparann ..."
         },
         {
             "key": "Narration/&AbjurationQuest_Caravan_4Galar_NPC",
@@ -69398,7 +69398,7 @@
         {
             "key": "Narration/&AbjurationQuest_Caravan_22Galar_NPC",
             "en": "Because this man was a corporal in the Coparann Watch. ",
-            "es": "Porque este hombre era cabo en Coparann ​​Watch. "
+            "es": "Porque este hombre era cabo en Coparann Watch. "
         },
         {
             "key": "Narration/&AbjurationQuest_Caravan_23_Starter_Default",
@@ -69848,7 +69848,7 @@
         {
             "key": "Narration/&AbjurationQuest_Ceannard01_28_Highclass_Default",
             "en": "Coparann was the seat of her family before the Cataclysm.",
-            "es": "Coparann ​​fue la sede de su familia antes del Cataclismo."
+            "es": "Coparann fue la sede de su familia antes del Cataclismo."
         },
         {
             "key": "Narration/&AbjurationQuest_Ceannard01_29_Ceannard_NPC",
@@ -69858,7 +69858,7 @@
         {
             "key": "Narration/&AbjurationQuest_Ceannard01_30_Highclass_Default",
             "en": "Far from it! One of her ancestors left family heirlooms hidden in the fortress. ",
-            "es": "¡Lejos de ahi! Uno de sus antepasados ​​dejó reliquias familiares escondidas en la fortaleza."
+            "es": "¡Lejos de ahi! Uno de sus antepasados dejó reliquias familiares escondidas en la fortaleza."
         },
         {
             "key": "Narration/&AbjurationQuest_Ceannard01_31_Highclass_Default",
@@ -69873,7 +69873,7 @@
         {
             "key": "Narration/&AbjurationQuest_Ceannard01_33_Ceannard_NPC",
             "en": "So tell me something about Coparann that a newcomer or even a casual visitor couldn't know.",
-            "es": "Entonces, cuénteme algo sobre Coparann ​​que un recién llegado o incluso un visitante casual no pueda saber."
+            "es": "Entonces, cuénteme algo sobre Coparann que un recién llegado o incluso un visitante casual no pueda saber."
         },
         {
             "key": "Narration/&AbjurationQuest_Ceannard01_34_Kythaela_NPC",
@@ -70843,7 +70843,7 @@
         {
             "key": "Narration/&AbjurationQuest_BaronSaved_18_Ceannard_NPC",
             "en": "Coparann must stand with the Council!",
-            "es": "¡Coparann ​​debe apoyar al Consejo!"
+            "es": "¡Coparann debe apoyar al Consejo!"
         },
         {
             "key": "Narration/&AbjurationQuest_BaronSaved_19_DiplomatOrElse_Normal",
@@ -73108,7 +73108,7 @@
         {
             "key": "Narration/&CradleOfFire_BladefangQuest_16_Any_Default",
             "en": "Ancestors were great warriors from the Endless Range.",
-            "es": "Los antepasados ​​eran grandes guerreros de Endless Range."
+            "es": "Los antepasados eran grandes guerreros de Endless Range."
         },
         {
             "key": "Narration/&CradleOfFire_BladefangQuest_17_ChoiceB_Default",
@@ -76548,7 +76548,7 @@
         {
             "key": "Narration/&InTemple_Added_11_Beric_AkilWingate_NPC",
             "en": "Our ancestors fought the war against the Sorr-Akkath.",
-            "es": "Nuestros antepasados ​​libraron la guerra contra los Sorr-Akkath."
+            "es": "Nuestros antepasados libraron la guerra contra los Sorr-Akkath."
         },
         {
             "key": "Narration/&InTemple_Added_12_Beric_AkilWingate_NPC",
@@ -77133,7 +77133,7 @@
         {
             "key": "Narration/&CarranTalk_44_Carran_NPC",
             "en": "…they are academics, interested in all kinds of… well, knowledge.",
-            "es": "… Son académicos, interesados ​​en todo tipo de… bueno, conocimiento."
+            "es": "… Son académicos, interesados en todo tipo de… bueno, conocimiento."
         },
         {
             "key": "Narration/&CarranTalk_45_Carran_NPC",
@@ -78113,7 +78113,7 @@
         {
             "key": "Screen/&EditorSaveTitle",
             "en": "Save",
-            "es": "Ahorrar"
+            "es": "Guardar"
         },
         {
             "key": "Screen/&EditorUndoTitle",
