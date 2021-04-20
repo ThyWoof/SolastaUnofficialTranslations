@@ -2,14 +2,11 @@
 
 * This Mod allows additional text translations to be easily added to the Solasta cRPG game.
 * I expect the community to step in, work as a team, and provide better translations files than the ones I got from Google API.
-* Current translations:
+* Current translations
 	- Brazilian Portuguese (pt-BR)
 	- Spanish (es)
 	- Italian (it)
 	- British English (en-GB)
-
-# How to Install
-
 * You need [Unity Mod Manager 0.23.4](https://www.nexusmods.com/site/mods/21?tab=files) or higher installed in your game folder.
 
 # How to fix bad translations
@@ -25,7 +22,7 @@
 3. Replace all "#LANGUAGE-CODE#" with "#YOUR-NEW-LANGUAGE-CODE#"
 4. Start working on translations
 
-# How to Compile
+# How to compile
 
 1. Download and install [Unity Mod Manager (UMM)](https://www.nexusmods.com/site/mods/21)
 2. Execute UMM, Select Solasta, and Install
@@ -34,9 +31,9 @@
 	- tip: search for "edit the system environment variables" on windows search bar
 5. Use "Install Release" or "Install Debug" to have the Mod installed directly to your Game Mods folder
 
-NOTE Unity Mod Manager and this mod template make use of [Harmony](https://go.microsoft.com/fwlink/?linkid=874338)
+Unity Mod Manager and this mod template make use of [Harmony](https://go.microsoft.com/fwlink/?linkid=874338)
 
-# How to Debug
+# How to debug
 
 1. Open Solasta game folder
 	* Rename Solasta.exe to Solasta.exe.original
