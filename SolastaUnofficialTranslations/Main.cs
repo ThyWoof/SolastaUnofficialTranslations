@@ -14,7 +14,7 @@ namespace SolastaUnofficialTranslations
 { 
     struct LanguageEntry
     {
-         public string code, text, desc, file;
+         public string code, text, file;
     }
 
     static class Languages
@@ -31,14 +31,13 @@ namespace SolastaUnofficialTranslations
 
             foreach(var file in files)
             {
-                var code = file.Name.Substring(0, file.Name.Length - 5).Substring(12);
+                var code = file.Name.Substring(12, file.Name.Length - 5 - 12);
                 var cultureInfo = cultureInfos.First<CultureInfo>(o => o.Name == code);
                 if (cultureInfo != null)
                     languages.Add(new LanguageEntry()
                         {
                             code = code,
                             text = cultureInfo.DisplayName,
-                            desc = cultureInfo.DisplayName,
                             file = file.Name
                         });
                 else
@@ -62,10 +61,10 @@ namespace SolastaUnofficialTranslations
 
                 // add language translation keys
                 languageSourceData.AddTerm("Setting/&TextLanguages" + language.code + "Title").Languages[languageIndex] = language.text;
-                languageSourceData.AddTerm("Setting/&TextLanguages" + language.code + "Description").Languages[languageIndex] = language.desc;
+                languageSourceData.AddTerm("Setting/&TextLanguages" + language.code + "Description").Languages[languageIndex] = language.text;
 
                 // add translations
-                var translations = JArray.Parse(File.ReadAllText(UnityModManager.modsPath + @"/SolastaUnofficialTranslations/" + language.file));
+                var translations = JArray.Parse(File.ReadAllText($@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{language.file}"));
                 foreach (JObject translation in translations)
                 {
                     String key;
@@ -75,7 +74,7 @@ namespace SolastaUnofficialTranslations
                     }
                     catch
                     {
-                        Error("key not found: " + translation.ToString());
+                        Error("term not found: " + translation.ToString());
                         continue;
                     }
                     try
