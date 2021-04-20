@@ -152,7 +152,7 @@
         {
             "key": "Action/&ActionTypeMoveTitle",
             "en": "Move",
-            "es": "Moverse"
+            "es": "Movimiento"
         },
         {
             "key": "Action/&ActionTypeOtherDescription",
@@ -507,7 +507,7 @@
         {
             "key": "Action/&MoveTitle",
             "en": "Move",
-            "es": "Moverse"
+            "es": " Movimiento"
         },
         {
             "key": "Action/&NeutralCreatureTitle",
@@ -957,7 +957,7 @@
         {
             "key": "Attribute/&MovePointsTitle",
             "en": "Move",
-            "es": "Moverse"
+            "es": "Movimiento"
         },
         {
             "key": "Attribute/&ProficiencyBonusDescription",
@@ -1247,7 +1247,7 @@
         {
             "key": "Background/&KS_VioletGoodCheerBackground_Description",
             "en": "Violet is an unusual marsh halfling. Instead of staying safely at home in the reeds, her wanderlust has carried her far away, to the principality of Masgarth.\\nTo make things worse, instead of following the good and sensible path of the marsh mage that originated among her people, she has chosen to become a showy, destructive shock arcanist!\\nHer family is mortified. Some of their neighbors whisper that the Good-Cheers have a trace of wild island halfling blood, and have never been sensible… though they are careful never to do so when they can be overheard.\\nViolet is an idealist, and believes that it is better to be out in the world seeing things and doing good, rather than sitting grumpily in a swamp.\\nShe sees herself as the first of many Marsh Halfling heroes - well, mostly heroines, as she sees it - who will make the world a better place and win renown for themselves and their people. Her personal philosophy is based on freedom and personal accountability for one's actions.\\n",
-            "es": "Violet es un halfling de pantano inusual. En lugar de quedarse a salvo en casa entre los juncos, su pasión por los viajes la ha llevado muy lejos, al principado de Masgarth.\\nPara empeorar las cosas, en lugar de seguir el camino bueno y sensato del mago de los pantanos que se originó entre su gente, ¡ha elegido convertirse en una arcanista de choque destructiva y llamativa!\\nSu familia está mortificada. Algunos de sus vecinos susurran que los Good-Cheers tienen un rastro de sangre de halfling isleño salvaje, y nunca han sido sensatos ... aunque tienen cuidado de no hacerlo nunca cuando pueden ser escuchados.\\nViolet es un idealista, y cree que lo es es mejor estar en el mundo viendo cosas y haciendo el bien, en lugar de sentarse de mal humor en un pantano.\\nSe ve a sí misma como la primera de muchos héroes Halfling de Marsh, bueno, en su mayoría heroínas, como ella lo ve, quienes harán del mundo un lugar mejor y ganarán renombre para ellos y su gente. Su filosofía personal se basa en la libertad y la responsabilidad personal por las acciones de uno.\\norte"
+            "es": "Violet es un mediano de pantano inusual. En lugar de quedarse a salvo en casa entre los juncos, su pasión por los viajes la ha llevado muy lejos, al principado de Masgarth.\\nPara empeorar las cosas, en lugar de seguir el camino bueno y sensato del mago de los pantanos que se originó entre su gente, ¡ha elegido convertirse en una arcanista de choque destructiva y llamativa!\\nSu familia está mortificada. Algunos de sus vecinos susurran que los Good-Cheers tienen un rastro de sangre de mediano isleño salvaje, y nunca han sido sensatos ... aunque tienen cuidado de no hacerlo nunca cuando pueden ser escuchados.\\nViolet es un idealista, y cree que lo es es mejor estar en el mundo viendo cosas y haciendo el bien, en lugar de sentarse de mal humor en un pantano.\\nSe ve a sí misma como la primera de muchos héroes medianos de Marsh, bueno, en su mayoría heroínas, como ella lo ve, quienes harán del mundo un lugar mejor y ganarán renombre para ellos y su gente. Su filosofía personal se basa en la libertad y la responsabilidad personal por las acciones de uno.\\norte"
         },
         {
             "key": "Background/&KS_VioletGoodCheerBackground_Title",
@@ -2552,7 +2552,7 @@
         {
             "key": "EffectProxy/&ProxyDancingLightsTitle",
             "en": "Dancing Lights",
-            "es": "Luces de baile"
+            "es": "Luces danzantes"
         },
         {
             "key": "EffectProxy/&ProxyDarknessDescription",
@@ -3102,7 +3102,7 @@
         {
             "key": "Equipment/&ArtisanToolSmithToolsTypeTitle",
             "en": "Smith's tools",
-            "es": "Herramientas de Smith"
+            "es": "Herramientas de Herrero"
         },
         {
             "key": "Equipment/&ArtItems_25_GP_Comb",
@@ -3532,7 +3532,7 @@
         {
             "key": "Equipment/&CaerLem_Document_MasterSmith_Title",
             "en": "Tirmarian Master Smith's Memoirs",
-            "es": "Memorias del maestro tirmariano Smith"
+            "es": "Memorias del maestro herrero tirmariano"
         },
         {
             "key": "Equipment/&CaerLem_Gate_Plaque_Content",
@@ -4097,7 +4097,7 @@
         {
             "key": "Equipment/&Enchanted_LeatherArmor_Of_FlameDancing_Title",
             "en": "Leather Armor of Flame Dancing",
-            "es": "Armadura de cuero de baile de llamas"
+            "es": "Armadura de cuero de Llamas Danzantes"
         },
         {
             "key": "Equipment/&Enchanted_LeatherArmor_Of_Robustness_Title",
@@ -4367,7 +4367,7 @@
         {
             "key": "Equipment/&FunctionCastSpellFormat",
             "en": "Cast {0}{1}",
-            "es": "Transmitir {0} {1}"
+            "es": "Lanzar {0} {1}"
         },
         {
             "key": "Equipment/&FunctionChargeCostFormatPlural",
@@ -5212,7 +5212,7 @@
         {
             "key": "Equipment/&ItemTypeContainerTitle",
             "en": "Container",
-            "es": "Envase"
+            "es": "Bolsa"
         },
         {
             "key": "Equipment/&ItemTypeLightSourceDescription",
@@ -5767,7 +5767,7 @@
         {
             "key": "Equipment/&QuarterstaffTypeTitle",
             "en": "Quarterstaff",
-            "es": "Barra"
+            "es": "Bastón"
         },
         {
             "key": "Equipment/&RapierTypeTitle",
@@ -6027,12 +6027,12 @@
         {
             "key": "Equipment/&ScrollMagicMissileDescription",
             "en": "When you use this scroll, you cast the Magic Missile spell.",
-            "es": "Cuando usas este pergamino, lanzas el hechizo de Misil Mágico."
+            "es": "Cuando usas este pergamino, lanzas el hechizo de Proyectil Mágico."
         },
         {
             "key": "Equipment/&ScrollMagicMissileTitle",
             "en": "Scroll of Magic Missile",
-            "es": "Pergamino de misil mágico"
+            "es": "Pergamino de Proyectil Mágico"
         },
         {
             "key": "Equipment/&ScrollProtectionFromEvilandGoodDescription",
@@ -6097,12 +6097,12 @@
         {
             "key": "Equipment/&ScrollThunderwaveDescription",
             "en": "When you use this scroll, you cast the Thunderwave spell.",
-            "es": "Cuando usas este pergamino, lanzas el hechizo Thunderwave."
+            "es": "Cuando usas este pergamino, lanzas el hechizo Ola Atronadora."
         },
         {
             "key": "Equipment/&ScrollThunderwaveTitle",
             "en": "Scroll of Thunderwave",
-            "es": "Pergamino de Thunderwave"
+            "es": "Pergamino de Ola Atronadora"
         },
         {
             "key": "Equipment/&Sellsword_Background_Quest_Document_01",
@@ -6157,7 +6157,7 @@
         {
             "key": "Equipment/&ShieldCategoryTitle",
             "en": "Shield",
-            "es": "Proteger"
+            "es": "Escudo"
         },
         {
             "key": "Equipment/&Shortbow_plus_1_Description",
@@ -6487,7 +6487,7 @@
         {
             "key": "Equipment/&WandMagicMissileTitle",
             "en": "Wand of Magic Missile",
-            "es": "Varita de misil mágico"
+            "es": "Varita de Proyectil Mágico"
         },
         {
             "key": "Equipment/&WandSpecialDescription",
@@ -7417,7 +7417,7 @@
         {
             "key": "Feature/&AbilityScoreIncreaseAdvancedTitle",
             "en": "Ability score + Skill + Feat",
-            "es": "Puntuación de habilidad + Habilidad + Hazaña"
+            "es": "Puntuación de habilidad + Habilidad + Dote"
         },
         {
             "key": "Feature/&AbilityScoreIncreaseTitle",
@@ -7697,7 +7697,7 @@
         {
             "key": "Feature/&BonusFeatTitle",
             "en": "Bonus Feat",
-            "es": "Hazaña extra"
+            "es": "Dote extra"
         },
         {
             "key": "Feature/&CampAffinityElfTranceDescription",
@@ -8482,12 +8482,12 @@
         {
             "key": "Feature/&FeatGainSingleDescription",
             "en": "Proficiency in one feat of your choice",
-            "es": "Competencia en una hazaña de su elección"
+            "es": "Competencia en una dote de su elección"
         },
         {
             "key": "Feature/&FeatGainSingleTitle",
             "en": "Bonus Feat",
-            "es": "Hazaña extra"
+            "es": "Dote extra"
         },
         {
             "key": "Feature/&FeatureSetHunterHuntersPreyDescription",
@@ -8627,7 +8627,7 @@
         {
             "key": "Feature/&HalflingMarshHidingTitle",
             "en": "Marsh Halfling Hiding",
-            "es": "Halfling de los pantanos escondidos"
+            "es": "Mediano de los pantanos escondidos"
         },
         {
             "key": "Feature/&HalflingMarshLanguagesDescription",
@@ -8907,7 +8907,7 @@
         {
             "key": "Feature/&MoveTitle",
             "en": "Move",
-            "es": "Moverse"
+            "es": "Movimiento"
         },
         {
             "key": "Feature/&MoveWalkDescription",
@@ -9307,7 +9307,7 @@
         {
             "key": "Feature/&RitualCastingPreparedTitle",
             "en": "Ritual Casting",
-            "es": "Casting ritual"
+            "es": "Lanzamiento ritual"
         },
         {
             "key": "Feature/&RitualCastingSpellbookDescription",
@@ -9317,7 +9317,7 @@
         {
             "key": "Feature/&RitualCastingSpellbookTitle",
             "en": "Ritual Casting",
-            "es": "Casting ritual"
+            "es": "Lanzamiento ritual"
         },
         {
             "key": "Feature/&RogueArmorProficiencyTitle",
@@ -11467,7 +11467,7 @@
         {
             "key": "Language/&HalflingTitle",
             "en": "Halfling",
-            "es": "Halfling"
+            "es": "Mediano"
         },
         {
             "key": "Language/&OrcDescription",
@@ -11852,12 +11852,12 @@
         {
             "key": "MainMenu/&QuitTitle",
             "en": "Quit",
-            "es": "Renunciar"
+            "es": "Cerrar el juego"
         },
         {
             "key": "MainMenu/&SaveDateHeader",
             "en": "Save Date",
-            "es": "Guarde la fecha"
+            "es": "Fecha de guardado"
         },
         {
             "key": "MainMenu/&SelectCharacterSlotDescription",
@@ -18565,7 +18565,7 @@
         {
             "key": "Race/&HalflingTitle",
             "en": "Halfling",
-            "es": "Halfling"
+            "es": "Mediano"
         },
         {
             "key": "Race/&HumanDescription",
@@ -20419,7 +20419,7 @@
         {
             "key": "Rules/&ConditionShieldedDescription",
             "en": "Armor Class increases by +5 and immunity to magic missile.",
-            "es": "La clase de armadura aumenta en +5 y la inmunidad a los misiles mágicos."
+            "es": "La clase de armadura aumenta en +5 y la inmunidad a los proyectiles mágicos."
         },
         {
             "key": "Rules/&ConditionShieldedTitle",
@@ -20689,7 +20689,7 @@
         {
             "key": "Rules/&DamageForceDescription",
             "en": "Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including magic missile and spiritual weapon.",
-            "es": "La fuerza es pura energía mágica concentrada en una forma dañina. La mayoría de los efectos que infligen daño por fuerza son hechizos, incluidos misiles mágicos y armas espirituales."
+            "es": "La fuerza es pura energía mágica concentrada en una forma dañina. La mayoría de los efectos que infligen daño por fuerza son hechizos, incluidos proyectiles mágicos y armas espirituales."
         },
         {
             "key": "Rules/&DamageForceTitle",
@@ -20719,7 +20719,7 @@
         {
             "key": "Rules/&DamageNecroticDescription",
             "en": "Necrotic damage, dealt by certain undead and spells such as chill touch, withers matter and even the soul.",
-            "es": "Daño necrótico, infligido por ciertos muertos vivientes y hechizos como toque frío, materia seca e incluso el alma."
+            "es": "Daño necrótico, infligido por ciertos muertos vivientes y hechizos como toque helado, materia seca e incluso el alma."
         },
         {
             "key": "Rules/&DamageNecroticTitle",
@@ -20779,7 +20779,7 @@
         {
             "key": "Rules/&DamageThunderDescription",
             "en": "A concussive burst of sound, such as the effect of the thunderwave spell, deals thunder damage.",
-            "es": "Una explosión de sonido conmovedora, como el efecto del hechizo de onda de trueno, inflige daño de trueno."
+            "es": "Una explosión de sonido atronadora, como el efecto del hechizo de onda de trueno, inflige daño de trueno."
         },
         {
             "key": "Rules/&DamageThunderTitle",
@@ -21194,7 +21194,7 @@
         {
             "key": "Rules/&SaveAffinityNegateTitle",
             "en": "(save to negate)",
-            "es": "(guardar para negar)"
+            "es": "(Salvación para negar)"
         },
         {
             "key": "Rules/&SituationalContextAttackerAwayFromTargetFormat",
@@ -23534,7 +23534,7 @@
         {
             "key": "Screen/&ReviveCastSpellFormat",
             "en": "Cast {0}",
-            "es": "Transmitir {0}"
+            "es": "Lanzar {0}"
         },
         {
             "key": "Screen/&ReviveItemSpellSubtitlePluralFormat",
@@ -25672,7 +25672,7 @@
         {
             "key": "Spell/&CharmPersonTitle",
             "en": "Charm Person",
-            "es": "Persona de encanto"
+            "es": "Encantar Persona"
         },
         {
             "key": "Spell/&ChillTouchDescription",
@@ -25682,7 +25682,7 @@
         {
             "key": "Spell/&ChillTouchTitle",
             "en": "Chill Touch",
-            "es": "Toque frío"
+            "es": "Toque Helado"
         },
         {
             "key": "Spell/&ColorSprayTitle",
@@ -25737,7 +25737,7 @@
         {
             "key": "Spell/&DancingLightsTitle",
             "en": "Dancing Lights",
-            "es": "Luces de baile"
+            "es": "Luces danzantes"
         },
         {
             "key": "Spell/&DarknessDescription",
@@ -26162,7 +26162,7 @@
         {
             "key": "Spell/&LevitateTitle",
             "en": "Levitate",
-            "es": "Levantar por levitación"
+            "es": "Levitar"
         },
         {
             "key": "Spell/&LightDescription",
@@ -26242,7 +26242,7 @@
         {
             "key": "Spell/&MagicMissileTitle",
             "en": "Magic Missile",
-            "es": "Misil mágico"
+            "es": "Proyectil Mágico"
         },
         {
             "key": "Spell/&MagicWeaponDescription",
@@ -26372,7 +26372,7 @@
         {
             "key": "Spell/&ProtectionFromEvilGoodTitle",
             "en": "Protect vs Evil & Good",
-            "es": "Proteger contra el mal y el bien"
+            "es": "Proteger contra el bien y el mal"
         },
         {
             "key": "Spell/&ProtectionFromPoisonDescription",
@@ -26542,7 +26542,7 @@
         {
             "key": "Spell/&ShieldTitle",
             "en": "Shield",
-            "es": "Proteger"
+            "es": "Escudo"
         },
         {
             "key": "Spell/&ShockingGraspDescription",
@@ -26552,7 +26552,7 @@
         {
             "key": "Spell/&ShockingGraspTitle",
             "en": "Shocking Grasp",
-            "es": "Agarre impactante"
+            "es": "Agarre Electrizante"
         },
         {
             "key": "Spell/&SleepTitle",
@@ -26587,7 +26587,7 @@
         {
             "key": "Spell/&SpareTheDyingTitle",
             "en": "Spare the Dying",
-            "es": "Perdón para los moribundos"
+            "es": "Perdón a los moribundos"
         },
         {
             "key": "Spell/&SpiderClimbDescription",
@@ -26637,7 +26637,7 @@
         {
             "key": "Spell/&ThunderwaveTitle",
             "en": "Thunderwave",
-            "es": "Thunderwave"
+            "es": "Ola Atronadora"
         },
         {
             "key": "Spell/&TonguesDescription",
@@ -27362,7 +27362,7 @@
         {
             "key": "Stage/&ProficiencyEffectsDescription",
             "en": "Proficiency in a saving throw, skill, tool, or weapon lets you add your proficiency bonus to the corresponding ability check. Proficiency in feats, languages, and armors lets you use them. Expertise in skills and tools doubles the proficiency bonus. ",
-            "es": "La competencia en una tirada de salvación, habilidad, herramienta o arma te permite agregar tu bonificación de competencia a la prueba de habilidad correspondiente. El dominio de las hazañas, los idiomas y las armaduras te permite usarlos. La experiencia en habilidades y herramientas duplica la bonificación por competencia."
+            "es": "La competencia en una tirada de salvación, habilidad, herramienta o arma te permite agregar tu bonificación de competencia a la prueba de habilidad correspondiente. El dominio de las dotes, los idiomas y las armaduras te permite usarlos. La experiencia en habilidades y herramientas duplica la bonificación por competencia."
         },
         {
             "key": "Stage/&ProficiencyExpertiseChoicesPluralFormat",
@@ -27377,17 +27377,17 @@
         {
             "key": "Stage/&ProficiencyFeatChoicesPluralFormat",
             "en": "Choose {0} feats",
-            "es": "Elige {0} hazañas"
+            "es": "Elige {0} dotes"
         },
         {
             "key": "Stage/&ProficiencyFeatChoicesSingleFormat",
             "en": "Choose {0} feat",
-            "es": "Elige {0} hazaña"
+            "es": "Elige {0} dotes"
         },
         {
             "key": "Stage/&ProficiencyIntroductionCreationDescription",
             "en": "Your ancestry, class, and background let you choose proficiencies in skills, tools, feats, and languages.",
-            "es": "Su ascendencia, clase y antecedentes le permiten elegir competencias en habilidades, herramientas, hazañas e idiomas."
+            "es": "Su ascendencia, clase y antecedentes le permiten elegir competencias en habilidades, herramientas, dotes e idiomas."
         },
         {
             "key": "Stage/&ProficiencyIntroductionLevelUpDescription",
@@ -28547,12 +28547,12 @@
         {
             "key": "Tooltip/&LightingTargetUnlitFormat",
             "en": "{0} is unlit.",
-            "es": "{0} está apagado."
+            "es": "{0} está a oscuras."
         },
         {
             "key": "Tooltip/&LightingUnlitFormat",
             "en": "Unlit",
-            "es": "Apagado"
+            "es": "A oscuras"
         },
         {
             "key": "Tooltip/&LightSourceEffectsTitle",
@@ -28632,7 +28632,7 @@
         {
             "key": "Tooltip/&SourceHasFeatFormat",
             "en": "{0} has {1} Feat",
-            "es": "{0} tiene {1} hazaña"
+            "es": "{0} tiene {1} dote"
         },
         {
             "key": "Tooltip/&SourceHasFightingStyleFormat",
@@ -30147,7 +30147,7 @@
         {
             "key": "TutorialStep/&Tuto_Telema_Crafting2_Description",
             "en": "Open the crafting interface in the character inventory and select the Scroll of Magic Missile. Violet will start by creating the magical ink using the necessary ingredients, and then she will write the scroll.\\n\\nThis will take hours, and she must use downtime during her travels. You won't be able to complete the scroll while exploring the Ruins of Telema.",
-            "es": "Abre la interfaz de creación en el inventario de personajes y selecciona el Pergamino de Misil Mágico. Violet comenzará creando la tinta mágica con los ingredientes necesarios, y luego escribirá el pergamino.\\n\\nEsto tomará horas, y deberá usar el tiempo de inactividad durante sus viajes. No podrás completar el pergamino mientras exploras las Ruinas de Telema."
+            "es": "Abre la interfaz de creación en el inventario de personajes y selecciona el Pergamino de Proyectil Mágico. Violet comenzará creando la tinta mágica con los ingredientes necesarios, y luego escribirá el pergamino.\\n\\nEsto tomará horas, y deberá usar el tiempo de inactividad durante sus viajes. No podrás completar el pergamino mientras exploras las Ruinas de Telema."
         },
         {
             "key": "TutorialStep/&Tuto_Telema_Crafting2_Title",
@@ -30172,7 +30172,7 @@
         {
             "key": "TutorialStep/&Tuto_Telema_Identify2_Title",
             "en": "Ritual Casting",
-            "es": "Casting ritual"
+            "es": "Lanzamiento ritual"
         },
         {
             "key": "TutorialStep/&Tuto_UseCovers_Description",
@@ -35647,7 +35647,7 @@
         {
             "key": "Tooltip/&OutOfDarkvisionRangeFormat",
             "en": "(Out of Darkvision range)",
-            "es": "(Fuera del rango de Darkvision)"
+            "es": "(Fuera del rango de Visión en la Oscuridad)"
         },
         {
             "key": "Feature/&RegenerationChildOfDarknessTitle",
@@ -36192,12 +36192,12 @@
         {
             "key": "Feature/&DeflectMissileDescription",
             "en": "Can use a reaction to reduce the damage of an incoming missile.",
-            "es": "Puede usar una reacción para reducir el daño de un misil entrante."
+            "es": "Puede usar una reacción para reducir el daño de un proyectil entrante."
         },
         {
             "key": "Feature/&DeflectMissileTitle",
             "en": "Deflect Missile",
-            "es": "Desviar misil"
+            "es": "Desviar proyectil"
         },
         {
             "key": "Reaction/&DeflectMissileDescription",
@@ -36217,7 +36217,7 @@
         {
             "key": "Reaction/&DeflectMissileTitle",
             "en": "Missile Attack",
-            "es": "Ataque con misiles"
+            "es": "Ataque con proyectiles"
         },
         {
             "key": "Feedback/&DamageHalvedLine",
@@ -40010,7 +40010,7 @@
         {
             "key": "Equipment/&ArtisanToolSmith_Title",
             "en": "Small Smith Toolkit",
-            "es": "Pequeño kit de herramientas Smith"
+            "es": "Pequeño kit de herramientas de herrero"
         },
         {
             "key": "Equipment/&ArtisanToolSmith_Description",
@@ -42310,7 +42310,7 @@
         {
             "key": "Quest/&PickupQuest_12_HallowedDead_Plaque_02",
             "en": "Here lie the Hallowed Dead of the Iron Legions. The might of the Legions was the mailed fist of the Empire. Like iron, they were forged. In the crucible of battle, they were tested, over and over again and never found wanting. Bravest of the brave, risking life and limb for the Empire, for their brothers and sisters, and for their honor, in the certainty that their deeds would be remembered in the chronicles of history and in the Halls!",
-            "es": "Aquí yacen los Hallowed Dead de las Legiones de Hierro. El poder de las Legiones era el puño de malla del Imperio. Como el hierro, fueron forjados. En el crisol de la batalla, fueron probados una y otra vez y nunca se encontraron deficientes. ¡El más valiente de los valientes, arriesgando la vida y la integridad física por el Imperio, por sus hermanos y hermanas, y por su honor, con la certeza de que sus hazañas serán recordadas en las crónicas de la historia y en los Salones!"
+            "es": "Aquí yacen los Hallowed Dead de las Legiones de Hierro. El poder de las Legiones era el puño de malla del Imperio. Como el hierro, fueron forjados. En el crisol de la batalla, fueron probados una y otra vez y nunca se encontraron deficientes. ¡El más valiente de los valientes, arriesgando la vida y la integridad física por el Imperio, por sus hermanos y hermanas, y por su honor, con la certeza de que sus dotes serán recordadas en las crónicas de la historia y en los Salones!"
         },
         {
             "key": "Quest/&PickupQuest_12_HallowedDead_Plaque_03",
@@ -62748,7 +62748,7 @@
         {
             "key": "Narration/&PhilosopherBackgroundQuest_QuestGiver_6_MayorBrightspark_NPC",
             "en": "Well, he's heard about your exploits and would like to talk to you.",
-            "es": "Bueno, ha oído hablar de tus hazañas y le gustaría hablar contigo."
+            "es": "Bueno, ha oído hablar de tus dotes y le gustaría hablar contigo."
         },
         {
             "key": "Narration/&PhilosopherBackgroundQuest_QuestGiver_7_Philosopher_Default",
@@ -78233,7 +78233,7 @@
         {
             "key": "Screen/&EditorCaptionMoveButtonTitle",
             "en": "Move",
-            "es": "Moverse"
+            "es": "Movimiento"
         },
         {
             "key": "Screen/&EditorCaptionMoveButtonDescription",

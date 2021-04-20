@@ -5,16 +5,16 @@
 		<AssemblyVersion>0.0.2.0</AssemblyVersion>
 		<FileVersion>0.0.2.0</FileVersion>
 		<Description></Description>
-		<PackageProjectUrl>https://github.com/SolastaMods/SolastaUnofficialTranslations</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/SolastaMods/SolastaUnofficialTranslations</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/ThyWoof/SolastaUnofficialTranslations</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/ThyWoof/SolastaUnofficialTranslations</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<Configurations>Debug;Release;Debug Install;Release Install</Configurations>
 		<Authors>Zappastuff</Authors>
 		<Company />
 		<Product />
-		<Copyright>Copyright © 2021</Copyright>
+		<Copyright>Copyright 2021</Copyright>
 		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-		<Version>0.0.9</Version>
+		<Version>0.0.10</Version>
 	</PropertyGroup>
 
 	<Target Name="CheckEnvironmentVars">

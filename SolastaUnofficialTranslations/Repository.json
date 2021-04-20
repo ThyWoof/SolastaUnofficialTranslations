@@ -1,6 +1,10 @@
 {
 	"Releases":
 	[
-		{"Id": "SolastaUnnoficialTranslations", "Version": "0.0.9"}
+		{
+			"Id": "SolastaUnnoficialTranslations", 
+			"Version": "0.0.10",
+			"DownloadUrl": "https://github.com/ThyWoof/SolastaUnofficialTranslations/releases/download/0.0.10/SolastaUnofficialTranslations.zip"
+		}
 	]
 }
