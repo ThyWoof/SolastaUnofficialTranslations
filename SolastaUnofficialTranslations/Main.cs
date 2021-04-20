@@ -8,6 +8,7 @@ using UnityModManagerNet;
 using HarmonyLib;
 using Newtonsoft.Json.Linq;
 using I2.Loc;
+using System.Globalization;
 
 namespace SolastaUnofficialTranslations
 { 
@@ -16,34 +17,32 @@ namespace SolastaUnofficialTranslations
          public string code, text, desc, file;
     }
 
-    class Languages
+    static class Languages
     {
         private static readonly List<LanguageEntry> languages = new List<LanguageEntry>();
-        private static void Log(string msg) => Main.Log(msg);
 
         private static void Error(string msg) => Main.Error(msg);
 
-        public static void LoadLanguages(string languageFile)
+        public static void LoadLanguages()
         {
-            foreach (JToken language in JArray.Parse(File.ReadAllText(languageFile)))
+            CultureInfo[] cultureInfos = CultureInfo.GetCultures(CultureTypes.AllCultures);
+            DirectoryInfo directoryInfo = new DirectoryInfo($@"{UnityModManager.modsPath}/{typeof(Main).Namespace}");
+            FileInfo[] files = directoryInfo.GetFiles("Translation-*.json");
+
+            foreach(var file in files)
             {
-                LanguageEntry languageEntry;
-                try
-                {
-                    languageEntry = new LanguageEntry()
-                    {
-                        code = language["Code"].ToString(),
-                        text = language["Text"].ToString(),
-                        desc = language["Desc"].ToString(),
-                        file = language["File"].ToString()
-                    };
-                }
-                catch
-                {
-                    Error("Invalid language entry:" + language.ToString());
-                    continue;
-                }
-                languages.Add(languageEntry);
+                var code = file.Name.Substring(0, file.Name.Length - 5).Substring(12);
+                var cultureInfo = cultureInfos.First<CultureInfo>(o => o.Name == code);
+                if (cultureInfo != null)
+                    languages.Add(new LanguageEntry()
+                        {
+                            code = code,
+                            text = cultureInfo.DisplayName,
+                            desc = cultureInfo.DisplayName,
+                            file = file.Name
+                        });
+                else
+                    Error("unrecognized language: " + file.Name);  
             }
         }
 
@@ -100,14 +99,14 @@ namespace SolastaUnofficialTranslations
         internal static void Error(string msg) => Logger?.Error(msg);
         internal static UnityModManager.ModEntry.ModLogger Logger { get; private set; }
 
-
         internal static bool Load(UnityModManager.ModEntry modEntry)
         {
             try
             {
                 Logger = modEntry.Logger;
 
-                ModBeforeDBReady();
+                Languages.LoadLanguages();
+                Languages.LoadTranslations();
 
                 var harmony = new Harmony(modEntry.Info.Id);
                 harmony.PatchAll(Assembly.GetExecutingAssembly());
@@ -119,28 +118,6 @@ namespace SolastaUnofficialTranslations
             }
 
             return true;
-        }
-
-        [HarmonyPatch(typeof(MainMenuScreen), "RuntimeLoaded")]
-        internal static class MainMenuScreen_RuntimeLoaded_Patch
-        {
-            internal static void Postfix()
-            {
-                ModAfterDBReady();
-            }
-        }
-
-        // ENTRY POINT IF YOU NEED SERVICE LOCATORS ACCESS
-        internal static void ModBeforeDBReady()
-        {
-            Languages.LoadLanguages(UnityModManager.modsPath + @"/SolastaUnofficialTranslations/Languages.json");
-            Languages.LoadTranslations();
-        }
-
-        // ENTRY POINT IF YOU NEED SAFE DATABASE ACCESS
-        internal static void ModAfterDBReady()
-        {
-
         }
     }
 

@@ -2,7 +2,7 @@
 	"Id": "SolastaUnofficialTranslations",
 	"DisplayName": "SolastaUnofficialTranslations",
 	"Author": "Zappastuff (ThyWoof)",
-	"Version": "0.0.10",
+	"Version": "0.0.11",
 	"ManagerVersion": "0.23.4",
 	"AssemblyName": "SolastaUnofficialTranslations.dll",
 	"EntryMethod": "SolastaUnofficialTranslations.Main.Load",
