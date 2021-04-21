@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Reflection;
+using UnityEngine;
 using UnityModManagerNet;
 using HarmonyLib;
 using Newtonsoft.Json.Linq;
@@ -14,7 +15,7 @@ namespace SolastaUnofficialTranslations
 { 
     struct LanguageEntry
     {
-         public string code, text, file;
+        public string code, text, file;
     }
 
     static class Languages
@@ -23,25 +24,27 @@ namespace SolastaUnofficialTranslations
 
         private static void Error(string msg) => Main.Error(msg);
 
-        public static void LoadLanguages()
+        public static void DetermineLanguages()
         {
             CultureInfo[] cultureInfos = CultureInfo.GetCultures(CultureTypes.AllCultures);
             DirectoryInfo directoryInfo = new DirectoryInfo($@"{UnityModManager.modsPath}/{typeof(Main).Namespace}");
-            FileInfo[] files = directoryInfo.GetFiles("Translation-*.json");
+            FileInfo[] files = directoryInfo.GetFiles("Translation-*.txt");
 
             foreach(var file in files)
             {
-                var code = file.Name.Substring(12, file.Name.Length - 5 - 12);
+                var code = file.Name.Substring(12, file.Name.Length - 4 - 12);
                 var cultureInfo = cultureInfos.First<CultureInfo>(o => o.Name == code);
-                if (cultureInfo != null)
-                    languages.Add(new LanguageEntry()
-                        {
-                            code = code,
-                            text = cultureInfo.DisplayName,
-                            file = file.Name
-                        });
+                if (cultureInfo == null)
+                    Error("unrecognized language: " + file.Name);
+                else if (LocalizationManager.HasLanguage(cultureInfo.DisplayName))
+                    Error("language already in game: " + file.Name);
                 else
-                    Error("unrecognized language: " + file.Name);  
+                    languages.Add(new LanguageEntry()
+                    {
+                        code = code,
+                        text = cultureInfo.TextInfo.ToTitleCase(cultureInfo.NativeName),
+                        file = file.Name
+                    });
             }
         }
 
@@ -51,44 +54,39 @@ namespace SolastaUnofficialTranslations
 
         public static void LoadTranslations()
         {
+            var languageSourceData = LocalizationManager.Sources[0];
+
+            // load new language terms
             foreach (var language in languages)
             {
-                // add language to localization manager
-                var languageSourceData = LocalizationManager.Sources[0];
+                // add language
                 languageSourceData.AddLanguage(language.text, language.code);
-
                 var languageIndex = languageSourceData.GetLanguageIndex(language.text);
 
-                // add language translation keys
-                languageSourceData.AddTerm("Setting/&TextLanguages" + language.code + "Title").Languages[languageIndex] = language.text;
-                languageSourceData.AddTerm("Setting/&TextLanguages" + language.code + "Description").Languages[languageIndex] = language.text;
-
-                // add translations
-                var translations = JArray.Parse(File.ReadAllText($@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{language.file}"));
-                foreach (JObject translation in translations)
+                // add terms
+                var inputFilename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{language.file}";
+                using (var sr = new StreamReader(inputFilename))
                 {
-                    String key;
-                    try
+                    String line;
+                    while ((line = sr.ReadLine()) != null)
                     {
-                        key = translation["key"].ToString();
-                    }
-                    catch
-                    {
-                        Error("term not found: " + translation.ToString());
-                        continue;
-                    }
-                    try
-                    {
-                        languageSourceData.AddTerm(key).Languages[languageIndex] = translation[language.code].ToString();
-                    }
-                    catch
-                    {
-                        Error(language.code + " code not found: " + translation.ToString());
+                        var splitted = line.Split(new[] { '\t', ' ' }, 2);
+                        languageSourceData.AddTerm(splitted[0]).Languages[languageIndex] = splitted[1].Trim();
                     }
                 }
             }
+
+            //// load languages titles and descriptions across all languages including unofficial ones
+            //foreach (var language in languages)
+            //    foreach (var languageData in languageSourceData.mLanguages)
+            //    {
+            //        var i = languageSourceData.GetLanguageIndex(languageData.Name);
+            //        languageSourceData.AddTerm("Setting/&TextLanguage" + language.code + "Title").Languages[i] = language.text;
+            //        languageSourceData.AddTerm("Setting/&TextLanguage" + language.code + "Description").Languages[i] = language.text;
+            //    }
         }
     }
+
 
     public class Main
     {
@@ -103,8 +101,9 @@ namespace SolastaUnofficialTranslations
             try
             {
                 Logger = modEntry.Logger;
+                modEntry.OnGUI = OnGUI;
 
-                Languages.LoadLanguages();
+                Languages.DetermineLanguages();
                 Languages.LoadTranslations();
 
                 var harmony = new Harmony(modEntry.Info.Id);
@@ -118,7 +117,47 @@ namespace SolastaUnofficialTranslations
 
             return true;
         }
+
+        static void OnGUI(UnityModManager.ModEntry modEntry)
+        {
+            var languageSourceData = LocalizationManager.Sources[0];
+            foreach(var languageData in languageSourceData.mLanguages)
+                if (GUILayout.Button($"Export {languageData.Name} Language"))
+                {
+                    ExportTerms(languageSourceData.GetLanguageIndex(languageData.Name), languageData.Code);
+                }
+        }
+
+        internal static void ExportTerms(int languageIndex, String code)
+        {
+            var languageSourceData = LocalizationManager.Sources[0];
+            var outputFilename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/Export-{code}.txt";
+            using (var sw = new StreamWriter(outputFilename))
+            {
+                foreach (var term in languageSourceData.mTerms)
+                {
+                    sw.WriteLine("{0} {1}",
+                        term.Term,
+                         term.Languages[languageIndex] != null ?
+                            term.Languages[languageIndex].Replace("\n", @"\n").Replace("\t", "") : "");
+                }
+            }
+        }
     }
+
+
+    [HarmonyPatch(typeof(GameManager), "BindServiceSettings")]
+    internal static class GameManager_BindServiceSettings_Patch
+    {
+        public static void Prefix(Dictionary<string, string> ___languageByCode)
+        {
+            if (___languageByCode != null)
+                foreach (LanguageEntry language in Languages.GetAll())
+                    if (!___languageByCode.ContainsKey(language.code))
+                        ___languageByCode.Add(language.code, language.text);
+        }
+    }
+
 
     [HarmonyPatch(typeof(SettingDropListItem), "Bind")]
     internal static class SettingDropListItem_Bind_Patch
@@ -133,16 +172,15 @@ namespace SolastaUnofficialTranslations
                 String[] items = new String[top + Languages.Count()];
                 Array.Copy(___settingTypeDropListAttribute.Items, items, top);
                 ___settingTypeDropListAttribute.Items = items;
+
                 foreach (LanguageEntry language in Languages.GetAll())
                 {
-                    if (!items.Contains<String>(language.code))
-                        items[top++] = language.code;
-                    if (!___dropList.options.Any(o => o.text == language.text))
-                        ___dropList.options.Add(new GuiDropdown.OptionDataAdvanced 
-                        {
-                            text = language.text,
-                            TooltipContent = "Setting/&TextLanguage" + language.code + "Description"
-                        });
+                    items[top++] = language.code;
+                    ___dropList.options.Add(new GuiDropdown.OptionDataAdvanced 
+                    {
+                        text =language.text,
+                        TooltipContent = language.text
+                    });
                 }
             }
         }
