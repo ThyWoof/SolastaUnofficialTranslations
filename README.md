@@ -6,21 +6,26 @@
 	- Brazilian Portuguese (pt-BR)
 	- Spanish (es)
 	- Italian (it)
-	- British English (en-GB)
 * You need [Unity Mod Manager 0.23.4](https://www.nexusmods.com/site/mods/21?tab=files) or higher installed in your game folder.
+
+# How to export official languages
+
+1. Press Ctrl-F10 to Open UMM Window
+2. Expand Solasta Unofficial Translation options
+3. Press the Export #Language# button
 
 # How to fix bad translations
 
-1. Open $SOLASTA_HOME/Mods/SolastaUnofficialTranslations/Translation-#LANGUAGE-CODE#.json on a text editor
+1. Open $SOLASTA_HOME/Mods/SolastaUnofficialTranslations/Translation-#LANGUAGE-CODE#.txt on a text editor
 2. Apply your corrections
+	- Don't translate the term
+	- You can have one or more spaces or tabs after the term
+	- Export any other official language as a reference on translations
 3. Submit a request to this repo
 
 # How to create new translations
 
-1. Open any $SOLASTA_HOME/Mods/SolastaUnofficialTranslations/Translation-#LANGUAGE-CODE#.json on a text editor
-2. Save as $SOLASTA_HOME/Mods/SolastaUnofficialTranslations/Translation-#YOUR-NEW-LANGUAGE-CODE#.json
-3. Replace all "#LANGUAGE-CODE#" with "#YOUR-NEW-LANGUAGE-CODE#"
-4. Start working on translations
+WIP: should have a script soon to automatically do an initial translation to any language from an Export file
 
 # How to compile
 
