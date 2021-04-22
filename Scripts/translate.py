@@ -8,6 +8,7 @@
 
 import argparse
 import os
+import re
 import sys
 from deep_translator import GoogleTranslator, MicrosoftTranslator
 
@@ -37,6 +38,7 @@ def parse_command_line():
                         choices=['Microsoft', 'Google'],
                         default='Google',
                         help='translator engine to use')
+
     return my_parser.parse_args()
 
 
@@ -77,9 +79,10 @@ def unpack_record(record):
     text = ""
     try:
         (term, text) = record.split(" ", 1)
-        text = text.replace("\\n", "<n>").strip()
+        text = text.strip()
     except:
         term = record
+
     return term, text if text != "" else "EMPTY"
 
 
@@ -114,24 +117,37 @@ def get_chunks(filename, code):
         texts.append(text)
 
     yield SEPARATOR.join(terms), SEPARATOR.join(texts)
-    print()
 
 
 def translate_chunk(translator, text, code):
     translated = translator(source="auto", target=code).translate(text) if len(text) <= CHARS_MAX else text
-    return translated.replace("<n>", "\\n")
+    
+    return translated
 
 
 def apply_dictionary(dictionary, text):
-    if not dictionary:
-        return text
-    # <# ([A-F0-9]*)> (.*) </color> 
-    # <#$1>$2</color>
-    text = text.replace(" <", "<")
-    text = text.replace(" >", ">")
-    text = text.replace("<# ", "<#")
+    # r = re.compile(r"<(#|i|b) ?(.*)> (.*) </(.*)>")
+    # text = r.sub(r"<\1\2>\3</\4>", text)
+
+    r = re.compile(r"<# ([A-F0-9]*)> (.*) </color>")
+    text = r.sub(r"<#\1>\2</color>", text)
+
+    r = re.compile(r"<i> (.*) </i>")
+    text = r.sub(r"<i>$1</i>", text)
+
+    r = re.compile(r"<b> (.*) </b>")
+    text = r.sub(r"<b>$1</b>", text)
+
+    text = text.replace("</color> ", "</color>")
+
+    text = text.replace("\\ N", "\\n")
+    text = text.replace("\\ n", "\\n")
     text = text.replace("\\n ", "\\n")
     text = text.replace(" \\n", "\\n")
+
+    for key in dictionary:
+        text = text.replace(key, dictionary[key])
+
     return text
 
 
