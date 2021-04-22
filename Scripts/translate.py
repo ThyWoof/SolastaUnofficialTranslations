@@ -8,28 +8,61 @@
 
 import argparse
 import os
-import re
 import sys
-from deep_translator import GoogleTranslator
+from deep_translator import GoogleTranslator, MicrosoftTranslator
 
 
-MAX_CHARS = 5000
+CHARS_MAX = 5000
 SEPARATOR = "\n"
+ENGINES = {
+    'Google': GoogleTranslator,
+    'Microsoft': MicrosoftTranslator
+}
 
 
 def parse_command_line():
     my_parser = argparse.ArgumentParser(description='Translates Solasta game terms')
-    my_parser.add_argument('file',
+    my_parser.add_argument('input',
                         type=str,
-                        help='file to translate')
+                        help='input file to translate')
     my_parser.add_argument('-c', '--code',
                         type=str,
-                        help='translation language code')
+                        required=True,
+                        help='language code to translate to')
+    my_parser.add_argument('-d', '--dict',
+                        type=str,
+                        help='dictionary file to fix auto translation')
+    my_parser.add_argument('-e', '--engine',
+                        type=str,
+                        choices=['Microsoft', 'Google'],
+                        default='Google',
+                        help='translator engine to use')
     return my_parser.parse_args()
 
 
-def progress(count, total, status=''):
-    bar_len = 60
+def load_dictionary(filename):
+    dictionary = {}
+    if not filename:
+       pass
+    elif not os.path.exists(filename):
+        print(f"WARNING: dictionary file doesn't exist. using an empty one")
+    else:
+        with open(filename, "rt", encoding="utf-8") as f:
+            record = "\n"
+            while record:
+                record = f.readline()
+                if record and record.split():
+                    try:
+                        (f, r) = record.split(" ", 1).strip()
+                        dictionary[f] = r
+                    except:
+                        print(f"ERROR: skipping dictionary like {record}")
+
+    return dictionary
+
+
+def display_progress(count, total, status=''):
+    bar_len = 80
     filled_len = int(round(bar_len * count / float(total)))
 
     percents = round(100.0 * count / float(total), 1)
@@ -50,44 +83,48 @@ def unpack_record(record):
     return term, text if text != "" else "EMPTY"
 
 
-def get_translation_records(filename):
+def get_records(filename):
     with open(filename, "rt", encoding="utf-8") as f:
-        record = f.readline()
+        record = "\n"
         while record:
-            yield unpack_record(record)
             record = f.readline()
-            while record and record.strip() == "":
-                record = f.readline()
+            if record and record.split():
+                yield unpack_record(record)
 
 
-def get_translation_chunks(filename, code):
+def get_chunks(filename, code):
     line_count = 0
-    total_lines = sum(1 for line in open(filename))
+    line_total = sum(1 for line in open(filename))
 
-    total_len = 0 
+    chars_len = 0 
     terms = []
     texts = []
-    for term, text in get_translation_records(filename):
+    for term, text in get_records(filename):
         line_count = line_count + 1
-        progress(line_count, total_lines, f" language {code}")
-        total_len = total_len + len(text) + len(SEPARATOR)
-        if total_len > MAX_CHARS:
+        display_progress(line_count, line_total, f" language {code}")
+
+        chars_len = chars_len + len(text) + len(SEPARATOR)
+        if chars_len > CHARS_MAX:
             yield SEPARATOR.join(terms), SEPARATOR.join(texts)
-            total_len = len(text) + len(SEPARATOR)
+            chars_len = len(text) + len(SEPARATOR)
             terms = []
             texts = []
+
         terms.append(term)
         texts.append(text)
+
     yield SEPARATOR.join(terms), SEPARATOR.join(texts)
     print()
 
 
-def translate_chunk(text, code):
-    translated = GoogleTranslator(source="auto", target=code).translate(text) if len(text) <= MAX_CHARS else text
+def translate_chunk(translator, text, code):
+    translated = translator(source="auto", target=code).translate(text) if len(text) <= CHARS_MAX else text
     return translated.replace("<n>", "\\n")
 
 
-def fix_format(text):
+def apply_dictionary(dictionary, text):
+    if not dictionary:
+        return text
     # <# ([A-F0-9]*)> (.*) </color> 
     # <#$1>$2</color>
     text = text.replace(" <", "<")
@@ -98,21 +135,27 @@ def fix_format(text):
     return text
 
 
-def translate(filename, code):
-    with open(f"Translation-{code}.txt", "wt", encoding="utf-8") as f:
-        for terms, texts in get_translation_chunks(filename, code):
-            translated = translate_chunk(texts, code)
-            translated = fix_format(translated)
-            texts = translated.split(SEPARATOR)
+def translate(input, output, code, engine, dictionary=None):
+    with open(output, "wt", encoding="utf-8") as f:
+        for terms, texts in get_chunks(input, code):
+            translated = translate_chunk(engine, texts, code)
+            replaced = apply_dictionary(dictionary, translated)
+            replaceds = replaced.split(SEPARATOR)
             for term in terms.split(SEPARATOR):
-                f.write(f"{term} {texts.pop(0)}\n")
-            f.flush()
+                f.write(f"{term} {replaceds.pop(0)}\n")
 
 
 def main():
     args = parse_command_line()
-    code = 'pt' if args.code is None else args.code
-    translate(args.file, code)
+    output = f"Translation-{args.code}.txt"
+    engine = ENGINES[args.engine]
+    dictionary = load_dictionary(args.dict)
+    translate(
+        args.input, 
+        output,
+        args.code, 
+        engine, 
+        dictionary)
 
 
 if __name__ == "__main__":
