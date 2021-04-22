@@ -6,6 +6,7 @@
 #   - deep_translator library (pip3 install deep_translator)
 #
 
+import argparse
 import os
 import re
 import sys
@@ -14,6 +15,17 @@ from deep_translator import GoogleTranslator
 
 MAX_CHARS = 5000
 SEPARATOR = "\n"
+
+
+def parse_command_line():
+    my_parser = argparse.ArgumentParser(description='Translates Solasta game terms')
+    my_parser.add_argument('file',
+                        type=str,
+                        help='file to translate')
+    my_parser.add_argument('-c', '--code',
+                        type=str,
+                        help='translation language code')
+    return my_parser.parse_args()
 
 
 def progress(count, total, status=''):
@@ -76,14 +88,13 @@ def translate_chunk(text, code):
 
 
 def fix_format(text):
-    return text
     # <# ([A-F0-9]*)> (.*) </color> 
     # <#$1>$2</color>
-    result = re.search(r"<# ([A-F0-9]*)> (.*) </color> ", text)
-    if not result is None:
-        print()
-        pass
-
+    text = text.replace(" <", "<")
+    text = text.replace(" >", ">")
+    text = text.replace("<# ", "<#")
+    text = text.replace("\\n ", "\\n")
+    text = text.replace(" \\n", "\\n")
     return text
 
 
@@ -99,10 +110,9 @@ def translate(filename, code):
 
 
 def main():
-    CODES = ["ko", "ja", "pt", "it", "es"]
-    # CODES = ["pt"]
-    for code in CODES:
-        translate("Export-en.txt", code)
+    args = parse_command_line()
+    code = 'pt' if args.code is None else args.code
+    translate(args.file, code)
 
 
 if __name__ == "__main__":
