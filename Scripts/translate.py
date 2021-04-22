@@ -7,6 +7,7 @@
 #
 
 import os
+import re
 import sys
 from deep_translator import GoogleTranslator
 
@@ -47,47 +48,61 @@ def get_translation_records(filename):
                 record = f.readline()
 
 
-def get_translation_chunks(filename):
+def get_translation_chunks(filename, code):
     line_count = 0
+    total_lines = sum(1 for line in open(filename))
+
     total_len = 0 
     terms = []
     texts = []
     for term, text in get_translation_records(filename):
         line_count = line_count + 1
+        progress(line_count, total_lines, f" language {code}")
         total_len = total_len + len(text) + len(SEPARATOR)
         if total_len > MAX_CHARS:
-            yield line_count, SEPARATOR.join(terms), SEPARATOR.join(texts)
-            total_len = 0
+            yield SEPARATOR.join(terms), SEPARATOR.join(texts)
+            total_len = len(text) + len(SEPARATOR)
             terms = []
             texts = []
         terms.append(term)
         texts.append(text)
-    yield line_count, SEPARATOR.join(terms), SEPARATOR.join(texts)
+    yield SEPARATOR.join(terms), SEPARATOR.join(texts)
+    print()
 
 
-def translate_chunk(code, text):
+def translate_chunk(text, code):
     translated = GoogleTranslator(source="auto", target=code).translate(text) if len(text) <= MAX_CHARS else text
     return translated.replace("<n>", "\\n")
 
 
+def fix_format(text):
+    return text
+    # <# ([A-F0-9]*)> (.*) </color> 
+    # <#$1>$2</color>
+    result = re.search(r"<# ([A-F0-9]*)> (.*) </color> ", text)
+    if not result is None:
+        print()
+        pass
+
+    return text
+
+
 def translate(filename, code):
-    total_lines = sum(1 for line in open(filename))
     with open(f"Translation-{code}.txt", "wt", encoding="utf-8") as f:
-        for read_lines, term, text in get_translation_chunks(filename):
-            progress(read_lines, total_lines, f" language {code}")
-            translated = translate_chunk(code, text)
-            terms = term.split(SEPARATOR)
+        for terms, texts in get_translation_chunks(filename, code):
+            translated = translate_chunk(texts, code)
+            translated = fix_format(translated)
             texts = translated.split(SEPARATOR)
-            for i in range(len(terms)):
-                f.write(f"{terms[i]} {texts[i]}\n")
+            for term in terms.split(SEPARATOR):
+                f.write(f"{term} {texts.pop(0)}\n")
             f.flush()
 
 
 def main():
     CODES = ["ko", "ja", "pt", "it", "es"]
+    # CODES = ["pt"]
     for code in CODES:
         translate("Export-en.txt", code)
-        print()
 
 
 if __name__ == "__main__":
