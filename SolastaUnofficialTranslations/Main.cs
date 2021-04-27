@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -10,6 +11,7 @@ using HarmonyLib;
 using Newtonsoft.Json.Linq;
 using I2.Loc;
 using System.Globalization;
+using TMPro;
 
 namespace SolastaUnofficialTranslations
 { 
@@ -36,7 +38,9 @@ namespace SolastaUnofficialTranslations
             DirectoryInfo directoryInfo = new DirectoryInfo($@"{UnityModManager.modsPath}/{typeof(Main).Namespace}");
             FileInfo[] files = directoryInfo.GetFiles($"{IN}*{EXT}");
 
-            foreach(var file in files)
+            languageSourceData.LoadAllLanguages();
+
+            foreach (var file in files)
             {
                 var code = file.Name.Substring(IN.Length, file.Name.Length - IN.Length - EXT.Length);
                 var cultureInfo = cultureInfos.First<CultureInfo>(o => o.Name == code);
