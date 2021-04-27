@@ -2486,7 +2486,7 @@ Map/&Location_Monastery_Cliff_Title	Scogliera
 Map/&Location_Monastery_Mausoleum_Title	Mausoleo
 Map/&Location_Telema_OrcCamp_Title	Campo degli Orchi
 Map/&Location_Telema_Outdoor_Title	Campeggio degli spazzini
-Map/&Location_Telema_SpiderNest_Title	Spider Nest
+Map/&Location_Telema_SpiderNest_Title	Tana del Ragno
 Map/&Location_TowerOfMagic_CrownRoom_Title	Camera della corona
 Map/&Location_TowerOfMagic_Excavation_Title	Sito di scavo
 Map/&Location_TowerOfMagic_Library_Title	Biblioteca
@@ -2681,7 +2681,7 @@ Monster/&DireWolf_Title	Meta lupo
 Monster/&EagleMatriarchDescription	Un'aquila molto grande trovata nelle Marche.
 Monster/&EagleMatriarchTitle	Matriarca dell'Aquila
 Monster/&FireSpider_Description	Un ragno gigante fuso con un piccolo elementale del fuoco dalla strana influenza magica delle Badlands.
-Monster/&FireSpider_Title	Fire Spider
+Monster/&FireSpider_Title	Ragno di Fuoco
 Monster/&FlyingSnakeDescription	Un serpente alato trovato nelle Badlands.
 Monster/&FlyingSnakeTitle	Brimstone Viper
 Monster/&GargoyleDescription	[TEMP] TBD
@@ -2701,7 +2701,7 @@ Monster/&GhoulTitle	Ghoul
 Monster/&GiantEagle_Description	Un'aquila gigante, corrotta dai flussi magici delle Badlands.
 Monster/&GiantEagle_Title	Badlands Eagle
 Monster/&GiantSpiderDescription	Ragni molto grandi, vivono nelle profondità delle Badlands e sono sensibili alla luce.
-Monster/&GiantSpiderTitle	Deep Spider
+Monster/&GiantSpiderTitle	Ragno delle Profondità
 Monster/&GoblinDescription	Una piccola creatura verdastra e malvagia.
 Monster/&GoblinShaman_Description	Un goblin con poteri quasi clericali.
 Monster/&GoblinShamanTitle	Sciamano Goblin
@@ -2733,7 +2733,7 @@ Monster/&OrcShaman_Description	La cosa più vicina che gli orchi hanno a un chie
 Monster/&OrcShaman_Title	Orco Sciamano
 Monster/&OrcTitle	Orco
 Monster/&PhaseSpider_Description	Un ragno mostruoso in grado di viaggiare liberamente da e verso il piano etereo.
-Monster/&PhaseSpider_Title	Fase Spider
+Monster/&PhaseSpider_Title	Ragon Fase
 Monster/&PoisonousSnakeDescription	[TEMP] TBD
 Monster/&PoisonousSnakeTitle	Serpente velenoso
 Monster/&Priest_Description	Un prete malvagio guida una setta religiosa che conduce riti depravati all'ombra di una società rispettabile.
@@ -2767,7 +2767,7 @@ Monster/&SorakSkirmisherTitle	Sorr-Akkath Schermagliatore
 Monster/&SpectralSpiderDescription	I ragni morti delle Badlands in qualche modo si sono trasformati in non morti.
 Monster/&SpectralSpiderTitle	Ragno spettrale
 Monster/&SpiderDescription	Più grande del tuo solito ragno domestico, questa creatura è piuttosto pericolosa.
-Monster/&SpiderTitle	Badlands Spider
+Monster/&SpiderTitle	Ragno delle Badlands
 Monster/&Spy_Description	Un ladro senza legge addestrato a spiare e uccidere per i ricchi padroni.
 Monster/&Spy_Title	Spiare
 Monster/&Thug_Description	I teppisti sono spietati esecutori abili nell'intimidazione e nella violenza. Lavorano per soldi e hanno pochi scrupoli.
@@ -4091,7 +4091,7 @@ Rules/&ConditionSleetStormTitle	Nella tempesta di nevischio
 Rules/&ConditionSlowedDescription	Velocità dimezzata; -2 ai salvataggi AC e DEX; massimo un'azione o azione bonus; nessuna reazione; massimo un attacco per turno; il lancio di incantesimi può fallire.
 Rules/&ConditionSlowedTitle	Rallentato
 Rules/&ConditionSpiderClimbDescription	Capace di arrampicarsi come un ragno.
-Rules/&ConditionSpiderClimbTitle	Spider Climb
+Rules/&ConditionSpiderClimbTitle	Movimento del Ragno
 Rules/&ConditionSpiritGuardiansDescription	La velocità è dimezzata; può subire danni all'inizio di ogni turno.
 Rules/&ConditionSpiritGuardiansSelfDescription	Il personaggio è attualmente protetto da Spirit Guardians.
 Rules/&ConditionSpiritGuardiansSelfTitle	Protetto dagli spiriti.
@@ -5318,7 +5318,7 @@ Spell/&SlowTitle	Lento
 Spell/&SpareTheDyingDescription	Tocca un alleato morente per stabilizzarlo.
 Spell/&SpareTheDyingTitle	Risparmia i morenti
 Spell/&SpiderClimbDescription	Tocca un alleato per consentirgli di arrampicarsi sui muri come un ragno per un tempo limitato.
-Spell/&SpiderClimbTitle	Spider Climb
+Spell/&SpiderClimbTitle	Movimento del Ragno
 Spell/&SpiritGuardiansDescription	Richiama gli spiriti per proteggerti.
 Spell/&SpiritGuardiansTitle	Guardiani dello spirito
 Spell/&SpiritualWeaponDescription	Evoca un'arma che combatte per te.
@@ -6337,7 +6337,7 @@ Encounter/&CultLeaderTitle	Leader del culto
 Encounter/&CultLeaderDescription	Un potente chierico con la sua scorta personale, in una missione omicida.
 Encounter/&SpectralSpidersTitle	Ragni spettrali
 Encounter/&SpectralSpidersDescription	Un gruppo di ragni giganti non morti.
-Encounter/&PhaseSpiderTitle	Fase Spider
+Encounter/&PhaseSpiderTitle	Ragno Fase
 Encounter/&PhaseSpiderDescription	Un enorme, cattivo, ragno teletrasporto.
 Encounter/&PhaseSpidersTitle	Fase ragni
 Encounter/&PhaseSpidersDescription	Un mucchio di enormi, cattivi ragni teletrasportanti.
@@ -7048,7 +7048,7 @@ Equipment/&Poison_TigerFang_Description	Un veleno creato dalle zanne velenose di
 Equipment/&Poison_DarkStab_Title	Dark Stab
 Equipment/&Poison_DarkStab_Description	Un veleno creato dalla ghiandola velenosa di un ragno delle terre selvagge.
 Equipment/&Poison_DeepPain_Title	Dolore profondo
-Equipment/&Poison_DeepPain_Description	Un veleno creato dalle zanne velenose di un Deep Spider.
+Equipment/&Poison_DeepPain_Description	Un veleno creato dalle zanne velenose di un Ragno delle Profondità.
 Equipment/&Poison_ArivadsKiss_Title	Il bacio di Arivad
 Equipment/&Poison_ArivadsKiss_Description	Un veleno creato con la spina dorsale velenosa di un Sorak.
 Equipment/&Poison_ArunsLight_Description	Un veleno chimico che acceca un avversario per un breve periodo.
@@ -8877,8 +8877,8 @@ Equipment/&ScrollShatterTitle	Scroll of Shatter
 Equipment/&ScrollShatterDescription	Quando usi questa pergamena, lanci l'incantesimo Shatter.
 Equipment/&ScrollSilenceTitle	Pergamena del silenzio
 Equipment/&ScrollSilenceDescription	Quando usi questa pergamena, lanci l'incantesimo Silenzio.
-Equipment/&ScrollSpiderClimbTitle	Pergamena di Spider Climb
-Equipment/&ScrollSpiderClimbDescription	Quando usi questa pergamena, lanci l'incantesimo Spider Climb.
+Equipment/&ScrollSpiderClimbTitle	Pergamena di Movimento del Ragno
+Equipment/&ScrollSpiderClimbDescription	Quando usi questa pergamena, lanci l'incantesimo Movimento del Ragno.
 Equipment/&ScrollSpiritualWeaponTitle	Pergamena dell'arma spirituale
 Equipment/&ScrollSpiritualWeaponDescription	Quando usi questa pergamena, lanci l'incantesimo Arma spirituale.
 Equipment/&ScrollWardingBondTitle	Pergamena di Warding Bond
