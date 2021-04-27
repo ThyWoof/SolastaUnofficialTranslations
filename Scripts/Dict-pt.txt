@@ -1,0 +1,2 @@
+"Elfo Alto" "Elfo Nobre"
+"Pergaminho de Identificar" "Pergaminho de Identificação"
