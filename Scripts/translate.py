@@ -10,7 +10,7 @@ import argparse
 import os
 import re
 import sys
-from deep_translator import GoogleTranslator, MicrosoftTranslator
+from deep_translator import GoogleTranslator, MicrosoftTranslator, DeepL
 
 
 CHARS_MAX = 5000
@@ -33,9 +33,12 @@ def parse_command_line():
     my_parser.add_argument('-d', '--dict',
                         type=str,
                         help='dictionary file to fix auto translation')
+    my_parser.add_argument('-k', '--api-key',
+                        type=str,
+                        help='api key for engines that require it')
     my_parser.add_argument('-e', '--engine',
                         type=str,
-                        choices=['Microsoft', 'Google'],
+                        choices=['Microsoft', 'Google', 'DeepL'],
                         default='Google',
                         help='translator engine to use')
 
@@ -58,7 +61,7 @@ def load_dictionary(filename):
                         (f, r) = record.split(" ", 1).strip()
                         dictionary[f] = r
                     except:
-                        print(f"ERROR: skipping dictionary like {record}")
+                        print(f"ERROR: skipping dictionary line {record}")
 
     return dictionary
 
@@ -87,26 +90,28 @@ def unpack_record(record):
 
 
 def get_records(filename):
-    with open(filename, "rt", encoding="utf-8") as f:
-        record = "\n"
-        while record:
-            record = f.readline()
-            if record and record.split():
-                yield unpack_record(record)
+    try:
+        line_count = 0
+        line_total = sum(1 for line in open(filename))
+        with open(filename, "rt", encoding="utf-8") as f:
+            record = "\n"
+            while record:
+                line_count += 1
+                display_progress(line_count, line_total)
+                record = f.readline()
+                if record and record.split():
+                    yield unpack_record(record)
+
+    except FileNotFoundError:
+        print("ERROR")
 
 
-def get_chunks(filename, code):
-    line_count = 0
-    line_total = sum(1 for line in open(filename))
-
+def get_chunks(filename):
     chars_len = 0 
     terms = []
     texts = []
     for term, text in get_records(filename):
-        line_count = line_count + 1
-        display_progress(line_count, line_total, f" language {code}")
-
-        chars_len = chars_len + len(text) + len(SEPARATOR)
+        chars_len += len(text) + len(SEPARATOR)
         if chars_len > CHARS_MAX:
             yield SEPARATOR.join(terms), SEPARATOR.join(texts)
             chars_len = len(text) + len(SEPARATOR)
@@ -119,41 +124,46 @@ def get_chunks(filename, code):
     yield SEPARATOR.join(terms), SEPARATOR.join(texts)
 
 
-def translate_chunk(translator, text, code):
-    translated = translator(source="auto", target=code).translate(text) if len(text) <= CHARS_MAX else text
-    
+def translate_chunk(engine, text, code):
+    l = ["<b>", "#B", "<i>", "#C", "</b>", "`B", "</i>", "`", "\\n", "#N", "</color>", "#C"]
+
+    for i in range(0, len(l), 2):
+        text = text.replace(l[i], l[i+1])
+
+    translated = engine(source="auto", target=code).translate(text) if len(text) <= CHARS_MAX else text
+
+    for i in range(0, len(l), 2):
+        translated = translated.replace(l[i+1], l[i])
+
     return translated
 
 
 def apply_dictionary(dictionary, text):
-    # r = re.compile(r"<(#|i|b) ?(.*)> (.*) </(.*)>")
-    # text = r.sub(r"<\1\2>\3</\4>", text)
+    # r = re.compile(r"<# ([A-F0-9]*)> (.*) </color>")
+    # text = r.sub(r"<#\1>\2</color>", text)
 
-    r = re.compile(r"<# ([A-F0-9]*)> (.*) </color>")
-    text = r.sub(r"<#\1>\2</color>", text)
+    # r = re.compile(r"<i> (.*) </i>")
+    # text = r.sub(r"<i>$1</i>", text)
 
-    r = re.compile(r"<i> (.*) </i>")
-    text = r.sub(r"<i>$1</i>", text)
+    # r = re.compile(r"<b> (.*) </b>")
+    # text = r.sub(r"<b>$1</b>", text)
 
-    r = re.compile(r"<b> (.*) </b>")
-    text = r.sub(r"<b>$1</b>", text)
+    # text = text.replace("</color> ", "</color>")
 
-    text = text.replace("</color> ", "</color>")
+    # text = text.replace("\\ N", "\\n")
+    # text = text.replace("\\ n", "\\n")
+    # text = text.replace("\\n ", "\\n")
+    # text = text.replace(" \\n", "\\n")
 
-    text = text.replace("\\ N", "\\n")
-    text = text.replace("\\ n", "\\n")
-    text = text.replace("\\n ", "\\n")
-    text = text.replace(" \\n", "\\n")
-
-    for key in dictionary:
-        text = text.replace(key, dictionary[key])
+    # for key in dictionary:
+    #     text = text.replace(key, dictionary[key])
 
     return text
 
 
-def translate(input, output, code, engine, dictionary=None):
+def translate(input, output, code, engine, dictionary=None, api_key=None):
     with open(output, "wt", encoding="utf-8") as f:
-        for terms, texts in get_chunks(input, code):
+        for terms, texts in get_chunks(input):
             translated = translate_chunk(engine, texts, code)
             replaced = apply_dictionary(dictionary, translated)
             replaceds = replaced.split(SEPARATOR)
@@ -163,15 +173,13 @@ def translate(input, output, code, engine, dictionary=None):
 
 def main():
     args = parse_command_line()
-    output = f"Translation-{args.code}.txt"
-    engine = ENGINES[args.engine]
-    dictionary = load_dictionary(args.dict)
     translate(
         args.input, 
-        output,
+        f"Translation-{args.code}.txt",
         args.code, 
-        engine, 
-        dictionary)
+        ENGINES[args.engine], 
+        load_dictionary(args.dict),
+        args.api_key)
 
 
 if __name__ == "__main__":
