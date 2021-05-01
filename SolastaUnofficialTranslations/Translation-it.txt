@@ -4081,9 +4081,9 @@ Rules/&ConditionSeeInvisibilityTitle	Vista dell'invisibilità
 Rules/&ConditionSeverelyWoundedDescription	Morirà presto.
 Rules/&ConditionSeverelyWoundedTitle	Gravemente ferito
 Rules/&ConditionShieldedByFaithDescription	Classe armatura +2.
-Rules/&ConditionShieldedByFaithTitle	Schermato dalla fede
+Rules/&ConditionShieldedByFaithTitle	Scudato dalla fede
 Rules/&ConditionShieldedDescription	La Classe Armatura aumenta di +5 e l'immunità ai missili magici.
-Rules/&ConditionShieldedTitle	Schermato
+Rules/&ConditionShieldedTitle	Scudato
 Rules/&ConditionShockedDescription	Non è possibile utilizzare le reazioni.
 Rules/&ConditionShockedTitle	Scioccato
 Rules/&ConditionSleetStormDescription	Terreno difficile; può cadere prono; pesantemente oscurato; deve eseguire il controllo della concentrazione.
@@ -6547,7 +6547,7 @@ Rules/&ConditionCharmedByAnimalFrienshipTitle	Incantato dall'amicizia animale
 Rules/&ConditionCharmedByAnimalFrienshipDescription	Questa bestia sarà incantata per la durata dell'incantesimo o finché tu o uno dei tuoi compagni non la danneggiate.
 Rules/&ConditionSanctuaryTitle	Santuario
 Rules/&ConditionSanctuaryDescription	Proteggi una creatura entro il raggio dagli attacchi. Fino al termine dell'incantesimo, qualsiasi creatura che bersaglia la creatura protetta con un attacco o un incantesimo dannoso deve effettuare un tiro salvezza su Saggezza o scegliere un altro bersaglio.
-Rules/&ConditionWardedBySanctuaryTitle	Schermato da Sanctuary
+Rules/&ConditionWardedBySanctuaryTitle	Schudato da Santuario
 Rules/&ConditionWardedBySanctuaryDescription	Sei protetto fino al termine dell'incantesimo o finché non lanci un incantesimo o lanci un attacco.
 Location/&Encounter_Hamlet_Title	Frazione
 Location/&Encounter_Hamlet_Description	Un piccolo borgo a lato della strada, come tanti altri nel Principato di Masgarth.
