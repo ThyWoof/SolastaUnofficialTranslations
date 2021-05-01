@@ -416,7 +416,7 @@ CharacterFamily/&BeastTitle	Bestia
 CharacterFamily/&CelestialDescription	I celestiali sono creature originarie dei Piani Superiori. Molti di loro sono servitori di divinità, impiegati come messaggeri o agenti nel regno mortale e in tutti i piani. I celestiali sono buoni per natura, quindi l'eccezionale celeste che si allontana da un buon allineamento è una rarità orribile.
 CharacterFamily/&CelestialTitle	Celeste
 CharacterFamily/&ConstructDescription	I costrutti sono fatti, non nati. Alcuni sono programmati dai loro creatori per seguire una semplice serie di istruzioni, mentre altri sono permeati di sensibilità e capaci di pensiero indipendente.
-CharacterFamily/&ConstructTitle	Costruire
+CharacterFamily/&ConstructTitle	Costrutto
 CharacterFamily/&DragonDescription	I draghi sono grandi creature rettiliane di origine antica e di enorme potere. I veri draghi, inclusi i draghi metallici buoni ei draghi cromatici malvagi, sono molto intelligenti e hanno una magia innata.
 CharacterFamily/&DragonTitle	Drago
 CharacterFamily/&ElementalDescription	Gli elementali sono creature native dei piani elementali. Alcune creature di questo tipo sono poco più che masse animate dei loro rispettivi elementi, incluse le creature chiamate semplicemente elementali. Altri hanno forme biologiche infuse di energia elementale.
@@ -1302,9 +1302,9 @@ Equipment/&WarhammerTypeTitle	Martello da Guerra
 Equipment/&WarpickTypeTitle	Piccone da guerra
 Equipment/&WeaponTagAmmunitionTitle	Munizioni
 Equipment/&WeaponTagFinesseTitle	Accurata
-Equipment/&WeaponTagHeavyTitle	pesante
-Equipment/&WeaponTagLightTitle	Luce
-Equipment/&WeaponTagLoadingTitle	Caricamentoq
+Equipment/&WeaponTagHeavyTitle	Pesante
+Equipment/&WeaponTagLightTitle	Leggero
+Equipment/&WeaponTagLoadingTitle	Caricamento
 Equipment/&WeaponTagReachTitle	Raggiungere
 Equipment/&WeaponTagThrownTitle	Gettato
 Equipment/&WeaponTagTwoHandedTitle	A due mani
@@ -1633,7 +1633,7 @@ Feature/&DomainLawHolyRetributionDescription	Quando un attacco in mischia ti dan
 Feature/&DomainLawHolyRetributionShortTitle	Santa Retribuzione
 Feature/&DomainLawHolyRetributionTitle	Channel Divinity: Holy Retribution
 Feature/&DomainLawUnyieldingEnforcerDescription	Vantaggio sui tiri per resistere a essere spinti o spostati con mezzi magici
-Feature/&DomainLawUnyieldingEnforcerTitle	Enforcer inflessibile
+Feature/&DomainLawUnyieldingEnforcerTitle	Esecutore inflessibile
 Feature/&DomainLawWordOfLawDescription	Spezza la concentrazione magica di un nemico
 Feature/&DomainLawWordOfLawTitle	Parola della Legge
 Feature/&DomainLifeBlessedHealerDescription	Quando lanci un incantesimo di 1 ° livello o superiore che ripristina i punti ferita a una creatura diversa da te, recuperi punti ferita pari a (2 x livello dell'incantesimo).
@@ -1747,14 +1747,14 @@ Feature/&LawkeeperFeatureDescription	Ottieni un accesso più facile alle informa
 Feature/&LawkeeperFeatureTitle	Scudo del Principato
 Feature/&LawkeeperSkillsDescription	Competente nella percezione e nell'intimidazione.
 Feature/&LawkeeperSkillsMartialDescription	Competente con le armi marziali.
-Feature/&LawkeeperSkillsMartialTitle	Enforcer
+Feature/&LawkeeperSkillsMartialTitle	Esecutore
 Feature/&LawkeeperSkillsTitle	Detective
 Feature/&ListSeparatorFinalOrTitle	o 
 Feature/&ListSeparatorFinalTitle	e 
 Feature/&ListSeparatorTitle	, 
 Feature/&LowlifeFeatureDescription	Puoi sentire parlare di missioni secondarie che coinvolgono attività criminali.
 Feature/&LowlifeFeatureTitle	Rete sotterranea
-Feature/&LowlifeSkillsDescription	Competente in giochi di prestigio, furtività e inganno.
+Feature/&LowlifeSkillsDescription	Competente in Rapidità di Mano, Furtività e Inganno.
 Feature/&LowlifeSkillsTitle	Borsaiolo
 Feature/&LowlifeSkillsToolsDescription	Competente con gli strumenti dei ladri.
 Feature/&LowlifeSkillsToolsTitle	Furto con scasso
@@ -2094,7 +2094,7 @@ Feedback/&DeathSaveFailuresAddedLine	{0} fallimento del salvataggio in caso di m
 Feedback/&DeathSaveRegainLifeLine	Grazie a {0}, {1} viene riportato a {2} punti ferita
 Feedback/&DeathSaveSuccessAddedLine	{0} salvataggio in caso di morte riuscito aggiunto a {1}
 Feedback/&DeathSaveSuccessFormat	{0} Successo
-Feedback/&DetectedDefeatFormat	Sei stato rilevato! Usa la modalità prudente la prossima volta.
+Feedback/&DetectedDefeatFormat	Sei stato rilevato! Usa la Modalità Furtivo la prossima volta.
 Feedback/&DeviceAutoIdentifiedLine	Grazie ad una maggiore conoscenza di questo tipo di articolo, {0} ha individuato {1}
 Feedback/&DimLightCaption	Penombra
 Feedback/&DisadvantageRollDescription	Tirare con svantaggio significa tirare due d20 e mantenere il risultato peggiore.
@@ -2104,7 +2104,7 @@ Feedback/&ExperienceGainedLine	{0} guadagna {1} PE
 Feedback/&FragileGroundDetectedFormat	Rilevato terreno fragile
 Feedback/&FragileGroundTrigerredFormat	Terreno fragile rotto
 Feedback/&GameAutoSavedLine	Gioco salvato automaticamente
-Feedback/&GameQuickSavedLine	Gioco salvato rapidamente
+Feedback/&GameQuickSavedLine	Salvataggio Rapido effettuato
 Feedback/&GameSavedLine	Partita salvata
 Feedback/&HiddenObjectRevealedFormat	Oggetto rivelato
 Feedback/&HiddenObjectRevealedLine	{0} ha rivelato un oggetto nascosto
@@ -2744,7 +2744,7 @@ Monster/&SkeletonArcherDescription	Gli scheletri sono animati dalla magia oscura
 Monster/&SkeletonArcherTitle	Arciere scheletro
 Monster/&SkeletonDescription	Gli scheletri sono animati dalla magia oscura. Un tempo erano creature viventi, ma ora sono gusci vuoti di odio, emersi da tombe o campi di battaglia e assetati di vita ... da uccidere.
 Monster/&SkeletonEnforcer_Description	Una potente creatura non morta armata con un'ascia e uno scudo.
-Monster/&SkeletonEnforcer_Title	Skeletal Enforcer
+Monster/&SkeletonEnforcer_Title	Scheletro Esecutore
 Monster/&SkeletonKnight_Description	Una potente creatura non morta, creata rianimando un cavaliere morto.
 Monster/&SkeletonKnight_Title	Cavaliere scheletrico
 Monster/&SkeletonSorcerer_Description	Una potente creatura non morta con poteri necromantici.
@@ -2769,7 +2769,7 @@ Monster/&SpectralSpiderTitle	Ragno spettrale
 Monster/&SpiderDescription	Più grande del tuo solito ragno domestico, questa creatura è piuttosto pericolosa.
 Monster/&SpiderTitle	Ragno delle Badlands
 Monster/&Spy_Description	Un ladro senza legge addestrato a spiare e uccidere per i ricchi padroni.
-Monster/&Spy_Title	Spiare
+Monster/&Spy_Title	Spia
 Monster/&Thug_Description	I teppisti sono spietati esecutori abili nell'intimidazione e nella violenza. Lavorano per soldi e hanno pochi scrupoli.
 Monster/&Thug_Title	Thug
 Monster/&TigerDrake_Description	Un grande serpente volante con un terribile veleno nelle zanne.
@@ -3514,7 +3514,7 @@ Quest/&Tutorial_01_Quest_Take Your StuffTitle	Recupera la tua attrezzatura dal f
 Quest/&Tutorial_01_Title	Fuggi dalla prigione dei banditi
 Quest/&Tutorial_02_2_Title	Guarisci te stesso
 Quest/&Tutorial_02_Quest_Cautious_Outcome1Description	Hai trovato il meccanismo che apre la porta!
-Quest/&Tutorial_02_Quest_CautiousDescription	Usa la modalità prudente per oltrepassare gli orchi e scoprire come aprire la porta. Se rimani su un terreno più elevato, non ti individueranno.
+Quest/&Tutorial_02_Quest_CautiousDescription	Usa la Modalità Furtivo per oltrepassare gli orchi e scoprire come aprire la porta. Se rimani su un terreno più elevato, non ti individueranno.
 Quest/&Tutorial_02_Quest_CautiousTitle	Supera gli Orchi e attiva il meccanismo
 Quest/&Tutorial_02_Quest_FindExit_Outcome_Description	Hai trovato l'accampamento degli orchi!
 Quest/&Tutorial_02_Quest_FindExitDescription	Apri la porta ed esplora ulteriormente. Sii prudente, però! Gli orchi potrebbero essere in giro.
@@ -3546,20 +3546,20 @@ Quest/&Tutorial_02_Quest_WaitDescription	Riposati a lungo per aspettare fino a n
 Quest/&Tutorial_02_Quest_WaitTitle	Aspetta che gli Orchi se ne vadano
 Quest/&Tutorial_02_Title	Lascia la caverna
 Quest/&Tutorial_03_Quest_Enter the fort_Outcome1Description	Sei entrato nel forte dello strozzino! Muoviti con cautela!
-Quest/&Tutorial_03_Quest_Enter the fortDescription	Usa la modalità prudente per trovare le tracce che portano al punto debole nel muro. Quindi entra nel forte strisciando attraverso il buco, se necessario. Lungo la strada, puoi raccogliere gli strumenti dei ladri che Liam ha lasciato vicino al muro del forte.
+Quest/&Tutorial_03_Quest_Enter the fortDescription	Usa la Modalità Furtivo per trovare le tracce che portano al punto debole nel muro. Quindi entra nel forte strisciando attraverso il buco, se necessario. Lungo la strada, puoi raccogliere gli strumenti dei ladri che Liam ha lasciato vicino al muro del forte.
 Quest/&Tutorial_03_Quest_Enter the fortTitle	Entra nel forte
 Quest/&Tutorial_03_Quest_EnterRoom_Outcome1Description	Hai aperto la stanza del tesoro! 
 Quest/&Tutorial_03_Quest_EnterRoomDescription	Usa la chiave del quartiermastro o scassina la serratura.
 Quest/&Tutorial_03_Quest_EnterRoomTitle	Entra nella stanza del tesoro
 Quest/&Tutorial_03_Quest_EscapeFort_Outcome1Description	Hai salvato Liam e recuperato la spada della sua famiglia!
 Quest/&Tutorial_03_Quest_EscapeFort2Title	Fuga dal forte
-Quest/&Tutorial_03_Quest_EscapeFortDescription	Rimani in modalità prudente e torna indietro fino a quando non esci dal muro del forte.
+Quest/&Tutorial_03_Quest_EscapeFortDescription	Rimani in Modalità Furtivo e torna indietro fino a quando non esci dal muro del forte.
 Quest/&Tutorial_03_Quest_EscapeFortTitle	Fuga dal forte
 Quest/&Tutorial_03_Quest_Find the treasure room_Outcome1Description	Hai disarmato la trappola a pavimento!
-Quest/&Tutorial_03_Quest_Find the treasure roomDescription	Salite attraverso la finestra e controllate il posto per le trappole, rimanendo in modalità prudente. Disarmare ogni trappola che trovi.
+Quest/&Tutorial_03_Quest_Find the treasure roomDescription	Salite attraverso la finestra e controllate il posto per le trappole, rimanendo in Modalità Furtivo. Disarmare ogni trappola che trovi.
 Quest/&Tutorial_03_Quest_Find the treasure roomTitle	Trova la stanza del tesoro
 Quest/&Tutorial_03_Quest_GetSword_Outcome1Description	Hai ripreso la gemma di Liam! Torna sui tuoi passi e fuggi!
-Quest/&Tutorial_03_Quest_GetSwordDescription	Rimani in modalità prudente per rilevare la trappola sul petto, disarmarla e scassinare la serratura. Apri la cassa e prendi la spada.
+Quest/&Tutorial_03_Quest_GetSwordDescription	Rimani in Modalità Furtivo per rilevare la trappola sul petto, disarmarla e scassinare la serratura. Apri la cassa e prendi la spada.
 Quest/&Tutorial_03_Quest_GetSwordTitle	Ottieni la gemma di Liam
 Quest/&Tutorial_03_Quest_PickDoor_Outcome1Description	Hai aperto la porta.
 Quest/&Tutorial_03_Quest_PickDoorDescription	Avvicinati alla porta chiusa e scassina la serratura. Avrai bisogno degli strumenti dei ladri per questo.
@@ -5198,7 +5198,7 @@ Spell/&FlamingSphereTitle	Sfera fiammeggiante
 Spell/&FlyDescription	Un alleato che tocchi ottiene la capacità di volare per un tempo limitato.
 Spell/&FlyTitle	Volare
 Spell/&FogCloudDescription	Genera una sfera di nebbia spessa per un tempo limitato.
-Spell/&FogCloudTitle	Nebbia Cloud
+Spell/&FogCloudTitle	Nube di Nebbia
 Spell/&GlyphOfWardingDescription	Crea una trappola magica fissa.
 Spell/&GlyphOfWardingTitle	Glifo di Warding
 Spell/&GuidanceDescription	Aumenta le prove di abilità di un alleato per un periodo di tempo limitato.
@@ -5253,7 +5253,7 @@ Spell/&MagicWeaponTitle	Arma magica
 Spell/&MassHealingWordDescription	Cura istantaneamente fino a sei alleati che puoi vedere.
 Spell/&MassHealingWordTitle	Parola di guarigione di massa
 Spell/&MistyStepDescription	Ti teletrasporta in una cella libera che puoi vedere, a non più di 6 celle di distanza.
-Spell/&MistyStepTitle	Misty Step
+Spell/&MistyStepTitle	Passo Velato
 Spell/&PassWithoutTraceDescription	Rendi più furtivi te stesso e fino a 5 alleati per un'ora.
 Spell/&PassWithoutTraceTitle	Passa senza traccia
 Spell/&PoisonSprayDescription	Spara uno spray velenoso a un nemico che puoi vedere, nel raggio d'azione.
@@ -5594,7 +5594,7 @@ Subclass/&TraditionLoremasterTitle	Loremaster
 Subclass/&TraditionShockArcanistDescription	Gli Shock Arcanisti erano i maghi da battaglia dell'Impero di Manacalon. I loro insegnamenti sono sopravvissuti al Cataclisma per diventare una rinomata e temuta tradizione magica, insegnata in tutte le principali scuole di magia.
 Subclass/&TraditionShockArcanistTitle	Shock Arcanist
 TerrainType/&ArcticDescription	Le aree di neve o permafrost sono considerate terreno artico. 
-TerrainType/&ArcticTitle	artico
+TerrainType/&ArcticTitle	Artico
 TerrainType/&BadlandsDescription	La maggior parte delle aree che coprono le ex province interne dell'Impero di Manacalon, ora un mix selvaggio di vari tipi di terreno con manifestazioni caotiche di magia post-Cataclisma, sono considerate terreni delle Badlands.
 TerrainType/&CoastDescription	Le aree che contengono una linea costiera sono considerate terreno costiero.
 TerrainType/&CoastTitle	Costa
@@ -5602,7 +5602,7 @@ TerrainType/&DablandsTitle	Badlands
 TerrainType/&DesertDescription	Le aree aride con poca o nessuna pioggia e vegetazione minima sono considerate terreno desertico.
 TerrainType/&DesertTitle	Deserto
 TerrainType/&ForestDescription	Le aree con vegetazione lussureggiante e ampie aree di bosco sono considerate terreno forestale.
-TerrainType/&ForestTitle	foresta
+TerrainType/&ForestTitle	Foresta
 TerrainType/&GrasslandDescription	Le aree con foreste rare e vaste aree di pianure verdi sono considerate terreni erbosi.
 TerrainType/&GrasslandTitle	Prateria
 TerrainType/&MountainDescription	Le aree con terreno roccioso, colline e montagne sono considerate terreno di montagna.
@@ -5626,7 +5626,7 @@ Tip/&LoadingTip16	Ogni personaggio del giocatore può usare una reazione una vol
 Tip/&LoadingTip17	Alcuni personaggi o mostri possono attaccare più di una volta per turno e possono spostarsi tra gli attacchi.
 Tip/&LoadingTip18	Spingere può spingere via un nemico di una cella o metterlo giù finché non si alza. Anche i nemici possono spingere.
 Tip/&LoadingTip19	Schivare è una difesa potente anche se utilizza la tua azione principale: i nemici hanno svantaggio nel colpirti per il resto del tuo turno.
-Tip/&LoadingTip20	Passa alla modalità prudente durante l'esplorazione. Sarai lento, ma più in grado di notare trappole e passi.
+Tip/&LoadingTip20	Passa alla Modalità Furtivo durante l'esplorazione. Sarai lento, ma più in grado di notare trappole e passi.
 Tip/&LoadingTip21	In combattimento, puoi muoverti normalmente e poi scattare come azione principale per arrivare il doppio.
 Tip/&LoadingTip22	La maggior parte dei personaggi può saltare due celle senza problemi. I salti più lunghi richiedono forza e la competenza con l'Atletica aiuta molto. Hai sempre la possibilità di cadere prono quando atterri se salti lontano.
 Tip/&LoadingTip23	La maggior parte dei personaggi può arrampicarsi su due celle senza problemi. Arrampicare più in alto richiede forza e la competenza con l'atletica leggera aiuta molto. Alcuni personaggi, come i ladri o i tessitori oscuri, hanno capacità di arrampicata superiori.
@@ -5708,7 +5708,7 @@ Tooltip/&LightingDimFormat	In penombra
 Tooltip/&LightingTargetBrightFormat	{0} è in piena luce
 Tooltip/&LightingTargetDarknessFormat	{0} è nell'oscurità
 Tooltip/&LightingTargetDimFormat	{0} è in condizioni di scarsa illuminazione
-Tooltip/&LightingTargetUnlitFormat	{0} è spento.
+Tooltip/&LightingTargetUnlitFormat	{0} è al Buio.
 Tooltip/&LightingUnlitFormat	Spento
 Tooltip/&LightSourceEffectsTitle	Effetti luminosi
 Tooltip/&NotProficientFormat	{0} non è competente con questo oggetto e non può equipaggiarlo.
@@ -5909,7 +5909,7 @@ TutorialSection/&ExplorationTitle	Esplorazione
 TutorialSection/&InventoryTitle	Inventario
 TutorialStep/&BattleCameraDescription	Durante le battaglie, puoi spostare la visuale usando WASD, o spostando il puntatore del mouse sui bordi dello schermo o muovendo il mouse mentre premi il pulsante centrale.\n\nRuota la visuale nello stesso modo in cui fai durante l'esplorazione.
 TutorialStep/&BattleCameraTitle	Controllo della telecamera in battaglia
-TutorialStep/&CautiousModeDescription	L'attivazione della modalità prudente ti fa muovere più lentamente, ma ti garantisce due vantaggi: presti particolare attenzione agli oggetti nascosti e alle trappole e ti muovi in ​​modo furtivo.\nQuando un nemico inizia a notare la tua presenza, un indicatore si riempie sopra la sua testa, dandoti il ​​tempo di reagire e tornare a nascondersi.
+TutorialStep/&CautiousModeDescription	L'attivazione della modalità Furtivo ti fa muovere più lentamente, ma ti garantisce due vantaggi: presti particolare attenzione agli oggetti nascosti e alle trappole e ti muovi in ​​modo furtivo.\nQuando un nemico inizia a notare la tua presenza, un indicatore si riempie sopra la sua testa, dandoti il ​​tempo di reagire e tornare a nascondersi.
 TutorialStep/&CautiousModeTitle	Modalità Furtiva
 TutorialStep/&ConfigWeapons2Description	Puoi modificare le scorciatoie nel tuo inventario.\nTrascina e rilascia un'arma, uno scudo o un altro oggetto su uno slot per le mani per cambiare la scorciatoia.
 TutorialStep/&ConfigWeapons2Title	Cambia scorciatoie per le armi
@@ -5923,7 +5923,7 @@ TutorialStep/&InventorySpaceDescription	I tuoi personaggi possono portare fino a
 TutorialStep/&InventorySpaceTitle	Gestione delle scorte
 TutorialStep/&LightingDescription	A Solasta esplorerai luoghi profondi e bui senza fonti di luce naturale. Rende l'esplorazione e il combattimento più difficili, soprattutto per i personaggi senza Scurovisione.\n\nPuoi equipaggiare torce o lanciare incantesimi di luce per rivelare il tuo ambiente a tutto il tuo gruppo.
 TutorialStep/&LightingTitle	Illuminazione e sorgenti luminose
-TutorialStep/&MechanismsDescription	A volte, dovrai trovare un oggetto interattivo per sbloccare un passaggio o attivare un sistema.\nEsplora, usa la modalità prudente per aumentare le tue possibilità di rilevamento e cerca l'icona di un ingranaggio che indica una possibile interazione.\nQuindi tocca a te: attiva o no?
+TutorialStep/&MechanismsDescription	A volte, dovrai trovare un oggetto interattivo per sbloccare un passaggio o attivare un sistema.\nEsplora, usa la modalità Furtivo per aumentare le tue possibilità di rilevamento e cerca l'icona di un ingranaggio che indica una possibile interazione.\nQuindi tocca a te: attiva o no?
 TutorialStep/&MechanismsTitle	Oggetti interattivi
 TutorialStep/&MovingCharactersDescription	Fai clic con il pulsante sinistro del mouse su una destinazione sul terreno per spostare i personaggi selezionati in quella posizione.\n\nLa fotocamera li segue automaticamente.\n\nIl cursore indica se stai mirando a una posizione non valida.
 TutorialStep/&MovingCharactersTitle	Personaggi in movimento
@@ -6062,8 +6062,8 @@ TutorialStep/&Tuto01_Refocus_Description	Dopo aver spostato la telecamera per es
 TutorialStep/&Tuto01_Refocus_Title	Centra su un personaggio
 TutorialStep/&Tuto01_Selection_Description	Seleziona il tuo personaggio facendo clic sul personaggio nella vista 3D o sul ritratto del personaggio. Per selezionare l'intera festa, usa il pulsante Seleziona tutto nella parte inferiore del display verticale. Puoi anche trascinare un rettangolo attorno a uno o più caratteri per selezionarli.\n\nPer spostarti, fai clic con il pulsante sinistro del mouse sulla destinazione. Le destinazioni valide mostrano un indicatore di round quando ci passi il mouse sopra. Le destinazioni non valide mostrano un segno "vietato".
 TutorialStep/&Tuto01_Selection_Title	Selezione del personaggio e movimento di base
-TutorialStep/&Tuto02_Cautious_Stealth_Description	L'attivazione della modalità prudente ti rende più lento, ma garantisce due vantaggi: gli oggetti nascosti e le trappole sono più facili da trovare e per i nemici è più difficile individuarli.\nQuando un nemico inizia a notare la tua presenza, un indicatore appare sopra la sua testa, dandoti il ​​tempo di reagire e tornare a nasconderti.\nRimani 3 caselle sopra il nemico in questa modalità e non puoi essere rilevato.
-TutorialStep/&Tuto02_Cautious_Stealth_Title	Modalità prudente
+TutorialStep/&Tuto02_Cautious_Stealth_Description	L'attivazione della modalità Furtivo ti rende più lento, ma garantisce due vantaggi: gli oggetti nascosti e le trappole sono più facili da trovare e per i nemici è più difficile individuarli.\nQuando un nemico inizia a notare la tua presenza, un indicatore appare sopra la sua testa, dandoti il ​​tempo di reagire e tornare a nasconderti.\nRimani 3 caselle sopra il nemico in questa modalità e non puoi essere rilevato.
+TutorialStep/&Tuto02_Cautious_Stealth_Title	Modalità Furtivo
 TutorialStep/&Tuto02_Healing_Description	Se il tuo personaggio può lanciare incantesimi curativi (come un chierico, per esempio), premi il pulsante Lancia incantesimo e seleziona un incantesimo per recuperare i punti ferita persi.\n\nPuoi anche usare una pozione trovata nel bottino vicino. Apri l'inventario e fai clic con il pulsante destro del mouse sulla pozione per usarla.
 TutorialStep/&Tuto02_Healing_Title	Guarigione
 TutorialStep/&Tuto02_Light_Up_Description	Puoi accendere oggetti infiammabili, come torce sui supporti, interagendo con essi mentre impugni una torcia o lanciando un incantesimo fiammeggiante su di essi, come il trucchetto <i>Dardo di fuoco </i>.
@@ -6072,9 +6072,9 @@ TutorialStep/&Tuto02_Rest_Description	Per recuperare punti ferita, abilità spec
 TutorialStep/&Tuto02_Rest_Title	Riposati a lungo
 TutorialStep/&Tuto02_Search_Around_Description	Esplora l'area e trova un meccanismo per aprire la porta.\n\nGli oggetti interattivi vengono evidenziati quando ci passi sopra con il mouse e il cursore si trasforma in un'icona esplicativa.
 TutorialStep/&Tuto02_Search_Around_Title	Meccanismi
-TutorialStep/&Tuto03_Cautious_Description	Usa la modalità prudente per muoverti furtivamente. I nemici possono sentirti se attraversano il tuo cerchio di rumore e ti individueranno non appena esci dalla modalità prudente.\n\nIl tuo cerchio di rumore dipende dal tipo di armatura e dalla tua abilità furtiva. Inoltre, è una buona idea evitare di entrare nel campo visivo di un nemico mentre si trasporta una fonte di luce.
+TutorialStep/&Tuto03_Cautious_Description	Usa la modalità Furtivo per muoverti furtivamente. I nemici possono sentirti se attraversano il tuo cerchio di rumore e ti individueranno non appena esci dalla modalità Furtivo.\n\nIl tuo cerchio di rumore dipende dal tipo di armatura e dalla tua abilità furtiva. Inoltre, è una buona idea evitare di entrare nel campo visivo di un nemico mentre si trasporta una fonte di luce.
 TutorialStep/&Tuto03_Cautious_Title	Invisibile
-TutorialStep/&Tuto03_Cautious2_Description	Rimani in modalità prudente per tutta la durata di questa missione.\n\nDevi effettuare un controllo di furtività se tenti di interagire con un oggetto mentre sei nel raggio di udito di un nemico, come aprire una porta o un forziere o persino borseggiare, e lo farai rimani inosservato solo se ci riesci. La modalità prudente consente anche di trovare e seguire le tracce.
+TutorialStep/&Tuto03_Cautious2_Description	Rimani in modalità Furtivo per tutta la durata di questa missione.\n\nDevi effettuare un controllo di furtività se tenti di interagire con un oggetto mentre sei nel raggio di udito di un nemico, come aprire una porta o un forziere o persino borseggiare, e lo farai rimani inosservato solo se ci riesci. La Modalità Furtivo consente anche di trovare e seguire le tracce.
 TutorialStep/&Tuto03_Cautious2_Title	Invisibile
 TutorialStep/&Tuto03_Disarm_Description	Per disarmare una trappola, devi prima rilevarla. Se provi ad aprire o scassinare una cassa con una trappola che non hai rilevato, scoprirai la trappola solo quando la farai scattare!\n\nPer provare a disarmare una trappola, passa il mouse su di essa e lascia- clic. Dovrai effettuare un controllo di Destrezza con successo. Gli strumenti dei ladri ti aiuteranno, se sei esperto con loro.
 TutorialStep/&Tuto03_Disarm_Title	Trappole disarmanti
@@ -6161,7 +6161,7 @@ Quest/&Tower_Of_Magic_Quest_Rune3_Outcome1Description	Hai trovato e attivato la 
 Quest/&Tower_Of_Magic_Quest_Rune4Title	Attiva la quarta runa
 Quest/&Tower_Of_Magic_Quest_Rune4Description	Trova e attiva la runa.
 Quest/&Tower_Of_Magic_Quest_Rune4_Outcome1Description	Hai trovato e attivato la runa.
-Quest/&Tower_Of_Magic_Quest_OrbeTitle	Attiva l'Orb
+Quest/&Tower_Of_Magic_Quest_OrbeTitle	Attiva la Sfera
 Quest/&Tower_Of_Magic_Quest_OrbeDescription	Dopo aver acceso tutte le rune, hai visto apparire una sfera magica. Attivalo.
 Quest/&Tower_Of_Magic_Quest_Orbe_Outcome1Description	Dopo aver acceso tutte le rune, hai visto apparire una sfera magica. L'hai attivato e hai aperto la via d'uscita dalla biblioteca!
 Message/&WaitForLongRestDescription	Hai già eseguito un riposo lungo oggi. Vorresti aspettare l'inizio di un nuovo giorno?
@@ -7290,7 +7290,7 @@ Equipment/&ChimeOfOpening_Unidentified_Title	Silver Chime
 Equipment/&ChimeOfOpening_Unidentified_Description	Un bel carillon d'argento con incise minuscole rune elfiche.
 Equipment/&BracersOfArcheryDescription	Uno dei preferiti delle pattuglie di confine di Colthannin. 
 NPC/&NPC_Maid_Title	domestica
-Modal/&DefeatStealthDescription	Sei stato rilevato durante una fase di furtività critica! Usa la modalità prudente e muoviti con cautela.
+Modal/&DefeatStealthDescription	Sei stato rilevato durante una fase di furtività critica! Usa la Modalità Furtivo e muoviti con cautela.
 Map/&Location_AbjurationWizardTower_Description	Kythaela ti ha finalmente condotto in questo luogo, una torre dei maghi di Manacalon, apparentemente perfettamente conservata e protetta dalla magia, mentre i suoi dintorni erano devastati dal Cataclisma.
 Map/&Location_AbjurationWizardTower_Title	Torre del mago
 Map/&Location_AbjurationWizardTower_UnchartedDescription	Non dovrebbe essere visualizzato
@@ -8463,7 +8463,7 @@ Quest/&PickupQuest_12_HallowedDead_02_OUTCOME	Hai detto al Ceannard che le Sale 
 Quest/&PickupQuest_12_HallowedDead_Plaque_01	Qui giacciono i santificati morti del sussurro silenzioso. Dalle ombre che guardavano, dalle ombre che sussurravano e dalle ombre che colpivano! Abbastanza spesso, i nostri nemici ci vedevano arrivare troppo tardi, grazie al lavoro instancabile dei sussurratori. Mai alla luce, tranne alla fine, dove vengono ricordati tra i morti consacrati, Caduti per l'Impero!
 Quest/&PickupQuest_12_HallowedDead_Plaque_02	Qui giacciono i Santi Consacrati Morti delle Legioni di Ferro. La potenza delle Legioni era il pugno di ferro dell'Impero. Come il ferro, erano forgiati. Nel crogiolo della battaglia, furono messi alla prova più e più volte e non furono mai trovati mancanti. I più coraggiosi, rischiando la vita e l'incolumità per l'Impero, per i loro fratelli e sorelle e per il loro onore, nella certezza che le loro gesta sarebbero state ricordate nelle cronache della storia e nelle Sale!
 Quest/&PickupQuest_12_HallowedDead_Plaque_03	Qui giacciono i Consacrati Morti dell'Arcano. Mana era il cuore di Manacalon e nessuna delle vittorie delle Legioni è stata ottenuta senza l'aiuto dell'Arcano! I nostri Loremasters hanno studiato i nostri nemici, i nostri arcanisti shock si sono uniti alla mischia! Persino i nostri maghi di corte si sono guadagnati il ​​loro posto nelle Sale con la loro disinteressata devozione al dovere, abbastanza spesso a costo della propria vita!
-Quest/&Tutorial_04_Quest_GetKeyDescription	FACOLTATIVO: Evita se non sei un ladro o un ranger! Rimani in modalità prudente e avvicinati al quartiermastro. Ruba la chiave e torna indietro per scalare il muro che conduce alla torre. Devi essere abile nel gioco di prestigio per farlo.
+Quest/&Tutorial_04_Quest_GetKeyDescription	FACOLTATIVO: Evita se non sei un ladro o un ranger! Rimani in Modalità Furtivo e avvicinati al quartiermastro. Ruba la chiave e torna indietro per scalare il muro che conduce alla torre. Devi essere abile nel gioco di prestigio per farlo.
 Quest/&Tutorial_04_Quest_GetKeyMainTitle	Ottieni la chiave
 Quest/&Tutorial_04_Quest_GetKeyTitle	FACOLTATIVO: rubare la chiave
 Quest/&Subquest_Acolyte_Quest_Title	Apostasia
@@ -8867,8 +8867,8 @@ Equipment/&ScrollMagicWeaponTitle	Pergamena dell'arma magica
 Equipment/&ScrollMagicWeaponDescription	Quando usi questa pergamena, lanci l'incantesimo Arma magica.
 Equipment/&ScrollMirrorImageTitle	Scorrimento dell'immagine speculare
 Equipment/&ScrollMirrorImageDescription	Quando usi questo rotolo, lanci l'incantesimo Immagine speculare.
-Equipment/&ScrollMistyStepTitle	Pergamena di Misty Step
-Equipment/&ScrollMistyStepDescription	Quando usi questa pergamena, lanci l'incantesimo Misty Step.
+Equipment/&ScrollMistyStepTitle	Pergamena di Passo Velato
+Equipment/&ScrollMistyStepDescription	Quando usi questa pergamena, lanci l'incantesimo Passo Velato.
 Equipment/&ScrollRayOfEnfeeblementTitle	Pergamena del raggio di indebolimento
 Equipment/&ScrollRayOfEnfeeblementDescription	Quando usi questa pergamena, lanci l'incantesimo Ray Of Enfeeblement.
 Equipment/&ScrollSeeInvisibilityTitle	Scroll of See Invisibility
