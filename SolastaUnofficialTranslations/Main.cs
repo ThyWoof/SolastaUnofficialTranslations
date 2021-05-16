@@ -87,11 +87,12 @@ namespace SolastaUnofficialTranslations
 
         internal static void ExportTerms(int languageIndex, String code)
         {
+            System.IO.Directory.CreateDirectory($@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{OUT}{code}");
             foreach (var category in languageSourceData.GetCategories())
             {
                 if (!category.Contains(":"))
                 {
-                    var outputFilename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{OUT}{category}-{code}{EXT}";
+                    var outputFilename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{OUT}{code}/{OUT}{category}-{code}{EXT}";
                     using (var sw = new StreamWriter(outputFilename))
                         foreach (var termName in languageSourceData.GetTermsList(category))
                         {
