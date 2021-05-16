@@ -17,7 +17,7 @@ namespace SolastaUnofficialTranslations
 { 
     struct LanguageEntry
     {
-        public string code, text, file;
+        public string code, text, directory;
     }
 
     static class Language
@@ -26,34 +26,35 @@ namespace SolastaUnofficialTranslations
         const String OUT = "Export-";
         const String EXT = ".txt";
 
-        private static readonly LanguageSourceData languageSourceData = LocalizationManager.Sources[0];
+        public static readonly LanguageSourceData languageSourceData = LocalizationManager.Sources[0];
 
         private static readonly List<LanguageEntry> languages = new List<LanguageEntry>();
 
         private static void Error(string msg) => Main.Error(msg);
 
-        public static void LoadLanguages()
+        public static void LoadOfficialLanguages() => languageSourceData.LoadAllLanguages();
+
+        public static void LoadCustomLanguages()
         {
             CultureInfo[] cultureInfos = CultureInfo.GetCultures(CultureTypes.AllCultures);
             DirectoryInfo directoryInfo = new DirectoryInfo($@"{UnityModManager.modsPath}/{typeof(Main).Namespace}");
-            FileInfo[] files = directoryInfo.GetFiles($"{IN}*{EXT}");
+            DirectoryInfo[] directories = directoryInfo.GetDirectories($"{IN}??");
 
-            languageSourceData.LoadAllLanguages();
-
-            foreach (var file in files)
+            foreach (var directory in directories)
             {
-                var code = file.Name.Substring(IN.Length, file.Name.Length - IN.Length - EXT.Length);
+
+                var code = directory.Name.Substring(IN.Length, directory.Name.Length - IN.Length);
                 var cultureInfo = cultureInfos.First<CultureInfo>(o => o.Name == code);
                 if (cultureInfo == null)
-                    Error($"unrecognized language {code} on {file.Name}");
+                    Error($"unrecognized language {code} on {directory.Name}");
                 else if (LocalizationManager.HasLanguage(cultureInfo.DisplayName))
-                    Error($"language {code} from {file.Name} already in game");
+                    Error($"language {code} from {directory.Name} already in game");
                 else
                     languages.Add(new LanguageEntry()
                     {
                         code = code,
                         text = cultureInfo.TextInfo.ToTitleCase(cultureInfo.NativeName),
-                        file = file.Name
+                        directory = directory.Name
                     });
             }
         }
@@ -62,7 +63,7 @@ namespace SolastaUnofficialTranslations
 
         public static int Count() => languages.Count;
 
-        public static void LoadTerms()
+        public static void LoadCustomTerms()
         {
             // load new language terms
             foreach (var language in languages)
@@ -72,17 +73,32 @@ namespace SolastaUnofficialTranslations
                 var languageIndex = languageSourceData.GetLanguageIndex(language.text);
 
                 // add terms
-                var inputFilename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{language.file}";
-                using (var sr = new StreamReader(inputFilename))
+                DirectoryInfo directoryInfo = new DirectoryInfo($@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{language.directory}");
+                FileInfo[] files = directoryInfo.GetFiles($"*{EXT}");
+                foreach (var file in files)
                 {
-                    String line;
-                    while ((line = sr.ReadLine()) != null)
+                    string filename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{language.directory}/{file.Name}";
+                    using (var sr = new StreamReader(filename))
                     {
-                        var splitted = line.Split(new[] { '\t', ' ' }, 2);
-                        languageSourceData.AddTerm(splitted[0]).Languages[languageIndex] = splitted[1].Trim();
+                        String line;
+                        while ((line = sr.ReadLine()) != null)
+                        {
+                            var splitted = line.Split(new[] { '\t', ' ' }, 2);
+                            languageSourceData.AddTerm(splitted[0]).Languages[languageIndex] = splitted[1].Trim();
+                        }
                     }
                 }
             }
+        }
+
+        internal static string FixCategory(string category)
+        {
+            if (category == "MonsterAttack")
+                return "MonsterAttacks";
+            else if (category == "Environment Effect")
+                return "EnvironmentEffect";
+            else
+                return category;
         }
 
         internal static void ExportTerms(int languageIndex, String code)
@@ -92,7 +108,8 @@ namespace SolastaUnofficialTranslations
             {
                 if (!category.Contains(":"))
                 {
-                    var outputFilename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{OUT}{code}/{OUT}{category}-{code}{EXT}";
+                    var fixedCategory = FixCategory(category);
+                    var outputFilename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{OUT}{code}/{OUT}{fixedCategory}-{code}{EXT}";
                     using (var sw = new StreamWriter(outputFilename))
                         foreach (var termName in languageSourceData.GetTermsList(category))
                         {
@@ -120,8 +137,9 @@ namespace SolastaUnofficialTranslations
                 Logger = modEntry.Logger;
                 modEntry.OnGUI = OnGUI;
 
-                Language.LoadLanguages();
-                Language.LoadTerms();
+                Language.LoadOfficialLanguages();
+                Language.LoadCustomLanguages();
+                Language.LoadCustomTerms();
 
                 var harmony = new Harmony(modEntry.Info.Id);
                 harmony.PatchAll(Assembly.GetExecutingAssembly());
@@ -137,7 +155,7 @@ namespace SolastaUnofficialTranslations
 
         static void OnGUI(UnityModManager.ModEntry modEntry)
         {
-            var languageSourceData = LocalizationManager.Sources[0];
+            var languageSourceData = Language.languageSourceData;
             foreach(var languageData in languageSourceData.mLanguages)
                 if (GUILayout.Button($"Export {languageData.Name}"))
                 {

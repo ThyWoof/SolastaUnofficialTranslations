@@ -10,7 +10,7 @@ import argparse
 import os
 import re
 import sys
-from deep_translator import GoogleTranslator, MicrosoftTranslator, DeepL
+from deep_translator import GoogleTranslator, MicrosoftTranslator
 
 
 CHARS_MAX = 5000
@@ -38,7 +38,7 @@ def parse_command_line():
                         help='api key for engines that require it')
     my_parser.add_argument('-e', '--engine',
                         type=str,
-                        choices=['Microsoft', 'Google', 'DeepL'],
+                        choices=['Microsoft', 'Google'],
                         default='Google',
                         help='translator engine to use')
 
@@ -81,7 +81,7 @@ def unpack_record(record):
     term = ""
     text = ""
     try:
-        (term, text) = record.split(" ", 1)
+        (term, text) = record.split("\t", 1)
         text = text.strip()
     except:
         term = record
@@ -125,7 +125,7 @@ def get_chunks(filename):
 
 
 def translate_chunk(engine, text, code):
-    l = ["<b>", "#B", "<i>", "#C", "</b>", "`B", "</i>", "`", "\\n", "#N", "</color>", "#C"]
+    l = ["<b>", "#B", "<i>", "#C", "</b>", "`B", "</i>", "`I", "\\n", "#N", "</color>", "#C"]
 
     for i in range(0, len(l), 2):
         text = text.replace(l[i], l[i+1])
@@ -168,14 +168,14 @@ def translate(input, output, code, engine, dictionary=None, api_key=None):
             replaced = apply_dictionary(dictionary, translated)
             replaceds = replaced.split(SEPARATOR)
             for term in terms.split(SEPARATOR):
-                f.write(f"{term} {replaceds.pop(0)}\n")
+                f.write(f"{term}\t{replaceds.pop(0)}\n")
 
 
 def main():
     args = parse_command_line()
     translate(
-        args.input, 
-        f"Translation-{args.code}.txt",
+        args.input,
+        f"{args.input[0:-6]}{args.code}.txt",
         args.code, 
         ENGINES[args.engine], 
         load_dictionary(args.dict),
