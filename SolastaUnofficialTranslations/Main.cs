@@ -97,6 +97,8 @@ namespace SolastaUnofficialTranslations
                 return "MonsterAttacks";
             else if (category == "Environment Effect")
                 return "EnvironmentEffect";
+            else if (category == "Equipement")
+                return "Equipment";
             else
                 return category;
         }
@@ -109,7 +111,7 @@ namespace SolastaUnofficialTranslations
                 if (!category.Contains(":"))
                 {
                     var fixedCategory = FixCategory(category);
-                    var outputFilename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{OUT}{code}/{OUT}{fixedCategory}-{code}{EXT}";
+                    var outputFilename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{OUT}{code}/{fixedCategory}-{code}{EXT}";
                     using (var sw = new StreamWriter(outputFilename))
                         foreach (var termName in languageSourceData.GetTermsList(category))
                         {
@@ -157,7 +159,7 @@ namespace SolastaUnofficialTranslations
         {
             var languageSourceData = Language.languageSourceData;
             foreach(var languageData in languageSourceData.mLanguages)
-                if (GUILayout.Button($"Export {languageData.Name}"))
+                if(languageData.IsEnabled() && GUILayout.Button($"Export {languageData.Name}"))
                 {
                     Language.ExportTerms(languageSourceData.GetLanguageIndex(languageData.Name), languageData.Code);
                 }
