@@ -114,18 +114,13 @@ def get_chunks(filename):
     yield SEPARATOR.join(terms), SEPARATOR.join(texts)
 
 
-def translate_chunk(engine, text, code):
-    l = ["\\n", "\n"]
-
-    for i in range(0, len(l), 2):
-        text = text.replace(l[i], l[i+1])
-
-    translated = engine(source="auto", target=code).translate(text) if len(text) <= CHARS_MAX else text
-
-    for i in range(0, len(l), 2):
-        translated = translated.replace(l[i+1], l[i])
+def translate_chunk(text, code):
+    text = text.replace("\\n", "\n")
+    translated = GoogleTranslator(source="auto", target=code).translate(text) if len(text) <= CHARS_MAX else text
+    translated = translated.replace("\n", "\\n")
 
     return translated
+
 
 # kiddos: this is ugly ;-)
 r0 = re.compile(r"<# ([A-F0-9]*?)>")
@@ -140,6 +135,7 @@ def fix_translated_format(text):
     text = r3.sub(r"<b>\1</b>", text) 
 
     return text
+
 
 def apply_dictionary(dictionary, text):
     # text = text.replace("</color> ", "</color>")
@@ -157,29 +153,40 @@ def get_output_folder(code):
     except:
         pass
     os.mkdir(path)
+
     return path
 
 
-def translate(input_folder, code, engine, dictionary=None):
+def translate_file(input_file, output_file, code, dictionary=None):
+    with open(output_file, "wt", encoding="utf-8") as f:
+        for terms, texts in get_chunks(input_file):
+            translated = translate_chunk(texts, code)
+            fixed = fix_translated_format(translated)
+            replaced = apply_dictionary(dictionary, fixed)
+            replaceds = replaced.split(SEPARATOR)
+            for term in terms.split(SEPARATOR):
+                f.write(f"{term}\t{replaceds.pop(0)}\n")
+
+
+def translate_folder(input_folder, code, dictionary=None):
+    try:
+        filenames = [x for x in os.listdir(input_folder) if x.endswith(".txt")]
+    except:
+        filenames = []
+
     output_folder = get_output_folder(code)
-    filenames = [x for x in os.listdir(input_folder) if x.endswith(".txt")]
+
     for filename in filenames:
-        with open(os.path.join(output_folder, filename), "wt", encoding="utf-8") as f:
-            for terms, texts in get_chunks(os.path.join(input_folder, filename)):
-                translated = translate_chunk(engine, texts, code)
-                fixed = fix_translated_format(translated)
-                replaced = apply_dictionary(dictionary, fixed)
-                replaceds = replaced.split(SEPARATOR)
-                for term in terms.split(SEPARATOR):
-                    f.write(f"{term}\t{replaceds.pop(0)}\n")
+        input_file = os.path.join(input_folder, filename)
+        output_file = os.path.join(output_folder, filename)
+        translate_file(input_file, output_file, code, dictionary)
 
 
 def main():
     args = parse_command_line()
-    translate(
+    translate_folder(
         args.input_folder,
-        args.code, 
-        GoogleTranslator,
+        args.code,
         load_dictionary(args.dict))
 
 
