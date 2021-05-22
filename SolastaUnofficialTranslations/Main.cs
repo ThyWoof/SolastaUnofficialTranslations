@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -8,10 +7,8 @@ using System.Reflection;
 using UnityEngine;
 using UnityModManagerNet;
 using HarmonyLib;
-using Newtonsoft.Json.Linq;
 using I2.Loc;
 using System.Globalization;
-using TMPro;
 
 namespace SolastaUnofficialTranslations
 { 
@@ -111,7 +108,7 @@ namespace SolastaUnofficialTranslations
                 if (!category.Contains(":"))
                 {
                     var fixedCategory = FixCategory(category);
-                    var outputFilename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{OUT}{code}/{fixedCategory}-{code}{EXT}";
+                    var outputFilename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{OUT}{code}/{fixedCategory}{EXT}";
                     using (var sw = new StreamWriter(outputFilename))
                         foreach (var termName in languageSourceData.GetTermsList(category))
                         {
