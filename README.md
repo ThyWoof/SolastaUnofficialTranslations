@@ -12,20 +12,23 @@
 
 1. Press Ctrl-F10 to Open UMM Window
 2. Expand Solasta Unofficial Translation options
-3. Press the Export #Language# button
+3. Press the Export #Language# button (text files are exported to Mods/SolastaUnofficialTranslations/Export-#code#)
 
 # How to fix bad translations
 
-1. Open $SOLASTA_HOME/Mods/SolastaUnofficialTranslations/Translation-#LANGUAGE-CODE#.txt on a text editor
-2. Apply your corrections
-	- Don't translate the term
-	- You can have one or more spaces or tabs after the term
-	- Export any other official language as a reference on translations
-3. Submit a request to this repo
+* Translation files are stored in $SOLASTA_HOME/Mods/SolastaUnofficialTranslations/Translation-#LANGUAGE-CODE#.txt organized by categories
+* Translation files are TAB separated
+* Apply your corrections (use the Export function to get the original term from official languages)
+* Submit a request to this repo
 
 # How to create new translations
 
-WIP: should have a script soon to automatically do an initial translation to any language from an Export file
+* Install Python 3.*
+* Install Python deep_translator library
+	- `pip3 install deep_translator`
+* Export EN official language
+* Run batch translator
+	- `py Scripts\translate.py EXPORT_FOLDER_NAME -c LANGUAGE_CODE`
 
 # How to compile
 
