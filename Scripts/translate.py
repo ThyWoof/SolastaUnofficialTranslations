@@ -9,23 +9,20 @@
 import argparse
 import os
 import re
+import shutil
 import sys
-from deep_translator import GoogleTranslator, MicrosoftTranslator
+from deep_translator import GoogleTranslator
 
 
 CHARS_MAX = 5000
 SEPARATOR = "\n"
-ENGINES = {
-    'Google': GoogleTranslator,
-    'Microsoft': MicrosoftTranslator
-}
 
 
 def parse_command_line():
     my_parser = argparse.ArgumentParser(description='Translates Solasta game terms')
-    my_parser.add_argument('input',
+    my_parser.add_argument('input_folder',
                         type=str,
-                        help='input file to translate')
+                        help='input folder to translate')
     my_parser.add_argument('-c', '--code',
                         type=str,
                         required=True,
@@ -33,14 +30,7 @@ def parse_command_line():
     my_parser.add_argument('-d', '--dict',
                         type=str,
                         help='dictionary file to fix auto translation')
-    my_parser.add_argument('-k', '--api-key',
-                        type=str,
-                        help='api key for engines that require it')
-    my_parser.add_argument('-e', '--engine',
-                        type=str,
-                        choices=['Microsoft', 'Google'],
-                        default='Google',
-                        help='translator engine to use')
+
 
     return my_parser.parse_args()
 
@@ -73,7 +63,7 @@ def display_progress(count, total, status=''):
     percents = round(100.0 * count / float(total), 1)
     bar = '=' * filled_len + '-' * (bar_len - filled_len)
 
-    sys.stdout.write('[%s] %s%s ...%s\r' % (bar, percents, '%', status))
+    sys.stdout.write('[%s] %s%s (%s)\r' % (bar, percents, '%', status))
     sys.stdout.flush() 
 
 
@@ -96,11 +86,11 @@ def get_records(filename):
         with open(filename, "rt", encoding="utf-8") as f:
             record = "\n"
             while record:
-                line_count += 1
-                display_progress(line_count, line_total)
+                display_progress(line_count, line_total, filename)
                 record = f.readline()
-                if record and record.split():
-                    yield unpack_record(record)
+                line_count += 1
+                if record: yield unpack_record(record)
+            print()
 
     except FileNotFoundError:
         print("ERROR")
@@ -161,25 +151,37 @@ def apply_dictionary(dictionary, text):
     return text
 
 
-def translate(input, output, code, engine, dictionary=None, api_key=None):
-    with open(output, "wt", encoding="utf-8") as f:
-        for terms, texts in get_chunks(input):
-            translated = translate_chunk(engine, texts, code)
-            replaced = apply_dictionary(dictionary, translated)
-            replaceds = replaced.split(SEPARATOR)
-            for term in terms.split(SEPARATOR):
-                f.write(f"{term}\t{replaceds.pop(0)}\n")
+def get_output_folder(code):
+    path = f"./Translation-{code}"
+    try:
+        shutil.rmtree(path)
+    except:
+        pass
+    os.mkdir(path)
+    return path
+
+
+def translate(input_folder, code, engine, dictionary=None):
+    output_folder = get_output_folder(code)
+    filenames = [x for x in os.listdir(input_folder) if x.endswith(".txt")]
+    for filename in filenames:
+        with open(os.path.join(output_folder, filename), "wt", encoding="utf-8") as f:
+            for terms, texts in get_chunks(os.path.join(input_folder, filename)):
+                translated = translate_chunk(engine, texts, code)
+                replaced = apply_dictionary(dictionary, translated)
+                replaceds = replaced.split(SEPARATOR)
+                for term in terms.split(SEPARATOR):
+                    f.write(f"{term}\t{replaceds.pop(0)}\n")
+
 
 
 def main():
     args = parse_command_line()
     translate(
-        args.input,
-        f"{args.input[0:-6]}{args.code}.txt",
+        args.input_folder,
         args.code, 
-        ENGINES[args.engine], 
-        load_dictionary(args.dict),
-        args.api_key)
+        GoogleTranslator,
+        load_dictionary(args.dict))
 
 
 if __name__ == "__main__":
