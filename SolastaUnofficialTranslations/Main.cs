@@ -81,7 +81,7 @@ namespace SolastaUnofficialTranslations
                         while ((line = sr.ReadLine()) != null)
                         {
                             var splitted = line.Split(new[] { '\t', ' ' }, 2);
-                            languageSourceData.AddTerm(splitted[0]).Languages[languageIndex] = splitted[1].Trim();
+                            languageSourceData.AddTerm(splitted[0]).Languages[languageIndex] = splitted[1].Trim().Replace(@"\n", "\n")
                         }
                     }
                 }

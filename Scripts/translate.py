@@ -15,7 +15,7 @@ from deep_translator import GoogleTranslator
 
 
 CHARS_MAX = 5000
-SEPARATOR = "\n"
+SEPARATOR = "\x0D"
 
 
 def parse_command_line():
@@ -115,7 +115,7 @@ def get_chunks(filename):
 
 
 def translate_chunk(engine, text, code):
-    l = ["<b>", "#B", "<i>", "#C", "</b>", "`B", "</i>", "`I", "\\n", "#N", "</color>", "#C"]
+    l = ["\\n", "\n"]
 
     for i in range(0, len(l), 2):
         text = text.replace(l[i], l[i+1])
@@ -127,26 +127,25 @@ def translate_chunk(engine, text, code):
 
     return translated
 
+# kiddos: this is ugly ;-)
+r0 = re.compile(r"<# ([A-F0-9]*?)>")
+r1 = re.compile(r"<#([A-F0-9]*?)> (.*?) </color>")
+r2 = re.compile(r"<i> (.*?) </i>")
+r3 = re.compile(r"<b> (.*?) </b>")
+
+def fix_translated_format(text):
+    text = r0.sub(r"<#\1>", text)
+    text = r1.sub(r"<#\1>\2</color>", text)
+    text = r2.sub(r"<i>\1</i>", text)
+    text = r3.sub(r"<b>\1</b>", text) 
+
+    return text
 
 def apply_dictionary(dictionary, text):
-    # r = re.compile(r"<# ([A-F0-9]*)> (.*) </color>")
-    # text = r.sub(r"<#\1>\2</color>", text)
-
-    # r = re.compile(r"<i> (.*) </i>")
-    # text = r.sub(r"<i>$1</i>", text)
-
-    # r = re.compile(r"<b> (.*) </b>")
-    # text = r.sub(r"<b>$1</b>", text)
-
     # text = text.replace("</color> ", "</color>")
 
-    # text = text.replace("\\ N", "\\n")
-    # text = text.replace("\\ n", "\\n")
-    # text = text.replace("\\n ", "\\n")
-    # text = text.replace(" \\n", "\\n")
-
-    # for key in dictionary:
-    #     text = text.replace(key, dictionary[key])
+    for key in dictionary:
+        text = text.replace(key, dictionary[key])
 
     return text
 
@@ -168,11 +167,11 @@ def translate(input_folder, code, engine, dictionary=None):
         with open(os.path.join(output_folder, filename), "wt", encoding="utf-8") as f:
             for terms, texts in get_chunks(os.path.join(input_folder, filename)):
                 translated = translate_chunk(engine, texts, code)
-                replaced = apply_dictionary(dictionary, translated)
+                fixed = fix_translated_format(translated)
+                replaced = apply_dictionary(dictionary, fixed)
                 replaceds = replaced.split(SEPARATOR)
                 for term in terms.split(SEPARATOR):
                     f.write(f"{term}\t{replaceds.pop(0)}\n")
-
 
 
 def main():
