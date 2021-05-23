@@ -1,0 +1,194 @@
+Map/&Location_AbjurationRiverPass_Description	Following the steps of Kythaela, you came across a ruined keep beside a river. Apparently, a caravan has set up camp there - a rarity in these desolate lands.
+Map/&Location_AbjurationRiverPass_Title	River Pass
+Map/&Location_AbjurationRiverPass_UnchartedDescription	Should not be displayed
+Map/&Location_AbjurationRiverPass_UnchartedTitle	Should not be displayed
+Map/&Location_AbjurationRiverPass_UnvisitedDescription	Following the steps of Kythaela, you came across a ruined keep beside a river. Apparently, a caravan has set up camp there - a rarity in these desolate lands.
+Map/&Location_AbjurationRiverPass_UnvisitedTitle	River Pass
+Map/&Location_AbjurationRuinedKeep_Description	Near this ruined Tirmarian monastery, inside a Manacalon mausoleum, you found an elf wizard, seemingly kept in a trance ever since the Cataclysm.
+Map/&Location_AbjurationRuinedKeep_Title	Tirmarian Ruins
+Map/&Location_AbjurationRuinedKeep_UnchartedDescription	The crownbearer saw an image of this place. It's possible the Crown sent a hint of where to look for one of its gems. Investigate this location.
+Map/&Location_AbjurationRuinedKeep_UnchartedTitle	Possible Gem Location
+Map/&Location_AbjurationRuinedKeep_UnvisitedDescription	This dry river bed holds an old Tirmarian monastery and a Solastan building.
+Map/&Location_AbjurationRuinedKeep_UnvisitedTitle	Tirmarian Ruins
+Map/&Location_AerElai_Description	Here, near the ancient Manacalon capital, the Rift that almost destroyed Solasta opened - and was eventually closed. The land bears the scars of the Cataclysm.
+Map/&Location_AerElai_Title	The Aer-Elai
+Map/&Location_AerElai_UnchartedDescription	Should not be displayed
+Map/&Location_AerElai_UnchartedTitle	Should not be displayed
+Map/&Location_AerElai_UnvisitedDescription	Should not be displayed
+Map/&Location_AerElai_UnvisitedTitle	Should not be displayed
+Map/&Location_BoneKeep_Castle_Title	Keep Entrance
+Map/&Location_BoneKeep_Cemetery_Title	Cemetery
+Map/&Location_BoneKeep_Courtyard_Title	Courtyard
+Map/&Location_BoneKeep_Description	The ancient Master of Necromancy was hiding with his gem in this massive and forbidding keep, surrounded by undead creatures and other dangers.
+Map/&Location_BoneKeep_DrainPipe_Title	Drains
+Map/&Location_BoneKeep_DrainPipeCourtyard_Title	Drain Access from Courtyard
+Map/&Location_BoneKeep_DrainPipeStoreHouse_Title	Drain Access from Storehouse
+Map/&Location_BoneKeep_DrainPipeWell_Title	Drain Access from Well
+Map/&Location_BoneKeep_Laboratory_Access_Title	Basement Entrance
+Map/&Location_BoneKeep_Laboratory_Title	Laboratory
+Map/&Location_BoneKeep_Lair_Title	Defiler's Lair
+Map/&Location_BoneKeep_Pond_Title	Pond
+Map/&Location_BoneKeep_Sewers_Title	Sewers
+Map/&Location_BoneKeep_Solar_Access_Title	Second Floor Entrance
+Map/&Location_BoneKeep_Solar_Title	The Solar
+Map/&Location_BoneKeep_Solar_Tower_Title	Solar Tower
+Map/&Location_BoneKeep_Title	Bone Keep
+Map/&Location_BoneKeep_UnchartedDescription	The crownbearer saw an image of this place. It's possible the Crown sent a hint of where to look for one of its gems. Investigate this location.
+Map/&Location_BoneKeep_UnchartedTitle	Possible Gem Location
+Map/&Location_BoneKeep_UnvisitedDescription	A gigantic keep rises out of the woods. One of the Crown's gems might be within.
+Map/&Location_BoneKeep_UnvisitedTitle	Dark Castle
+Map/&Location_CaerLem_BridgeTitle	Rotating Bridge
+Map/&Location_CaerLem_Exit_Title	Exit
+Map/&Location_CaerLem_GoblinCave_Title	Goblin Cave
+Map/&Location_CaerLem_InnerFort_Title	Inner Fort
+Map/&Location_CaerLem_LibraryTitle	Ancient Library
+Map/&Location_CaerLem_MushroomsTitle	Mushroom Cave
+Map/&Location_CaerLem_SecretCavesTitle	Secret Caves
+Map/&Location_CaerLem_SoraksCampTitle	Sorak Camp
+Map/&Location_CaerLem_Tower_Title	Tower
+Map/&Location_CaerLem_Title	Caer Lem Outpost
+Map/&Location_CaerLem_Description	Captain Henrik's garrison was wiped out by the Soraks, and you barely escaped with a couple of survivors. The outpost might be reclaimed so the exploration of the Badlands can continue.
+Map/&Location_CaerLem_UnchartedDescription	This old Imperial fort was reoccupied by the Legacy Council's troops as a Badlands outpost, but the garrison's commander, Captain Henrik, has not sent any reports for some time.
+Map/&Location_CaerLem_UnchartedTitle	Caer Lem Outpost
+Map/&Location_CaerLem_UnvisitedDescription	This old Imperial fort was reoccupied by the Legacy Council's troops as a Badlands outpost, but the garrison's commander, Captain Henrik, has not sent any reports for some time.
+Map/&Location_CaerLem_UnvisitedTitle	Caer Lem Outpost
+Map/&Location_CapitalCity_Description	The magnificent capital of the Principality of Masgarth, Caer Cyflen was a major Imperial city and a strategic base for the Manacalon Empire long before the Cataclysm.
+Map/&Location_CapitalCity_Title	Caer Cyflen
+Map/&Location_CapitalCity_UnchartedDescription	Should not be displayed
+Map/&Location_CapitalCity_UnchartedTitle	Should not be displayed
+Map/&Location_CapitalCity_UnvisitedDescription	Should not be displayed
+Map/&Location_CapitalCity_UnvisitedTitle	Should not be displayed
+Map/&Location_TowerOfMagic_Description	You have learned that this old tower was probably the home of a powerful Manacalon wizard… maybe even a Master of the Arcaneum. In a hidden room, you found a mysterious Crown guarded by a group of Soraks.
+Map/&Location_TowerOfMagic_Title	Tower of Magic
+Map/&Location_TowerOfMagic_UnchartedDescription	According to the survivors at Caer Lem, this is where their scouts were exploring before the Soraks attacked. Perhaps you will find some trace here of these legendary Tirmarian monsters.
+Map/&Location_TowerOfMagic_UnchartedTitle	Possible Sorak Base
+Map/&Location_TowerOfMagic_UnvisitedDescription	An ancient tower from Imperial times.
+Map/&Location_TowerOfMagic_UnvisitedTitle	Ruined Tower
+Map/&Location_CCyflen_Council_Title	Legacy Council
+Map/&Location_CCyflen_DeadEnd_Title	Lane Ends
+Map/&Location_CCyflen_Exit_Title	High Town Exit
+Map/&Location_CCyflen_MarketStreet_Title	Market Street
+Map/&Location_CCyflen_Plaza_Title	Sunblaze Court
+Map/&Location_CCyflen_Promontory_Title	Promontory
+Map/&Location_CCyflen_SnowAllianceEmbassy_Title	Snow Alliance Embassy
+Map/&Location_CCyflen_Tavern_Title	The Gravekeep's Cask
+Map/&Location_CCyflen_TemplesQuarter_Title	Temple Quarter
+Map/&Location_Coparann_Entrance_Title	Entrance
+Map/&Location_Coparann_Keep_Title	Keep
+Map/&Location_Coparann_MineEntrance_Title	Mine
+Map/&Location_Coparann_Prison_Title	Prison
+Map/&Location_Coparann_Tavern_Title	Tavern
+Map/&Location_Coparann_Teleporter_Title	Major Gate
+Map/&Location_Coparann_Description	This mining town in the Marches was infiltrated by Soraks, but is now free of their influence.
+Map/&Location_Coparann_Title	Coparann
+Map/&Location_Coparann_UnchartedDescription	Should not be displayed
+Map/&Location_Coparann_UnchartedTitle	Should not be displayed
+Map/&Location_Coparann_UnvisitedDescription	Kythaela indicated that this mining town is important. You have no choice but to follow her, hoping to find one of the Crown's gems.
+Map/&Location_Coparann_UnvisitedTitle	Coparann
+Map/&Location_CradleOfFire_Description	Feuding orc clans went to war deep within the volcano after a shaman found the Gem of Evocation in the ruins of an ancient Manacalon city buried by lava.
+Map/&Location_CradleOfFire_Title	Cradle of Fire
+Map/&Location_CradleOfFire_UnchartedDescription	The crownbearer saw a vision of this place - possibly a hint from the Crown. Investigate this location.
+Map/&Location_CradleOfFire_UnchartedTitle	Possible Gem Location
+Map/&Location_CradleOfFire_UnvisitedDescription	This great volcano is still active. One of the Crown's gems may be among the lava flows.
+Map/&Location_CradleOfFire_UnvisitedTitle	Volcano
+Map/&Location_Generic_Door_Title	Locked Door
+Map/&Location_Generic_Long_Rest_Area_Title	Long Rest Safe Area
+Map/&Location_Generic_Trap_Title	Armed Trap
+Map/&Location_Illusion_Description	The master of Illusion has created himself an invisible shelter...TBC
+Map/&Location_Illusion_Title	The Invisible Fortress
+Map/&Location_Illusion_UnchartedDescription	The Crown is responding strongly. Perhaps one of its gems is nearby!
+Map/&Location_Illusion_UnchartedTitle	Possible Gem Location
+Map/&Location_Illusion_UnvisitedDescription	Should not be displayed
+Map/&Location_Illusion_UnvisitedTitle	Should not be displayed
+Map/&Location_Lair_Access_Title	Ground Floor Entrance
+Map/&Location_Lair_AkshasRoom_Title	Aksha's Lair
+Map/&Location_Monastery_Cliff_Title	Cliff
+Map/&Location_Monastery_Mausoleum_Title	Mausoleum
+Map/&Location_Telema_OrcCamp_Title	Orc Camp
+Map/&Location_Telema_Outdoor_Title	Scavengers' Campsite
+Map/&Location_Telema_SpiderNest_Title	Spider Nest
+Map/&Location_TowerOfMagic_CrownRoom_Title	Crown Room
+Map/&Location_TowerOfMagic_Excavation_Title	Excavation Site
+Map/&Location_TowerOfMagic_Library_Title	Library
+Map/&Location_WizardTower_Downhill_Title	Downhill
+Map/&Location_WizardTower_MainAlley_Title	Main Alley
+Map/&Location_BoneKeep_Teleporter_Title	Teleporter
+Map/&Location_BoneKeep_Laboratory_ToLair	To Next level
+Map/&Location_CradleOfFire_Outside	Volcano Exterior
+Map/&Location_CradleOfFire_Entrance	Underground Entrance
+Map/&Location_CradleOfFire_Market	Market
+Map/&Location_WizardTower_Basement_Title	Tower Access
+Map/&Location_WizardTower_Camp_Title	Camp
+Map/&Location_WizardTower_Hall_Title	Hall
+Map/&Location_WizardTower_MastersChamber_Title	Master's Chamber
+Map/&Location_Generic_Mechanism_Title	Mechanism
+Map/&Location_AbjurationWizardTower_Description	Kythaela finally led you to this place, a Manacalon wizard tower, apparently perfectly preserved and protected by magic, while its surroundings were ravaged by the Cataclysm.
+Map/&Location_AbjurationWizardTower_Title	Wizard's Tower
+Map/&Location_AbjurationWizardTower_UnchartedDescription	Should not be displayed
+Map/&Location_AbjurationWizardTower_UnchartedTitle	Should not be displayed
+Map/&Location_AbjurationWizardTower_UnvisitedDescription	Kythaela is now certain to know where the master is. Hopefully, this will lead you to another Crown gem.
+Map/&Location_AbjurationWizardTower_UnvisitedTitle	Master's Tower
+Map/&Location_WizardTower_LandingPad_Title	Platform
+Map/&Location_LavaForest_Forest_Title	Forest
+Map/&Location_LavaForest_Clearing_Title	Shed
+Map/&Location_LavaForest_LavaRiver_Title	Lava River
+Map/&Location_AbjurationWizardTower_Teleport_Title	Adrasteia's Tower
+Map/&Location_VIPResidence_Description	A resting place for plenipotentiaries and hosts of the Crown.
+Map/&Location_VIPResidence_Title	Palace Residence
+Map/&Location_NotaryMansion_Description	The mansion of the honorable Joan Tannerson.
+Map/&Location_NotaryMansion_Title	Tannerson Estate
+Map/&Location_NotaryMansion_Known_Description	The mansion and its gardens are the main prize of Tannerson's heritage. The finalization of the will is going to take place there.
+Map/&Location_TheID_TheGate_Title	The Gate
+Map/&Location_TheID_TheArena_Title	The Arena
+Map/&Location_TheID_TheBeast_Title	The Beast
+Map/&Location_CradleOfFire_Bladefang	Bladefang Tribe
+Map/&Location_CradleOfFire_Bloodspear	Bloodspear Tribe
+Map/&Location_CradleOfFire_SandRaven	Sandraven Tribe
+Map/&Location_CradleOfFire_RedscarGate	Redscar Gate
+Map/&Location_CradleOfFire_Crossroads	Crossroads
+Map/&Location_CradleOfFire_Necropolis	Necropolis
+Map/&Location_CradleOfFire_To_Crossroads	To the Crossroads
+Map/&Location_CradleOfFire_Burrows	Burrows
+Map/&Location_RodricHideout_Title	Hideout
+Map/&Location_RodricHideout_Description	This is the place where Rodric is hiding.
+Map/&Location_TimarianTower_Title	Tirmarian Tower
+Map/&Location_TimarianTower_Description	What a strange place.
+Map/&Location_Earcorn_Description	A small farming village not far from Caer Cyflen.
+Map/&Location_Earcorn_Title	Earcorn
+Map/&Location_Earcorn_UnchartedDescription	SHOULD NOT BE DISPLAYED
+Map/&Location_Earcorn_UnchartedTitle	SHOULD NOT BE DISPLAYED
+Map/&Location_Earcorn_UnvisitedDescription	You've been sent here to investigate a possible group of Arivad cultists.
+Map/&Location_Earcorn_UnvisitedTitle	Earcorn
+Map/&Location_MindOfTheMaster_Description	This place is a typical Badlands area, where the greenest nature neighbors rivers of lava and sulfur pits. It might shelter one of the Crown's gems.
+Map/&Location_MindOfTheMaster_Title	Lava Forest
+Map/&Location_MindOfTheMaster_UnchartedDescription	This place is a typical Badlands area, where the greenest nature neighbors rivers of lava and sulfur pits.
+Map/&Location_MindOfTheMaster_UnchartedTitle	Lava Forest
+Map/&Location_MindOfTheMaster_VisitedDescription	This was the hiding place of the Master of Conjuration, in a magical fortress built by his broken mind.
+Map/&Location_MindOfTheMaster_VisitedTitle	Lava Forest
+Map/&Location_TheSuperEgo_TheBridge_Title	Bridge
+Map/&Location_TheSuperEgo_TheHall_Title	Entrance
+Map/&Location_TheSuperEgo_TheLandingPad_Title	Landing Pad
+Map/&Location_TheSuperEgo_TheMastersRoom_Title	Master's Room
+Map/&Location_TempleOfMisaye_Title	Temple of Misaye
+Map/&Location_CradleOfFire_RedscarGateHall	Redscar Gate Hall
+Map/&Location_CradleOfFire_NecropolisHall	Necropolis Hall
+Map/&Location_Farmhouse_Title	Farmhouse
+Map/&Location_Farmhouse_Description	A farmhouse in the vale of Coparann which belongs to your family.
+Map/&Location_ImperialOutpostDescription	You passed by these ruins when traveling to Coparann with Kythaela.
+Map/&Location_ImperialOutpostTitle	Imperial Outpost Ruins
+Map/&Location_HalmanSummersHouse_Title	Halman Summer's House
+Map/&Location_HalmanSummersHouse2_Title	Coven of Arivad
+Map/&Location_AerElaiFinal_ImperialGate	Imperial Gate
+Map/&Location_AerElaiFinal_BoneYard	Boneyard
+Map/&Location_AerElaiFinal_AcidLake	The Lake of Acid
+Map/&Location_AerElaiFinal_MistyPath	The Misty Path
+Map/&Location_AerElaiFinal_BentPalace	The Bent Palace
+Map/&Location_AerElaiFinal_TheRift	The Rift
+Map/&Location_AerElaiFinal_LaveFall	Lava Falls
+Map/&Location_TempleHospital_Title	Main Dispensary
+Map/&Location_Temple_SafeRoom_Title	Safe Room
+Map/&Location_CCyflen_Temple_Exit_Title	Exit to High Town
+Map/&Location_CCyflen_Temple_Misaye_Title	Secret Temple of Misaye
+Map/&Location_Spy_SmallFort_Title	Spy Outpost
+Map/&Location_Spy_SmallFort_Description	Daliat indicated that this place was a fortified hideout where Silent Whisper traitors were hiding. 
+Map/&Location_ScavengerCamp_Title	Scavenger Camp

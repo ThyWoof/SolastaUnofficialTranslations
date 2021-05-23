@@ -1,0 +1,36 @@
+Credits/&GameTechnicalVisionTitle	Game & Technical Vision
+Credits/&ArtTeamTitle	Art Team
+Credits/&ArtDirectorTitle	Art Director
+Credits/&Lead3DArtistTitle	Lead 3D Artist
+Credits/&LeadAnimatorTitle	Lead 3D Artist
+Credits/&3DCharacterArtistFemaleTitle	3D Character Artist
+Credits/&3DEnvironmentArtistTitle	3D Environment Artist
+Credits/&VisualEffectsArtistFemaleTitle	Visual Effects Artist
+Credits/&ConceptArtistTitle	Concept Artist
+Credits/&DesignTeamTitle	Design Team
+Credits/&GameplayDirectorTitle	Gameplay Director
+Credits/&SeniorLevelDesignerTitle	Senior Level Designer
+Credits/&LevelDesignerTitle	Level Designer
+Credits/&LevelBuilderTitle	Level Builder
+Credits/&CutsceneDirectionTitle	Cutscene Direction
+Credits/&UniverseStorylineTitle	Universe & Storyline
+Credits/&ProductionTeamTitle	Production Team
+Credits/&ProducerFemaleTitle	Producer
+Credits/&QALeadFemaleTitle	QA Lead
+Credits/&AutotestTitle	Autotest
+Credits/&TechnicalTeamTitle	Technical Team
+Credits/&TechLeadTitle	Tech Lead
+Credits/&GraphicsProgrammerTitle	Graphics Programmer
+Credits/&UIRuleserProgrammerTitle	UI/Ruleset Programmer
+Credits/&ToolsProgrammerTitle	Tools Programmer
+Credits/&MarktingTeamTitle	Marketing Team
+Credits/&MarketingDirectorTitle	Marketing Director
+Credits/&LeadCommunityDeveloperTitle	Lead Community Developer
+Credits/&AdministrationTeamTitle	Administration
+Credits/&AdministrativeAndFinancialManagerFemaleTitle	Administrative and Financial Manager
+Credits/&BoardMemberTitle	Board Member
+Credits/&ExternalPartnersTitle	External Partners
+Credits/&EnvironmentConceptArtistTitle	Environment Concept Artist
+Credits/&CharacterConceptArtistTitle	Character Concept Artist
+Credits/&SeniorWriterTitle	Senior Writer
+Credits/&CNCAcknowledgementTitle	Avec le soutien du FAJV, fonds cofinancé par le Centre National du Cinéma et de l’Image animée et le Ministère de l’Economie et des Finances

@@ -1,0 +1,194 @@
+Map/&Location_AbjurationRiverPass_Description	Seguindo os passos de Kythaela, você se deparou com uma fortaleza em ruínas ao lado de um rio. Aparentemente, uma caravana montou acampamento lá - uma raridade nessas terras desoladas.
+Map/&Location_AbjurationRiverPass_Title	River Pass
+Map/&Location_AbjurationRiverPass_UnchartedDescription	Não deve ser exibido
+Map/&Location_AbjurationRiverPass_UnchartedTitle	Não deve ser exibido
+Map/&Location_AbjurationRiverPass_UnvisitedDescription	Seguindo os passos de Kythaela, você se deparou com uma fortaleza em ruínas ao lado de um rio. Aparentemente, uma caravana montou acampamento lá - uma raridade nessas terras desoladas.
+Map/&Location_AbjurationRiverPass_UnvisitedTitle	River Pass
+Map/&Location_AbjurationRuinedKeep_Description	Perto deste mosteiro tirmariano em ruínas, dentro de um mausoléu de Manacalon, você encontrou um mago elfo, aparentemente mantido em transe desde o Cataclismo.
+Map/&Location_AbjurationRuinedKeep_Title	Ruínas de Tirmarian
+Map/&Location_AbjurationRuinedKeep_UnchartedDescription	O portador da coroa viu uma imagem deste lugar. É possível que a Coroa tenha enviado uma dica de onde procurar uma de suas joias. Investigue este local.
+Map/&Location_AbjurationRuinedKeep_UnchartedTitle	Possível localização de joias
+Map/&Location_AbjurationRuinedKeep_UnvisitedDescription	Este leito de rio seco contém um antigo mosteiro Tirmarian e um edifício Solastan.
+Map/&Location_AbjurationRuinedKeep_UnvisitedTitle	Ruínas de Tirmarian
+Map/&Location_AerElai_Description	Aqui, perto da antiga capital Manacalon, a fenda que quase destruiu Solasta se abriu - e acabou sendo fechada. A terra carrega as cicatrizes do Cataclismo.
+Map/&Location_AerElai_Title	O Aer-Elai
+Map/&Location_AerElai_UnchartedDescription	Não deve ser exibido
+Map/&Location_AerElai_UnchartedTitle	Não deve ser exibido
+Map/&Location_AerElai_UnvisitedDescription	Não deve ser exibido
+Map/&Location_AerElai_UnvisitedTitle	Não deve ser exibido
+Map/&Location_BoneKeep_Castle_Title	Manter entrada
+Map/&Location_BoneKeep_Cemetery_Title	Cemitério
+Map/&Location_BoneKeep_Courtyard_Title	Pátio
+Map/&Location_BoneKeep_Description	O antigo Mestre da Necromancia estava escondido com sua joia nesta fortaleza maciça e proibitiva, cercado por criaturas mortas-vivas e outros perigos.
+Map/&Location_BoneKeep_DrainPipe_Title	Drenos
+Map/&Location_BoneKeep_DrainPipeCourtyard_Title	Drene o acesso do pátio
+Map/&Location_BoneKeep_DrainPipeStoreHouse_Title	Drene o acesso do armazém
+Map/&Location_BoneKeep_DrainPipeWell_Title	Drene o acesso do poço
+Map/&Location_BoneKeep_Laboratory_Access_Title	Entrada do porão
+Map/&Location_BoneKeep_Laboratory_Title	Laboratório
+Map/&Location_BoneKeep_Lair_Title	Toca do Defiler
+Map/&Location_BoneKeep_Pond_Title	Lago
+Map/&Location_BoneKeep_Sewers_Title	Esgotos
+Map/&Location_BoneKeep_Solar_Access_Title	Entrada do segundo andar
+Map/&Location_BoneKeep_Solar_Title	The Solar
+Map/&Location_BoneKeep_Solar_Tower_Title	Torre Solar
+Map/&Location_BoneKeep_Title	Bone Keep
+Map/&Location_BoneKeep_UnchartedDescription	O portador da coroa viu uma imagem deste lugar. É possível que a Coroa tenha enviado uma dica de onde procurar uma de suas joias. Investigue este local.
+Map/&Location_BoneKeep_UnchartedTitle	Possível localização de joias
+Map/&Location_BoneKeep_UnvisitedDescription	Uma gigantesca torre de menagem surge na floresta. Uma das joias da coroa pode estar dentro.
+Map/&Location_BoneKeep_UnvisitedTitle	Dark Castle
+Map/&Location_CaerLem_BridgeTitle	Ponte Giratória
+Map/&Location_CaerLem_Exit_Title	Saída
+Map/&Location_CaerLem_GoblinCave_Title	Caverna Goblin
+Map/&Location_CaerLem_InnerFort_Title	Forte Interior
+Map/&Location_CaerLem_LibraryTitle	Biblioteca Antiga
+Map/&Location_CaerLem_MushroomsTitle	Caverna do Cogumelo
+Map/&Location_CaerLem_SecretCavesTitle	Cavernas Secretas
+Map/&Location_CaerLem_SoraksCampTitle	Sorak Camp
+Map/&Location_CaerLem_Tower_Title	Torre
+Map/&Location_CaerLem_Title	Posto Avançado de Caer Lem
+Map/&Location_CaerLem_Description	A guarnição do capitão Henrik foi exterminada pelos Soraks, e você escapou por pouco com alguns sobreviventes. O posto avançado pode ser recuperado para que a exploração de Badlands possa continuar.
+Map/&Location_CaerLem_UnchartedDescription	Este antigo forte Imperial foi reocupado pelas tropas do Conselho do Legado como um posto avançado de Badlands, mas o comandante da guarnição, Capitão Henrik, não envia relatórios há algum tempo.
+Map/&Location_CaerLem_UnchartedTitle	Posto Avançado de Caer Lem
+Map/&Location_CaerLem_UnvisitedDescription	Este antigo forte Imperial foi reocupado pelas tropas do Conselho do Legado como um posto avançado de Badlands, mas o comandante da guarnição, Capitão Henrik, não envia relatórios há algum tempo.
+Map/&Location_CaerLem_UnvisitedTitle	Posto Avançado de Caer Lem
+Map/&Location_CapitalCity_Description	A magnífica capital do Principado de Masgarth, Caer Cyflen foi uma importante cidade imperial e uma base estratégica para o Império Manacalon muito antes do Cataclismo.
+Map/&Location_CapitalCity_Title	Caer Cyflen
+Map/&Location_CapitalCity_UnchartedDescription	Não deve ser exibido
+Map/&Location_CapitalCity_UnchartedTitle	Não deve ser exibido
+Map/&Location_CapitalCity_UnvisitedDescription	Não deve ser exibido
+Map/&Location_CapitalCity_UnvisitedTitle	Não deve ser exibido
+Map/&Location_TowerOfMagic_Description	Você aprendeu que esta velha torre provavelmente foi a casa de um poderoso mago Manacalon ... talvez até um Mestre do Arcaneum. Em uma sala escondida, você encontrou uma misteriosa coroa guardada por um grupo de Soraks.
+Map/&Location_TowerOfMagic_Title	Torre de magia
+Map/&Location_TowerOfMagic_UnchartedDescription	De acordo com os sobreviventes em Caer Lem, é aqui que seus batedores estavam explorando antes dos Soraks atacarem. Talvez você encontre aqui algum vestígio desses lendários monstros tirmarianos.
+Map/&Location_TowerOfMagic_UnchartedTitle	Possível Base Sorak
+Map/&Location_TowerOfMagic_UnvisitedDescription	Uma antiga torre dos tempos imperiais.
+Map/&Location_TowerOfMagic_UnvisitedTitle	Torre em ruínas
+Map/&Location_CCyflen_Council_Title	Legacy Council
+Map/&Location_CCyflen_DeadEnd_Title	Lane Ends
+Map/&Location_CCyflen_Exit_Title	Saída da cidade alta
+Map/&Location_CCyflen_MarketStreet_Title	Mercado de Rua
+Map/&Location_CCyflen_Plaza_Title	Sunblaze Court
+Map/&Location_CCyflen_Promontory_Title	Promontório
+Map/&Location_CCyflen_SnowAllianceEmbassy_Title	Embaixada da Snow Alliance
+Map/&Location_CCyflen_Tavern_Title	Casco do Guardião da Tumba
+Map/&Location_CCyflen_TemplesQuarter_Title	Bairro do Templo
+Map/&Location_Coparann_Entrance_Title	Entrada
+Map/&Location_Coparann_Keep_Title	Manter
+Map/&Location_Coparann_MineEntrance_Title	Minha
+Map/&Location_Coparann_Prison_Title	Prisão
+Map/&Location_Coparann_Tavern_Title	Taberna
+Map/&Location_Coparann_Teleporter_Title	Portão Principal
+Map/&Location_Coparann_Description	Esta cidade mineira nas Marcas foi infiltrada por Soraks, mas agora está livre de sua influência.
+Map/&Location_Coparann_Title	Coparann
+Map/&Location_Coparann_UnchartedDescription	Não deve ser exibido
+Map/&Location_Coparann_UnchartedTitle	Não deve ser exibido
+Map/&Location_Coparann_UnvisitedDescription	Kythaela indicou que esta cidade mineira é importante. Você não tem escolha a não ser segui-la, na esperança de encontrar uma das joias da Coroa.
+Map/&Location_Coparann_UnvisitedTitle	Coparann
+Map/&Location_CradleOfFire_Description	Os clãs de orcs feuding entraram em guerra nas profundezas do vulcão depois que um xamã encontrou a Gema da Evocação nas ruínas de uma antiga cidade de Manacalon soterrada pela lava.
+Map/&Location_CradleOfFire_Title	Berço de fogo
+Map/&Location_CradleOfFire_UnchartedDescription	O portador da coroa teve uma visão deste lugar - possivelmente uma dica da Coroa. Investigue este local.
+Map/&Location_CradleOfFire_UnchartedTitle	Possível localização de joias
+Map/&Location_CradleOfFire_UnvisitedDescription	Este grande vulcão ainda está ativo. Uma das joias da coroa pode estar entre os fluxos de lava.
+Map/&Location_CradleOfFire_UnvisitedTitle	Vulcão
+Map/&Location_Generic_Door_Title	Porta trancada
+Map/&Location_Generic_Long_Rest_Area_Title	Área Segura de Longo Descanso
+Map/&Location_Generic_Trap_Title	Armed Trap
+Map/&Location_Illusion_Description	O mestre da Ilusão criou para si um abrigo invisível ... TBC
+Map/&Location_Illusion_Title	A fortaleza invisível
+Map/&Location_Illusion_UnchartedDescription	A Coroa está respondendo fortemente. Talvez uma de suas joias esteja por perto!
+Map/&Location_Illusion_UnchartedTitle	Possível localização de joias
+Map/&Location_Illusion_UnvisitedDescription	Não deve ser exibido
+Map/&Location_Illusion_UnvisitedTitle	Não deve ser exibido
+Map/&Location_Lair_Access_Title	Entrada do Térreo
+Map/&Location_Lair_AkshasRoom_Title	Covil de Aksha
+Map/&Location_Monastery_Cliff_Title	penhasco
+Map/&Location_Monastery_Mausoleum_Title	Mausoléu
+Map/&Location_Telema_OrcCamp_Title	Orc Camp
+Map/&Location_Telema_Outdoor_Title	Acampamento de catadores
+Map/&Location_Telema_SpiderNest_Title	Spider Nest
+Map/&Location_TowerOfMagic_CrownRoom_Title	Quarto Crown
+Map/&Location_TowerOfMagic_Excavation_Title	Local de escavação
+Map/&Location_TowerOfMagic_Library_Title	Biblioteca
+Map/&Location_WizardTower_Downhill_Title	Morro abaixo
+Map/&Location_WizardTower_MainAlley_Title	Beco Principal
+Map/&Location_BoneKeep_Teleporter_Title	Teletransportador
+Map/&Location_BoneKeep_Laboratory_ToLair	Para o próximo nível
+Map/&Location_CradleOfFire_Outside	Exterior do vulcão
+Map/&Location_CradleOfFire_Entrance	Entrada Subterrânea
+Map/&Location_CradleOfFire_Market	Mercado
+Map/&Location_WizardTower_Basement_Title	Acesso à torre
+Map/&Location_WizardTower_Camp_Title	Acampamento
+Map/&Location_WizardTower_Hall_Title	corredor
+Map/&Location_WizardTower_MastersChamber_Title	Câmara do Mestre
+Map/&Location_Generic_Mechanism_Title	Mecanismo
+Map/&Location_AbjurationWizardTower_Description	Kythaela finalmente o levou a este lugar, uma torre feiticeira de Manacalon, aparentemente perfeitamente preservada e protegida por magia, enquanto seus arredores foram devastados pelo Cataclismo.
+Map/&Location_AbjurationWizardTower_Title	Torre do feiticeiro
+Map/&Location_AbjurationWizardTower_UnchartedDescription	Não deve ser exibido
+Map/&Location_AbjurationWizardTower_UnchartedTitle	Não deve ser exibido
+Map/&Location_AbjurationWizardTower_UnvisitedDescription	Kythaela agora tem certeza de saber onde o mestre está. Esperançosamente, isso o levará a outra joia da Coroa.
+Map/&Location_AbjurationWizardTower_UnvisitedTitle	Torre do Mestre
+Map/&Location_WizardTower_LandingPad_Title	Plataforma
+Map/&Location_LavaForest_Forest_Title	floresta
+Map/&Location_LavaForest_Clearing_Title	Cabana
+Map/&Location_LavaForest_LavaRiver_Title	Rio lava
+Map/&Location_AbjurationWizardTower_Teleport_Title	Torre da Adrasteia
+Map/&Location_VIPResidence_Description	Local de descanso para plenipotenciários e anfitriões da Coroa.
+Map/&Location_VIPResidence_Title	Residência do palácio
+Map/&Location_NotaryMansion_Description	A mansão da honorável Joan Tannerson.
+Map/&Location_NotaryMansion_Title	Tannerson Estate
+Map/&Location_NotaryMansion_Known_Description	A mansão e seus jardins são o principal prêmio do patrimônio de Tannerson. A finalização do testamento vai acontecer lá.
+Map/&Location_TheID_TheGate_Title	O portão
+Map/&Location_TheID_TheArena_Title	A Arena
+Map/&Location_TheID_TheBeast_Title	A fera
+Map/&Location_CradleOfFire_Bladefang	Bladefang Tribe
+Map/&Location_CradleOfFire_Bloodspear	Bloodspear Tribe
+Map/&Location_CradleOfFire_SandRaven	Tribo Sandraven
+Map/&Location_CradleOfFire_RedscarGate	Redscar Gate
+Map/&Location_CradleOfFire_Crossroads	Encruzilhada
+Map/&Location_CradleOfFire_Necropolis	Necrópole
+Map/&Location_CradleOfFire_To_Crossroads	Para a encruzilhada
+Map/&Location_CradleOfFire_Burrows	Burrows
+Map/&Location_RodricHideout_Title	Esconderijo
+Map/&Location_RodricHideout_Description	Este é o lugar onde Rodric está se escondendo.
+Map/&Location_TimarianTower_Title	Torre Tirmarian
+Map/&Location_TimarianTower_Description	Que lugar estranho.
+Map/&Location_Earcorn_Description	Uma pequena aldeia agrícola não muito longe de Caer Cyflen.
+Map/&Location_Earcorn_Title	Earcorn
+Map/&Location_Earcorn_UnchartedDescription	NÃO DEVE SER EXIBIDO
+Map/&Location_Earcorn_UnchartedTitle	NÃO DEVE SER EXIBIDO
+Map/&Location_Earcorn_UnvisitedDescription	Você foi enviado aqui para investigar um possível grupo de cultistas de Arivad.
+Map/&Location_Earcorn_UnvisitedTitle	Earcorn
+Map/&Location_MindOfTheMaster_Description	Este lugar é uma área típica de Badlands, onde a natureza mais verde faz fronteira com rios de lava e poços de enxofre. Pode abrigar uma das joias da Coroa.
+Map/&Location_MindOfTheMaster_Title	Floresta de lava
+Map/&Location_MindOfTheMaster_UnchartedDescription	Este lugar é uma área típica de Badlands, onde a natureza mais verde faz fronteira com rios de lava e poços de enxofre.
+Map/&Location_MindOfTheMaster_UnchartedTitle	Floresta de lava
+Map/&Location_MindOfTheMaster_VisitedDescription	Este era o esconderijo do Mestre da Conjuração, em uma fortaleza mágica construída por sua mente quebrada.
+Map/&Location_MindOfTheMaster_VisitedTitle	Floresta de lava
+Map/&Location_TheSuperEgo_TheBridge_Title	Ponte
+Map/&Location_TheSuperEgo_TheHall_Title	Entrada
+Map/&Location_TheSuperEgo_TheLandingPad_Title	Plataforma de aterragem
+Map/&Location_TheSuperEgo_TheMastersRoom_Title	Sala do Mestre
+Map/&Location_TempleOfMisaye_Title	Templo de Misaye
+Map/&Location_CradleOfFire_RedscarGateHall	Redscar Gate Hall
+Map/&Location_CradleOfFire_NecropolisHall	Necropolis Hall
+Map/&Location_Farmhouse_Title	Casa de fazenda
+Map/&Location_Farmhouse_Description	Uma casa de fazenda no vale de Coparann ​​que pertence a sua família.
+Map/&Location_ImperialOutpostDescription	Você passou por essas ruínas ao viajar para Coparann ​​com Kythaela.
+Map/&Location_ImperialOutpostTitle	Ruínas do Posto Avançado Imperial
+Map/&Location_HalmanSummersHouse_Title	Halman Summer's House
+Map/&Location_HalmanSummersHouse2_Title	Coven de Arivad
+Map/&Location_AerElaiFinal_ImperialGate	Portão Imperial
+Map/&Location_AerElaiFinal_BoneYard	Boneyard
+Map/&Location_AerElaiFinal_AcidLake	O Lago do Ácido
+Map/&Location_AerElaiFinal_MistyPath	The Misty Path
+Map/&Location_AerElaiFinal_BentPalace	The Bent Palace
+Map/&Location_AerElaiFinal_TheRift	A fenda
+Map/&Location_AerElaiFinal_LaveFall	Lava Falls
+Map/&Location_TempleHospital_Title	Dispensário Principal
+Map/&Location_Temple_SafeRoom_Title	Sala de Segurança
+Map/&Location_CCyflen_Temple_Exit_Title	Saia para a cidade alta
+Map/&Location_CCyflen_Temple_Misaye_Title	Templo Secreto de Misaye
+Map/&Location_Spy_SmallFort_Title	Posto Avançado de Espionagem
+Map/&Location_Spy_SmallFort_Description	Daliat indicou que este lugar era um esconderijo fortificado onde os traidores do Silent Whisper estavam escondidos.
+Map/&Location_ScavengerCamp_Title	Scavenger Camp

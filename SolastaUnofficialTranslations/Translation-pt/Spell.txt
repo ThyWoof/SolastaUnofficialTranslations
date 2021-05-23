@@ -1,0 +1,399 @@
+Spell/&AcidArrowDescription	Lance uma flecha de ácido.
+Spell/&AcidArrowTitle	Flecha de ácido
+Spell/&AcidSplashDescription	Lance um parafuso de ácido.
+Spell/&AcidSplashTitle	Respingo de ácido
+Spell/&AidDescription	Aumenta temporariamente os pontos de vida para até três aliados.
+Spell/&AidTitle	Ajuda
+Spell/&AnimateDeadDescription	Crie um servo morto-vivo.
+Spell/&AnimateDeadTitle	Animate Dead
+Spell/&BaneDescription	Reduza o ataque e os testes de resistência de seus inimigos por um tempo limitado.
+Spell/&BaneTitle	Bane
+Spell/&BarkskinDescription	Dá a você ou a um aliado que você pode tocar em um CA de pelo menos 16.
+Spell/&BarkskinTitle	Barkskin
+Spell/&BeaconOfHopeDescription	Aumente a esperança e a vitalidade.
+Spell/&BeaconOfHopeTitle	Farol da Esperança
+Spell/&BestowCurseAbilityCharismaTitle	Conceder Maldição (Carisma)
+Spell/&BestowCurseAbilityConstitutionTitle	Conceder Maldição (Constituição)
+Spell/&BestowCurseAbilityDexterityTitle	Conferir maldição (destreza)
+Spell/&BestowCurseAbilityIntelligenceTitle	Conferir maldição (inteligência)
+Spell/&BestowCurseAbilityStrengthTitle	Conferir Maldição (Força)
+Spell/&BestowCurseAbilityWisdomTitle	Conferir maldição (sabedoria)
+Spell/&BestowCurseDescription	Amaldiçoa uma criatura que você pode tocar.
+Spell/&BestowCurseOnActionTurnTitle	Conferir maldição (ação)
+Spell/&BestowCurseOnAttackRollTitle	Conferir maldição (ataque)
+Spell/&BestowCurseOnDamageAddNecroticTitle	Conferir maldição (dano)
+Spell/&BestowCurseTitle	Conferir maldição
+Spell/&BlessDescription	Aumente os testes de resistência e jogadas de ataque de seus aliados por um tempo limitado.
+Spell/&BlessTitle	Abençoar
+Spell/&BlindnessDescription	Cegue um inimigo por um minuto.
+Spell/&BlindnessTitle	Cegueira
+Spell/&BlurDescription	Torna você embaçado e mais difícil de acertar por até um minuto.
+Spell/&BlurTitle	Borrão
+Spell/&BrandingSmiteDescription	Seu próximo golpe causa dano radiante adicional e seu alvo se torna luminoso.
+Spell/&BrandingSmiteTitle	Branding Smite
+Spell/&BurningHandsDescription	Pulverize um cone de fogo na sua frente.
+Spell/&BurningHandsTitle	Mãos ardentes
+Spell/&CharmPersonDescription	Torna um inimigo um aliado.
+Spell/&CharmPersonTitle	Charme Pessoa
+Spell/&ChillTouchDescription	Causa dano a um inimigo e evita a cura por um tempo limitado.
+Spell/&ChillTouchTitle	Chill Touch
+Spell/&ColorSprayTitle	Spray de cor
+Spell/&ConjureGoblinoidsDescription	Conjura 2 goblins que obedecem às suas ordens, a menos que você perca a concentração.
+Spell/&ConjureGoblinoidsTitle	Conjurar Goblinoides
+Spell/&CounterspellDescription	Interrompa o lançamento de feitiços de um inimigo.
+Spell/&CounterspellTitle	Contrafeitiço
+Spell/&CreateFoodDescription	Conjure 15 unidades de comida.
+Spell/&CreateFoodTitle	Criar comida
+Spell/&CureWoundsDescription	Cure um aliado pelo toque.
+Spell/&CureWoundsTitle	Curar feridas
+Spell/&DancingLightsDescription	Crie luzes dançantes que se movem ao seu comando.
+Spell/&DancingLightsTitle	Luzes dançantes
+Spell/&DarknessDescription	Crie uma área de escuridão mágica.
+Spell/&DarknessTitle	Trevas
+Spell/&DarkvisionDescription	Conceda Visão no escuro ao alvo.
+Spell/&DarkvisionTitle	Visão no escuro
+Spell/&DaylightDescription	Invoque um globo de luz brilhante.
+Spell/&DaylightTitle	Luz do dia
+Spell/&DazzleDescription	Abaixe a CA de um alvo e evite a reação até o início de seu próximo turno.
+Spell/&DazzleTitle	Deslumbrar
+Spell/&DetectEvilAndGoodDescription	Detecte criaturas próximas de natureza má ou boa.
+Spell/&DetectEvilAndGoodTitle	Detectar o mal e o bem
+Spell/&DetectMagicDescription	Detecte objetos ou criaturas mágicas próximas.
+Spell/&DetectMagicTitle	Detectar magia
+Spell/&DispelMagicDescription	Acabar com os feitiços ativos em uma criatura ou objeto.
+Spell/&DispelMagicTitle	Dissipar Magia
+Spell/&DivineFavorDescription	Ganhe dano radiante adicional por um tempo limitado.
+Spell/&DivineFavorTitle	Favor Divino
+Spell/&EnhanceAbilityBearsEnduranceDescription	Ganhe pontos de vida temporários e vantagem em testes de Constituição.
+Spell/&EnhanceAbilityBearsEnduranceTitle	Resistência do urso
+Spell/&EnhanceAbilityBullsStrengthDescription	Maior capacidade de carga e vantagem em testes de força.
+Spell/&EnhanceAbilityBullsStrengthTitle	Força do touro
+Spell/&EnhanceAbilityCatsGraceDescription	Dano de queda reduzido e vantagem em testes de Destreza.
+Spell/&EnhanceAbilityCatsGraceTitle	Graça do gato
+Spell/&EnhanceAbilityDescription	Conceda poderes temporários a um aliado por até uma hora.
+Spell/&EnhanceAbilityEaglesSplendorDescription	Vantagem em testes de Carisma.
+Spell/&EnhanceAbilityEaglesSplendorTitle	Esplendor da águia
+Spell/&EnhanceAbilityFoxsCunningDescription	Vantagem em verificações de inteligência.
+Spell/&EnhanceAbilityFoxsCunningTitle	Astúcia da raposa
+Spell/&EnhanceAbilityOwlsWisdomDescription	Vantagem em testes de Sabedoria.
+Spell/&EnhanceAbilityOwlsWisdomTitle	Sabedoria da Coruja
+Spell/&EnhanceAbilityTitle	Melhorar a habilidade
+Spell/&ExpeditiousRetreatDescription	Ganhe pontos de movimento e seja capaz de correr como uma ação bônus por um tempo limitado.
+Spell/&ExpeditiousRetreatTitle	Retiro expedito
+Spell/&FaerieFireDescription	Destaque as criaturas para dar vantagem a qualquer um que as ataque.
+Spell/&FaerieFireTitle	Faerie Fire
+Spell/&FalseLifeDescription	Ganhe alguns pontos de vida temporários por um tempo limitado.
+Spell/&FalseLifeTitle	Vida falsa
+Spell/&FearDescription	Assustar as criaturas e forçá-las a fugir.
+Spell/&FearTitle	Medo
+Spell/&FeatherFallDescription	Fornece um pouso seguro quando você ou um aliado cair.
+Spell/&FeatherFallTitle	Feather Fall
+Spell/&FindTrapsDescription	Identifique armadilhas mecânicas e mágicas, mas não perigos naturais.
+Spell/&FindTrapsTitle	Encontrar armadilhas
+Spell/&FireballDescription	Lance uma bola de fogo que explode de um ponto de sua escolha.
+Spell/&FireballTitle	Bola fogo
+Spell/&FireBoltDescription	Lance um raio de fogo.
+Spell/&FireBoltTitle	Fire Bolt
+Spell/&FlamingSphereDescription	Evoca uma esfera móvel em chamas.
+Spell/&FlamingSphereTitle	Esfera Flamejante
+Spell/&FlyDescription	Um aliado que você toca ganha a habilidade de voar por um tempo limitado.
+Spell/&FlyTitle	Mosca
+Spell/&FogCloudDescription	Gere uma esfera de névoa espessa por um tempo limitado.
+Spell/&FogCloudTitle	Nuvem de Nevoeiro
+Spell/&GlyphOfWardingDescription	Cria uma armadilha mágica fixa.
+Spell/&GlyphOfWardingTitle	Glifo de Vigilância
+Spell/&GuidanceDescription	Aumente os testes de habilidade de um aliado por um tempo limitado.
+Spell/&GuidanceTitle	Orientação
+Spell/&GuidingBoltDescription	Lance um ataque radiante contra um inimigo e torne-o fácil de acertar.
+Spell/&GuidingBoltTitle	Parafuso Guia
+Spell/&HasteDescription	Torne um aliado mais rápido e ágil e conceda a ele uma ação adicional por um tempo limitado.
+Spell/&HasteTitle	Pressa
+Spell/&HealingWordDescription	Cure um aliado que você pode ver.
+Spell/&HealingWordTitle	Palavra de Cura
+Spell/&HeroismDescription	Um aliado ganha pontos de vida temporários e não pode ser amedrontado por um período limitado.
+Spell/&HeroismTitle	Heroísmo
+Spell/&HideousLaughterDescription	Faça um inimigo indefeso com risadas irresistíveis.
+Spell/&HideousLaughterTitle	Risada horrível
+Spell/&HoldPersonDescription	Paralise um humanóide que você pode ver por um tempo limitado.
+Spell/&HoldPersonTitle	Manter Pessoa
+Spell/&HuntersMarkDescription	Um inimigo recebe dano adicional de você e você pode detectá-lo facilmente por um tempo limitado.
+Spell/&HuntersMarkTitle	Marca do caçador
+Spell/&HypnoticPatternDescription	Encanta os inimigos para torná-los inofensivos até serem atacados.
+Spell/&HypnoticPatternTitle	Padrão Hipnótico
+Spell/&IdentifyDescription	Identifique as propriedades ocultas de um objeto.
+Spell/&IdentifyTitle	Identificar
+Spell/&InflictWoundsDescription	Causa dano necrótico a um inimigo atingido.
+Spell/&InflictWoundsTitle	Infligir feridas
+Spell/&InvisibilityDescription	Torne um aliado invisível por um tempo limitado.
+Spell/&InvisibilityTitle	Invisibilidade
+Spell/&JumpDescription	Aumente a distância de salto de um aliado.
+Spell/&JumpTitle	Pular
+Spell/&KnockDescription	Abra portas trancadas, baús e coisas do gênero magicamente.
+Spell/&KnockTitle	Bater
+Spell/&LesserRestorationDescription	Remova uma condição prejudicial de um aliado.
+Spell/&LesserRestorationTitle	Restauração Menor
+Spell/&LevitateTitle	Levitar
+Spell/&LightDescription	Um objeto que você pode tocar emite uma luz poderosa por um tempo limitado.
+Spell/&LightningBoltDescription	Lance um raio na direção de sua escolha, causando danos a todos que tocar.
+Spell/&LightningBoltTitle	Relâmpago
+Spell/&LightTitle	Luz
+Spell/&LongstriderDescription	Aumenta a velocidade de um aliado em duas células por turno.
+Spell/&LongstriderTitle	Longstrider
+Spell/&MageArmorDescription	Fornece armadura mágica para um aliado que não usa armadura.
+Spell/&MageArmorTitle	Armadura de Mago
+Spell/&MagicCircleDescription	Cria um círculo mágico que protege contra ataques de celestiais, elementais, feys, demônios e mortos-vivos e restringe seus movimentos.
+Spell/&MagicCircleProtectOuterDescription	Celestiais, elementais, feys, demônios e mortos-vivos atacam criaturas dentro do círculo com desvantagem e não podem entrar no círculo.
+Spell/&MagicCircleProtectOuterTitle	Círculo mágico (protege de inimigos externos)
+Spell/&MagicCircleRestrictInnerDescription	Celestiais, elementais, feys, demônios e mortos-vivos atacam criaturas fora do círculo com desvantagem e não podem deixar o círculo.
+Spell/&MagicCircleRestrictInnerTitle	Círculo mágico (bloqueia os inimigos dentro)
+Spell/&MagicCircleTitle	Círculo Mágico
+Spell/&MagicMissileDescription	Ataque um ou mais inimigos com projéteis que não podem errar.
+Spell/&MagicMissileTitle	Míssil Mágico
+Spell/&MagicWeaponDescription	Uma arma não mágica torna-se uma arma +1 por até uma hora.
+Spell/&MagicWeaponTitle	Arma mágica
+Spell/&MassHealingWordDescription	Cura instantaneamente até seis aliados que você pode ver.
+Spell/&MassHealingWordTitle	Palavra de Cura em Massa
+Spell/&MistyStepDescription	Teleporta você para uma célula livre que você pode ver, a não mais de 6 células de distância.
+Spell/&MistyStepTitle	Misty Step
+Spell/&PassWithoutTraceDescription	Deixe você e até 5 aliados mais furtivos por uma hora.
+Spell/&PassWithoutTraceTitle	Passe sem deixar rastros
+Spell/&PoisonSprayDescription	Dispare um spray de veneno em um inimigo que você possa ver, dentro do alcance.
+Spell/&PoisonSprayTitle	Spray venenoso
+Spell/&PrayerOfHealingDescription	Cure vários aliados ao mesmo tempo.
+Spell/&PrayerOfHealingTitle	Oração de Cura
+Spell/&ProtectionFromEnergyAcidDescription	Toque em uma criatura disposta a dar-lhes resistência a esse tipo de dano.
+Spell/&ProtectionFromEnergyAcidTitle	Proteção contra ácido
+Spell/&ProtectionFromEnergyColdDescription	Toque em uma criatura disposta a dar-lhes resistência a esse tipo de dano.
+Spell/&ProtectionFromEnergyColdTitle	Proteção contra o frio
+Spell/&ProtectionFromEnergyDescription	Toque em uma criatura disposta a dar-lhes resistência a esse tipo de dano.
+Spell/&ProtectionFromEnergyFireDescription	Toque em uma criatura disposta a dar-lhes resistência a esse tipo de dano.
+Spell/&ProtectionFromEnergyFireTitle	Proteção Contra Incêndio
+Spell/&ProtectionFromEnergyLightningDescription	Toque em uma criatura disposta a dar-lhes resistência a esse tipo de dano.
+Spell/&ProtectionFromEnergyLightningTitle	Proteção contra raios
+Spell/&ProtectionFromEnergyThunderDescription	Toque em uma criatura disposta a dar-lhes resistência a esse tipo de dano.
+Spell/&ProtectionFromEnergyThunderTitle	Proteção contra trovão
+Spell/&ProtectionFromEnergyTitle	Proteção contra energia
+Spell/&ProtectionFromEvilGoodDescription	Toque em um aliado para protegê-lo de criaturas boas ou más por um tempo limitado.
+Spell/&ProtectionFromEvilGoodTitle	Proteger contra o mal e o bem
+Spell/&ProtectionFromPoisonDescription	Cura e protege contra veneno.
+Spell/&ProtectionFromPoisonTitle	Proteção contra veneno
+Spell/&RaiseDeadDescription	Traz uma criatura de volta à vida, até 10 dias após a morte.
+Spell/&RaiseDeadTitle	Raise Dead
+Spell/&RayOfEnfeeblementDescription	Enfraquece um inimigo para que ele cause menos dano por um minuto.
+Spell/&RayOfEnfeeblementTitle	Raio de Enfraquecimento
+Spell/&RayOfFrostDescription	Lance um raio de congelamento em um inimigo para danificá-lo e retardá-lo.
+Spell/&RayOfFrostTitle	Ray of Frost
+Spell/&RemoveCurseDescription	Remove todas as maldições que afetam o alvo.
+Spell/&RemoveCurseTitle	Remover maldição
+Spell/&ResistanceDescription	Conceda a um aliado um bônus único nos testes de resistência.
+Spell/&ResistanceTitle	Resistência
+Spell/&ResurrectionDescription	Traz uma criatura de volta à vida, até 100 anos após a morte.
+Spell/&ResurrectionTitle	Ressurreição
+Spell/&RevivifyDescription	Traz uma criatura de volta à vida, até 1 minuto após a morte.
+Spell/&RevivifyTitle	Revivificar
+Spell/&SacredFlameDescription	Ataque um inimigo com dano radiante.
+Spell/&SacredFlameTitle	Chama Sagrada
+Spell/&SanctuaryDescription	Temp
+Spell/&SanctuaryTitle	Santuário
+Spell/&ScorchingRayDescription	Lance raios de fogo em um ou mais inimigos.
+Spell/&ScorchingRayTitle	Raio escaldante
+Spell/&SeeInvisibilityDescription	Você pode ver criaturas invisíveis.
+Spell/&SeeInvisibilityTitle	Veja invisibilidade
+Spell/&ShadowArmorDescription	Concede 3 pontos de vida temporários por um minuto.
+Spell/&ShadowArmorTitle	Shadow Armor
+Spell/&ShadowDaggerDescription	Lança uma adaga ilusória que causa danos psíquicos.
+Spell/&ShadowDaggerTitle	Shadow Dagger
+Spell/&ShatterDescription	Dispara um ruído repentino que causa Danos de trovão em um raio de 2 células.
+Spell/&ShatterTitle	Quebrar
+Spell/&ShieldDescription	Aumente sua CA em 5 antes de levar um golpe.
+Spell/&ShieldOfFaithDescription	Aumente a CA de um aliado em 2 por um tempo limitado.
+Spell/&ShieldOfFaithTitle	Escudo da fé
+Spell/&ShieldTitle	Escudo
+Spell/&ShockingGraspDescription	Danifique e atordoe um inimigo com um toque bem-sucedido.
+Spell/&ShockingGraspTitle	Pega Chocante
+Spell/&SleepTitle	Dormir
+Spell/&SleetStormDescription	Cria uma área onde o solo é escorregadio, a visão é obscurecida e a concentração é mais difícil.
+Spell/&SleetStormTitle	Tempestade de granizo
+Spell/&SlowDescription	Retarda e prejudica as ações de até 6 criaturas.
+Spell/&SlowTitle	Lento
+Spell/&SpareTheDyingDescription	Toque um aliado moribundo para estabilizá-lo.
+Spell/&SpareTheDyingTitle	Poupe os moribundos
+Spell/&SpiderClimbDescription	Toque em um aliado para permitir que escalem paredes como uma aranha por um tempo limitado.
+Spell/&SpiderClimbTitle	Spider Climb
+Spell/&SpiritGuardiansDescription	Chame espíritos para protegê-lo.
+Spell/&SpiritGuardiansTitle	Guardiões espirituais
+Spell/&SpiritualWeaponDescription	Invoque uma arma que luta por você.
+Spell/&SpiritualWeaponTitle	Arma espiritual
+Spell/&StinkingCloudDescription	Crie uma nuvem de gás nocivo e incapacitante.
+Spell/&StinkingCloudTitle	Nuvem fedorenta
+Spell/&ThunderwaveDescription	Emita uma onda de força que causa danos e empurra criaturas e objetos para longe.
+Spell/&ThunderwaveTitle	Onda de trovão
+Spell/&TonguesDescription	Concede conhecimento de todos os idiomas por uma hora.
+Spell/&TonguesTitle	Línguas
+Spell/&TrueStrikeDescription	Aumenta sua chance de acertar um alvo que você pode ver, uma vez.
+Spell/&TrueStrikeTitle	True Strike
+Spell/&VampiricTouchDescription	Concede a você um ataque corpo a corpo exaustivo por um minuto.
+Spell/&VampiricTouchTitle	Toque vampírico
+Spell/&WallOfFireDescription	Crie uma parede em chamas que fere as criaturas dentro ou ao lado dela.
+Spell/&WallOfFireLineTitle	Parede de Fogo (linha)
+Spell/&WallOfFireRingTitle	Parede de Fogo (anel)
+Spell/&WallOfFireTitle	Parede de fogo
+Spell/&WaterBreathingDescription	Concede a dez criaturas a capacidade de respirar debaixo d'água.
+Spell/&WaterBreathingTitle	Respiração de água
+Spell/&WaterWalkDescription	Permite que você ande em superfícies líquidas por uma hora.
+Spell/&WaterWalkTitle	Caminhada aquática
+Spell/&WindWallDescription	Crie uma parede de vento que causa danos, empurra criaturas e objetos para longe e dispersa neblinas e gases.
+Spell/&WindWallTitle	Parede de Vento
+Spell/&AnnoyingBeeTitle	Abelha irritante
+Spell/&AnnoyingBeeDescription	O alvo vê uma abelha ilusória assediando-os e tem desvantagem nos testes de concentração até o início do próximo turno.
+Spell/&GreaseTitle	Graxa
+Spell/&GreaseDescription	Cubra uma área de 2 x 2 células com graxa. As criaturas que se amarram para cruzá-lo podem cair.
+Spell/&GoodberryTitle	Goodberry
+Spell/&DetectPoisonAndDiseaseTitle	Detectar veneno e doença
+Spell/&DetectPoisonAndDiseaseDescription	TMP Enquanto isso, você sente a presença e localização de criaturas venenosas e doenças a até 9 metros de você.
+Spell/&ComprehendLanguagesTitle	Compreender idiomas
+Spell/&ComprehendLanguagesDescription	Durante o feitiço, você entende o significado literal de qualquer palavra falada que ouve.
+Spell/&AnimalFriendshipTitle	Amizade Animal
+Spell/&AnimalFriendshipDescription	Escolha uma besta que você possa ver dentro do alcance do feitiço. A besta deve fazer um teste de resistência de Sabedoria ou ficar encantada durante a duração do feitiço.
+Spell/&PurifyFoodTitle	Purificar Alimentos
+Spell/&PurifyFoodDescription	Todos os alimentos não mágicos dentro de uma esfera de 1,5 metro de raio são purificados e liberados de venenos e doenças.
+Spell/&EntangleTitle	Emaranhado
+Spell/&EntangleDescription	Temp
+Spell/&CommandTitle	Comando
+Spell/&CommandTitleDescription	Temp
+Spell/&CommandApproachTitle	Abordagem
+Spell/&CommandApproachDescription	Temp
+Spell/&CommandDropTitle	Solta
+Spell/&CommandDropDescription	Temp
+Spell/&CommandFleeTitle	Fugir
+Spell/&CommandFleeDescription	Temp
+Spell/&CommandGrovelTitle	Rastejar
+Spell/&CommandGrovelDescription	Temp
+Spell/&CommandHaltTitle	Halt
+Spell/&CommandHaltDescription	Temp
+Spell/&CalmEmotionsTitle	Emoções calmas
+Spell/&CalmEmotionsOnAllyTitle	Calm Ally
+Spell/&CalmEmotionsOnAllyDescription	Impede que uma ou mais criaturas sejam encantadas ou amedrontadas.
+Spell/&CalmEmotionsOnEnemyTitle	Inimigo calmo
+Spell/&AlarmTitle	Alarme
+Spell/&AlarmDescription	Detecta magicamente monstros em movimento ao acampar na estrada.
+Spell/&Create or Destroy waterTitle	Criar ou destruir água
+Spell/&Create or Destroy waterDescription	Temp
+Spell/&CreateWaterTitle	Criar Água
+Spell/&CreateWaterDescription	Temp
+Spell/&DestroyWaterTitle	Destruir Água
+Spell/&DestroyWaterDescription	Temp
+Spell/&Floating DiskTitle	Disco Flutuante
+Spell/&Floating DiskDescription	Temp
+Spell/&Purify FoodTitle	Purificar Alimentos
+Spell/&Purify FoodDescription	Temp
+Spell/&SilenceTitle	Silêncio
+Spell/&SilenceDescription	Temp
+Spell/&WardingBondTitle	Warding Bond
+Spell/&WardingBondDescription	Temp
+Spell/&ConditionRestrictedInsideMagicCircleTitle	Restrito dentro do Magic Circle
+Spell/&ConditionProtectedInsideMagicCircleTitle	Protegido dentro do Círculo Mágico
+Spell/&Shine_Title	Brilhar
+Spell/&Shine_Description	Um inimigo que você pode ver se torna luminoso por um tempo.
+Spell/&Sparkle_Title	Brilhar
+Spell/&Sparkle_Description	Mire em até três objetos que podem ser iluminados e acenda-os imediatamente.
+Spell/&GoodberryDescription	Cria 10 bagas com infusão de magia. Comer uma baga restaura 1 ponto de vida e fornece sustento para um longo descanso. As frutas vermelhas desaparecem após um longo descanso.
+Spell/&ColorSprayDescription	Pulverize um spray que cegue brevemente seus inimigos.
+Spell/&ConjureAnimalsDescription	Convocar espíritos na forma de feras para ajudá-lo na batalha
+Spell/&ConjureAnimalsFourBeastsDescription	4 bestas médias são conjuradas
+Spell/&ConjureAnimalsFourBeastsTitle	Conjure 4 Bestas
+Spell/&ConjureAnimalsOneBeastDescription	1 besta poderosa é conjurada
+Spell/&ConjureAnimalsOneBeastTitle	Conjurar 1 Besta
+Spell/&ConjureAnimalsTitle	Conjurar Animal
+Spell/&ConjureAnimalsTwoBeastsDescription	2 bestas são conjuradas
+Spell/&ConjureAnimalsTwoBeastslTitle	Conjurar 2 Bestas
+Spell/&GustOfWindTitle	Rajada de vento
+Spell/&LevitateDescription	Permita que uma criatura levite e ganhe controle de seu movimento aéreo por um tempo limitado. Pode afetar os inimigos se seu tamanho for médio ou menor.
+Spell/&IdentifyCreaturesTitle	Identificar criaturas
+Spell/&IdentifyCreaturesDescription	Revela conhecimento de bestiário completo para as criaturas afetadas.
+Spell/&BanishmentTitle	Banimento
+Spell/&BanishmentDescription	Expulsa uma criatura enquanto você se concentrar. A criatura pode ser banida permanentemente se for extraplanar.
+Spell/&BlackTentaclesTitle	Tentáculos Negros
+Spell/&BlackTentaclesDescription	Conjura tentáculos negros que restringem e causam danos às criaturas dentro da área de efeito.
+Spell/&BlightTitle	Praga
+Spell/&BlightDescription	Drena a vida de uma criatura, causando danos necróticos massivos.
+Spell/&ConfusionTitle	Confusão
+Spell/&ConfusionDescription	Cria confusão e comportamento errático em uma criatura, possivelmente levando-a a atacar seus aliados.
+Spell/&ConjureMinorElementalsTitle	Conjurar Elementais Menores
+Spell/&ConjureMinorElementalsDescription	Conjure criaturas elementais sob seu comando, que são dispensadas quando o feitiço termina ou é quebrado.
+Spell/&ConjureMinorElementalsOneTitle	Conjurar 1 Elemental
+Spell/&ConjureMinorElementalsOneDescription	1 elemental é conjurado (CR 1/2).
+Spell/&ConjureMinorElementalsTwoTitle	Conjurar 2 Elementais
+Spell/&ConjureMinorElementalsTwoDescription	2 elementais são conjurados (ND 1).
+Spell/&ConjureMinorElementalsFourTitle	Conjurar 4 Elementais
+Spell/&ConjureMinorElementalsFourDescription	4 elementais são conjurados (ND 2).
+Spell/&DeathWardTitle	Death Ward
+Spell/&DeathWardDescription	Protege a criatura uma vez contra morte instantânea ou redução a 0 pontos de vida.
+Spell/&DimensionDoorTitle	Porta Dimensional
+Spell/&DimensionDoorDescription	Transfere o lançador e uma criatura amiga para um destino especificado.
+Spell/&FireShieldTitle	Escudo de fogo
+Spell/&FireShieldDescription	Concede resistência ao fogo ou frio e causa danos às criaturas que atacam o lançador com ataques corpo a corpo.
+Spell/&FireShieldWarmTitle	Escudo quente
+Spell/&FireShieldWarmDescription	Resistência ao frio; atacantes recebem dano de fogo.
+Spell/&FireShieldColdTitle	Escudo Frio
+Spell/&FireShieldColdDescription	Resistência a danos de fogo; atacantes recebem dano de frio.
+Spell/&FreedomOfMovementTitle	Liberdade de movimento
+Spell/&FreedomOfMovementDescription	Concede imunidade a restrições de movimento, bem como ser paralisado ou restringido.
+Spell/&GiantInsectTitle	Inseto gigante
+Spell/&GiantInsectDescription	Conjura uma versão gigante de um inseto natural ou artrópode.
+Spell/&GreaterInvisibilityTitle	Maior invisibilidade
+Spell/&GreaterInvisibilityDescription	O alvo fica invisível durante todo o tempo, mesmo ao atacar ou lançar feitiços.
+Spell/&GuardianOfFaithTitle	Guardião da fé
+Spell/&GuardianOfFaithDescription	Conjura um grande guardião espectral que causa danos aos inimigos que se aproximam.
+Spell/&IceStormTitle	Tempestade de gelo
+Spell/&IceStormDescription	Provoca pancadas e danos causados ​​pelo frio na área e transforma o solo em terreno difícil.
+Spell/&PhantasmalKillerTitle	Assassino Phantasmal
+Spell/&PhantasmalKillerDescription	Causa dano psíquico à criatura alvo em cada turno, a menos que um teste de resistência seja bem-sucedido ou o efeito termine.
+Spell/&StoneskinTitle	Pele de pedra
+Spell/&StoneskinDescription	Concede resistência a danos não mágicos de golpes, cortes e perfurações.
+Spell/&WallOfFireRingInnerTitle	Parede de Fogo (anel / interno)
+Spell/&WallOfFireRingOuterTitle	Muro de Fogo (anel / externo)
+Spell/&SleepDescription	Coloque várias criaturas para dormir por um tempo limitado.
+Spell/&CloudKillTitle	Cloudkill
+Spell/&CloudKillDescription	Cria uma nuvem obscura e venenosa. A nuvem se move a cada rodada.
+Spell/&ConeOfColdTitle	Cone de frio
+Spell/&ConeOfColdDescription	Inflige dano de frio massivo no cone de efeito.
+Spell/&ConjureElementalTitle	Conjurar Elemental
+Spell/&ConjureElementalDescription	Conjura um elemental do elemento escolhido que luta ao seu lado. Se você perder a concentração, o elemental permanece e se torna hostil.
+Spell/&ConjureElementalAirTitle	Conjurar Elemental (Ar)
+Spell/&ConjureElementalEarthTitle	Conjurar Elemental (Terra)
+Spell/&ConjureElementalFireTitle	Conjurar Elemental (Fogo)
+Spell/&ContagionTitle	Contágio
+Spell/&ContagionDescription	Acerte uma criatura para infligir uma doença dentre as opções.
+Spell/&ContagionBlindingSicknessTitle	Doença Cegante
+Spell/&ContagionBlindingSicknessDescription	A criatura tem desvantagem em testes de Sabedoria e testes de resistência de Sabedoria e está cega.
+Spell/&ContagionFilthFeverTitle	Febre Suja
+Spell/&ContagionFilthFeverDescription	A criatura tem desvantagem em testes de Força, testes de resistência de Força e jogadas de ataque que usam Força.
+Spell/&ContagionFleshRotTitle	Podridão da Carne
+Spell/&ContagionFleshRotDescription	A criatura tem desvantagem em testes de Carisma e é vulnerável a todos os danos.
+Spell/&ContagionMindfireTitle	Mindfire
+Spell/&ContagionMindfireDescription	A criatura tem desvantagem em testes de Inteligência e testes de resistência de Inteligência, e se comporta como se estivesse sob os efeitos da magia confusão durante o combate.
+Spell/&ContagionSeizureTitle	Convulsão
+Spell/&ContagionSeizureDescription	A criatura tem desvantagem em testes de Destreza, testes de resistência de Destreza e jogadas de ataque que usam Destreza.
+Spell/&ContagionSlimyDoomTitle	Desgraça pegajosa
+Spell/&ContagionSlimyDoomDescription	A criatura tem desvantagem em testes de Constituição e testes de resistência de Constituição. Além disso, sempre que a criatura sofre dano, ela fica atordoada até o final de seu próximo turno.
+Spell/&DispelEvilAndGoodTitle	Dissipe o mal e o bem
+Spell/&DispelEvilAndGoodDescription	Celestiais, elementais, feys, demônios e mortos-vivos têm desvantagem em ataques contra você. Este feitiço também permite cancelar encantamentos hostis ou dispensar criaturas extraplanares atingidas por seus ataques uma vez.
+Spell/&DominatePersonTitle	Dominar Pessoa
+Spell/&DominatePersonDescription	Concede a você controle sobre uma criatura inimiga.
+Spell/&FlameStrikeTitle	Flame Strike
+Spell/&FlameStrikeDescription	Conjura uma coluna ardente de fogo e brilho afetando todas as criaturas lá dentro.
+Spell/&GreaterRestorationTitle	Maior Restauração
+Spell/&GreaterRestorationDescription	Remove uma condição prejudicial, como um feitiço ou maldição, ou um efeito que reduz um valor de habilidade ou pontos de vida.
+Spell/&HoldMonsterTitle	Segure Monstro
+Spell/&HoldMonsterDescription	Paralisa uma criatura, a menos que ela seja bem-sucedida em um teste de resistência do WIS. Nenhum efeito em mortos-vivos.
+Spell/&InsectPlagueTitle	Praga de inseto
+Spell/&InsectPlagueDescription	Invoca uma esfera de insetos que picam.
+Spell/&MassCureWoundsTitle	Cura em massa de feridas
+Spell/&MassCureWoundsDescription	Cura até 6 criaturas.
+Spell/&WallOfForceTitle	Muro de Força
+Spell/&WallOfForceDescription	Conjura uma parede invisível que bloqueia movimentos e ataques.
+Spell/&MindTwistTitle	Mind Twist
+Spell/&MindTwistDescription	Causa dano psíquico massivo a criaturas hostis ao seu redor e as incapacita se falharem em seu teste de resistência INT.
+Spell/&CalmEmotionsDescription	Impede que uma ou mais criaturas sejam encantadas ou amedrontadas.
+Spell/&CalmEmotionsOnEnemyDescription	Impede que uma ou mais criaturas sejam encantadas ou amedrontadas.

@@ -1,0 +1,3 @@
+VisualMood/&CryptTitle	Crypt
+VisualMood/&InfernoTitle	Inferno
+VisualMood/&StrangeTitle	Strange

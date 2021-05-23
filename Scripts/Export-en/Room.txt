@@ -1,0 +1,6 @@
+Room/&Corner_12CTitle	Corner
+Room/&Crossroad_12CTitle	Crossroad
+Room/&Hallway_12CTitle	Hallway
+Room/&Line_12CTitle	Line
+Room/&Room_Big_24CTitle	Big Room
+Room/&Room_Small_24CTitle	Small Room

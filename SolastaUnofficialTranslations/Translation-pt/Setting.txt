@@ -1,0 +1,412 @@
+Setting/&ApplyDescription	Aplique as alterações que você selecionou.
+Setting/&ApplyNoChangeDescription	As configurações não mudaram.
+Setting/&ApplyTitle	Aplicar
+Setting/&AutosaveCountDescription	O número de salvamentos automáticos mantidos.
+Setting/&AutosaveCountTitle	Contagem de salvamento automático
+Setting/&CameraModeDescription	Selecione um modo de câmera de exploração.
+Setting/&CameraModeElasticDescription	A câmera de exploração pode se afastar de seu grupo, mas retorna ao modo de acompanhamento automaticamente após alguns segundos.
+Setting/&CameraModeElasticTitle	Primavera
+Setting/&CameraModeFollowDescription	A câmera de exploração está travada em seu grupo.
+Setting/&CameraModeFollowTitle	Seguir
+Setting/&CameraModeFreeDescription	Você pode mover a câmera de exploração à vontade, fora do nevoeiro.
+Setting/&CameraModeFreeTitle	Livre
+Setting/&CameraModeTitle	Modo de câmera
+Setting/&ConfineCursorToWindowDescription	Se ativado, o cursor não pode sair da janela do jogo a menos que outra tela seja selecionada.
+Setting/&ConfineCursorToWindowTitle	Limitar o cursor à janela
+Setting/&ContextualCameraFrequencyLevelDescription	Defina com que frequência a câmera de close-up focaliza ações importantes.
+Setting/&ContextualCameraFrequencyLevelTitle	Frequência de câmera contextual
+Setting/&DamageAcidStyleDescription	Estilo de matriz usado para este tipo de dano.
+Setting/&DamageAcidStyleTitle	Estilo de dano por ácido
+Setting/&DamageBludgeoningStyleDescription	Estilo de matriz usado para este tipo de dano.
+Setting/&DamageBludgeoningStyleTitle	Estilo de dano por concussão
+Setting/&DamageColdStyleDescription	Estilo de matriz usado para este tipo de dano.
+Setting/&DamageColdStyleTitle	Estilo de Danos por Frio
+Setting/&DamageFireStyleDescription	Estilo de matriz usado para este tipo de dano.
+Setting/&DamageFireStyleTitle	Estilo de dano de fogo
+Setting/&DamageForceStyleDescription	Estilo de matriz usado para este tipo de dano.
+Setting/&DamageForceStyleTitle	Estilo de dano de força
+Setting/&DamageLightningStyleDescription	Estilo de matriz usado para este tipo de dano.
+Setting/&DamageLightningStyleTitle	Estilo de dano por raio
+Setting/&DamageNecroticStyleDescription	Estilo de matriz usado para este tipo de dano.
+Setting/&DamageNecroticStyleTitle	Estilo de dano necrótico
+Setting/&DamagePiercingStyleDescription	Estilo de matriz usado para este tipo de dano.
+Setting/&DamagePiercingStyleTitle	Estilo de dano por piercing
+Setting/&DamagePoisonStyleDescription	Estilo de matriz usado para este tipo de dano.
+Setting/&DamagePoisonStyleTitle	Estilo de dano por veneno
+Setting/&DamagePsychicStyleDescription	Estilo de matriz usado para este tipo de dano.
+Setting/&DamagePsychicStyleTitle	Estilo de dano psíquico
+Setting/&DamageRadiantStyleDescription	Estilo de matriz usado para este tipo de dano.
+Setting/&DamageRadiantStyleTitle	Estilo de dano radiante
+Setting/&DamageSlashingStyleDescription	Estilo de matriz usado para este tipo de dano.
+Setting/&DamageSlashingStyleTitle	Estilo de Dano Cortante
+Setting/&DamageThunderStyleDescription	Estilo de matriz usado para este tipo de dano.
+Setting/&DamageThunderStyleTitle	Estilo de dano de trovão
+Setting/&DisplayBanterTextAboveCharactersDescription	Marque esta opção para mostrar / ocultar as falas de brincadeira acima dos personagens no jogo.
+Setting/&DisplayBanterTextAboveCharactersTitle	Exibir o texto da brincadeira acima dos caracteres
+Setting/&DisplayTutorialDescription	Exibir ou ocultar painéis de tutoriais durante o jogo.
+Setting/&DisplayTutorialTitle	Exibir tutorial
+Setting/&EffectsVolumeDescription	Altere o volume dos efeitos sonoros.
+Setting/&EffectsVolumeTitle	Volume de efeitos
+Setting/&FocusCameraOnBattleActionsDescription	Quando ativada, a câmera focará automaticamente em ações de batalha importantes, como ataques, lançamento de feitiços e muito mais.
+Setting/&FocusCameraOnBattleActionsTitle	Concentre a câmera nas ações de batalha
+Setting/&FramerateDescription	Frequência de atualização da tela do jogo.
+Setting/&FramerateTitle	Taxa de quadros
+Setting/&FullscreenDescription	Exibe o jogo em tela cheia ou modo de janela.
+Setting/&FullscreenTitle	Tela cheia
+Setting/&GroupedMonsterInitiativesDescription	Ao rolar para iniciativa, todos os monstros do mesmo tipo têm a mesma iniciativa.
+Setting/&GroupedMonsterInitiativesTitle	Iniciativas de Monstros Agrupados
+Setting/&HealingStyleDescription	Estilo de matriz usado para efeitos de cura.
+Setting/&HealingStyleTitle	Estilo de Cura
+Setting/&MainD20StyleDescription	Estilo de matriz para d20 principal.
+Setting/&MainD20StyleTitle	Estilo d20 principal
+Setting/&MainTitle	Definições
+Setting/&MasterEnabledDescription	Todo o áudio ligado / desligado.
+Setting/&MasterEnabledTitle	Mestre habilitado
+Setting/&MasterVolumeDescription	Volume geral de áudio.
+Setting/&MasterVolumeTitle	Volume principal
+Setting/&MoveWithRightClickDescription	Clique com o botão direito para mover personagens, interagir com um objeto ou atacar um inimigo.
+Setting/&MoveWithRightClickTitle	Mover / Ação contextual com clique com o botão direito
+Setting/&MusicVolumeDescription	Ajuste o volume da música de fundo.
+Setting/&MusicVolumeTitle	Volume da música
+Setting/&OnlyShowNPCIconOnHoverDescription	Os ícones de tipo de NPC (comerciante, doador de missões, etc.) só são exibidos quando o cursor está sobre o NPC.
+Setting/&OnlyShowNPCIconOnHoverTitle	Mostrar apenas o ícone de NPC ao passar o mouse
+Setting/&OrbitalCameraCorrectionDescription	A câmera se move para cima ao entrar nos limites do nível.
+Setting/&OrbitalCameraCorrectionTitle	Correção de câmera orbital
+Setting/&PartyReactionTrapDetectedDescription	Defina a reação do grupo à detecção de uma armadilha.
+Setting/&PartyReactionTrapDetectedNoReactionDescription	A festa continua com suas ações atuais.
+Setting/&PartyReactionTrapDetectedNoReactionTitle	Sem reação
+Setting/&PartyReactionTrapDetectedStopMovementDescription	A festa para de se mover.
+Setting/&PartyReactionTrapDetectedStopMovementTitle	Pare o movimento
+Setting/&PartyReactionTrapDetectedTitle	Reação na detecção de armadilha
+Setting/&PrepareSpellsLongRestDescription	Mudar os feitiços preparados de um personagem requer um longo descanso.
+Setting/&PrepareSpellsLongRestTitle	Prepare feitiços e descanso prolongado
+Setting/&QualityLevelDescription	Qualidade gráfica. A alta qualidade requer uma placa gráfica mais potente.
+Setting/&QualityLevelHighDescription	Bom para sistemas de ponta
+Setting/&QualityLevelHighTitle	Alto
+Setting/&QualityLevelLowDescription	Bom para sistemas low-end
+Setting/&QualityLevelLowTitle	Baixo
+Setting/&QualityLevelMediumDescription	Bom para sistemas de médio alcance
+Setting/&QualityLevelMediumTitle	Médio
+Setting/&QualityLevelTitle	Nível de qualidade
+Setting/&QualityLevelUltraDescription	Pode ser usado apenas com os sistemas mais poderosos
+Setting/&QualityLevelUltraTitle	Ultra
+Setting/&QualityLevelVery HighDescription	Bom para sistemas poderosos
+Setting/&QualityLevelVery HighTitle	Muito alto
+Setting/&QualityLevelVery LowDescription	Funciona com os sistemas mais fracos
+Setting/&QualityLevelVery LowTitle	Muito baixo
+Setting/&QuicksaveCountDescription	O número de salvamentos rápidos mantidos.
+Setting/&QuicksaveCountTitle	Contagem Quicksave
+Setting/&ReactionTimerDescription	Esta opção oferece um tempo limitado para decidir se deve ou não usar uma reação.
+Setting/&ReactionTimerTitle	Temporizador de reação
+Setting/&ResolutionDescription	A resolução gráfica da tela do jogo.
+Setting/&ResolutionTitle	Resolução
+Setting/&RollAbilityCheckDieDescription	Mostrar / ocultar dados quando um teste de habilidade é rolado durante a exploração ou combate.
+Setting/&RollAbilityCheckDieTitle	Mostrar dado de verificação de habilidade
+Setting/&RollAttackDieDescription	Mostrar / ocultar o dado quando o jogo rolar para um ataque.
+Setting/&RollAttackDieTitle	Mostrar dado de ataque
+Setting/&RollDamageDiceDescription	Mostra / esconde o dado quando um ataque causa dano.
+Setting/&RollDamageDiceTitle	Mostrar Dados de Danos
+Setting/&RollDialogsDieDescription	Mostrar / ocultar dados ao rolar um teste de habilidade durante uma conversa.
+Setting/&RollDialogsDieTitle	Mostrar dado de diálogo
+Setting/&RollDieAlwaysDescription	Sempre role o dado.
+Setting/&RollDieAlwaysTitle	Sempre
+Setting/&RollDieHeroOnlyDescription	Jogue o dado apenas para personagens heróis.
+Setting/&RollDieHeroOnlyTitle	Só heróis
+Setting/&RollDieNeverDescription	Nunca role o dado.
+Setting/&RollDieNeverTitle	Nunca
+Setting/&RollHealingDiceDescription	Mostrar / ocultar dados quando um feitiço ou poder cura o dano.
+Setting/&RollHealingDiceTitle	Mostrar dados de cura
+Setting/&RollInitiativeDieDescription	Mostrar / ocultar o dado quando o jogo rolar por iniciativa.
+Setting/&RollInitiativeDieTitle	Show Initiative Die
+Setting/&RollSavingThrowDieDescription	Mostrar / ocultar o dado quando um teste de resistência é rolado.
+Setting/&RollSavingThrowDieTitle	Mostrar dado de teste de resistência
+Setting/&SecondaryD20StyleDescription	Estilo de matriz para o segundo d20 usado em rolos com vantagem / desvantagem.
+Setting/&SecondaryD20StyleTitle	Segundo estilo d20
+Setting/&ShowHelmetInPortraitDescription	Marque esta opção para mostrar / ocultar capacetes em retratos de personagens.
+Setting/&ShowHelmetInPortraitTitle	Mostrar capacete em retrato
+Setting/&TargetFramerateDescription	Permite limitar a taxa de quadros a um determinado número de quadros por segundo, limitando o custo de computação / superaquecimento.
+Setting/&TargetFramerateTitle	Target Framerate
+Setting/&TextLanguagedeDescription	Deutsch
+Setting/&TextLanguageDescription	O idioma usado para o texto do jogo.
+Setting/&TextLanguagedeTitle	Deutsch
+Setting/&TextLanguageenDescription	inglês
+Setting/&TextLanguageenTitle	inglês
+Setting/&TextLanguagefrDescription	Français
+Setting/&TextLanguagefrTitle	Français
+Setting/&TextLanguageTitle	Linguagem dos textos
+Setting/&TextLanguagezh-CNDescription	简体 中文
+Setting/&TextLanguagezh-CNTitle	简体 中文
+Setting/&TimeDisplayMode24Description	A exibição da hora usa o relógio de 24 horas.
+Setting/&TimeDisplayMode24Title	24 horas
+Setting/&TimeDisplayModeAMPMDescription	A exibição da hora usa o sistema AM / PM.
+Setting/&TimeDisplayModeAMPMTitle	MANHÃ TARDE
+Setting/&TimeDisplayModeDescription	Alterna o modo de exibição para a hora do jogo (AM-PM / 24 horas).
+Setting/&TimeDisplayModeTitle	Modo de exibição de hora
+Setting/&ToggleAudioDescription	Clique nesta guia para alterar as configurações de som e música.
+Setting/&ToggleAudioTitle	Áudio
+Setting/&ToggleDiceDescription	Clique nesta guia para alterar as configurações de exibição de dados.
+Setting/&ToggleDiceTitle	Dados
+Setting/&ToggleGameDescription	Clique nesta guia para alterar as configurações de jogo.
+Setting/&ToggleGameTitle	Jogo
+Setting/&ToggleGraphicsDescription	Clique nesta guia para alterar as configurações de gráficos e exibição.
+Setting/&ToggleGraphicsTitle	Gráficos
+Setting/&ToggleGuiDescription	Clique nesta guia para alterar as configurações da interface do usuário.
+Setting/&ToggleGuiTitle	GUI
+Setting/&VoicesVolumeDescription	Mudança do volume de reprodução de voz.
+Setting/&VoicesVolumeTitle	Volume de Voz
+Setting/&VSyncDescription	Define a sincronização vertical com a exibição na tela.
+Setting/&VSyncDoubleDescription	A frequência de renderização do jogo é sincronizada na metade da frequência da tela. Útil para monitores de alta frequência (120 Hz).
+Setting/&VSyncDoubleTitle	Dobro
+Setting/&VSyncNoneDescription	A frequência de renderização do jogo não é sincronizada com a exibição da tela, permitindo uma taxa de quadros ilimitada.
+Setting/&VSyncNoneTitle	Nenhum
+Setting/&VSyncSingleDescription	A frequência de renderização do jogo é sincronizada com a frequência da tela ou um divisor inteiro (por exemplo, 30, 20, 15).
+Setting/&VSyncSingleTitle	solteiro
+Setting/&VSyncTitle	Vsync
+Setting/&FullScreenModeTitle	Modo tela cheia
+Setting/&FullScreenModeDescription	Define o tipo de janela do aplicativo.
+Setting/&FullScreenModeExclusiveFullScreenTitle	Tela inteira exclusiva
+Setting/&FullScreenModeExclusiveFullScreenDescription	O aplicativo altera a resolução do monitor e reivindica o uso exclusivo do monitor de destino.
+Setting/&FullScreenModeFullScreenWindowTitle	Janela em tela cheia
+Setting/&FullScreenModeFullScreenWindowDescription	Neste modo, o aplicativo ficará em uma janela que cobre toda a tela. Ele funciona na resolução da área de trabalho e outras resoluções solicitadas são dimensionadas para caber.
+Setting/&FullScreenModeMaximizedWindowTitle	Janela Maximizada
+Setting/&FullScreenModeMaximizedWindowDescription	Neste modo, o aplicativo cria uma janela maximizada.
+Setting/&FullScreenModeWindowedTitle	Windowed
+Setting/&FullScreenModeWindowedDescription	Neste modo, o Unity cria uma janela padrão sem tela cheia.
+Setting/&CustomQualityTitle	Qualidade Personalizada
+Setting/&CustomQualityDescription	Permite que você substitua os parâmetros de qualidade padrão.
+Setting/&ShadowQualityTitle	Qualidade da sombra
+Setting/&ShadowQualityDescription	Escolha uma resolução para renderizar sombras. Quanto maior for a resolução, maior será a sobrecarga de processamento.
+Setting/&ShadowQualityLowTitle	Baixo
+Setting/&ShadowQualityLowDescription	Baixa resolução do mapa de sombra.
+Setting/&ShadowQualityMediumTitle	Médio
+Setting/&ShadowQualityMediumDescription	Resolução média do mapa de sombra.
+Setting/&ShadowQualityHighTitle	Alto
+Setting/&ShadowQualityHighDescription	Alta resolução do mapa de sombra.
+Setting/&ShadowQualityVeryHighTitle	Muito alto
+Setting/&ShadowQualityVeryHighDescription	Resolução muito alta do mapa de sombra.
+Setting/&ShadowDistanceTitle	Distância da Sombra
+Setting/&ShadowDistanceDescription	Defina a distância máxima da câmera na qual as sombras são visíveis. As sombras além dessa distância não são renderizadas.
+Setting/&ShadowDistanceLowTitle	Baixo
+Setting/&ShadowDistanceLowDescription	Distância de renderização de sombra baixa.
+Setting/&ShadowDistanceMediumTitle	Médio
+Setting/&ShadowDistanceMediumDescription	Distância média de renderização de sombra.
+Setting/&ShadowDistanceHighTitle	Alto
+Setting/&ShadowDistanceHighDescription	Alta distância de renderização de sombra.
+Setting/&ShadowDistanceVeryHighTitle	Muito alto
+Setting/&ShadowDistanceVeryHighDescription	Distância de renderização de sombra muito alta.
+Setting/&ShadowDistanceUltraTitle	Ultra
+Setting/&ShadowDistanceUltraDescription	Distância máxima de renderização da sombra.
+Setting/&TextureQualityTitle	Qualidade da textura
+Setting/&TextureQualityDescription	Escolha uma resolução para a exibição de texturas. Uma resolução mais baixa tem uma sobrecarga de processamento menor.
+Setting/&TextureQualityQuarterResTitle	Resolução muito baixa
+Setting/&TextureQualityQuarterResDescription	Use texturas de resolução muito baixa.
+Setting/&TextureQualityHalfResTitle	Baixa resolução
+Setting/&TextureQualityHalfResDescription	Use texturas de baixa resolução.
+Setting/&TextureQualityFullResTitle	Resolução Original
+Setting/&TextureQualityFullResDescription	Use texturas de resolução original.
+Setting/&VolumetricLightingQualityTitle	Qualidade de iluminação volumétrica
+Setting/&VolumetricLightingQualityDescription	Escolha uma resolução para renderizar efeitos de iluminação volumétricos. Você também pode desativá-los. Observe que alguns recursos são desativados em níveis de qualidade mais baixos. Uma configuração mais alta oferece melhor qualidade de renderização à custa de sobrecarga de processamento.
+Setting/&VolumetricLightingQualityDisabledTitle	Desativado
+Setting/&VolumetricLightingQualityDisabledDescription	Desative totalmente a iluminação volumétrica.
+Setting/&VolumetricLightingQualityLowTitle	Baixo
+Setting/&VolumetricLightingQualityLowDescription	Use um buffer de baixa resolução e desative a maioria dos recursos de iluminação volumétrica.
+Setting/&VolumetricLightingQualityMediumTitle	Médio
+Setting/&VolumetricLightingQualityMediumDescription	Use um buffer de resolução média e desative alguns recursos de iluminação volumétrica.
+Setting/&VolumetricLightingQualityHighTitle	Alto
+Setting/&VolumetricLightingQualityHighDescription	Use um buffer de alta resolução e ative todos os recursos de iluminação volumétrica.
+Setting/&ClothesSimulationQualityTitle	Qualidade de simulação de roupas
+Setting/&ClothesSimulationQualityDescription	Escolha a qualidade da simulação física das roupas dos personagens. Você também pode desativar este efeito. Uma configuração de qualidade mais alta permite a simulação de tecido em mais caracteres na tela ao custo de sobrecarga de processamento.
+Setting/&ClothesSimulationQualityDisabledTitle	Desativado
+Setting/&ClothesSimulationQualityDisabledDescription	Desative a simulação de pano completamente.
+Setting/&ClothesSimulationQualityImportantTitle	Apenas personagens importantes
+Setting/&ClothesSimulationQualityImportantDescription	Habilite a simulação de tecido apenas para personagens principais.
+Setting/&DepthOfFieldTitle	Profundidade de Campo
+Setting/&DepthOfFieldDescription	Ative ou desative o efeito que simula as propriedades de foco de uma lente de câmera.
+Setting/&AmbientOcclusionTitle	Oclusão de ambiente
+Setting/&AmbientOcclusionDescription	Ative ou desative o Ambient Occlusion como um efeito de pós-processamento de tela inteira. Ele escurece vincos, orifícios, interseções e superfícies próximas umas das outras.
+Setting/&AntiAliasingTitle	Anti-Aliasing
+Setting/&AntiAliasingDescription	Escolha a solução que deseja usar para evitar serrilhado e dar aos gráficos uma aparência mais uniforme. Você também pode desativar este efeito.
+Setting/&AntiAliasingNoneTitle	Nenhum
+Setting/&AntiAliasingNoneDescription	Desative totalmente o efeito de suavização.
+Setting/&AntiAliasingFastApproximateAntialiasingTitle	FXAA
+Setting/&AntiAliasingFastApproximateAntialiasingDescription	O anti-aliasing aproximado rápido é a técnica mais barata e é recomendado para desktops mais lentos.
+Setting/&AntiAliasingTemporalAntialiasingTitle	TAA
+Setting/&AntiAliasingTemporalAntialiasingDescription	O anti-aliasing temporal é uma técnica de anti-aliasing mais avançada. É substancialmente melhor para suavizar bordas em movimento, mas tem uma sobrecarga de processamento maior do que FXAA.
+Setting/&BrightnessTitle	Brilho
+Setting/&BrightnessDescription	Ajuste o brilho do jogo para o seu monitor.
+Setting/&ContrastTitle	Contraste
+Setting/&ContrastDescription	Ajuste o contraste do jogo para o seu monitor.
+Setting/&DiceVisibilityTitle	Visibilidade dos dados
+Setting/&DiceStyleTitle	Estilo de Dados
+Setting/&PartyD20StyleDescription	Estilo de matriz para rolos de festa d20
+Setting/&PartyD20StyleTitle	Estilo Party d20
+Setting/&PartySecondaryD20StyleDescription	Estilo de dado para o segundo dado do grupo ao rolar com vantagem ou desvantagem
+Setting/&PartySecondaryD20StyleTitle	Party Adv./Disadv. Estilo d20
+Setting/&EnemyD20StyleDescription	Estilo de dado para rolos de d20 inimigos
+Setting/&EnemyD20StyleTitle	Estilo Inimigo d20
+Setting/&EnemySecondaryD20StyleDescription	Estilo de dado para o segundo dado do inimigo ao rolar com vantagem ou desvantagem
+Setting/&EnemySecondaryD20StyleTitle	Adv./Disadv do inimigo. Estilo d20
+Setting/&ToggleKeyboardDescription	Permite que você personalize o mapeamento do teclado dos comandos do jogo
+Setting/&ToggleKeyboardTitle	Teclado
+Setting/&GeneralHeaderTitle	Em geral
+Setting/&CancelTitle	Cancelar
+Setting/&PlayPauseTitle	A pausa
+Setting/&QuickSaveTitle	Salvamento rapido
+Setting/&QuickLoadTitle	Carregamento Rápido
+Setting/&ToggleMapTitle	Alternar mapa
+Setting/&PartyJournalTitle	Diário de Festa
+Setting/&BestiaryTitle	Bestiário
+Setting/&ShowDetailedInformationTitle	Destacar Elementos Interativos
+Setting/&CharacterControlHeaderTitle	Controle de Personagem
+Setting/&InspectCharacterTitle	Inspecionar personagem
+Setting/&CastSpellTitle	Feitiço lançado
+Setting/&EndTurnTitle	Turno final
+Setting/&SelectNextCharacterTitle	Selecione o próximo personagem
+Setting/&SelectAllCharactersTitle	Selecione todos os personagens
+Setting/&SelectCharacter1Title	Selecione o personagem 1
+Setting/&SelectCharacter2Title	Selecione o personagem 2
+Setting/&SelectCharacter3Title	Selecione o personagem 3
+Setting/&SelectCharacter4Title	Selecione o personagem 4
+Setting/&EnablePlanarTargettingDescription	Permite limitar a seleção de destino / destino a um plano horizontal, em vez de 3D completo.
+Setting/&EnablePlanarTargettingTitle	Habilitar segmentação plana
+Setting/&CameraControlHeaderTitle	Controle de câmera
+Setting/&LeftTitle	Vire à esquerda
+Setting/&RightTitle	Mover para a direita
+Setting/&ForwardTitle	Siga em frente
+Setting/&BackwardTitle	Mover para trás
+Setting/&RotateCCWTitle	Girar no sentido anti-horário
+Setting/&RotateCWTitle	Rode no sentido dos ponteiros do relógio
+Setting/&HeldZoomTitle	Segure para ampliar para caractere
+Setting/&ZoomInTitle	Mais Zoom
+Setting/&ZoomOutTitle	Reduzir o zoom
+Setting/&KeyMappingUnboundTitle	Não consolidado
+Setting/&KeyMappingImmutableDescription	Este mapeamento de teclado não pode ser modificado pelo usuário.
+Setting/&InputKeyTitle	Aperte uma tecla
+Setting/&DefaultDescription	Restaura os valores padrão para esta categoria de configurações
+Setting/&DefaultTitle	Padrão
+Setting/&PreserveRandomSeedDescription	Preserve a geração de números aleatórios ao carregar um jogo salvo para obter os mesmos resultados de combate. A geração aleatória é sempre recalculada para rolos de diálogo, mesmo quando esta opção está ativada.
+Setting/&PreserveRandomSeedTitle	Preservar Semente Aleatória
+Setting/&ClothesSimulationQualityAlwaysTitle	TBC
+Setting/&RefreshRateDescription	A frequência de atualização (Hz) da resolução selecionada
+Setting/&RefreshRateTitle	Taxa de atualização
+Setting/&DisplayHeaderTitle	Exibição
+Setting/&GameplayHeaderTitle	Jogabilidade
+Setting/&CameraHeaderTitle	Câmera
+Setting/&SpellComponentsHeaderTitle	Componentes de Feitiço
+Setting/&VerbalComponentDescription	Determina como você simula os requisitos para magias com um componente verbal
+Setting/&VerbalComponentTitle	Componentes Verbais
+Setting/&VerbalComponentDisabledDescription	Os heróis não requerem a habilidade de falar para lançar feitiços com um componente verbal
+Setting/&VerbalComponentDisabledTitle	Desativado
+Setting/&VerbalComponentFullDescription	Os heróis devem ser capazes de falar para lançar feitiços com um componente verbal
+Setting/&VerbalComponentFullTitle	Cheio
+Setting/&SomaticComponentDescription	Determina como você simula os requisitos para magias com um componente somático
+Setting/&SomaticComponentTitle	Componentes Somáticos
+Setting/&SomaticComponentDisabledDescription	Os heróis não requerem a habilidade de falar para lançar feitiços com um componente verbal
+Setting/&SomaticComponentDisabledTitle	Desativado
+Setting/&SomaticComponentBasicDescription	Os personagens não podem lançar um feitiço com um componente somático se estiverem contidos
+Setting/&SomaticComponentBasicTitle	Básico
+Setting/&SomaticComponentFullTitle	Cheio
+Setting/&MaterialComponentDescription	Determina como você simula os requisitos para magias com um componente material
+Setting/&MaterialComponentTitle	Componentes de Material
+Setting/&MaterialComponentDisabledDescription	Nenhum componente de material é necessário
+Setting/&MaterialComponentDisabledTitle	Desativado
+Setting/&MaterialComponentBasicDescription	Feitiços com um componente material requerem um foco de feitiço ou bolsa de componente
+Setting/&MaterialComponentBasicTitle	Básico
+Setting/&MaterialComponentFullDescription	Magias com um componente material mundano requerem um foco de magia ou bolsa de componente. Feitiços com um componente específico exigem isso
+Setting/&MaterialComponentFullTitle	Cheio
+Setting/&OtherHeaderTitle	Outro
+Setting/&DifficultySettingsHeaderTitle	Configurações de dificuldade
+Setting/&DifficultyPresetTitle	Dificuldade
+Setting/&DifficultyPresetDescription	Escolha em uma lista de predefinições de dificuldade.
+Setting/&DifficultyPresetPreset1Title	Modo história
+Setting/&DifficultyPresetPreset1Description	Para jogadores que preferem se concentrar na história. A exploração e o combate serão simplificados.
+Setting/&DifficultyPresetPreset2Title	Modo Explorador
+Setting/&DifficultyPresetPreset2Description	Para jogadores não familiarizados com RPGs táticos ou o conjunto de regras.
+Setting/&DifficultyPresetPreset3Title	Modo Autêntico
+Setting/&DifficultyPresetPreset3Description	Para jogadores que desejam o autêntico conjunto de regras de mesa.
+Setting/&DifficultyPresetPreset4Title	Modo Scavenger
+Setting/&DifficultyPresetPreset4Description	Para jogadores que estão prontos para um desafio mais difícil.
+Setting/&DifficultyPresetPreset5Title	Modo Cataclismo
+Setting/&DifficultyPresetPreset5Description	Para jogadores que procuram desafiar as probabilidades. Você irá sofrer. Muito.
+Setting/&CustomDifficultyTitle	Dificuldade Personalizada
+Setting/&CustomDifficultyDescription	Permite que você escolha as configurações desejadas.
+Setting/&BattleSettingsHeaderTitle	Batalha
+Setting/&DamageTakenAllyMultiplierTitle	Dano recebido
+Setting/&DamageTakenAllyMultiplierDescription	Modifica o dano recebido pelos personagens dos jogadores e NPCs críticos.
+Setting/&DisableEnemyCritsTitle	Desativar acertos críticos do inimigo
+Setting/&DisableEnemyCritsDescription	Os acertos críticos dos inimigos causam dano regular.
+Setting/&AiUsesPowerfulMovesMoreOftenTitle	Deadlier AI
+Setting/&AiUsesPowerfulMovesMoreOftenDescription	Monstros usarão movimentos poderosos (como feitiços AoE) com mais frequência e empurrarão os personagens para a morte.
+Setting/&AiTargetsHelplessCharactersTitle	AI impiedosa
+Setting/&AiTargetsHelplessCharactersDescription	Monstros irão atacar personagens inconscientes e moribundos para matá-los.
+Setting/&EnemyHpMultiplierTitle	Multiplicador de saúde do inimigo
+Setting/&EnemyHpMultiplierDescription	Modifica os pontos de saúde do inimigo pelo valor selecionado.
+Setting/&SavingThrowAllyModifierTitle	Lance de resistência de aliado
+Setting/&SavingThrowAllyModifierDescription	Todos os testes de resistência feitos por personagens aliados receberão este modificador.
+Setting/&SavingThrowEnemyModifierTitle	Teste de resistência do inimigo
+Setting/&SavingThrowEnemyModifierDescription	Todos os testes de resistência feitos por personagens inimigos receberão este modificador.
+Setting/&AttackRollAllyModifierTitle	Teste de Ataque de Aliado
+Setting/&AttackRollAllyModifierDescription	Todas as jogadas de ataque feitas por personagens aliados receberão este modificador.
+Setting/&AttackRollEnemyModifierTitle	Teste de Ataque Inimigo
+Setting/&AttackRollEnemyModifierDescription	Todas as jogadas de ataque feitas por personagens inimigos receberão este modificador.
+Setting/&AbilityCheckAllyModifierTitle	Teste de habilidade de aliado
+Setting/&AbilityCheckAllyModifierDescription	Todos os testes de habilidade feitos por personagens aliados receberão este modificador.
+Setting/&AbilityCheckEnemyModifierTitle	Teste de habilidade do inimigo
+Setting/&AbilityCheckEnemyModifierDescription	Todos os testes de habilidade feitos por personagens inimigos receberão este modificador.
+Setting/&AutoreviveTitle	Auto-reviver
+Setting/&AutoreviveDescription	Os personagens são revividos automaticamente no final da batalha, contanto que um sobreviva.
+Setting/&HeatlhAndRestSettingsHeaderTitle	Saúde e descanso
+Setting/&CompanionsRestTitle	Resto de companheiros
+Setting/&CompanionsRestDescription	NPCs e companheiros críticos se recuperam totalmente durante curtos descansos.
+Setting/&NoFoodNeededTitle	Nenhum alimento necessário
+Setting/&NoFoodNeededDescription	Os personagens podem descansar um pouco, mesmo que não tenham comida.
+Setting/&MaxHpOnHitDiceTitle	Saúde máxima nos dados de vida
+Setting/&MaxHpOnHitDiceDescription	Usar um dado de vida durante um curto descanso concede o máximo de saúde de volta.
+Setting/&MaxHpOnLevelUpTitle	Saúde máxima ao subir de nível
+Setting/&MaxHpOnLevelUpDescription	Aumenta a saúde de um personagem pelo valor máximo ao subir de nível.
+Setting/&InventorySettingsHeaderTitle	Inventário
+Setting/&EncumbranceRuleTypeTitle	Regra de Ônus
+Setting/&EncumbranceRuleTypeDescription	Escolha com qual regra de estorvo jogar.
+Setting/&EncumbranceRuleTypeDefaultTitle	Tabletop
+Setting/&EncumbranceRuleTypeDefaultDescription	Seus personagens podem carregar até 15x STR.
+Setting/&EncumbranceRuleTypeVariantTitle	Solasta (variante)
+Setting/&EncumbranceRuleTypeVariantDescription	Seus personagens podem carregar até 15x STR, mas serão sobrecarregados acima de 5x STR e pesadamente sobrecarregados acima de 10x STR.
+Setting/&EncumbranceRuleTypeEasyTitle	Simplificado
+Setting/&EncumbranceRuleTypeEasyDescription	Seus personagens podem carregar até 150x STR.
+Setting/&SpellcastingSettingsHeaderTitle	Feitiço
+Setting/&NeverLoseConcentrationOnSpellsTitle	Nunca perca a concentração
+Setting/&NeverLoseConcentrationOnSpellsDescription	Um lançador concentrado em uma magia não precisará de um teste de resistência de constituição quando danificado.
+Setting/&ScrollsCanBeUsedByAnyCharacterTitle	Pergaminhos Universais
+Setting/&ScrollsCanBeUsedByAnyCharacterDescription	Qualquer personagem pode usar um pergaminho, mesmo que o feitiço não esteja em sua lista de feitiços.
+Setting/&RandomnessSettingsHeaderTitle	Rolos de dados
+Setting/&RandomnessModeTitle	Modo Aleatório
+Setting/&RandomnessModeDescription	Escolha o modo aleatório usado ao lançar os dados.
+Setting/&RandomnessModeTrueRandomTitle	True Random
+Setting/&RandomnessModeTrueRandomDescription	Sua sorte ficará nas mãos dos deuses dos dados.
+Setting/&RandomnessModeNiceDiceTitle	Dados cármicos
+Setting/&RandomnessModeNiceDiceDescription	Jogadas de dados ruins aumentam as chances do jogador de conseguir uma boa jogada.
+Setting/&ForceCritEveryFewRollsTitle	Crítico Garantido
+Setting/&ForceCritEveryFewRollsDescription	Garante ao jogador um acerto crítico pelo menos uma vez a cada 15 lançamentos.
+Setting/&StorySettingsHeaderTitle	História
+Setting/&ForceSuccessOnDialogRollsTitle	Forçar sucesso na rolagem de diálogo
+Setting/&ForceSuccessOnDialogRollsDescription	Qualquer teste de habilidade rolado durante um diálogo será bem-sucedido.
+Setting/&AlwaysDisplayDialogChancesTitle	Sempre exibir chances de diálogo
+Setting/&AlwaysDisplayDialogChancesDescription	A chance de sucesso no teste de habilidade sempre será exibida, em vez de apenas após o sucesso no teste de percepção.
+Setting/&UnlockAllBestiaryContentTitle	Desbloquear todo o bestiário
+Setting/&UnlockAllBestiaryContentDescription	Todo o conteúdo do bestiário é desbloqueado desde o início; nenhuma verificação de sobrevivência necessária para descobrir informações sobre monstros.
+Setting/&DisableRandomEncountersTitle	Desativar encontros aleatórios
+Setting/&DisableRandomEncountersDescription	Remove todos os encontros aleatórios ao viajar no mapa-múndi, exceto aqueles com script.
+Setting/&ExplorationSettingsHeaderTitle	Exploração
+Setting/&AuthorizeRetryOnGadgetsTitle	Rolar as verificações de exploração
+Setting/&AuthorizeRetryOnGadgetsDescription	Permite que você tente novamente abrir uma fechadura ou desarmar uma armadilha, mesmo que o personagem tenha falhado anteriormente.
+Setting/&AutoDetectTrapsTitle	Autodetectar armadilhas
+Setting/&AutoDetectTrapsDescription	Armadilhas nas proximidades serão detectadas automaticamente, mesmo que normalmente exijam uma verificação de habilidade.
+Setting/&ForceCraftingRollSuccessTitle	Sucesso no teste de força
+Setting/&ForceCraftingRollSuccessDescription	Cada jogada de crafting terá sucesso automaticamente.
+Setting/&NoToolRequirementTitle	Nenhuma ferramenta necessária
+Setting/&NoToolRequirementDescription	Os personagens podem criar e desbloquear baús ou portas sem a necessidade de ferramentas.
+Setting/&SomaticComponentFullDescription	Os personagens devem ter uma mão livre.
+Setting/&QualityHeaderTitle	Qualidade
+Setting/&ColorCalibrationHeaderTitle	Calibração de Cor
+Setting/&FasterTravelOnWorldMapTitle	Viagem mais rápida no mapa do mundo
+Setting/&FasterTravelOnWorldMapDescription	Aumente a velocidade de viagem ao viajar no mapa do mundo.

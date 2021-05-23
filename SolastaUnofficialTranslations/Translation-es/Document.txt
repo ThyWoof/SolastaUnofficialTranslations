@@ -1,0 +1,4 @@
+Document/&Lightfiller_01_Title	Código de seguridad de Wildspring
+Document/&Lightfiller_01_Content	No te comuniques fuera de la familia
+Document/&Lightfiller_02_Title	Llave de la celda de invitado
+Document/&Lightfiller_02_Content	Comunicarse a discreción del alcaide

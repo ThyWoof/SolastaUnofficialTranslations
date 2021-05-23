@@ -1,0 +1,97 @@
+Failure/&FailureFlagAlreadyWieldingLightSource	Stai già tenendo in mano una fonte di luce.
+Failure/&FailureFlagAttributesAssigned	Hai già assegnato punteggi.
+Failure/&FailureFlagBlockedMove	Il percorso è bloccato.
+Failure/&FailureFlagCannotAfford	Non puoi permetterti di spendere così tanto.
+Failure/&FailureFlagCannotAffordCosts	Non puoi permetterti di spendere {0}.
+Failure/&FailureFlagCannotCastAnySpell	Non puoi lanciare incantesimi in questo momento.
+Failure/&FailureFlagCannotCastLightCantrip	Non puoi lanciare il trucchetto leggero.
+Failure/&FailureFlagCannotRestTooOften	Non puoi riposarti due volte nello stesso giorno.
+Failure/&FailureFlagCannotScribeScrolls	Questo personaggio non può scrivere pergamene in un libro degli incantesimi.
+Failure/&FailureFlagCannotUseAnyPower	Non puoi usare alcun potere in questo momento.
+Failure/&FailureFlagCannotUseScroll	I personaggi della tua classe non possono usare le pergamene.
+Failure/&FailureFlagConditionNotMatching	L'obiettivo non ha le giuste condizioni.
+Failure/&FailureFlagDeadTarget	Non puoi prendere di mira un personaggio morto.
+Failure/&FailureFlagDocumentUnknownLanguage	Nessuno nel gruppo conosce bene questa lingua.
+Failure/&FailureFlagFreeOnceActionSpent	Hai già speso la tua azione gratuita / inventario in questo round.
+Failure/&FailureFlagFreeOnceActionSpentNotOnBody	Hai già speso la tua azione gratuita / inventario in questo round e questo oggetto non viene trasportato sulla tua persona.
+Failure/&FailureFlagFreeOnceActionUnavailable	La tua azione gratuita / inventario non è disponibile.
+Failure/&FailureFlagFunctionDurationCooldown	È necessario attendere {0} prima di poter utilizzare nuovamente questa funzione.
+Failure/&FailureFlagFunctionNotEnoughCharges	L'articolo non dispone di addebiti sufficienti per utilizzare questa funzione.
+Failure/&FailureFlagFunctionOutOfIterations	L'articolo ha esaurito gli utilizzi per questa funzione.
+Failure/&FailureFlagFunctionRequiresAttunement	Devi essere in sintonia con questo oggetto (riposo breve) per usarlo.
+Failure/&FailureFlagHardLockedDoor	La porta non può essere aperta.
+Failure/&FailureFlagHardLockedDoorNoLock	Non è presente alcun blocco visibile. Questa porta non può essere aperta da qui.
+Failure/&FailureFlagHardLockedDoorTutorialOrcHideout	Devi completare l'obiettivo della missione prima di aprire la porta.
+Failure/&FailureFlagItemTargetTooFarAway	Troppo lontano per selezionare un elemento.
+Failure/&FailureFlagLockedCharacter	Questo personaggio è bloccato e non può essere modificato.
+Failure/&FailureFlagLockedDoor	Hai bisogno degli strumenti dei ladri per scassinare una serratura.
+Failure/&FailureFlagMainActionUnavailable	Hai esaurito la tua azione principale o non sei in grado di utilizzarla.
+Failure/&FailureFlagMaximumPersonalityFlags	Hai già selezionato il numero massimo di flag di personalità.
+Failure/&FailureFlagMissingConfigurationItem	Mancano uno o più elementi da questa configurazione.
+Failure/&FailureFlagNoCharacterCreated	Non hai creato un personaggio.
+Failure/&FailureFlagNoMainActionToExecute	Hai trascorso la tua azione principale.
+Failure/&FailureFlagNoPathToLocation	Nessun percorso trovato per raggiungere questa posizione.
+Failure/&FailureFlagNoPerceptionOfTargetDescription	Non puoi vedere questo obiettivo.
+Failure/&FailureFlagNoReachForTargetDescription	Non puoi raggiungere l'obiettivo.
+Failure/&FailureFlagNoSavedGame	Nessun gioco salvato valido trovato su questo computer.
+Failure/&FailureFlagNoSuitableLightTarget	Non stai trasportando alcun oggetto adatto al trucchetto leggero.
+Failure/&FailureFlagNotEnoughFood	Ti mancano {0} unità di cibo.
+Failure/&FailureFlagNotEnoughMove	Non abbastanza movimento.
+Failure/&FailureFlagNotInBattle	Non in battaglia.
+Failure/&FailureFlagNoTorchInInventory	Non hai torce nel tuo inventario.
+Failure/&FailureFlagOncePerTurnOnly	Solo una volta per turno.
+Failure/&FailureFlagOnlyAfterALongRest	Puoi farlo solo dopo un lungo riposo.
+Failure/&FailureFlagPartyTooSpreadOut	Devi riunire la tua festa.
+Failure/&FailureFlagProjectileBlocked	Il proiettile è bloccato.
+Failure/&FailureFlagProtectedCharacter	Questo personaggio non può essere cancellato.
+Failure/&FailureFlagScrollNotInSpellList	L'incantesimo su questo rotolo non è sulla tua lista degli incantesimi.
+Failure/&FailureFlagScrollNotOnSpellList	Questa pergamena non è compatibile con l'elenco degli incantesimi di questo personaggio.
+Failure/&FailureFlagSpellLevelTooHigh	Il livello dell'incantesimo è troppo alto.
+Failure/&FailureFlagTargetAlreadySelected	L'obiettivo è già selezionato.
+Failure/&FailureFlagTargetIncorrectCreatureFamily	La creatura bersaglio non ha il tipo corretto.
+Failure/&FailureFlagTargetIsAnEffectProxy	Il bersaglio è un effetto magico.
+Failure/&FailureFlagTargetIsNotACreature	Il bersaglio non è una creatura.
+Failure/&FailureFlagTargetIsNotAGadget	Il bersaglio non è un oggetto.
+Failure/&FailureFlagTargetMustBeUnarmored	L'obiettivo deve essere disarmato.
+Failure/&FailureFlagTargetOutOfRange	L'obiettivo è fuori portata.
+Failure/&FailureFlagTargetTooFarFromOtherTargets	L'obiettivo è troppo lontano dagli altri obiettivi.
+Failure/&FailureFlagTransferCannotCarry	Spazio esaurito / troppo sovraccarico per trasportare questo oggetto.
+Failure/&FailureFlagTransferTooFarAway	Troppo lontano per trasferire l'elemento.
+Failure/&FailureFlagTwoHandedWeaponEquiped	Stai brandendo un'arma a due mani.
+Failure/&FailureFlagUnassignedCharacter	È necessario assegnare tutti i caratteri prima di poter procedere.
+Failure/&FailureFlagUnsafeRestLocation	Non è sicuro riposare qui.
+Failure/&FailureFlagUseItemActionUnavailable	Non è possibile utilizzare l'azione "Usa un oggetto".
+Failure/&FailureFlagWrongLoadContextDescription	Non puoi caricare un gioco in questo momento.
+Failure/&FailureFlagWrongSaveContextDescription	Non puoi salvare il gioco in questo momento.
+Failure/&FeedbackText_OpenDoorLever	La porta è aperta da una leva.
+Failure/&FailureFlagHardLockedDoorTOM	Questa porta è progettata per essere aperta a distanza.
+Failure/&FailureFlagRestNotPermitted	Questo tipo di riposo non è autorizzato in questo momento
+Failure/&FailureFlagOutOfPerceptionRange	Questo obiettivo è troppo lontano per essere percepito.
+Failure/&FailureFlagPartyCannotCastSpell	Nessun membro del gruppo può lanciare questo incantesimo o lo ha preparato.
+Failure/&FailureFlagProxyNeedsCasterVision	L'incantatore deve percepire il bersaglio.
+Failure/&FailureFlagVerbalComponentCannotSpeak	Impossibile parlare ed eseguire componenti di incantesimi verbali
+Failure/&FailureFlagSomaticComponentRestrained	Trattenuto e incapace di eseguire componenti di incantesimi somatici
+Failure/&FailureFlagSomaticComponentHandsFull	Nessuna mano libera per eseguire componenti di incantesimi somatici
+Failure/&FailureFlagMaterialComponentMissingFocus	Deve impugnare / indossare un incantesimo focalizzato o una custodia dei componenti
+Failure/&FailureFlagMaterialComponentMissingSpecific	Manca un (n) elemento "{0}" con un valore di almeno {1}
+Failure/&FailureFlagFunctionRequiresIdentification	Devi identificare questo oggetto per usarlo.
+Failure/&FailureFlagFunctionNotInCombat	Non è possibile utilizzare questa funzione in combattimento.
+Failure/&FailureFlagMissingUserLocation	È necessario selezionare una posizione utente
+Failure/&FailureLocationMustHaveEntrance	La location deve avere un ingresso
+Failure/&FailureLocationMustContainOneRoom	La posizione deve contenere almeno una stanza
+Failure/&FailureLocationInconsistentCharacterLevels	Il valore min./max. i livelli di carattere sono incoerenti
+Failure/&FailureGadgetNotInRoom	Il gadget deve essere posizionato all'interno di una stanza esistente
+Failure/&FailureGadgetOutOfRoomBounds	Il gadget è fuori dai limiti di questa stanza
+Failure/&FailureGadgetOverlapExisting	Il gadget si sovrappone a un altro gadget o oggetto di scena
+Failure/&FailurePropNotInRoom	Il puntello deve essere posizionato all'interno di un locale esistente
+Failure/&FailurePropOutOfRoomBounds	Il sostegno è fuori dai limiti di questa stanza
+Failure/&FailurePropOverlapExisting	Il sostegno si sovrappone a un altro gadget o oggetto di scena
+Failure/&FailureInvalidPosition	Posizione non valida
+Failure/&FailureGadgetInvalidParameters	Alcuni parametri di questo gadget non sono validi
+Failure/&FailureRoomOverlapExisting	La stanza si sovrappone a un'altra stanza
+Failure/&FailureRoomOutOfBounds	La stanza è fuori dai confini della location
+Failure/&FailureFlagCopyrightInfringementTitle	Il titolo del luogo utilizza il termine protetto da copyright "{0}"
+Failure/&FailureFlagCopyrightInfringementDescription	La descrizione del luogo utilizza il termine protetto da copyright "{0}"
+Failure/&FailureFlagCopyrightInfringementLoreGadget	Il gadget "{0}" utilizza il termine protetto da copyright "{1}"
+Failure/&FailureFlagMustMoveToRotate	Questo oggetto non è quadrato. Devi spostarlo per ruotarlo
+Failure/&FailureFlagMustSaveToPlaytest	Devi salvare la tua posizione prima di poterla provare

@@ -1,0 +1,210 @@
+Race/&DwarfDescription	Uno degli antichi abitanti di Solasta, i nani sono minatori e artigiani esperti per natura. Grossi e robusti, sono feroci guerrieri e custodi della loro cultura e tradizioni ancestrali.
+Race/&DwarfFemaleName1Title	Andrya
+Race/&DwarfFemaleName2Title	Aellin
+Race/&DwarfFemaleName3Title	Eurhild
+Race/&DwarfFemaleName4Title	Bergit
+Race/&DwarfFemaleName5Title	Gilda
+Race/&DwarfFemaleName6Title	Gertrud
+Race/&DwarfFemaleName7Title	Freya
+Race/&DwarfHillDescription	I <#B5D3DE>I nani delle colline</color> sono minatori e artigiani naturalmente esperti, dotati di sensi acuti, intuizione profonda e straordinaria capacità di recupero. Grossi e robusti, sono feroci guerrieri e custodi della loro cultura e tradizioni ancestrali.
+Race/&DwarfHillTitle	Hill Dwarf
+Race/&DwarfMaleName1Title	Erik
+Race/&DwarfMaleName2Title	Aldrich
+Race/&DwarfMaleName3Title	Bjorn
+Race/&DwarfMaleName4Title	Berden
+Race/&DwarfMaleName5Title	Fauffy
+Race/&DwarfMaleName6Title	Znork
+Race/&DwarfMaleName7Title	Jovelin
+Race/&DwarfMaleName8Title	Dilligaff
+Race/&DwarfSnowDescription	I <#B5D3DE>I nani delle nevi</color> sono robusti e avventurosi, adatti a terreni difficili e basse temperature. Grossi, agili e robusti, sono feroci guerrieri e custodi della loro cultura e tradizioni ancestrali.
+Race/&DwarfSnowTitle	Nano delle nevi
+Race/&DwarfSurName1Title	Tallbarrel
+Race/&DwarfSurName2Title	Stronghammer
+Race/&DwarfSurName3Title	Pietra rossa
+Race/&DwarfSurName4Title	Blackshield
+Race/&DwarfSurName5Title	Forgehand
+Race/&DwarfSurName6Title	Baerleybrew
+Race/&DwarfSurName7Title	Stoutshield
+Race/&DwarfSurNameTitle	Clan
+Race/&DwarfTitle	Nano
+Race/&ElfDescription	Gli elfi sono uno degli abitanti più antichi di Solasta e governavano un potente impero prima del Cataclisma. Sono naturalmente dotati di magia, agili e veloci. Hanno resistenze innate e sensi acuti.
+Race/&ElfFemaleName10Title	Keavith
+Race/&ElfFemaleName11Title	Lianore
+Race/&ElfFemaleName12Title	Beriiel
+Race/&ElfFemaleName13Title	Phoebe
+Race/&ElfFemaleName14Title	Synria
+Race/&ElfFemaleName15Title	Sonea
+Race/&ElfFemaleName16Title	Celeste
+Race/&ElfFemaleName1Title	Allanagh
+Race/&ElfFemaleName2Title	Hormath
+Race/&ElfFemaleName3Title	Fiachnail
+Race/&ElfFemaleName4Title	Emera
+Race/&ElfFemaleName5Title	Kenndra
+Race/&ElfFemaleName6Title	Liadainna
+Race/&ElfFemaleName7Title	Nialla
+Race/&ElfFemaleName8Title	Saorla
+Race/&ElfFemaleName9Title	Teaghan
+Race/&ElfHighDescription	<#B5D3DE>Gli elfi alti</color> sono i discendenti delle persone che hanno governato Solasta per secoli. Sono addestrati a usare la magia molto presto e hanno un dono per le lingue. Ricevono la tradizionale formazione marziale del loro popolo con spade e archi.
+Race/&ElfHighTitle	Alto Elfo
+Race/&ElfMaleName10Title	Ravoprax
+Race/&ElfMaleName11Title	Kelos
+Race/&ElfMaleName12Title	Eloann
+Race/&ElfMaleName13Title	Gallian
+Race/&ElfMaleName1Title	Ilastar
+Race/&ElfMaleName2Title	Baran
+Race/&ElfMaleName3Title	Caerwyn
+Race/&ElfMaleName4Title	Daeg
+Race/&ElfMaleName5Title	Keyne
+Race/&ElfMaleName6Title	Lianean
+Race/&ElfMaleName7Title	Orrindil
+Race/&ElfMaleName8Title	Sharindill
+Race/&ElfMaleName9Title	Finael
+Race/&ElfSurName11Title	Sonata
+Race/&ElfSurName10Title	Luna Rossa
+Race/&ElfSurName1Title	Strongsteel
+Race/&ElfSurName2Title	Fastmind
+Race/&ElfSurName3Title	Vento selvaggio
+Race/&ElfSurName4Title	Silverlight
+Race/&ElfSurName5Title	Keenmind
+Race/&ElfSurName6Title	Redglow
+Race/&ElfSurName7Title	Innerfire
+Race/&ElfSurName8Title	Fuoco d'oro
+Race/&ElfSurName9Title	Silvereyes
+Race/&ElfSurNameTitle	Famiglia
+Race/&ElfSylvanDescription	Nati e cresciuti nelle foreste orientali di Solasta, gli <#B5D3DE>elfi silvestri</color> sono addestrati a sopravvivere nelle terre selvagge e sono particolarmente inclini alla sopravvivenza. Come i loro cugini elfi alti, sono addestrati a combattere con spade e archi fin dall'infanzia.
+Race/&ElfSylvanTitle	Elfo Silvano
+Race/&ElfTitle	Elfo
+Race/&HalfElfDescription	Discendenti dei profughi umani di Tirmar e degli elfi di Solastan, i <#B5D3DE>mezzelfi</color> hanno la forza dei loro genitori. Versatili, carismatici e dotati di Scurovisione e ascendenza fatata, sono sempre divisi tra due culture.
+Race/&HalfElfFemaleName1Title	Maiwen
+Race/&HalfElfFemaleName2Title	Serenrae
+Race/&HalfElfFemaleName3Title	viola
+Race/&HalfElfFemaleName4Title	Iela
+Race/&HalfElfFemaleName5Title	Cami
+Race/&HalfElfMaleName1Title	Volkus
+Race/&HalfElfMaleName2Title	Scarsan
+Race/&HalfElfMaleName3Title	Faolan
+Race/&HalfElfMaleName4Title	Roy
+Race/&HalfElfMaleName5Title	Kalan
+Race/&HalfElfMaleName6Title	Corthyn
+Race/&HalfElfSurName1Title	Canna
+Race/&HalfElfSurName2Title	Olfborn
+Race/&HalfElfSurName3Title	Leafheart
+Race/&HalfElfSurName4Title	re
+Race/&HalfElfSurName5Title	Torri
+Race/&HalfElfSurName6Title	Fiumi
+Race/&HalfElfSurName7Title	Canna
+Race/&HalfElfSurNameTitle	Famiglia
+Race/&HalfElfTitle	Mezzelfo
+Race/&HalflingDescription	Gli halfling originali si sono evoluti nelle paludi nella parte nord-orientale di Solasta, prima di diffondersi a sud, seguendo il fiume e raggiungendo il mare. Sono bassi e agili e noti per il loro coraggio nonostante le loro dimensioni.
+Race/&HalflingFemaleName1Title	Annie
+Race/&HalflingFemaleName2Title	Ellie
+Race/&HalflingFemaleName3Title	Jenny
+Race/&HalflingFemaleName4Title	Coralie
+Race/&HalflingFemaleName5Title	Zoe
+Race/&HalflingFemaleName6Title	Sable
+Race/&HalflingIslandDescription	<#B5D3DE>Gli halfling dell'isola</color> sono i figli di avventurosi halfling che hanno lasciato le paludi settentrionali per avventurarsi a sud e stabilirsi nelle isole soleggiate. Discreti e coraggiosi, sono inclini ad essere affabili e ad andare d'accordo con gli altri.
+Race/&HalflingIslandTitle	Isola Halfling
+Race/&HalflingMaleName1Title	Anton
+Race/&HalflingMaleName2Title	Andre
+Race/&HalflingMaleName3Title	Tombo
+Race/&HalflingMaleName4Title	verde
+Race/&HalflingMaleName5Title	Edmund
+Race/&HalflingMarshDescription	Gli <#B5D3DE>Halfling di palude</color> hanno vissuto nella tradizione dei loro antenati, che erano soliti muoversi, combattere e persino dormire nel terreno paludoso. Sono particolarmente robusti rispetto ai loro cugini isolani, pur essendo generalmente meno simpatici e certamente non meno coraggiosi.
+Race/&HalflingMarshTitle	Marsh Halfling
+Race/&HalflingSurName1Title	Palude
+Race/&HalflingSurName2Title	Wetfoot
+Race/&HalflingSurName3Title	Whitesail
+Race/&HalflingSurName4Title	Bentree
+Race/&HalflingSurName5Title	Tupps
+Race/&HalflingSurNameTitle	Famiglia
+Race/&HalflingTitle	Halfling
+Race/&HumanDescription	Originariamente nati su Tirmar e portati a Solasta prima del Cataclisma, gli <#B5D3DE>umani</color> si sono adattati al loro nuovo mondo grazie ai loro talenti unici. Capaci di vivere ovunque e di accettare qualsiasi lavoro, sono soprattutto versatili.
+Race/&HumanFemaleName1Title	Jodie
+Race/&HumanFemaleName2Title	Celia
+Race/&HumanFemaleName3Title	Elisa
+Race/&HumanFemaleName4Title	Natalie
+Race/&HumanFemaleName5Title	Jane
+Race/&HumanFemaleName6Title	Elanor
+Race/&HumanFemaleName7Title	Agnes
+Race/&HumanFemaleName8Title	Ophelie
+Race/&HumanMaleName1Title	Angus
+Race/&HumanMaleName2Title	Blain
+Race/&HumanMaleName3Title	Jeff
+Race/&HumanMaleName4Title	Decano
+Race/&HumanSurName1Title	Jonn
+Race/&HumanSurName2Title	Guert
+Race/&HumanSurName3Title	Ros
+Race/&HumanSurName4Title	Hasting
+Race/&HumanSurName5Title	Esbery
+Race/&HumanSurName6Title	Dudley
+Race/&HumanSurName7Title	Burg
+Race/&HumanSurName8Title	Dormer
+Race/&HumanSurName9Title	Hawke
+Race/&HumanSurNameTitle	Famiglia
+Race/&HumanTitle	Umano
+Race/&SylvanElfFemaleName10Title	Ryesen
+Race/&SylvanElfFemaleName1Title	Ciarran
+Race/&SylvanElfFemaleName2Title	Darra
+Race/&SylvanElfFemaleName3Title	Kalan
+Race/&SylvanElfFemaleName4Title	Kianna
+Race/&SylvanElfFemaleName5Title	Marsaili
+Race/&SylvanElfFemaleName6Title	Orlagh
+Race/&SylvanElfFemaleName7Title	Siobhan
+Race/&SylvanElfFemaleName8Title	Tara
+Race/&SylvanElfFemaleName9Title	Seersha
+Race/&SylvanElfMaleName10Title	Rhuad
+Race/&SylvanElfMaleName1Title	Darroch
+Race/&SylvanElfMaleName2Title	Darce
+Race/&SylvanElfMaleName3Title	Curran
+Race/&SylvanElfMaleName4Title	Kari
+Race/&SylvanElfMaleName5Title	Kael
+Race/&SylvanElfMaleName6Title	Erevyd
+Race/&SylvanElfMaleName7Title	Naoise
+Race/&SylvanElfMaleName8Title	Phelan
+Race/&SylvanElfMaleName9Title	Sherrod
+Race/&SylvanElfSurName10Title	Whiteleaf
+Race/&SylvanElfSurName1Title	Robusto ramo
+Race/&SylvanElfSurName2Title	Wilyfox
+Race/&SylvanElfSurName3Title	Silentowl
+Race/&SylvanElfSurName4Title	Fairdeer
+Race/&SylvanElfSurName5Title	Ripeti
+Race/&SylvanElfSurName6Title	Faireagle
+Race/&SylvanElfSurName7Title	Fastrain
+Race/&SylvanElfSurName8Title	Vento forte
+Race/&SylvanElfSurName9Title	Blueash
+Race/&HalflingSurName6Title	Owen
+Race/&HalflingSurName7Title	Woolley
+Race/&HalflingSurName8Title	Luz
+Race/&HalflingMaleName6Title	Buio
+Race/&HalflingFemaleName7Title	Serenrae
+Race/&DwarfFemaleName8Title	Yock
+Race/&DwarfMaleName9Title	Kolgar
+Race/&ElfSurName12Title	Ragthroknar
+Race/&ElfSurName13Title	Boldeye
+Race/&ElfSurName14Title	Niejnef
+Race/&ElfSurName15Title	Anne
+Race/&ElfSurName16Title	Norstern
+Race/&ElfSurName17Title	Ashvale
+Race/&HalfElfMaleName7Title	Allen
+Race/&HalfElfMaleName8Title	Henry
+Race/&HalfElfMaleName9Title	Ilofared
+Race/&HalfElfMaleName10Title	Corthyn
+Race/&HalfElfSurName8Title	Malmanche
+Race/&HalfElfSurName9Title	Olfborn
+Race/&HalfElfSurName10Title	Ferrum
+Race/&HalfElfSurName11Title	Dosa
+Race/&HalfElfSurName12Title	Leafheart
+Race/&HalfElfSurName13Title	Tanael
+Race/&HumanSurName10Title	Knightshield
+Race/&HumanSurName11Title	Drayson
+Race/&HumanSurName12Title	Tempesta
+Race/&HumanSurName13Title	Marlon
+Race/&HumanMaleName5Title	Wicking
+Race/&HumanMaleName6Title	Bronlar
+Race/&HumanMaleName7Title	Piotr
+Race/&HumanMaleName8Title	Cressen
+Race/&HumanMaleName9Title	Aryas
+Race/&HumanMaleName10Title	Muratore
+Race/&HumanMaleName11Title	Franco
+Race/&HumanMaleName12Title	Cacciatore
+Race/&HumanMaleName13Title	Alderbranch

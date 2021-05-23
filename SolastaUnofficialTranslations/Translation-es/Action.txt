@@ -1,0 +1,134 @@
+Action/&ActionDisarmDescription	[OBSOLETO] Haga clic para desarmar esta trampa.
+Action/&ActionManipulateDescription	[OBSOLETO] Haga clic para interactuar con este objeto.
+Action/&ActionObserveDescription	[OBSOLETO] Haga clic para examinar este objeto.
+Action/&ActionStatusAvailableDescription	Esta acción está disponible para usar durante el turno de este personaje.
+Action/&ActionStatusCannotPerformDescription	Esta criatura no puede realizar este tipo de acción.
+Action/&ActionStatusEngagedDescription	Acción ya en proceso. Las acciones del mismo tipo (principal, bonificación, etc.) no se pueden utilizar hasta que haya finalizado.
+Action/&ActionStatusIrrelevantDescription	Acción irrelevante aquí. Prueba con otra cosa.
+Action/&ActionStatusNoLongerAvailableDescription	Acción no disponible: se ha seleccionado una acción del mismo tipo (principal, bonificación, etc.).
+Action/&ActionStatusOutOfUsesDescription	Acción no disponible: sin uso / munición.
+Action/&ActionStatusSpentDescription	La acción ya se usó este turno.
+Action/&ActionStatusUnavailableDescription	Acción no disponible este turno.
+Action/&ActionTypeBonusAvailableMultipleDescription	¡Esta acción de bonificación está disponible!
+Action/&ActionTypeBonusAvailableSingleDescription	¡Tu acción de bonificación está disponible!
+Action/&ActionTypeBonusDescription	Una acción adicional se otorga mediante poderes y hechizos especiales, o cuando se equipa un arma de mano izquierda.
+Action/&ActionTypeBonusTitle	Prima
+Action/&ActionTypeBonusUnavailableMultipleDescription	Has utilizado esta acción de bonificación.
+Action/&ActionTypeBonusUnavailableSingleDescription	Has usado tu acción de bonificación.
+Action/&ActionTypeFreeOnceAvailableMultipleDescription	¡Esta acción gratuita está disponible!
+Action/&ActionTypeFreeOnceAvailableSingleDescription	¡Tu acción gratuita está disponible!
+Action/&ActionTypeFreeOnceDescription	Puedes realizar ciertas acciones gratuitas durante tu turno, como enfundar un arma o dejar caer un objeto.
+Action/&ActionTypeFreeOnceTitle	Libre
+Action/&ActionTypeFreeOnceUnavailableMultipleDescription	Has utilizado esta acción gratuita.
+Action/&ActionTypeFreeOnceUnavailableSingleDescription	Has utilizado tu acción gratuita.
+Action/&ActionTypeMainAvailableMultipleDescription	¡Esta acción principal está disponible!
+Action/&ActionTypeMainAvailableSingleDescription	¡Tu acción principal está disponible!
+Action/&ActionTypeMainDescription	Tu acción principal es lo principal que haces durante tu turno, como moverte, atacar, lanzar un hechizo o usar una habilidad.
+Action/&ActionTypeMainTitle	Acciones principales
+Action/&ActionTypeMainUnavailableMultipleDescription	Ha utilizado esta acción principal.
+Action/&ActionTypeMainUnavailableSingleDescription	Has utilizado tu acción principal.
+Action/&ActionTypeMoveDescription	La acción de movimiento generalmente implica gastar puntos de velocidad para moverse. Saltar y escalar requieren controles de habilidad.
+Action/&ActionTypeMoveTitle	Moverse
+Action/&ActionTypeOtherDescription	Otras acciones se pueden realizar libremente o gastando puntos de movimiento.
+Action/&ActionTypeOtherTitle	Otro
+Action/&ActionTypeReactionAvailableMultipleDescription	¡Esta reacción está disponible!
+Action/&ActionTypeReactionAvailableSingleDescription	¡Tu reacción está disponible!
+Action/&ActionTypeReactionDescription	Las condiciones específicas pueden desencadenar una reacción, como un ataque de oportunidad.
+Action/&ActionTypeReactionTitle	Reacción
+Action/&ActionTypeReactionUnavailableMultipleDescription	Has utilizado esta reacción.
+Action/&ActionTypeReactionUnavailableSingleDescription	Has utilizado tu reacción.
+Action/&ActionUnlockDescription	[OBSOLETO] Haga clic para desbloquear este objeto.
+Action/&AssignTargetDescription	Puede seleccionar un nuevo objetivo para {0}.
+Action/&AssignTargetTitle	Objetivo
+Action/&AttackCoverFullDescription	El objetivo tiene una cobertura total detrás de un obstáculo.
+Action/&AttackCoverHalfDescription	El objetivo tiene media cobertura ({0} AC).\n
+Action/&AttackCoverThreeQuartersDescription	El objetivo tiene una cobertura de tres cuartos ({0} AC).\n
+Action/&AttackDescription	Ataca a un objetivo enemigo con esta arma: {0} ({1} para golpear)\n{2}
+Action/&AttackExecuteAdvantageDescription	¡Haz clic para atacar al objetivo con ventaja!
+Action/&AttackExecuteDescription	¡Haz clic para atacar al objetivo!
+Action/&AttackExecuteDisadvantageDescription	Haga clic para atacar al objetivo con desventaja.
+Action/&AttackIterativeDescription	Puedes atacar {0} veces durante tu turno e intercalar tus ataques entre movimientos.
+Action/&AttackTitle	Ataque
+Action/&BlockAttackDescription	Impone una desventaja a un enemigo que ataca a un aliado cercano.
+Action/&BlockAttackTitle	Ataque de bloque
+Action/&CastDescription	Selecciona y lanza un hechizo.
+Action/&CastRitualDescription	Lanzar un hechizo como un ritual (toma 10 minutos, no usa un espacio de hechizo).
+Action/&CastRitualTitle	Ritual
+Action/&CastSpellHigherSlotAddDiceTile	Agregue {0} dados al efecto.
+Action/&CastSpellHigherSlotAddDieTile	Agrega {0} dado al efecto.
+Action/&CastSpellHigherSlotAddHPTile	Agregue {0} más puntos de vida.
+Action/&CastSpellHigherSlotAddItemBonusTile	Aumentar la bonificación del artículo en {0}.
+Action/&CastSpellHigherSlotAddSpellLevelPluralTile	{0} niveles de hechizos adicionales.
+Action/&CastSpellHigherSlotAddSpellLevelSingleTile	{0} nivel de hechizo adicional.
+Action/&CastSpellHigherSlotAddSummonPluralTile	Conjura {0} criaturas adicionales.
+Action/&CastSpellHigherSlotAddSummonSingleTile	Conjura {0} criatura adicional.
+Action/&CastSpellHigherSlotAddTargetCellsTile	Apunte a {0} celdas adicionales.
+Action/&CastSpellHigherSlotAddTargetPluralTile	Agregue {0} objetivos.
+Action/&CastSpellHigherSlotAddTargetSingleTile	Agregar {0} objetivo.
+Action/&CastSpellHigherSlotAddTempHPTile	Agrega {0} puntos de vida temporales.
+Action/&CastSpellHigherSlotTile	Lanza un hechizo usando un espacio de nivel {0}.
+Action/&CastTitle	Lanzar hechizo
+Action/&CautiousDescription	Activar / desactivar el modo cauteloso. Un personaje cauteloso es más sigiloso y más consciente de los objetos y criaturas ocultos.
+Action/&CautiousTitle	Cauteloso
+Action/&ClimbDescription	Sube o baja superficies. Escalar una superficie vertical resbaladiza también requiere una prueba exitosa de Fuerza (Atletismo).
+Action/&ClimbTitle	Escalada
+Action/&CunningActionDescription	A partir del segundo nivel, su pensamiento rápido y agilidad le permiten moverse y actuar rápidamente. Puedes realizar una acción adicional en cada uno de tus turnos de combate. Esta acción solo se puede usar para realizar la acción Desplazamiento o Desenganche.
+Action/&CunningActionTitle	Acción astuta
+Action/&DashDescription	Cuando realizas la acción Dash, obtienes movimiento adicional para tu turno actual. El aumento es igual a tu velocidad, después de aplicar los modificadores.
+Action/&DashTitle	Pizca
+Action/&DisengageDescription	Si realiza la acción de desconexión, su movimiento no provoca ataques de oportunidad durante el resto del turno.
+Action/&DisengageTitle	Desacoplar
+Action/&DodgeDescription	Cuando realizas la acción de Esquivar, te concentras por completo en evitar ataques. Hasta el comienzo de tu próximo turno, cualquier tirada de ataque realizada en tu contra tiene desventaja si puedes ver al atacante, y haces tiros de salvación de Destreza con ventaja.
+Action/&DodgeTitle	Esquivar
+Action/&DropProneDescription	Puede caer boca abajo sin usar su velocidad. Para moverse mientras está boca abajo, debe gatear o usar magia como la teletransportación. El costo de moverse mientras gatea se duplica. El costo de gatear en terreno difícil, por lo tanto, se triplica. Caerse en decúbito prono agrega la condición Prone: los ataques cuerpo a cuerpo contra ti tienen ventaja, los ataques a distancia contra ti tienen desventaja, tus propios ataques tienen desventaja.
+Action/&DropProneTitle	Soltar
+Action/&EnemyCreatureTitle	Criatura enemiga
+Action/&EnemyTargetHeaderTitle	{0} (enemigo)
+Action/&EquipDescription	Equipar o desequipar un artículo.
+Action/&EquipTitle	Equipar
+Action/&ExtinguishDescription	Extinga un incendio que le afecte.
+Action/&ExtinguishTitle	Extinguir
+Action/&FriendlyCreatureTitle	Criatura amistosa
+Action/&FriendlyTargetHeaderTitle	{0} (amistoso)
+Action/&HideDescription	Cuando realizas la acción Esconderse, realizas una prueba de Destreza (Sigilo) en un intento de esconderte, siguiendo las reglas para esconderse. Si tiene éxito, cualquier tirada de ataque realizada en su contra tiene desventaja y usted tiene ventaja en sus ataques. Esto dura mientras no te detecten. No puedes intentar esconderte si te detectan actualmente.
+Action/&HideTitle	Esconder
+Action/&InventoryDescription	Gestiona tu inventario de personajes.
+Action/&InventoryTitle	Inventario
+Action/&JumpDescription	Haz un salto corto o largo.
+Action/&JumpTitle	Saltar
+Action/&LevitateDescription	Mueve el personaje afectado hacia arriba y hacia abajo.
+Action/&LevitateTitle	Levantar por levitación
+Action/&MoveDescription	Muévase a su velocidad hacia el destino especificado. Puede dividir su movimiento entre otras acciones.
+Action/&MoveTitle	Moverse
+Action/&NeutralCreatureTitle	Criatura neutral
+Action/&NeutralTargetHeaderTitle	{0} (neutral)
+Action/&PickUpDescription	Recoge un objeto en la posición del personaje.
+Action/&PickUpTitle	Recoger
+Action/&PowerDescription	Activa un poder o habilidad especial.
+Action/&PowerTitle	Usa el poder
+Action/&ReadyDescription	Retrasa un ataque hasta más tarde en el turno.
+Action/&ReadyTitle	Listo
+Action/&ShoveDescription	Usa tu Fuerza para empujar a una criatura a una celda de ti o derribarla. El objetivo no debe ser más de un tamaño más grande que usted y debe estar a su alcance.
+Action/&ShoveTitle	Empujón
+Action/&SpellCoverHalfDescription	El objetivo tiene media cobertura ({0} tiro de salvación).\n
+Action/&SpellCoverThreeQuartersDescription	El objetivo tiene una cobertura de tres cuartos ({0} tiro de salvación).\n
+Action/&SpellExecuteDescription	Haz clic para seleccionar este objetivo para tu hechizo.
+Action/&StandUpDescription	Ponerse de pie cuesta una cantidad de movimiento igual a la mitad de tu velocidad. No puedes ponerte de pie si no te queda suficiente movimiento o si tu velocidad es 0.
+Action/&StandUpTitle	Pararse
+Action/&UseFunctionAdditionalChargePlural	Lanza un hechizo usando {0} cargos de artículo adicionales.
+Action/&UseFunctionAdditionalChargeSingle	Lanza un hechizo usando una carga de objeto adicional.
+Action/&UseItemDescription	Utilice las funciones especiales de un dispositivo o elemento mágico.
+Action/&UseItemTitle	Utilizar artículo
+Action/&VampiricTouchDescription	Haz un ataque de hechizo cuerpo a cuerpo sobre el objetivo por 3d6 de daño necrótico y recupera puntos de golpe equivalentes a la mitad del daño infligido.
+Action/&VampiricTouchTitle	Toque vampírico
+Action/&ActionTeleportDescription	Teletransportarse
+Action/&UnhideTitle	Mostrar
+Action/&UnhideDescription	Dejar de ocultar es una acción gratuita.
+Action/&ActionStatusCannotPerformDetectedDescription	Esta acción solo se puede realizar si no se detecta el personaje. Rompe la línea de visión para continuar.
+Action/&BreakFreeTitle	Liberar
+Action/&BreakFreeDescription	Pasa tu acción liberándote, a través del poder o la agilidad.
+Action/&BreakEnchantmentTitle	Romper el encantamiento
+Action/&BreakEnchantmentDescription	Toca una criatura para eliminar una condición perjudicial (encantada, asustada, poseída).
+Action/&DismissalTitle	Despido
+Action/&DismissalDescription	Ejecuta un ataque mágico cuerpo a cuerpo para enviar un celestial, elemental, hada, demonio o no-muerto extraplanar a su plano de existencia.
+Action/&AttackToss_Title	Sacudida

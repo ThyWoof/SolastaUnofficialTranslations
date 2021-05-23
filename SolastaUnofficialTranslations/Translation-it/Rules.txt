@@ -1,0 +1,537 @@
+Rules/&AbilityAndSkillFormat	{0} ({1})
+Rules/&AbilityCheckFormat	{0} d20 {1}
+Rules/&AbilityCheckVersusDcFormat	{0} d20 {1} vs DC {2}
+Rules/&AbilityScoreBonusFormat	+ bonus di abilità
+Rules/&ActivationTypeActionTitle	Azione
+Rules/&ActivationTypeBonusActionTitle	Atto bonus.
+Rules/&ActivationTypeHours1Title	1 ora
+Rules/&ActivationTypeHours24Title	24 ore
+Rules/&ActivationTypeMinute10Title	10 minuti
+Rules/&ActivationTypeMinute1Title	1 minuto
+Rules/&ActivationTypeNoCostTitle	Atto libero.
+Rules/&ActivationTypeOnAttackHitTitle	Al colpo
+Rules/&ActivationTypeOnAttackHitWithBowTitle	Al colpo (arco)
+Rules/&ActivationTypePermanentUnlessIncapacitatedTitle	Permanente
+Rules/&ActivationTypeReactionTitle	Reazione
+Rules/&ActivationTypeRestDescription	Questo potere può essere attivato durante un riposo
+Rules/&ActivationTypeRestTitle	riposo
+Rules/&AlignmentDescription	Una tipica creatura nel mondo di gioco ha un allineamento che descrive ampiamente i suoi atteggiamenti morali e personali. L'allineamento è una combinazione di due fattori: uno identifica la moralità (buona, cattiva o neutra) e l'altro descrive gli atteggiamenti verso la società e l'ordine (legale, caotico o neutro).
+Rules/&AlignmentTitle	Allineamento
+Rules/&AlterationFormExtinguishFireFormat	Spegne gli incendi
+Rules/&AlterationFormExtinguishLightFormat	Spegne le luci
+Rules/&AlterationFormRemoveDarknessFormat	Rimuove l'oscurità
+Rules/&AlterationFormRevealTrapFormat	Rivela le trappole
+Rules/&AlterationFormUnlockFormat	Sblocca un oggetto target
+Rules/&ChallengeDifficultyDeadlyTitle	Mortale
+Rules/&ChallengeDifficultyEasyTitle	Facile
+Rules/&ChallengeDifficultyHardTitle	Difficile
+Rules/&ChallengeDifficultyMediumTitle	medio
+Rules/&ConditionAcidifiedDescription	Subire danni da acido ogni turno fino al termine dell'effetto.
+Rules/&ConditionAcidifiedTitle	Acidificato
+Rules/&ConditionAidedDescription	Punti ferita (massimi / attuali) aumentati di 5 + avanzamento.
+Rules/&ConditionAidedTitle	Assistita
+Rules/&ConditionAntitoxin	Vantaggio sui tiri salvezza su Costituzione contro il veleno.
+Rules/&ConditionAsleepDescription	Incapace di agire fino al risveglio
+Rules/&ConditionAsleepTitle	Addormentato
+Rules/&ConditionAuraOfCourageDescription	Immunità dall'essere spaventati.
+Rules/&ConditionAuraOfCourageTitle	Aura di coraggio
+Rules/&ConditionAuraOfProtectionDescription	Bonus di {0} ai tiri salvezza.
+Rules/&ConditionAuraOfProtectionTitle	Aura di protezione
+Rules/&ConditionBackFromTheDead1Description	-1 penalità ai tiri per colpire, ai tiri salvezza e alle prove di abilità. Completa un lungo riposo per ridurre la penalità.
+Rules/&ConditionBackFromTheDead2Description	-2 penalità ai tiri per colpire, ai tiri salvezza e alle prove di abilità. Completa un lungo riposo per ridurre la penalità.
+Rules/&ConditionBackFromTheDead3Description	-3 penalità ai tiri per colpire, ai tiri salvezza e alle prove di abilità. Completa un lungo riposo per ridurre la penalità.
+Rules/&ConditionBackFromTheDead4Description	-4 penalità ai tiri per colpire, ai tiri salvezza e alle prove di abilità. Completa un lungo riposo per ridurre la penalità.
+Rules/&ConditionBackFromTheDeadTitle	Di ritorno dalla morte
+Rules/&ConditionBanedDescription	-1d4 agli attacchi, -1d4 ai tiri salvezza.
+Rules/&ConditionBanedTitle	Banestruck
+Rules/&ConditionBarkskinDescription	La Classe Armatura della creatura diventa almeno 16.
+Rules/&ConditionBarkskinTitle	Barkskin
+Rules/&ConditionBeaconOfHopeDescription	Vantaggio su Saggezza e tiri salvezza contro la morte; la guarigione ripristina il massimo dei punti ferita possibili.
+Rules/&ConditionBeaconOfHopeTitle	Faro di speranza
+Rules/&ConditionBearsEnduranceDescription	Vantaggio sui tiri salvezza su Costituzione.
+Rules/&ConditionBlessedDescription	+ 1d4 agli attacchi, + 1d4 ai tiri salvezza.
+Rules/&ConditionBlessedTitle	Benedetto
+Rules/&ConditionBlessingSorr-TarrTitle	Benedizione di Sorr-Tarr
+Rules/&ConditionBlindedDescription	Non riesco a vedere niente; svantaggio sugli attacchi; gli attacchi contro la creatura hanno vantaggio.
+Rules/&ConditionBlindedTitle	Accecato
+Rules/&ConditionBlurredDescription	Gli attacchi alle creature hanno svantaggio.
+Rules/&ConditionBlurredTitle	Sfocato
+Rules/&ConditionBrandedDescription	Emette luce; non può diventare invisibile.
+Rules/&ConditionBrandedTitle	Di marca
+Rules/&ConditionBullsStrengthDescription	Vantaggio sui tiri salvezza sulla Forza.
+Rules/&ConditionCatsGraceDescription	Vantaggio sui tiri salvezza su Destrezza e danni da caduta ridotti.
+Rules/&ConditionCharmedByHypnoticPatternDescription	Inabilitato e la velocità è 0, finché non si ferisce o si sveglia.
+Rules/&ConditionCharmedByHypnoticPatternTitle	Affascinato dall'ipnosi
+Rules/&ConditionCharmedDescription	Considera il lanciatore un alleato.
+Rules/&ConditionCharmedTitle	Ammaliato
+Rules/&ConditionChilledDescription	Non si possono guadagnare punti ferita. Se non morto, svantaggio nell'attaccare l'incantatore.
+Rules/&ConditionChilledTitle	Freddo
+Rules/&ConditionCriticalCharacterDescription	Se questo personaggio muore, il gioco finisce.
+Rules/&ConditionCriticalCharacterTitle	Carattere critico
+Rules/&ConditionCursedActionDescription	Deve effettuare un tiro salvezza con saggezza per agire.
+Rules/&ConditionCursedActionTitle	Maledetto (Azione)
+Rules/&ConditionCursedAttackRollDescription	Svantaggio del tiro per colpire contro l'incantatore.
+Rules/&ConditionCursedAttackRollTitle	Maledetto (Tiro per l'Attacco)
+Rules/&ConditionCursedCharismaDescription	Svantaggio sui tiri salvezza CHA e sulle prove di abilità.
+Rules/&ConditionCursedCharismaTitle	Maledetto (Carisma)
+Rules/&ConditionCursedConstitutionDescription	Svantaggio sui tiri salvezza CON e sulle prove di abilità.
+Rules/&ConditionCursedConstitutionTitle	Maledetta (Costituzione)
+Rules/&ConditionCursedDamageDescription	Gli attacchi e gli incantesimi dell'incantatore contro il bersaglio infliggono 1d8 danni necrotici extra.
+Rules/&ConditionCursedDamageTitle	Maledetto (danno)
+Rules/&ConditionCursedDexterityDescription	Svantaggio nei tiri salvezza DEX e nei test di abilità.
+Rules/&ConditionCursedDexterityTitle	Maledetta (destrezza)
+Rules/&ConditionCursedIntelligenceDescription	Svantaggio nei tiri salvezza INT e nelle prove di abilità.
+Rules/&ConditionCursedIntelligenceTitle	Maledetta (Intelligenza)
+Rules/&ConditionCursedStrengthDescription	Svantaggio nei tiri salvezza STR e nei test di abilità.
+Rules/&ConditionCursedStrengthTitle	Maledetto (Forza)
+Rules/&ConditionCursedTitle	Maledetto
+Rules/&ConditionCursedWisdomDescription	Svantaggio nei tiri salvezza e nelle prove di abilità WIS.
+Rules/&ConditionCursedWisdomTitle	Maledetta (saggezza)
+Rules/&ConditionDarkvisionDescription	Vedi normalmente in penombra e nell'oscurità naturale come in penombra.
+Rules/&ConditionDarkvisionTitle	Darkvision
+Rules/&ConditionDazzledDescription	Non può accettare reazioni e ha una penalità di -2 Classe Armatura.
+Rules/&ConditionDazzledTitle	Abbagliato
+Rules/&ConditionDeadDescription	Non può agire finché non viene rianimato o resuscitato.
+Rules/&ConditionDeadTitle	Morto
+Rules/&ConditionDeafenedDescription	Non riesco a sentire niente.
+Rules/&ConditionDeafenedTitle	Assordato
+Rules/&ConditionDetectEvilandGoodDescription	Rilevato come aberrazione, celeste, elementale, folletto, demone o non morto.
+Rules/&ConditionDetectEvilandGoodTitle	Riconosciuto come cattivo / buono
+Rules/&ConditionDetectMagicDescription	In grado di rilevare la magia nelle vicinanze.
+Rules/&ConditionDetectMagicTitle	Rileva Magic
+Rules/&ConditionDiscipleImmuneColdDescription	Immune ai danni da freddo e riguadagna HP dal freddo.
+Rules/&ConditionDiscipleImmuneColdTitle	Studioso degli elementi (freddo)
+Rules/&ConditionDiscipleImmuneFireDescription	Immune ai danni da fulmine e recupera HP dai fulmini.
+Rules/&ConditionDiscipleImmuneFireTitle	Studioso degli elementi (fuoco)
+Rules/&ConditionDiscipleImmuneLightningDescription	Immune ai danni da fuoco e riguadagna HP dal fuoco.
+Rules/&ConditionDiscipleImmuneLightningTitle	Studioso degli elementi (fulmine)
+Rules/&ConditionDiseasedDescription	La creatura è affetta da una malattia.
+Rules/&ConditionDiseasedTitle	Malato
+Rules/&ConditionDisengagingDescription	Insensibile agli attacchi di opportunità.
+Rules/&ConditionDisengagingTitle	Disimpegnarsi
+Rules/&ConditionDivineFavorDescription	Infligge 1d4 danni radianti aggiuntivi.
+Rules/&ConditionDivineFavorTitle	Favore divino
+Rules/&ConditionDivinelyRevealedDescription	Il tipo e la posizione della creatura sono noti all'incantatore di questo effetto.
+Rules/&ConditionDivinelyRevealedTitle	Divinamente rivelato
+Rules/&ConditionDodgingDescription	Gli attacchi alle creature hanno svantaggio.
+Rules/&ConditionDodgingTitle	Schivare
+Rules/&ConditionDyingDescription	Morirà presto a meno che non si stabilizzi.
+Rules/&ConditionDyingTitle	Sta morendo
+Rules/&ConditionEncumberedDescription	La velocità è ridotta di 2.
+Rules/&ConditionEncumberedTitle	Ingombro
+Rules/&ConditionEnfeebledDescription	Metà del danno sugli attacchi basati su STR.
+Rules/&ConditionEnfeebledTitle	Indebolito
+Rules/&ConditionEntangledTitle	Impigliato
+Rules/&ConditionExhaustedDescription	Indebolito dall'esaurimento.
+Rules/&ConditionExhaustedTitle	Esausto
+Rules/&ConditionExpeditiousRetreatDescription	Può scattare come azione bonus.
+Rules/&ConditionExpeditiousRetreatTitle	Ritiro rapido
+Rules/&ConditionFalseLifeDescription	Punti ferita temporanei aggiuntivi.
+Rules/&ConditionFalseLifeTitle	Falsa vita
+Rules/&ConditionFeatherFallingDescription	Non può essere ferito dalle cadute.
+Rules/&ConditionFeatherFallingTitle	Piuma che cade
+Rules/&ConditionFlyingDescription	La creatura bersaglio ottiene una velocità di volo di 12 caselle per azione di movimento.
+Rules/&ConditionFlyingTitle	Volare
+Rules/&ConditionForceOfLawDescription	Imponi svantaggio al prossimo tiro salvezza del bersaglio.
+Rules/&ConditionForceOfLawTitle	Forza della legge
+Rules/&ConditionFormAddBeneficialFormat	Sovvenzioni: {0}
+Rules/&ConditionFormAddDetrimentalFormat	Infligge: {0}
+Rules/&ConditionFormAddNeutralFormat	Diventa: {0}
+Rules/&ConditionFormRemoveDetrimentalAllFormat	Rimuove tutte le occorrenze di queste condizioni: {0}.
+Rules/&ConditionFormRemoveDetrimentalRandomFormat	Rimuove un'occorrenza casuale di queste condizioni: {0}.
+Rules/&ConditionFormRemoveFormat	Rimuove: {0}
+Rules/&ConditionFrightenedDescription	Incapace di avvicinarsi alla fonte della paura, svantaggio nei tiri per colpire e nelle prove di abilità.
+Rules/&ConditionFrightenedFearDescription	Deve scappare dalla fonte della paura.
+Rules/&ConditionFrightenedFearTitle	Spaventato (paura)
+Rules/&ConditionFrightenedTitle	Spaventato
+Rules/&ConditionGateKeeperDescription	Vantaggio ai tiri salvezza in caso di morte.
+Rules/&ConditionGateKeeperTitle	Custode del cancello
+Rules/&ConditionGiantStrengthCloudDescription	La forza diventa 27
+Rules/&ConditionGiantStrengthCloudTitle	Giant Strength (Cloud)
+Rules/&ConditionGiantStrengthFireDescription	La forza diventa 25
+Rules/&ConditionGiantStrengthFireTitle	Forza gigante (fuoco)
+Rules/&ConditionGiantStrengthFrostDescription	La forza diventa 23
+Rules/&ConditionGiantStrengthFrostTitle	Forza gigante (gelo)
+Rules/&ConditionGiantStrengthHillDescription	La forza diventa 21
+Rules/&ConditionGiantStrengthHillTitle	Forza gigante (collina)
+Rules/&ConditionGrappledDescription	Non posso muovermi.
+Rules/&ConditionGrappledTitle	Grappled
+Rules/&ConditionGuidedDescription	Aggiungi 1d4 a una prova di caratteristica.
+Rules/&ConditionGuidedTitle	Guidato
+Rules/&ConditionHastedDescription	La velocità è raddoppiata; +2 CA; I tiri salvezza di Destrezza hanno vantaggio; in grado di eseguire un'azione in più per turno (Attacco, Scatto, Schivata, Disimpegno, Nascondi, Usa oggetto).
+Rules/&ConditionHastedTitle	Hasted
+Rules/&ConditionHealthyDescription	Non ferito.
+Rules/&ConditionHealthyTitle	Salutare
+Rules/&ConditionHeavilyEncumberedDescription	La velocità è ridotta di 4.\nSvantaggio dei tiri per colpire.
+Rules/&ConditionHeavilyEncumberedTitle	Pesantemente gravato
+Rules/&ConditionHeavilyObscuredTitle	Pesantemente oscurato
+Rules/&ConditionHeraldOfBattleDescription	+1 all'AC; +1 per attaccare e danneggiare; +1 a tutti i tiri salvezza.
+Rules/&ConditionHeraldOfBattleTitle	Benedetta dall'araldo della battaglia
+Rules/&ConditionHeroismDescription	Punti ferita temporanei aggiuntivi.
+Rules/&ConditionHeroismTitle	Eroismo
+Rules/&ConditionHighlightedDescription	La creatura non può beneficiare dell'invisibilità, gli attaccanti hanno vantaggio.
+Rules/&ConditionHighlightedTitle	Evidenziato
+Rules/&ConditionHinderedDescription	Velocità di movimento -2.
+Rules/&ConditionHinderedTitle	Ostacolato
+Rules/&ConditionIncapacitatedDescription	Impossibile intraprendere azioni o reazioni.
+Rules/&ConditionIncapacitatedTitle	Incapacitato
+Rules/&ConditionInStinkingCloudDescription	La creatura deve effettuare con successo un Tiro Salvezza CON per poter agire nel suo turno.\nLa vista è fortemente oscurata.
+Rules/&ConditionInStinkingCloudTitle	Nella nuvola puzzolente
+Rules/&ConditionInvisibleDescription	Non può essere visto senza magia; la creatura ha vantaggio sugli attacchi; gli attaccanti hanno uno svantaggio.
+Rules/&ConditionInvisibleTitle	Invisibile
+Rules/&ConditionJumpDescription	Distanza di salto aumentata.
+Rules/&ConditionJumpTitle	Saltare
+Rules/&ConditionLethargicDescription	La creatura non può muoversi o eseguire alcuna azione fino a dopo il suo prossimo turno.
+Rules/&ConditionLethargicTitle	Letargico
+Rules/&ConditionLevitateDescription	La creatura bersaglio si libra; l'incantatore può spostarlo su o giù.
+Rules/&ConditionLevitateTitle	Levitazione
+Rules/&ConditionLifeDrainedDescription	I punti ferita massimi vengono ridotti fino al completamento di un riposo lungo.
+Rules/&ConditionLifeDrainedTitle	Sgocciolato
+Rules/&ConditionLightHypersensitiveDescription	Ferito dalla luce.
+Rules/&ConditionLightHypersensitiveTitle	Ipersensibile alla luce
+Rules/&ConditionLightSensitiveDescription	Svantaggiato dalla luce.
+Rules/&ConditionLightSensitiveTitle	Sensibile alla luce
+Rules/&ConditionLongstriderDescription	La velocità di movimento aumenta di 2 celle.
+Rules/&ConditionLongstriderTitle	Longstrider
+Rules/&ConditionMagicallyArmoredDescription	La classe di armatura di base è impostata su 13.
+Rules/&ConditionMagicallyArmoredTitle	Mago corazzato
+Rules/&ConditionMagicallyAsleepDescription	Incapace di agire fino al risveglio.
+Rules/&ConditionMagicallyAsleepTitle	Magicamente addormentato
+Rules/&ConditionMagicalWeaponDescription	L'arma può ferire i nemici immuni agli attacchi non magici.
+Rules/&ConditionMagicalWeaponTitle	Arma magica
+Rules/&ConditionMarkedByBrandingSmiteDescription	Emette luce; non può diventare invisibile; rivelato se invisibile.
+Rules/&ConditionMarkedByBrandingSmiteTitle	Branding Smite
+Rules/&ConditionMarkedByHunterDescription	Riceve + 1d6 danni quando viene colpito dall'incantatore.
+Rules/&ConditionMarkedByHunterTitle	Marchio del cacciatore
+Rules/&ConditionMindControlledTitle	Controllo mentale
+Rules/&ConditionOnFireDescription	Supporta continui danni da incendio a meno che l'incendio non venga spento da un'azione.
+Rules/&ConditionOnFireTitle	A fuoco
+Rules/&ConditionParalyzedDescription	Incapace di agire; gli attacchi contro la creatura hanno vantaggio; colpo critico automatico se attaccato da una cella vicina.
+Rules/&ConditionParalyzedTitle	Paralizzato
+Rules/&ConditionPetrifiedDescription	Trasformato in pietra; difficilmente può essere ferito.
+Rules/&ConditionPetrifiedTitle	Pietrificato
+Rules/&ConditionPoisonedDescription	Svantaggio su attacchi e prove di abilità.
+Rules/&ConditionPoisonedTitle	Avvelenato
+Rules/&ConditionPossessedDescription	Controllato da un essere soprannaturale.
+Rules/&ConditionPossessedTitle	Posseduto
+Rules/&ConditionProneDescription	Può muoversi solo strisciando; vulnerabile agli attacchi ravvicinati.
+Rules/&ConditionProneTitle	Prono
+Rules/&ConditionProtectedFromEvilTitle	Protetto dal male e dal bene
+Rules/&ConditionResistingDescription	Aggiungi + 1d4 a un tiro salvezza.
+Rules/&ConditionResistingTitle	Resistente
+Rules/&ConditionRestrainedDescription	Impossibilitato a muoversi; gli attacchi della creatura e i tiri salvezza su Destrezza hanno svantaggio; gli attacchi contro le creature hanno vantaggio.
+Rules/&ConditionRestrainedTitle	Trattenuto
+Rules/&ConditionSeeInvisibilityDescription	Può percepire creature invisibili.
+Rules/&ConditionSeeInvisibilityTitle	Vista dell'invisibilità
+Rules/&ConditionSeverelyWoundedDescription	Morirà presto.
+Rules/&ConditionSeverelyWoundedTitle	Gravemente ferito
+Rules/&ConditionShieldedByFaithDescription	Classe armatura +2.
+Rules/&ConditionShieldedByFaithTitle	Schermato dalla fede
+Rules/&ConditionShieldedDescription	La Classe Armatura aumenta di +5 e l'immunità ai missili magici.
+Rules/&ConditionShieldedTitle	Schermato
+Rules/&ConditionShockedDescription	Non è possibile utilizzare le reazioni.
+Rules/&ConditionShockedTitle	Scioccato
+Rules/&ConditionSleetStormDescription	Terreno difficile; può cadere prono; pesantemente oscurato; deve eseguire il controllo della concentrazione.
+Rules/&ConditionSleetStormTitle	Nella tempesta di nevischio
+Rules/&ConditionSlowedDescription	Velocità dimezzata; -2 ai salvataggi AC e DEX; massimo un'azione o azione bonus; nessuna reazione; massimo un attacco per turno; il lancio di incantesimi può fallire.
+Rules/&ConditionSlowedTitle	Rallentato
+Rules/&ConditionSpiderClimbDescription	Capace di arrampicarsi come un ragno.
+Rules/&ConditionSpiderClimbTitle	Spider Climb
+Rules/&ConditionSpiritGuardiansDescription	La velocità è dimezzata; può subire danni all'inizio di ogni turno.
+Rules/&ConditionSpiritGuardiansSelfDescription	Il personaggio è attualmente protetto da Spirit Guardians.
+Rules/&ConditionSpiritGuardiansSelfTitle	Protetto dagli spiriti.
+Rules/&ConditionSpiritGuardiansTitle	Presi di mira dagli spiriti
+Rules/&ConditionStealthyDescription	Nascondersi attivamente.
+Rules/&ConditionStealthyTitle	Stealthy
+Rules/&ConditionStunnedDescription	Incapace di agire o di muoversi; gli attacchi contro le creature hanno un vantaggio; fallisce automaticamente i tiri salvezza su Forza e Destrezza.
+Rules/&ConditionStunnedTitle	Stordito
+Rules/&ConditionSurprisedDescription	Impossibile agire per un round.
+Rules/&ConditionSurprisedTitle	Sorpreso
+Rules/&ConditionTargetedByGuidingBoltDescription	Il primo attacco contro questa creatura ha vantaggio.
+Rules/&ConditionTargetedByGuidingBoltTitle	Mirato da Guiding Bolt
+Rules/&ConditionTemporaryHitPointsDescription	La creatura guadagna punti ferita temporanei.
+Rules/&ConditionTemporaryHitPointsTitle	HP temporanei
+Rules/&ConditionTraditionShockArcanistArcaneFuryDescription	Il danno degli incantesimi di evocazione aumenta del bonus di competenza e del bonus INT.
+Rules/&ConditionTraditionShockArcanistArcaneFuryTitle	Furia Arcana
+Rules/&ConditionTrueStrikeDescription	L'incantatore ha vantaggio al suo primo attacco contro il bersaglio dell'incantesimo.
+Rules/&ConditionTrueStrikeTitle	True Strike
+Rules/&ConditionTurnedDescription	Deve allontanarsi dal lanciatore.
+Rules/&ConditionTurnedTitle	Trasformato
+Rules/&ConditionTypeBeneficialFormat	Condizione benefica
+Rules/&ConditionTypeDetrimentalFormat	Condizione dannosa
+Rules/&ConditionTypeNeutralFormat	Condizione neutra
+Rules/&ConditionUnconsciousDescription	Incapace di agire fino al risveglio.
+Rules/&ConditionUnconsciousTitle	Inconscio
+Rules/&ConditionVampiricTouchDescription	Può eseguire un attacco di incantesimo corpo a corpo vampirico ogni turno.
+Rules/&ConditionVampiricTouchTitle	Tocco vampirico
+Rules/&ConditionWoundedDescription	Hai perso alcuni punti ferita.
+Rules/&ConditionWoundedTitle	Ferito
+Rules/&CostFormat	{0} {1}
+Rules/&CounterFormBreakConcentrationFormat	Provoca un controllo della concentrazione.
+Rules/&CounterFormDisperseCloudFormat	Disperde le nuvole nell'area.
+Rules/&CounterFormDissipateSpellsFormat	Incantesimo fino al livello {0} dissolto automaticamente, CD {1} + livello dell'incantesimo altrimenti.
+Rules/&CounterFormExtinguishLightFormat	Spegne le sorgenti luminose nell'area.
+Rules/&CounterFormInterruptSpellcastingFormat	Incantesimo fino al livello {0} neutralizzato automaticamente, CD {1} + livello dell'incantesimo altrimenti.
+Rules/&CounterFormRemoveDarknessFormat	Rimuove le aree di oscurità.
+Rules/&DamageAcidDescription	Lo spruzzo corrosivo del respiro di un drago nero e gli enzimi che si dissolvono secreti da un sanguinaccio infliggono danni da acido.
+Rules/&DamageAcidTitle	Acido
+Rules/&DamageBludgeoningDescription	Gli attacchi di forza contundente - martelli, cadute, costrizioni e simili - infliggono danni contundenti.
+Rules/&DamageBludgeoningTitle	Randellando
+Rules/&DamageColdDescription	Il gelo infernale che si irradia dalla lancia di un diavolo di ghiaccio e l'esplosione gelida del respiro di un drago bianco infliggono danni da freddo.
+Rules/&DamageColdTitle	Freddo
+Rules/&DamageFireDescription	I draghi rossi sputano fuoco e molti incantesimi evocano fiamme per infliggere danni da fuoco.
+Rules/&DamageFireTitle	Fuoco
+Rules/&DamageForceDescription	La forza è pura energia magica focalizzata in una forma dannosa. La maggior parte degli effetti che infliggono danni di forza sono incantesimi, inclusi missili magici e armi spirituali.
+Rules/&DamageForceTitle	Vigore
+Rules/&DamageFormFormat	{0} {1} {2} {3} danni {4}
+Rules/&DamageFormTightFormat	{0} {1} {2} {3} dmg {4}
+Rules/&DamageLightningDescription	Un incantesimo fulmine e il soffio di un drago blu infliggono danni da fulmine.
+Rules/&DamageLightningTitle	Fulmini
+Rules/&DamageNecroticDescription	Danno necrotico, inflitto da alcuni non morti e incantesimi come il tocco gelido, la materia appassisce e persino l'anima.
+Rules/&DamageNecroticTitle	Necrotico
+Rules/&DamagePiercingDescription	Gli attacchi perforanti e impalanti, inclusi lance e morsi di mostri, infliggono danni perforanti.
+Rules/&DamagePiercingTitle	Piercing
+Rules/&DamagePoisonDescription	Punture velenose e il gas tossico dell'alito di un drago verde infliggono danni da veleno.
+Rules/&DamagePoisonTitle	Veleno
+Rules/&DamagePsychicDescription	Le capacità mentali infliggono danni psichici.
+Rules/&DamagePsychicTitle	Psichico
+Rules/&DamageRadiantDescription	Il danno radiante, inflitto dall'incantesimo colpo di fiamma di un chierico o dall'arma punitrice di un angelo, brucia la carne come il fuoco e sovraccarica lo spirito di potere.
+Rules/&DamageRadiantTitle	Radiante
+Rules/&DamageSlashingDescription	Spade, asce e artigli dei mostri infliggono danni taglienti.
+Rules/&DamageSlashingTitle	Taglio
+Rules/&DamageThunderDescription	Una raffica di suono, come l'effetto dell'incantesimo Onde di tuono, infligge danni da tuono.
+Rules/&DamageThunderTitle	tuono
+Rules/&DamageTitle	Danno:
+Rules/&DcFormat	DC {0}
+Rules/&DieD10Title	d10
+Rules/&DieD12Title	d12
+Rules/&DieD1Title	d1
+Rules/&DieD20Title	d20
+Rules/&DieD2Title	d2
+Rules/&DieD3Title	d3
+Rules/&DieD4Title	d4
+Rules/&DieD6Title	d6
+Rules/&DieD8Title	d8
+Rules/&DivinationFormFormatIdentifyItem	Rivela tutte le proprietà di un oggetto.
+Rules/&DivinationFormFormatListCreatureFamilyInLocation	Rileva la presenza di tipi di creature: {0}.
+Rules/&DivinationFormFormatRevealEntitiesBearingTags	Rivela creature o oggetti che sono {0}.
+Rules/&DurationAnyRestFormat	Fino al riposo
+Rules/&DurationDayPluralFormat	{0} giorni
+Rules/&DurationDaySingleFormat	{0} giorno
+Rules/&DurationHourPluralFormat	{0} ore
+Rules/&DurationHourSingleFormat	{0} ora
+Rules/&DurationInstantaneousFormat	Immediato
+Rules/&DurationLessMinuteFormat	<1 min
+Rules/&DurationLongRestFormat	Fino a lungo riposo
+Rules/&DurationMinutePluralFormat	{0} minuti
+Rules/&DurationMinuteSingleFormat	{0} minuto
+Rules/&DurationNoneFormat	{0} round
+Rules/&DurationPermanentFormat	Permanente
+Rules/&DurationRoundPluralFormat	{0} round
+Rules/&DurationRoundSingleFormat	{0} round
+Rules/&DurationShortRestFormat	Fino a breve riposo
+Rules/&DurationUntilEndOfSourceTurnFormat	Fino alla fine del turno del personaggio sorgente.
+Rules/&DurationUntilEndOfTargetTurnFormat	Fino alla fine del turno di questo personaggio.
+Rules/&DurationUntilStartOfSourceTurnFormat	Fino all'inizio del turno del personaggio sorgente.
+Rules/&DurationUntilStartOfTargetTurnFormat	Fino all'inizio del turno di questo personaggio.
+Rules/&EffectRangeDistanceTitle	{0}
+Rules/&EffectRangeMeleeHitTitle	Colpo in mischia
+Rules/&EffectRangeRangeHitTitle	Hit a distanza {0}
+Rules/&EffectRangeSelfTitle	Se stesso
+Rules/&EffectRangeTouchTitle	Toccare
+Rules/&EffectTargetConeTitle	{0} {1}
+Rules/&EffectTargetCubeTitle	{0} {1}
+Rules/&EffectTargetCylinderTitle	{0} {1} x {2}
+Rules/&EffectTargetIndividualsTitle	{0} {1}
+Rules/&EffectTargetIndividualsUniqueTitle	{0} {1}
+Rules/&EffectTargetInLineOfSightWithinDistanceTitle	In vista {0}
+Rules/&EffectTargetItemTitle	Articolo
+Rules/&EffectTargetLineTitle	{0} {1}
+Rules/&EffectTargetPerceivingWithinDistanceTitle	{0} {1}
+Rules/&EffectTargetPositionTitle	Terra
+Rules/&EffectTargetSelfTitle	Se stesso
+Rules/&EffectTargetSharedAmongIndividualsTitle	{0} <> {1}
+Rules/&EffectTargetSphereTitle	{0} {1}
+Rules/&EffectTargetWallLineTitle	{0} {1} x {2}
+Rules/&EffectTargetWallRingTitle	{0} {1} x {2}
+Rules/&HealingFormFormat	{0} {1} {2} guarigione
+Rules/&HealingStabilize	Stabilizza una creatura morente.
+Rules/&HeightFormatFeet	{0} "
+Rules/&HeightFormatFeetInches	{0} '{1} "; {0}' {1} ''; {0} '{1}"
+Rules/&HeightFormatInches	{0} "; {0} ''; {0}"
+Rules/&ItemPropertyFormFormat	Sull'articolo di destinazione:\n{0}
+Rules/&LightSourceFormFormat	sorgente luminosa: {0} luminosa + {1} debole
+Rules/&MaterialComponentTitle	M
+Rules/&MotionFormLevitateFormat	Levita {0}
+Rules/&MotionFormPullFormat	Trascina {0}
+Rules/&MotionFormPushFormat	Spingi via {0}
+Rules/&MotionFormTeleportFormat	Teletrasporto {0}
+Rules/&RateAtWillFormatTitle	a volontà
+Rules/&RateChannelDivinityFormatTitle	piccola pausa
+Rules/&Rated6FormatTitle	su 5 o 6 su 1d6
+Rules/&RateDawnFormatTitle	alba
+Rules/&RateHealingPoolFormatTitle	piscina curativa
+Rules/&RateLongRestFormatTitle	lungo riposo
+Rules/&RateNoneFormatTitle	nessuna
+Rules/&RateOneMinuteFormatTitle	ogni minuto
+Rules/&RateShortRestFormatTitle	piccola pausa
+Rules/&RateSpellSlotFormatTitle	slot incantesimo
+Rules/&RecipeRequiredIngredientMultipleFormat	{0} x {1}
+Rules/&RecipeRequiredIngredientSingleFormat	{0}
+Rules/&RecipeRequiredSpellFormat	Capacità di lanciare l'incantesimo {0}.
+Rules/&RecipeRequiredTooltypeFormat	Competenza con {0}
+Rules/&SaveAffinityHalfDamageTitle	(salva per {0})
+Rules/&SaveAffinityNegateAndCancelEachTurnTitle	(salva ogni turno per annullare)
+Rules/&SaveAffinityNegateTitle	(salva per negare)
+Rules/&SituationalContextAttackerAwayFromTargetFormat	Se l'attaccante è lontano dal bersaglio:
+Rules/&SituationalContextAttackerNextToTargetFormat	Se l'attaccante è vicino al bersaglio:
+Rules/&SituationalContextAttackerOnHigherGroundThanTargetFormat	Se l'attaccante si trova su un terreno più elevato:
+Rules/&SituationalContextConsciousAllyNextToTargetFormat	se l'attaccante ha un alleato cosciente vicino al bersaglio:
+Rules/&SituationalContextNextToWallFormat	se la creatura è vicino a un muro:
+Rules/&SituationalContextTargetIsEffectSourceFormat	se la creatura sta attaccando la fonte dell'effetto:
+Rules/&SomaticComponentTitle	S
+Rules/&SpellLevel0FormatTitle	Trucchetto
+Rules/&SpellLevel1FormatTitle	1 ° livello
+Rules/&SpellLevel2FormatTitle	2 ° livello
+Rules/&SpellLevel3FormatTitle	3 ° livello
+Rules/&SpellLevel4FormatTitle	4 ° livello
+Rules/&SpellLevel5FormatTitle	5 ° livello
+Rules/&SpellLevel6FormatTitle	6 ° livello
+Rules/&SpellLevel7FormatTitle	7 ° livello
+Rules/&SpellLevel8FormatTitle	8 ° livello
+Rules/&SpellLevel9FormatTitle	9 ° livello
+Rules/&SpellSlotFormRecoverHalfLevelUpFormat	Recupera metà del tuo livello di classe (arrotondato per eccesso) di slot incantesimi fino al livello {0}.
+Rules/&SummonFormCreaturesMultipleFormat	Evoca {0} (x {1}).
+Rules/&SummonFormCreaturesSingleFormat	Evoca {0}.
+Rules/&SummonFormEffectProxyFormat	Evoca "{0}" affinché tu possa controllarlo
+Rules/&SummonFormInventoryItemsMultipleFormat	Evoca {0} (x {1}) nell'inventario
+Rules/&SummonFormInventoryItemsSingleFormat	Evoca {0} nell'inventario
+Rules/&TemporaryHitPointsFormFormat	{0} {1} {2} punti ferita temporanei
+Rules/&TopologyFormProjectileBlockerFormat	Blocca i proiettili ordinari (frecce, bulloni, ecc.)
+Rules/&TopologyFormSightBlockerFormat	Blocca la linea di vista
+Rules/&TurnOccurenceEndOfTurnFormat	Fine del turno
+Rules/&TurnOccurenceEndOfTurnNoPerceptionOfSourceFormat	Fine del turno
+Rules/&TurnOccurenceStartOfTurnFormat	Inizio del turno
+Rules/&VerboseComponentTitle	V
+Rules/&VersatileDamageFormFormat	\nVersatile: {0} {1} {2} {3}
+Rules/&VersatileTwoHandedTitle	A due mani:
+Rules/&WeightFormat	{0} {1}
+Rules/&WeightRatioFormat	{0} / {1} {2}
+Rules/&TopologyFormDifficultThroughFormat	Questa zona rallenta chi la attraversa.
+Rules/&TopologyFormSightImpairedFormat	Le creature in quest'area non possono vedere nulla.
+Rules/&TopologyFormDangerousZoneFormat	Questa zona ferisce coloro che la attraversano.
+Rules/&EffectTargetCubeWithOffsetTitle	Cubo a 3 celle proveniente da te
+Rules/&ConditionBlessingSorrtarrTitle	Benedizione di Sorr-Tarr
+Rules/&ConditionBlessingSorrtarrDescription	Sembra alleviare i Sorak dalla loro vulnerabilità alla luce.
+Rules/&ConditionAnnoyedByBeeTitle	Distratto da un'ape fastidiosa
+Rules/&ConditionAnnoyedByBeeDescription	Svantaggio sulla concentrazione fino al prossimo turno.
+Rules/&ConditionDetectPoisonAndDiseaseTitle	Rileva veleno e malattia
+Rules/&ConditionDetectPoisonAndDiseaseDescription	Per la durata dell'incantesimo, puoi percepire creature velenose e malattie entro 6 cellule da te.
+Rules/&ConditionCharmedByAnimalFrienshipTitle	Incantato dall'amicizia animale
+Rules/&ConditionCharmedByAnimalFrienshipDescription	Questa bestia sarà incantata per la durata dell'incantesimo o finché tu o uno dei tuoi compagni non la danneggiate.
+Rules/&ConditionSanctuaryTitle	Santuario
+Rules/&ConditionSanctuaryDescription	Proteggi una creatura entro il raggio dagli attacchi. Fino al termine dell'incantesimo, qualsiasi creatura che bersaglia la creatura protetta con un attacco o un incantesimo dannoso deve effettuare un tiro salvezza su Saggezza o scegliere un altro bersaglio.
+Rules/&ConditionWardedBySanctuaryTitle	Schermato da Sanctuary
+Rules/&ConditionWardedBySanctuaryDescription	Sei protetto fino al termine dell'incantesimo o finché non lanci un incantesimo o lanci un attacco.
+Rules/&ConditionProtectedFromEnergyAcidTitle	Protetto dagli acidi
+Rules/&ConditionProtectedFromEnergyAcidDescription	Resistenza ai danni da acido
+Rules/&ConditionProtectedFromEnergyColdTitle	Protetto dal freddo
+Rules/&ConditionProtectedFromEnergyColdDescription	Resistenza ai danni da freddo
+Rules/&ConditionProtectedFromEnergyFireTitle	Protetto dal fuoco
+Rules/&ConditionProtectedFromEnergyFireDescription	Resistenza ai danni da fuoco
+Rules/&ConditionProtectedFromEnergyLightningTitle	Protetto dai fulmini
+Rules/&ConditionProtectedFromEnergyLightningDescription	Resistenza ai fulmini
+Rules/&ConditionProtectedFromEnergyThunderTitle	Protetto dai tuoni
+Rules/&ConditionProtectedFromEnergyThunderDescription	Resistenza ai danni del tuono
+Rules/&AlterationFormDissipateSpellFormat	Dissipa gli incantesimi sugli oggetti
+Rules/&ConditionMindControlledByConjureAnimalTitle	Animale evocato
+Rules/&ConditionMindControlledByConjureAnimalDescription	Questo animale è stato evocato da un'altra creatura.
+Rules/&ConditionSilencedTitle	Silenziato
+Rules/&ConditionWardedByWardingBondTitle	Protetto da Warding Bond
+Rules/&ConditionWardedByWardingBondDescription	Temp
+Rules/&ConditionWaterWalkTitle	Camminare sull'acqua
+Rules/&ConditionWaterWalkDescription	Temp
+Rules/&ConditionWaterBreathingTitle	Respirazione dell'acqua
+Rules/&ConditionWaterBreathingDescription	Temp
+Rules/&ConditionRestrictedInsideMagicCircleDescription	Temp
+Rules/&ConditionProtectedInsideMagicCircleDescription	Temp
+Rules/&ConditionComprehendLanguagesTitle	Comprendere le lingue
+Rules/&ConditionComprehendLanguagesDescription	Può leggere e parlare qualsiasi lingua.
+Rules/&ConditionStaffOfMetisTitle	Personale di Metis
+Rules/&ConditionStaffOfMetisDescription	Resistenza ai danni da freddo, fuoco e fulmini.
+Rules/&ConditionFlying6Description	La creatura bersaglio ottiene una velocità di volo di 6 caselle per azione di movimento.
+Rules/&AlterationFormAbilityScoreIncreaseValueFormat	Aumenta il punteggio {0} di {1}.
+Rules/&AlterationFormAbilityScoreIncreaseMaximumFormat	Aumenta il {0} massimo di {1}.
+Rules/&ConditionHeavyArmorOverloadDescription	FOR insufficiente per questa armatura pesante. La velocità è ridotta di 2.
+Rules/&ConditionHeavyArmorOverloadTitle	Sovraccarico di armature pesanti
+Rules/&MoveModeWalkTitle	Camminare
+Rules/&MoveModeClimbTitle	Scalata
+Rules/&MoveModeFlyTitle	Volare
+Rules/&MoveModeIncorporealTitle	Incorporeo
+Rules/&MoveModeSwimTitle	Nuotare
+Rules/&MoveModeBurrowTitle	Tana
+Rules/&ConditionCloakOfDisplacementDescription	Gli attacchi a questa creatura hanno svantaggio fintanto che è cosciente e in grado di muoversi. Cessa di funzionare fino al turno successivo se danneggiato.
+Rules/&ConditionCloakOfDisplacementTitle	Spostati
+Rules/&ConditionHeavilyObscuredDescription	La visione della creatura è pesantemente oscurata; svantaggio nei tiri per colpire; i tiri per colpire contro una creatura hanno svantaggio.
+Rules/&ConditionConjuredCreatureDescription	Questa creatura è stata evocata da un effetto magico
+Rules/&ConditionConjuredCreatureTitle	Creatura evocata
+Rules/&ConditionBleedingDescription	Le creature subiscono 1D6 danni necrotici all'inizio del proprio turno
+Rules/&ConditionBleedingTitle	Doomblade Cut
+Rules/&ConditionSilencedDescription	La creatura non emette alcun suono e non può parlare o lanciare incantesimi con una componente verbale
+Rules/&ConditionProtectedFromEvilDescription	Aberrazioni, celestiali, elementali, folletti, demoni e non morti hanno lo svantaggio di attaccare il bersaglio e non possono affascinarlo, spaventarlo o possederlo. Se il bersaglio è già incantato, spaventato o posseduto da una tale creatura, il bersaglio ha vantaggio in ogni nuovo tiro salvezza contro l'effetto pertinente.
+Rules/&ConditionMarkedByFateDescription	Riceve danni aggiuntivi quando viene colpito.
+Rules/&ConditionMarkedByFateTitle	Marchio del destino
+Rules/&ConditionStepbackDescription	Vantaggio al prossimo attacco con l'arco in questo turno.
+Rules/&ConditionStepbackTitle	Vantaggio di un passo indietro
+Rules/&ConditionInvisibleGreaterDescription	Non può essere visto senza magia; la creatura ha vantaggio sugli attacchi; gli attaccanti hanno uno svantaggio. La creatura rimane invisibile anche quando attacca e lancia incantesimi.
+Rules/&ConditionInvisibleGreaterTitle	Invisibile (maggiore)
+Rules/&ConditionStoneskinDescription	Resistenza ai danni contundenti, taglienti e perforanti non magici.
+Rules/&ConditionStoneskinTitle	Pelle di pietra
+Rules/&ConditionFrightenedPhantasmalKillerDescription	La creatura è spaventata e riceve danni psichici ogni turno finché non supera un tiro salvezza.
+Rules/&ConditionFrightenedPhantasmalKillerTitle	Spaventato da Phantasm
+Rules/&ConditionFireShieldWarmDescription	Resistente al freddo e reagisce con danni da fuoco contro gli attaccanti corpo a corpo.
+Rules/&ConditionFireShieldColdDescription	Resistente al fuoco e reagisce con danni da freddo contro gli attaccanti corpo a corpo.
+Rules/&ConditionDeathWardedTitle	Protetto dalla morte
+Rules/&ConditionDeathWardedDescription	Quando viene ridotto a 0 punti ferita, HP è invece impostato su 1, prevenendo la morte istantanea a causa di danni o effetti ingenti.
+Rules/&ConditionConfusedTitle	Confuso
+Rules/&ConditionConfusedDescription	All'inizio di questo turno, la creatura può allontanarsi, non agire affatto, attaccare in mischia un bersaglio a portata di mano o agire normalmente.
+Rules/&ConditionBanishedTitle	Bandito
+Rules/&ConditionBanishedDescription	La creatura viene rimossa dal gioco per la durata dell'incantesimo, a meno che l'incantesimo non venga interrotto prima di allora. Se l'incantesimo rimane intatto per tutta la sua durata, la creatura viene bandita permanentemente se è extraplanare (celeste, demone, elementale).
+Rules/&SpecialBehaviourConditionDuringTurnFormat	{3} è influenzato durante il turno.
+Rules/&SpecialBehaviourNoneFormat	{3} agisce normalmente.
+Rules/&ConditionConfusedAttackTitle	Attaccare casualmente
+Rules/&ConditionConfusedAttackDescription	La creatura deve usare la sua azione per attaccare casualmente una creatura alla sua portata, se possibile.
+Rules/&ConditionConfusedMoveTitle	Spostamento casuale
+Rules/&ConditionConfusedMoveDescription	La creatura deve muoversi in una direzione casuale.
+Rules/&ConditionConfusedIncapacitatedTitle	Incapacitato
+Rules/&ConditionConfusedIncapacitatedDescription	La creatura non può fare nulla a causa della sua confusione.
+Rules/&ConditionFeatRaiseShieldDescription	Ottieni +3 CA fino alla fine del turno dell'attaccante.
+Rules/&ConditionFeatRaiseShieldTitle	Scudo rialzato
+Rules/&ConditionFeatTwinBladeDescription	Ottieni +3 CA fino alla fine del turno dell'attaccante.
+Rules/&ConditionFeatTwinBladeTitle	Blocco a doppia lama
+Rules/&DurationTurnSingleFormat	{0} svolta
+Rules/&DurationTurnPluralFormat	{0} turni
+Rules/&ConditionFeatTakeAimDescription	I tuoi attacchi con armi a distanza non hanno svantaggi o vantaggi, indipendentemente dalle condizioni.
+Rules/&ConditionFeatTakeAimTitle	Prendere la mira
+Rules/&ConditionFeatRushToBattleDescription	La tua velocità di movimento è aumentata di 3 celle e la tua CA è ridotta di 2 fino all'inizio del tuo turno.
+Rules/&ConditionFeatRushToBattleTitle	Correndo alla battaglia
+Rules/&ConditionDispellingEvilAndGoodTitle	Dissipare il male e il bene
+Rules/&ConditionDispellingEvilAndGoodDescription	Celestiali, elementali, folletti, demoni e non morti hanno svantaggio sugli attacchi contro di te. Puoi anche annullare un incantesimo ostile o respingere una creatura extraplanare colpita da uno dei tuoi attacchi.
+Rules/&ConditionMindControlledDescription	La creatura si unisce all'incantatore che controlla.
+Rules/&ConditionMindDominatedDescription	Le azioni della creatura sono totalmente controllate dall'incantatore.
+Rules/&ConditionMindDominatedTitle	Mente dominata
+Rules/&ConditionOnAcidTitle	Bruciando dall'acido
+Rules/&ConditionPheromonedTitle	Puzza di feromoni
+Rules/&ConditionPheromonedDescription	-3 ai controlli di capacità CHARISMA per sei ore.
+Rules/&ConditionOnAcidDescription	Subisci 1D3 danni da acido alla fine del tuo turno per 3 turni.
+Rules/&ActivationTypePermanentTitle	Permanente
+Rules/&MonsterSpellcastingTitle	Incantesimo
+Rules/&MonsterSpellcastingDescription	La creatura ha la capacità di lanciare incantesimi
+Rules/&ConditionCalmedByCalmEmotionsEnemyTitle	Nemico calmo
+Rules/&ConditionCalmedByCalmEmotionsEnemyDescription	La creatura è indifferente verso i nemici a meno che non sia ferita
+Rules/&ConditionCalmedByCalmEmotionsAllyTitle	Alleato calmo
+Rules/&ConditionCalmedByCalmEmotionsAllyDescription	La creatura non può essere affascinata o spaventata
+Rules/&OrientationNorthTitle	Nord
+Rules/&OrientationEastTitle	est
+Rules/&OrientationSouthTitle	Sud
+Rules/&OrientationWestTitle	ovest

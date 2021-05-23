@@ -1,0 +1,196 @@
+Stage/&AbilityScoreIncreaseRemainingFormat	Puntos restantes: {0} / {1}
+Stage/&AbilityScoreIncreaseTitle	Aumento de la puntuación de habilidad
+Stage/&AbilityScoresAssignmentDragTitle	Arrastra y suelta tus rollos en las celdas de puntuación de habilidad,\nu optimícelos para su clase de personaje.
+Stage/&AbilityScoresAssignmentEditTitle	Ajuste sus puntuaciones de habilidad de su grupo de puntos.
+Stage/&AbilityScoresAssignmentEditUnlimitedTitle	Ajusta tus puntuaciones de habilidad como desees.
+Stage/&AbilityScoresAvailableValuesTitle	Tus puntuaciones disponibles.
+Stage/&AbilityScoresBonusFromRaceTitle	De ascendencia
+Stage/&AbilityScoresCurrentTitle	Puntajes de habilidad actuales
+Stage/&AbilityScoresDecreaseCannotDescription	Ya no puede bajar este valor.
+Stage/&AbilityScoresDecreaseDescription	Disminuye esta puntuación de habilidad.
+Stage/&AbilityScoresFreeEditionDescription	Recrea con precisión un personaje existente.
+Stage/&AbilityScoresFreeEditionTitle	Edición gratuita
+Stage/&AbilityScoresIncreaseCannotDescription	No es posible un aumento adicional.
+Stage/&AbilityScoresIncreaseCapitalDescription	Aumenta esta puntuación de habilidad a costa de {0} punto (s).
+Stage/&AbilityScoresIncreaseFreeDescription	Aumenta esta puntuación de habilidad (gratis).
+Stage/&AbilityScoresMethodPointsTitle	Compra de puntos
+Stage/&AbilityScoresMethodRollTitle	Rollos de dados
+Stage/&AbilityScoresMethodTitle	Elige un sistema de generación de habilidades y define las estadísticas de tu personaje.
+Stage/&AbilityScoresOptimizeDescription	Optimiza las asignaciones de puntuación de habilidad para la clase de personaje seleccionada.
+Stage/&AbilityScoresOptimizeTitle	Optimizar
+Stage/&AbilityScoresPointsCapitalInfiniteTitle	Puntos ilimitados
+Stage/&AbilityScoresPointsCapitalTitle	Fondo de puntos
+Stage/&AbilityScoresPredeterminedDescription	Vuelve a tirar 6 puntuaciones de habilidad, usando 4d6 y conservando las tres mejores tiradas.
+Stage/&AbilityScoresPredeterminedTitle	Matriz estándar
+Stage/&AbilityScoresRemainingPointsDescription	Tienes tantos puntos por gastar.
+Stage/&AbilityScoresRemainingPointsTitle	Restante
+Stage/&AbilityScoresRerollDescription	Vuelve a tirar 6 puntuaciones de habilidad, usando 4d6 y conservando las tres mejores tiradas.
+Stage/&AbilityScoresRerollTitle	Volver a tirar dados
+Stage/&AbilityScoresResetDescription	Restablece todas las asignaciones de puntuación de habilidad.
+Stage/&AbilityScoresResetTitle	Reiniciar
+Stage/&AbilityScoresStageDescription	Genera las seis puntuaciones de habilidad principales del personaje.
+Stage/&AbilityScoresStageFailNotAllAssignedDescription	Debes asignar las 6 puntuaciones de habilidad al lado izquierdo de la pantalla.
+Stage/&AbilityScoresStageFailRemainingPointsDescription	Debes gastar todos tus puntos antes de poder continuar.
+Stage/&AbilityScoresStageFailSpendAllLevelUpPointsDescription	Debes gastar todos los puntos de puntuación de habilidad para subir de nivel.
+Stage/&AbilityScoresStageFailSpendAllRacePointsDescription	Debes gastar todos los puntos de puntuación de habilidad de la ascendencia elegida.
+Stage/&AbilityScoresStageTitle	Capacidad\nPuntuaciones
+Stage/&AbilityTipDescription	Como "{0}", sus puntuaciones de habilidad más importantes son {1}, {2} y {3}.
+Stage/&AbilityTipTitle	Consejo
+Stage/&AllSpellsFormat	Como miembro de la clase "{0}", tienes acceso a todos los hechizos (excepto trucos) de tu lista de hechizos.\n\nOtra interfaz te permitirá elegir hechizos para prepararte para el día.
+Stage/&AtHigherLevelsDescription	Muestre las características otorgadas en los niveles superiores.
+Stage/&AtHigherLevelsTitle	A niveles superiores
+Stage/&BackgroundAlignmentTitle	Elija una alineación:
+Stage/&BackgroundChose2FlagsTitle	Banderas de personalidad (elija 2)
+Stage/&BackgroundEquipmentTitle	Equipo de fondo
+Stage/&BackgroundFeaturesTitle	Características de fondo
+Stage/&BackgroundPredefinedFlagsTitle	Banderas de propiedad fija
+Stage/&BackgroundSelectionStageDescription	Esta etapa crea un trasfondo para el personaje.
+Stage/&BackgroundSelectionStageMissingAlignmentDescription	Debe seleccionar una alineación.
+Stage/&BackgroundSelectionStageMissingAlignmentFlagsDescription	Debe elegir banderas de personalidad para su alineación seleccionada.
+Stage/&BackgroundSelectionStageMissingBackgroundFlagsDescription	Debes elegir banderas de personalidad para tu fondo seleccionado.
+Stage/&BackgroundSelectionStageNoneSelectedDescription	Debes seleccionar un fondo.
+Stage/&BackgroundSelectionStageTitle	Fondo
+Stage/&CantripLearnPluralTitle	Seleccione {0} trucos para aprender.
+Stage/&CantripLearnSingleTitle	Seleccione un truco para aprender.
+Stage/&ChangeEquipementDescription	Haga clic para elegir entre diferentes configuraciones de equipos.
+Stage/&ChangeEquipementTitle	Editar equipo
+Stage/&ClassAdvancementStageDescription	Esta etapa te permite subir de nivel una clase o agregar una nueva clase.
+Stage/&ClassAdvancementStageTitle	Clase\nAvance
+Stage/&ClassEquipmentTitle	Equipo de clase
+Stage/&ClassFeaturesTitle	Características de la clase
+Stage/&ClassSelectionStageDescription	Esta etapa te permite elegir características de clase para tu personaje.
+Stage/&ClassSelectionStageNoneSelectedDescription	Debes seleccionar una clase.
+Stage/&ClassSelectionStageTitle	Clase
+Stage/&DeitySelectionDeityChoiceTitle	Selecciona una deidad
+Stage/&DeitySelectionDomainChoiceTitle	Seleccione un dominio divino
+Stage/&DeitySelectionSelectedDeityDomainsHeader	Dominios divinos
+Stage/&DeitySelectionSelectedDeityHeader	Deidad
+Stage/&DeitySelectionSelectedDomainFeaturesTitle	Funciones de dominio
+Stage/&DeitySelectionSelectedDomainHeader	Dominio
+Stage/&DeitySelectionStageDescription	Esta etapa te permite elegir qué deidad sigue el personaje y seleccionar los beneficios de tu fe.
+Stage/&DeitySelectionStageNoDeitySelectedDescription	Debes seleccionar una deidad.
+Stage/&DeitySelectionStageNoDomainSelectedDescription	Debes seleccionar un dominio divino.
+Stage/&DeitySelectionStageTitle	Deidad
+Stage/&FightingStyleEffectsHeaderTitle	Efectos de estilo
+Stage/&FightingStyleSelectedFightingStyleHeader	Estilo de lucha
+Stage/&FightingStyleSelectionStageDescription	Esta etapa te permite elegir un estilo de lucha para el personaje.
+Stage/&FightingStyleSelectionStageNoFightingStyleSelectedDescription	Debes seleccionar un estilo de lucha.
+Stage/&FightingStyleSelectionStageTitle	Lucha\nEstilo
+Stage/&FightingStyleSelectionTitle	Seleccionar estilo de lucha
+Stage/&HigherLevelFeaturesTitle	Funciones de nivel superior
+Stage/&HitPointsGainFormatPlural	Has ganado {0} puntos de vida.\n\nHas ganado un dado de golpe adicional.
+Stage/&HitPointsGainFormatSingle	Has ganado {0} punto de golpe.\n\nHas ganado un dado de golpe adicional.
+Stage/&HitPointsGainTitle	Puntos de golpe
+Stage/&IdentityAdditionalBackstoryHeader	Historia adicional
+Stage/&IdentityAdditionalBackstoryTemporaryInput	<Ingrese su historia de fondo aquí>
+Stage/&IdentityDefinitionDescription	Esta etapa desarrolla el trasfondo del personaje.
+Stage/&IdentityDefinitionStageFailDuplicateName	Otro personaje ya está usando ese nombre.
+Stage/&IdentityDefinitionStageFailEmptyName	Debes ingresar un nombre.
+Stage/&IdentityDefinitionTitle	Identidad
+Stage/&IdentityFirstNameTitle	Primer nombre
+Stage/&IdentityLastNameTitle	Apellido
+Stage/&IdentityModifiersHeader	Modificadores
+Stage/&IdentityMorphotypeBeardShapeHeader	Forma de barba
+Stage/&IdentityMorphotypeBodyDecorationHeader	Decoración Corporal
+Stage/&IdentityMorphotypeEyeColorHeader	Color de los ojos
+Stage/&IdentityMorphotypeFaceAndSkinHeader	Rostro y piel
+Stage/&IdentityMorphotypeFaceShapeHeader	Cara
+Stage/&IdentityMorphotypeHairColorHeader	Color de pelo
+Stage/&IdentityMorphotypeHairShapeHeader	Forma de cabello
+Stage/&IdentityMorphotypeMusculatureHeader	Físico
+Stage/&IdentityMorphotypeOriginHeader	Origen
+Stage/&IdentityMorphotypeSkinHeader	Tono de piel
+Stage/&IdentityRandomRollDescription	Crea un nombre aleatorio basado en la ascendencia del personaje.
+Stage/&IdentityRandomRollTitle	Aleatorio
+Stage/&IdentityVoiceTitle	Voz
+Stage/&LevelGainsCantripSelectionMultiple	{0} trucos para seleccionar
+Stage/&LevelGainsCantripSelectionSingle	Un truco para seleccionar
+Stage/&LevelGainsSaveDcFormat	Save DC se incrementa a {0}
+Stage/&LevelGainsSpellAttackFormat	El ataque de hechizo aumenta a {0}
+Stage/&LevelGainsSpellSelectionMultiple	{0} hechizos para seleccionar
+Stage/&LevelGainsSpellSelectionSingle	Un hechizo para seleccionar
+Stage/&LevelGainsSpellSlotsTile	Ranuras para hechizos:
+Stage/&LevelGainsStageDescription	Esta etapa enumera lo que ha ganado en su nuevo nivel.
+Stage/&LevelGainsStageTitle	Ganancias de nivel
+Stage/&LevelUpCaptionTitle	{0} ahora es un nivel {1} ​​{2}
+Stage/&LevelUpHeader	¡Elevar a mismo nivel!
+Stage/&NeedADeityDescription	Debes elegir una deidad.
+Stage/&ProficiencyAutoSelectButtonDescription	Deje que la computadora tome las decisiones por ahora.
+Stage/&ProficiencyAutoSelectButtonTitle	Auto
+Stage/&ProficiencyBonusGainFormat	Aumentó a {0}\nAfecta a todos los ataques, tiros de salvación, pruebas de habilidades y herramientas y CD de hechizos.
+Stage/&ProficiencyBonusGainTitle	Bono de competencia
+Stage/&ProficiencyEditButtonDescription	Vuelva al paso de competencia y realice cambios.
+Stage/&ProficiencyEditButtonTitle	Cambio
+Stage/&ProficiencyEffectsDescription	La competencia en una tirada de salvación, habilidad, herramienta o arma te permite agregar tu bonificación de competencia a la prueba de habilidad correspondiente. El dominio de las hazañas, los idiomas y las armaduras te permite usarlos. La experiencia en habilidades y herramientas duplica la bonificación por competencia.
+Stage/&ProficiencyExpertiseChoicesPluralFormat	Elija {0} habilidades capacitadas o {1} convertirse en experto en (doble competencia)
+Stage/&ProficiencyExpertiseChoicesSingleFormat	Elija {0} habilidades capacitadas o {1} convertirse en experto en (doble competencia)
+Stage/&ProficiencyFeatChoicesPluralFormat	Elige {0} hazañas
+Stage/&ProficiencyFeatChoicesSingleFormat	Elige {0} hazaña
+Stage/&ProficiencyIntroductionCreationDescription	Su ascendencia, clase y antecedentes le permiten elegir competencias en habilidades, herramientas, hazañas e idiomas.
+Stage/&ProficiencyIntroductionLevelUpDescription	Ganar un nivel te da nuevas competencias para elegir.
+Stage/&ProficiencyLanguageChoicesPluralFormat	Elija {0} idiomas
+Stage/&ProficiencyLanguageChoicesSingleFormat	Elija {0} idioma
+Stage/&ProficiencyResetAllButtonDescription	Restablece todos los puntos de competencia asignados.
+Stage/&ProficiencyResetAllButtonTitle	Resetear todo
+Stage/&ProficiencyResetButtonDescription	Restablezca los puntos de competencia asignados para este paso.
+Stage/&ProficiencyResetButtonTitle	Reiniciar
+Stage/&ProficiencySelectionStageDescription	Esta etapa elige las competencias del personaje: habilidades, experiencia, idiomas y más.
+Stage/&ProficiencySelectionStageFailSpendAllPointsDescription	Debes gastar todos tus puntos de competencia antes de continuar.
+Stage/&ProficiencySelectionStageTitle	Competencias
+Stage/&ProficiencySkillChoicesPluralFormat	Elija {0} habilidades
+Stage/&ProficiencySkillChoicesPluralListFormat	Elija {0} habilidades de {1}
+Stage/&ProficiencySkillChoicesSingleFormat	Elija {0} habilidad
+Stage/&ProficiencySkillChoicesSingleListFormat	Elija {0} habilidades de {1}
+Stage/&ProficiencyToolTypeChoicesPluralFormat	Elija {0} herramientas
+Stage/&ProficiencyToolTypeChoicesPluralListFormat	Elija {0} herramientas entre {1}
+Stage/&ProficiencyToolTypeChoicesSingleFormat	Elija la herramienta {0}
+Stage/&ProficiencyToolTypeChoicesSingleListFormat	Elija {0} herramienta entre {1}
+Stage/&RaceSelectionStageDescription	Esta etapa determina la ascendencia del personaje y sus características.
+Stage/&RaceSelectionStageNoneSelectedDescription	Debes seleccionar una ascendencia.
+Stage/&RaceSelectionStageTitle	Ascendencia
+Stage/&RaceSubraceCountDescription	{0} de {1} linajes
+Stage/&SexFemaleTitle	Mujer
+Stage/&SexMaleTitle	Masculino
+Stage/&SpellLearnPluralTitle	Seleccione {0} hechizos para aprender.
+Stage/&SpellLearnSingleTitle	Seleccione un hechizo para aprender.
+Stage/&SpellScribePluralTitle	Selecciona {0} hechizos para escribir en tu libro de hechizos.
+Stage/&SpellScribeSingleTitle	Seleccione un hechizo para escribir en su libro de hechizos.
+Stage/&SpellSelectionStageDescription	Esta etapa te permite elegir los hechizos del personaje.
+Stage/&SpellSelectionStageFailLearnSpellsDescription	Debes aprender todos tus hechizos antes de continuar.
+Stage/&SpellSelectionStageTitle	Hechizos
+Stage/&SubclassSelectionStageDomainTitle	Adivinar\nDominio
+Stage/&SubclassSelectionStageMartialDescription	Esta etapa elige un arquetipo marcial para el personaje.
+Stage/&SubclassSelectionStageMartialFeatures	Características del arquetipo marcial
+Stage/&SubclassSelectionStageMartialHeader	Seleccionar arquetipo marcial
+Stage/&SubclassSelectionStageMartialNoneDescription	Debes seleccionar un arquetipo marcial.
+Stage/&SubclassSelectionStageMartialTitle	Marcial\nArquetipo
+Stage/&SubclassSelectionStageOathDescription	Esta etapa elige el juramento sagrado del personaje.
+Stage/&SubclassSelectionStageOathFeatures	Características del juramento sagrado
+Stage/&SubclassSelectionStageOathHeader	Seleccione Juramento Sagrado
+Stage/&SubclassSelectionStageOathNoneDescription	Debes seleccionar un juramento sagrado.
+Stage/&SubclassSelectionStageOathTitle	Sagrado\nJuramento
+Stage/&SubclassSelectionStageRangerDescription	Esta etapa selecciona el arquetipo de guardabosques del personaje.
+Stage/&SubclassSelectionStageRangerFeatures	Características del arquetipo de guardabosques
+Stage/&SubclassSelectionStageRangerHeader	Seleccionar arquetipo de guardabosques
+Stage/&SubclassSelectionStageRangerNoneDescription	Debes seleccionar un arquetipo de guardabosques.
+Stage/&SubclassSelectionStageRangerTitle	guardabosque\nArquetipo
+Stage/&SubclassSelectionStageRoguishDescription	Esta etapa selecciona el arquetipo pícaro del personaje.
+Stage/&SubclassSelectionStageRoguishFeatures	Características del arquetipo pícaro
+Stage/&SubclassSelectionStageRoguishHeader	Selecciona un arquetipo de pícaro
+Stage/&SubclassSelectionStageRoguishNoneDescription	Debes seleccionar un arquetipo pícaro.
+Stage/&SubclassSelectionStageRoguishTitle	Picaresco\nArquetipo
+Stage/&SubclassSelectionStageSubclassDescription	Esta etapa selecciona la subclase del personaje.
+Stage/&SubclassSelectionStageSubclassFeatures	Funciones de subclase
+Stage/&SubclassSelectionStageSubclassHeader	Seleccionar subclase
+Stage/&SubclassSelectionStageSubclassTitle	Subclase
+Stage/&SubclassSelectionStageTraditionDescription	Esta etapa selecciona la tradición arcana del personaje.
+Stage/&SubclassSelectionStageTraditionFeatures	Características de la tradición arcana
+Stage/&SubclassSelectionStageTraditionHeader	Seleccionar tradición arcana
+Stage/&SubclassSelectionStageTraditionNoneDescription	Debes seleccionar una tradición arcana.
+Stage/&SubclassSelectionStageTraditionTitle	Arcano\nTradicion
+Stage/&UnlockedClassFeaturesTitle	Funciones de clase desbloqueadas
+Stage/&UnlockedRaceFeaturesTitle	Funciones de ascendencia desbloqueadas
+Stage/&SpellIntroductionCreationDescription	Selecciona nuevos hechizos o trucos para aprender.
+Stage/&SpellSelectionHeaderTitle	Seleccionar hechizos
+Stage/&AbilityScoresStageFailMinimalStrengthDescription	Un personaje debe tener una fuerza mínima de {0} para comenzar a aventurarse.
+Stage/&IdentityMorphotypeAgeHeader	Edad

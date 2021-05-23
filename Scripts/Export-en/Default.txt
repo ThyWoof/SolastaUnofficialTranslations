@@ -1,0 +1,14 @@
+Kickstarter_Item_Golden_Key_Description	A golden key of incredible complexity, crafted by the clockmasters of the Manacalon Empire.
+Kickstarter_Item_Golden_Key_Title	Golden Key
+Kickstarter_Item_Letter_Content	ORDER OF CONFISCATION\nAs punishment for repeated disregard of the regulations of the Iron Legion, and notably Order V.I, His Lordship Ceynnian Brightspell has ordered as follows:\n1. All of your distinctive equipment pertaining to the Iron Legion is confiscated until further notice. Your duties will be continued with standard infantry equipment.\n2. Your pay from the Iron Legion for this month shall be forfeited.\n\nCaptain Alsiweyr Highcloud
+Kickstarter_Item_Letter_Description	An old letter dating from Imperial times, sealed with red wax.
+Kickstarter_Item_Letter_Title	Letter
+Kickstarter_Item_Notebook_Description	A notebook, covered in finely-tooled leather and probably imbued with protective magic. It contains handwritten notes from a citizen of the ancient Manacalon Empire, and might contain valuable information about the pre-Cataclysm era.
+Kickstarter_Item_Notebook_Title	Notebook
+Kickstarter_Item_Spider_Symbol_Content	Shak Agul Zog Khorak Kolzil
+Kickstarter_Item_Spider_Symbol_Description	A small, bone plaque bearing a crudely-painted spider symbol. Probably crafted by orcs.
+Kickstarter_Item_Spider_Symbol_Title	Orc Plaque
+Kickstarter_Item_Testament_Content	I, Brandil Sharpleaf, being of sound mind and body, do hereby bequeath the entirety of my worldly possessions to Lady Elyria Greenblade if death should find me during the upcoming battles against the human invaders. To my wife and children, I…\n\nThe rest of the letter is missing.
+Kickstarter_Item_Testament_Description	An old, slightly tattered letter
+Kickstarter_Item_Testament_Title	Testament
+EVERYTHING BEFORE THIS HAS BEEN SENT TO ALTAGRAM, DO NOT CHANGE ANYTHING. ONLY ADD NEW CONTENT OR UPDATE CONTENT BELOW. PENALTY FOR NOT RESPECTING THE RULE : DEATH (your dear gameplay director)	

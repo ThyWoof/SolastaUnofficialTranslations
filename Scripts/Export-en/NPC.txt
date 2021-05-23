@@ -1,0 +1,125 @@
+NPC/&Kaseinax_Magister_Title	The Magister
+NPC/&MasterOfMagic_Title	Master of Magic
+NPC/&Merchant	Merchant
+NPC/&NPC_Adam_the_twelfth_Title	Adam the Twelfth
+NPC/&NPC_AkshaTitle	Aksha
+NPC/&NPC_AlenaSwiftTitle	Alena Swift
+NPC/&NPC_Angbi_Title	Angbi Kramsson
+NPC/&NPC_AnnieBagmordahTitle	Annie Bagmordah
+NPC/&NPC_ArwinMertonTitle	Arwin Merton
+NPC/&NPC_ArwinMertonUnknownTitle	Unknown Drunk
+NPC/&NPC_AtimaBladeburnTitle	Atima Bladeburn
+NPC/&NPC_BanditCrossbowDescription	This bandit stands back to shoot with a crossbow.
+NPC/&NPC_BanditCrossbowTitle	Bandit Skirmisher
+NPC/&NPC_BanditDescription	A malevolent fighter using a scimitar.
+NPC/&NPC_BanditDwarfDescription	Short and stout, this bandit wields a scimitar.
+NPC/&NPC_BanditDwarfTitle	Dwarf Bandit
+NPC/&NPC_BanditHalflingDescription	Short and nimble, this bandit carries a crossbow.
+NPC/&NPC_BanditHalflingTitle	Dwarf Bandit
+NPC/&NPC_BanditLoanSharkDescription	Loan Shark
+NPC/&NPC_BanditLoanSharkTitle	Loan Shark
+NPC/&NPC_BanditQuartermasterTitle	Bandit Quartermaster
+NPC/&NPC_BanditSwordsmanDescription	Tall and powerful, this bandit wields a greatsword.
+NPC/&NPC_BanditSwordsmanTitle	Highwayman
+NPC/&NPC_BanditTitle	Bandit
+NPC/&NPC_BericSunblazeTitle	Marshal Beric Sunblaze
+NPC/&NPC_BerylStonebeardTitle	Beryl Stonebeard
+NPC/&NPC_BradfordRavensworthTitle	Bradford Ravensworth
+NPC/&NPC_CeiwadSilverflowerTitle	Princess Ceiwad Silverflower
+NPC/&NPC_CitizenTitle	Citizen
+NPC/&NPC_CityGuardTitle	City Guard
+NPC/&NPC_CoparannGuardTitle	Coparann Guard
+NPC/&NPC_DalonLarkTitle	Chaplain Dalon Lark
+NPC/&NPC_DarikSunbirdTitle	Daliat Sunbird
+NPC/&NPC_DekTitle	Dek
+NPC/&NPC_EdvanDanantarTitle	Grandmaster Edvan Danantar
+NPC/&NPC_Galar_Title	Galar Goldentongue
+NPC/&NPC_GorimIronsootTitle	Gorim Ironsoot
+NPC/&NPC_Gromnir_Title	Baron Gromnir Stonefist
+NPC/&NPC_HalmanGormsdottirTitle	Chancellor Hertha Gormsdottir
+NPC/&NPC_HalmanSummerTitle	Halman Summer
+NPC/&NPC_HeatherMerranTitle	Captain Heather Merran
+NPC/&NPC_HectorTitle	Hector
+NPC/&NPC_HeddlonSurespellTitle	Heddlon Surespell
+NPC/&NPC_Hieronymus	Unknown Hero
+NPC/&NPC_HugoRequerTitle	Hugo Requer
+NPC/&NPC_IdrielFairbrowTitle	Idriel Fairbrow
+NPC/&NPC_IlastarKeenmindAirgetineDescription	Ilastar is a member of the noble house Airgetine, whose forefathers were wizards of the Arcaneum. As with many Imperial families of that time, his family was originally a minor branch of the clan and began to rise to prominence after the Cataclysm, as it backed the first Emperor ("The Wailing Emperor") who took the rough decisions ultimately leading to the survival of Civilization and to the rise of the New Empire. More than anybody else of his generation, Ilastar is aware of what was lost and was a major proponent of participating to the Council, in the hope of gathering magical materials and writings expanding his knowledge of magic and thus giving the empire an edge in future conflicts. His main worry is that historical documents come to the fore, revealing some truths better left alone. 
+NPC/&NPC_IlastarKeenmindAirgetineTitle	Master Ilastar Keenmind Airgetine
+NPC/&NPC_IolairFaisechTitle	Dean Iolair Faisech
+NPC/&NPC_JorielFoxeyeTitle	Joriel Foxeye
+NPC/&NPC_KarelMartelTitle	Karel Martel
+NPC/&NPC_Kiaradth_Bright_SparkTitle	Mayor Kiaradth Bright-Spark
+NPC/&NPC_Kythaela_Title	Kythaela
+NPC/&NPC_LeiraKeanDescription	Leira Kean was born and raised in Heart of Valor, the city built around the Einareum. She discovered Einar fairly early in her life and many thought she would make a fine priestess. Instead she chose the path of the paladin, pledging her life to protect Solasta from all Sorr-Akkath-related dangers. Leira is a dedicated paladin with seriousness etched in her face. She is well-versed in history and fluent in ancient Tirmarian. She is a good fighter but also a keen judge of character. She is just and she listens and decides based on facts, not on hearsay or rumor. Those traits led to her nomination on the Council as Oathkeeper. 
+NPC/&NPC_LeiraKeanTitle	Protector Leira Kean
+NPC/&NPC_LenaTitle	Lena
+NPC/&NPC_LiamTitle	Liam
+NPC/&NPC_LisbathTownsendTitle	Lisbath Townsend
+NPC/&NPC_Lizzaria_Title	Lizzaria of Grimhold
+NPC/&NPC_LordCarranTitle	Lord Carran
+NPC/&NPC_MaddyGreenisleTitle	Maddy Greenisle
+NPC/&NPC_Mardracht_Title	Master Mardracht
+NPC/&NPC_MedwalStrongfireTitle	Medwal Strongfire
+NPC/&NPC_MordenKyreTitle	Morden Kyre
+NPC/&NPC_NecromancerAcolyteTitle	Necromancer Acolyte
+NPC/&NPC_NecromancerTitle	Necromancer
+NPC/&NPC_Nikannen_Title	Joris Nikannen
+NPC/&NPC_Priest_Of_ArunTitle	Priest of Arun
+NPC/&NPC_Priest_Of_EinarTitle	Priest of Einar
+NPC/&NPC_Priest_Of_MaraikeTitle	Priest of Maraike
+NPC/&NPC_Priest_Of_PakriTitle	Priestess of Pakri
+NPC/&NPC_RazanTitle	Razan
+NPC/&NPC_RobarSharpTitle	Robar Sharp
+NPC/&NPC_Talbut_Title	Talbut the Grey
+NPC/&NPC_TEMP_Quest_GiverTitle	TEMP_Quest_Giver
+NPC/&NPC_VerissaIronshellTitle	Captain Verissa Ironshell
+NPC/&NPC_Wilf_Title	Wilf Warmhearth
+NPC/&NPC_NecromancerBoneKeepTitle	Dark Apprentice
+NPC/&NPC_NecromancerBoneKeepDescription	A dangerous but not yet fully learned necromancer, probably a student of a more experienced master residing nearby.
+NPC/&Milan_ScavengersTitle	Milan
+NPC/&NPC_Ceannard_Title	Ceannard
+NPC/&NPC_Kebra_Title	Kebra
+NPC/&NPC_Brok_Title	Brok
+NPC/&NPC_Arbal_Title	Arbal
+NPC/&NPC_Mildred_Title	Mildred Warmhearth
+NPC/&NPC_Maid_Title	Maid
+NPC/&NPC_CoparannGuardSorakAgentTitle	Corrupted Guard
+NPC/&NPC_Gromnir_SorakTitle	Sorak Infiltrator
+NPC/&NPC_Spectral_Servant_Title	Spectral Servant
+NPC/NPC_Bitterroot_Title	Bitterroot
+NPC/&NPC_Dackin_Title	Master Dackin
+NPC/&NPC_Adria_Title	Adria
+NPC/&NPC_Lyria_Title	Lyria
+NPC/&NPC_Drew_Title	Drew
+NPC/&NPC_Notary_Title	Notary
+NPC/&NPC_MajorGateOfficer_Title	Major Gate Officer
+NPC/&NPC_MajorGateOfficer_Description	Interact to use the Major Gate.
+NPC/&NPC_SpeakRavensworth_Description	Speak to enter the residence.
+NPC/&NPC_Edrof_Title	Edrof
+NPC/&NPC_Radulf_Title	Radulf
+NPC/&NPC_Urka_Title	Urka
+NPC/&NPC_Galaefin	Galaefin
+NPC/&NPC_GalaefinsButler	Butler
+NPC/&NPC_Illoreth	Illoreth
+NPC/&NPC_Stig_Title	Stig
+NPC/&NPC_CaporalDan_Title	Corporal Dann
+NPC/&NPC_PrivateGarth_Title	Private Garth
+NPC/&NPC_ShieldguardTradtsson_Title	Shieldguard Tradtsson
+NPC/&NPC_PrivateRodric_Title	Rodric
+NPC/&NPC_Bertram	Bertram
+NPC/&NPC_CaerLemGarrison	Council Trooper
+NPC/&NPC_Priest_Of_MisayeTitle	Nel
+NPC/&NPC_Coparann_Archivist_Title	Archivist
+NPC/&NPC_Arrok_Title	Arrok
+NPC/&NPC_Joran_Title	Joran Crawley
+NPC/&NPC_GenericSorakInfiltrator_Title	Sorak Infiltrator
+NPC/&NPC_Belmont_Title	Lord Belmont
+NPC/&NPC_CityGuard_Embassy_Empire_Title	New Empire Embassy Guard
+NPC/&NPC_CityGuard_Embassy_Gallivan_Title	Gallivan Embassy Guard
+NPC/&NPC_Priest_Of_MisayeDescription	Priest of Misaye
+NPC/&NPC_Scavenger_TOM_Title	Ramin Blake
+NPC/&NPC_Council_Trooper_Title	Legacy Council Trooper
+NPC/&GunnarElderen_Title	Gunnar Elderen
+NPC/&NPC_Galaefin_Plaque_Title	Master Galaefin, philosopher, peer of the kingdom.
+NPC/&AllanMiller_Title	Allan Miller

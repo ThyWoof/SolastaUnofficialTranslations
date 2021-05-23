@@ -1,0 +1,125 @@
+NPC/&Kaseinax_Magister_Title	El magister
+NPC/&MasterOfMagic_Title	Maestro de Magia
+NPC/&Merchant	Comerciante
+NPC/&NPC_Adam_the_twelfth_Title	Adán el duodécimo
+NPC/&NPC_AkshaTitle	Aksha
+NPC/&NPC_AlenaSwiftTitle	Alena Swift
+NPC/&NPC_Angbi_Title	Angbi Kramsson
+NPC/&NPC_AnnieBagmordahTitle	Annie Bagmordah
+NPC/&NPC_ArwinMertonTitle	Arwin Merton
+NPC/&NPC_ArwinMertonUnknownTitle	Borracho desconocido
+NPC/&NPC_AtimaBladeburnTitle	Atima Bladeburn
+NPC/&NPC_BanditCrossbowDescription	Este bandido retrocede para disparar con una ballesta.
+NPC/&NPC_BanditCrossbowTitle	Escaramuza bandido
+NPC/&NPC_BanditDescription	Un luchador malévolo que usa una cimitarra.
+NPC/&NPC_BanditDwarfDescription	Bajo y robusto, este bandido empuña una cimitarra.
+NPC/&NPC_BanditDwarfTitle	Bandido enano
+NPC/&NPC_BanditHalflingDescription	Corto y ágil, este bandido lleva una ballesta.
+NPC/&NPC_BanditHalflingTitle	Bandido enano
+NPC/&NPC_BanditLoanSharkDescription	Tiburón de préstamo
+NPC/&NPC_BanditLoanSharkTitle	Tiburón de préstamo
+NPC/&NPC_BanditQuartermasterTitle	Intendente bandido
+NPC/&NPC_BanditSwordsmanDescription	Alto y poderoso, este bandido empuña una gran espada.
+NPC/&NPC_BanditSwordsmanTitle	Salteador de caminos
+NPC/&NPC_BanditTitle	Bandido
+NPC/&NPC_BericSunblazeTitle	Marshal Beric Sunblaze
+NPC/&NPC_BerylStonebeardTitle	Beryl Barbapiedra
+NPC/&NPC_BradfordRavensworthTitle	Bradford Ravensworth
+NPC/&NPC_CeiwadSilverflowerTitle	Princesa Ceiwad Silverflower
+NPC/&NPC_CitizenTitle	Ciudadano
+NPC/&NPC_CityGuardTitle	Guardia de la ciudad
+NPC/&NPC_CoparannGuardTitle	Guardia Coparann
+NPC/&NPC_DalonLarkTitle	Capellán Dalon Lark
+NPC/&NPC_DarikSunbirdTitle	Daliat Sunbird
+NPC/&NPC_DekTitle	Dek
+NPC/&NPC_EdvanDanantarTitle	Gran maestro Edvan Danantar
+NPC/&NPC_Galar_Title	Galar Lengua de Oro
+NPC/&NPC_GorimIronsootTitle	Hollín de Gorim
+NPC/&NPC_Gromnir_Title	Barón Gromnir Puño de piedra
+NPC/&NPC_HalmanGormsdottirTitle	Canciller Hertha Gormsdottir
+NPC/&NPC_HalmanSummerTitle	Halman verano
+NPC/&NPC_HeatherMerranTitle	Capitán Heather Merran
+NPC/&NPC_HectorTitle	Héctor
+NPC/&NPC_HeddlonSurespellTitle	Heddlon Surespell
+NPC/&NPC_Hieronymus	Héroe desconocido
+NPC/&NPC_HugoRequerTitle	Hugo Requer
+NPC/&NPC_IdrielFairbrowTitle	Idriel Fairbrow
+NPC/&NPC_IlastarKeenmindAirgetineDescription	Ilastar es miembro de la noble casa Airgetine, cuyos antepasados ​​fueron magos del Arcaneum. Al igual que con muchas familias imperiales de esa época, su familia era originalmente una rama menor del clan y comenzó a cobrar prominencia después del Cataclismo, ya que respaldó al primer Emperador ("El Emperador de los Lamentos") que tomó las decisiones difíciles que finalmente llevaron a la supervivencia de la civilización y el surgimiento del Nuevo Imperio. Más que cualquier otra persona de su generación, Ilastar es consciente de lo que se perdió y fue uno de los principales defensores de la participación en el Consejo, con la esperanza de reunir materiales y escritos mágicos ampliando su conocimiento de la magia y dando así al imperio una ventaja en conflictos futuros . Su principal preocupación es que los documentos históricos salgan a la luz, revelando algunas verdades que es mejor dejar en paz.
+NPC/&NPC_IlastarKeenmindAirgetineTitle	Maestro Ilastar Keenmind Airgetine
+NPC/&NPC_IolairFaisechTitle	Dean Iolair Faisech
+NPC/&NPC_JorielFoxeyeTitle	Joriel Foxeye
+NPC/&NPC_KarelMartelTitle	Karel Martel
+NPC/&NPC_Kiaradth_Bright_SparkTitle	Alcalde Kiaradth Bright-Spark
+NPC/&NPC_Kythaela_Title	Kythaela
+NPC/&NPC_LeiraKeanDescription	Leira Kean nació y se crió en Heart of Valor, la ciudad construida alrededor del Einareum. Descubrió a Einar bastante temprano en su vida y muchos pensaron que sería una buena sacerdotisa. En cambio, eligió el camino del paladín, comprometiendo su vida para proteger a Solasta de todos los peligros relacionados con Sorr-Akkath. Leira es una paladín dedicada con seriedad grabada en su rostro. Está bien versada en historia y habla con fluidez el antiguo tirmariano. Ella es una buena luchadora pero también una aguda juez de carácter. Ella es justa y escucha y decide basándose en hechos, no en rumores o rumores. Esos rasgos llevaron a su nominación en el Consejo como Juramento.
+NPC/&NPC_LeiraKeanTitle	Protector Leira Kean
+NPC/&NPC_LenaTitle	Lena
+NPC/&NPC_LiamTitle	Liam
+NPC/&NPC_LisbathTownsendTitle	Lisbath Townsend
+NPC/&NPC_Lizzaria_Title	Lizzaria de Grimhold
+NPC/&NPC_LordCarranTitle	Lord Carran
+NPC/&NPC_MaddyGreenisleTitle	Maddy Greenisle
+NPC/&NPC_Mardracht_Title	Maestro Mardracht
+NPC/&NPC_MedwalStrongfireTitle	Medwal Strongfire
+NPC/&NPC_MordenKyreTitle	Morden Kyre
+NPC/&NPC_NecromancerAcolyteTitle	Acólito nigromante
+NPC/&NPC_NecromancerTitle	Nigromante
+NPC/&NPC_Nikannen_Title	Joris Nikannen
+NPC/&NPC_Priest_Of_ArunTitle	Sacerdote de Arun
+NPC/&NPC_Priest_Of_EinarTitle	Sacerdote de Einar
+NPC/&NPC_Priest_Of_MaraikeTitle	Sacerdote de Maraike
+NPC/&NPC_Priest_Of_PakriTitle	Sacerdotisa de Pakri
+NPC/&NPC_RazanTitle	Razan
+NPC/&NPC_RobarSharpTitle	Robar Sharp
+NPC/&NPC_Talbut_Title	Talbut el gris
+NPC/&NPC_TEMP_Quest_GiverTitle	TEMP_Quest_Giver
+NPC/&NPC_VerissaIronshellTitle	Capitán Verissa Ironshell
+NPC/&NPC_Wilf_Title	Wilf Warmhearth
+NPC/&NPC_NecromancerBoneKeepTitle	Aprendiz oscuro
+NPC/&NPC_NecromancerBoneKeepDescription	Un nigromante peligroso pero aún no completamente aprendido, probablemente un alumno de un maestro más experimentado que reside cerca.
+NPC/&Milan_ScavengersTitle	Milán
+NPC/&NPC_Ceannard_Title	Ceannard
+NPC/&NPC_Kebra_Title	Kebra
+NPC/&NPC_Brok_Title	Brok
+NPC/&NPC_Arbal_Title	Arbal
+NPC/&NPC_Mildred_Title	Mildred Warmhearth
+NPC/&NPC_Maid_Title	Sirvienta
+NPC/&NPC_CoparannGuardSorakAgentTitle	Guardia corrupto
+NPC/&NPC_Gromnir_SorakTitle	Infiltrador de Sorak
+NPC/&NPC_Spectral_Servant_Title	Sirviente espectral
+NPC/NPC_Bitterroot_Title	Bitterroot
+NPC/&NPC_Dackin_Title	Maestro Dackin
+NPC/&NPC_Adria_Title	Adria
+NPC/&NPC_Lyria_Title	Lyria
+NPC/&NPC_Drew_Title	Dibujó
+NPC/&NPC_Notary_Title	Notario
+NPC/&NPC_MajorGateOfficer_Title	Oficial de puerta principal
+NPC/&NPC_MajorGateOfficer_Description	Interactúa para usar la puerta principal.
+NPC/&NPC_SpeakRavensworth_Description	Habla para entrar a la residencia.
+NPC/&NPC_Edrof_Title	Edrof
+NPC/&NPC_Radulf_Title	Radulf
+NPC/&NPC_Urka_Title	Urka
+NPC/&NPC_Galaefin	Galaefin
+NPC/&NPC_GalaefinsButler	Mayordomo
+NPC/&NPC_Illoreth	Illoreth
+NPC/&NPC_Stig_Title	Stig
+NPC/&NPC_CaporalDan_Title	Cabo Dann
+NPC/&NPC_PrivateGarth_Title	Garth privado
+NPC/&NPC_ShieldguardTradtsson_Title	Shieldguard Tradtsson
+NPC/&NPC_PrivateRodric_Title	Rodric
+NPC/&NPC_Bertram	Bertram
+NPC/&NPC_CaerLemGarrison	Soldado del consejo
+NPC/&NPC_Priest_Of_MisayeTitle	Nel
+NPC/&NPC_Coparann_Archivist_Title	Archivista
+NPC/&NPC_Arrok_Title	Arrok
+NPC/&NPC_Joran_Title	Joran Crawley
+NPC/&NPC_GenericSorakInfiltrator_Title	Infiltrador de Sorak
+NPC/&NPC_Belmont_Title	Lord Belmont
+NPC/&NPC_CityGuard_Embassy_Empire_Title	Nuevo Guardia de la Embajada del Imperio
+NPC/&NPC_CityGuard_Embassy_Gallivan_Title	Guardia de la Embajada de Gallivan
+NPC/&NPC_Priest_Of_MisayeDescription	Sacerdote de Misaye
+NPC/&NPC_Scavenger_TOM_Title	Ramin Blake
+NPC/&NPC_Council_Trooper_Title	Soldado del consejo de legado
+NPC/&GunnarElderen_Title	Gunnar Elderen
+NPC/&NPC_Galaefin_Plaque_Title	Maestro Galaefin, filósofo, par del reino.
+NPC/&AllanMiller_Title	Allan Miller

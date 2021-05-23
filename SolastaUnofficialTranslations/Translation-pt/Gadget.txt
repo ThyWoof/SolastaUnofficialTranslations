@@ -1,0 +1,67 @@
+Gadget/&CampfireTitle	Fogueira
+Gadget/&CampfireDescription	Uma fogueira interativa costumava iniciar um longo descanso para a festa
+Gadget/&ChestTitle	Peito
+Gadget/&ChestDescription	Um contêiner para saque
+Gadget/&DoubleDoorTitle	Porta dupla
+Gadget/&DoubleDoorDescription	Uma porta simples para abrir
+Gadget/&EntranceTitle	Entrada
+Gadget/&EntranceDescription	O ponto de partida para a festa
+Gadget/&ExitTitle	Saída
+Gadget/&ExitDescription	Um ponto de saída para a festa. Pode levar a outro local do usuário
+Gadget/&HiddenDoorTitle	Porta escondida
+Gadget/&HiddenDoorDescription	Uma porta que requer uma verificação de percepção para ser localizada
+Gadget/&InteractiveTorchTitle	Tocha Interativa
+Gadget/&InteractiveTorchDescription	Uma tocha de parede que pode ser acesa / apagada dinamicamente
+Gadget/&LoreAreaTitle	Lore Area
+Gadget/&LoreAreaDescription	Entrar nesta área exibirá um texto
+Gadget/&MonsterMTitle	Monster M
+Gadget/&MonsterMDescription	Gera um monstro médio (ou menor) na posição do gadget
+Gadget/&MonsterLTitle	Monstro L
+Gadget/&MonsterLDescription	Gera um grande monstro na posição do gadget
+Gadget/&MonsterMMultipleTitle	Monster Multi M
+Gadget/&MonsterMMultipleDescription	Gera uma série de monstros médios (ou menores) na posição do gadget
+Gadget/&TrapTitle	Armadilha
+Gadget/&TrapDescription	Uma armadilha que é ativada ao pisar na superfície que ocupa
+Gadget/&VirtualLoreTitle	Lore Virtual
+Gadget/&VirtualLoreDescription	Uma interação exibindo um texto lore, que pode ser colocado em qualquer objeto
+Gadget/&VirtualLootTitle	Loot Virtual
+Gadget/&VirtualLootDescription	Uma interação de saque de propósito genérico, que pode ser colocada em qualquer suporte para simular um contêiner
+Gadget/&ParameterExplicitItemsTitle	Itens explícitos
+Gadget/&ParameterLootPackTitle	Pacote de Despojos
+Gadget/&ParameterItemListTitle	Lista de Itens
+Gadget/&ParameterParam_LockedTitle	Trancado
+Gadget/&ParameterUnlock_DCTitle	Desbloquear DC
+Gadget/&ParameterParam_TrappedTitle	Encurralado
+Gadget/&ParameterPerception_DCTitle	Percepção DC
+Gadget/&ParameterDisarm_DCTitle	Desarmar DC
+Gadget/&ParameterReveal_DCTitle	Revelar DC
+Gadget/&ParameterTrapEffectTitle	Efeito Armadilha
+Gadget/&ParameterEntranceIndexTitle	Índice de entrada
+Gadget/&ParameterDestinationLocationTitle	Localização de Destino
+Gadget/&ParameterCreatureTitle	Criatura
+Gadget/&ParameterQuantityTitle	Quantidade
+Gadget/&ParameterPerceptionDCTitle	Percepção DC
+Gadget/&ParameterSpeechTitle	Fala
+Gadget/&ParameterEncounterGroupTitle	Grupo de Encontro
+Gadget/&ParameterGroupIndexTitle	Índice de Grupo
+Gadget/&ParameterExplicitItemsDescription	Determina se o conteúdo será um pacote de saque predefinido ou uma lista explícita de itens
+Gadget/&ParameterLootPackDescription	Uma lista predefinida de itens, alguns dos quais serão rolados aleatoriamente
+Gadget/&ParameterItemListDescription	Especifique uma lista explícita de itens que serão gerados no contêiner
+Gadget/&ParameterParam_LockedDescription	Determina se este gadget está bloqueado
+Gadget/&ParameterUnlock_DCDescription	A classe de dificuldade para desbloquear este gadget
+Gadget/&ParameterParam_TrappedDescription	Determina se este gadget está preso
+Gadget/&ParameterPerception_DCDescription	A classe de dificuldade para localizar a armadilha neste gadget
+Gadget/&ParameterDisarm_DCDescription	A classe de dificuldade para desarmar a armadilha neste gadget
+Gadget/&ParameterReveal_DCDescription	A classe de dificuldade para revelar este gadget
+Gadget/&ParameterTrapEffectDescription	O tipo de efeito que afeta as criaturas afetadas quando esta armadilha é acionada
+Gadget/&ParameterEntranceIndexDescription	Um local pode ser inserido a partir de vários pontos de entrada. Este índice é usado para especificar a entrada para a qual um gadget de saída leva
+Gadget/&ParameterDestinationLocationDescription	Localização de Destino
+Gadget/&ParameterCreatureDescription	O tipo de criatura gerada
+Gadget/&ParameterQuantityDescription	O número de criaturas
+Gadget/&ParameterSpeechDescription	O texto que é exibido ao interagir com este gadget
+Gadget/&ParameterEncounterGroupDescription	Marque esta opção para tornar a criatura gerada parte de um grupo de encontro, desencadeando batalhas juntas
+Gadget/&ParameterGroupIndexDescription	Criaturas com um índice de grupo idêntico (qualquer número que você escolher) pertencerão ao mesmo grupo de encontro
+Gadget/&ParameterSavingThrowDCTitle	Teste de Resistência DC
+Gadget/&ParameterSavingThrowDCDescription	A classe de dificuldade para o teste de resistência
+Gadget/&ParameterAddDiceTitle	Dados Adicionais
+Gadget/&ParameterAddDiceDescription	Aumente o número de dados para este efeito

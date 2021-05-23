@@ -1,0 +1,6 @@
+Environment/&CatacombsTitle	Catacombe
+Environment/&CatacombsDescription	Una rete sotterranea di tombe e cripte
+Environment/&NecropolisTitle	Necropoli
+Environment/&NecropolisDescription	Un dominio sotterraneo dei morti
+Environment/&SewersTitle	Fogne
+Environment/&SewersDescription	Una raccolta di tunnel fognari e drenaggio

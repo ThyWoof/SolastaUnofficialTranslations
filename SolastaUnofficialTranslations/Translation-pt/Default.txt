@@ -1,0 +1,14 @@
+Kickstarter_Item_Golden_Key_Description	Uma chave de ouro de incrível complexidade, criada pelos relojoeiros do Império Manacalon.
+Kickstarter_Item_Golden_Key_Title	chave de ouro
+Kickstarter_Item_Letter_Content	ORDEM DE CONFISCAÇÃO\nComo punição por repetido desrespeito aos regulamentos da Legião de Ferro, especialmente a Ordem V.I, Sua Senhoria Ceynnian Brightspell ordenou o seguinte:\n1. Todos os seus equipamentos distintos pertencentes à Legião de Ferro foram confiscados até novo aviso. Seus deveres continuarão com o equipamento de infantaria padrão.\n2. Seu pagamento da Legião de Ferro neste mês será confiscado.\n\nCapitão Alsiweyr Highcloud
+Kickstarter_Item_Letter_Description	Uma velha carta da época do Império, selada com cera vermelha.
+Kickstarter_Item_Letter_Title	Carta
+Kickstarter_Item_Notebook_Description	Um caderno, coberto com couro finamente trabalhado e provavelmente imbuído de magia protetora. Ele contém notas manuscritas de um cidadão do antigo Império Manacalon e pode conter informações valiosas sobre a era pré-Cataclismo.
+Kickstarter_Item_Notebook_Title	Caderno
+Kickstarter_Item_Spider_Symbol_Content	Shak Agul Zog Khorak Kolzil
+Kickstarter_Item_Spider_Symbol_Description	Uma pequena placa de osso com um símbolo de aranha pintado de forma tosco. Provavelmente criado por orcs.
+Kickstarter_Item_Spider_Symbol_Title	Placa Orc
+Kickstarter_Item_Testament_Content	Eu, Brandil Sharpleaf, tendo mente e corpo sãos, por meio deste, lego a totalidade de minhas posses terrenas a Lady Elyria Greenblade se a morte me encontrar durante as próximas batalhas contra os invasores humanos. Para minha esposa e filhos, eu ...\n\nO resto da carta está faltando.
+Kickstarter_Item_Testament_Description	Uma carta velha um pouco esfarrapada
+Kickstarter_Item_Testament_Title	Testamento
+EVERYTHING BEFORE THIS HAS BEEN SENT TO ALTAGRAM, DO NOT CHANGE ANYTHING. ONLY ADD NEW CONTENT OR UPDATE CONTENT BELOW. PENALTY FOR NOT RESPECTING THE RULE : DEATH (your dear gameplay director)	VAZIO

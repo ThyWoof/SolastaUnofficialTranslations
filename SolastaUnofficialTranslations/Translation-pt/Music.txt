@@ -1,0 +1,14 @@
+Music/&NoneTitle	<Nenhum>
+Music/&CaerLemTitle	Caer Lem
+Music/&CaerCyflenTitle	Caer Cyflen
+Music/&DarkCastleExteriorTitle	Dark Castle (Exterior)
+Music/&CoparanTitle	Coparann
+Music/&WizardsTowerTitle	Torre do feiticeiro
+Music/&MastermindTitle	Mastermind
+Music/&CradleOfFireTitle	Berço de fogo
+Music/&AerElaiTitle	Aer Elai
+Music/&TheNecromancerTitle	O Necromante
+Music/&RuinsOfTelemaTitle	Ruínas de Telema
+Music/&PrisonEscapeTitle	Fuga da Prisão
+Music/&TheLightBringersTitle	The Lightbringers
+Music/&ShadowsTitle	Sombras

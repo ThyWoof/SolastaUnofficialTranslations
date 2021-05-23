@@ -1,0 +1,16 @@
+TerrainType/&ArcticDescription	Áreas de neve ou permafrost são consideradas terreno ártico.
+TerrainType/&ArcticTitle	ártico
+TerrainType/&BadlandsDescription	A maioria das áreas que cobrem as antigas províncias internas do Império Manacalon, agora uma mistura selvagem de vários tipos de terreno com manifestações caóticas de magia pós-cataclismo, são consideradas terrenos ermos.
+TerrainType/&CoastDescription	As áreas que contêm uma linha de costa são consideradas terrenos costeiros.
+TerrainType/&CoastTitle	Costa
+TerrainType/&DablandsTitle	ermo
+TerrainType/&DesertDescription	Áreas áridas com pouca ou nenhuma chuva e vegetação mínima são consideradas terrenos desérticos.
+TerrainType/&DesertTitle	Deserto
+TerrainType/&ForestDescription	Áreas com vegetação exuberante e grandes áreas de mata são consideradas terrenos florestais.
+TerrainType/&ForestTitle	floresta
+TerrainType/&GrasslandDescription	Áreas com florestas raras e vastas áreas de planícies verdes são consideradas terrenos de pastagem.
+TerrainType/&GrasslandTitle	Grassland
+TerrainType/&MountainDescription	Áreas com terreno rochoso, colinas e montanhas são consideradas terrenos montanhosos.
+TerrainType/&MountainTitle	Montanha
+TerrainType/&SwampDescription	Áreas com pântanos e lagoas e uma atmosfera úmida são consideradas terrenos pantanosos.
+TerrainType/&SwampTitle	Pântano

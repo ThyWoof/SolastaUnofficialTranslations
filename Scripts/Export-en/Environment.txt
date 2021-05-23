@@ -1,0 +1,6 @@
+Environment/&CatacombsTitle	Catacombs
+Environment/&CatacombsDescription	An underground network of tombs & crypts
+Environment/&NecropolisTitle	Necropolis
+Environment/&NecropolisDescription	An underground domain of the dead
+Environment/&SewersTitle	Sewers
+Environment/&SewersDescription	A collection of sewer tunnels & drainage

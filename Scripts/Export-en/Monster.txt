@@ -1,0 +1,186 @@
+Monster/&Acolyte_Description	A wandering cleric seeking glory and battle.
+Monster/&Acolyte_Title	Acolyte
+Monster/&Archmage_Description	An evil mage who has sought an isolated location to perform unspeakable experiments without interference.
+Monster/&Archmage_Title	Archmage
+Monster/&Badlands Hunter_Description	A wandering ranger seeking glory and battle.
+Monster/&Badlands Hunter_Title	Badlands Hunter
+Monster/&BanditCaptain_Description	An experienced bandit, much more skilled than his followers.
+Monster/&BanditCaptain_Title	Bandit Captain
+Monster/&Berserker_Description	Hailing from barbaric lands, berserkers come together in war parties to seek battle.
+Monster/&Berserker_Title	Berserker
+Monster/&BroodOfBloodDescription	Spawned by a Defiler, this is a bloodthirsty creature.
+Monster/&BroodOfBloodTitle	Brood of Blood
+Monster/&BroodOfDreadDescription	Spawned by a Defiler, this is a bloodthirsty creature.
+Monster/&BroodOfDreadTitle	Brood of Dread
+Monster/&BroodOfFleshDescription	Spawned by a Defiler, this is a bloodthirsty creature.
+Monster/&BroodOfFleshTitle	Brood of Flesh
+Monster/&CultFanatic_Description	Part of a cult's leadership, these fanatics use their dogma and charisma to influence and prey on the weak-willed.
+Monster/&CultFanatic_Title	Cult Fanatic
+Monster/&Darkweaver_Description	A wandering rogue seeking glory and battle.
+Monster/&Darkweaver_Title	Darkweaver
+Monster/&DireWolf_Description	A particularly large wolf.
+Monster/&DireWolf_Title	Dire Wolf
+Monster/&EagleMatriarchDescription	A very large eagle found in the Marches.
+Monster/&EagleMatriarchTitle	Eagle Matriarch
+Monster/&FireSpider_Description	A giant spider fused with a small fire elemental by the weird magical influence of the Badlands.
+Monster/&FireSpider_Title	Fire Spider
+Monster/&FlyingSnakeDescription	A winged snake found in the Badlands.
+Monster/&FlyingSnakeTitle	Brimstone Viper
+Monster/&GargoyleDescription	[TEMP] TBD
+Monster/&GargoyleTitle	Gargoyle
+Monster/&Generic_ShockArcanist_Description	A powerful battle wizard looking for a challenge.
+Monster/&Generic_ShockArcanist_Title	Shock Arcanist
+Monster/&Generic_Warlord_Description	A very experienced and powerful fighter who has gathered followers and won territories.
+Monster/&Generic_Warlord_Title	Warlord
+Monster/&GhastDescription	A more powerful kind of ghoul, known for its terrible stench.
+Monster/&GhastTitle	Ghast
+Monster/&Ghost_Description	A powerful, ethereal undead creature.
+Monster/&Ghost_Title	Spectral Avenger
+Monster/&GhostWolf_Description	A dead wolf raised by necromantic power.
+Monster/&GhostWolf_Title	Ghost Wolf
+Monster/&GhoulDescription	A ravenous undead creature, constantly searching for flesh to eat.
+Monster/&GhoulTitle	Ghoul
+Monster/&GiantEagle_Description	A giant eagle, corrupted by the magical fluxes of the Badlands.
+Monster/&GiantEagle_Title	Badlands Eagle
+Monster/&GiantSpiderDescription	Very large spiders, they live in the depths of the Badlands and are sensitive to light.
+Monster/&GiantSpiderTitle	Deep Spider
+Monster/&GoblinDescription	A greenish, evil little creature.
+Monster/&GoblinShaman_Description	A goblin with quasi-clerical powers.
+Monster/&GoblinShamanTitle	Goblin Shaman
+Monster/&GoblinSkirmisherDescription	A goblin archer.
+Monster/&GoblinSkirmisherTitle	Goblin Skirmisher
+Monster/&GoblinTitle	Goblin
+Monster/&Guard_Description	A low-ranking soldier, used to perform mundane security tasks.
+Monster/&Guard_Title	Guard
+Monster/&Highpriest_Description	A powerful cleric wandering the land to spread his faith with soft words and hard deeds.
+Monster/&Highpriest_Title	High Priest
+Monster/&MinotaurDescription	TBD
+Monster/&MinotaurTitle	Minotaur
+Monster/&MummyDescription	A powerful undead creature, preserved for the afterlife.
+Monster/&MummyTitle	Mummy
+Monster/&Necromancer_Description	An evil wizard specializing in necromancy.
+Monster/&Necromancer_Title	Necromancer
+Monster/&OgreDescription	Ogres are huge and powerful, but stupid. They live for killing, scavenging, and simple pleasures.
+Monster/&OgreTitle	Ogre
+Monster/&OgreZombie_Description	An ogre that has been raised by necromantic power.
+Monster/&OgreZombie_Title	Ogre Zombie
+Monster/&OrcArcherDescription	Orcs have archers among their troops. Despite their effectiveness, they are perceived as cowards and are generally second rank warriors.
+Monster/&OrcArcherTitle	Orc Archer
+Monster/&OrcBerserkerDescription	Berserkers are crazed warriors who ignore all danger while in their battle trance. Fast and violent, they don't feel pain or fear.
+Monster/&OrcBerserkerTitle	Orc Berserker
+Monster/&OrcChieftainDescription	Chieftains are the stronger orcs who have survived battles and challenges from other orcs to seize a position of power.
+Monster/&OrcChieftainTitle	Orc Chieftain
+Monster/&OrcDescription	Orcs are brutish, tribal warriors, known for their barbaric habits. They live by raiding and looting.
+Monster/&OrcShaman_Description	The closest thing the orcs have to a cleric, with some mystical powers.
+Monster/&OrcShaman_Title	Orc Shaman
+Monster/&OrcTitle	Orc
+Monster/&PhaseSpider_Description	A monstrous spider able to travel freely to and from the ethereal plane.
+Monster/&PhaseSpider_Title	Phase Spider
+Monster/&PoisonousSnakeDescription	[TEMP] TBD
+Monster/&PoisonousSnakeTitle	Poisonous Snake
+Monster/&Priest_Description	An evil priest leads a religious sect conducting depraved rites in the shadows of respectable society.
+Monster/&Priest_Title	Evil Priest
+Monster/&Scout_Description	Scouts are skilled hunters and trackers who offer their services for a fee.
+Monster/&Scout_Title	Scout
+Monster/&SkeletonArcherDescription	Skeletons are animated by dark magic. They used to be living creatures but are now empty shells of hate, arisen from tombs or battlefields and craving for life… to kill.
+Monster/&SkeletonArcherTitle	Skeleton Archer
+Monster/&SkeletonDescription	Skeletons are animated by dark magic. They used to be living creatures but are now empty shells of hate, arisen from tombs or battlefields and craving for life… to kill.
+Monster/&SkeletonEnforcer_Description	A powerful undead creature armed with an axe and a shield.
+Monster/&SkeletonEnforcer_Title	Skeletal Enforcer
+Monster/&SkeletonKnight_Description	A powerful undead creature, created by raising a dead knight.
+Monster/&SkeletonKnight_Title	Skeletal Knight
+Monster/&SkeletonSorcerer_Description	A powerful undead creature with necromantic powers.
+Monster/&SkeletonSorcerer_Title	Skeletal Sorcerer
+Monster/&SkeletonTitle	Skeleton
+Monster/&SorakAbominationDescription	A very large type of Sorr-Akkath, much stronger and deadlier than its smaller comrades, and apparently less intelligent.
+Monster/&SorakAbominationTitle	Sorr-Akkath Abomination
+Monster/&SorakAcolyteOfSorr-TarrDescription	These spellcasters seem to be clerics of Sorr-Tarr.
+Monster/&SorakAcolyteOfSorr-TarrTitle	Sorr-Akkath Acolyte of Sorr-Tarr
+Monster/&SorakAntipaladinDescription	A powerful armored fighter, with superior resistances and magical abilities.
+Monster/&SorakAntipaladinTitle	Sorr-Akkath Shikkath
+Monster/&SorakAssassinDescription	A deadly killer who lurks in the shadows.
+Monster/&SorakAssassinTitle	Sorr-Akkath Assassin
+Monster/&SorakGruntDescription	A basic Sorr-Akkath fighter, aggressive and ruthless.
+Monster/&SorakGruntTitle	Sorr-Akkath Warrior
+Monster/&SorakSaboteurDescription	A support fighter, fast, cunning, and vicious.
+Monster/&SorakSaboteurTitle	Sorr-Akkath Saboteur
+Monster/&SorakSkirmisherDescription	A Sorr-Akkath ranged fighter.
+Monster/&SorakSkirmisherTitle	Sorr-Akkath Skirmisher
+Monster/&SpectralSpiderDescription	Dead Badlands spiders somehow transformed into undead.
+Monster/&SpectralSpiderTitle	Spectral Spider
+Monster/&SpiderDescription	Larger than your usual house spider, this creature is quite dangerous.
+Monster/&SpiderTitle	Badlands Spider
+Monster/&Spy_Description	A lawless rogue trained to spy and kill for wealthy masters.
+Monster/&Spy_Title	Spy
+Monster/&Thug_Description	Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
+Monster/&Thug_Title	Thug
+Monster/&TigerDrake_Description	A large flying snake with terrible poison in its fangs.
+Monster/&TigerDrake_Title	Tiger Drake
+Monster/&TutoAlphaWolfDescription	An adult wolf, looking particularly aggressive.
+Monster/&TutoAlphaWolfTitle	Grayback Wolf
+Monster/&TutoWolfDescription	A wandering wolf, looking skinny and weak, but famished.
+Monster/&TutoWolfTitle	Starving Wolf
+Monster/&VeteranDescription	Veterans are professional fighters who take up arms for pay or in defense of something they value or believe in. They include retired soldiers as well as mercenaries who have never served anyone's interests but their own.
+Monster/&VeteranTitle	Veteran
+Monster/&WightDescription	A Wight
+Monster/&WightTitle	Wight
+Monster/&WinterWolf_Description	A large arctic wolf with a cold breath attack.
+Monster/&WinterWolf_Title	Winter Wolf
+Monster/&WolfDescription	A typical wild beast from Solasta's grasslands and forests.
+Monster/&WolfTitle	Wolf
+Monster/&WorkerDescription	A human working in the Badlands, of unknown affiliation.
+Monster/&WorkerTitle	Unknown Human
+Monster/&ZombieDescription	A ravenous undead creature, constantly searching for flesh to eat.
+Monster/&ZombieTitle	Zombie
+Monster/&Werewolf_Title	Werewolf
+Monster/&Werewolf_Description	A shapechanger in human form, he retains some of his unnatural powers, including a fantastic resistance to non-silvered weapons.
+Monster/&ConjuredBeast_Title	Conjured Beast
+Monster/&ConjuredBeast_Description	This creature has been conjured.
+Monster/&Redscar_Orc_Grunt_Title	Redscar Orc
+Monster/&Redscar_Orc_Grunt_Description	One of Arrok's pawns, this orc has been blessed with the power of fire.
+Monster/&Redscar_Orc_Beastmaster_Title	Orc Beastmaster
+Monster/&Redscar_Orc_Beastmaster_Description	An elusive orc, less confrontational than most, who uses his tamed beasts to fight for him.
+Monster/&GoblinCutthroatTitle	Goblin Cutthroat
+Monster/&GoblinCutthroatDescription	A veteran goblin who became a skilled killer.
+Monster/&Veteran_Agent_Description	This veteran mercenary seems inhabited by a fanatic fury.
+Monster/&Veteran_Agent_Title	Mysterious Attacker
+Monster/&Darkweaver_Agent_Description	This Darkweaver seems inhabited by a fanatic fury.
+Monster/&Darkweaver_Agent_Title	Mysterious Attacker
+Monster/&CaravanMerchant_Title	Traveling Merchant
+Monster/&SpiderQueenTitle	Spider Queen
+Monster/&SpiderQueenDescription	TBC
+Monster/&FireOsprey_Title	Fire Osprey
+Monster/&FireOsprey_Description	A bat-shaped fire elemental, only encountered in the depths of the Badlands.
+Monster/&OrcMerchantTitle	Orc Merchant
+Monster/&FireElemental_Title	Fire Elemental
+Monster/&SkeletonMarksman_Title	Skeletal Marksman
+Monster/&SkeletonMarksman_Description	A powerful skeleton archer that shoots magical arrows imbued with necrotic magic.
+Monster/&Wraith_Title	Badlands Wraith
+Monster/&Wraith_Description	An incorporeal undead that can drain your life and hates light.
+Monster/&MinorFireElemental_Title	Fire Jester
+Monster/&MinorFireElemental_Description	A small fire elemental that likes to burn stuff.
+Monster/&Orc_Grimblade_Title	Orc Grimblade
+Monster/&Orc_Grimblade_Description	A sneaky orc trained to use the shadows to stab its enemies in the back.
+Monster/&CrimsonSpider_Title	Crimson Spider
+Monster/&CrimsonSpider_Description	A giant spider from the underground acid lakes of the Badlands.
+Monster/&AirElemental_Title	Air Elemental
+Monster/&AirElemental_Description	A bulky stone creature animated by magical elemental forces.
+Monster/&FireElemental_Description	A creature of pure fire, animated by magical elemental forces.
+Monster/&EarthElemental_Title	Earth Elemental
+Monster/&WindSnake_Title	Wind Snake
+Monster/&WindSnake_Description	A small air elemental that can freeze you to death.
+Monster/&SkarnGhoul_Title	Skarn Ghoul
+Monster/&SkarnGhoul_Description	A small earth elemental made of skarn rock that can slam your feet until they hurt.
+Monster/&Redeemer_PilgrimTitle	Pilgrim
+Monster/&Redeemer_PilgrimDescription	A large insect which is part of the Redeemers species, its bite is acid and it can spray pheromones that trigger frenzy among their ranks.
+Monster/&Redeemer_ZealotTitle	Zealot
+Monster/&Redeemer_ZealotDescription	A very large insect which is part of the Redeemers species, with a capacity to attack with electric shocks.
+Monster/&Highpriest_Infiltrator_Title	Priest of Arivad
+Monster/&CubeOfLightTitle	Cube of light
+Monster/&CubeOfLightDescription	An weird creature of light and magic, of unknown origin.
+Monster/&GreenDragon_Title	Green Dragon
+Monster/&GreenDragon_Description	This dragon seems to be the master of Conjuration of the old imperial Arcaneum!
+Monster/&Remorhaz_Title	Remorhaz
+Monster/&Remorhaz_Description	A monstruous insect capable of swallowing an adventurer!
+Monster/&Sorak_Tshar_Boss_Title	Sorr-Akkath Tshar
+Monster/&Sorak_Tshar_Boss_Description	The leader of the Soraks on Solasta, an ancient and powerful Acolyte of Sorr-Tarr.

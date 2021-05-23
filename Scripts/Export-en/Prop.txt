@@ -1,0 +1,45 @@
+Prop/&CandelabraTitle	Candelabra
+Prop/&CandelabraDescription	A decorative candelabra
+Prop/&ColumnATitle	Column A
+Prop/&ColumnADescription	A decorative column
+Prop/&ColumnBTitle	Column B
+Prop/&ColumnBDescription	A decorative column
+Prop/&FireBasinTitle	Fire Basin
+Prop/&FireBasinDescription	A burning basin, illuminating its surroundings
+Prop/&BenchTitle	Bench
+Prop/&BenchDescription	A decorative bench
+Prop/&GuardrailsATitle	Guardrails
+Prop/&GuardrailsADescription	A low wall that can be used as a heavy cover
+Prop/&DebrisATitle	Debris
+Prop/&DebrisADescription	A heap of stone preventing movement
+Prop/&GuardrailsBrokenATitle	Broken Guardrail A
+Prop/&GuardrailsBrokenADescription	A short, broken, low wall that can be used as heavy cover
+Prop/&GuardrailsBrokenBTitle	Broken Guardrail B
+Prop/&GuardrailsBrokenBDescription	A long, broken, low wall that can be used as heavy cover
+Prop/&GuardrailsLinkTitle	Guardrail Link
+Prop/&GuardrailsLinkDescription	A low wall pillar
+Prop/&GuardrailsStraightATitle	Straight Guardrail A
+Prop/&GuardrailsStraightADescription	A short, low wall that can be used as heavy cover
+Prop/&GuardrailsStraightBTitle	Straight Guardrail B
+Prop/&GuardrailsStraightBDescription	A long, low wall that can be used as heavy cover
+Prop/&MausoleumTitle	Mausoleum
+Prop/&MausoleumDescription	An inaccessible funerary monument
+Prop/&StatueTitle	Statue
+Prop/&StatueDescription	A decorative statue
+Prop/&TombATitle	Tomb A
+Prop/&TombADescription	A tomb that can be entered
+Prop/&TombBTitle	Tomb B
+Prop/&TombBDescription	A decorative tomb blocking movement
+Prop/&TombCTitle	Tomb C
+Prop/&VaseTitle	Vase
+Prop/&VaseDescription	A decorative funeral vase
+Prop/&WallBlockerATitle	Wall Blocker
+Prop/&WallBlockerADescription	A wide wall to block a passage
+Prop/&WallBlockerBTitle	Wall Blocker
+Prop/&WallBlockerBDescription	A wide wall to block a passage
+Prop/&WallChainTitle	Chain
+Prop/&WallChainDescription	A piece of metal hung on the wall
+Prop/&WallCrawl	Wall with Crawl Hole
+Prop/&WallCrawlDescription	A wide wall with a hole to crawl through
+Prop/&WallTorchTitle	Wall Torch
+Prop/&WallTorchDescription	An ever-burning torch that can be placed on a wall

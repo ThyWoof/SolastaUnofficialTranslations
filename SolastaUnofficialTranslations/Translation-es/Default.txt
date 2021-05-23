@@ -1,0 +1,14 @@
+Kickstarter_Item_Golden_Key_Description	Una llave de oro de increíble complejidad, creada por los maestros relojeros del Imperio Manacalon.
+Kickstarter_Item_Golden_Key_Title	llave dorada
+Kickstarter_Item_Letter_Content	ORDEN DE CONFISCACIÓN\nComo castigo por el reiterado incumplimiento de las regulaciones de la Legión de Hierro, y en particular de la Orden V.I, Su Señoría Ceynnian Brightspell ha ordenado lo siguiente:\n1. Todo su equipo distintivo perteneciente a la Legión de Hierro será confiscado hasta nuevo aviso. Sus funciones continuarán con el equipo de infantería estándar.\n2. Su paga de la Legión de Hierro para este mes se perderá.\n\nCapitán Alsiweyr Highcloud
+Kickstarter_Item_Letter_Description	Una carta antigua que data de la época imperial, sellada con cera roja.
+Kickstarter_Item_Letter_Title	Letra
+Kickstarter_Item_Notebook_Description	Un cuaderno, cubierto de cuero finamente labrado y probablemente imbuido de magia protectora. Contiene notas escritas a mano de un ciudadano del antiguo Imperio Manacalon y puede contener información valiosa sobre la era anterior al Cataclismo.
+Kickstarter_Item_Notebook_Title	Computadora portátil
+Kickstarter_Item_Spider_Symbol_Content	Shak Agul Zog Khorak Kolzil
+Kickstarter_Item_Spider_Symbol_Description	Una pequeña placa de hueso con un símbolo de araña pintado de forma tosca. Probablemente creado por orcos.
+Kickstarter_Item_Spider_Symbol_Title	Placa de orco
+Kickstarter_Item_Testament_Content	Yo, Brandil Sharpleaf, estando sano de mente y cuerpo, por la presente lego la totalidad de mis posesiones mundanas a Lady Elyria Greenblade si la muerte me encuentra durante las próximas batallas contra los invasores humanos. Para mi esposa e hijos, yo ...\n\nFalta el resto de la carta.
+Kickstarter_Item_Testament_Description	Una carta vieja, un poco andrajosa
+Kickstarter_Item_Testament_Title	Testamento
+EVERYTHING BEFORE THIS HAS BEEN SENT TO ALTAGRAM, DO NOT CHANGE ANYTHING. ONLY ADD NEW CONTENT OR UPDATE CONTENT BELOW. PENALTY FOR NOT RESPECTING THE RULE : DEATH (your dear gameplay director)	VACÍO

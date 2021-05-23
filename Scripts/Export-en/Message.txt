@@ -1,0 +1,100 @@
+Message/&AbortCreationDescription	Do you want to cancel character creation?
+Message/&AbortCreationTitle	Canceling Character Creation
+Message/&AbortLevelUpDescription	Are you sure you want to cancel the character level-up process?
+Message/&AbortLevelUpTitle	Canceling Character Level Up
+Message/&AmountGainedFormat	{0} gains {1}
+Message/&AttunementLostDescription	The item "{0}" is no longer attuned.
+Message/&AttunementLostTitle	Attunement Lost
+Message/&AttunementRemovalDescription	Are you sure you want to remove attunement to this item?
+Message/&AttunementRemovalTitle	Removing Attunement
+Message/&AttunementReplacementDescription	This item is currently attuned to {0}. Are you sure you want to attune it to {1}?
+Message/&AttunementReplacementTitle	Attunement Replacement
+Message/&CannotLoad	Cannot Load Now
+Message/&CannotSave	Cannot Save Now
+Message/&CharacterDeletionDescription	Are you sure you want to delete this character? This action cannot be undone.
+Message/&CharacterDeletionTitle	Character Deletion
+Message/&ConcentrationLossDescription	Casting the {0} spell will make you lose concentration on the {1} spell. Are you sure you want to proceed?
+Message/&ConcentrationLossTitle	Concentration Loss
+Message/&CraftingAbortDescription	Are you sure you want to abort this craft operation? All progress and spent ingredients will be lost.
+Message/&CraftingAbortTitle	Abort Crafting
+Message/&FastTravelConfirmationDescription	Are you sure you want to fast travel to this destination? (Time will be fast-forwarded accordingly.) 
+Message/&FastTravelConfirmationTitle	Fast Travel
+Message/&FastTravelErrorPathNotFoundDescription	You cannot fast travel to this destination as the path is blocked.
+Message/&FastTravelErrorTitle	Fast Travel
+Message/&FastTravelExitLocationDescription	Are you sure you wish to fast travel to this exit and leave the area? (Time will be fast-forwarded accordingly.) 
+Message/&FastTravelExitLocationTitle	Fast Travel and Leave Area
+Message/&IdentificationCancelledTitle	The item identification has been canceled.
+Message/&IncompletePreparationDescription	You have not prepared all the spells you can. Are you sure you want to continue?
+Message/&IncompletePreparationTitle	Incomplete Spell Preparation
+Message/&ItemsOnGroundDescription	Items on the ground will be lost if you leave this screen. Are you sure you wish to proceed?
+Message/&ItemsOnGroundTitle	Losing Items
+Message/&LegalDisagreeAndQuitDescription	Since you have not agreed with these terms, the application will now quit.
+Message/&LegalDisagreeAndQuitTitle	Quitting the Game
+Message/&MessageCancelTitle	Cancel
+Message/&MessageNoTitle	No
+Message/&MessageOkTitle	OK
+Message/&MessageYesTitle	Yes
+Message/&PartyLosesGoldPieces	Party loses {0} gold pieces
+Message/&QuitLocationDescription	You are about to leave the current area. Proceed?
+Message/&QuitLocationTitle	Leave Area
+Message/&ResumeCampDescription	Do you want to resume camping?
+Message/&ResumeCampTitle	Resume Camping
+Message/&ResumeRestDescription	Do you want to continue your long rest?
+Message/&ResumeRestTitle	Resume Long Rest
+Message/&SavedGameDeleteDescription	Are you sure you want to permanently delete saved game "{0}"?
+Message/&SavedGameDeleteTitle	Delete Saved Game
+Message/&SavedGameOverwriteDescription	Are you sure you want to overwrite saved game "{0}" with your current game status?
+Message/&SavedGameOverwriteTitle	Overwrite Saved Game
+Message/&ScrollScribeDestructionDescription	Scribing the spell into the selected spellbook will destroy the scroll. Are you sure you want to proceed?
+Message/&ScrollScribeDestructionTitle	Scribe Scroll
+Message/&SessionCancelDescription	Are you sure you want to leave the setup of this new adventure?
+Message/&SessionCancelTitle	Cancel Adventure
+Message/&SettingConfirmSettingsDescription	Are you sure you want to keep the selected settings changes?
+Message/&SettingConfirmSettingsTitle	Confirm Settings
+Message/&SettingExitWithoutApplyDescription	Are you sure you want to close this panel and discard all the changes you have made?
+Message/&SettingExitWithoutApplyTitle	Discarding Changes
+Message/&SkipLevelUpFormat	You have not completed the level up sequence for {0}. Are you sure you want to exit?
+Message/&SkipLevelUpTitle	Skipping Character Level Up
+Message/&WaitForLongRestDescription	You have already performed a long rest today. Would you like to wait until the start of a new day?
+Message/&WaitForLongRestTitle	Waiting to Perform a Long Rest
+Message/&EndEarlyAccessDescription	You have reached the end of the Early Access playable content. You will now return to the main menu.
+Message/&EndEarlyAccessTitle	End of Early Access
+Message/&EndEarlyAccessMainMenuTitle	Main Menu
+Message/&EndEarlyAccessContinuePlayingTitle	Continue Playing
+Message/&MessageKeyAlreadyBoundTitle	Key Already Bound
+Message/&MessageKeyAlreadyBoundDescription	The {0} key is already bound to the {1} command
+Message/&MessageOverrideTitle	Override
+Message/&SettingDefaultSettingsDescription	Are you sure you want to reset to the default values for this category of settings?
+Message/&SettingDefaultSettingsTitle	Resetting to Default Settings
+Message/&RestartRequiredDescription	You need to restart the application to apply this change
+Message/&RestartRequiredTitle	Restart Required
+Message/&ScrollScribeAlreadyInSpellbookDescription	The {0} spell is already in this spellbook
+Message/&ScrollScribeAlreadyInSpellbookTitle	Already in Spellbook
+Message/&MandatoryDestinationFormat	You have to travel to "{0}"
+Message/&CharacterCannotMove	{0} cannot move at all
+Message/&OverrideCustomDifficultyTitle	Override Custom Settings
+Message/&OverrideCustomDifficultyDescription	This will revert all custom settings you may have tuned in the Game Settings menu. Do you wish to continue?
+Message/&SteamInitFailedDescription	Could not connect to the Steam client. Please ensure that you launch the game via Steam. A Steam Client restart may be required. The game will now exit.
+Message/&SteamInitFailedTitle	Steam Failed to Initialize
+Message/&NativeCrashDetectedTitle	Game Not Exited Properly
+Message/&NativeCrashDetectedDescription	The game was not exited properly. If you are seeing this message for the first time, we recommend that you to lower the graphics settings and report this to our team in the forum.
+Message/&EndEarlyAccessDescription2	You have reached the end of the Early Access content. The main story cannot be played further but you can still travel around, collect stuff and complete optional quests.
+Message/&UserLocationDeleteConfirmationTitle	Location Deletion
+Message/&UserLocationDeleteConfirmationDescription	Are you sure you want to delete this user location?
+Message/&UserLocationOverwriteConfirmationTitle	Location Overwrite
+Message/&UserLocationOverwriteConfirmationDescription	Saving this location with this name will overwrite another location with the same name. Are you sure you want to proceed?
+Message/&EditorLeaveConfirmationTitle	Leaving Editor
+Message/&EditorLeaveConfirmationDescription	Are you sure you want to leave without saving your location?
+Message/&HiddenDoorTitle	Hidden Door!
+Message/&UnknownUserLocationDescription	Unknown user location: {0}
+Message/&InvalidUserLocationEntranceIndexDescription	The target entrance index is invalid: {0}
+Message/&UserLocationSizeReductionTitle	Size Reduction
+Message/&UserLocationSizeReductionDescription	Reducing the size of this location may destroy some rooms and props, starting from the top right. Are you sure you want to proceed?
+Message/&UserLocationOutdatedTitle	Outdated Location
+Message/&UserLocationOutdatedDescription	One or more locations has outdated content (room, gadget, prop) which has been removed
+Message/&UserLocationEnvironmentChangeTitle	Environment Change
+Message/&UserLocationEnvironmentChangeDescription	Changing the location of this environment will remove some incompatible rooms, props, and/or gadgets. Are you sure you want to proceed?
+Message/&UserLocationEmptyTitleTitle	Invalid Title
+Message/&UserLocationEmptyTitleDescription	You must enter a valid title for your user location
+Message/&EditorLocationSwitchConfirmationTitle	User Location Switch
+Message/&EditorLocationSwitchConfirmationDescription	The location "{0}" has unsaved changes. Are you sure you want to open the location "{1}" and lose these changes?

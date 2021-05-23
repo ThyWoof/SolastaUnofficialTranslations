@@ -1,0 +1,20 @@
+LocationType/&CaveDescription	An underground structure which might hold unexpected riches and dangers.
+LocationType/&CaveTitle	Cave
+LocationType/&Forest ruinDescription	In the middle of the forest, you come across a small ruin from ancient times.
+LocationType/&Forest ruinTitle	Forest Ruin
+LocationType/&FortressDescription	A fortified structure built for defensive purposes.
+LocationType/&FortressTitle	Fortress
+LocationType/&ManacalonOracleDescription	You come across a ruined oracle, a kind of temple where Manacalon plebeians worshipped the masters of magic.
+LocationType/&ManacalonOracleTitle	Manacalon Ruin
+LocationType/&ManacalonPrisonDescription	You come across a ruined underground structure, a jail where the elves of the Manacalon Empire kept their prisoners.
+LocationType/&ManacalonPrisonTitle	Manacalon Prison
+LocationType/&RuinDescription	The remnants of an ancient structure, full of mystery and opportunity.
+LocationType/&RuinTitle	Ruin
+LocationType/&TownDescription	A well-settled place, offering basic services.
+LocationType/&TownTitle	Town
+LocationType/&UnknownDescription	The type of this location is unknown.
+LocationType/&UnknownTitle	Unknown
+LocationType/&ManacalonOracleKnownTitle	The Oracle
+LocationType/&ManacalonOracleKnownDescription	On a riverside there is a ruined Manacalon building that Kythaela called the Oracle.
+LocationType/&ManacalonPrisonKnownTitle	The Dungeons
+LocationType/&ManacalonPrisonKnownDescription	Apparently, this was an Imperial prison. Kythaela said it dated back to the Elven Wars.

@@ -1,0 +1,8 @@
+Tutorial/&Factions_Title	Relaciones de facción
+Tutorial/&Factions_Description	Las <b>cinco</b> facciones del Consejo tienen representantes en Caer Cyflen. Pueden venderte equipo, hechizos y muchas otras cosas. Cuanto mejor sea tu relación con una facción, más tendrán que ofrecer y más bajos serán sus precios.\nSin embargo, estas facciones compiten entre sí, lo que significa que no puedes complacerlas a todas. Varias sub-misiones te darán la oportunidad de mejorar tu relación con una facción u otra.\nEsté atento a la sección de Facciones del <b>Diario</b>.
+Tutorial/&LightAsAWeapon_Title	¡Enciende la luz!
+Tutorial/&PartyStash_Title	Party Stash
+Tutorial/&PartyStash_Description	Este cofre es suyo para usarlo. Nadie puede saquearlo, puedes guardar hasta 50 artículos en su interior. Muchos aventureros utilizan este servicio Scavenger para almacenar algunas de sus cosas.
+Tutorial/&QuickShopping_Title	Compras rapidas
+Tutorial/&QuickShopping_Description	Cerca de un comerciante, encontrará una interacción de compras rápida. Esto evita la discusión para abrir instantáneamente la interfaz del comerciante. Aún puede hablar con el comerciante NPC si es necesario.
+Tutorial/&LightAsAWeapon_Description	No olvides que la luz es fundamental para luchar contra ciertos enemigos en Solasta.\nLos soraks, por ejemplo, son más poderosos en condiciones de poca luz, y más aún en completa oscuridad.\nEsto es fundamental para su supervivencia. Utilice hechizos de luz y antorchas: ¡compruebe si los porta antorchas iluminan el entorno!

@@ -1,0 +1,8 @@
+Tutorial/&Factions_Title	Faction Relations
+Tutorial/&Factions_Description	The <b>five</b> Council factions have representatives in Caer Cyflen. They can sell you equipment, spells, and many other things. The better your relationship with a faction, the more they have to offer, and the lower their prices.\nHowever, these factions are in competition with each other, which means you can't please them all. Various sub-quests will give you opportunities to improve your relationship with one faction or another.\nKeep an eye on the Faction section of the <b>Journal</b>.
+Tutorial/&LightAsAWeapon_Title	Turn on the Light!
+Tutorial/&PartyStash_Title	Party Stash
+Tutorial/&PartyStash_Description	This chest is yours to use. No one can loot it, you can stash up to 50 items inside it. Many adventurers use this Scavenger service to store some of their stuff.
+Tutorial/&QuickShopping_Title	Quick Shopping
+Tutorial/&QuickShopping_Description	Near a merchant, you'll find a quick shopping interaction. This bypasses the discussion to instantly open the merchant interface. You can still talk to the NPC merchant if needed.
+Tutorial/&LightAsAWeapon_Description	Don't forget that light is critical to fighting certain enemies in Solasta.\nSoraks, for instance, are more powerful in dim light, and even more so in complete darkness.\nThis is critical for your survival. Use light spells and torches - check for torch holders to illuminate in the environment!

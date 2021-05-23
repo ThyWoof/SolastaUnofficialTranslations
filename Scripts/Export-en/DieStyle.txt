@@ -1,0 +1,6 @@
+DieStyle/&DieStyleEbonyTitle	Ebony
+DieStyle/&DieStyleGreenTitle	Green
+DieStyle/&DieStyleIvoryTitle	Ivory
+DieStyle/&DieStyleRubyTitle	Ruby
+DieStyle/&DieStyleStandardTitle	Standard
+DieStyle/&DieStyleYellowTitle	Yellow

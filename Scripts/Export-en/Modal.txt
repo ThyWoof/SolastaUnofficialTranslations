@@ -1,0 +1,103 @@
+Modal/&AssertionFailedTtitle	Assertion Failed
+Modal/&CampaignSelectionButtonTitle	Select
+Modal/&CampaignSelectionTitle	Campaign
+Modal/&CampCaptionMultipleHoursFormat	The party is setting camp for {0} hours.
+Modal/&CampCaptionSingleHourFormat	The party is setting camp for an hour.
+Modal/&CancelButtonTitle	Cancel
+Modal/&CancelPrepareDescription	Cancel any changes made in this panel.
+Modal/&CancelPrepareTitle	Cancel
+Modal/&CharacterReviveMessageCancel	Cancel
+Modal/&CharacterReviveMessageContent	This option has a long activation time and may invalidate other time-based options. Do you want to continue?
+Modal/&CharacterReviveMessageTitle	Warning
+Modal/&CharacterReviveMessageValidate	Accept
+Modal/&CharacterReviveModalHeaderPluralTitle	Revive All Dead Characters
+Modal/&CharacterReviveModalHeaderSingularTitle	Revive Dead Character
+Modal/&CharacterReviveModalSubTitle	You cannot continue the adventure with one or more dead characters. Select an option.
+Modal/&CharacterReviveModalTooLateFormat	It is too late to use this option on {0}.
+Modal/&DefeatDescription	The party had no way to revive their dead - game over! Try giving Revivify scrolls to characters who can use them.
+Modal/&DefeatTitle	Game Over
+Modal/&DeleteButtonTitle	Delete
+Modal/&EquipementSelectionDescription	Select your preferred equipment options.
+Modal/&EquipementSelectionTitle	Equipment Choice
+Modal/&ErrorModalContinuePlayingTitle	Continue Playing
+Modal/&ErrorModalCopyToClipboardTitle	Copy to Clipboard
+Modal/&ErrorModalIgnoreErrorTitle	Ignore this Error
+Modal/&ErrorModalQuitTitle	Quit the Game
+Modal/&ErrorModalTitle	A serious error has occurred.
+Modal/&ExceptionModalTitle	A critical exception has occurred.
+Modal/&FactionRedeemCostDescription	Redeeming an item is often more profitable than selling it to a merchant
+Modal/&FactionRedeemInstructionsDescription	Redeeming items with the "{0}" faction will earn you money and improve your relations with this faction.
+Modal/&FactionRedeemRelationDescription	Your relations with that faction improve
+Modal/&FactionRedeemRelationGainFormat	{0} Relation
+Modal/&FactionRedeemSelectTitle	Select an item to redeem
+Modal/&HigherLevelFeaturesTitle	Higher Level Features
+Modal/&InterruptCraftingCompleteTitle	Interrupt when an item has been crafted.
+Modal/&InterruptLevelUpAvailableTitle	Interrupt when a character can level up.
+Modal/&InterruptLongRestCompleteTitle	Interrupt when the long rest has been completed.
+Modal/&LoadButtonTitle	Load
+Modal/&LoadGameHeader	Load
+Modal/&LoadGamePlaceholder	Select a saved game.
+Modal/&LoadingProceedButtonTitle	Click or press any key to start.
+Modal/&LoadingTitle	Loading… please wait
+Modal/&LoadLastSaveDescription	Resume playing from your last saved game
+Modal/&LoadLastSaveTitle	Restart From Last Save
+Modal/&MonsterListingCaption	{0} is concentrating to determine the presence of monsters in the area… 
+Modal/&MonsterListingFavoredEnemyTitle	Favored Enemy
+Modal/&MonsterListingNotPerceivedTitle	None
+Modal/&MonsterListingPerceivedTitle	Present
+Modal/&NumberSelectionInstructionTitle	How Many Points?
+Modal/&NumberSelectionValidateTitle	Validate
+Modal/&PartyWaitMinutesPluralFormat	The party is waiting for {0} minutes.
+Modal/&PartyWaitMinutesSingleFormat	The party is waiting for {0} minute.
+Modal/&RequiredRestsMultipleFormat	{0} long rests
+Modal/&RequiredRestsNoneFormat	None
+Modal/&RequiredRestsSingleFormat	1 long rest
+Modal/&RequiredRestsTitle	Required Rests
+Modal/&ResetDefaultsDescription	Click to reset travel settings to default value.
+Modal/&ResetDefaultsTitle	Reset Defaults
+Modal/&SaveButtonTitle	Save
+Modal/&SaveGameHeader	Save
+Modal/&SaveGamePlaceholder	Enter a filename or select a saved game.
+Modal/&SelectCharacterMultipleTitle	Select one or more characters.
+Modal/&SelectCharacterSingleTitle	Select a Character
+Modal/&SelectTitle	Select
+Modal/&StartTravelDescription	Initiates the travel to the selected location.
+Modal/&StartTravelTitle	Start Traveling
+Modal/&TravelDurationLessThanADayFormat	Less than a day
+Modal/&TravelDurationMultipleFormat	{0} days
+Modal/&TravelDurationSingleFormat	1 day
+Modal/&TravelDurationTitle	Duration
+Modal/&TravelFromTitle	From
+Modal/&TravelPaceNormalTitle	Normal
+Modal/&TravelPaceTitle	Travel Pace
+Modal/&TravelSettingsButtonDescriptionTitle	Click to change the settings of traveling and resting.
+Modal/&TravelSettingsCustomTitle	Custom
+Modal/&TravelSettingsDefaultTitle	Default
+Modal/&TravelSettingsTitle	Travel Settings
+Modal/&TravelToTitle	To
+Modal/&ValidateButtonTitle	Validate
+Modal/&LoadingShortTitle	Loading
+Modal/&LoadingTipTitle	Tip
+Modal/&UnitsSelectionInstructionTitle	Take how many units?
+Modal/&CastSpellBeforeLongRestTitle	Cast the {0} spell when the long rest starts.
+Modal/&ScavengerMissionsModalTitle	Scavenger Expeditions
+Modal/&ScavengerMissionsModalDescription	Scavengers are heading to these locations to collect and bring back the loot left behind.
+Modal/&ScavengerMissionLineEncounterTitle	Somewhere Along the Road
+Modal/&ScavengerMissionLineNewMissionFormat	New: {0} remaining
+Modal/&ScavengerMissionLineOngoingMissionFormat	Ongoing: {0} remaining
+Modal/&ScavengerMissionLineFinishedMissionDescription	Completed
+Modal/&ScavengerMissionModalToggleTitle	Show Encounter-related Expeditions
+Modal/&ScavengerLootModalTitle	Items Recovered During Expeditions
+Modal/&ScavengerLootModalInstructionsDescription	Click an item to recover instead of selling it.
+Modal/&ScavengerLootModalSellAllButton	Sell All
+Modal/&ScavengerLootModalSellInstructionsDescription	You gain:
+Modal/&DefeatStealthDescription	You were detected during a critical stealth stage! Use cautious mode and move carefully.
+Modal/&QuestBoardTitle	Available Missions
+Modal/&QuestBoardDescription	Select the mission you would like to accept and press Start.
+Modal/&QuestBoardStartTitle	Start
+Modal/&QuestBoardStartDescription	Accept and start the selected mission.
+Modal/&QuestInProgressTitle	In Progress
+Modal/&SolastaBackers	Solasta Backers
+Modal/&SelectUserLocationTitle	Select a Location
+Modal/&UserLocationSettingsTitle	Location Settings
+Modal/&UserLocationSettingsApplyTitle	Apply

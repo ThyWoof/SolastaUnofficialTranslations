@@ -1,0 +1,36 @@
+Credits/&GameTechnicalVisionTitle	Visão técnica e de jogo
+Credits/&ArtTeamTitle	Equipe de Arte
+Credits/&ArtDirectorTitle	Diretor de arte
+Credits/&Lead3DArtistTitle	Artista líder em 3D
+Credits/&LeadAnimatorTitle	Artista líder em 3D
+Credits/&3DCharacterArtistFemaleTitle	Artista de personagens 3D
+Credits/&3DEnvironmentArtistTitle	Artista de ambiente 3D
+Credits/&VisualEffectsArtistFemaleTitle	Artista de efeitos visuais
+Credits/&ConceptArtistTitle	Artista de Conceito
+Credits/&DesignTeamTitle	Equipe de Design
+Credits/&GameplayDirectorTitle	Diretor de Jogo
+Credits/&SeniorLevelDesignerTitle	Designer de Nível Sênior
+Credits/&LevelDesignerTitle	Level Designer
+Credits/&LevelBuilderTitle	Level Builder
+Credits/&CutsceneDirectionTitle	Direção de Cutscene
+Credits/&UniverseStorylineTitle	Universo e enredo
+Credits/&ProductionTeamTitle	Equipe de produção
+Credits/&ProducerFemaleTitle	Produtor
+Credits/&QALeadFemaleTitle	Líder de QA
+Credits/&AutotestTitle	Auto teste
+Credits/&TechnicalTeamTitle	Equipe técnica
+Credits/&TechLeadTitle	Líder de Tecnologia
+Credits/&GraphicsProgrammerTitle	Programador de Gráficos
+Credits/&UIRuleserProgrammerTitle	Programador de IU / conjunto de regras
+Credits/&ToolsProgrammerTitle	Programador de ferramentas
+Credits/&MarktingTeamTitle	Equipe de Marketing
+Credits/&MarketingDirectorTitle	Diretor de marketing
+Credits/&LeadCommunityDeveloperTitle	Desenvolvedor líder da comunidade
+Credits/&AdministrationTeamTitle	Administração
+Credits/&AdministrativeAndFinancialManagerFemaleTitle	Gerente Administrativo e Financeiro
+Credits/&BoardMemberTitle	Membro do conselho
+Credits/&ExternalPartnersTitle	Parceiros Externos
+Credits/&EnvironmentConceptArtistTitle	Artista de conceito de meio ambiente
+Credits/&CharacterConceptArtistTitle	Artista de conceito de personagem
+Credits/&SeniorWriterTitle	Escritor Sênior
+Credits/&CNCAcknowledgementTitle	Avec le soutien du FAJV, fonds cofinancé par le Centre National du Cinéma et de l’Image animée et le Ministère de l’Economie et des Finances

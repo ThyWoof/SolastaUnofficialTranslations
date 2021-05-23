@@ -1,0 +1,100 @@
+Message/&AbortCreationDescription	Vuoi annullare la creazione del personaggio?
+Message/&AbortCreationTitle	Annullamento della creazione del personaggio
+Message/&AbortLevelUpDescription	Sei sicuro di voler annullare il processo di aumento di livello del personaggio?
+Message/&AbortLevelUpTitle	Annullamento dell'aumento di livello del personaggio
+Message/&AmountGainedFormat	{0} guadagni {1}
+Message/&AttunementLostDescription	L'elemento "{0}" non è più sintonizzato.
+Message/&AttunementLostTitle	Sintonizzazione persa
+Message/&AttunementRemovalDescription	Sei sicuro di voler rimuovere la sintonizzazione con questo elemento?
+Message/&AttunementRemovalTitle	Rimozione della sintonizzazione
+Message/&AttunementReplacementDescription	Questo elemento è attualmente sintonizzato su {0}. Sei sicuro di volerlo sintonizzare su {1}?
+Message/&AttunementReplacementTitle	Sostituzione della sintonia
+Message/&CannotLoad	Impossibile caricare adesso
+Message/&CannotSave	Impossibile salvare ora
+Message/&CharacterDeletionDescription	Sei sicuro di voler eliminare questo personaggio? Questa azione non può essere annullata.
+Message/&CharacterDeletionTitle	Cancellazione del personaggio
+Message/&ConcentrationLossDescription	Lanciare l'incantesimo {0} ti farà perdere la concentrazione sull'incantesimo {1}. Sei sicuro di voler procedere?
+Message/&ConcentrationLossTitle	Perdita di concentrazione
+Message/&CraftingAbortDescription	Sei sicuro di voler interrompere questa operazione artigianale? Tutti i progressi e gli ingredienti spesi andranno persi.
+Message/&CraftingAbortTitle	Interrompi creazione
+Message/&FastTravelConfirmationDescription	Sei sicuro di voler viaggiare velocemente verso questa destinazione? (Il tempo verrà fatto avanzare rapidamente di conseguenza.)
+Message/&FastTravelConfirmationTitle	Viaggio veloce
+Message/&FastTravelErrorPathNotFoundDescription	Non puoi viaggiare velocemente verso questa destinazione poiché il percorso è bloccato.
+Message/&FastTravelErrorTitle	Viaggio veloce
+Message/&FastTravelExitLocationDescription	Sei sicuro di voler viaggiare velocemente verso questa uscita e lasciare l'area? (Il tempo verrà fatto avanzare rapidamente di conseguenza.)
+Message/&FastTravelExitLocationTitle	Area di viaggio veloce e partenza
+Message/&IdentificationCancelledTitle	L'identificazione dell'articolo è stata annullata.
+Message/&IncompletePreparationDescription	Non hai preparato tutti gli incantesimi che puoi. Sei sicuro di voler continuare?
+Message/&IncompletePreparationTitle	Preparazione dell'incantesimo incompleta
+Message/&ItemsOnGroundDescription	Gli oggetti a terra andranno persi se esci da questa schermata. Sei sicuro di voler procedere?
+Message/&ItemsOnGroundTitle	Oggetti perdenti
+Message/&LegalDisagreeAndQuitDescription	Poiché non hai accettato questi termini, l'applicazione verrà chiusa.
+Message/&LegalDisagreeAndQuitTitle	Uscita dal gioco
+Message/&MessageCancelTitle	Annulla
+Message/&MessageNoTitle	No
+Message/&MessageOkTitle	ok
+Message/&MessageYesTitle	sì
+Message/&PartyLosesGoldPieces	La festa perde {0} monete d'oro
+Message/&QuitLocationDescription	Stai per lasciare l'area attuale. Procedere?
+Message/&QuitLocationTitle	Lascia l'area
+Message/&ResumeCampDescription	Vuoi riprendere il campeggio?
+Message/&ResumeCampTitle	Riprendi il campeggio
+Message/&ResumeRestDescription	Vuoi continuare il tuo lungo riposo?
+Message/&ResumeRestTitle	Riprendi il riposo lungo
+Message/&SavedGameDeleteDescription	Sei sicuro di voler eliminare definitivamente il gioco salvato "{0}"?
+Message/&SavedGameDeleteTitle	Elimina partita salvata
+Message/&SavedGameOverwriteDescription	Sei sicuro di voler sovrascrivere il gioco salvato "{0}" con il tuo stato di gioco attuale?
+Message/&SavedGameOverwriteTitle	Sovrascrivi partita salvata
+Message/&ScrollScribeDestructionDescription	Scrivere l'incantesimo nel libro degli incantesimi selezionato distruggerà la pergamena. Sei sicuro di voler procedere?
+Message/&ScrollScribeDestructionTitle	Scribe Scroll
+Message/&SessionCancelDescription	Sei sicuro di voler lasciare il setup di questa nuova avventura?
+Message/&SessionCancelTitle	Annulla avventura
+Message/&SettingConfirmSettingsDescription	Sei sicuro di voler mantenere le modifiche alle impostazioni selezionate?
+Message/&SettingConfirmSettingsTitle	Conferma le impostazioni
+Message/&SettingExitWithoutApplyDescription	Sei sicuro di voler chiudere questo pannello e scartare tutte le modifiche che hai fatto?
+Message/&SettingExitWithoutApplyTitle	Annullare le modifiche
+Message/&SkipLevelUpFormat	Non hai completato la sequenza di aumento di livello per {0}. Siete sicuri di voler uscire?
+Message/&SkipLevelUpTitle	Salto di livello del personaggio
+Message/&WaitForLongRestDescription	Hai già eseguito un lungo riposo oggi. Vorresti aspettare l'inizio di un nuovo giorno?
+Message/&WaitForLongRestTitle	In attesa di eseguire un lungo riposo
+Message/&EndEarlyAccessDescription	Hai raggiunto la fine dei contenuti riproducibili in accesso anticipato. Tornerai ora al menu principale.
+Message/&EndEarlyAccessTitle	Fine dell'accesso anticipato
+Message/&EndEarlyAccessMainMenuTitle	Menu principale
+Message/&EndEarlyAccessContinuePlayingTitle	Continua a giocare
+Message/&MessageKeyAlreadyBoundTitle	Chiave già rilegata
+Message/&MessageKeyAlreadyBoundDescription	La chiave {0} è già associata al comando {1}
+Message/&MessageOverrideTitle	Oltrepassare
+Message/&SettingDefaultSettingsDescription	Sei sicuro di voler ripristinare i valori predefiniti per questa categoria di impostazioni?
+Message/&SettingDefaultSettingsTitle	Ripristino delle impostazioni predefinite
+Message/&RestartRequiredDescription	È necessario riavviare l'applicazione per applicare questa modifica
+Message/&RestartRequiredTitle	Riavvio richiesto
+Message/&ScrollScribeAlreadyInSpellbookDescription	L'incantesimo {0} è già in questo libro degli incantesimi
+Message/&ScrollScribeAlreadyInSpellbookTitle	Già in Spellbook
+Message/&MandatoryDestinationFormat	Devi viaggiare fino a "{0}"
+Message/&CharacterCannotMove	{0} non può muoversi affatto
+Message/&OverrideCustomDifficultyTitle	Ignora impostazioni personalizzate
+Message/&OverrideCustomDifficultyDescription	In questo modo verranno ripristinate tutte le impostazioni personalizzate che potresti aver modificato nel menu Impostazioni di gioco. Vuoi continuare?
+Message/&SteamInitFailedDescription	Impossibile connettersi al client Steam. Assicurati di avviare il gioco tramite Steam. Potrebbe essere necessario riavviare il client Steam. Il gioco ora uscirà.
+Message/&SteamInitFailedTitle	Inizializzazione di Steam non riuscita
+Message/&NativeCrashDetectedTitle	Il gioco non è stato chiuso correttamente
+Message/&NativeCrashDetectedDescription	Il gioco non è stato chiuso correttamente. Se visualizzi questo messaggio per la prima volta, ti consigliamo di abbassare le impostazioni grafiche e di segnalarlo al nostro team nel forum.
+Message/&EndEarlyAccessDescription2	Hai raggiunto la fine dei contenuti ad accesso anticipato. La storia principale non può essere giocata oltre, ma puoi comunque viaggiare, raccogliere cose e completare le missioni opzionali.
+Message/&UserLocationDeleteConfirmationTitle	Cancellazione della posizione
+Message/&UserLocationDeleteConfirmationDescription	Sei sicuro di voler eliminare questa posizione utente?
+Message/&UserLocationOverwriteConfirmationTitle	Sovrascrittura posizione
+Message/&UserLocationOverwriteConfirmationDescription	Il salvataggio di questa posizione con questo nome sovrascriverà un'altra posizione con lo stesso nome. Sei sicuro di voler procedere?
+Message/&EditorLeaveConfirmationTitle	Uscita dall'editor
+Message/&EditorLeaveConfirmationDescription	Sei sicuro di voler partire senza salvare la tua posizione?
+Message/&HiddenDoorTitle	Porta nascosta!
+Message/&UnknownUserLocationDescription	Posizione utente sconosciuta: {0}
+Message/&InvalidUserLocationEntranceIndexDescription	L'indice di ingresso target non è valido: {0}
+Message/&UserLocationSizeReductionTitle	Riduzione delle dimensioni
+Message/&UserLocationSizeReductionDescription	La riduzione delle dimensioni di questa posizione potrebbe distruggere alcune stanze e oggetti di scena, a partire dall'angolo in alto a destra. Sei sicuro di voler procedere?
+Message/&UserLocationOutdatedTitle	Posizione obsoleta
+Message/&UserLocationOutdatedDescription	Una o più sedi hanno contenuti obsoleti (stanza, gadget, oggetto di scena) che sono stati rimossi
+Message/&UserLocationEnvironmentChangeTitle	Cambiamento dell'ambiente
+Message/&UserLocationEnvironmentChangeDescription	La modifica della posizione di questo ambiente rimuoverà alcune stanze, oggetti di scena e / o gadget incompatibili. Sei sicuro di voler procedere?
+Message/&UserLocationEmptyTitleTitle	Titolo non valido
+Message/&UserLocationEmptyTitleDescription	È necessario immettere un titolo valido per la posizione dell'utente
+Message/&EditorLocationSwitchConfirmationTitle	Cambio posizione utente
+Message/&EditorLocationSwitchConfirmationDescription	La posizione "{0}" contiene modifiche non salvate. Sei sicuro di voler aprire la posizione "{1}" e perdere queste modifiche?

@@ -1,0 +1,94 @@
+Travel/&FactionRelicInterestedFactionsTitle	Facções interessadas
+Travel/&FatigueExhaustedDescription	A festa está completamente exausta e deve descansar.
+Travel/&FatigueExhaustedTitle	Exausta
+Travel/&FatigueFreshDescription	A festa está fresca e pode continuar viajando.
+Travel/&FatigueFreshTitle	Fresco
+Travel/&FatigueImpededDescription	A festa está um pouco cansada, mas pode continuar viajando.
+Travel/&FatigueImpededTitle	Impedido
+Travel/&PaceFastDescription	O grupo viaja rapidamente (36 milhas por dia), às custas de furtividade e percepção.
+Travel/&PaceFastTitle	Rápido
+Travel/&PaceNormalDescription	O grupo viaja em um ritmo normal (38 quilômetros por dia), atingindo um bom equilíbrio entre velocidade e consciência do que está ao seu redor.
+Travel/&PaceNormalTitle	Normal
+Travel/&PaceSlowDescription	A festa viaja lentamente (16 milhas por dia), prestando mais atenção ao entorno e sendo menos perceptível.
+Travel/&PaceSlowTitle	Lento
+Travel/&StandardCampActivity01Title	{0} faz alguma manutenção de armas.
+Travel/&StandardCampActivity02Title	{0} realiza manutenção de armadura.
+Travel/&StandardCampActivity03Title	{0} cozinha uma boa refeição para a festa.
+Travel/&StandardCampActivity04Title	{0} realiza exercícios mentais.
+Travel/&StandardCampActivity05Title	{0} ora.
+Travel/&StandardCampActivity06Title	{0} conta velhas histórias de guerra.
+Travel/&StandardCampActivity07Title	{0} dá início a uma acalorada discussão política sobre o Principado de Masgarth.
+Travel/&StandardCampActivity08Title	{0} inicia uma discussão sobre divindades e religiões.
+Travel/&StandardCampActivity09Title	{0} começa um jogo de dados.
+Travel/&StandardCampActivity10Title	{0} começa a cantar uma música antiga.
+Travel/&StandardCampActivity11Title	{0} começa um jogo de dados.
+Travel/&StandardCampActivity12Title	{0} começa um jogo de cartas.
+Travel/&StandardRandomEvents10Title	{0} para perto de um santuário para orar.
+Travel/&StandardRandomEvents11Title	{0} trabalha com exercícios de treinamento de artes marciais.
+Travel/&StandardRandomEvents1Title	O grupo se depara com um bando de mercenários.
+Travel/&StandardRandomEvents2Title	A festa passa por um antigo mercado Imperial, agora usado como ponto de encontro dos Catadores.
+Travel/&StandardRandomEvents3Title	O grupo passa por uma árvore antiga, com idade suficiente para sobreviver ao Cataclismo.
+Travel/&StandardRandomEvents4Title	O grupo conhece um estudioso errante de Gallivan.
+Travel/&StandardRandomEvents5Title	O grupo conhece um bando de peregrinos a caminho do Einareum.
+Travel/&StandardRandomEvents6Title	O grupo encontra alguns mercenários anões feridos e cuida de seus ferimentos.
+Travel/&StandardRandomEvents7Title	O grupo encontra um mensageiro cujo cavalo está assustado. {0} acalma o animal e é agradecido com gratidão.
+Travel/&StandardRandomEvents8Title	{0} joga dados com um estudioso errante.
+Travel/&StandardRandomEvents9Title	{0} toca uma melodia na flauta.
+Travel/&TravelActivityCampTitle	Acampamento
+Travel/&TravelActivityExplorationTitle	Exploração
+Travel/&TravelActivityLongRestTitle	Descanso
+Travel/&TravelActivityNavigateTitle	Navegar
+Travel/&TravelActivityStandByTitle	Espera
+Travel/&TravelEventCraftingProgressFailure1Title	{0} enfrenta um revés ao elaborar o {1}: nenhum progresso.
+Travel/&TravelEventCraftingProgressFinishedTitle	{0} terminou de elaborar o {1}.
+Travel/&TravelEventCraftingProgressHalfwayTitle	{0} está na metade de criar o {1}.
+Travel/&TravelEventCrownAttunedDescription	Nossos heróis têm um merecido descanso, mas o clima é sombrio.
+Travel/&TravelEventCrownAttunedTitle	Uma noite turbulenta
+Travel/&TravelEventEncounterFailure1Title	O grupo não consegue detectar um grupo inimigo se aproximando.
+Travel/&TravelEventEncounterSuccess1Title	Um encontro! {0} ouve o inimigo se aproximando.
+Travel/&TravelEventEncounterSuccess2Title	Um encontro! {0} identifica o inimigo antes que ele veja o grupo.
+Travel/&TravelEventFoodSearchFailure1Title	O grupo não encontrou comida.
+Travel/&TravelEventFoodSearchSuccess1Title	{0} encontra alguns cogumelos saborosos. O grupo ganha {1} ração (ões) de comida.
+Travel/&TravelEventFoodSearchSuccess2Title	{0} captura lebres selvagens. O grupo ganha {1} ração (ões) de comida.
+Travel/&TravelEventFoodSearchSuccess3Title	{0} mata um javali. O grupo ganha {1} ração (ões) de comida.
+Travel/&TravelEventFoodSearchSuccess4Title	{0} encontra uma macieira. O grupo ganha {1} ração (ões) de comida.
+Travel/&TravelEventFoodSearchSuccess5Title	{0} encontra um ninho de pássaro e recolhe alguns ovos. O grupo ganha {1} ração (ões) de comida.
+Travel/&TravelEventFoodSearchSuccess6Title	{0} mata um gamo. O grupo ganha {1} ração (ões) de comida.
+Travel/&TravelEventFoodSearchSuccess7Title	{0} mata algumas perdizes. O grupo ganha {1} ração (ões) de comida.
+Travel/&TravelEventFoodSearchSuccess8Title	{0} encontra um monte de vegetais silvestres e reúne {1} ração (ões) de comida.
+Travel/&TravelEventIngredientGatheringFailure1Title	A festa não encontrou nenhum ingrediente útil.
+Travel/&TravelEventIngredientGatheringSuccess1Title	{0} consegue coletar ingredientes de artesanato: {1}
+Travel/&TravelEventLongRestCompleteFailure1Title	A festa não conseguiu completar seu longo descanso
+Travel/&TravelEventLongRestCompleteSuccess1Title	A festa terminou seu longo descanso e consumiu {0} unidade (s) de comida.
+Travel/&TravelEventLongRestStart1Title	A festa começa a descansar
+Travel/&TravelEventNavigationStarts1Title	A festa esta em movimento
+Travel/&TravelEventNewDayTitle	Dia {0}
+Travel/&TravelEventSetCamp1Title	A festa acampa
+Travel/&TravelJourneyBeginsTitle	A jornada começa!
+Travel/&TravelJourneyEndsTitle	A festa chegou
+Travel/&TravelEventExplorationEndsTitle	A festa encontrou uma maneira de entrar.
+Travel/&TravelEventExplorationStartsTitle	A festa começa a buscar acesso ao local.
+Travel/&TravelEventCastFoodSpellTitle	{0} lança o {1} feitiço e fornece comida para todo o grupo.
+Travel/&StandardRandomEvents12Title	O grupo encontra uma carruagem de Scavenger cheia de itens e diz olá.
+Travel/&StandardRandomEvents13Title	A festa passa por uma vala comum e se afasta com um olhar sombrio.
+Travel/&StandardRandomEvents14Title	A festa passa por uma estátua de Manacalon que representa mais um imperador.
+Travel/&StandardRandomEvents15Title	A festa passa por uma estátua quebrada de uma mulher élfica com uma escrava.
+Travel/&StandardRandomEvents16Title	O grupo passa por um santuário dedicado a Arun e ouve trovões à distância.
+Travel/&StandardRandomEvents17Title	O grupo passa por um santuário para Einar e vê um cervo fugindo.
+Travel/&StandardRandomEvents18Title	O grupo passa por um santuário dedicado a Pakri e sente uma brisa fria.
+Travel/&StandardRandomEvents19Title	A festa passa por um santuário dedicado a Maraike e ouve o canto de um pássaro.
+Travel/&StandardRandomEvents20Title	A festa passa por um santuário dedicado a Misaye e ouve alguém rindo.
+Travel/&StandardRandomEvents21Title	A festa passa por um pedágio Imperial em ruínas, onde flores cresceram.
+Travel/&StandardRandomEvents22Title	O grupo passa por uma ponte caída e atravessa um riacho.
+Travel/&StandardRandomEvents23Title	A festa anda na chuva fraca há algum tempo.
+Travel/&StandardRandomEvents24Title	A festa anda sob forte chuva por um tempo.
+Travel/&StandardRandomEvents25Title	O grupo caminha em uma forte tempestade por um curto período de tempo.
+Travel/&StandardCampActivity13Title	{0} esculpe uma estatueta com um pedaço de madeira.
+Travel/&StandardCampActivity14Title	{0} escreve uma carta para Deus sabe quem.
+Travel/&StandardCampActivity15Title	{0} escreve um capítulo em seu diário pessoal.
+Travel/&StandardCampActivity16Title	{0} lê um capítulo de um livro.
+Travel/&StandardCampActivity17Title	{0} faz algumas flexões e agachamentos.
+Travel/&StandardCampActivity18Title	{0} limpa seus sapatos.
+Travel/&StandardCampActivity19Title	{0} leva um pouco de tempo sozinho para pensar.
+Travel/&StandardCampActivity20Title	{0} joga um jogo de habilidade com pedras.
+Travel/&StandardCampActivity21Title	{0} desdobra um saco de dormir para criar um local agradável para dormir.

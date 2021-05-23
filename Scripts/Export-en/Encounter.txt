@@ -1,0 +1,142 @@
+Encounter/&Abjuration_Caravan_EncounterDescription	You came across a caravan, a rare thing in these desolate lands.
+Encounter/&Abjuration_Caravan_EncounterTitle	Unexpected Encounter
+Encounter/&Abjuration_Ruins01_EncounterDescription	As you traveled through the Badlands towards Coparann, Kythaela asked you to stop near an old ruin…
+Encounter/&Abjuration_Ruins01_EncounterTitle	Ashes of Manacalon
+Encounter/&Abjuration_Ruins02_EncounterDescription	Kythaela stopped again, and asked to enter what seems to be an old Imperial prison.
+Encounter/&Abjuration_Ruins02_EncounterTitle	Dungeons of Manacalon
+Encounter/&BadlandsSpidersEncounterDescription	You must have roamed close to a nest: a handful of these little monsters wants you dead.
+Encounter/&BadlandsSpidersEncounterTitle	Badlands Spiders
+Encounter/&BanditsEncounterDescription	Robbers in search of easy prey - preferably wealthy.
+Encounter/&BanditsEncounterTitle	Bandits
+Encounter/&CrownAttunementEncounterDescription	Your party is forced to stop for an unplanned short rest. Something is wrong.
+Encounter/&CrownAttunementEncounterTitle	A Troubled Night
+Encounter/&DeepSpidersEncounterTitle	Deep Spiders
+Encounter/&EagleNestEncounterDescription	You've wandered too close to a nest! The eagles will fight to the death to protect their young!
+Encounter/&EagleNestEncounterTitle	Eagle Nest
+Encounter/&FlyingSnakesEncounterDescription	A bevy of flying snakes who want you away from their eggs.
+Encounter/&FlyingSnakesEncounterTitle	Brimstone Vipers
+Encounter/&GoblinCrusadersDescription	A goblin shaman and his followers in search of glory.
+Encounter/&GoblinCrusadersTitle	Goblin Crusade
+Encounter/&GoblinhuntingpartyEncounterDescription	Goblins on the hunt with their tame wolves.
+Encounter/&GoblinhuntingpartyEncounterTitle	Goblin Hunting Party
+Encounter/&GoblinWarPartyDescription	A band of goblin skirmishers looking for trouble.
+Encounter/&GoblinWarPartyTitle	Goblin War Party
+Encounter/&OrcMaraudersTitle	Orc Marauders
+Encounter/&OrcRaidersDescription	An orc chieftain leading a band of warriors in search of scars and glory.
+Encounter/&OrcRaidersTitle	Orc Raiders
+Encounter/&WinterWolfpackEncounterDescription	A terrible winter wolf, on the hunt with a few normal wolves.
+Encounter/&WinterWolfpackEncounterTitle	Winter Wolf and Pack
+Encounter/&WolfpackEncounterDescription	A pack of ravenous wolves, desperate for a kill.
+Encounter/&WolfpackEncounterTitle	Wolf Pack
+Encounter/&DeepSpidersEncounterDescription	A huge party of deep spiders looking to feed their spiderlings.
+Encounter/&DeathGangTitle	Death Gang
+Encounter/&DeathGangDescription	Roaming skeletons, escaped from some desecrated tomb.
+Encounter/&DeathSquadTitle	Death Squad
+Encounter/&RoamingFanaticsTitle	Roaming Fanatics
+Encounter/&RoamingFanaticsDescription	A couple of acolytes led by a charismatic leader.
+Encounter/&ApprenticeNecromancerTitle	Apprentice Necromancer
+Encounter/&ApprenticeNecromancerDescription	A student of magic with a bunch of his rotting creations.
+Encounter/&SpiesOnTheRunTitle	Spies on the Run
+Encounter/&SpiesOnTheRunDescription	A couple of spies trying to escape enemy intelligence… at all costs.
+Encounter/&GlorySeekerTitle	Glory Seeker
+Encounter/&GlorySeekerDescription	A veteran soldier roaming the roads in search for death on the battlefield.
+Encounter/&BerserkerBrothersTitle	Berserker Brothers
+Encounter/&BerserkerBrothersDescription	Like-minded fighters in search for blood. Preferably yours.
+Encounter/&StainedHunterTitle	Stained Hunter
+Encounter/&StainedHunterDescription	A lonely wanderer of the Badlands who's been corrupted by chaotic magic.
+Encounter/&HungryWolvesTitle	Hungry Wolves
+Encounter/&HungryWolvesDescription	A small pack of wolves, famished and weakened.
+Encounter/&GoblinScoutsTitle	Goblin Scouts
+Encounter/&GoblinScoutsDescription	A small group of goblins with their pet wolf.
+Encounter/&LoneOgreTitle	Lone Ogre
+Encounter/&LoneOgreDescription	A wandering ogre, probably lost and definitely looking for something - or someone - to eat.
+Encounter/&OrcBandTitle	Orc Band
+Encounter/&OrcBandDescription	A small bunch of orcs, looking for something to kill.
+Encounter/&RoamingUndeadsTitle	Roaming Undeads
+Encounter/&RoamingUndeadsDescription	A group of undeads, wandering around and looking to end a few lives.
+Encounter/&EvilEvangelistsTitle	Evil Evangelists
+Encounter/&EvilEvangelistsDescription	A cleric and his goons, roaming the land to spread their evil cult.
+Encounter/&GhoulCoupleTitle	Ghouls
+Encounter/&GhoulCoupleDescription	A band of ghouls with wicked hunger.
+Encounter/&GiantEaglesTitle	Giant Eagles
+Encounter/&GiantEaglesDescription	A couple of giant eagles that seem threatened by your presence.
+Encounter/&WolfSquadTitle	Goblin Wolfsquad
+Encounter/&WolfSquadDescription	A group of goblins led by a beastmaster and his dire wolf.
+Encounter/&EscapedMinotaurTitle	Escaped Minotaur
+Encounter/&EscapedMinotaurDescription	A rare creature on Solasta, this guardian aberration is on a killing spree.
+Encounter/&LoneWightTitle	Wight
+Encounter/&LoneWightDescription	A lone wight wandering in search of someone to kill.
+Encounter/&ScoutingPartyTitle	Scout and Wolf
+Encounter/&ScoutingPartyDescription	A sneaky scout and his wolf pet.
+Encounter/&DireWolfPackTitle	Dire Wolf Pack
+Encounter/&DireWolfPackDescription	A Dire Wolf and his pack of regular hunters.
+Encounter/&DireWolfPack2Title	Dire Wolves
+Encounter/&DireWolfPack2Description	A pack of dire wolves.
+Encounter/&FanaticDuoTitle	Fanatic Duo
+Encounter/&FanaticDuoDescription	A couple of fanatics on their way to a brutal pilgrimage.
+Encounter/&MisayeEvangelistsTitle	Misaye Evangelists
+Encounter/&MisayeEvangelistsDescription	A group of fanatic Misaye followers who have their own interpretations of their deity's creed.
+Encounter/&OgreZombiesTitle	Ogre Zombies
+Encounter/&OgreZombiesDescription	A group of dead ogres made into worse versions of their former selves.
+Encounter/&OrcPartyTitle	Orc War Party
+Encounter/&OrcPartyDescription	A bunch of orcs looking for scars and glory.
+Encounter/&WightEscortTitle	Wight Squad
+Encounter/&WightEscortDescription	A wight and his soldiers on a hunt for the living.
+Encounter/&BeastmasterTitle	Ragged Beastmaster
+Encounter/&BeastmasterDescription	A crazed man and his starving wolf companions.
+Encounter/&GhastsTitle	Ghasts
+Encounter/&GhastsDescription	A band of ghasts looking for souls to reap and bodies to devour.
+Encounter/&GhoulPackTitle	Ghoul Pack
+Encounter/&GhoulPackDescription	A ghast and his ghouls looking for souls to reap and bodies to devour.
+Encounter/&WolfShamanTitle	Wolf Shaman
+Encounter/&WolfShamanDescription	A goblin shaman and his pet dire wolf.
+Encounter/&OgreBandTitle	Ogre Band
+Encounter/&OgreBandDescription	A group of angry ogres.
+Encounter/&LeatherskinsTitle	Leatherskins
+Encounter/&LeatherskinsDescription	A heteroclite party of goblins accompanied by a dire wolf and an ogre.
+Encounter/&CultFanaticsTitle	Cult Fanatics
+Encounter/&CultFanaticsDescription	A band of crazed fanatics who believe in swords more than they believe in words.
+Encounter/&WinterWolfPackTitle	Winter Wolf pack
+Encounter/&WinterWolfPackDescription	A pack led by a monstrous winter wolf.
+Encounter/&ZombiePartyTitle	Zombies
+Encounter/&ZombiePartyDescription	Simply put, a band of wandering zombies in search of living flesh.
+Encounter/&SlaversTitle	Slavers
+Encounter/&SlaversDescription	Fanatics looking for prey to enslave.
+Encounter/&NecromancerTitle	Necromancer Squad
+Encounter/&NecromancerDescription	A necromancer and his creations on the warpath.
+Encounter/&Leatherskins2Title	Leatherskins
+Encounter/&Leatherskins2Description	A band of orcs led by an ogre.
+Encounter/&FireNestTitle	Fire Nest
+Encounter/&FireNestDescription	A bunch of fire spiders wandering out of their zone of comfort.
+Encounter/&WarlordTitle	Warlord
+Encounter/&WarlordDescription	A powerful warlord and his chaplain in search for a glorious battle.
+Encounter/&ImperialsTitle	Imperial Outlaws
+Encounter/&ImperialsDescription	New Empire combatants who decided to take it upon themselves to apply the law of the Old Empire.
+Encounter/&MinotaursTitle	Minotaurs
+Encounter/&MinotaursDescription	Wandering minotaurs looking for freedom and bloodshed.
+Encounter/&ShadowPartyTitle	Shadow Party
+Encounter/&ShadowPartyDescription	A group of sneaky individuals with great skills and sharp blades.
+Encounter/&FallenBeastmasterTitle	Stained Beastmaster
+Encounter/&FallenBeastmasterDescription	A ranger who's spent too much time in the Badlands, and became one more monster.
+Encounter/&SharpshootersTitle	Sharpshooter Squad
+Encounter/&SharpshootersDescription	A band of deadly archers looking to hone their skills on live targets.
+Encounter/&ApostatesTitle	Apostates
+Encounter/&ApostatesDescription	A band of crusaders whose faith has been lost after theirs were corrupted by evil magic.
+Encounter/&OrcConquerorTitle	Orc Conquerors
+Encounter/&OrcConquerorDescription	Another party of orc warchiefs trying to become kings of the Badlands.
+Encounter/&BattleMageTitle	Battle Mage
+Encounter/&BattleMageDescription	A powerful wizard and his escort, looking for foes to burn to ashes.
+Encounter/&WarlordsTitle	Warmongers
+Encounter/&WarlordsDescription	Powerful Fighters looking for anything to kill to become even more experienced.
+Encounter/&CultLeaderTitle	Cult Leader
+Encounter/&CultLeaderDescription	A powerful cleric with his personal escort, on a murderous mission.
+Encounter/&SpectralSpidersTitle	Spectral Spiders
+Encounter/&SpectralSpidersDescription	A group of undead giant spiders.
+Encounter/&PhaseSpiderTitle	Phase Spider
+Encounter/&PhaseSpiderDescription	A huge, nasty, teleporting spider.
+Encounter/&PhaseSpidersTitle	Phase Spiders
+Encounter/&PhaseSpidersDescription	A bunch of huge, nasty, teleporting spiders.
+Encounter/&SpectralHunterTitle	Spectral Hunter
+Encounter/&SpectralHunterDescription	An undead hunter and his undead pet wolf.
+Encounter/&TigerDrakesTitle	Tiger Drakes
+Encounter/&TigerDrakesDescription	Huge flying snakes resembling small dragons.

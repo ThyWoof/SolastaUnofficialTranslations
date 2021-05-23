@@ -1,0 +1,67 @@
+Gadget/&CampfireTitle	Falò
+Gadget/&CampfireDescription	Un falò interattivo utilizzato per iniziare un lungo riposo per la festa
+Gadget/&ChestTitle	Il petto
+Gadget/&ChestDescription	Un contenitore per il bottino
+Gadget/&DoubleDoorTitle	Doppia porta
+Gadget/&DoubleDoorDescription	Una semplice porta da aprire
+Gadget/&EntranceTitle	Ingresso
+Gadget/&EntranceDescription	Il punto di partenza della festa
+Gadget/&ExitTitle	Uscita
+Gadget/&ExitDescription	Un punto di uscita per la festa. Può portare a un'altra posizione dell'utente
+Gadget/&HiddenDoorTitle	Porta nascosta
+Gadget/&HiddenDoorDescription	Una porta che richiede un controllo della percezione per essere individuata
+Gadget/&InteractiveTorchTitle	Torcia interattiva
+Gadget/&InteractiveTorchDescription	Una torcia da parete che può essere accesa / spenta dinamicamente
+Gadget/&LoreAreaTitle	Area del sapere
+Gadget/&LoreAreaDescription	Entrando in quest'area verrà visualizzato un testo
+Gadget/&MonsterMTitle	Monster M
+Gadget/&MonsterMDescription	Genera un mostro medio (o più piccolo) nella posizione del gadget
+Gadget/&MonsterLTitle	Monster L
+Gadget/&MonsterLDescription	Genera un grande mostro nella posizione del gadget
+Gadget/&MonsterMMultipleTitle	Monster Multi M
+Gadget/&MonsterMMultipleDescription	Genera un numero di mostri medi (o più piccoli) nella posizione del gadget
+Gadget/&TrapTitle	Trappola
+Gadget/&TrapDescription	Una trappola che si attiva calpestando la superficie che occupa
+Gadget/&VirtualLoreTitle	Lore virtuale
+Gadget/&VirtualLoreDescription	Un'interazione che mostra un testo della tradizione, che può essere posizionato su qualsiasi oggetto di scena
+Gadget/&VirtualLootTitle	Bottino virtuale
+Gadget/&VirtualLootDescription	Un'interazione di bottino per scopi generici, che può essere posizionata su qualsiasi sostegno per simulare un contenitore
+Gadget/&ParameterExplicitItemsTitle	Articoli espliciti
+Gadget/&ParameterLootPackTitle	Pacchetto bottino
+Gadget/&ParameterItemListTitle	Elenco degli elementi
+Gadget/&ParameterParam_LockedTitle	Bloccato
+Gadget/&ParameterUnlock_DCTitle	Sblocca DC
+Gadget/&ParameterParam_TrappedTitle	Intrappolato
+Gadget/&ParameterPerception_DCTitle	Percezione DC
+Gadget/&ParameterDisarm_DCTitle	Disarmare DC
+Gadget/&ParameterReveal_DCTitle	Rivela CD
+Gadget/&ParameterTrapEffectTitle	Effetto trappola
+Gadget/&ParameterEntranceIndexTitle	Indice di ingresso
+Gadget/&ParameterDestinationLocationTitle	Posizione di destinazione
+Gadget/&ParameterCreatureTitle	Creatura
+Gadget/&ParameterQuantityTitle	Quantità
+Gadget/&ParameterPerceptionDCTitle	Percezione DC
+Gadget/&ParameterSpeechTitle	Discorso
+Gadget/&ParameterEncounterGroupTitle	Gruppo di incontri
+Gadget/&ParameterGroupIndexTitle	Indice di gruppo
+Gadget/&ParameterExplicitItemsDescription	Determina se il contenuto sarà un pacchetto bottino predefinito o un elenco esplicito di elementi
+Gadget/&ParameterLootPackDescription	Un elenco predefinito di elementi, alcuni dei quali verranno spostati in modo casuale
+Gadget/&ParameterItemListDescription	Specificare un elenco esplicito di elementi che verranno generati nel contenitore
+Gadget/&ParameterParam_LockedDescription	Determina se questo gadget è bloccato
+Gadget/&ParameterUnlock_DCDescription	La classe di difficoltà per sbloccare questo gadget
+Gadget/&ParameterParam_TrappedDescription	Determina se questo gadget è bloccato
+Gadget/&ParameterPerception_DCDescription	La classe di difficoltà per individuare la trappola su questo gadget
+Gadget/&ParameterDisarm_DCDescription	La classe di difficoltà per disarmare la trappola su questo gadget
+Gadget/&ParameterReveal_DCDescription	La classe di difficoltà per rivelare questo gadget
+Gadget/&ParameterTrapEffectDescription	Il tipo di effetto che colpisce le creature colpite quando questa trappola viene attivata
+Gadget/&ParameterEntranceIndexDescription	Una posizione può essere inserita da diversi punti di ingresso. Questo indice viene utilizzato per specificare l'ingresso a cui conduce un gadget di uscita
+Gadget/&ParameterDestinationLocationDescription	Posizione di destinazione
+Gadget/&ParameterCreatureDescription	Il tipo di creatura generata
+Gadget/&ParameterQuantityDescription	Il numero di creature
+Gadget/&ParameterSpeechDescription	Il testo visualizzato durante l'interazione con questo gadget
+Gadget/&ParameterEncounterGroupDescription	Seleziona questo per rendere la creatura generata parte di un gruppo di incontri, innescando battaglie insieme
+Gadget/&ParameterGroupIndexDescription	Le creature con un indice di gruppo identico (qualsiasi numero scelto) apparterranno allo stesso gruppo di incontri
+Gadget/&ParameterSavingThrowDCTitle	CD di tiro salvezza
+Gadget/&ParameterSavingThrowDCDescription	La classe di difficoltà per il tiro salvezza
+Gadget/&ParameterAddDiceTitle	Dadi aggiuntivi
+Gadget/&ParameterAddDiceDescription	Aumenta il numero di dadi per questo effetto

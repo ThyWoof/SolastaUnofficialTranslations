@@ -1,0 +1,5 @@
+BodyHairStyle/&Hairstyle_A	Pixie Cut
+BodyHairStyle/&Hairstyle_B	Medio
+BodyHairStyle/&Hairstyle_C	Corto
+BodyHairStyle/&Hairstyle_D	Bollo
+BodyHairStyle/&Hairstyle_E	Corona trenzada

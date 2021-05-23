@@ -1,0 +1,537 @@
+Rules/&AbilityAndSkillFormat	{0} ({1})
+Rules/&AbilityCheckFormat	{0} d20 {1}
+Rules/&AbilityCheckVersusDcFormat	{0} d20 {1} vs DC {2}
+Rules/&AbilityScoreBonusFormat	+ bônus de habilidade
+Rules/&ActivationTypeActionTitle	Açao
+Rules/&ActivationTypeBonusActionTitle	Ato bônus.
+Rules/&ActivationTypeHours1Title	1 hora
+Rules/&ActivationTypeHours24Title	24 horas
+Rules/&ActivationTypeMinute10Title	10 minutos
+Rules/&ActivationTypeMinute1Title	1 minuto
+Rules/&ActivationTypeNoCostTitle	Ato livre.
+Rules/&ActivationTypeOnAttackHitTitle	No acerto
+Rules/&ActivationTypeOnAttackHitWithBowTitle	Ao acertar (arco)
+Rules/&ActivationTypePermanentUnlessIncapacitatedTitle	Permanente
+Rules/&ActivationTypeReactionTitle	Reação
+Rules/&ActivationTypeRestDescription	Este poder pode ser ativado durante um descanso
+Rules/&ActivationTypeRestTitle	Descanso
+Rules/&AlignmentDescription	Uma criatura típica no mundo do jogo tem um alinhamento, que descreve amplamente suas atitudes morais e pessoais. O alinhamento é uma combinação de dois fatores: um identifica a moralidade (bom, mau ou neutro) e o outro descreve atitudes em relação à sociedade e à ordem (legal, caótica ou neutra).
+Rules/&AlignmentTitle	Alinhamento
+Rules/&AlterationFormExtinguishFireFormat	Apagar o fogo
+Rules/&AlterationFormExtinguishLightFormat	Apaga as luzes
+Rules/&AlterationFormRemoveDarknessFormat	Remove Darkness
+Rules/&AlterationFormRevealTrapFormat	Revela armadilhas
+Rules/&AlterationFormUnlockFormat	Desbloqueia um objeto alvo
+Rules/&ChallengeDifficultyDeadlyTitle	Mortal
+Rules/&ChallengeDifficultyEasyTitle	Fácil
+Rules/&ChallengeDifficultyHardTitle	Duro
+Rules/&ChallengeDifficultyMediumTitle	Médio
+Rules/&ConditionAcidifiedDescription	Recebendo dano de ácido a cada turno até o fim do efeito.
+Rules/&ConditionAcidifiedTitle	Acidificado
+Rules/&ConditionAidedDescription	Pontos de vida (máximo / atual) aumentados em 5 + avanço.
+Rules/&ConditionAidedTitle	Auxiliado
+Rules/&ConditionAntitoxin	Vantagem em testes de resistência de Constituição contra veneno.
+Rules/&ConditionAsleepDescription	Incapaz de agir até acordar
+Rules/&ConditionAsleepTitle	Dormindo
+Rules/&ConditionAuraOfCourageDescription	Imunidade de medo.
+Rules/&ConditionAuraOfCourageTitle	Aura of Courage
+Rules/&ConditionAuraOfProtectionDescription	{0} bônus em testes de resistência.
+Rules/&ConditionAuraOfProtectionTitle	Aura de proteção
+Rules/&ConditionBackFromTheDead1Description	-1 penalidade nas jogadas de ataque, testes de resistência e testes de habilidade. Conclua um longo descanso para reduzir a penalidade.
+Rules/&ConditionBackFromTheDead2Description	-2 de penalidade em jogadas de ataque, testes de resistência e testes de habilidade. Conclua um longo descanso para reduzir a penalidade.
+Rules/&ConditionBackFromTheDead3Description	-3 de penalidade em jogadas de ataque, testes de resistência e testes de habilidade. Conclua um longo descanso para reduzir a penalidade.
+Rules/&ConditionBackFromTheDead4Description	-4 de penalidade em jogadas de ataque, testes de resistência e testes de habilidade. Conclua um longo descanso para reduzir a penalidade.
+Rules/&ConditionBackFromTheDeadTitle	De volta da morte
+Rules/&ConditionBanedDescription	-1d4 para ataques, -1d4 para testes de resistência.
+Rules/&ConditionBanedTitle	Banestruck
+Rules/&ConditionBarkskinDescription	A Classe de Armadura da criatura torna-se pelo menos 16.
+Rules/&ConditionBarkskinTitle	Barkskin
+Rules/&ConditionBeaconOfHopeDescription	Vantagem em testes de resistência de Sabedoria e morte; a cura restaura o máximo de pontos de vida possíveis.
+Rules/&ConditionBeaconOfHopeTitle	Farol da Esperança
+Rules/&ConditionBearsEnduranceDescription	Vantagem nos testes de resistência de Constituição.
+Rules/&ConditionBlessedDescription	+ 1d4 para ataques, + 1d4 para testes de resistência.
+Rules/&ConditionBlessedTitle	Abençoado
+Rules/&ConditionBlessingSorr-TarrTitle	Bênção de Sorr-Tarr
+Rules/&ConditionBlindedDescription	Não consigo ver nada; desvantagem em ataques; ataques contra a criatura têm vantagem.
+Rules/&ConditionBlindedTitle	Cego
+Rules/&ConditionBlurredDescription	Ataques à criatura têm desvantagem.
+Rules/&ConditionBlurredTitle	Borrado
+Rules/&ConditionBrandedDescription	Emite luz; não pode se tornar invisível.
+Rules/&ConditionBrandedTitle	De marca
+Rules/&ConditionBullsStrengthDescription	Vantagem nos testes de resistência de Força.
+Rules/&ConditionCatsGraceDescription	Vantagem em testes de resistência de Destreza e dano de queda reduzido.
+Rules/&ConditionCharmedByHypnoticPatternDescription	Incapacitado e velocidade 0, até ser ferido ou acordado.
+Rules/&ConditionCharmedByHypnoticPatternTitle	Encantado com hipnose
+Rules/&ConditionCharmedDescription	Considera o lançador um aliado.
+Rules/&ConditionCharmedTitle	Encantado
+Rules/&ConditionChilledDescription	Não pode ganhar pontos de vida. Se for morto-vivo, tem desvantagem ao atacar o lançador.
+Rules/&ConditionChilledTitle	Refrigerado
+Rules/&ConditionCriticalCharacterDescription	Se esse personagem morrer, o jogo acaba.
+Rules/&ConditionCriticalCharacterTitle	Caráter Crítico
+Rules/&ConditionCursedActionDescription	Deve fazer um teste de resistência WIS para agir.
+Rules/&ConditionCursedActionTitle	Amaldiçoado (Ação)
+Rules/&ConditionCursedAttackRollDescription	Desvantagem para uma jogada de ataque contra o lançador.
+Rules/&ConditionCursedAttackRollTitle	Amaldiçoado (jogada de ataque)
+Rules/&ConditionCursedCharismaDescription	Desvantagem em testes de resistência de CHA e testes de habilidade.
+Rules/&ConditionCursedCharismaTitle	Amaldiçoado (Carisma)
+Rules/&ConditionCursedConstitutionDescription	Desvantagem em testes de resistência de CON e testes de habilidade.
+Rules/&ConditionCursedConstitutionTitle	Amaldiçoado (Constituição)
+Rules/&ConditionCursedDamageDescription	Os ataques e feitiços do lançador contra o alvo causam 1d8 de dano necrótico extra.
+Rules/&ConditionCursedDamageTitle	Amaldiçoado (dano)
+Rules/&ConditionCursedDexterityDescription	Desvantagem em testes de resistência de DEX e testes de habilidade.
+Rules/&ConditionCursedDexterityTitle	Amaldiçoado (Destreza)
+Rules/&ConditionCursedIntelligenceDescription	Desvantagem em testes de resistência e testes de habilidade INT.
+Rules/&ConditionCursedIntelligenceTitle	Amaldiçoado (Inteligência)
+Rules/&ConditionCursedStrengthDescription	Desvantagem em testes de resistência de FOR e testes de habilidade.
+Rules/&ConditionCursedStrengthTitle	Amaldiçoado (Força)
+Rules/&ConditionCursedTitle	Amaldiçoado
+Rules/&ConditionCursedWisdomDescription	Desvantagem nos testes de resistência e testes de habilidade do WIS.
+Rules/&ConditionCursedWisdomTitle	Amaldiçoado (Sabedoria)
+Rules/&ConditionDarkvisionDescription	Veja normalmente com pouca luz e na escuridão natural como se estivesse com pouca luz.
+Rules/&ConditionDarkvisionTitle	Visão no escuro
+Rules/&ConditionDazzledDescription	Não pode receber reações e tem -2 de penalidade na Classe de Armadura.
+Rules/&ConditionDazzledTitle	Deslumbrado
+Rules/&ConditionDeadDescription	Não pode agir até ser revivido ou ressuscitado.
+Rules/&ConditionDeadTitle	Morto
+Rules/&ConditionDeafenedDescription	Não consigo ouvir nada.
+Rules/&ConditionDeafenedTitle	Ensurdecido
+Rules/&ConditionDetectEvilandGoodDescription	Detectado como aberração, celestial, elemental, fey, demônio ou morto-vivo.
+Rules/&ConditionDetectEvilandGoodTitle	Detectado como mau / bom
+Rules/&ConditionDetectMagicDescription	Capaz de detectar magia próxima.
+Rules/&ConditionDetectMagicTitle	Detectar magia
+Rules/&ConditionDiscipleImmuneColdDescription	Imune a danos de frio e recupera HP do frio.
+Rules/&ConditionDiscipleImmuneColdTitle	Acadêmico dos Elementos (frio)
+Rules/&ConditionDiscipleImmuneFireDescription	Imune a danos de relâmpagos e recupera HP de relâmpagos.
+Rules/&ConditionDiscipleImmuneFireTitle	Estudioso dos Elementos (Fogo)
+Rules/&ConditionDiscipleImmuneLightningDescription	Imune a danos de fogo e recupera HP do fogo.
+Rules/&ConditionDiscipleImmuneLightningTitle	Estudioso dos Elementos (Relâmpago)
+Rules/&ConditionDiseasedDescription	A criatura está sofrendo de uma doença.
+Rules/&ConditionDiseasedTitle	Doente
+Rules/&ConditionDisengagingDescription	Não afetado por ataques de oportunidade.
+Rules/&ConditionDisengagingTitle	Desengaçando
+Rules/&ConditionDivineFavorDescription	Causa 1d4 de dano radiante adicional.
+Rules/&ConditionDivineFavorTitle	Favor Divino
+Rules/&ConditionDivinelyRevealedDescription	O tipo e a posição da criatura são conhecidos pelo lançador deste efeito.
+Rules/&ConditionDivinelyRevealedTitle	Divinamente revelado
+Rules/&ConditionDodgingDescription	Ataques à criatura têm desvantagem.
+Rules/&ConditionDodgingTitle	Esquivando
+Rules/&ConditionDyingDescription	Morrerá em breve, a menos que esteja estabilizado.
+Rules/&ConditionDyingTitle	Moribundo
+Rules/&ConditionEncumberedDescription	A velocidade é reduzida em 2.
+Rules/&ConditionEncumberedTitle	Sobrecarregado
+Rules/&ConditionEnfeebledDescription	Metade do dano em ataques baseados em STR.
+Rules/&ConditionEnfeebledTitle	Enfraquecido
+Rules/&ConditionEntangledTitle	Emaranhado
+Rules/&ConditionExhaustedDescription	Enfraquecido pela exaustão.
+Rules/&ConditionExhaustedTitle	Exausta
+Rules/&ConditionExpeditiousRetreatDescription	Pode correr como uma ação bônus.
+Rules/&ConditionExpeditiousRetreatTitle	Retiro expedito
+Rules/&ConditionFalseLifeDescription	Pontos de vida temporários adicionais.
+Rules/&ConditionFalseLifeTitle	Vida falsa
+Rules/&ConditionFeatherFallingDescription	Não pode ser ferido por quedas.
+Rules/&ConditionFeatherFallingTitle	Pena caindo
+Rules/&ConditionFlyingDescription	A criatura alvo ganha uma velocidade de vôo de 12 células por ação de movimento.
+Rules/&ConditionFlyingTitle	Vôo
+Rules/&ConditionForceOfLawDescription	Impor desvantagem no próximo teste de resistência do alvo.
+Rules/&ConditionForceOfLawTitle	Força da Lei
+Rules/&ConditionFormAddBeneficialFormat	Concessões: {0}
+Rules/&ConditionFormAddDetrimentalFormat	Inflige: {0}
+Rules/&ConditionFormAddNeutralFormat	Torna-se: {0}
+Rules/&ConditionFormRemoveDetrimentalAllFormat	Remove todas as ocorrências destas condições: {0}.
+Rules/&ConditionFormRemoveDetrimentalRandomFormat	Remove uma ocorrência aleatória dessas condições: {0}.
+Rules/&ConditionFormRemoveFormat	Remove: {0}
+Rules/&ConditionFrightenedDescription	Incapaz de se aproximar da fonte do medo, desvantagem nas jogadas de ataque e testes de habilidade.
+Rules/&ConditionFrightenedFearDescription	Deve fugir da fonte do medo.
+Rules/&ConditionFrightenedFearTitle	Amedrontado (Medo)
+Rules/&ConditionFrightenedTitle	Assustado
+Rules/&ConditionGateKeeperDescription	Vantagem para testes de resistência de morte.
+Rules/&ConditionGateKeeperTitle	Gate Keeper
+Rules/&ConditionGiantStrengthCloudDescription	Força torna-se 27
+Rules/&ConditionGiantStrengthCloudTitle	Força gigante (nuvem)
+Rules/&ConditionGiantStrengthFireDescription	Força torna-se 25
+Rules/&ConditionGiantStrengthFireTitle	Força gigante (fogo)
+Rules/&ConditionGiantStrengthFrostDescription	Força torna-se 23
+Rules/&ConditionGiantStrengthFrostTitle	Força gigante (geada)
+Rules/&ConditionGiantStrengthHillDescription	Força torna-se 21
+Rules/&ConditionGiantStrengthHillTitle	Força gigante (colina)
+Rules/&ConditionGrappledDescription	Não pode se mover.
+Rules/&ConditionGrappledTitle	Agarrado
+Rules/&ConditionGuidedDescription	Adicione 1d4 a um teste de habilidade.
+Rules/&ConditionGuidedTitle	Guiada
+Rules/&ConditionHastedDescription	A velocidade é dobrada; +2 AC; Os testes de resistência de destreza têm vantagem; capaz de realizar mais uma ação por turno (Ataque, Dash, Dodge, Disengage, Hide, Use Item).
+Rules/&ConditionHastedTitle	Hasted
+Rules/&ConditionHealthyDescription	Não ferido.
+Rules/&ConditionHealthyTitle	Saudável
+Rules/&ConditionHeavilyEncumberedDescription	A velocidade é reduzida em 4.\nDesvantagem para jogadas de ataque.
+Rules/&ConditionHeavilyEncumberedTitle	Fortemente sobrecarregado
+Rules/&ConditionHeavilyObscuredTitle	Fortemente obscurecido
+Rules/&ConditionHeraldOfBattleDescription	+1 para AC; +1 para ataque e dano; +1 em todos os testes de resistência.
+Rules/&ConditionHeraldOfBattleTitle	Abençoado pelo Arauto da Batalha
+Rules/&ConditionHeroismDescription	Pontos de vida temporários adicionais.
+Rules/&ConditionHeroismTitle	Heroísmo
+Rules/&ConditionHighlightedDescription	A criatura não pode se beneficiar da invisibilidade, os atacantes têm vantagem.
+Rules/&ConditionHighlightedTitle	Em destaque
+Rules/&ConditionHinderedDescription	Velocidade de movimento -2.
+Rules/&ConditionHinderedTitle	Impedido
+Rules/&ConditionIncapacitatedDescription	Incapaz de realizar ações ou reações.
+Rules/&ConditionIncapacitatedTitle	Incapacitado
+Rules/&ConditionInStinkingCloudDescription	A criatura precisa fazer um teste de CON sucesso para agir em seu turno.\nA visão está fortemente obscurecida.
+Rules/&ConditionInStinkingCloudTitle	Na nuvem fedorenta
+Rules/&ConditionInvisibleDescription	Não pode ser visto sem magia; a criatura tem vantagem nos ataques; os atacantes têm desvantagem.
+Rules/&ConditionInvisibleTitle	Invisível
+Rules/&ConditionJumpDescription	Distância do salto aumentada.
+Rules/&ConditionJumpTitle	Pular
+Rules/&ConditionLethargicDescription	A criatura não pode se mover ou realizar qualquer ação até depois de seu próximo turno.
+Rules/&ConditionLethargicTitle	Letárgico
+Rules/&ConditionLevitateDescription	A criatura alvo paira; o rodízio pode movê-lo para cima ou para baixo.
+Rules/&ConditionLevitateTitle	Levitando
+Rules/&ConditionLifeDrainedDescription	Os pontos de vida máximos são reduzidos até que um longo descanso seja concluído.
+Rules/&ConditionLifeDrainedTitle	Drenado
+Rules/&ConditionLightHypersensitiveDescription	Ferido pela luz.
+Rules/&ConditionLightHypersensitiveTitle	Hipersensibilidade à luz
+Rules/&ConditionLightSensitiveDescription	Desfavorecido pela luz.
+Rules/&ConditionLightSensitiveTitle	Sensível à Luz
+Rules/&ConditionLongstriderDescription	A velocidade de movimento aumenta em 2 células.
+Rules/&ConditionLongstriderTitle	Longstrider
+Rules/&ConditionMagicallyArmoredDescription	A Classe Base de Armadura é definida como 13.
+Rules/&ConditionMagicallyArmoredTitle	Mago Blindado
+Rules/&ConditionMagicallyAsleepDescription	Incapaz de agir até acordar.
+Rules/&ConditionMagicallyAsleepTitle	Adormecido magicamente
+Rules/&ConditionMagicalWeaponDescription	A arma pode ferir inimigos imunes a ataques não mágicos.
+Rules/&ConditionMagicalWeaponTitle	Arma mágica
+Rules/&ConditionMarkedByBrandingSmiteDescription	Emite luz; não pode se tornar invisível; revelado se invisível.
+Rules/&ConditionMarkedByBrandingSmiteTitle	Branding Smite
+Rules/&ConditionMarkedByHunterDescription	Recebe + 1d6 de dano ao ser atingido pelo lançador.
+Rules/&ConditionMarkedByHunterTitle	Marca do caçador
+Rules/&ConditionMindControlledTitle	Mente controlada
+Rules/&ConditionOnFireDescription	Sustenta danos contínuos de fogo, a menos que o fogo seja extinto por uma ação.
+Rules/&ConditionOnFireTitle	Em chamas
+Rules/&ConditionParalyzedDescription	Incapaz de agir; ataques contra a criatura têm vantagem; acerto crítico automático se atacado de uma célula vizinha.
+Rules/&ConditionParalyzedTitle	Paralisado
+Rules/&ConditionPetrifiedDescription	Transformado em pedra; dificilmente pode ser ferido.
+Rules/&ConditionPetrifiedTitle	Petrificado
+Rules/&ConditionPoisonedDescription	Desvantagem em ataques e testes de habilidade.
+Rules/&ConditionPoisonedTitle	Envenenado
+Rules/&ConditionPossessedDescription	Controlado por um ser sobrenatural.
+Rules/&ConditionPossessedTitle	Possuído
+Rules/&ConditionProneDescription	Só pode se mover rastejando; vulnerável a ataques próximos.
+Rules/&ConditionProneTitle	Propenso
+Rules/&ConditionProtectedFromEvilTitle	Protegido do Mal e do Bem
+Rules/&ConditionResistingDescription	Some + 1d4 a um teste de resistência.
+Rules/&ConditionResistingTitle	Resistente
+Rules/&ConditionRestrainedDescription	Incapaz de mover-se; os ataques da criatura e testes de resistência de Destreza têm desvantagem; ataques contra a criatura têm vantagem.
+Rules/&ConditionRestrainedTitle	Contido
+Rules/&ConditionSeeInvisibilityDescription	Pode perceber criaturas invisíveis.
+Rules/&ConditionSeeInvisibilityTitle	Visão de Invisibilidade
+Rules/&ConditionSeverelyWoundedDescription	Em breve morrerá.
+Rules/&ConditionSeverelyWoundedTitle	Gravemente Ferido
+Rules/&ConditionShieldedByFaithDescription	Classe de armadura +2.
+Rules/&ConditionShieldedByFaithTitle	Protegido pela Fé
+Rules/&ConditionShieldedDescription	Classe de armadura aumenta em +5 e imunidade a mísseis mágicos.
+Rules/&ConditionShieldedTitle	Blindado
+Rules/&ConditionShockedDescription	Não pode usar reações.
+Rules/&ConditionShockedTitle	Chocado
+Rules/&ConditionSleetStormDescription	Terreno difícil; pode cair; fortemente obscurecido; deve rolar a verificação de concentração.
+Rules/&ConditionSleetStormTitle	Em tempestade de granizo
+Rules/&ConditionSlowedDescription	Velocidade reduzida pela metade; -2 para AC e DEX salvos; no máximo uma ação ou ação bônus; nenhuma reação; máximo de um ataque por turno; o lançamento de feitiços pode falhar.
+Rules/&ConditionSlowedTitle	Retardado
+Rules/&ConditionSpiderClimbDescription	Capaz de escalar como uma aranha.
+Rules/&ConditionSpiderClimbTitle	Spider Climb
+Rules/&ConditionSpiritGuardiansDescription	A velocidade é reduzida pela metade; pode sofrer danos no início de cada turno.
+Rules/&ConditionSpiritGuardiansSelfDescription	O personagem está atualmente protegido por Guardiões Espirituais.
+Rules/&ConditionSpiritGuardiansSelfTitle	Protegido por Espíritos.
+Rules/&ConditionSpiritGuardiansTitle	Alvejado por Espíritos
+Rules/&ConditionStealthyDescription	Escondendo-se ativamente.
+Rules/&ConditionStealthyTitle	Furtivo
+Rules/&ConditionStunnedDescription	Incapaz de agir ou se mover; ataques contra criaturas têm vantagem; falha automaticamente nos testes de resistência de Força e Destreza.
+Rules/&ConditionStunnedTitle	Atordoado
+Rules/&ConditionSurprisedDescription	Incapaz de agir por uma rodada.
+Rules/&ConditionSurprisedTitle	Surpreso
+Rules/&ConditionTargetedByGuidingBoltDescription	O primeiro ataque contra esta criatura tem vantagem.
+Rules/&ConditionTargetedByGuidingBoltTitle	Alvejado por parafuso guia
+Rules/&ConditionTemporaryHitPointsDescription	A criatura ganha pontos de vida temporários.
+Rules/&ConditionTemporaryHitPointsTitle	HP temporário
+Rules/&ConditionTraditionShockArcanistArcaneFuryDescription	O dano de magias de evocação aumenta por bônus de proficiência e bônus INT.
+Rules/&ConditionTraditionShockArcanistArcaneFuryTitle	Fúria Arcana
+Rules/&ConditionTrueStrikeDescription	O lançador tem vantagem em seu primeiro ataque contra o alvo do feitiço.
+Rules/&ConditionTrueStrikeTitle	True Strike
+Rules/&ConditionTurnedDescription	Deve se afastar do rodízio.
+Rules/&ConditionTurnedTitle	Transformado
+Rules/&ConditionTypeBeneficialFormat	Condição Benéfica
+Rules/&ConditionTypeDetrimentalFormat	Condição Prejudicial
+Rules/&ConditionTypeNeutralFormat	Condição neutra
+Rules/&ConditionUnconsciousDescription	Incapaz de agir até acordar.
+Rules/&ConditionUnconsciousTitle	Inconsciente
+Rules/&ConditionVampiricTouchDescription	Pode realizar um ataque de feitiço corpo a corpo vampírico a cada turno.
+Rules/&ConditionVampiricTouchTitle	Toque vampírico
+Rules/&ConditionWoundedDescription	Perdeu alguns pontos de vida.
+Rules/&ConditionWoundedTitle	Ferido
+Rules/&CostFormat	{0} {1}
+Rules/&CounterFormBreakConcentrationFormat	Provoca uma verificação de concentração.
+Rules/&CounterFormDisperseCloudFormat	Dispersa nuvens na área.
+Rules/&CounterFormDissipateSpellsFormat	Feitiço até o nível {0} dissipado automaticamente, CD {1} + nível de feitiço caso contrário.
+Rules/&CounterFormExtinguishLightFormat	Extingue as fontes de luz na área.
+Rules/&CounterFormInterruptSpellcastingFormat	Feitiço até o nível {0} anulado automaticamente, CD {1} + nível de feitiço caso contrário.
+Rules/&CounterFormRemoveDarknessFormat	Remove áreas de escuridão.
+Rules/&DamageAcidDescription	O spray corrosivo do bafo de um dragão negro e as enzimas dissolvidas secretadas por um morcela causam danos por ácido.
+Rules/&DamageAcidTitle	Ácido
+Rules/&DamageBludgeoningDescription	Ataques de força bruta - martelos, quedas, constrição e outros - causam danos por contusão.
+Rules/&DamageBludgeoningTitle	Espancamento
+Rules/&DamageColdDescription	O frio infernal que irradia de uma lança do demônio de gelo e a explosão gelada do hálito de um dragão branco causam danos de frio.
+Rules/&DamageColdTitle	Resfriado
+Rules/&DamageFireDescription	Dragões vermelhos soltam fogo e muitos feitiços conjuram chamas para causar dano de fogo.
+Rules/&DamageFireTitle	Incêndio
+Rules/&DamageForceDescription	Força é pura energia mágica concentrada em uma forma prejudicial. A maioria dos efeitos que causam dano de força são feitiços, incluindo mísseis mágicos e armas espirituais.
+Rules/&DamageForceTitle	Força
+Rules/&DamageFormFormat	{0} {1} {2} {3} danos {4}
+Rules/&DamageFormTightFormat	{0} {1} {2} {3} dmg {4}
+Rules/&DamageLightningDescription	Um feitiço de raio e um sopro de dragão azul causam dano de raio.
+Rules/&DamageLightningTitle	Relâmpago
+Rules/&DamageNecroticDescription	Dano necrótico, causado por certos mortos-vivos e feitiços como toque frio, secam matéria e até mesmo a alma.
+Rules/&DamageNecroticTitle	Necrótico
+Rules/&DamagePiercingDescription	Ataques perfurantes e empalantes, incluindo lanças e mordidas de monstros, causam dano penetrante.
+Rules/&DamagePiercingTitle	Piercing
+Rules/&DamagePoisonDescription	Picadas venenosas e o gás tóxico do hálito de um dragão verde causam dano de veneno.
+Rules/&DamagePoisonTitle	Poção
+Rules/&DamagePsychicDescription	Habilidades mentais causam dano psíquico.
+Rules/&DamagePsychicTitle	Psíquico
+Rules/&DamageRadiantDescription	O dano radiante, causado pelo feitiço de ataque de chamas de um clérigo ou pela arma de ataque de um anjo, queima a carne como fogo e sobrecarrega o espírito com poder.
+Rules/&DamageRadiantTitle	Radiante
+Rules/&DamageSlashingDescription	Espadas, machados e garras de monstros causam dano cortante.
+Rules/&DamageSlashingTitle	Cortando
+Rules/&DamageThunderDescription	Uma explosão de som concussiva, como o efeito do feitiço onda de trovão, causa dano de trovão.
+Rules/&DamageThunderTitle	Trovão
+Rules/&DamageTitle	Dano:
+Rules/&DcFormat	DC {0}
+Rules/&DieD10Title	d10
+Rules/&DieD12Title	d12
+Rules/&DieD1Title	d1
+Rules/&DieD20Title	d20
+Rules/&DieD2Title	d2
+Rules/&DieD3Title	d3
+Rules/&DieD4Title	d4
+Rules/&DieD6Title	d6
+Rules/&DieD8Title	d8
+Rules/&DivinationFormFormatIdentifyItem	Revela todas as propriedades de um item.
+Rules/&DivinationFormFormatListCreatureFamilyInLocation	Percebe a presença de tipos de criatura: {0}.
+Rules/&DivinationFormFormatRevealEntitiesBearingTags	Revela criaturas ou objetos que são {0}.
+Rules/&DurationAnyRestFormat	Até qualquer descanso
+Rules/&DurationDayPluralFormat	{0} dias
+Rules/&DurationDaySingleFormat	{0} dia
+Rules/&DurationHourPluralFormat	{0} horas
+Rules/&DurationHourSingleFormat	{0} hora
+Rules/&DurationInstantaneousFormat	Instante
+Rules/&DurationLessMinuteFormat	<1 min
+Rules/&DurationLongRestFormat	Até um longo descanso
+Rules/&DurationMinutePluralFormat	{0} minutos
+Rules/&DurationMinuteSingleFormat	{0} minuto
+Rules/&DurationNoneFormat	{0} rodada
+Rules/&DurationPermanentFormat	Permanente
+Rules/&DurationRoundPluralFormat	{0} rodadas
+Rules/&DurationRoundSingleFormat	{0} rodada
+Rules/&DurationShortRestFormat	Até um breve descanso
+Rules/&DurationUntilEndOfSourceTurnFormat	Até o final do turno do personagem fonte.
+Rules/&DurationUntilEndOfTargetTurnFormat	Até o final da vez deste personagem.
+Rules/&DurationUntilStartOfSourceTurnFormat	Até o início do turno do personagem fonte.
+Rules/&DurationUntilStartOfTargetTurnFormat	Até o início do turno deste personagem.
+Rules/&EffectRangeDistanceTitle	{0}
+Rules/&EffectRangeMeleeHitTitle	Golpe corpo a corpo
+Rules/&EffectRangeRangeHitTitle	Acerto à distância {0}
+Rules/&EffectRangeSelfTitle	Auto
+Rules/&EffectRangeTouchTitle	Toque
+Rules/&EffectTargetConeTitle	{0} {1}
+Rules/&EffectTargetCubeTitle	{0} {1}
+Rules/&EffectTargetCylinderTitle	{0} {1} x {2}
+Rules/&EffectTargetIndividualsTitle	{0} {1}
+Rules/&EffectTargetIndividualsUniqueTitle	{0} {1}
+Rules/&EffectTargetInLineOfSightWithinDistanceTitle	À vista {0}
+Rules/&EffectTargetItemTitle	Item
+Rules/&EffectTargetLineTitle	{0} {1}
+Rules/&EffectTargetPerceivingWithinDistanceTitle	{0} {1}
+Rules/&EffectTargetPositionTitle	Chão
+Rules/&EffectTargetSelfTitle	Auto
+Rules/&EffectTargetSharedAmongIndividualsTitle	{0} <> {1}
+Rules/&EffectTargetSphereTitle	{0} {1}
+Rules/&EffectTargetWallLineTitle	{0} {1} x {2}
+Rules/&EffectTargetWallRingTitle	{0} {1} x {2}
+Rules/&HealingFormFormat	{0} {1} {2} cura
+Rules/&HealingStabilize	Estabiliza uma criatura moribunda.
+Rules/&HeightFormatFeet	{0} '
+Rules/&HeightFormatFeetInches	{0} '{1} "; {0}' {1} ''; {0} '{1}"
+Rules/&HeightFormatInches	{0} "; {0} ''; {0}"
+Rules/&ItemPropertyFormFormat	No item alvo:\n{0}
+Rules/&LightSourceFormFormat	fonte de luz: {0} claro + {1} escuro
+Rules/&MaterialComponentTitle	M
+Rules/&MotionFormLevitateFormat	Levite {0}
+Rules/&MotionFormPullFormat	Puxe {0}
+Rules/&MotionFormPushFormat	Afaste-se {0}
+Rules/&MotionFormTeleportFormat	Teletransportar {0}
+Rules/&RateAtWillFormatTitle	à vontade
+Rules/&RateChannelDivinityFormatTitle	breve descanso
+Rules/&Rated6FormatTitle	em 5 ou 6 em 1d6
+Rules/&RateDawnFormatTitle	alvorecer
+Rules/&RateHealingPoolFormatTitle	piscina de cura
+Rules/&RateLongRestFormatTitle	longo descanso
+Rules/&RateNoneFormatTitle	Nenhum
+Rules/&RateOneMinuteFormatTitle	todo minuto
+Rules/&RateShortRestFormatTitle	breve descanso
+Rules/&RateSpellSlotFormatTitle	slots de feitiço
+Rules/&RecipeRequiredIngredientMultipleFormat	{0} x {1}
+Rules/&RecipeRequiredIngredientSingleFormat	{0}
+Rules/&RecipeRequiredSpellFormat	Capacidade de lançar o feitiço {0}.
+Rules/&RecipeRequiredTooltypeFormat	Proficiência com {0}
+Rules/&SaveAffinityHalfDamageTitle	(salvar para {0})
+Rules/&SaveAffinityNegateAndCancelEachTurnTitle	(salve cada vez para cancelar)
+Rules/&SaveAffinityNegateTitle	(salve para negar)
+Rules/&SituationalContextAttackerAwayFromTargetFormat	Se o invasor estiver longe do alvo:
+Rules/&SituationalContextAttackerNextToTargetFormat	Se o invasor estiver próximo ao alvo:
+Rules/&SituationalContextAttackerOnHigherGroundThanTargetFormat	Se o invasor estiver em um terreno mais alto:
+Rules/&SituationalContextConsciousAllyNextToTargetFormat	se o atacante tiver um aliado consciente próximo ao alvo:
+Rules/&SituationalContextNextToWallFormat	se a criatura estiver próxima a uma parede:
+Rules/&SituationalContextTargetIsEffectSourceFormat	se a criatura está atacando a fonte do efeito:
+Rules/&SomaticComponentTitle	S
+Rules/&SpellLevel0FormatTitle	Truque
+Rules/&SpellLevel1FormatTitle	1º nível
+Rules/&SpellLevel2FormatTitle	2º nível
+Rules/&SpellLevel3FormatTitle	3º nível
+Rules/&SpellLevel4FormatTitle	4º nível
+Rules/&SpellLevel5FormatTitle	5º nível
+Rules/&SpellLevel6FormatTitle	6º nível
+Rules/&SpellLevel7FormatTitle	7º nível
+Rules/&SpellLevel8FormatTitle	8º nível
+Rules/&SpellLevel9FormatTitle	9º nível
+Rules/&SpellSlotFormRecoverHalfLevelUpFormat	Recupere metade do seu nível de classe (arredondado para cima) de slots de feitiços até o nível {0}.
+Rules/&SummonFormCreaturesMultipleFormat	Convocar {0} (x {1}).
+Rules/&SummonFormCreaturesSingleFormat	Convocar {0}.
+Rules/&SummonFormEffectProxyFormat	Invoque "{0}" para você controlar
+Rules/&SummonFormInventoryItemsMultipleFormat	Convocar {0} (x {1}) para o inventário
+Rules/&SummonFormInventoryItemsSingleFormat	Convocar {0} para o inventário
+Rules/&TemporaryHitPointsFormFormat	{0} {1} {2} pontos de vida temporários
+Rules/&TopologyFormProjectileBlockerFormat	Bloqueia projéteis comuns (setas, parafusos, etc.)
+Rules/&TopologyFormSightBlockerFormat	Bloqueia a linha de visão
+Rules/&TurnOccurenceEndOfTurnFormat	Fim da Curva
+Rules/&TurnOccurenceEndOfTurnNoPerceptionOfSourceFormat	Fim da Curva
+Rules/&TurnOccurenceStartOfTurnFormat	Início da curva
+Rules/&VerboseComponentTitle	V
+Rules/&VersatileDamageFormFormat	\nVersátil: {0} {1} {2} {3}
+Rules/&VersatileTwoHandedTitle	Duas mãos:
+Rules/&WeightFormat	{0} {1}
+Rules/&WeightRatioFormat	{0} / {1} {2}
+Rules/&TopologyFormDifficultThroughFormat	Esta área retarda aqueles que a atravessam.
+Rules/&TopologyFormSightImpairedFormat	As criaturas nesta área não podem ver nada.
+Rules/&TopologyFormDangerousZoneFormat	Esta área machuca quem a atravessa.
+Rules/&EffectTargetCubeWithOffsetTitle	Cubo de 3 células originado de você
+Rules/&ConditionBlessingSorrtarrTitle	Bênção de Sorr-Tarr
+Rules/&ConditionBlessingSorrtarrDescription	Parece aliviar os Soraks de sua vulnerabilidade à luz.
+Rules/&ConditionAnnoyedByBeeTitle	Distraído por uma abelha irritante
+Rules/&ConditionAnnoyedByBeeDescription	Desvantagem na concentração até o próximo turno.
+Rules/&ConditionDetectPoisonAndDiseaseTitle	Detectar veneno e doença
+Rules/&ConditionDetectPoisonAndDiseaseDescription	Durante o feitiço, você pode sentir criaturas venenosas e doenças a 6 células de você.
+Rules/&ConditionCharmedByAnimalFrienshipTitle	Charmed by Animal Friendship
+Rules/&ConditionCharmedByAnimalFrienshipDescription	Esta besta ficará encantada enquanto durar o feitiço, ou até que você ou um de seus companheiros a machuque.
+Rules/&ConditionSanctuaryTitle	Santuário
+Rules/&ConditionSanctuaryDescription	Você protege uma criatura dentro do alcance contra um ataque. Até que a magia termine, qualquer criatura que tenha como alvo a criatura protegida com um ataque ou magia prejudicial deve fazer um teste de resistência de Sabedoria ou escolher outro alvo.
+Rules/&ConditionWardedBySanctuaryTitle	Protegido por Santuário
+Rules/&ConditionWardedBySanctuaryDescription	Você está protegido até o fim do feitiço ou até lançar um feitiço ou lançar um ataque.
+Rules/&ConditionProtectedFromEnergyAcidTitle	Protegido de Ácido
+Rules/&ConditionProtectedFromEnergyAcidDescription	Resistência a danos por ácido
+Rules/&ConditionProtectedFromEnergyColdTitle	Protegido do frio
+Rules/&ConditionProtectedFromEnergyColdDescription	Resistência a danos causados ​​pelo frio
+Rules/&ConditionProtectedFromEnergyFireTitle	Protegido do fogo
+Rules/&ConditionProtectedFromEnergyFireDescription	Resistência a danos de fogo
+Rules/&ConditionProtectedFromEnergyLightningTitle	Protegido contra raios
+Rules/&ConditionProtectedFromEnergyLightningDescription	Resistência a danos por raio
+Rules/&ConditionProtectedFromEnergyThunderTitle	Protegido do trovão
+Rules/&ConditionProtectedFromEnergyThunderDescription	Resistência aos danos do trovão
+Rules/&AlterationFormDissipateSpellFormat	Dissipa feitiços em objetos
+Rules/&ConditionMindControlledByConjureAnimalTitle	Animal Conjurado
+Rules/&ConditionMindControlledByConjureAnimalDescription	Este animal foi conjurado por outra criatura.
+Rules/&ConditionSilencedTitle	Silenciado
+Rules/&ConditionWardedByWardingBondTitle	Protegido por Warding Bond
+Rules/&ConditionWardedByWardingBondDescription	Temp
+Rules/&ConditionWaterWalkTitle	Water Walking
+Rules/&ConditionWaterWalkDescription	Temp
+Rules/&ConditionWaterBreathingTitle	Respiração de água
+Rules/&ConditionWaterBreathingDescription	Temp
+Rules/&ConditionRestrictedInsideMagicCircleDescription	Temp
+Rules/&ConditionProtectedInsideMagicCircleDescription	Temp
+Rules/&ConditionComprehendLanguagesTitle	Compreender idiomas
+Rules/&ConditionComprehendLanguagesDescription	Pode ler e falar qualquer idioma.
+Rules/&ConditionStaffOfMetisTitle	Equipe de Metis
+Rules/&ConditionStaffOfMetisDescription	Resistência a danos por frio, fogo e relâmpago.
+Rules/&ConditionFlying6Description	A criatura alvo ganha uma velocidade de vôo de 6 células por ação de movimento.
+Rules/&AlterationFormAbilityScoreIncreaseValueFormat	Aumenta a pontuação de {0} em {1}.
+Rules/&AlterationFormAbilityScoreIncreaseMaximumFormat	Aumenta o {0} máximo em {1}.
+Rules/&ConditionHeavyArmorOverloadDescription	STR insuficiente para esta armadura pesada. A velocidade é reduzida em 2.
+Rules/&ConditionHeavyArmorOverloadTitle	Sobrecarga de armadura pesada
+Rules/&MoveModeWalkTitle	Caminhar
+Rules/&MoveModeClimbTitle	Escalar
+Rules/&MoveModeFlyTitle	Mosca
+Rules/&MoveModeIncorporealTitle	Incorpóreo
+Rules/&MoveModeSwimTitle	Nadar
+Rules/&MoveModeBurrowTitle	Toca
+Rules/&ConditionCloakOfDisplacementDescription	Ataques a esta criatura têm desvantagem, desde que ela esteja consciente e seja capaz de se mover. Deixa de funcionar até a próxima curva se danificado.
+Rules/&ConditionCloakOfDisplacementTitle	Deslocado
+Rules/&ConditionHeavilyObscuredDescription	A visão da criatura está fortemente obscurecida; desvantagem nas jogadas de ataque; jogadas de ataque contra a criatura têm desvantagem.
+Rules/&ConditionConjuredCreatureDescription	Esta criatura foi conjurada por um efeito mágico
+Rules/&ConditionConjuredCreatureTitle	Criatura Conjurada
+Rules/&ConditionBleedingDescription	As criaturas sofrem 1D6 de dano necrótico no início de seu turno
+Rules/&ConditionBleedingTitle	Doomblade Cut
+Rules/&ConditionSilencedDescription	A criatura não emite nenhum som e não pode falar ou lançar feitiços com um componente verbal
+Rules/&ConditionProtectedFromEvilDescription	Aberrações, celestiais, elementais, feys, demônios e mortos-vivos têm desvantagem para atacar o alvo e não podem enfeitiçá-lo, amedrontá-lo ou possuí-lo. Se o alvo já estiver encantado, assustado ou possuído por tal criatura, o alvo tem vantagem em qualquer novo teste de resistência contra o efeito relevante.
+Rules/&ConditionMarkedByFateDescription	Recebe dano adicional ao ser atingido.
+Rules/&ConditionMarkedByFateTitle	Marca do Destino
+Rules/&ConditionStepbackDescription	Aproveite o próximo ataque com um arco neste turno.
+Rules/&ConditionStepbackTitle	Step Back Advantage
+Rules/&ConditionInvisibleGreaterDescription	Não pode ser visto sem magia; a criatura tem vantagem nos ataques; os atacantes têm desvantagem. A criatura permanece invisível mesmo quando ataca e lança feitiços.
+Rules/&ConditionInvisibleGreaterTitle	Invisível (Maior)
+Rules/&ConditionStoneskinDescription	Resistência a danos não mágicos de golpes, cortes e perfurações.
+Rules/&ConditionStoneskinTitle	Pele de pedra
+Rules/&ConditionFrightenedPhantasmalKillerDescription	A criatura está assustada e recebe dano psíquico a cada turno até que tenha sucesso em um teste de resistência.
+Rules/&ConditionFrightenedPhantasmalKillerTitle	Assustado com Phantasm
+Rules/&ConditionFireShieldWarmDescription	Resistente ao frio e retalia com dano de fogo contra atacantes corpo a corpo.
+Rules/&ConditionFireShieldColdDescription	Resistente ao fogo e retalia com dano frio contra atacantes corpo a corpo.
+Rules/&ConditionDeathWardedTitle	Death Warded
+Rules/&ConditionDeathWardedDescription	Quando reduzido a 0 pontos de vida, o HP é definido como 1, evitando a morte instantânea por danos ou efeitos massivos.
+Rules/&ConditionConfusedTitle	Confuso
+Rules/&ConditionConfusedDescription	No início deste turno, a criatura pode se mover para longe, não agir de forma alguma, atacar corpo a corpo um alvo dentro do alcance ou agir normalmente.
+Rules/&ConditionBanishedTitle	Banido
+Rules/&ConditionBanishedDescription	A criatura é removida do jogo enquanto durar o feitiço, a menos que o feitiço seja quebrado antes disso. Se o feitiço permanecer ininterrupto por toda a sua duração, a criatura será banida permanentemente se for extraplanar (celestial, demônio, elemental).
+Rules/&SpecialBehaviourConditionDuringTurnFormat	{3} é afetado durante o turno.
+Rules/&SpecialBehaviourNoneFormat	{3} age normalmente.
+Rules/&ConditionConfusedAttackTitle	Atacando Aleatoriamente
+Rules/&ConditionConfusedAttackDescription	A criatura deve usar sua ação para atacar aleatoriamente uma criatura dentro de seu alcance, se possível.
+Rules/&ConditionConfusedMoveTitle	Movendo-se Aleatoriamente
+Rules/&ConditionConfusedMoveDescription	A criatura deve se mover em uma direção aleatória.
+Rules/&ConditionConfusedIncapacitatedTitle	Incapacitado
+Rules/&ConditionConfusedIncapacitatedDescription	A criatura não pode fazer nada devido à sua confusão.
+Rules/&ConditionFeatRaiseShieldDescription	Você recebe +3 AC até o final do turno do atacante.
+Rules/&ConditionFeatRaiseShieldTitle	Escudo Elevado
+Rules/&ConditionFeatTwinBladeDescription	Você recebe +3 AC até o final do turno do atacante.
+Rules/&ConditionFeatTwinBladeTitle	Bloco de lâmina dupla
+Rules/&DurationTurnSingleFormat	{0} vez
+Rules/&DurationTurnPluralFormat	{0} voltas
+Rules/&ConditionFeatTakeAimDescription	Seus ataques com armas de longo alcance não têm desvantagem ou vantagem, não importa as condições.
+Rules/&ConditionFeatTakeAimTitle	Tirando o alvo
+Rules/&ConditionFeatRushToBattleDescription	Sua velocidade de movimento é aumentada em 3 células e sua CA é reduzida em 2 até o início do seu turno.
+Rules/&ConditionFeatRushToBattleTitle	Correndo para a batalha
+Rules/&ConditionDispellingEvilAndGoodTitle	Dissipando o mal e o bem
+Rules/&ConditionDispellingEvilAndGoodDescription	Celestiais, elementais, feys, demônios e mortos-vivos têm desvantagem em ataques contra você. Você também pode cancelar um encantamento hostil ou dispensar uma criatura extraplanar atingida por um de seus ataques.
+Rules/&ConditionMindControlledDescription	A criatura está se juntando ao lançador controlador.
+Rules/&ConditionMindDominatedDescription	As ações da criatura são totalmente controladas pelo lançador.
+Rules/&ConditionMindDominatedTitle	Mind Dominated
+Rules/&ConditionOnAcidTitle	Queimando de ácido
+Rules/&ConditionPheromonedTitle	Fedor de feromônio
+Rules/&ConditionPheromonedDescription	-3 para verificações de habilidade CHARISMA por seis horas.
+Rules/&ConditionOnAcidDescription	Recebe 1D3 de Dano Ácido no final do seu turno por 3 turnos.
+Rules/&ActivationTypePermanentTitle	Permanente
+Rules/&MonsterSpellcastingTitle	Feitiço
+Rules/&MonsterSpellcastingDescription	A criatura tem a habilidade de lançar feitiços
+Rules/&ConditionCalmedByCalmEmotionsEnemyTitle	Inimigo Acalmado
+Rules/&ConditionCalmedByCalmEmotionsEnemyDescription	A criatura é indiferente aos inimigos, a menos que esteja ferida
+Rules/&ConditionCalmedByCalmEmotionsAllyTitle	Aliado Acalmado
+Rules/&ConditionCalmedByCalmEmotionsAllyDescription	A criatura não pode ser encantada ou assustada
+Rules/&OrientationNorthTitle	Norte
+Rules/&OrientationEastTitle	leste
+Rules/&OrientationSouthTitle	Sul
+Rules/&OrientationWestTitle	Oeste

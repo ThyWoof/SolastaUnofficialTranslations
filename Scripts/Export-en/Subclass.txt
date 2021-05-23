@@ -1,0 +1,48 @@
+Subclass/&DomainBattleDescription	The Battle domain grants powerful combat spells. Its clerics can deal damage as well as providing front-line healing.
+Subclass/&DomainBattleTitle	Battle
+Subclass/&DomainElementalColdDescription	The Elemental domain allows a cleric to become one with the elements. The ice sub-domain makes you less vulnerable to cold damage and grants you ice-based attacks.
+Subclass/&DomainElementalColdTitle	Elemental (Ice)
+Subclass/&DomainElementalFireDescription	The Elemental domain allows a cleric to become one with the elements. The fire sub-domain makes you less vulnerable to fire damage and grants you fire-based attacks.
+Subclass/&DomainElementalFireTitle	Elemental (Fire)
+Subclass/&DomainElementalLightningDescription	The Elemental domain allows a cleric to become one with the elements. The lightning sub-domain makes you less vulnerable to lightning damage and grants you lightning-based attacks.
+Subclass/&DomainElementalLightningTitle	Elemental (Lightning)
+Subclass/&DomainInsightDescription	The Insight domain focuses on learning, memory, and deduction. Those who embrace this domain are renowned for their knowledge and wisdom.
+Subclass/&DomainInsightTitle	Insight
+Subclass/&DomainLawDescription	The Law domain focuses on protecting the innocent and punishing the guilty, granting powers and spells to control and tame the unlawful.
+Subclass/&DomainLawTitle	Law
+Subclass/&DomainLifeDescription	The Life domain focuses on the vibrant positive energy - one of the fundamental forces of the universe - that sustains all life, and grants unrivaled healing abilities.
+Subclass/&DomainLifeTitle	Life
+Subclass/&DomainOblivionTitle	Oblivion
+Subclass/&DomainSunDescription	The Sun domain encompasses the powers of cleansing light and warmth of the sun itself. Clerics who embrace this domain are beacons of light in a world of darkness.
+Subclass/&DomainSunTitle	Sun
+Subclass/&MartialChampionDescription	Champions focus on the raw physical power, honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
+Subclass/&MartialChampionTitle	Champion
+Subclass/&MartialMountaineerDescription	Mountaineers are trained to fight in difficult terrain and confined spaces. They are capable skirmishers and know how to take advantage of small spaces, given the right equipment.
+Subclass/&MartialMountaineerTitle	Mountaineer
+Subclass/&MartialSpellbladeDescription	Spellblades are as skilled with arcane magic as with their weapons. This versatility is a weapon in itself, often surprising enemies who tend to think an armored fighter cannot cast spells.
+Subclass/&MartialSpellbladeTitle	Spellblade
+Subclass/&PaladinOathOfDevotionDescription	Paladins who swear the Oath of Devotion uphold the loftiest ideals of justice, virtue, and order. They act with honor in pursuit of the greater good, hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards.
+Subclass/&PaladinOathOfDevotionTitle	Oath of Devotion
+Subclass/&PaladinOathOfTheMotherlandDescription	Paladins who swear the Oath of the Motherland dedicate their lives to restoring the pre-Cataclysm world, undoing the land's decay, and bringing life back, despite its violent and volcanic nature. They reject the term "Badlands" in favor of "Motherland."
+Subclass/&PaladinOathOfTheMotherlandTitle	Oath of the Motherland
+Subclass/&PaladinOathOfTirmarDescription	Paladins who swear the Oath of Tirmar belong to an old order descended from the Tirmarian Inquisition. Obsessed with their arch-enemies, the legendary Sorr-Akkath, they conduct their rituals in the old language of Tirmar, and hold grudges from the time of the Cataclysm a thousand years ago.
+Subclass/&PaladinOathOfTirmarTitle	Oath of Tirmar
+Subclass/&RangerHunterDescription	Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face.
+Subclass/&RangerHunterTitle	Hunter
+Subclass/&RangerMarksmanDescription	Marksmen are experts with a bow, inheriting techniques developed by the elite high elven troops of the Manacalon Empire. They are among the deadliest ranged combatants on Solasta. 
+Subclass/&RangerMarksmanTitle	Marksman
+Subclass/&RangerShadowTamerDescription	Shadow Tamers are used to wandering the desolate lands beyond the Marches. They know the lore and languages of darkness and the hazards and customs of those dreadful caves inhabited by monsters.
+Subclass/&RangerShadowTamerTitle	Shadow Tamer
+Subclass/&RoguishDarkweaverDescription	Darkweavers are trained by a secret society that extends throughout the kingdoms. They have developed techniques to improve their mobility in all three dimensions, and mastered the art of poison crafting.
+Subclass/&RoguishDarkweaverTitle	Darkweaver
+Subclass/&RoguishShadowcasterDescription	Shadowcasters are trained in arcane magic as well as in roguish abilities. They are tricksters who use magic to make their moves even more unpredictable and unstoppable. Some believe they don't really exist.
+Subclass/&RoguishShadowcasterTitle	Shadowcaster
+Subclass/&RoguishThiefDescription	Thieves have honed their skills in the larcenous arts. In addition to improving their agility and stealth, they learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items they normally couldn't employ.
+Subclass/&RoguishThiefTitle	Thief
+Subclass/&TraditionGreenmageDescription	Greenmages are the heirs to the ancient traditions of the sylvan elves. They are wardens of the forest, specialized in nature magic and also reliable bowmen, trained to survive without spells if need be - as they had to in the wake of the Cataclysm.
+Subclass/&TraditionGreenmageTitle	Greenmage
+Subclass/&TraditionLoremasterDescription	Loremasters are obsessed with the lost knowledge of pre-Cataclysm times. They know the old Empire had superior magic and they long to learn more about the lost spells and rituals. Their magic is focused on gathering all possible knowledge.
+Subclass/&TraditionLoremasterTitle	Loremaster
+Subclass/&TraditionShockArcanistDescription	Shock Arcanists were the battle mages of the Manacalon Empire. Their teachings have survived the Cataclysm to become a renowned and feared magical tradition, taught in every major magic school.
+Subclass/&TraditionShockArcanistTitle	Shock Arcanist
+Subclass/&DomainOblivionDescription	The Oblivion domain shows the darker aspect of Maraike, that of the goddess of death. Clerics who choose this domain consider life and death as part of the same, greater cycle, and can use necromantic spells as well as any other.

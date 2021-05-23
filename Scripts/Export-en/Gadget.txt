@@ -1,0 +1,67 @@
+Gadget/&CampfireTitle	Campfire
+Gadget/&CampfireDescription	An interactive campfire used to start a long rest for the party
+Gadget/&ChestTitle	Chest
+Gadget/&ChestDescription	A container for loot
+Gadget/&DoubleDoorTitle	Double Door
+Gadget/&DoubleDoorDescription	A simple door to open
+Gadget/&EntranceTitle	Entrance
+Gadget/&EntranceDescription	The starting point for the party 
+Gadget/&ExitTitle	Exit
+Gadget/&ExitDescription	An exit point for the party. Can lead to another user location
+Gadget/&HiddenDoorTitle	Hidden Door
+Gadget/&HiddenDoorDescription	A door which requires a perception check to be spotted
+Gadget/&InteractiveTorchTitle	Interactive Torch
+Gadget/&InteractiveTorchDescription	A wall torch which can be dynamically lit/unlit
+Gadget/&LoreAreaTitle	Lore Area
+Gadget/&LoreAreaDescription	Stepping into this area will display a text
+Gadget/&MonsterMTitle	Monster M
+Gadget/&MonsterMDescription	Generates one medium (or smaller) monster at the gadget position
+Gadget/&MonsterLTitle	Monster L
+Gadget/&MonsterLDescription	Generates one large monster at the gadget position
+Gadget/&MonsterMMultipleTitle	Monster Multi M
+Gadget/&MonsterMMultipleDescription	Generates a number of medium (or smaller) monsters at the gadget position
+Gadget/&TrapTitle	Trap
+Gadget/&TrapDescription	A trap that is activated by stepping on the surface it occupies
+Gadget/&VirtualLoreTitle	Virtual Lore
+Gadget/&VirtualLoreDescription	An interaction displaying a lore text, which can be placed on any prop
+Gadget/&VirtualLootTitle	Virtual Loot
+Gadget/&VirtualLootDescription	A generic purpose loot interaction, which can be placed on any prop to simulate a container
+Gadget/&ParameterExplicitItemsTitle	Explicit Items
+Gadget/&ParameterLootPackTitle	Loot Pack
+Gadget/&ParameterItemListTitle	Items List
+Gadget/&ParameterParam_LockedTitle	Locked
+Gadget/&ParameterUnlock_DCTitle	Unlock DC
+Gadget/&ParameterParam_TrappedTitle	Trapped
+Gadget/&ParameterPerception_DCTitle	Perception DC
+Gadget/&ParameterDisarm_DCTitle	Disarm DC
+Gadget/&ParameterReveal_DCTitle	Reveal DC
+Gadget/&ParameterTrapEffectTitle	Trap Effect
+Gadget/&ParameterEntranceIndexTitle	Entrance Index
+Gadget/&ParameterDestinationLocationTitle	Destination Location
+Gadget/&ParameterCreatureTitle	Creature
+Gadget/&ParameterQuantityTitle	Quantity
+Gadget/&ParameterPerceptionDCTitle	Perception DC
+Gadget/&ParameterSpeechTitle	Speech
+Gadget/&ParameterEncounterGroupTitle	Encounter Group
+Gadget/&ParameterGroupIndexTitle	Group Index
+Gadget/&ParameterExplicitItemsDescription	Determines whether the content will be a predefined loot pack, or an explicit list of items
+Gadget/&ParameterLootPackDescription	A predefined list of items, some of which will be rolled randomly
+Gadget/&ParameterItemListDescription	Specify an explicit list of items that will be spawned in the container
+Gadget/&ParameterParam_LockedDescription	Determines whether this gadget is locked
+Gadget/&ParameterUnlock_DCDescription	The difficulty class to unlock this gadget
+Gadget/&ParameterParam_TrappedDescription	Determines whether this gadget is trapped
+Gadget/&ParameterPerception_DCDescription	The difficulty class to spot the trap on this gadget
+Gadget/&ParameterDisarm_DCDescription	The difficulty class to disarm the trap on this gadget
+Gadget/&ParameterReveal_DCDescription	The difficulty class to reveal this gadget
+Gadget/&ParameterTrapEffectDescription	The type of effect that impacts the affected creatures when this trap is triggered
+Gadget/&ParameterEntranceIndexDescription	A location can be entered from several entry points. This index is used to specify the entrance an exit gadget leads to
+Gadget/&ParameterDestinationLocationDescription	Destination Location
+Gadget/&ParameterCreatureDescription	The type of spawned creature
+Gadget/&ParameterQuantityDescription	The number of creatures
+Gadget/&ParameterSpeechDescription	The text that is displayed when interacting with this gadget
+Gadget/&ParameterEncounterGroupDescription	Check this to make the spawned creature part of an encounter group, triggering battles together
+Gadget/&ParameterGroupIndexDescription	Creatures with an identical group index (any number you chose) will belong to the same encounter group
+Gadget/&ParameterSavingThrowDCTitle	Saving Throw DC
+Gadget/&ParameterSavingThrowDCDescription	The difficulty class for the saving throw
+Gadget/&ParameterAddDiceTitle	Additional Dice
+Gadget/&ParameterAddDiceDescription	Increase the number of dice for this effect

@@ -1,0 +1,1138 @@
+Quest/&Abjuration_Quest_00_FirstStep	Llegaste a la ubicación de la señal de la Corona y encontraste las ruinas de un monasterio tirmariano.
+Quest/&Abjuration_Quest_01_ExploreTheRuinsDescription	Estás cerca del origen de la señal que siente el portador de la corona. Descubra de qué se trata.
+Quest/&Abjuration_Quest_01_ExploreTheRuinsTitle	Explora las ruinas
+Quest/&Abjuration_Quest_02_FollowKythaela_Outcome1Description	Mientras viajaba con Kythaela, se encontró con una ruina de Manacalon que ella recordaba, pero no es el lugar que está buscando.
+Quest/&Abjuration_Quest_02_FollowKythaelaDescription	Escolta a Kythaela a Coparann ​​y aprovecha cada oportunidad para ayudarla a recuperar sus recuerdos.
+Quest/&Abjuration_Quest_02_FollowKythaelaTitle	Encuentra el Valle del Recuerdo de Cobre
+Quest/&Abjuration_Quest_03_Ruins01Title	El oráculo
+Quest/&Abjuration_Quest_03_Ruins01Title_Outcome1Description	Visitaste un antiguo Oráculo Imperial pero no encontraste nada útil sobre la Corona, así que seguiste tu camino. Kythaela parecía muy confundida. ¿Volverá alguna vez a su antiguo yo?
+Quest/&Abjuration_Quest_03_Ruins01TitleDescription	Mientras viajaba con Kythaela, encontró las ruinas de un oráculo de Manacalon. Parecía recordar el lugar. Búscalo para obtener información sobre la Corona, pero ten cuidado, ya que los orcos parecen haberse asentado cerca.
+Quest/&Abjuration_Quest_03_Ruins02Title	La prisión
+Quest/&Abjuration_Quest_03_Ruins02Title_Outcome1Description	Visitaste otra ruina que Kythaela parecía recordar antes del Cataclismo. Luego reanudó su viaje a Coparann, esperando que ella eventualmente lo lleve a una de las gemas de la Corona.
+Quest/&Abjuration_Quest_03_Ruins02TitleDescription	Kythaela te pidió que te detuvieras en otra ruina de Manacalon, aparentemente una especie de prisión. Nuevamente, verifique si hay alguna información útil adentro.
+Quest/&Abjuration_Quest_04_ExploreCaravanTitle	Explore la zona
+Quest/&Abjuration_Quest_04_ExploreCaravanTitle_Outcome1Description	Ayudaste al maestro de caravanas Galar Goldentongue a defenderse de un par de bandidos. Ahora te ha pedido que lleves la noticia de la muerte de alguien a Coparann.
+Quest/&Abjuration_Quest_04_ExploreCaravanTitleDescription	Te cruzaste con una caravana de mercaderes, algo raro en las Marcas. Descubra quién está a cargo.
+Quest/&Abjuration_Quest_04_ReachCoparannTitle	Llega a Coparann
+Quest/&Abjuration_Quest_04_ReachCoparannTitle_Outcome1Description	A pesar de los eventos en el campamento de caravanas, tu objetivo principal sigue siendo seguir a Kythaela y descubrir si puede llevarte a una de las gemas de la Corona. Continúe hasta Coparann.
+Quest/&Abjuration_Quest_05_BringBackStuff_Outcome1Description	Le entregó las pertenencias de Roald al sargento Nikannen como le pidió Galar.
+Quest/&Abjuration_Quest_05_BringBackStuffDescription	Has traído las pertenencias del soldado muerto a Coparann. Dáselas al sargento Nikannen como pidió Galar Goldentongue.
+Quest/&Abjuration_Quest_05_BringBackStuffTitle	Devolver pertenencias
+Quest/&Abjuration_Quest_06_BringLetter_Outcome1Description	Le entregó la carta a Wilf Warmhearth como le pidió Galar.
+Quest/&Abjuration_Quest_06_BringLetterDescription	Galar Goldentongue te pidió que llevaras una carta a Wilf Warmhearth en Coparann.
+Quest/&Abjuration_Quest_06_BringLetterTitle	Entregar carta
+Quest/&Abjuration_Quest_07_TalkToTheCeannar_Outcome1Description	Te ganaste la confianza de los Ceannard y supiste que los Sorr-Akkath pueden haberse infiltrado en Coparann.
+Quest/&Abjuration_Quest_07_TalkToTheCeannarDescription	Habla con el Ceannard en Coparann.
+Quest/&Abjuration_Quest_07_TalkToTheCeannarTitle	Habla con el Ceannard
+Quest/&Abjuration_Quest_08_TalkToThePeople_Outcome1Description	Escuchaste a la camarera quejarse de que su novio la ignoraba.
+Quest/&Abjuration_Quest_08_TalkToThePeople1_Outcome1Description	Escuchaste al dueño de la taberna quejarse de que el barón ha comenzado a mantener a sus soldados alejados de la taberna.
+Quest/&Abjuration_Quest_08_TalkToThePeople1Description	Escuche, observe y averigüe si algo anda mal en Coparann. Prueba el personal de la taberna.
+Quest/&Abjuration_Quest_08_TalkToThePeople1Title	Encuentra la segunda pista
+Quest/&Abjuration_Quest_08_TalkToThePeople2_Outcome1Description	Escuchaste a un comerciante hablar de un cliente que no puede venir a recoger un anillo de bodas que ordenó porque se le asignó el servicio de guardia durante toda la semana.
+Quest/&Abjuration_Quest_08_TalkToThePeople2Description	Escuche, observe y averigüe si algo anda mal en Coparann. Prueba los comerciantes de caravanas.
+Quest/&Abjuration_Quest_08_TalkToThePeople2Title	Encuentra la tercera pista
+Quest/&Abjuration_Quest_08_TalkToThePeople3_Outcome1Description	Escuchaste a la gente del pueblo hablar sobre la reciente falta de contacto entre el barón y los Ceannard, a pesar de su estrecha amistad.
+Quest/&Abjuration_Quest_08_TalkToThePeople3Description	Escuche, observe y averigüe si algo anda mal en Coparann. Prueba a la gente del pueblo charlando alrededor del torreón.
+Quest/&Abjuration_Quest_08_TalkToThePeople3Title	Encuentra la cuarta pista
+Quest/&Abjuration_Quest_08_TalkToThePeople4_Outcome1Description	Wilf Warmhearth, el tendero, te contó una historia extraña. El barón envió a una banda de bandidos a la cárcel, en lugar de simplemente colgarlos como de costumbre.
+Quest/&Abjuration_Quest_08_TalkToThePeople4Description	Escuche, observe y averigüe si algo anda mal en Coparann. Intente hablar con el tendero.
+Quest/&Abjuration_Quest_08_TalkToThePeople4Title	Encuentra la quinta pista
+Quest/&Abjuration_Quest_08_TalkToThePeopleDescription	Escuche, observe y averigüe si algo anda mal en Coparann. Empiece por los clientes de la taberna.
+Quest/&Abjuration_Quest_08_TalkToThePeopleTitle	Encuentra la primera pista
+Quest/&Abjuration_Quest_09_TalkToNikannen2_Outcome1Description	Nikannen parece compartir sus temores y le dijo que el comportamiento del barón ha cambiado mucho últimamente.
+Quest/&Abjuration_Quest_09_TalkToNikannen2Description	Dígale al sargento lo que aprendió durante su paseo por la ciudad.
+Quest/&Abjuration_Quest_09_TalkToNikannen2Title	Encuentra al sargento Nikannen
+Quest/&Abjuration_Quest_10_TalkToTheBaron1_Outcome1Description	El barón ha rechazado la solicitud de Kythaela y lo ha amenazado.
+Quest/&Abjuration_Quest_10_TalkToTheBaron1Description	Conoce al barón y mira cómo reacciona.
+Quest/&Abjuration_Quest_10_TalkToTheBaron1Title	Conoce al barón
+Quest/&Abjuration_Quest_11_TalkToNikannen3_Outcome1Description	Nikannen está seguro de que el barón es un impostor de algún tipo.
+Quest/&Abjuration_Quest_11_TalkToNikannen3Description	Cuéntele al sargento Nikannen sobre su conversación con el barón.
+Quest/&Abjuration_Quest_11_TalkToNikannen3Title	Vuelve con el sargento Nikannen
+Quest/&Abjuration_Quest_12_WaitUntilTomorrow_Outcome1Description	Ha llegado un nuevo día. Reúnete con Nikannen en la sala del trono del barón.
+Quest/&Abjuration_Quest_12_WaitUntilTomorrowDescription	Siga el plan de Nikannen y espere hasta mañana antes de hablar con el barón. Pasa la noche en la Taberna o fuera de la ciudad si lo prefieres.
+Quest/&Abjuration_Quest_12_WaitUntilTomorrowTitle	Tomar un descanso prolongado
+Quest/&Abjuration_Quest_13_TalkToTheBaron2_Outcome1Description	Su discusión con el barón finalmente da sus frutos. Te permite buscar en el sótano del torreón.
+Quest/&Abjuration_Quest_13_TalkToTheBaron2Description	Sigue el plan de Nikannen y ve con él a ver al barón. Esta vez, dile quién eres.
+Quest/&Abjuration_Quest_13_TalkToTheBaron2Title	Ve a la sala del trono
+Quest/&Abjuration_Quest_14_GoToTheBasement_Outcome1Description	El "Barón" resultó ser un Sorak y te atrapó en el sótano de la fortaleza. ¡Lo derrotaste a él y a sus peones, y salvaste al verdadero Barón!
+Quest/&Abjuration_Quest_14_GoToTheBasementDescription	Las pertenencias de Kythaela están en el sótano del torreón. Ve allí y encuéntralos.
+Quest/&Abjuration_Quest_14_GoToTheBasementTitle	Ir al sótano
+Quest/&Abjuration_Quest_14_KillSoraks_Outcome1Description	En el sótano de la fortaleza, fuiste atacado por un grupo de Soraks, junto con algunos de sus peones. Uno de ellos había tomado la apariencia del barón Puño de Piedra, pero tú también lo mataste.
+Quest/&Abjuration_Quest_14_KillSoraksDescription	En el sótano de la fortaleza, eres atacado por lo que parece ser un barón falso y sus guardias. ¡Defiéndete!
+Quest/&Abjuration_Quest_14_KillSoraksTitle	¡Sobrevive a la emboscada!
+Quest/&Abjuration_Quest_15_FreeTheBaron_Outcome1Description	¡Has liberado al verdadero barón!
+Quest/&Abjuration_Quest_15_FreeTheBaronDescription	El verdadero barón está en algún lugar de las celdas. Sueltenlo.
+Quest/&Abjuration_Quest_15_FreeTheBaronTitle	Libera al verdadero barón
+Quest/&Abjuration_Quest_16_RetrieveKythaelaBelongings_Outcome1Description	Ha encontrado las pertenencias de Kythaela y puede continuar su viaje.
+Quest/&Abjuration_Quest_16_RetrieveKythaelaBelongingsDescription	Encuentra las pertenencias de Kythaela en el sótano.
+Quest/&Abjuration_Quest_16_RetrieveKythaelaBelongingsTitle	Encuentra las pertenencias de Kythaela
+Quest/&Abjuration_Quest_17_0_ThroneRoom_Outcome1Description	En el sótano de la fortaleza de Coparann, encontró las pertenencias de Kythaela, como esperaba. A pesar de su comportamiento algo extraño, parece ser una maga poderosa.
+Quest/&Abjuration_Quest_17_0_ThroneRoomDescription	Has logrado lo que viniste a buscar, ahora ve a ver al Ceannard en la sala del trono antes de reanudar tu búsqueda de las gemas.
+Quest/&Abjuration_Quest_17_0_ThroneRoomTitle	Ve a la sala del trono
+Quest/&Abjuration_Quest_17_FindTheGemLocation_Outcome1Description	Encontraste una antigua finca en la cima de una colina donde la gema podría estar escondida.
+Quest/&Abjuration_Quest_17_FindTheGemLocationDescription	Sigue a Kythaela y encuentra la ubicación de la gema.
+Quest/&Abjuration_Quest_17_FindTheGemLocationTitle	Sigue a Kythaela
+Quest/&Abjuration_Quest_18_EnterTheTower_Outcome1Description	Has abierto la torre, ¡pero Broods te ataca!
+Quest/&Abjuration_Quest_18_EnterTheTowerDescription	Encuentra un camino hacia la torre.
+Quest/&Abjuration_Quest_18_EnterTheTowerTitle	Entrar en la torre
+Quest/&Abjuration_Quest_19_CloseTheDoor_Outcome1Description	Entraste en la torre y cerraste la puerta. Los Broods no miran que puedan entrar, aunque una extraña niebla pasó frente a ti.
+Quest/&Abjuration_Quest_19_CloseTheDoorDescription	Cierre la puerta.
+Quest/&Abjuration_Quest_19_CloseTheDoorTitle	Cierre la puerta
+Quest/&Angbisbones	Huesos de Angbi
+Quest/&BoneKeep	Búsqueda de gemas: El castillo oscuro
+Quest/&BoneKeep_Quest_Step01__Outcome1Description	Llegaste a la ubicación de la señal de la Corona y encontraste un gran castillo allí.
+Quest/&BoneKeep_Quest_Step01_Description	Viaja al lugar que atrae al portador de la corona y busca una gema.
+Quest/&BoneKeep_Quest_Step01_Title	Sigue la intuición del Crownbearer
+Quest/&BoneKeep_Quest_Step02__Outcome1Description	Ha llegado al patio del castillo.
+Quest/&BoneKeep_Quest_Step02_Description	Encuentra un camino hacia el patio.
+Quest/&BoneKeep_Quest_Step02_Title	Entra en el patio del castillo
+Quest/&BoneKeep_Quest_Step03__Outcome1Description	Has encontrado la entrada de la Fortaleza, pero no puedes entrar.
+Quest/&BoneKeep_Quest_Step03_Description	Entra en la fortaleza y encuentra al Maestro.
+Quest/&BoneKeep_Quest_Step03_Title	Entra en la Fortaleza del Castillo
+Quest/&BoneKeep_Quest_Step04__Outcome1Description	Has encontrado un pasaje subterráneo.
+Quest/&BoneKeep_Quest_Step04_Description	Busca en el patio otra forma de entrar al torreón.
+Quest/&BoneKeep_Quest_Step04_Title	Encuentra otra forma de entrar
+Quest/&BoneKeep_Quest_Step05__Outcome1Description	Has entrado en la fortaleza.
+Quest/&BoneKeep_Quest_Step05_Description	Navega por los túneles para encontrar un camino hacia la fortaleza.
+Quest/&BoneKeep_Quest_Step05_Title	Explora los túneles
+Quest/&BoneKeep_Quest_Step06__Outcome1Description	Has encontrado una escalera oculta al siguiente piso.
+Quest/&BoneKeep_Quest_Step06_Description	Explora el laboratorio y busca al Maestro.
+Quest/&BoneKeep_Quest_Step06_Title	Llegar al siguiente piso
+Quest/&BoneKeep_Quest_Step07__Outcome1Description	Necesitas un teletransportador para llegar al siguiente piso.
+Quest/&BoneKeep_Quest_Step07_Description	Busque en la guarida y vea si el Maestro está aquí.
+Quest/&BoneKeep_Quest_Step07_Title	Localiza al maestro
+Quest/&BoneKeep_Quest_Step07A__Outcome1Description	Has encontrado una habitación con teletransportadores.
+Quest/&BoneKeep_Quest_Step07A_Description	Encuentra cómo salir del laberinto, probablemente la última línea de defensa del Maestro. Tómese su tiempo, piénselo bien y busque pistas mientras explora.
+Quest/&BoneKeep_Quest_Step07A_Title	Encuentra una forma de salir del laberinto
+Quest/&BoneKeep_Quest_Step07B__Outcome1Description	¡Has encontrado la salida del laberinto!
+Quest/&BoneKeep_Quest_Step07B__Outcome2Description	Te perdiste entre los teletransportadores.
+Quest/&BoneKeep_Quest_Step07B_Description	Siga las pistas del diario para escapar del laberinto.
+Quest/&BoneKeep_Quest_Step07B_Title	Sigue el diario del aventurero
+Quest/&BoneKeep_Quest_Step07C__Outcome1Description	¡Escapaste del laberinto del teletransportador!
+Quest/&BoneKeep_Quest_Step07C_Description	El Maestro paranoico ha creado un laberinto de teletransportadores. ¡Debes encontrar una salida!
+Quest/&BoneKeep_Quest_Step07C_Title	Encuentra una forma de salir del laberinto
+Quest/&BoneKeep_Quest_Step07D__Outcome1Description	¡Escapaste del laberinto del teletransportador!
+Quest/&BoneKeep_Quest_Step07D_Description	¡Te equivocaste de camino! ¡Es hora de reiniciar el laberinto del teletransportador!
+Quest/&BoneKeep_Quest_Step07D_Title	Perdido en la traducción
+Quest/&BoneKeep_Quest_Step08__Outcome1Description	Has encontrado al Maestro y adquirido la Gema de la nigromancia.
+Quest/&BoneKeep_Quest_Step08_Description	Pregunta al Maestro sobre la ubicación de la gema.
+Quest/&BoneKeep_Quest_Step08_Title	Encuentra al maestro y la gema
+Quest/&BoneKeep_SecondaryQuest_AngbisBones_FindBones1_Outcome1Description	Encontraste el primer grupo de huesos de Angbi.
+Quest/&BoneKeep_SecondaryQuest_AngbisBones_FindBones1Description	Encuentra el primer grupo de huesos de Angbi. Cuando los tengas todos, puedes llevar sus restos a Caer Cyflen.
+Quest/&BoneKeep_SecondaryQuest_AngbisBones_FindBones1Title	Encuentra el primer grupo
+Quest/&BoneKeep_SecondaryQuest_AngbisBones_FindBones2_Outcome1Description	Encontraste el segundo grupo de huesos de Angbi.
+Quest/&BoneKeep_SecondaryQuest_AngbisBones_FindBones2Description	Encuentra el segundo grupo de huesos de Angbi. Cuando los tengas todos, puedes llevar sus restos a Caer Cyflen.
+Quest/&BoneKeep_SecondaryQuest_AngbisBones_FindBones2Title	Encuentra el segundo grupo
+Quest/&BoneKeep_SecondaryQuest_AngbisBones_FindBones3_Outcome1Description	Encontraste el tercer grupo de huesos de Angbi.
+Quest/&BoneKeep_SecondaryQuest_AngbisBones_FindBones3Description	Encuentra el tercer grupo de huesos de Angbi. Cuando los tengas todos, puedes llevar sus restos a Caer Cyflen.
+Quest/&BoneKeep_SecondaryQuest_AngbisBones_FindBones3Title	Encuentra el tercer grupo
+Quest/&BoneKeep_SecondaryQuest_AngbisBones_ReturnBones_Outcome1Description	¡Has devuelto los huesos de Angbi a Caer Cyflen!
+Quest/&BoneKeep_SecondaryQuest_AngbisBones_ReturnBonesDescription	Has reunido todos los huesos de Angbi. Llévelos a los anticuarios de Caer Cyflen.
+Quest/&BoneKeep_SecondaryQuest_AngbisBones_ReturnBonesTitle	Devuelve los huesos de Angbi
+Quest/&Caer_Cyflen_Merton_Quest_AskAnnie_Outcome1Description	Le preguntaste a Annie sobre Arwin Merton, pero ella dijo que era un tema doloroso y que no quería hablar de él. No la presionaste.
+Quest/&Caer_Cyflen_Merton_Quest_AskAnnie_Outcome2Description	No tuviste la oportunidad de preguntarle a Annie qué sabía sobre Arwin Merton.
+Quest/&Caer_Cyflen_Merton_Quest_AskAnnieDescription	Lord Carran le dijo que Arwin Merton solía ser un carroñero y uno famoso. Pídale a Annie Bagmordah que le cuente más sobre él.
+Quest/&Caer_Cyflen_Merton_Quest_AskAnnieTitle	Pregunta a Annie sobre Merton
+Quest/&Caer_Cyflen_Merton_Quest_MainTitle	La historia de Arwin Merton
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_01_Travel2Cyflen_Description	Vuelve con Caer Cyflen e informa sobre lo sucedido.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_01_Travel2Cyflen_Outcome1Description	Ha llegado a Caer Cyflen.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_01_Travel2Cyflen_Title	Regresa a Caer Cyflen
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_02_MeetCarran_Description	Reúnete con Carran en el Barrica del Gravekeep.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_02_MeetCarran_Outcome1Description	Ha presentado su informe al Consejo.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_02_MeetCarran_Title	Reúnete con Carran
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_03_Talk2Survivors_Description	Habla con alguien que sobrevivió a Caer Lem. Averigua adónde fueron los exploradores antes de que los soraks atacaran el puesto de avanzada. Si la expedición les llamó la atención, los exploradores debieron haber encontrado un escondite. Puede encontrar más Soraks allí.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_03_Talk2Survivors_Outcome1Description	Has aprendido sobre una vieja torre en Badlands donde Soraks podría estar escondido.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_03_Talk2Survivors_Title	Habla con uno de los supervivientes de Caer Lem
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_04_Travel2TOM_Description	Te has enterado de que los exploradores de la guarnición de Caer Lem estaban explorando alrededor de una torre antigua. Su ubicación ahora está en su mapa. Ve allí e investiga: encuentra un Sorak y lleva su cabeza al Consejo como prueba de que realmente existe.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_04_Travel2TOM_Outcome1Description	Has llegado a la torre antigua.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_04_Travel2TOM_Title	Viaja a la Torre Antigua
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToBeryl_Outcome1Description	Hablaste con Beryl y ella te dijo dónde estaban los exploradores de Caer Lem antes de que los Soraks atacaran el puesto de avanzada. Era una torre en ruinas, un poco más profunda en Badlands.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToBeryl_Outcome2Description	Recordaste que a Beryl lo mataron en Caer Lem.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToBerylDescription	Encuentra a Beryl y pregúntale si sabe algo. Eche un vistazo a la embajada de Snow Alliance.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToBerylTitle	Habla con Beryl
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToDaliat_Outcome1Description	Hablaste con Daliat y te dijo dónde estaban los exploradores de Caer Lem antes de que los Soraks atacaran el puesto de avanzada. Era una torre en ruinas, un poco más adentro de las Tierras Inhóspitas.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToDaliat_Outcome2Description	Recordaste que mataste a Daliat en Caer Lem.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToDaliatDescription	Encuentra a Daliat y pregúntale si sabe algo. Eche un vistazo a Lane Ends.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToDaliatTitle	Habla con Daliat
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToRobar_Outcome1Description	Hablaste con Robar y te dijo dónde estaban los exploradores de Caer Lem antes de que los Soraks atacaran el puesto de avanzada. Era una torre en ruinas, un poco más adentro de las Tierras Inhóspitas.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToRobar_Outcome2Description	Recordaste que Robar fue asesinado en Caer Lem.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToRobarDescription	Encuentra a Robar y pregúntale si sabe algo. Eche un vistazo a Sunblaze Court.
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToRobarTitle	Habla con Robar
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_Title	Informe a Carran
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_01_MeetCarran_Description	Reúnete con Carran en el Barrica del Gravekeep.
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_01_MeetCarran_Outcome1Description	Te has reunido con Carran y has traído al jefe del Sorak al Consejo. Mientras la corona estaba siendo inspeccionada por los miembros de alto rango del Consejo, te desmayaste y te llevaron al Templo de Einar.
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_01_MeetCarran_Title	Ve a la barrica del sepulturero
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_02_ReturnToCouncil_Description	Regrese a la sala del Consejo y complete su informe.
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_02_ReturnToCouncil_Outcome1Description	Ha terminado su informe.
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_02_ReturnToCouncil_Title	Regreso al Consejo
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_03_Fight_Description	Protege a los maestros durante 3 turnos.
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_03_Fight_Outcome1Description	Tuviste una visión de una batalla épica contra los Soraks. Pero no eras tú mismo. ¿Qué significa? No tienes idea.
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_03_FightTitle	Defiende a los magos con tu vida
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_04_Convince_Description	Necesitas que el Consejo te deje ir a buscar las otras gemas de la Corona.
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_04_Convince_Outcome1Description	Has convencido al Consejo de que te deje ir con la Corona. Ahora es tu misión buscar las gemas restantes. Parece que la Corona te está enviando mensajes, que puedes sentir que te lleva a lugares específicos, muy lejos, donde crees que podrías encontrar las gemas que faltan.
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_04_Convince_Title	Convencer al consejo
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_Title	Informe al Consejo
+Quest/&Caer_Cyflen_Quest_AfterTutorial_01_MeetCouncil_Description	Se encuentra cerca del palacio y las embajadas. Dirígete hacia el norte, toma las escaleras hasta Sunblaze Court, luego toma las escaleras hacia el oeste hasta las embajadas y sigue recto para llegar al Consejo.
+Quest/&Caer_Cyflen_Quest_AfterTutorial_01_MeetCouncil_Outcome1Description	Habéis sido juramentados como diputados del Consejo.
+Quest/&Caer_Cyflen_Quest_AfterTutorial_01_MeetCouncil_Title	Conoce a Carran en el Legacy Council
+Quest/&Caer_Cyflen_Quest_AfterTutorial_02_LevelUp_Description	¡Ahora tienes suficiente experiencia para subir de nivel! Para hacerlo, debe tomar un descanso prolongado. Regrese al barrica de Gravekeep y hable con Karel, el propietario. Él le dirá cómo conseguir una habitación durante su estadía en la ciudad. Puede usar la función de viaje rápido del mapa para regresar rápidamente.
+Quest/&Caer_Cyflen_Quest_AfterTutorial_02_LevelUp_Outcome1Description	¡Has subido de nivel!
+Quest/&Caer_Cyflen_Quest_AfterTutorial_02_LevelUp_Title	Elevar a mismo nivel
+Quest/&Caer_Cyflen_Quest_AfterTutorial_03_PrepareTravel_Description	Antes de partir hacia Caer Lem, debe visitar las tiendas locales y asegurarse de tener todo lo que necesita. Tómate tu tiempo para optimizar tu equipo, pero al menos compra raciones de comida. Puedes comprar algunos en Gorim's Emporium en Market Street.
+Quest/&Caer_Cyflen_Quest_AfterTutorial_03_PrepareTravel_Outcome1Description	Has comprado algo de comida para el viaje.
+Quest/&Caer_Cyflen_Quest_AfterTutorial_03_PrepareTravel_Title	Compre algo de comida para el viaje
+Quest/&Caer_Cyflen_Quest_AfterTutorial_04_OPTIONAL_MeetScavs_Description	Annie Bagmordah, la intendente de los Carroñeros, te pidió que visitaras su cuartel general al lado del Barril del Gravekeep.
+Quest/&Caer_Cyflen_Quest_AfterTutorial_04_OPTIONAL_MeetScavs_Outcome1Description	Te han presentado a los carroñeros.
+Quest/&Caer_Cyflen_Quest_AfterTutorial_04_OPTIONAL_MeetScavs_Title	Visita la sede de los carroñeros
+Quest/&Caer_Cyflen_Quest_AfterTutorial_Title	El consejo de legado
+Quest/&Caer_Cyflen_Secondary_Quest_Visit_Hugo_MeetHugo_Outcome1Description	Has visitado la tienda de Hugo.
+Quest/&Caer_Cyflen_Secondary_Quest_Visit_Hugo_MeetHugoDescription	Es posible que desee visitar la tienda de magia de Hugo Requer.
+Quest/&Caer_Cyflen_Secondary_Quest_Visit_Hugo_MeetHugoTitle	Visita la tienda de magia de Hugo Requer
+Quest/&Caer_Cyflen_Visit_Hugo_Title	Visita la tienda de magia
+Quest/&Caer_Lem_Goblin_Cave_Quest_CleanCave_Outcome1Description	¡Has limpiado la cueva de los duendes!
+Quest/&Caer_Lem_Goblin_Cave_Quest_CleanCaveDescription	¿Sabían los soldados del puesto de avanzada de Caer Lem de este escondite de goblins? Independientemente, ¡debería eliminarse!
+Quest/&Caer_Lem_Goblin_Cave_Quest_CleanCaveTitle	Despeja la cueva de los duendes
+Quest/&Caer_Lem_Goblin_Cave_Quest_Title	Guarida de la inmundicia
+Quest/&Caer_Lem_Quest_01_ReachCaerLem_Outcome1Description	Ha llegado al puesto de avanzada de Caer Lem.
+Quest/&Caer_Lem_Quest_01_ReachCaerLemDescription	El puesto de avanzada está en las Marcas, al oeste de la capital del Principado. Sal de la ciudad y usa el mapa de viaje para llegar a Caer Lem.
+Quest/&Caer_Lem_Quest_01_ReachCaerLemTitle	Llega al puesto de avanzada
+Quest/&Caer_Lem_Quest_02_ExploreFort_Outcome1Description	¡El puesto de avanzada ha sido atacado! Algunos supervivientes se esconden en la mazmorra, temerosos y sospechosos de todos.
+Quest/&Caer_Lem_Quest_02_ExploreFortDescription	Sube la colina y explora el fuerte para encontrar la guarnición.
+Quest/&Caer_Lem_Quest_02_ExploreFortTitle	Explora el Fuerte
+Quest/&Caer_Lem_Quest_03_ReachDoor_Outcome1Description	Has contactado con éxito a los supervivientes y entraste en la mazmorra.
+Quest/&Caer_Lem_Quest_03_ReachDoorDescription	Los supervivientes están paranoicos. Ve a la puerta de la mazmorra y haz que te hablen.
+Quest/&Caer_Lem_Quest_03_ReachDoorTitle	Llega a la puerta de la mazmorra
+Quest/&Caer_Lem_Quest_04_TalkToSurvivors_Outcome1Description	Ha hablado con los supervivientes y ha descubierto que están divididos.
+Quest/&Caer_Lem_Quest_04_TalkToSurvivorsDescription	Solo cuatro soldados del Consejo sobrevivieron al ataque. Pregúnteles y descubra por qué todavía están aquí.
+Quest/&Caer_Lem_Quest_04_TalkToSurvivorsTitle	Habla con los supervivientes
+Quest/&Caer_Lem_Quest_04a_TalkToLisbath_Outcome1Description	Has hablado con Lisbath.
+Quest/&Caer_Lem_Quest_04a_TalkToLisbathDescription	Habla con Lisbath y obtén su opinión sobre la situación.
+Quest/&Caer_Lem_Quest_04a_TalkToLisbathTitle	Habla con Lisbath
+Quest/&Caer_Lem_Quest_04b_TalkToRobar_Outcome1Description	Has hablado con Robar.
+Quest/&Caer_Lem_Quest_04b_TalkToRobarDescription	Habla con Robar y obtén su visión de la situación.
+Quest/&Caer_Lem_Quest_04b_TalkToRobarTitle	Habla con Robar
+Quest/&Caer_Lem_Quest_04c_TalkToDaliat_Outcome1Description	Ha hablado con Daliat.
+Quest/&Caer_Lem_Quest_04c_TalkToDaliatDescription	Habla con Daliat y obtén su opinión sobre la situación.
+Quest/&Caer_Lem_Quest_04c_TalkToDaliatTitle	Habla con Daliat
+Quest/&Caer_Lem_Quest_05_ChooseStrategy_Outcome1Description	VACÍO
+Quest/&Caer_Lem_Quest_05_ChooseStrategyDescription	Ha hablado con los cuatro supervivientes. Ahora es el momento de decidir cómo sacarlos de la mazmorra. Puedes ordenarle a Beryl que renuncie y te deje liderar, ordenarle que entregue el mando a Robar, preguntarle a Daliat sobre su operación de exploración o presionar a Robar para que desafíe la autoridad de Beryl.
+Quest/&Caer_Lem_Quest_05_ChooseStrategyTitle	Elige una estrategia
+Quest/&Caer_Lem_Quest_05a_TalkToBeryl_Outcome1Description	Con éxito persuadiste a Beryl para que dimitiera, ¡pero entonces apareció un Sorak y mató a Robar!
+Quest/&Caer_Lem_Quest_05a_TalkToBeryl_Outcome2Description	No lograste persuadir a Beryl para que renunciara. ¡Mientras discutías, apareció un Sorak y mató a Lisbath!
+Quest/&Caer_Lem_Quest_05a_TalkToBerylDescription	Habla con Beryl y convéncela de que renuncie.
+Quest/&Caer_Lem_Quest_05a_TalkToBerylTitle	Habla con Beryl
+Quest/&Caer_Lem_Quest_05b_TalkToDaliat_Outcome1Description	Presionaste a Daliat para que te diera el objeto que encontró durante su expedición a las Tierras Inhóspitas, ¡pero entonces apareció un Sorak y mató a Robar!
+Quest/&Caer_Lem_Quest_05b_TalkToDaliat_Outcome2Description	Daliat te atacó cuando insististe en saber qué había traído de la expedición a las Tierras Inhóspitas. No te dejó otra opción que luchar, y lo mataste. ¡Justo después de eso, apareció un Sorak y mató a Lisbath!
+Quest/&Caer_Lem_Quest_05b_TalkToDaliatDescription	Habla con Daliat y pídele más detalles sobre lo que sucedió antes de que se uniera al puesto de avanzada.
+Quest/&Caer_Lem_Quest_05b_TalkToDaliatTitle	Habla con Daliat
+Quest/&Caer_Lem_Quest_05c_TalkToRobar_Outcome1Description	Con éxito persuadiste a Robar para que tomara el mando. Beryl no estaba muy feliz por eso y se alejó, ¡entonces apareció un Sorak y la mató!
+Quest/&Caer_Lem_Quest_05c_TalkToRobar_Outcome2Description	Robar se negó a tomar el mando. ¡Mientras intentabas convencerlo, apareció un Sorak y mató a Lisbath!
+Quest/&Caer_Lem_Quest_05c_TalkToRobarDescription	Habla con Robar y convéncelo para que tome el mando.
+Quest/&Caer_Lem_Quest_05c_TalkToRobarTitle	Habla con Robar
+Quest/&Caer_Lem_Quest_06_EscapeCaerLem_Outcome1Description	¡Has escapado de Caer Lem y los Soraks!
+Quest/&Caer_Lem_Quest_06_EscapeCaerLemDescription	Has encontrado un pasaje secreto que conduce a la montaña. ¡Tómalo y escapa de los Soraks! ¡Tus nuevos compañeros deben sobrevivir a toda costa!
+Quest/&Caer_Lem_Quest_06_EscapeCaerLemTitle	Escape de las Cuevas
+Quest/&Caer_Lem_Quest_07_ReturnToCaerCyflen_Outcome1Description	Regresaste a Caer Cyflen.
+Quest/&Caer_Lem_Quest_07_ReturnToCaerCyflenDescription	Vuelve con Caer Cyflen y cuéntale al Consejo lo que has encontrado.
+Quest/&Caer_Lem_Quest_07_ReturnToCaerCyflenTitle	Regreso a Caer Cyflen
+Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_ReportToAnnie_Outcome1Description	Le dijiste a Annie lo que le pasó a Henrik. Ella se alegró de que lo hicieras, a pesar de que eran malas noticias.
+Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_ReportToAnnieDescription	Desafortunadamente, no tienes buenas noticias para los carroñeros con respecto a su plan de establecer un puesto de avanzada en Caer Lem. Vuelve con Annie Bagmordah y cuéntale sobre el destino de Henrik.
+Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_ReportToAnnieTitle	Informar a Annie
+Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrik_Outcome1Description	Se enteró de que Henrik fue asesinado en Caer Lem y no queda nadie para negociar con los carroñeros.
+Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrikDescription	Annie Bagmordah, la intendente de los carroñeros, te pidió que hablaras con el capitán Henrik en su nombre para obtener la autorización para construir un campamento de carroñeros en el puesto de avanzada de Caer Lem. Trae de vuelta la respuesta de Henrik.
+Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrikTitle	Habla con el Capitán Henrik
+Quest/&Caer_Lem_Title	Caer Lem
+Quest/&Caravan_Quest_01_TheRuins_Outcome1Description	Mientras investigaba el área, se encontró con una caravana de mercaderes acampada cerca de las ruinas.
+Quest/&Caravan_Quest_01_TheRuinsDescription	De camino a Coparann, encontró algunas ruinas intrigantes.
+Quest/&Caravan_Quest_01_TheRuinsTitle	Investigar el área
+Quest/&Caravan_Quest_02_TheCaravan_Outcome1Description	Sorprendiste y mataste a dos soldados que tenían la intención de asesinar a un guardia herido y conociste al maestro de caravanas Galar Goldentongue.
+Quest/&Caravan_Quest_02_TheCaravanDescription	Te has encontrado con una caravana de comerciantes. Conoce a su gente.
+Quest/&Caravan_Quest_02_TheCaravanTitle	Conoce a la tripulación de la caravana
+Quest/&Caravan_Quest_03_BringTheLetter_Outcome1Description	Has conocido al contacto del Maestro Galar.
+Quest/&Caravan_Quest_03_BringTheLetterDescription	Lleve la carta al dueño de la tienda general en el asentamiento minero de Coparann ​​en las Marcas.
+Quest/&Caravan_Quest_03_BringTheLetterTitle	Lleva la carta a Coparann
+Quest/&Caravan_Quest_04_BringPersonalEffects_Outcome1Description	Conociste al sargento Nikannen.
+Quest/&Caravan_Quest_04_BringPersonalEffectsDescription	Lleve los efectos personales del guardia al sargento Nikannen en Coparann.
+Quest/&Caravan_Quest_04_BringPersonalEffectsTitle	Entrega efectos personales
+Quest/&Caravan_Quest_05_TalkToTheCeannar_Outcome1Description	Te has ganado la confianza de los Ceannard y te has enterado de que es posible que los Sorr-Akkath se hayan infiltrado en Coparann.
+Quest/&Caravan_Quest_05_TalkToTheCeannarDescription	Habla con el Ceannard en Coparann
+Quest/&Caravan_Quest_05_TalkToTheCeannarTitle	Habla con el Ceannard
+Quest/&Caravan_Title	Camino a Coparann
+Quest/&Coparann_Quest_01_TalkToThePeople_Outcome1Description	Ha reunido suficiente información para saber que algo está sucediendo en Coparann.
+Quest/&Coparann_Quest_01_TalkToThePeopleDescription	Conozca a la gente de Coparann ​​y descubra más sobre la situación.
+Quest/&Coparann_Quest_01_TalkToThePeopleTitle	Conozca a la gente de Coparann
+Quest/&Coparann_Quest_02_TalkToNikannen2_Outcome1Description	Nikannen parece compartir sus temores y le dijo que el comportamiento del barón ha cambiado mucho últimamente.
+Quest/&Coparann_Quest_02_TalkToNikannen2Description	Habla con el sargento sobre la información que has reunido.
+Quest/&Coparann_Quest_02_TalkToNikannen2Title	Encuentra al sargento Nikannen
+Quest/&Coparann_Quest_03_TalkToTheBaron1_Outcome1Description	El barón ha rechazado la solicitud de Kythaela y lo ha amenazado.
+Quest/&Coparann_Quest_03_TalkToTheBaron1Description	Conoce al barón y mira cómo reacciona.
+Quest/&Coparann_Quest_03_TalkToTheBaron1Title	Conoce al barón
+Quest/&Coparann_Quest_04_TalkToNikannen3_Outcome1Description	Nikannen está seguro de que el barón es un impostor de algún tipo.
+Quest/&Coparann_Quest_04_TalkToNikannen3Description	Cuéntele al sargento Nikannen sobre su conversación con el barón.
+Quest/&Coparann_Quest_04_TalkToNikannen3Title	Vuelve con el sargento Nikannen
+Quest/&Coparann_Quest_05_WaitUntilTomorrow_Outcome1Description	Ha llegado un nuevo día. Reúnete con Nikannen en la sala del trono del barón.
+Quest/&Coparann_Quest_05_WaitUntilTomorrowDescription	Siga el plan de Nikannen y espere hasta mañana antes de hablar con el barón. Pasa la noche en la Taberna o fuera de la ciudad si lo prefieres.
+Quest/&Coparann_Quest_05_WaitUntilTomorrowTitle	Tomar un descanso prolongado
+Quest/&Coparann_Quest_06_TalkToTheBaron2_Outcome1Description	Su discusión con el barón finalmente da sus frutos. Te permite buscar en el sótano del torreón.
+Quest/&Coparann_Quest_06_TalkToTheBaron2Description	Sigue el plan de Nikannen y ve con él a ver al barón. Esta vez, dile quién eres.
+Quest/&Coparann_Quest_06_TalkToTheBaron2Title	Ve a la sala del trono
+Quest/&Coparann_Quest_07_GoToTheBasement_Outcome1Description	El "Barón" resultó ser un Sorak y te atrapó en el sótano de la fortaleza. ¡Lo derrotaste a él y a sus peones, y salvaste al verdadero Barón!
+Quest/&Coparann_Quest_07_GoToTheBasementDescription	Las pertenencias de Kythaela están en el sótano del torreón. Ve allí y encuéntralos.
+Quest/&Coparann_Quest_07_GoToTheBasementTitle	Ir al sótano
+Quest/&Coparann_Quest_08_FreeTheBaron_Outcome1Description	¡Has liberado al verdadero barón!
+Quest/&Coparann_Quest_08_FreeTheBaronDescription	El verdadero barón está en algún lugar de las celdas. Sueltenlo.
+Quest/&Coparann_Quest_08_FreeTheBaronTitle	Libera al verdadero barón
+Quest/&Coparann_Quest_09_RetrieveKythaelaBelongings_Outcome1Description	Ha encontrado las pertenencias de Kythaela y puede continuar su viaje.
+Quest/&Coparann_Quest_09_RetrieveKythaelaBelongingsDescription	Encuentra las pertenencias de Kythaela en el sótano.
+Quest/&Coparann_Quest_09_RetrieveKythaelaBelongingsTitle	Encuentra las pertenencias de Kythaela
+Quest/&Coparann_Title	Coparann
+Quest/&CradleOfFire_Quest_EscapeEruption_Outcome1Description	Has encontrado una Puerta Imperial y escapaste del volcán.
+Quest/&CradleOfFire_Quest_EscapeEruptionDescription	¡Antes de morir, Arrok usó todo su poder para desencadenar una erupción! ¡Encuentra una salida antes de que sea demasiado tarde!
+Quest/&CradleOfFire_Quest_EscapeEruptionTitle	¡Escapa del volcán en erupción!
+Quest/&Cradle_Of_Fire_Quest_01_ExploreArea_Outcome1Description	Has encontrado las secuelas de una batalla y un chamán orco superviviente.
+Quest/&Cradle_Of_Fire_Quest_01_ExploreAreaDescription	Mire alrededor del área volcánica en busca de pistas hacia la ubicación de la gema.
+Quest/&Cradle_Of_Fire_Quest_ExploreAreaTitle	Explore los alrededores del volcán
+Quest/&CradleOfFire_Quest_FaceArrok_Outcome1Description	Finalmente has encontrado a Arrok. Quítale la gema.
+Quest/&CradleOfFire_Quest_FaceArrokDescription	Encuentra una manera de enfrentarte al chamán orco Arrok. Puede que tenga una de las gemas de la Corona.
+Quest/&CradleOfFire_Quest_FaceArrokTitle	Cara Arrok
+Quest/&CradleOfFire_Quest_FreeBrok_Outcome1Description	Entraste al volcán pero te enfrentas a una puerta vigilada.
+Quest/&CradleOfFire_Quest_FreeBrokDescription	Brok, el jefe de la tribu Suncloud, es el prisionero de Arrok. Puede estar en algún lugar de la zona del mercado, expuesto como trofeo de guerra. Sálvalo y gana la confianza de Kebra.
+Quest/&CradleOfFire_Quest_FreeBrokTitle	Brok libre
+Quest/&CradleOfFire_Quest_GoToNecropolis_Outcome1Description	¡Has encontrado la llave de Sentharyllian ... en el ataúd de un emperador Manacalon no muerto!
+Quest/&CradleOfFire_Quest_GoToNecropolis_Outcome2Description	Has encontrado una forma de llegar a Arrok sin la alianza de Brok.
+Quest/&CradleOfFire_Quest_GoToNecropolisDescription	Urka, el chamán Sandraven, te pide que traigas la llave de la ciudad imperial perdida que se encuentra debajo del volcán. Ve a la necrópolis y encuentra la llave en la tumba más rica que hay.
+Quest/&CradleOfFire_Quest_GoToNecropolisTitle	Recupera la llave de Sentharyllian
+Quest/&CradleOfFire_Quest_KillUrka_Outcome1Description	¡Has aprendido que Urka era en realidad un agente de Sorak!
+Quest/&CradleOfFire_Quest_KillUrkaDescription	Has encontrado la llave de Sentharyllian como quería Urka, ¡pero te ha traicionado! ¡Mátalo a él y a sus orcos Sandraven!
+Quest/&CradleOfFire_Quest_KillUrkaTitle	Derrota a Urka
+Quest/&CradleOfFire_Quest_MeetAtRescarGate_Outcome1Description	Te has unido a la alianza.
+Quest/&CradleOfFire_Quest_MeetAtRescarGateDescription	Has unido a las tribus orcas y Brok está listo para desafiar a Arrok. Ve a Redscar Gate y conoce a los líderes orcos mientras se preparan para enfrentarse a Arrok.
+Quest/&CradleOfFire_Quest_MeetAtRescarGateTitle	Únete a la Alianza en Redscar Gate
+Quest/&Cradle_Of_Fire_Quest_00_ReachTheVolcano_Outcome1Description	Has llegado al volcán.
+Quest/&Cradle_Of_Fire_Quest_00_ReachTheVolcanoDescription	La Corona ha concedido una visión de un gran volcán en medio de las Tierras Inhóspitas. Será un viaje largo y peligroso, pero probablemente conducirá a una de las gemas de la Corona.
+Quest/&Cradle_Of_Fire_Quest_00_ReachTheVolcanoTitle	Llegar al volcán
+Quest/&CradleOfFire_Quest_RecoverHolyAxe_Outcome1Description	Le has traído el hacha sagrada a Radulf. Los Bladefangs se han unido a la alianza.
+Quest/&CradleOfFire_Quest_RecoverHolyAxe_Outcome2Description	No has podido recuperar el hacha sagrada. Radulf y Bladefangs no se unirán a la alianza.
+Quest/&CradleOfFire_Quest_RecoverHolyAxeDescription	Radulf, el jefe de Bladefang, te pide que recuperes un hacha sagrada. Tendrás que encontrar y derrotar a un antiguo monstruo para recuperarlo.
+Quest/&CradleOfFire_Quest_RecoverHolyAxeTitle	Recupera el Hacha Sagrada
+Quest/&CradleOfFire_Quest_ReturnToBrok_Outcome1Description	Has convencido a Brok para que desafíe a Arrok.
+Quest/&CradleOfFire_Quest_ReturnToBrokDescription	Has hecho todo lo posible para conseguir el apoyo de todas las tribus orcas. Vuelve con Brok y dile que es hora de desafiar a Arrok.
+Quest/&CradleOfFire_Quest_ReturnToBrokTitle	Regreso a Brok
+Quest/&Cradle_Of_Fire_Quest_02_SaveTheShaman_Outcome1Description	Has aprendido que un chamán orco llamado Arrok ganó recientemente inmensos poderes mágicos, posiblemente otorgados por la gema que estás buscando. Explore las cuevas hasta encontrar este Arrok, y posiblemente la joya que busca.
+Quest/&Cradle_Of_Fire_Quest_02_SaveTheShamanDescription	Has encontrado el lugar de una batalla entre dos grupos de orcos. Salva al chamán moribundo e interrogala.
+Quest/&Cradle_Of_Fire_Quest_02_SaveTheShamanTitle	Habla con el chamán orco
+Quest/&CradleOfFire_Quest_UniteTribes_Outcome1Description	Has convencido a las tribus de orcos para que se unan contra Arrok.
+Quest/&CradleOfFire_Quest_UniteTribes_Outcome2Description	No lograste unir a las tribus orcas en apoyo del desafío de Brok contra Arrok.
+Quest/&CradleOfFire_Quest_UniteTribesDescription	Brok ha aceptado desafiar a Arrok, pero solo si lo ayudas a unir a las otras tres tribus orcas que aún se distinguen del Redscar de Arrok.
+Quest/&CradleOfFire_Quest_UniteTribesTitle	Unir a las tribus orcas
+Quest/&CradleOfFire_Quest_VisitBladefang_Outcome1Description	Ha hablado con Radulf, el jefe de Bladefang.
+Quest/&CradleOfFire_Quest_VisitBladefangDescription	Ve a la tribu Bladefang y habla con su jefe. Kebra te acompañará.
+Quest/&CradleOfFire_Quest_VisitBladefangTitle	Visita la tribu Lanza de sangre
+Quest/&Cradle_Of_Fire_Quest_09_VisitBloodspear_Outcome1Description	Ha hablado con Edrof, el jefe Lanza de Sangre.
+Quest/&Cradle_Of_Fire_Quest_09_VisitBloodspearDescription	Ve a la tribu Bloodspear y habla con su jefe. Kebra te acompañará.
+Quest/&Cradle_Of_Fire_Quest_09_VisitBloodspearTitle	Visita la tribu Lanza de sangre
+Quest/&CradleOfFire_Quest_VisitSandRaven_Outcome1Description	Has hablado con Urka, el chamán Sandraven.
+Quest/&CradleOfFire_Quest_VisitSandRavenDescription	Ve a la tribu Sandraven y habla con su chamán. Kebra te acompañará.
+Quest/&CradleOfFire_Quest_VisitSandRavenTitle	Visita la tribu Sandraven
+Quest/&CradleOfFire_Title	Gem Quest: La cuna del fuego
+Quest/&HiddenCavesExploration_FindEntrance_Outcome1Description	Viste a algunos orcos custodiando la entrada a un complejo subterráneo.
+Quest/&HiddenCavesExploration_FindEntranceDescription	Localiza la entrada de la red de cuevas.
+Quest/&HiddenCavesExploration_FindEntranceTitle	Encuentra una entrada
+Quest/&HiddenCavesExploration_GetPastGuards_Outcome1Description	Has negociado tu entrada.
+Quest/&HiddenCavesExploration_GetPastGuards_Outcome2Description	Has luchado contra los guardias.
+Quest/&HiddenCavesExploration_GetPastGuardsDescription	Lucha o habla para dejar atrás a los orcos que protegen la entrada.
+Quest/&HiddenCavesExploration_GetPastGuardsTitle	Supera a los guardias
+Quest/&HiddenCavesExploration_LocateTemple_Outcome1Description	Ha encontrado una entrada, pero está fuertemente vigilada.
+Quest/&HiddenCavesExploration_LocateTempleDescription	Explore las cuevas y encuentre una entrada al templo interior.
+Quest/&HiddenCavesExploration_LocateTempleTitle	Mapa / & Ubicación_
+Quest/&HiddenCavesExplorationTitle	Las cuevas escondidas
+Quest/&Kickstarter_Loading_Text	Para fortalecer su amistad con los carroñeros, ha aceptado ayudarlos. Runnel, uno de sus hombres, regresó herido del sitio arqueológico de Telema en Badlands. Descubra lo que sucedió y gánate la buena voluntad de los compañeros aventureros de Runnel.
+Quest/&Monastery_Title	Búsqueda de gemas: el monasterio
+Quest/&Quest_Background_Academic_AccessTheLibrary_Outcome1Description	Luchaste contra monstruos en la cueva y recuperaste suficientes libros antiguos para restaurar la confianza de los anticuarios en el maestro Dackin.
+Quest/&Quest_Background_Academic_AccessTheLibraryDescription	La cueva subterránea conduce a la parte inferior de la torre y a la biblioteca. Entra y recupera lo que puedas.
+Quest/&Quest_Background_Academic_AccessTheLibraryTitle	Accede a la biblioteca
+Quest/&Quest_Background_Academic_EnterTheTower_Outcome1Description	Junto con el maestro Dackin, has encontrado un camino hacia la torre.
+Quest/&Quest_Background_Academic_EnterTheTowerDescription	Encuentra un camino hacia la torre y entra con el maestro Dackin. Si puedes alcanzarlo, podrás soltar una cuerda para que los demás la trepen. Sin embargo, para llegar allí, es posible que deba volar o algo así.
+Quest/&Quest_Background_Academic_EnterTheTowerTitle	Entrar en la torre
+Quest/&Quest_Background_Academic_ExploreTheTower_Outcome1Description	Has encontrado una gran habitación donde la base de la torre parece haberse derrumbado.
+Quest/&Quest_Background_Academic_ExploreTheTowerDescription	Busca en la vieja torre antigüedades que puedan ayudar a restaurar la confianza de los anticuarios en el maestro Dackin.
+Quest/&Quest_Background_Academic_ExploreTheTowerTitle	Explora la Torre
+Quest/&Quest_Background_Academic_GoToCaerLem_Outcome1Description	Te has unido al maestro Dackin y estás listo para explorar la torre.
+Quest/&Quest_Background_Academic_GoToCaerLemDescription	Reúnete con el maestro Dackin en Caer Lem y explora la Torre Tirmarian
+Quest/&Quest_Background_Academic_GoToCaerLemTitle	Ir a Caer Lem
+Quest/&Quest_Background_Academic_SpeakToDackin_Outcome1Description	Te reuniste con el Maestro Dackin. Quiere que le ayudes a restaurar su carrera apoyando una expedición a Caer Lem y explorando la Torre Tirmariana.
+Quest/&Quest_Background_Academic_SpeakToDackinDescription	El Maestro Dackin del Gremio de Anticuarios desea hablar con un miembro del grupo que es un ex alumno suyo. Ve a Sunblaze Court y encuéntralo.
+Quest/&Quest_Background_Academic_SpeakToDackinTitle	Habla con el maestro Dackin
+Quest/&Quest_Background_Academic_Title	Honra a tus maestros
+Quest/&Quest_Background_Aristocrat_GoToNotaryMansion_Outcome1Description	Has llegado a la mansión, superando a una banda de asesinos en el camino. ¡Proceda con precaución!
+Quest/&Quest_Background_Aristocrat_GoToNotaryMansionDescription	El notario espera en la mansión de Tannerson, donde solo vive Adria. Conoces bien el lugar. Vaya allí y firme los papeles con el notario.
+Quest/&Quest_Background_Aristocrat_GoToNotaryMansionTitle	Ir al notario
+Quest/&Quest_Background_Aristocrat_SealTheDeal_Outcome1Description	Le diste la herencia a Adria, la única de los hijos de Tannerson que no mostró enojo hacia ti. Ella ha prometido compartir con sus hermanos.
+Quest/&Quest_Background_Aristocrat_SealTheDeal_Outcome2Description	Aprendiste que Adria, que parecía ser la más amable de los hijos de Tannerson, era en realidad una criminal peligrosa, dispuesta a matar para poder hacerse con la herencia. También puede tener vínculos con el culto secreto de Arivad.
+Quest/&Quest_Background_Aristocrat_SealTheDealDescription	Ha llegado a la mansión del notario y debe decidir qué hacer. Como era de esperar, todos los hijos de Tannerson están aquí, habiéndose enterado de tu partida de Caer Cyflen.
+Quest/&Quest_Background_Aristocrat_SealTheDealTitle	Herencia de la ira
+Quest/&Quest_Background_Aristocrat_TalkToAdria_Outcome1Description	Has hablado con Adria. No está enojada y compartiría la herencia con sus hermanos si se la dieran a ella.
+Quest/&Quest_Background_Aristocrat_TalkToAdriaDescription	Encuentra a Adria, la hija menor de Tannerson, y descubre lo que piensa del legado.
+Quest/&Quest_Background_Aristocrat_TalkToAdriaTitle	Habla con Adria
+Quest/&Quest_Background_Aristocrat_TalkToDrew_Outcome1Description	Has hablado con Drew. Obviamente está decepcionado y molesto contigo.
+Quest/&Quest_Background_Aristocrat_TalkToDrewDescription	Encuentra a Drew, el hijo de Tannerson, y averigua qué piensa del legado.
+Quest/&Quest_Background_Aristocrat_TalkToDrewTitle	Habla con Drew
+Quest/&Quest_Background_Aristocrat_TalkToLyria_Outcome1Description	Has hablado con Lyria. Ella está claramente descontenta con la situación.
+Quest/&Quest_Background_Aristocrat_TalkToLyriaDescription	Encuentra a Lyria, la hija mayor de Tannerson, y averigua qué piensa del legado.
+Quest/&Quest_Background_Aristocrat_TalkToLyriaTitle	Habla con Lyria
+Quest/&Quest_Background_Aristocrat_TalkToMayor_Outcome1Description	El alcalde Bright-Spark le pidió que cuidara de la familia de Joan Tannerson. El abogado fallecido, y su antiguo maestro, lo nombró en su testamento. Habla con sus tres hijos antes de decidir qué hacer.
+Quest/&Quest_Background_Aristocrat_TalkToMayorDescription	El alcalde Bright-Spark pidió un minuto de su tiempo mientras cruzaba Sunblaze Court.
+Quest/&Quest_Background_Aristocrat_TalkToMayorTitle	Habla con el alcalde
+Quest/&Quest_Background_Aristocrat_Title	Herencia de desconfianza
+Quest/&Quest_Background_Lawkeeper_Close1_Outcome1Description	Descubriste que el cabo Dann estaba conociendo en secreto a un amante. Caso cerrado.
+Quest/&Quest_Background_Lawkeeper_Close1Description	Sigue al cabo Dann y averigua adónde va.
+Quest/&Quest_Background_Lawkeeper_Close1Title	Sigue al cabo Dann
+Quest/&Quest_Background_Lawkeeper_Close2_Outcome1Description	Te enfrentaste a Garth cuando parecía estar robando una caja, pero resultó que estaba trabajando en una misión especial para la princesa. Caso cerrado.
+Quest/&Quest_Background_Lawkeeper_Close2Description	Encuentra a Garth en su puesto, en Gatehouse en Sunblaze Court. Míralo y descubre lo que está haciendo.
+Quest/&Quest_Background_Lawkeeper_Close2Title	Ir a la Corte de Sunblaze
+Quest/&Quest_Background_Lawkeeper_Close3_Outcome1Description	Resulta que Tradtsson simplemente está revendiendo alcohol élfico y no quiere que sus compañeros de la embajada lo sepan. Allí no hay nada ilegal. Caso cerrado.
+Quest/&Quest_Background_Lawkeeper_Close3Description	Tradtsson le pidió que se reuniera con él en el promontorio por la noche para comprar algunos de sus productos. Esté preparado para cualquier cosa. Puede usar el banco en los jardines cercanos para esperar el anochecer.
+Quest/&Quest_Background_Lawkeeper_Close3Title	Reúnete con Tradtsson en el promontorio de noche
+Quest/&Quest_Background_Lawkeeper_Explore_Outcome1Description	Descubriste que Rodric usó un pasaje secreto cerca del Barrio del Templo. Síguelo y descubre a dónde te lleva.
+Quest/&Quest_Background_Lawkeeper_ExploreDescription	Sigue a Rodric y descubre adónde fue.
+Quest/&Quest_Background_Lawkeeper_ExploreTitle	Encuentra a Rodric
+Quest/&Quest_Background_Lawkeeper_Fight_Outcome1Description	Tenías que luchar contra Rodric y sus peones. El escondite contenía mucha información sobre él, su red y más.
+Quest/&Quest_Background_Lawkeeper_FightDescription	Encontraste el escondite donde Rodric y sus compañeros contrabandistas realizaban su operación.
+Quest/&Quest_Background_Lawkeeper_FightTitle	Lucha contra Rodric y sus peones
+Quest/&Quest_Background_Lawkeeper_MeetStig_Outcome1Description	Stig te dio una lista de guardias para investigar. Descubra lo que esconden.
+Quest/&Quest_Background_Lawkeeper_MeetStigDescription	Stig es un viejo conocido que necesita ayuda para rastrear la corrupción dentro de la guardia de la ciudad.
+Quest/&Quest_Background_Lawkeeper_MeetStigTitle	Habla con Stig
+Quest/&Quest_Background_Lawkeeper_Report_Outcome1Description	Stig le agradeció su ayuda y fue a informar de sus hallazgos al Capitán Ironshell.
+Quest/&Quest_Background_Lawkeeper_ReportDescription	Has absuelto a la mayoría de los sospechosos de Stig y has descubierto que Alrin era una traidora y contrabandista, si no peor. Informe a Stig en la entrada del Palacio.
+Quest/&Quest_Background_Lawkeeper_ReportTitle	Regresar con Stig
+Quest/&Quest_Background_Lawkeeper_Suspect1_Outcome1Description	El cabo Dann dejó su puesto. Lo seguiste.
+Quest/&Quest_Background_Lawkeeper_Suspect1Description	El cabo Dann trabaja en High Bridge. Stig lo ha visto dejar furtivamente su puesto.
+Quest/&Quest_Background_Lawkeeper_Suspect1Title	Interrogar al cabo Dann
+Quest/&Quest_Background_Lawkeeper_Suspect2_Outcome1Description	Garth se negó a hablar contigo.
+Quest/&Quest_Background_Lawkeeper_Suspect2Title	Conoce al soldado Garth
+Quest/&Quest_Background_Lawkeeper_Suspect3_Outcome1Description	Estableció una reunión secreta con Tradtsson para comprar su producto.
+Quest/&Quest_Background_Lawkeeper_Suspect3Description	Tradtsson es un guardia de la ciudad que trabaja en una operación conjunta con Snow Alliance para brindar protección a la embajada. Se rumorea que tiene un pequeño negocio paralelo. Trate de averiguar a qué se enfrenta.
+Quest/&Quest_Background_Lawkeeper_Suspect3Title	Trick Shieldguard Tradtsson
+Quest/&Quest_Background_Lawkeeper_Suspect4_Outcome1Description	El soldado Alrin se teletransportó mientras lo interrogabas.
+Quest/&Quest_Background_Lawkeeper_Suspect4Description	El soldado Alrin está publicado en la entrada del Barrio del Templo. Toma descansos frecuentes, pero no con sus compañeros. Descubra lo que hace cuando no está en su puesto.
+Quest/&Quest_Background_Lawkeeper_Suspect4Title	Observa al soldado Alrin
+Quest/&Quest_Background_Lawkeeper_Title	La ley es la ley
+Quest/&Quest_Background_Spy_Infiltrate the New Empire Embassy_Outcome1Description	¡Has entrado con éxito en la embajada!
+Quest/&Quest_Background_Spy_Infiltrate the New Empire EmbassyDescription	Encuentra la entrada secreta a la Embajada del Nuevo Imperio y entra a hurtadillas.
+Quest/&Quest_Background_Spy_Infiltrate the New Empire EmbassyTitle	Infiltrarse en la Embajada del Nuevo Imperio
+Quest/&Quest_Background_Spy_Optional_Go back to the residence_Outcome1Description	¡Has neutralizado con éxito a Lord Belmont!
+Quest/&Quest_Background_Spy_Optional_Go back to the residenceDescription	Regrese a la residencia y verifique si el documento ha llegado a los rangos superiores de la nobleza Snow Alliance.
+Quest/&Quest_Background_Spy_Optional_Go back to the residenceTitle	Regreso a la Residencia
+Quest/&Quest_Background_Spy_Optional_GoToTavernDaliat_Title	Reúnete con Daliat en la taberna
+Quest/&Quest_Background_Spy_Optional_Killtraitors_Outcome1Description	¡Has eliminado a los enemigos de Daliat! Encuéntrelo en la Taberna.
+Quest/&Quest_Background_Spy_Optional_KilltraitorsDescription	Has aceptado eliminar a algunos de los enemigos de Daliat a cambio de su ayuda con Belmont. ¡Ve al escondite de los traidores y sácalos!
+Quest/&Quest_Background_Spy_Optional_KilltraitorsTitle	Mata a los traidores
+Quest/&Quest_Background_Spy_Optional_ReturnToDaliat_Outcome1Description	Has cerrado el trato con Daliat.
+Quest/&Quest_Background_Spy_Optional_ReturnToDaliatDescription	¡Has eliminado a los enemigos de Daliat! Encuéntrelo en la Taberna.
+Quest/&Quest_Background_Spy_Optional_ReturnToDaliatTitle	Informe a Daliat
+Quest/&Quest_Background_Spy_Optional_Talk to Daliat_Outcome1Description	Daliat pidió un favor a cambio de ayudarlo a lidiar con Belmont.
+Quest/&Quest_Background_Spy_Optional_Talk to DaliatDescription	Daliat podría ayudarte a deshacerte de Belmont, así que habla con él y ofrécete a hacer un trato.
+Quest/&Quest_Background_Spy_Optional_Talk to DaliatTitle	Habla con Daliat
+Quest/&Quest_Background_Spy_Plant the document_Outcome1Description	¡Has plantado con éxito el documento!
+Quest/&Quest_Background_Spy_Plant the documentDescription	Estás dentro de la Embajada del Nuevo Imperio. Coloque el documento incriminatorio sobre el escritorio del embajador y él se ocupará de la carrera de Belmont. CUIDADO: Si te detectan, ¡estás muerto! ¡Puede ser una buena idea enviar solo al miembro más sigiloso del grupo para plantar el documento!
+Quest/&Quest_Background_Spy_Plant the documentTitle	Plantar el documento
+Quest/&Quest_Background_Spy_Reconnect to your network_Outcome1Description	Se reunió con un viejo conocido y ahora tiene un plan para contrarrestar a Belmont.
+Quest/&Quest_Background_Spy_Reconnect to your networkDescription	Lord Belmont amenazó a un miembro de su partido. Vuelva a conectarse con su pasado y resuelva este problema hablando con un conocido en la Embajada de Gallivan, cerca del salón del Legacy Council.
+Quest/&Quest_Background_Spy_Reconnect to your networkTitle	Ir a la Embajada de Gallivan
+Quest/&Quest_Background_Spy_Title	Sombra del pasado
+Quest/&Scavengers_Henrik_Quest_Title	Transmitir el mensaje de los carroñeros
+Quest/&Telema_SecondaryQuest_OpenDoorDescription	Has encontrado una vieja puerta mágica que parece imposible de abrir. Encuentra la llave que la abre en las ruinas de Telema.
+Quest/&Telema_SecondaryQuest_OpenDoorOutcome	Héctor tenía una vieja llave imperial que podría abrir la puerta mágica. ¡Intentalo!
+Quest/&Telema_SecondaryQuest_OpenDoorTitle	Abre la puerta mágica
+Quest/&Telema_SecondaryQuest_Title	La puerta mágica
+Quest/&Telema_SecondaryQuest_UseKey_Outcome1Description	Abriste la antigua biblioteca y encontraste información valiosa sobre el Imperio Manacalon.
+Quest/&Telema_SecondaryQuest_UseKeyDescription	Héctor tiene una vieja llave imperial que podría abrir la puerta mágica. ¡Vuelve a la entrada de las ruinas y pruébalo!
+Quest/&Telema_SecondaryQuest_UseKeyTitle	Regreso a la puerta
+Quest/&TelemaLevel_Quest_CheckRoomTitle	Ver el campamento de orcos
+Quest/&TelemaLevel_Quest_ClimbDown_Outcome1Description	Has encontrado una nueva área y aún no hay señales de Héctor.
+Quest/&TelemaLevel_Quest_ClimbDownDescription	Encuentra una manera de bajar por las ruinas hasta que encuentres un rastro de Héctor.
+Quest/&TelemaLevel_Quest_ClimbDownTitle	Desciende a las Cuevas
+Quest/&TelemaLevel_Quest_ClimbUp_Outcome1Description	No has tenido tiempo de llegar a la cima del anfiteatro. Has sido atacado por arañas profundas.
+Quest/&TelemaLevel_Quest_ClimbUpDescription	Llegaste al fondo de un antiguo anfiteatro imperial. Encuentra una manera de subir y salir. Use la luz contra las arañas profundas que pueden estar deambulando.
+Quest/&TelemaLevel_Quest_ClimbUpTitle	Sube al anfiteatro
+Quest/&TelemaLevel_Quest_Collapse_Outcome1Description	Has llegado a la cima del anfiteatro y provocaste un colapso que bloqueaba el nido de arañas.
+Quest/&TelemaLevel_Quest_CollapseDescription	¡Estás bajo el ataque de innumerables arañas profundas! Usa la luz para mantenerlos alejados y corre lo más rápido que puedas para llegar a la salida de la habitación. ¡No olvides reunir a toda tu fiesta allí!
+Quest/&TelemaLevel_Quest_CollapseTitle	Escapar de las arañas
+Quest/&TelemaLevel_Quest_DealWithOrcs_Outcome1Description	No has encontrado a Héctor en el campamento de orcos.
+Quest/&TelemaLevel_Quest_DealWithOrcsDescription	Este es el campamento de orcos del que te advirtieron los carroñeros. Búscalo y averigua si Héctor está cerca. Pon a todo tu equipo en modo cauteloso para evitar que te detecten mientras estás por encima de los orcos.
+Quest/&TelemaLevel_Quest_DealWithOrcsTitle	Explorar el campamento de orcos
+Quest/&TelemaLevel_Quest_Enter_Outcome1Description	Has entrado en las ruinas de Telema, pero parece que los orcos se han adentrado mucho más en el lugar de la excavación.
+Quest/&TelemaLevel_Quest_EnterDescription	Lena y Dek han confirmado que los orcos se llevaron vivo a otro carroñero, Héctor, durante su incursión. Lo han trasladado al interior del antiguo templo. Encuentra a Héctor y llévatelo de regreso. No olvides equipar antorchas o lanzar hechizos de Luz allí.
+Quest/&TelemaLevel_Quest_EnterTitle	Entra en las ruinas
+Quest/&TelemaLevel_Quest_ExploreFurther_Outcome1Description	Las ruinas son más grandes de lo que pensabas. Bajan incluso más que el campamento de orcos.
+Quest/&TelemaLevel_Quest_ExploreFurtherDescription	Explora más las ruinas de Telema. Quizás Héctor haya sido llevado aún más profundo.
+Quest/&TelemaLevel_Quest_ExploreFurtherTitle	Explora más
+Quest/&TelemaLevel_Quest_FightDescription	¡Héctor te mintió! Sus orcos estaban esperando. ¡Debes luchar por tu vida!
+Quest/&TelemaLevel_Quest_FightOutcome	Has sobrevivido a la emboscada de los orcos y has protegido a Lena y Dek. El falso Héctor era en realidad un Sorr-Akkath con cambio de forma. Sus pertenencias personales revelaron el verdadero destino de Héctor.
+Quest/&TelemaLevel_Quest_FightTitle	Sobrevivir a la emboscada
+Quest/&TelemaLevel_Quest_FindExit_Outcome1Description	¡Has encontrado el camino de regreso a la entrada del templo de Telema!
+Quest/&TelemaLevel_Quest_FindExitDescription	Encuentra una salida de este laberinto de ruinas y devuelve a Héctor con vida.
+Quest/&TelemaLevel_Quest_FindExitTitle	Encuentra una salida
+Quest/&TelemaLevel_Quest_FindOrcs_Outcome1Description	Has encontrado un escondite subterráneo de orcos. Quizás ahí es donde tienen a Héctor.
+Quest/&TelemaLevel_Quest_FindOrcsDescription	Sigue las banderas de los orcos para encontrar a Héctor, o tómate un tiempo para explorar el área de entrada bajo tu propio riesgo.
+Quest/&TelemaLevel_Quest_FindOrcsTitle	Encuentra el campamento de orcos
+Quest/&TelemaLevel_Quest_FindScavs_Outcome1Description	Has llegado a las ruinas de Telema y hablaste con Lena y Dek, los supervivientes del grupo de los carroñeros de Runnel.
+Quest/&TelemaLevel_Quest_FindScavsDescription	Runnel, un carroñero, te ha pedido que vayas a las ruinas de Telema para ayudar a sus amigos que fueron atacados por orcos. Le debes un favor a su jefe, así que aceptaste el trabajo.
+Quest/&TelemaLevel_Quest_FindScavsTitle	Encuentra a los carroñeros
+Quest/&TelemaLevel_Quest_Rest_Outcome1Description	Ha descansado y ahora está listo para buscar una salida.
+Quest/&TelemaLevel_Quest_RestDescription	¡Has encontrado a Héctor vivo! Este es un buen momento para tomar un largo descanso, para que tú y Héctor puedan reunir fuerzas antes del final de tu viaje.
+Quest/&TelemaLevel_Quest_RestTitle	Descansar
+Quest/&TelemaLevel_Quest_ReturnDescription	Vuelve con Caer Cyflen y cuéntale a Annie lo que pasó en Telema.
+Quest/&TelemaLevel_Quest_ReturnOutcome	Le has traído la noticia a Annie. Te agradeció por aclarar el destino de Héctor y por salvar a Lena y Dek.
+Quest/&TelemaLevel_Quest_ReturnTitle	Informar a Annie
+Quest/&TelemaLevel_Quest_ReturnToScavs_Outcome1Description	Has salvado a Héctor, o quienquiera que fuera este hombre.
+Quest/&TelemaLevel_Quest_ReturnToScavsDescription	Acompaña a Héctor de regreso con sus amigos fuera del templo.
+Quest/&TelemaLevel_Quest_ReturnToScavsTitle	Regreso con los carroñeros
+Quest/&TelemaLevel_Title	En la oscuridad
+Quest/&Tirmarian_Tower_Quest_GetStuff_Outcome1Description	¡Lo hiciste!
+Quest/&Tirmarian_Tower_Quest_GetStuffDescription	Esto debe validarse una vez que posea la gema.
+Quest/&Tirmarian_Tower_Quest_GetStuffTitle	Obtén la gema de la canasta
+Quest/&Tower_Of_Magic_Quest_01_Arriving_Outcome1Description	Compruebe si es necesario o no
+Quest/&Tower_Of_Magic_Quest_01_ArrivingDescription	Compruebe si es necesario o no
+Quest/&Tower_Of_Magic_Quest_01_ArrivingTitle	Compruebe si es necesario o no
+Quest/&Tower_Of_Magic_Quest_01_TalkToWorkers_Outcome1Description	¡Los trabajadores te atacaron sin previo aviso! Estos fanáticos podrían estar vinculados a algún tipo de culto, como parecen sugerir sus tatuajes en forma de A.
+Quest/&Tower_Of_Magic_Quest_01_TalkToWorkersDescription	Has llegado a la torre misteriosa. Los trabajadores están estabilizando un túnel debajo de él. Descubra quiénes son, qué están haciendo y si están vinculados a la actividad de Sorak.
+Quest/&Tower_Of_Magic_Quest_01_TalkToWorkersTitle	Descubra lo que están haciendo los trabajadores
+Quest/&Tower_Of_Magic_Quest_02_ExporeDeeper_Outcome1Description	Entraste en la excavación y encontraste a un humano solitario que estaba dispuesto a hablar, a pesar de tener miedo. Claramente estaba bajo algún tipo de influencia malévola.
+Quest/&Tower_Of_Magic_Quest_02_ExporeDeeperDescription	Evidentemente, algo anda mal aquí. Dirígete a la excavación y ¡prepárate para cualquier cosa!
+Quest/&Tower_Of_Magic_Quest_02_ExporeDeeperTitle	Ingrese al sitio de excavación
+Quest/&Tower_Of_Magic_Quest_03_a_OpenDoor_Outcome1Description	Descubriste que la puerta está sellada mágicamente. No tienes forma de abrirlo.
+Quest/&Tower_Of_Magic_Quest_03_a_OpenDoor_Outcome2Description	Te diste cuenta de que no había necesidad de abrir la puerta sellada mágicamente, ya que la extraña habitación te permitía llegar al mismo destino.
+Quest/&Tower_Of_Magic_Quest_03_a_OpenDoorDescription	El trabajador que conoció estaba junto a una puerta, lo que podría conducir a algo importante. Comprueba lo que hay detrás.
+Quest/&Tower_Of_Magic_Quest_03_a_OpenDoorTitle	Abre la puerta
+Quest/&Tower_Of_Magic_Quest_03b_ExploreDeeper_Outcome1Description	Al seguir explorando, encontró una gran biblioteca perturbada por algún extraño fenómeno mágico.
+Quest/&Tower_Of_Magic_Quest_03b_ExploreDeeperDescription	Los trabajadores se han tomado muchas molestias para entrar en esta torre en ruinas. Descubra hasta dónde llegaron.
+Quest/&Tower_Of_Magic_Quest_03b_ExploreDeeperTitle	Continuar explorando
+Quest/&Tower_Of_Magic_Quest_04_CheckExit_Outcome1Description	Seguiste las antorchas hasta una puerta de salida que parecía ser activada por un orbe mágico, pero ... no pareció funcionar.
+Quest/&Tower_Of_Magic_Quest_04_CheckExit_Outcome2Description	No siguió las antorchas y exploró la habitación.
+Quest/&Tower_Of_Magic_Quest_04_CheckExitDescription	Las antorchas mágicas se encienden cuando te acercas. Síguelos y averigua de qué se trata.
+Quest/&Tower_Of_Magic_Quest_04_CheckExitTitle	Sigue la luz
+Quest/&Tower_Of_Magic_Quest_05_FindAWayToOpen_Outcome1Description	Llegaste a un lugar extraño en medio de la biblioteca y viste runas mágicas en el suelo.
+Quest/&Tower_Of_Magic_Quest_05_FindAWayToOpenDescription	Has llegado a una puerta enorme en esta habitación extraña, pero el sistema esférico mágico que la abre no parece estar funcionando. Mire alrededor de la habitación y encuentre una manera de abrir la puerta.
+Quest/&Tower_Of_Magic_Quest_05_FindAWayToOpenTitle	Encuentra una manera de abrir la puerta
+Quest/&Tower_Of_Magic_Quest_06_ExploreAgain_Outcome1Description	¡Has descubierto dónde se escondían los soraks!
+Quest/&Tower_Of_Magic_Quest_06_ExploreAgainDescription	Encontraste la salida a la biblioteca extraña. Sigue explorando: ¡los Soraks no pueden estar muy lejos!
+Quest/&Tower_Of_Magic_Quest_06_ExploreAgainTitle	Salir de la biblioteca
+Quest/&Tower_Of_Magic_Quest_07_KillSoraks_Outcome1Description	¡Has vencido a los Soraks! Tienes tu prueba, pero ¿cuál es el artefacto que estaban protegiendo?
+Quest/&Tower_Of_Magic_Quest_07_KillSoraksDescription	¡Has encontrado a los Soraks! Derrótalos y trae una de sus cabezas como prueba para el Consejo.
+Quest/&Tower_Of_Magic_Quest_07_KillSoraksTitle	Mata a los Soraks
+Quest/&Tower_Of_Magic_Quest_07_TakeCrown_Outcome1Description	Has tomado la corona que custodiaban los soraks.
+Quest/&Tower_Of_Magic_Quest_07_TakeCrownDescription	Los soraks estaban protegiendo algo. Inspecciona el artefacto.
+Quest/&Tower_Of_Magic_Quest_07_TakeCrownTitle	Aprovecha el artefacto
+Quest/&Tower_Of_Magic_Quest_08_BringCrownBack_Outcome1Description	Has vuelto sano y salvo a Caer Cyflen con la Corona.
+Quest/&Tower_Of_Magic_Quest_08_BringCrownBackDescription	Has completado tu misión. Los Soraks son reales y tienes pruebas. Es más, te has apoderado de algo que querían proteger. Lleva la corona al Consejo para que la examinen.
+Quest/&Tower_Of_Magic_Quest_08_BringCrownBackTitle	Trae de vuelta la corona
+Quest/&Tower_Of_Magic_Quest_Title	Explora la torre en ruinas
+Quest/&Tower_Of_Magic_Sub_Quest_CollectInfo_Outcome1Description	Ha comenzado su búsqueda de información sobre la torre.
+Quest/&Tower_Of_Magic_Sub_Quest_CollectInfoDescription	Esta torre en ruinas podría ser una mina de información sobre la era de Manacalon.
+Quest/&Tower_Of_Magic_Sub_Quest_CollectInfoTitle	Recopilar información
+Quest/&Tower_Of_Magic_Sub_Quest_Info1_Outcome1Description	Ha examinado una estatua de una elfa, posiblemente la dueña de la torre.
+Quest/&Tower_Of_Magic_Sub_Quest_Info1_Outcome2Description	Ha examinado una estatua de una elfa, pero no ha podido identificarla.
+Quest/&Tower_Of_Magic_Sub_Quest_Info1Description	Encuentra una pista sobre el posible propietario de la torre.
+Quest/&Tower_Of_Magic_Sub_Quest_Info1Title	Encuentra la primera pista
+Quest/&Tower_Of_Magic_Sub_Quest_Info2_Outcome2Description	Encontraste un antiguo libro de hechizos. Esto podría haber sido una torre de magia, donde se entrenaba a los magos aprendices.
+Quest/&Tower_Of_Magic_Sub_Quest_Info2Description	Encuentre una pista sobre el propósito de la torre durante la era de Manacalon.
+Quest/&Tower_Of_Magic_Sub_Quest_Info2Title	Encuentra la segunda pista
+Quest/&Tower_Of_Magic_Sub_Quest_Info3_Outcome2Description	Has encontrado una estatua de un ser reptil, tal vez una especie de Sorak.
+Quest/&Tower_Of_Magic_Sub_Quest_Info3_Outcome3Description	Has encontrado una estatua de un humanoide reptil, o incluso dracónico, de una especie desconocida.
+Quest/&Tower_Of_Magic_Sub_Quest_Info3Description	Encuentra alguna rareza que pueda distinguir esta torre de otras en las Tierras Inhóspitas.
+Quest/&Tower_Of_Magic_Sub_Quest_Info3Title	Encuentra la tercera pista
+Quest/&Tower_Of_Magic_Sub_Quest_Info4_Outcome2Description	Has encontrado una estatua de un elfo de aspecto importante.
+Quest/&Tower_Of_Magic_Sub_Quest_Info4_Outcome4Description	Has encontrado una estatua de un emperador Manacalon, que reinó en el momento del Cataclismo.
+Quest/&Tower_Of_Magic_Sub_Quest_Info4Description	Encuentre cualquier información que pueda sugerir cuándo esta torre estaba en uso.
+Quest/&Tower_Of_Magic_Sub_Quest_Info4Title	Encuentra la cuarta pista
+Quest/&Tower_Of_Magic_Sub_QuestTitle	Búsqueda de información
+Quest/&TravelQuest_Step1_Outcome1Description	Has entrado en el mapa del mundo
+Quest/&TravelQuest_Step1Description	Entrar en el mapa del mundo
+Quest/&TravelQuest_Step1Title	El primer viaje
+Quest/&TravelQuest_Step2_Outcome1Description	Has llegado a Caer Lem
+Quest/&TravelQuest_Step2Description	Viajar a Caer Lem
+Quest/&TravelQuest_Step2Title	Llega a Caer Lem
+Quest/&TravelQuestTitle	Búsqueda de viaje
+Quest/&Tutorial_01_Quest_Escape the call_Outcome1Description	¡Encontraste un punto débil en una pared y escapaste!
+Quest/&Tutorial_01_Quest_Escape the callDescription	Debe haber una forma de salir de esta prisión en ruinas. Los bandidos te dejaron en una celda en ruinas ... debe haber una pared débil o un agujero en alguna parte de una de las otras celdas.
+Quest/&Tutorial_01_Quest_Escape the callTitle	Encontrar una salida
+Quest/&Tutorial_01_Quest_Open the door_Outcome1Description	¡Has escapado!
+Quest/&Tutorial_01_Quest_Open the doorDescription	¡Has vencido a los bandidos! ¡Ahora abre la puerta y corre!
+Quest/&Tutorial_01_Quest_Open the doorTitle	Abre la puerta
+Quest/&Tutorial_01_Quest_Push the column_Outcome1Description	Lo hiciste ... ¡los bandidos fueron aplastados por la pared que se derrumbaba! ¡Baja, recoge tu equipo robado y sal de la prisión!
+Quest/&Tutorial_01_Quest_Push the column_Outcome2Description	¡Los bandidos te volvieron a capturar!
+Quest/&Tutorial_01_Quest_Push the columnDescription	¡Empuja la pared inestable sobre los bandidos!
+Quest/&Tutorial_01_Quest_Push the columnTitle	¡Deshazte de los bandidos!
+Quest/&Tutorial_01_Quest_QuestLog_Description	Este es tu registro de misiones. Cuando se actualice la misión, abra este panel para ver lo que debe hacer.
+Quest/&Tutorial_01_Quest_QuestLog_Title	Abra el registro de misiones
+Quest/&Tutorial_01_Quest_Reach the high ground_Outcome1Description	Has llegado a un punto alto por encima de los bandidos que te capturaron.
+Quest/&Tutorial_01_Quest_Reach the high groundDescription	Encuentra una forma de subir y salir de la cueva.
+Quest/&Tutorial_01_Quest_Reach the high groundTitle	Deja la cueva
+Quest/&Tutorial_01_Quest_Take Your Stuff_Outcome1Description	Has recuperado todas tus pertenencias.
+Quest/&Tutorial_01_Quest_Take Your StuffDescription	Los bandidos escondieron tu equipo en el cofre cerca de la salida. ¡Tomar de nuevo!
+Quest/&Tutorial_01_Quest_Take Your StuffTitle	Recupera tu equipo del cofre
+Quest/&Tutorial_01_Title	Escape de la prisión de los bandidos
+Quest/&Tutorial_02_2_Title	Cúrate a ti mismo
+Quest/&Tutorial_02_Quest_Cautious_Outcome1Description	¡Encontraste el mecanismo que abre la puerta!
+Quest/&Tutorial_02_Quest_CautiousDescription	Usa el modo cauteloso para escabullirte de los orcos y descubre cómo abrir la puerta. Si permaneces en un terreno más alto, no te verán.
+Quest/&Tutorial_02_Quest_CautiousTitle	Pasar sigilosamente a los orcos y activar el mecanismo
+Quest/&Tutorial_02_Quest_FindExit_Outcome_Description	¡Has encontrado el campamento de orcos!
+Quest/&Tutorial_02_Quest_FindExitDescription	Abre la puerta y explora más adelante. ¡Pero ten cuidado! Los orcos pueden estar por ahí.
+Quest/&Tutorial_02_Quest_FindExitTitle	Explora más
+Quest/&Tutorial_02_Quest_FindLight_Outcome1Description	¡Tienes luz!
+Quest/&Tutorial_02_Quest_FindLightDescription	¡Has caído en una cueva oscura! ¡Lanza un truco de luz o usa una antorcha para que puedas ver!
+Quest/&Tutorial_02_Quest_FindLightTitle	Ilumina tu camino
+Quest/&Tutorial_02_Quest_FindWhereYouAre_Outcome1Description	Este tótem es una señal de que estás en un lugar peligroso ... ¡ten cuidado!
+Quest/&Tutorial_02_Quest_FindWhereYouAreDescription	Examina el tótem en el centro de la habitación. Tal vez eso le dé una pista sobre dónde se encuentra.
+Quest/&Tutorial_02_Quest_FindWhereYouAreTitle	Examina el tótem
+Quest/&Tutorial_02_Quest_HealYourself_Outcome1Description	¡Estás curado!
+Quest/&Tutorial_02_Quest_HealYourself_Outcome2Description	Sobreviviste sin curarte a ti mismo.
+Quest/&Tutorial_02_Quest_HealYourselfDescription	Está gravemente herido por la caída. Encuentra una manera de recuperar puntos de golpe: lanza un hechizo de curación como curar heridas o una palabra de curación, o encuentra una poción de curación en algún lugar de la caverna.
+Quest/&Tutorial_02_Quest_HealYourselfTitle	¡Usa una poción o un hechizo para curar tus heridas!
+Quest/&Tutorial_02_Quest_LightUpTorches_Outcome1Description	¡Has encendido las antorchas!
+Quest/&Tutorial_02_Quest_LightUpTorchesDescription	Enciende las antorchas entre corchetes interactuando con ellas mientras sostienes tu propia antorcha.
+Quest/&Tutorial_02_Quest_LightUpTorchesTitle	Enciende las dos antorchas
+Quest/&Tutorial_02_Quest_OpenDoor_Outcome1Description	¡Has encontrado una rueda que abre la puerta del pasillo! ¡Ve a verlo!
+Quest/&Tutorial_02_Quest_OpenDoorDescription	Encuentra una manera de abrir la puerta del pasillo.
+Quest/&Tutorial_02_Quest_OpenDoorTitle	Abre la puerta
+Quest/&Tutorial_02_Quest_RunAway_Outcome1Description	¡Escapaste del escondite de los orcos!
+Quest/&Tutorial_02_Quest_RunAwayDescription	¡Encuentra la salida y sal de esta caverna!
+Quest/&Tutorial_02_Quest_RunAwayTitle	Escape del escondite de los orcos
+Quest/&Tutorial_02_Quest_Traverse_Outcome1Description	¡Llegaste a una cueva secreta! ¡Encontrar una salida!
+Quest/&Tutorial_02_Quest_TraverseDescription	Detrás de la puerta hay un río subterráneo. ¡Encuentra un camino a través de él!
+Quest/&Tutorial_02_Quest_TraverseTitle	Cruza el río
+Quest/&Tutorial_02_Quest_Wait_Outcome1Description	¡Los orcos se han ido! ¡Sal de aquí!
+Quest/&Tutorial_02_Quest_WaitDescription	Tómate un largo descanso para esperar hasta la noche y luego huye mientras los orcos están fuera.
+Quest/&Tutorial_02_Quest_WaitTitle	Espera a que los orcos se vayan
+Quest/&Tutorial_02_Title	Deja la cueva
+Quest/&Tutorial_03_Quest_Enter the fort_Outcome1Description	¡Has entrado en el fuerte del usurero! ¡Muévete con cautela!
+Quest/&Tutorial_03_Quest_Enter the fortDescription	Use el modo cauteloso para encontrar las pistas que conducen al punto débil en la pared. Luego ingrese al fuerte arrastrándose por el agujero si es necesario. En el camino, puedes recoger las herramientas de los ladrones que Liam dejó cerca de la pared del fuerte.
+Quest/&Tutorial_03_Quest_Enter the fortTitle	Entrar en el fuerte
+Quest/&Tutorial_03_Quest_EnterRoom_Outcome1Description	¡Has abierto la sala del tesoro!
+Quest/&Tutorial_03_Quest_EnterRoomDescription	Usa la llave del intendente o abre la cerradura.
+Quest/&Tutorial_03_Quest_EnterRoomTitle	Entra en la sala del tesoro
+Quest/&Tutorial_03_Quest_EscapeFort_Outcome1Description	¡Has salvado a Liam y recuperado la espada de su familia!
+Quest/&Tutorial_03_Quest_EscapeFort2Title	Escapar del Fuerte
+Quest/&Tutorial_03_Quest_EscapeFortDescription	Permanezca en modo cauteloso y retroceda hasta que salga por la pared del fuerte.
+Quest/&Tutorial_03_Quest_EscapeFortTitle	Escapar del Fuerte
+Quest/&Tutorial_03_Quest_Find the treasure room_Outcome1Description	¡Has desarmado la trampa del suelo!
+Quest/&Tutorial_03_Quest_Find the treasure roomDescription	Sube por la ventana y revisa el lugar en busca de trampas, manteniéndote en modo cauteloso. Desarma cualquier trampa que encuentres.
+Quest/&Tutorial_03_Quest_Find the treasure roomTitle	Encuentra la habitación del tesoro
+Quest/&Tutorial_03_Quest_GetSword_Outcome1Description	¡Has recuperado la gema de Liam! ¡Vuelve sobre tus pasos y escapa!
+Quest/&Tutorial_03_Quest_GetSwordDescription	Permanezca en modo cauteloso para detectar la trampa en el cofre, desarmarlo y abrir la cerradura. Abre el cofre y toma la espada.
+Quest/&Tutorial_03_Quest_GetSwordTitle	Consigue la gema de Liam
+Quest/&Tutorial_03_Quest_PickDoor_Outcome1Description	Has abierto la puerta.
+Quest/&Tutorial_03_Quest_PickDoorDescription	Muévete hacia la puerta cerrada y abre la cerradura. Necesitarás herramientas de ladrones para esto.
+Quest/&Tutorial_03_Quest_PickDoorTitle	Llega al siguiente patio
+Quest/&Tutorial_03_Quest_SaveLiam_Outcome1Description	¡Salvaste a Liam! Ahora deja el fuerte y encuéntrate con él afuera.
+Quest/&Tutorial_03_Quest_SaveLiam_Outcome2Description	¡No lograste salvar a Liam!
+Quest/&Tutorial_03_Quest_SaveLiamDescription	¡Liam ha sido capturado por el usurero y está luchando por su vida! ¡Utilice su posición ventajosa para disparar al usurero!
+Quest/&Tutorial_03_Quest_SaveLiamTitle	¡Mata al tiburón prestamista y salva a Liam!
+Quest/&Tutorial_03_Title	Recupera la gema robada
+Quest/&Tutorial_04_Quest_CrossBridge_Outcome1Description	¡Estás siendo atacado por un lobo de espalda gris!
+Quest/&Tutorial_04_Quest_CrossBridgeDescription	¡Has sobrevivido al ataque! ¡Ahora llega al otro lado del puente natural y sal de aquí!
+Quest/&Tutorial_04_Quest_CrossBridgeTitle	¡Llegue al otro lado del puente!
+Quest/&Tutorial_04_Quest_EscapeJackals_Outcome1Description	Estás atrapado por los lobos… ¡prepárate para luchar!
+Quest/&Tutorial_04_Quest_EscapeJackalsDescription	Corre para escapar del alcance de los lobos.
+Quest/&Tutorial_04_Quest_EscapeJackalsTitle	Escapar de los lobos
+Quest/&Tutorial_04_Quest_Fleeing_Outcome1Description	¡Estos lobos te han llevado a una emboscada!
+Quest/&Tutorial_04_Quest_FleeingDescription	¡Corre al otro lado del puente!
+Quest/&Tutorial_04_Quest_FleeingTitle	Huye de los lobos
+Quest/&Tutorial_04_Quest_GetKeyQuestTitle	La llave de la habitación del tesoro
+Quest/&Tutorial_04_Quest_KillAlphaJackal_Outcome1Description	Has sobrevivido al lobo de espalda gris.
+Quest/&Tutorial_04_Quest_KillAlphaJackalDescription	¡Este nuevo oponente es demasiado duro para ti! Desenganche y muévase inmediatamente para empujar la roca con el fin de romper el puente natural y deshacerse del lobo de espalda gris.
+Quest/&Tutorial_04_Quest_KillAlphaJackalTitle	Desconecta y empuja la roca
+Quest/&Tutorial_04_Quest_KillJackals_Outcome1Description	¡Has sobrevivido al ataque!
+Quest/&Tutorial_04_Quest_KillJackals_Outcome2Description	¡Intentaste huir de los lobos!
+Quest/&Tutorial_04_Quest_KillJackalsDescription	Derrota a los lobos por cualquier medio necesario. Usa una acción de empujón para empujarlos fuera del puente y mátalos en un turno antes de que te rodeen.
+Quest/&Tutorial_04_Quest_KillJackalsTitle	Deshazte de los lobos
+Quest/&Tutorial_04_Secondary_Quest_GetKey_Outcome1Description	Tienes la llave del intendente y ahora puedes llegar a la sala del tesoro.
+Quest/&Tutorial_04_Secondary_Quest_GetKey_Outcome2Description	Abrió la cerradura de la puerta de la sala del tesoro en lugar de robar la llave del intendente.
+Quest/&Tutorial_04_Title	Cruzar el puente
+Quest/&Caer_Lem_Quest_06_2_FightTitle	¡Lucha!
+Quest/&Caer_Lem_Quest_06_2_FightDescription	¡Defiéndete de la criatura asesina!
+Quest/&Caer_Lem_Quest_06_2_Fight_Outcome1Description	¡Fuiste atacado por un Sorak, uno real! Lo mataste y huiste con los supervivientes de la guarnición.
+Quest/&Tower_Of_Magic_Quest_01_b_FightTitle	¡Lucha!
+Quest/&Tower_Of_Magic_Quest_01_b_FightDescription	Defiéndete de los fanáticos.
+Quest/&Tower_Of_Magic_Quest_01_b_Fight_Outcome1Description	Te acercaste a la gente aparentemente pacífica, pero te atacaron con violencia desenfrenada.
+Quest/&Tower_Of_Magic_Quest_00_StartTitle	Explore la zona
+Quest/&Tower_Of_Magic_Quest_00_StartDescription	Localizaste la torre de la que te hablaron. Tenga cuidado y trate de encontrar pruebas de la existencia del Sorak.
+Quest/&Tower_Of_Magic_Quest_00_Start_Outcome1Description	Te acercaste a las ruinas y viste a un grupo de hombres y mujeres estabilizando una excavación debajo de la torre.
+Quest/&Tower_Of_Magic_Quest_05_b_RunePuzzleOutcomeDescription	Resolviste el acertijo de runas y abriste la salida de esta extraña biblioteca.
+Quest/&Tower_Of_Magic_Quest_05_b_RunePuzzleDescription	Encontraste una columna rota con las runas de las antiguas escuelas de magia de la era de Manacalon. Una runa brillante parece grabada en el suelo. Tal vez sea parte de un rompecabezas mágico para abrir la puerta de salida.
+Quest/&Tower_Of_Magic_Quest_05_b_RunePuzzleTitle	El rompecabezas de la runa
+Quest/&Tower_Of_Magic_Quest_05_FindAWayToOpen_Outcome2Description	Después de un tiempo y batallas, encuentras algo interesante.
+Quest/&Tower_Of_Magic_Quest_Rune1Title	Activar la primera runa
+Quest/&Tower_Of_Magic_Quest_Rune1Description	Encuentra y activa la runa.
+Quest/&Tower_Of_Magic_Quest_Rune1_Outcome1Description	Encontraste y activaste la runa.
+Quest/&Tower_Of_Magic_Quest_Rune2Title	Activar la segunda runa
+Quest/&Tower_Of_Magic_Quest_Rune2Description	Encuentra y activa la runa.
+Quest/&Tower_Of_Magic_Quest_Rune2_Outcome1Description	Encontraste y activaste la runa.
+Quest/&Tower_Of_Magic_Quest_Rune3Title	Activar la tercera runa
+Quest/&Tower_Of_Magic_Quest_Rune3Description	Encuentra y activa la runa.
+Quest/&Tower_Of_Magic_Quest_Rune3_Outcome1Description	Encontraste y activaste la runa.
+Quest/&Tower_Of_Magic_Quest_Rune4Title	Activar la cuarta runa
+Quest/&Tower_Of_Magic_Quest_Rune4Description	Encuentra y activa la runa.
+Quest/&Tower_Of_Magic_Quest_Rune4_Outcome1Description	Encontraste y activaste la runa.
+Quest/&Tower_Of_Magic_Quest_OrbeTitle	Activar el orbe
+Quest/&Tower_Of_Magic_Quest_OrbeDescription	Después de iluminar todas las runas, has visto aparecer un orbe mágico. Actívalo.
+Quest/&Tower_Of_Magic_Quest_Orbe_Outcome1Description	Después de iluminar todas las runas, has visto aparecer un orbe mágico. ¡Lo activaste y abriste el camino para salir de la biblioteca!
+Quest/&Abjuration_Quest_16_b_Teleporter_Outcome1Description	En la habitación secreta del sótano, cerca de las pertenencias de Kythaela, viste una magnífica puerta de alto estilo imperial. Detrás había una pequeña habitación que contenía una puerta principal, una de las que le dijeron que podría usarse para teletransportarse hasta Caer Cyflen, siempre que tuviera la palabra de comando correcta.
+Quest/&Abjuration_Quest_16_b_TeleporterDescription	En la habitación secreta del sótano, cerca de las pertenencias de Kythaela, viste una magnífica puerta de alto estilo imperial. Mira lo que hay al otro lado.
+Quest/&Abjuration_Quest_16_b_TeleporterTitle	Echa un vistazo a la puerta imperial
+Quest/&Cradle_Of_Fire_Quest_04_TalkToArbalTitle	Superar Arbal
+Quest/&Cradle_Of_Fire_Quest_04_TalkToArbalDescription	Entraste en el volcán y llegaste a una puerta custodiada por un famoso guerrero orco llamado Arbal. Ahora, necesitas pasar, y tal vez no necesites pelear.
+Quest/&Cradle_Of_Fire_Quest_04_TalkToArbal_Outcome1Description	Convenciste al guerrero Arbal para que te dejara entrar al volcán interior.
+Quest/&Cradle_Of_Fire_Quest_04_TalkToArbal_Outcome2Description	Hablaste con Arbal brevemente pero terminaste peleando con él y sus orcos.
+Quest/&Cradle_Of_Fire_Quest_06_KillRedscarOrcsTitle	Mata a los orcos Redscar
+Quest/&Cradle_Of_Fire_Quest_06_KillRedscarOrcsDescription	Entraste en el mercado de los orcos. Para liberar a Brok, debes deshacerte de los orcos que lo protegen. Los orcos de la tribu Redscar no se pueden intercambiar; trabajan para Arrok, el nuevo rey bajo el volcán.
+Quest/&Cradle_Of_Fire_Quest_06_KillRedscarOrcs_Outcome1Description	Mataste a los orcos Redscar en el mercado.
+Quest/&Cradle_Of_Fire_Quest_07_FreeBrokTitle	Brok libre
+Quest/&Cradle_Of_Fire_Quest_07_FreeBrokDescription	Ahora puedes liberar a Brok para siempre. Nadie te va a detener.
+Quest/&Cradle_Of_Fire_Quest_07_FreeBrok_Outcome1Description	Liberaste a Brok de sus guardianes Redscar.
+Quest/&Cradle_Of_Fire_Quest_08_TakeElevatorTitle	Toma el ascensor
+Quest/&Cradle_Of_Fire_Quest_08_TakeElevatorDescription	Has hecho un trato con Brok y Kebra: intentarás unir a las tres tribus orcas que aún no se han unido a Arrok contra él. Desciende al corazón del volcán y reúnete con los líderes tribales.
+Quest/&Cradle_Of_Fire_Quest_08_TakeElevator_Outcome1Description	Entraste en el corazón del volcán y comenzaste la búsqueda de una coalición de orcos poco probable contra el tirano Arrok.
+Quest/&Cradle_Of_Fire_Quest_05_FreebrokTitle	Brok libre
+Quest/&Cradle_Of_Fire_Quest_05_FreebrokDescription	Pasó la puerta y accedió a la zona del mercado. Encuentra dónde se mantiene prisionero a Brok y libéralo.
+Quest/&Cradle_Of_Fire_Quest_05_Freebrok_Outcome1Description	Llegaste a la zona del mercado donde Brok estaba prisionero.
+Quest/&Cradle_Of_Fire_Quest_00_GainBladefangSupportTitle	Obtén el apoyo de la tribu Lanza de sangre
+Quest/&Cradle_Of_Fire_Quest_00_GainBladefangSupportDescription	Te reuniste con Edrof.
+Quest/&Cradle_Of_Fire_Quest_01_ChallengeTitle	Acepta el desafío de Edrof
+Quest/&Cradle_Of_Fire_Quest_01_ChallengeDescription	Elige un personaje para luchar a muerte contra el jefe Lanza de Sangre, Edrof, en un combate ritual. Si gana, la tribu Bloodspear se unirá a la alianza de Brok. El luchador elegido puede elegir entre armas tradicionales. No habrá armadura ni lanzamiento de magia durante la pelea. Puedes mejorarte y recoger tus armas para comenzar el combate.
+Quest/&Cradle_Of_Fire_Quest_01_Challenge_Outcome1Description	Has derrotado a Edrof y la tribu Lanza de sangre se ha unido a la alianza de Brok.
+Quest/&CradleOfFire_Bladefang_Title	Alianza de orcos: Bladefang
+Quest/&Abjuration_Quest_18_FindTheGemLocation_Outcome1Description	Ha llegado al pie de una colina con una gran torre en la distancia. Este podría ser el lugar indicado.
+Quest/&Abjuration_Quest_18_FindTheGemLocationDescription	Sigue a Kythaela en su búsqueda de la ubicación de la gema.
+Quest/&Abjuration_Quest_18_FindTheGemLocationTitle	Encuentra la ubicación de la gema
+Quest/&Abjuration_Quest_19_FindTheTower_Outcome1Description	Has encontrado la entrada a una torre protegida del tiempo por una poderosa magia, pero todavía no puedes entrar.
+Quest/&Abjuration_Quest_19_FindTheTowerDescription	Explore el área alrededor de la colina para ver si este es el lugar que está buscando.
+Quest/&Abjuration_Quest_19_FindTheTowerTitle	Explore los alrededores
+Quest/&Abjuration_Quest_20_FindAPlaceToRest_Outcome1Description	Ha encontrado un lugar seguro para descansar.
+Quest/&Abjuration_Quest_20_FindAPlaceToRestDescription	Busca un lugar para descansar y hasta el anochecer.
+Quest/&Abjuration_Quest_20_FindAPlaceToRestTitle	Encuentra un lugar para descansar
+Quest/&Abjuration_Quest_21_RestUntilTheNight_Outcome1Description	Te despiertas durante la noche y ahora puedes esperar regresar a la torre.
+Quest/&Abjuration_Quest_21_RestUntilTheNightDescription	Espera o descansa hasta la noche para que la luna pueda iluminar las piedras mágicas. Puede sentarse en el banco cercano o encontrar un lugar de descanso en las cercanías.
+Quest/&Abjuration_Quest_21_RestUntilTheNightTitle	Espera la luna
+Quest/&Abjuration_Quest_22_FindAWayToEnterTheTower_Outcome1Description	Lograste abrir las puertas, pero las crías te atacaron, esperando aprovechar esta oportunidad para entrar.
+Quest/&Abjuration_Quest_22_FindAWayToEnterTheTowerDescription	Active las piedras correctas para abrir las puertas de la torre.
+Quest/&Abjuration_Quest_22_FindAWayToEnterTheTowerTitle	Encuentra una manera de entrar a la torre
+Quest/&Abjuration_Quest_23_EnterTheTower_Outcome1Description	Entraste en la torre, pero viste una extraña niebla siguiéndote. ¿Podría estar relacionado con las crías que te atacaron afuera?
+Quest/&Abjuration_Quest_23_EnterTheTowerDescription	Entra en la torre antes de que te ataquen más crías.
+Quest/&Abjuration_Quest_23_EnterTheTowerTitle	Entrar en la torre
+Quest/&Abjuration_Quest_24_FindTheMaster_Outcome1Description	Has encontrado al Maestro de Kythaela, que tiene la gema.
+Quest/&Abjuration_Quest_24_FindTheMasterDescription	Visita la torre para encontrar al maestro de Kythaela y, con suerte, una de las gemas de la Corona.
+Quest/&Abjuration_Quest_24_FindTheMasterTitle	Encuentra la gema
+Quest/&Abjuration_Quest_25_KillRazan_Outcome1Description	Razan ya no es una amenaza. Conociste a Adrasteia, maestra de abjuración, quien te confió la gema.
+Quest/&Abjuration_Quest_25_KillRazanDescription	¡Lucha contra el Profanador hasta que suceda la magia de Kythaela!
+Quest/&Abjuration_Quest_25_KillRazanTitle	Mata al profanador
+Quest/&Abjuration_Quest_02a_InspectMausoleumTitle	Inspeccionar la estructura
+Quest/&Abjuration_Quest_02a_InspectMausoleum_Outcome1Description	Descubrió un extraño conjunto de piedras que parece un mecanismo mágico, probablemente diseñado para proporcionar entrada al mausoleo.
+Quest/&Abjuration_Quest_02b_WaitFortheMoonTitle	Espera la luna
+Quest/&Abjuration_Quest_02b_WaitFortheMoonDescription	Aparentemente, necesitas que brille la luna para poder usar este dispositivo mágico. Espere hasta entonces. Puede descansar o sentarse en el banco cercano a esperar.
+Quest/&Abjuration_Quest_02b_WaitFortheMoon_Outcome1Description	Esperaste hasta que la luna estuvo en el cielo y las piedras mágicas se iluminaron. Necesitas resolver el rompecabezas mágico mientras la luna brilla sobre las piedras.
+Quest/&Abjuration_Quest_02c_SolvePuzzleTitle	Resolver el rompecabezas
+Quest/&Abjuration_Quest_02c_SolvePuzzleDescription	Encuentra una manera de abrir el mausoleo usando el rompecabezas mágico. Aprendiste que solo funciona cuando la luz de la luna brilla sobre las piedras. Si es de día, puede esperar a que pase la noche utilizando el banco cercano.
+Quest/&Abjuration_Quest_02c_SolvePuzzle_Outcome1Description	En el antiguo mausoleo, has encontrado a una elfa llamada Kythaela, que parece haber estado dormida desde antes del Cataclismo. Sus recuerdos parecen confusos, pero conoce la Corona y podría llevarte a una de las gemas.
+Quest/&Abjuration_Quest_01_ExploreTheRuins_Outcome1Description	Encontraste un mausoleo de Solastan y pensaste que necesitabas averiguar qué había dentro.
+Quest/&Abjuration_Quest_02a_InspectMausoleumDescription	Inspecciona la estructura élfica cerca del edificio Solastan; podría ser una especie de rompecabezas mágico.
+Quest/&Abjuration_Visit_Scavs_Title	Visite la sede del carroñero local
+Quest/&Abjuration_Visit_Scavs_Description	Los carroñeros ya están asentados en Coparann. Conoce al gerente local.
+Quest/&Abjuration_Visit_Scavs_Outcome	Conociste a Milan, el gerente local de los Scavengers. Aparentemente, hay muy pocos de ellos, pero es posible que te encuentres con una mujer que sea parte del negocio.
+Quest/&Scavengers_ClaimCaerLem_Quest_Title	Nuevo negocio
+Quest/&Caer_Lem_Scavengers_ClaimCaerLem_TalkToAnnieTitle	Habla con Annie
+Quest/&Caer_Lem_Scavengers_ClaimCaerLem_TalkToAnnieDescription	Ve a Annie Bagmordah y reclama Caer Lem.
+Quest/&Caer_Lem_Scavengers_ClaimCaerLem_TalkToAnnie_Outcome1Description	Comenzaste tu negocio con los carroñeros enviándolos a Caer Lem para saquear todo lo que dejaste allí.
+Quest/&Caer_Cyflen_Quest_Council03_Title	Camino de la gloria
+Quest/&Caer_Cyflen_Quest_Council03_ReturnToCyflenTitle	Regreso a Caer Cyflen
+Quest/&Caer_Cyflen_Quest_Council03_ReturnToCyflenDescription	Encontraste dos gemas de la corona. Es hora de informar al Consejo y compartir su descubrimiento.
+Quest/&Caer_Cyflen_Quest_Council03_ReturnToCyflen_Outcome1Description	Regresaste a Caer Cyflen
+Quest/&Caer_Cyflen_Quest_Council03_ReportToCouncilTitle	Ir al consejo
+Quest/&Caer_Cyflen_Quest_Council03_ReportToCouncilDescription	Vaya directamente al Salón del Consejo y haga su informe.
+Quest/&Caer_Cyflen_Quest_Council03_ReportToCouncil_Outcome1Description	El Legacy Council te pidió que continuaras tu búsqueda, aunque la Corona podría tener poderes peligrosos ya que pertenecía a Kaseinax, el Alma Eterna de las Ocho Tradiciones, el último Magister del Arcaneum, el mago más poderoso del Imperio Manacalon. Podría tener un vínculo con la Grieta y, por lo tanto, con el Cataclismo.
+Quest/&Caer_Cyflen_Merton_Quest_PatienceTitle	Los secretos de Merton
+Quest/&Caer_Cyflen_Merton_Quest_PatienceDescription	No averiguó mucho sobre Arwin Merton. Tal vez surja algo si realmente solía ser famoso.
+Quest/&Caer_Cyflen_Merton_Quest_Patience_Outcome1Description	En Coparann, finalmente escuchaste sobre Arwin Merton nuevamente cuando conociste a un misterioso semielfo llamado Bitterroot que trabajaba para los carroñeros locales. Te pidió que le trajeras a Merton un mensaje y una espada.
+Quest/&Quest_Background_Academic_SpeakToAnnieTitle	Habla con Annie
+Quest/&Quest_Background_Academic_SpeakToAnnieDescription	Annie Bagmordah te dejó un mensaje. Tienes que venir a verla por algún asunto personal.
+Quest/&Quest_Background_Academic_SpeakToAnnie_Outcome1Description	Hablaste con Annie. Aparentemente, uno de tus viejos conocidos está en la ciudad y necesita tu ayuda. Vaya a Sunblaze Court; te está esperando.
+Quest/&CradleOfFire_Bloodspear_Title	Lanza de sangre
+Quest/&Subquest_Acolyte_Quest_00_SearchMonasteryTitle	Buscar en el monasterio
+Quest/&Subquest_Acolyte_Quest_00_SearchMonasteryDescription	Las ruinas de esta zona fueron traídas de Tirmar. Reconoces las formas de los edificios religiosos de esa época. Búscalos para obtener información sobre la cultura religiosa anterior al cataclismo.
+Quest/&Subquest_Acolyte_Quest_00_SearchMonastery_Outcome1Description	Encontraste un santuario destruido y un cofre que contenía un símbolo clerical y un diario. El símbolo es tirmariano, pero parece apuntar a una deidad primordial de elementos, quizás un precursor de la adoración de Arun. Llévaselo de vuelta a Caer Cyflen.
+Quest/&Subquest_Acolyte_Quest_01_BringBackToCaerCyflenTitle	Devuelve el símbolo sagrado
+Quest/&Subquest_Acolyte_Quest_01_BringBackToCaerCyflenDescription	Vuelve con Caer Cyflen y lleva el símbolo sagrado a las autoridades religiosas para que lo analicen por expertos.
+Quest/&Subquest_Acolyte_Quest_01_BringBackToCaerCyflen_Outcome1Description	Le trajiste el símbolo a Dalon Lark, ya que era el representante religioso más neutral de la ciudad.
+Quest/&Subquest_Acolyte_Quest_01_BringBackToCaerCyflen_Outcome2Description	Le trajiste el símbolo a Rogar Ardentfire, ya que es el representante de la iglesia de Arun en la ciudad.
+Quest/&Abjuration_Quest_04_ReachCoparannTitleDescription	Finalmente llegaste a Coparann
+Quest/&Conjuration_Title	Búsqueda de gemas: La mente del maestro
+Quest/&Conjuration_Quest_01_FindYourWayToTheGemTitle	Encuentra tu camino hacia la gema
+Quest/&Conjuration_Quest_01_FindYourWayToTheGemDescription	Estás cerca del origen de la señal que siente el portador de la corona. Ábrete camino a través del bosque hasta este lugar.
+Quest/&Conjuration_Quest_01_FindYourWayToTheGem_Outcome1Description	Sorprendiste a un grupo de Soraks que desapareció dentro de un cobertizo, el lugar al que se está atrayendo al portador de la corona.
+Quest/&Conjuration_Quest_02_EnterTheShedTitle	Entrar en el cobertizo
+Quest/&Conjuration_Quest_02_EnterTheShedDescription	Los Soraks desaparecieron dentro del cobertizo. Siguelos.
+Quest/&Conjuration_Quest_02_EnterTheShed_Outcome1Description	Tocaste la gema, pero desapareció y te encontraste en un lugar completamente desconocido.
+Quest/&Conjuration_Quest_00_ReachTheForestTitle	Llega al bosque de lava
+Quest/&Conjuration_Quest_00_ReachTheForestDescription	La Corona ha otorgado una visión de un bosque en el que la lava fluye en medio de sus raíces. Probablemente conduciría a una de las gemas de la Corona.
+Quest/&Conjuration_Quest_00_ReachTheForest_Outcome1Description	Has llegado al bosque de lava.
+Quest/&Cradle_Of_Fire_Quest_01_CompleteTheChallengeTitle	Ayuda a la tribu
+Quest/&Cradle_Of_Fire_Quest_01_CompleteTheChallengeDescription	Habla con el líder de la tribu para averiguar cómo puedes ganarte su confianza.
+Quest/&Cradle_Of_Fire_Quest_01_CompleteTheChallenge_Outcome1Description	Conoces los detalles del desafío de la tribu Bladefang.
+Quest/&Cradle_Of_Fire_Quest_01_CompleteTheChallenge_Outcome2Description	Conoces los detalles del desafío de la tribu Sandraven.
+Quest/&Cradle_Of_Fire_Quest_01_CompleteTheChallenge_Outcome3Description	Conoces los detalles del desafío de la tribu.
+Quest/&Cradle_Of_Fire_Quest_10_EdrofsChallengeTitle	Luchar o perder
+Quest/&Cradle_Of_Fire_Quest_10_EdrofsChallengeDescription	Según las costumbres de los orcos, ambos luchadores deben estar desarmados y los hechizos están prohibidos, aunque se pueden utilizar otro tipo de poderes. La arena está protegida contra la magia para garantizar que no se utilicen hechizos. Cada combatiente puede elegir un conjunto de armas tradicional. Edrof nunca sorprende y siempre elige el hacha a dos manos. Elija un conjunto de armas para proceder al duelo. Si sales de la arena, perderás la batalla por la vergüenza.
+Quest/&Cradle_Of_Fire_Quest_10_EdrofsChallenge_Outcome2Description	Elegiste tu conjunto de armas.
+Quest/&Cradle_Of_Fire_Quest_10_EdrofsChallenge_Outcome1Description	Decidiste que Edrof era demasiado fuerte para vencer.
+Quest/&Cradle_Of_Fire_Quest_10_DefeatEdrofTitle	Derrota a Edrof
+Quest/&Cradle_Of_Fire_Quest_10_DefeatEdrofDescription	Esta lucha es a muerte, tienes que ganar.
+Quest/&Cradle_Of_Fire_Quest_10_DefeatEdrof_Outcome1Description	¡Derrotaste a Edrof en un combate cuerpo a cuerpo!
+Quest/&Cradle_Of_Fire_Quest_10_ForfeitDuelTitle	Perder Duelo
+Quest/&Cradle_Of_Fire_Quest_10_ForfeitDuelDescription	Edrof es demasiado fuerte, no importa esta locura.
+Quest/&Cradle_Of_Fire_Quest_10_ForfeitDuel_Outcome1Description	Decidiste que la tribu de Edrof no podía formar parte de tu alianza.
+Quest/&LegendaryQuest_Title	Templo del Dios Perdido
+Quest/&LegendaryQuest_Quest_01_SpeakToMertonTitle	Habla con Arwin Merton
+Quest/&LegendaryQuest_Quest_01_SpeakToMertonDescription	Encuentra a Arwin Merton en su ubicación habitual y pregúntale sobre el templo del Dios Perdido.
+Quest/&LegendaryQuest_Quest_01_SpeakToMerton_Outcome1Description	Hablaste con Arwin. Estuvo de acuerdo en llevarte al templo y participar en la redada. Te pidió que esperas un día para que él pueda prepararse.
+Quest/&LegendaryQuest_Quest_02_WaitOneNightTitle	Espera una noche
+Quest/&LegendaryQuest_Quest_02_WaitOneNightDescription	Regrese más tarde para ver a Arwin en el barrica de Gravekeep. Lo más sencillo es coger una habitación, pero puedes pasar la noche donde quieras.
+Quest/&LegendaryQuest_Quest_02_WaitOneNight_Outcome1Description	Le diste a Arwin suficiente tiempo para prepararse. Ve a buscarlo cerca de la chimenea en Gravekeep's Cask.
+Quest/&LegendaryQuest_Quest_03_TalkToMertonTitle	Habla con Arwin Merton
+Quest/&LegendaryQuest_Quest_03_TalkToMertonDescription	Arwin te está esperando para emprender esta peligrosa búsqueda, habla con él antes de ir allí.
+Quest/&LegendaryQuest_Quest_03_TalkToMerton_Outcome1Description	Hablaste con Arwin, te dio la ubicación del valle perdido y te pidió que lo encontraras allí, prefiere viajar solo.
+Quest/&LegendaryQuest_Quest_04_GoToTempleTitle	Viaja al Valle Perdido
+Quest/&LegendaryQuest_Quest_04_GoToTempleDescription	Tienes la ubicación del Valle Perdido, y con suerte, del templo del Dios Perdido, en tu mapa. Vaya allí y únase a Arwin Merton.
+Quest/&LegendaryQuest_Quest_04_GoToTemple_Outcome1Description	Llegaste al Valle Perdido.
+Quest/&LegendaryQuest_Quest_05_JoinMertonTitle	Forma equipo con Arwin
+Quest/&LegendaryQuest_Quest_05_JoinMertonDescription	Arwin Merton está aquí como prometió. Habla con él y forma un equipo para el próximo desafío.
+Quest/&LegendaryQuest_Quest_05_JoinMerton_Outcome1Description	Te uniste a Arwin Merton y comenzaste a buscar un camino a través de la niebla.
+Quest/&LegendaryQuest_Quest_06_FindAWayInTitle	Atraviesa la niebla
+Quest/&LegendaryQuest_Quest_06_FindAWayInDescription	Arwin te dijo que avanzaras a través de la niebla y que encontrarás el templo del Dios Perdido detrás.
+Quest/&LegendaryQuest_Quest_06_FindAWayIn_Outcome1Description	¡Atravesaste la niebla y encontraste el templo y sus guardianes!
+Quest/&LegendaryQuest_Quest_07_ExitTheMistTitle	Salir de la niebla
+Quest/&LegendaryQuest_Quest_07_ExitTheMistDescription	Encuentra la salida de la niebla, hacia el templo.
+Quest/&LegendaryQuest_Quest_07_ExitTheMist_Outcome1Description	Gracias a Arwin, encontraste una manera de salir de la niebla.
+Quest/&LegendaryQuest_Quest_08_EnterTheTempleTitle	Entrar al templo
+Quest/&LegendaryQuest_Quest_08_EnterTheTempleDescription	Fuiste tan lejos como cualquiera. Ahora encuentra el templo y explóralo.
+Quest/&LegendaryQuest_Quest_08_EnterTheTemple_Outcome1Description	Encontraste el templo, pero estaba sellado mágicamente y tuviste que encontrar una manera de abrir la puerta.
+Quest/&LegendaryQuest_Quest_09_SolveThePuzzleTitle	Resolver el rompecabezas
+Quest/&LegendaryQuest_Quest_09_SolveThePuzzleDescription	La puerta del templo está cerrada con llave y parece que hay que resolver un acertijo o un acertijo. Se puede encontrar información en los escritos en la pared del templo.
+Quest/&LegendaryQuest_Quest_09_SolveThePuzzle_Outcome1Description	¡Resolviste el rompecabezas y abriste el templo!
+Quest/&LegendaryQuest_Quest_10_BeatTheMonsterTitle	Mata al último guardián
+Quest/&LegendaryQuest_Quest_10_BeatTheMonsterDescription	Ahora tienes que enfrentarte al monstruo que habita el templo desde el Cataclismo.
+Quest/&LegendaryQuest_Quest_10_BeatTheMonster_Outcome1Description	¡Derrotaste al último guardián del templo, un remorhaz adulto!
+Quest/&Conjuration_Quest_03_FindAWayOutTitle	Encontrar una salida
+Quest/&Conjuration_Quest_03_FindAWayOutDescription	Realmente no sabes dónde estás, pero tienes que encontrar una salida.
+Quest/&Conjuration_Quest_03_FindAWayOut_Outcome1Description	El dragón con el que luchaste parece haberse desvanecido repentinamente en el aire, dejando un fragmento de la gema que estás buscando. Ahora estás en un lugar nuevo y aún más misterioso.
+Quest/&Conjuration_Quest_04_FindAnotherGemsFragmentTitle	Encuentra otro fragmento de la gema
+Quest/&Conjuration_Quest_04_FindAnotherGemsFragmentDescription	Estás perdido en un lugar desconocido. Encuentra una salida y completa la gema.
+Quest/&Conjuration_Quest_04_FindAnotherGemsFragment_Outcome1Description	Encontraste un cubo de luz que te recuerda al dragón. Esto también ha desaparecido y ha dado paso a un nuevo fragmento de la gema. Después de recuperarlo, se encontró en un lugar nuevo y desconocido.
+Quest/&Conjuration_Arena_Title	La arena
+Quest/&Conjuration_Quest_Arena_00_1stRoundDefeatYourOpponentTitle	Ronda 1 - Derrota a tu oponente
+Quest/&Conjuration_Quest_Arena_00_1stRoundDefeatYourOpponentDescription	Estás atrapado en esta arena. Defiéndete.
+Quest/&Conjuration_Quest_Arena_00_1stRoundDefeatYourOpponent_Outcome1Description	Has derrotado una primera amenaza. ¡Prepárate para el próximo!
+Quest/&Conjuration_Quest_Arena_01_2ndRoundDefeatYourOpponentTitle	Ronda 2 - Derrota a tu oponente
+Quest/&Conjuration_Quest_Arena_01_2ndRoundDefeatYourOpponentDescription	Estás atrapado en esta arena. Defiéndete.
+Quest/&Conjuration_Quest_Arena_01_2ndRoundDefeatYourOpponent_Outcome1Description	Has derrotado a una segunda amenaza. ¡Prepárate para el próximo!
+Quest/&Conjuration_Quest_Arena_02_3rdRoundDefeatYourOpponentTitle	Ronda 3 - Derrota a tu oponente
+Quest/&Conjuration_Quest_Arena_02_3rdRoundDefeatYourOpponentDescription	Estás atrapado en esta arena. Defiéndete.
+Quest/&Conjuration_Quest_Arena_02_3rdRoundDefeatYourOpponent_Outcome1Description	Has superado una gran amenaza. Ahora puedes salir de la arena o enfrentarte a un último enemigo.
+Quest/&Conjuration_Quest_Arena_03_4thRoundDefeatYourOpponentTitle	Ronda 4 - Derrota a tu oponente
+Quest/&Conjuration_Quest_Arena_03_4thRoundDefeatYourOpponentDescription	Te enfrentas a una terrible amenaza. Superarlo.
+Quest/&Conjuration_Quest_Arena_03_4thRoundDefeatYourOpponent_Outcome1Description	Has derrotado todas las amenazas a las que te has enfrentado. Nadie en esta extraña arena se atreve a desafiar tu supremacía por más tiempo.
+Quest/&CradleOfFire_Quest_VisitBladefang_OutcomeDescription	Descubriste el hogar de la tribu Bladefang.
+Quest/&Cradle_Of_Fire_Quest_10_TalkToRadulfTitle	Habla con Radulf
+Quest/&Cradle_Of_Fire_Quest_10_TalkToRadulfDescription	Descubra cómo conseguir que Bladefang se una a su alianza.
+Quest/&Cradle_Of_Fire_Quest_11_Go_To_Spider_LairTitle	Encuentra a la vieja reina
+Quest/&Cradle_Of_Fire_Quest_11_Go_To_Spider_LairDescription	Para convencer a Radulf y su tribu de que se unan a la alianza, debes traer un objeto sagrado custodiado por una vieja reina. Entra en la guarida oscura desde el acceso al cruce y mata al monstruo.
+Quest/&Cradle_Of_Fire_Quest_11_Go_To_Spider_Lair_Outcome1Description	Entraste en la guarida de la vieja reina
+Quest/&Cradle_Of_Fire_Quest_12_KillOldQueenTitle	Mata a la vieja reina
+Quest/&Cradle_Of_Fire_Quest_12_KillOldQueenDescription	Descubriste quién, o más bien qué, es la Vieja Reina: una araña gigantesca.
+Quest/&Cradle_Of_Fire_Quest_12_KillOldQueen_Outcome1Description	¡Mataste a la vieja reina!
+Quest/&Cradle_Of_Fire_Quest_13_GetAxeTitle	Encuentra el Hacha Sagrada
+Quest/&Cradle_Of_Fire_Quest_13_GetAxeDescription	Mataste a la vieja reina. Ahora mira a tu alrededor y encuentra el Hacha Sagrada exigida por Radulf.
+Quest/&Cradle_Of_Fire_Quest_13_GetAxe_Outcome1Description	Encontraste el Hacha Sagrada en la guarida de Kralshe-Renn.
+Quest/&Cradle_Of_Fire_Quest_14_ReturnTheAxeTitle	Devuelve el Hacha Sagrada
+Quest/&Cradle_Of_Fire_Quest_14_ReturnTheAxeDescription	Encontraste el artículo que Radulf exigió para unirse a la alianza. Regresa con la tribu Bladefang y demuéstrale que lo lograste.
+Quest/&Cradle_Of_Fire_Quest_14_ReturnTheAxe_Outcome1Description	Le devolviste el Hacha Sagrada a Radulf y él accedió a unirse a la alianza.
+Quest/&Cradle_Of_Fire_Quest_14_ReturnTheAxe_Outcome2Description	Te negaste a devolver el Hacha Sagrada y Radulf se negó a unirse a la alianza.
+Quest/&Cradle_Of_Fire_Quest_15_AccessNecropolisTitle	Atraviesa la puerta Redscar
+Quest/&Cradle_Of_Fire_Quest_15_AccessNecropolisDescription	Urka te pidió que encontraras una llave en algún lugar de la necrópolis de Manacalon, más allá de Redscar Gate. Ve allí y explora la Necrópolis.
+Quest/&Cradle_Of_Fire_Quest_15_AccessNecropolis_Outcome1Description	Has entrado en Redscar Gate
+Quest/&Cradle_Of_Fire_Quest_16_ExploreNecropolisTitle	Explora la necrópolis
+Quest/&Cradle_Of_Fire_Quest_16_ExploreNecropolisDescription	La entrada de la necrópolis de Manacalon está cerca de la puerta Redscar. Entra y encuentra la llave en algún lugar cerca de la tumba de un emperador.
+Quest/&Cradle_Of_Fire_Quest_16_ExploreNecropolis_Outcome1Description	Encontraste la tumba del Emperador ... ¡y su fantasma! Decidiste tomar su llave por la fuerza.
+Quest/&Cradle_Of_Fire_Quest_16_ExploreNecropolis_Outcome2Description	Encontraste la tumba del Emperador ... ¡y su fantasma! Lo convenciste de que te dejara ir.
+Quest/&Cradle_Of_Fire_Quest_17_StealOrNotTitle	Luchar o fintar
+Quest/&Cradle_Of_Fire_Quest_17_StealOrNotDescription	Te diste cuenta de que la llave de la ciudad hundida estaba en el ataúd del Emperador. Si lo desea, tendrá que enfrentarse al fantasma enojado. También puede seguir su consejo y utilizar la puerta menor cercana para acceder directamente al centro de la ciudad.
+Quest/&Cradle_Of_Fire_Quest_17_StealOrNot_Outcome1Description	Te enfrentaste al fantasma del emperador Laethar y lo destruiste.
+Quest/&Cradle_Of_Fire_Quest_17_ReturnToUrkaTitle	Regreso a Urka
+Quest/&Cradle_Of_Fire_Quest_17_ReturnToUrkaDescription	Tienes la llave de la Ciudad Perdida. Regréselo a Urka, como prometió.
+Quest/&Cradle_Of_Fire_Quest_17_ReturnToUrka_Outcome1Description	Tuviste una desagradable sorpresa al regresar de la Necrópolis.
+Quest/&Cradle_Of_Fire_Quest_17_StealOrNot_Outcome2Description	Decidiste usar la Puerta Menor y te teletransportaste al centro de la ciudad.
+Quest/&Quest_Background_Acolyte_Recall_00_TalkToDalonLarkTitle	Habla con Dalon Lark
+Quest/&Quest_Background_Acolyte_Recall_00_TalkToDalonLarkDescription	Dalon Lark quiere verte. Vuelve con él lo antes posible.
+Quest/&Quest_Background_Acolyte_Recall_00_TalkToDalonLark_Outcome1Description	Dalon Lark te pidió que hablaras con Rogar Ardentire, sacerdote de Arun. Tiene noticias importantes que compartir.
+Quest/&Quest_Background_Acolyte_Recall_01_TalkToRogarArdentireTitle	Habla con el sacerdote de Arun
+Quest/&Quest_Background_Acolyte_Recall_01_TalkToRogarArdentireDescription	Ve con Rogar Ardentire, sacerdote de Arun, cerca del promontorio en Caer Cyflen.
+Quest/&Quest_Background_Acolyte_Recall_01_TalkToRogarArdentire_Out	Rogar Ardentire te contó la triste historia de Emtan, sacerdote de Tirmar. Necesitas limpiar su alma.
+Quest/&Quest_Background_Acolyte_Recall_02_GoBackToTheMonasteryTitle	Viaja a las ruinas de Tirmar
+Quest/&Quest_Background_Acolyte_Recall_02_GoBackToTheMonasteryDescription	Vuelve al monasterio donde encontraste el símbolo sagrado de Emtan.
+Quest/&Quest_Background_Acolyte_Recall_02_GoBackToTheMonastery_Outcome1Description	Llegaste al monasterio.
+Quest/&Quest_Background_Acolyte_Recall_03_CleansingTitle	Limpieza
+Quest/&Quest_Background_Acolyte_Recall_03_CleansingDescription	Ve al cementerio cerca del mausoleo. Usa el símbolo sagrado que te dio Rogar y limpia todas las lápidas.
+Quest/&Quest_Background_Acolyte_Recall_03_Cleansing_Outcome1Description	Emtan no pudo salvarse. No tenías más remedio que luchar contra él hasta que encontrara su descanso final.
+Quest/&Quest_Background_Acolyte_Recall_03_Cleansing_Outcome2Description	Lograste persuadir a Emtan para que dejara este mundo en paz.
+Quest/&Quest_Background_Acolyte_Recall_04_GoBackToRogarArdentireTitle	Volver a Rogar
+Quest/&Quest_Background_Acolyte_Recall_04_GoBackToRogarArdentireDescription	Vuelve con Caer Cyflen y lleva el símbolo sagrado a Rogar.
+Quest/&Quest_Background_Acolyte_Recall_04_GoBackToRogarArdentire_Outcome1Description	La Iglesia de Arun se alegró de saber que la maldición se había levantado.
+Quest/&Quest_Background_Lawkeeper_MeetStigAtPalaceTitle	Reúnete con Stig en la entrada del palacio
+Quest/&Quest_Background_Lawkeeper_MeetStigAtPalaceDescription	Un viejo amigo, Stig, necesita tu ayuda para encontrar a un miembro podrido de la guardia de la ciudad. Te está esperando en la entrada del palacio. Vaya allí cuando esté listo para emprender la tarea.
+Quest/&Cradle_Of_Fire_Quest_10_DefeatEdrof02Title	Elige un arma para derrotar a Edrof
+Quest/&Cradle_Of_Fire_Quest_10_DefeatEdrof02Description	Esta lucha es a muerte, tienes que ganar.
+Quest/&Cradle_Of_Fire_Quest_10_ForfeitDuel02Title	Abre la puerta para perder el duelo
+Quest/&Cradle_Of_Fire_Quest_10_ForfeitDuel02Description	Edrof es demasiado fuerte, no importa esta locura.
+Quest/&Cradle_Of_Fire_Quest_10_EdrofsChallenge02Title	Elige un arma para luchar o abre la puerta para perder el duelo
+Quest/&Cradle_Of_Fire_Quest_16A_ExploreNecropolisTitle	Explora la necrópolis
+Quest/&Cradle_Of_Fire_Quest_16A_ExploreNecropolisDescription	Se supone que la llave está cerca de la tumba del Emperador. Mire alrededor de la Necrópolis para encontrar la tumba.
+Quest/&Cradle_Of_Fire_Quest_16A_ExploreNecropolis_Outcome1Description	Encontraste la tumba del Emperador.
+Quest/&Cradle_Of_Fire_Quest_16B_FightTheEmperorTitle	Lucha
+Quest/&Cradle_Of_Fire_Quest_16B_FightTheEmperorDescription	Encontraste la tumba del Emperador ... y su fantasma.
+Quest/&Cradle_Of_Fire_Quest_16B_FightTheEmperor_Outcome1Description	Encontraste la tumba del Emperador y decidiste matar a su fantasma.
+Quest/&Cradle_Of_Fire_Quest_16C_NegociateWithEmperorTitle	Negociar
+Quest/&Cradle_Of_Fire_Quest_16C_NegociateWithEmperorDescription	Encontraste la tumba del Emperador ... y su fantasma.
+Quest/&Cradle_Of_Fire_Quest_16C_NegociateWithEmperor_Outcome1Description	Encontraste la tumba del Emperador y lograste negociar con su fantasma.
+Quest/&Cradle_Of_Fire_Quest_17A_StealTitle	Robar la llave
+Quest/&Cradle_Of_Fire_Quest_17A_StealDescription	Has visto la llave dentro de la tumba del Emperador.
+Quest/&Cradle_Of_Fire_Quest_17A_Steal_Outcome1Description	Decidiste luchar contra el Emperador para conseguir la llave.
+Quest/&Cradle_Of_Fire_Quest_17B_UseMinorGateTitle	Usa la puerta menor
+Quest/&Cradle_Of_Fire_Quest_17B_UseMinorGateDescription	El Emperador te dijo que había una Puerta Menor que conducía al Salón del Trono de Arrok.
+Quest/&Cradle_Of_Fire_Quest_17B_UseMinorGate_Outcome1Description	Decidiste usar la Puerta Menor para llegar a la Sala del Trono de Arrok.
+Quest/&Cradle_Of_Fire_Quest_21B_KillArrokTitle	Mata a Arrok
+Quest/&Cradle_Of_Fire_Quest_21B_KillArrokDescription	Has encontrado a Arrok. Es hora de sacar la gema de su cadáver.
+Quest/&Cradle_Of_Fire_Quest_21B_KillArrok_Outcome1Description	Derrotaste a Arrok y recuperaste la gema.
+Quest/&Quest_Background_Philosopher_Title	La naturaleza del mal
+Quest/&Quest_Background_Philosopher_TalkToMayorTitle	Hablar con el alcalde
+Quest/&Quest_Background_Philosopher_TalkToMayorDescription	El alcalde quiere hablar contigo. Encuéntrala en la plaza.
+Quest/&Quest_Background_Philosopher_TalkToMayor_Outcome1Description	Galeafin Pureheart, una mente reconocida de Caer Cyflen y su amada maestra, quiere verte.
+Quest/&Quest_Background_Philosopher_TalkToGaleafinTitle	Habla con Galeafin
+Quest/&Quest_Background_Philosopher_TalkToGaleafinDescription	Galeafin quiere hablar contigo. Reúnete con él en su casa cerca de la taberna.
+Quest/&Quest_Background_Philosopher_TalkToGaleafin_Outcome1Description	Galeafin te habló sobre lo que motiva a las personas a elegir el mal.
+Quest/&Quest_Background_Philosopher_TalkToGaleafin_Outcome2Description	Galeafin te habló sobre lo que hace que Sorr-Akkath sea tan cruel.
+Quest/&Quest_Background_Philosopher_TalkToGaleafin_Outcome3Description	Galeafin parecía preocupado. Dice que tiene que pensar y te pide que vuelvas mañana.
+Quest/&Quest_Background_Philosopher_TalkToGaleafin_Outcome4Description	Galeafin te presentó a su amada Illoreth. Se enteró de que ambos trabajaban para el aquelarre de Arivad. Pero ahora las cosas han cambiado y quieren destruirlo. Te pidieron ayuda.
+Quest/&Quest_Background_Philosopher_ComeBackLaterTitle	Vuelve a Galeafin
+Quest/&Quest_Background_Philosopher_ComeBackLaterDescription	Galeafin quiere hablar contigo más tarde.
+Quest/&Quest_Background_Philosopher_ComeBackLater_Outcome1Description	Se le ha informado que Galeafin quiere hablar con usted.
+Quest/&Quest_Background_Philosopher_MeetIllorethTitle	Conoce a Illoreth
+Quest/&Quest_Background_Philosopher_MeetIllorethDescription	Illoreth quiere ayudarte a infiltrarte en el aquelarre de Arivad. Encuéntrala en las calles.
+Quest/&Quest_Background_Philosopher_MeetIlloreth_Outcome1Description	Illoreth te dio una máscara para ayudarte a infiltrarte en el Coven.
+Quest/&Quest_Background_Philosopher_DefeatTheCovenTitle	Derrota al aquelarre de Arivad
+Quest/&Quest_Background_Philosopher_DefeatTheCovenDescription	Infíltrate en el aquelarre de Arivad con Illoreth y encuentra la manera de derrotarlo.
+Quest/&Quest_Background_Philosopher_DefeatTheCoven_Outcome1Description	Encontraste el Coven de Arivad y mataste a su miembro Sorak. Illoreth y Galeafin deberían haber abandonado la ciudad ahora.
+Quest/&Conjuration_Quest_05_EnterTheManorTitle	Entrar en la mansión
+Quest/&Conjuration_Quest_05_EnterTheManorDescription	La señal de la gema parece provenir de esta mansión. Encuentra una forma de entrar.
+Quest/&Conjuration_Quest_05_EnterTheManor_Outcome1Description	Entraste en la mansión y fuiste recibido por un mayordomo que te llevará hasta su amo. SIGUELO.
+Quest/&Conjuration_Quest_06_FollowTheButtlerTitle	Sigue al mayordomo
+Quest/&Conjuration_Quest_06_FollowTheButtlerDescription	Sigue al mayordomo a través de la mansión hasta su amo. La gema podría estar ahí.
+Quest/&Conjuration_Quest_06_FollowTheButtler_Outcome1Description	El mayordomo te condujo hasta su amo. Este último te desafía en una última pelea para asegurarte de que eres digno de recuperar su gema.
+Quest/&Conjuration_Quest_07_FightTheMasterTitle	Lucha contra el maestro
+Quest/&Conjuration_Quest_07_FightTheMasterDescription	El maestro te atacó. ¡Mátalo!
+Quest/&Conjuration_Quest_07_FightTheMaster_Outcome1Description	Derrotó al maestro. Toma la gema y sal.
+Quest/&Conjuration_Quest_08_TakeTheGemTitle	Toma la gema
+Quest/&Conjuration_Quest_08_TakeTheGemDescription	Toma la gema y sal.
+Quest/&Conjuration_Quest_08_TakeTheGem_Outcome1Description	Lograste regresar al bosque de lava y ahora tienes una nueva gema en tu poder.
+Quest/&Conjuration_SuperEgo_Mansion_HelpServant_Title	Una habitación bien ordenada
+Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpServant_00_HelpTheServantOrGoTitle	Ayuda al sirviente a despejar la habitación o seguir tu camino
+Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpServant_00_HelpTheServantOrGoDescription	Encuentras a una sirvienta ordenando una habitación.
+Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpServant_00_HelpTheServantOrGo_Outcome1Description	Ayudaste a la criada a limpiar la habitación y le ahorraste un tiempo valioso.
+Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpServant_00_HelpTheServantOrGo_Outcome2Description	Seguiste tu camino y dejaste que la criada siguiera ordenando sola.
+Quest/&Conjuration_SuperEgo_Mansion_HelpSlave_Title	El escape de la mansión
+Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpSlave_00_HelpTheSlaveOrGoTitle	Ayuda al esclavo a escapar o seguir tu camino
+Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpSlave_00_HelpTheSlaveOrGoDescription	Un esclavo se te acerca y te pide que lo ayudes a escapar.
+Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpSlave_00_HelpTheSlaveOrGo_Outcome1Description	Accediste al pedido del esclavo y lo ayudaste a escapar rompiendo los barrotes que lo mantenían encerrado.
+Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpSlave_00_HelpTheSlaveOrGo_Outcome2Description	Ignoraste la petición del esclavo de ayudarlo a escapar.
+Quest/&Conjuration_SuperEgo_Mansion_Loot_Title	Un lugar muy tentador
+Quest/&Conjuration_Quest_SuperEgo_Mansion_Loot_00_LootOrGoTitle	Compruebe el lugar o siga su camino
+Quest/&Conjuration_Quest_SuperEgo_Mansion_Loot_00_LootOrGoDescription	Encontrarás el vestíbulo de entrada de la mansión, lleno de tesoros.
+Quest/&Conjuration_Quest_SuperEgo_Mansion_Loot_00_LootOrGo_Outcome1Description	Registraste el pasillo y encontraste cosas interesantes a pesar de las advertencias de los sirvientes.
+Quest/&Conjuration_Quest_SuperEgo_Mansion_Loot_00_LootOrGo_Outcome2Description	A pesar de la promesa de estos lugares, seguiste tu camino.
+Quest/&Quest_Background_Lowlife_Title	Cumpleaños de Misaye
+Quest/&Quest_Background_Lowlife_TalkToAnnieTitle	Habla con Annie
+Quest/&Quest_Background_Lowlife_TalkToAnnieDescription	Merton te dijo que Annie tiene un problema. Este podría ser un trabajo para ti.
+Quest/&Quest_Background_Lowlife_TalkToAnnie_Outcome1Description	A Annie le han robado una espada mágica. Usa tus contactos en el inframundo para encontrarlo y traerlo de vuelta.
+Quest/&Quest_Background_Lowlife_TalkToNel1Title	Investigar el templo de Misaye
+Quest/&Quest_Background_Lowlife_TalkToNel1Description	La mayoría de los robos en la Ciudad Alta son monitoreados por Nel, el sacerdote local de Misaye. Visita el templo secreto. Deberías usar la puerta del Barrio del Templo.
+Quest/&Quest_Background_Lowlife_TalkToNel1_Outcome1Description	Nel te dijo que lo consultaras con Gorim Ironsoot; la espada robada podría haber sido vendida a ella.
+Quest/&Quest_Background_Lowlife_TalkToGorimTitle	Habla con Gorim
+Quest/&Quest_Background_Lowlife_TalkToGorimDescription	Según Nel, Gorim debería saber dónde está la espada robada.
+Quest/&Quest_Background_Lowlife_TalkToGorim_Outcome1Description	Se enteró de que alguien intentó vender la espada a Gorim, pero ella se negó a comprarla porque era demasiado cara. Envió al vendedor a ver a Heddlon Surespell en el barrica de Gravekeep.
+Quest/&Quest_Background_Lowlife_TalkToKarelTitle	Ve a la barrica del sepulturero
+Quest/&Quest_Background_Lowlife_TalkToKarelDescription	Gorim le dijo que la espada robada le había sido ofrecida por un hombre a quien luego envió a ver a Heddlon Surespell. Puede que todavía esté en la taberna.
+Quest/&Quest_Background_Lowlife_TalkToKarel_Outcome1Description	Después de seguir el rastro de la espada robada, se entera de que Nel ya la tiene en su poder. Vuelve con él y aclara de qué se trata este chiste.
+Quest/&Quest_Background_Lowlife_TalkToNel2Title	Pídale a Nel un plato de sopa.
+Quest/&Quest_Background_Lowlife_TalkToNel2Description	Aparentemente, Nel te estaba tomando el pelo desde el principio, lo cual es típico de él. Tenía la espada robada en su poder todo el tiempo. Vuelve al Templo de Misaye y pídele un "plato de sopa".
+Quest/&Quest_Background_Lowlife_TalkToNel2_Outcome1Description	Nel admitió tener la espada robada en su poder todo el tiempo y le pidió que se sometiera a un proceso levemente humillante y que ofreciera algo de dinero a la iglesia.
+Quest/&Quest_Background_Lowlife_OpenTheChestTitle	Abrir el cofre de Nel
+Quest/&Quest_Background_Lowlife_OpenTheChestDescription	Encuentra una manera de abrir el cofre de Nel. Debe contener la espada.
+Quest/&Quest_Background_Lowlife_OpenTheChest_Outcome1Description	Abriste con éxito el cofre y recuperaste la espada robada. Devuélvemelo a Annie.
+Quest/&Quest_Background_Lowlife_BringSwordToAnnieTitle	Trae la espada de vuelta
+Quest/&Quest_Background_Lowlife_BringSwordToAnnieDescription	Devuélvele la espada a Annie y obtén tu recompensa.
+Quest/&Quest_Background_Lowlife_BringSwordToAnnie_Outcome1Description	Annie estaba feliz de recuperar la espada y te dio una generosa recompensa.
+Quest/&CradleOfFire_Quest_MeetAtRescarGateHall_Outcome1Description	Has convencido a Brok.
+Quest/&CradleOfFire_Quest_MeetAtRescarGateHallDescription	Brok está listo para desafiar a Arrok contigo. Ve a Redscar Gate Hall y conoce al orco que accedió a enfrentarse a Arrok.
+Quest/&CradleOfFire_Quest_MeetAtRescarGateHallTitle	Únete a Brok detrás de la puerta Redscar
+Quest/&Quest_Background_Sellsword_Title	Ajuste de cuentas de la familia
+Quest/&Quest_Background_Sellsword_TalkToMildred1Title	Habla con Mildred
+Quest/&Quest_Background_Sellsword_TalkToMildred1Description	Recibió una carta de Mildred en Coparann ​​pidiéndole que viniera a visitarla.
+Quest/&Quest_Background_Sellsword_TalkToMildred1_Outcome1Description	Mildred te contó algunos secretos sobre tu familia.
+Quest/&Quest_Background_Sellsword_TalkToNikannenTitle	Obtenga las llaves del sargento Nikannen
+Quest/&Quest_Background_Sellsword_TalkToNikannenDescription	El sargento Nikannen de Coparann ​​puede ayudarlo a conseguir las llaves de su casa. Ve a buscarlo.
+Quest/&Quest_Background_Sellsword_TalkToNikannen_Outcome1Description	El sargento Nikannen le dijo que las llaves están en los archivos de la Fortaleza. Te escribió una nota para conseguirlos.
+Quest/&Quest_Background_Sellsword_GetTheKeysTitle	Obtenga las llaves del archivero
+Quest/&Quest_Background_Sellsword_GetTheKeysDescription	Encuentra al archivero en Coparann ​​Keep Basement para conseguir tus llaves.
+Quest/&Quest_Background_Sellsword_GetTheKeys_Outcome1Description	¡Tienes las llaves de tu casa! Hora de visitarlo.
+Quest/&Quest_Background_Sellsword_VisitYourHouseTitle	Visita tu casa
+Quest/&Quest_Background_Sellsword_VisitYourHouseDescription	Ve a tu casa cerca de Coparann ​​e investiga el lugar.
+Quest/&Quest_Background_Sellsword_VisitYourHouse_Outcome1Description	Al visitar la casa, descubre una nota escrita a mano por un maestro de espías para sus padres.
+Quest/&Quest_Background_Sellsword_TalkToMildred2Title	Discuta la nota con Mildred
+Quest/&Quest_Background_Sellsword_TalkToMildred2Description	Mildred puede ayudarlo a comprender la nota que encontró en su casa. Ve a Coparann ​​y habla con ella.
+Quest/&Quest_Background_Sellsword_TalkToMildred2_Outcome1Description	Entiende que la nota apunta a un traidor en Coparann ​​y que necesita ver los papeles del juicio de sus padres.
+Quest/&Quest_Background_Sellsword_ConfrontArchivistTitle	Obtenga los documentos de proceso
+Quest/&Quest_Background_Sellsword_ConfrontArchivistDescription	Vaya al Archivero en Coparann ​​y solicite los documentos de prueba.
+Quest/&Quest_Background_Sellsword_ConfrontArchivist_Outcome1Descriptio	¡El Archivero era un traidor de Sorak! Lograste derrotarlo.
+Quest/&Quest_Background_Sellsword_TalkToCeannardTitle	Habla con el Ceannard
+Quest/&Quest_Background_Sellsword_TalkToCeannardDescription	Reúnete con el Ceannard en Coparann ​​y pide venganza.
+Quest/&Quest_Background_Sellsword_TalkToCeannard_Outcome1Description	El Ceannard se disculpó y prometió construir un monumento en honor a sus padres.
+Quest/&Caer_Cyflen_Quest_Council03_03_Visit_The_ResidenceTitle	Visite la Residencia
+Quest/&Caer_Cyflen_Quest_Council03_03_Visit_The_ResidenceDescription	Ve a Sunblaze Court y habla con Butler Ravensworth, y toma tu alojamiento en la residencia.
+Quest/&Caer_Cyflen_Quest_Council03_03_Visit_The_Residence_Outcome1Description	Visitaste la residencia donde se reciben a los invitados de la Princesa. Es un gran honor. Ahora puede dormir allí a su discreción y encontrar comida fresca todos los días.
+Quest/&Caer_Cyflen_Quest_Council03_04_FindOtherGemsTitle	Encuentra las gemas restantes
+Quest/&Caer_Cyflen_Quest_Council03_04_FindOtherGemsDescription	Siga las pistas de las gemas.
+Quest/&Caer_Cyflen_Quest_Council03_04_FindOtherGems_Outcome1Description	Ahora son diputados senior del Legacy Council. Todos cuentan contigo para encontrar las gemas perdidas de la Corona del Magister. Obviamente, la propia Corona le envía pistas sobre dónde encontrarlos. ¡Sigue estas pistas y completa la corona!
+Quest/&PickupQuest_01_HiddenBlade_Title	Reliquia de Sorak
+Quest/&PickupQuest_01_HiddenBlade_01_TITLE	Encuentra un artículo de Sorak
+Quest/&PickupQuest_01_HiddenBlade_01_DESCRIPTION	Los Sorr-Akkath han atacado el puesto de avanzada de Caer Lem en las Marcas. Deben haber dejado rastros, armas, algo. Registra su campamento en las cuevas. Trae de vuelta cualquier equipo que pueda ser de origen Sorr-Akkath. Cliente: Iglesia de Einar. Recompensa: un frasco de Stardust.
+Quest/&PickupQuest_01_HiddenBlade_01_OUTCOME	Encontraste una hoja misteriosa con un grabado en ningún idioma conocido en Solasta. Este podría ser un artículo de Sorr-Akkath. Tráelo de vuelta al tablero de misiones en Caer Cyflen.
+Quest/&PickupQuest_01_HiddenBlade_02_TITLE	Regresar al tablero de misiones
+Quest/&PickupQuest_01_HiddenBlade_02_DESCRIPTION	Necesitas traer la hoja de regreso; podría ser lo que espera la Iglesia de Einar.
+Quest/&PickupQuest_01_HiddenBlade_02_OUTCOME	Devolviste la espada a Dalon Lark; será estudiado por la Iglesia de Einar.
+Quest/&PickupQuest_02_GoblinCulture_Title	Cultura Goblin
+Quest/&PickupQuest_02_GoblinCulture_01_TITLE	Registra las cuevas de los duendes en Caer Lem
+Quest/&PickupQuest_02_GoblinCulture_01_DESCRIPTION	Encontraste goblins en las cuevas de Caer Lem. Hay eruditos en la Torre del Conocimiento que creen que los goblins han desarrollado un lenguaje escrito, así que regresa allí, encuentra un ejemplo potencial de escritura goblin y tráelo a un tablero de misiones. Cliente: La Torre del Conocimiento. Recompensa: una gema por valor de 300 po, cinco pergaminos de hechizo de nivel 3.
+Quest/&PickupQuest_02_GoblinCulture_01_OUTCOME1	Encontraste una piel pintada con extraños escritos en un idioma goblin, tal vez una prueba de que los goblins tienen una tradición escrita. Tráelo de vuelta a la Torre del Conocimiento.
+Quest/&PickupQuest_02_GoblinCulture_02_TITLE	Reúnete con Maddy Greenisle
+Quest/&PickupQuest_02_GoblinCulture_02_DESCRIPTION	Devuélvele la piel pintada a Maddy Greenisle.
+Quest/&PickupQuest_02_GoblinCulture_02_OUTCOME1	Devolviste la piel pintada a Maddy Greenisle. La Torre del Conocimiento está agradecida.
+Quest/&PickupQuest_03_AncientKnowledge_Title	Conocimiento antiguo
+Quest/&PickupQuest_03_AncientKnowledge_01_TITLE	Registra la Torre Tirmariana
+Quest/&PickupQuest_03_AncientKnowledge_01_DESCRIPTION	Se han encontrado pruebas de la presencia de inquisidores tirmarianos cerca de la torre de Caer Lem. Regrese a la torre y busque en la biblioteca un libro titulado Crónicas de la Inquisición. Cliente: Iglesia de Einar. Recompensa: un anillo de los portadores de luz.
+Quest/&PickupQuest_03_AncientKnowledge_01_OUTCOME	Encontraste el libro requerido por la Iglesia de Einar.
+Quest/&PickupQuest_03_AncientKnowledge_02_TITLE	Regreso a Dalon Lark
+Quest/&PickupQuest_03_AncientKnowledge_02_DESCRIPTION	Devuélvele el libro a Dalon Lark en Caer Cyflen.
+Quest/&PickupQuest_03_AncientKnowledge_02_OUTCOME	Dalon Lark estaba muy feliz de recuperar este raro libro.
+Quest/&PickupQuest_04_ResearchCrown_Title	Orígenes de la corona
+Quest/&PickupQuest_04_ResearchCrown_01_TITLE	Estudia el pedestal de Crown
+Quest/&PickupQuest_04_ResearchCrown_01_DESCRIPTION	Regresa a la torre de la magia donde encontraste la Corona. Tome nota de cada escrito en el pedestal de Crown para su investigación. Cliente: The Legacy Council. Recompensa: una práctica mochila.
+Quest/&PickupQuest_04_ResearchCrown_01_OUTCOME	Copiaste todos los símbolos y textos del pedestal.
+Quest/&PickupQuest_04_ResearchCrown_02_TITLE	Reúnete con el Capitán Ironshell
+Quest/&PickupQuest_04_ResearchCrown_02_DESCRIPTION	Devuelva sus notas a la capitana Verissa Ironshell. El Consejo los estudiará.
+Quest/&PickupQuest_04_ResearchCrown_02_OUTCOME	Devolvió las notas del pedestal del Crown a la capitana Verissa Ironshell. El Consejo estaba complacido.
+Quest/&PickupQuest_05_Collector_Title	El coleccionista
+Quest/&PickupQuest_05_Collector_01_TITLE	Regreso al puesto de avanzada imperial
+Quest/&PickupQuest_05_Collector_01_DESCRIPTION	Los carroñeros han informado que se ha encontrado el sello de la Primera Legión Imperial en el puesto de avanzada en ruinas que encontraste cerca de Coparann. Regresa allí y encuentra cualquier artículo que pueda haber sido parte del equipo de un soldado de esta legión. Cliente: El Arcaneum. Recompensa: una perla por valor de 100 po, un par de brazales de destellos.
+Quest/&PickupQuest_05_Collector_01_OUTCOME	Registraste el puesto de avanzada imperial en ruinas y encontraste una insignia imperial de la Primera Legión.
+Quest/&PickupQuest_05_Collector_02_TITLE	Reúnase con Halman Summer
+Quest/&PickupQuest_05_Collector_02_DESCRIPTION	Devuelve la insignia a Halman Summer.
+Quest/&PickupQuest_05_Collector_02_OUTCOME	Devolviste la insignia a los anticuarios.
+Quest/&PickupQuest_06_GhostsOfTheEmpire_Title	Fantasmas del imperio
+Quest/&PickupQuest_06_GhostsOfTheEmpire_01_TITLE	Regreso a la prisión imperial
+Quest/&PickupQuest_06_GhostsOfTheEmpire_01_DESCRIPTION	Regresa a las mazmorras de Manacalon con la llave que Lord Danantar espera que te dé acceso a un área de alta seguridad. Él piensa que Erathliel Fliann, un elfo silvestre muy querido y una verdadera espina en el costado de Manacalon, fue llevado a esta prisión imperial secreta. Podría haber dejado rastros de su paso en este lugar oscuro. Cliente: El Círculo de Danantar. Recompensa: una esmeralda por valor de 100 po, Sylvan Armor.
+Quest/&PickupQuest_06_GhostsOfTheEmpire_01_OUTCOME	Gracias a la llave, pudiste registrar toda la prisión y encontrar lo que buscabas.
+Quest/&PickupQuest_06_GhostsOfTheEmpire_02_TITLE	Encuentra la entrada secreta
+Quest/&PickupQuest_06_GhostsOfTheEmpire_02_DESCRIPTION	Encuentra dónde insertar la llave para acceder a la prisión interior. Puede que haya algo en el primer pasillo.
+Quest/&PickupQuest_06_GhostsOfTheEmpire_02_OUTCOME	Encontraste una runa en la pared y la llave encajaba perfectamente. Abriste un camino dentro de la prisión.
+Quest/&PickupQuest_07_RunsInTheFamily_Title	Es de familia
+Quest/&PickupQuest_07_RunsInTheFamily_01_TITLE	Regreso a la Torre de la Abjuración
+Quest/&PickupQuest_07_RunsInTheFamily_01_DESCRIPTION	Lord Danantar quiere que recuperes un objeto de las ruinas alrededor de la Torre de Adrasteia. Cree que uno de sus antepasados ​​vivió allí. Encuentra cualquier cosa que demuestre esto y tráelo de vuelta. Cliente: El Círculo de Danantar. Recompensa: una perla por valor de 100 po, tres pergaminos de hechizo de nivel 5.
+Quest/&PickupQuest_07_RunsInTheFamily_01_OUTCOME	Encontraste una carta escondida en la funda de una daga dentro de uno de los edificios antiguos.
+Quest/&PickupQuest_07_RunsInTheFamily_02_TITLE	Reúnete con Joriel Foxeye
+Quest/&PickupQuest_07_RunsInTheFamily_02_DESCRIPTION	Devuélvele la carta a Joriel Foxeye para que pueda transmitirla a Lord Danantar.
+Quest/&PickupQuest_07_RunsInTheFamily_02_OUTCOME	Lord Danantar quedó muy complacido con tu hallazgo y te recompensó.
+Quest/&PickupQuest_12_HallowedDead_Title	Salas de los muertos santificados
+Quest/&PickupQuest_12_HallowedDead_01_TITLE	Revisa el pasillo
+Quest/&PickupQuest_12_HallowedDead_01_DESCRIPTION	El Ceannard está buscando héroes para investigar el Salón de los Hallowed Dead. Las patrullas regulares del Valle han demostrado que alguien o algo entró en los Salones, y todos en el Valle de Coparann ​​son reacios a entrar en los Salones. Descubra lo que está sucediendo allí.
+Quest/&PickupQuest_12_HallowedDead_01_OUTCOME	Entraste y visitaste los Salones y descubriste que estaban infestados de muertos vivientes. Tenías que destruirlos. El lugar ahora está seguro de nuevo.
+Quest/&PickupQuest_12_HallowedDead_02_TITLE	Regreso al Ceannard
+Quest/&PickupQuest_12_HallowedDead_02_DESCRIPTION	Vuelve al Ceannard para decirle que el lugar es seguro y recoge tu recompensa.
+Quest/&PickupQuest_12_HallowedDead_02_OUTCOME	Le dijiste al Ceannard que los Halls estaban ahora seguros y libres de los muertos vivientes, y recibiste una generosa recompensa a cambio.
+Quest/&PickupQuest_12_HallowedDead_Plaque_01	Aquí yacen los Hallowed Dead del Silent Whisper. ¡Desde las sombras miraban, desde las sombras susurraban, y desde las sombras atacaban! Con bastante frecuencia, nuestros enemigos nos vieron llegar demasiado tarde, gracias al trabajo incansable de los susurradores. ¡Nunca en la luz, salvo al final, donde son recordados entre los muertos santificados, caídos por el Imperio!
+Quest/&PickupQuest_12_HallowedDead_Plaque_02	Aquí yacen los Hallowed Dead de las Legiones de Hierro. El poder de las Legiones era el puño de malla del Imperio. Como el hierro, fueron forjados. En el crisol de la batalla, fueron probados una y otra vez y nunca se encontraron deficientes. ¡El más valiente de los valientes, arriesgando la vida y la integridad física por el Imperio, por sus hermanos y hermanas, y por su honor, con la certeza de que sus hazañas serán recordadas en las crónicas de la historia y en los Salones!
+Quest/&PickupQuest_12_HallowedDead_Plaque_03	Aquí yacen los Hallowed Dead del Arcaneum. ¡Mana era el corazón de Manacalon y ninguna de las victorias de las Legiones se logró sin la ayuda del Arcaneum! Nuestros maestros del conocimiento estudiaron a nuestros enemigos, ¡nuestros arcanistas del choque se unieron a la refriega! Incluso nuestros magos de la corte se ganaron su lugar en los Salones con su abnegada devoción al deber, ¡a menudo a costa de sus propias vidas!
+Quest/&Tutorial_04_Quest_GetKeyDescription	OPCIONAL: ¡Evítalo si no eres un pícaro o un guardabosques! Permanezca en modo cauteloso y acérquese al intendente. Roba la llave y retrocede para escalar el muro que conduce a la torre. Debes dominar los juegos de manos para hacerlo.
+Quest/&Tutorial_04_Quest_GetKeyMainTitle	Consigue la llave
+Quest/&Tutorial_04_Quest_GetKeyTitle	OPCIONAL: Roba la llave
+Quest/&Subquest_Acolyte_Quest_Title	Apostasía
+Quest/&Quest_Background_Lawkeeper_MeetStigAtPalace_Outcome1Description	Hablaste con Stig y te dio el nombre de cuatro miembros de la guardia sospechosos para verificar.
+Quest/&Quest_Background_Lawkeeper_Suspect2Description	Garth es un borracho notorio. Encuéntrelo en el barrica de Gravekeep y no dejes que te regañe. Insista si es necesario.
+Quest/&PickupQuest_08_MagisterAmulet_Title	El amuleto del magister
+Quest/&PickupQuest_08_MagisterAmulet_01_TITLE	Encuentra el amuleto
+Quest/&PickupQuest_08_MagisterAmulet_01_DESCRIPTION	Los expertos de Arcaneum creen que un amuleto perteneciente al Magister podría estar ubicado dentro de su antigua torre. Busca en la biblioteca de la torre y devuelve el amuleto. Cliente: El Arcaneum. Recompensa: cuatro gemas por valor de 50 po, un anillo de resistencia al daño necrótico.
+Quest/&PickupQuest_08_MagisterAmulet_01_OUTCOME	Encontraste el amuleto dentro de la torre de la magia.
+Quest/&PickupQuest_08_MagisterAmulet_02_TITLE	Conoce al Arcaneum
+Quest/&PickupQuest_08_MagisterAmulet_02_DESCRIPTION	Lleva el amuleto a Heddlon Surespell of the Arcaneum.
+Quest/&PickupQuest_08_MagisterAmulet_02_OUTCOME	Devolviste el amuleto al Arcaneum, que quedó muy complacido.
+Quest/&Quest_Background_Lawkeeper_Suspect2BTitle	Habla con Garth de nuevo
+Quest/&Quest_Background_Lawkeeper_Suspect2BDescription	Garth no quiere hablar contigo. Intentar otra vez.
+Quest/&Quest_Background_Lawkeeper_Suspect2CTitle	Habla con Garth una vez más
+Quest/&Quest_Background_Lawkeeper_Suspect2CDescription	¡Garth todavía no quiere hablar contigo! ¿Pero quizás la próxima vez ...?
+Quest/&Aer_Elai_Final_Quest_Title	Aer Elai
+Quest/&Aer_Elai_Final_Quest_01_Escape_The_LavaTitle	Salir del río Lava
+Quest/&Aer_Elai_Final_Quest_01_Escape_The_LavaDescription	The Major Gate te llevó al corazón de Badlands, Aer Elai. Desafortunadamente, el lugar es bastante incómodo. Encuentra una salida de este mundo de fuego y lava.
+Quest/&Aer_Elai_Final_Quest_01_Escape_The_Lava_Outcome1Description	Encontraste una posible ruta de escape del río de lava, pero significaba enfrentarte cara a cara con un grupo de Soraks.
+Quest/&Aer_Elai_Final_Quest_02_Climb_MountainTitle	Sube a la montaña
+Quest/&Aer_Elai_Final_Quest_02_Climb_MountainDescription	Encontraste una posible salida de la lava, pero tendrás que escalar una montaña, y encima hay un montón de Soraks. Acércate con cuidado y prepárate para la pelea.
+Quest/&Aer_Elai_Final_Quest_02_Climb_Mountain_Outcome1Description	Te deshiciste de los Soraks que estaban en la cima de la montaña.
+Quest/&Aer_Elai_Final_Quest_03_LocateToothTitle	Encuentra un hueso del magister
+Quest/&Aer_Elai_Final_Quest_03_LocateToothDescription	Te diste cuenta de que los soraks intentaban destruir huesos de dragón. La voz del Magister volvió a resonar en sus cabezas, diciéndoles que buscaran uno de los huesos que pertenecía a su esqueleto, y lo reunieran con la Corona.
+Quest/&Aer_Elai_Final_Quest_03_LocateTooth_Outcome1Description	Buscaste entre los montones de huesos y encontraste un diente de dragón que pertenecía al Magister. O al menos eso pensaba.
+Quest/&Aer_Elai_Final_Quest_03B_LeaveBoneYardTitle	Deja el jardín de huesos
+Quest/&Aer_Elai_Final_Quest_03B_LeaveBoneYardDescription	Ahora tienes un objetivo: llevar el diente del magister a la corona. Continúe avanzando hacia la ubicación de la Grieta.
+Quest/&Aer_Elai_Final_Quest_03B_LeaveBoneYard_Outcome1Description	Pasaste por un túnel en la montaña, emergiendo en otro lugar loco.
+Quest/&Aer_Elai_Final_Quest_04_Find_The_BridgeTitle	Encuentra un camino a través
+Quest/&Aer_Elai_Final_Quest_04_Find_The_BridgeDescription	Llegaste por encima de un enorme lago de ácido y el camino hacia el Rift parece estar al otro lado. ¡Encuentra una manera de acceder al otro lado sin caer a tu muerte!
+Quest/&Aer_Elai_Final_Quest_04_Find_The_Bridge_Outcome1Description	Finalmente encontraste una manera de cruzar el lago de ácido.
+Quest/&Aer_Elai_Final_Quest_05_Follow_Misty_PathTitle	Cruza la niebla
+Quest/&Aer_Elai_Final_Quest_05_Follow_Misty_PathDescription	Llegó a un área nueva y loca, donde gigantescas estatuas parecen flotar en un océano de niebla. Sin embargo, por más loco que parezca este lugar, la Grieta está cerca.
+Quest/&Aer_Elai_Final_Quest_05_Follow_Misty_Path_Outcome1Description	Te encontraste con el camino brumoso.
+Quest/&Aer_Elai_Final_Quest_06_Explore_Bend_PalaceTitle	Explora el palacio
+Quest/&Aer_Elai_Final_Quest_06_Explore_Bend_PalaceDescription	Llegó a un lugar muy diferente. Esta vez, parece un lugar real de la era Manacalon, pero girado verticalmente. La Grieta está muy cerca y puedes descansar un último antes de enfrentarte al enemigo.
+Quest/&Aer_Elai_Final_Quest_06_Explore_Bend_Palace_Outcome1Description	Sal del área.
+Quest/&Aer_Elai_Final_Quest_07_Approach_RiftTitle	Acércate a la grieta
+Quest/&Aer_Elai_Final_Quest_07_Approach_RiftDescription	Es aquí. La Grieta todavía parece existir, incluso si es más pequeña. Obviamente, los Soraks están haciendo todo lo posible para reabrirlo. Acérquese con cuidado y planifique su ataque.
+Quest/&Aer_Elai_Final_Quest_07_Approach_Rift_Outcome1Description	Has llegado a la Grieta.
+Quest/&Aer_Elai_Final_Quest_08_Defeat_SorrakTitle	Derrota al Tshar
+Quest/&Aer_Elai_Final_Quest_08_Defeat_SorrakDescription	El líder de Sorak conocido como Tshar tiene la Corona del Magister. ¡Mata a este monstruo malvado y recupera la corona!
+Quest/&Aer_Elai_Final_Quest_08_Defeat_Sorrak_Outcome1Description	¡Has derrotado al Tshar!
+Quest/&Aer_Elai_Final_Quest_09_Push_Back_SorrakTitle	¡Mantenga la línea!
+Quest/&Aer_Elai_Final_Quest_09_Push_Back_SorrakDescription	Defiende al Magister mientras cierra la Grieta.
+Quest/&Aer_Elai_Final_Quest_09_Push_Back_Sorrak_Outcome1Description	¡Protegiste al Magister y permitiste que la Grieta se sellara para siempre!
+Quest/&Quest_Background_Lowlife_MisayeHiddenSign	¡Misaye se está riendo! ¡Esos dados les dicen a los fieles que es un templo de Misaye, la voluble dama de la suerte!
+Quest/&Quest_Background_Spy_WaitForNextDayTitle	Espere el día siguiente
+Quest/&Quest_Background_Spy_WaitForNextDayDescription	Tan pronto como la inteligencia del Nuevo Imperio descubra el documento, chantajearán a Belmont. Debería irse muy pronto, pero al menos deberías esperar la noche.
+Quest/&Quest_Background_Spy_WaitForNextDay_Outcome1Description	Esperó una noche para dar tiempo a que la inteligencia imperial encontrara el documento y chantajeara a Belmont.
+Quest/&PickupQuest_Any_ReturnToQuestBoardTitle	Regresar a un tablero de misiones
+Quest/&PickupQuest_Any_ReturnToQuestBoardDescription	Regrese al tablero de misiones más cercano para completar la misión y recoger su recompensa.
+Quest/&PickupQuest_Any_ReturnToQuestBoard_Outcome1Description	Misión completada
+Quest/&Quest_Background_Lawkeeper_Search_Outcome1Description	Encontraste pruebas de que Rodric traficaba con bienes robados fuera del Barrio del Templo.
+Quest/&Quest_Background_Lawkeeper_SearchDescription	Busque información incriminatoria sobre las actividades de Rodric.
+Quest/&Quest_Background_Lawkeeper_SearchTitle	Buscar en el escondite
+Quest/&PickupQuest_06_GhostsOfTheEmpire_03_TITLE	Encuentra el diario Sylvan Rebel
+Quest/&PickupQuest_06_GhostsOfTheEmpire_03_DESCRIPTION	Estás en la prisión. Ahora busque los escritos del rebelde selvático.
+Quest/&PickupQuest_06_GhostsOfTheEmpire_03_OUTCOME	¡Encontraste el diario de Fliann!
+Quest/&Caer_Cyflen_Merton_Quest_ReturnSwordTitle	Devuelve la espada a Merton
+Quest/&Caer_Cyflen_Merton_Quest_ReturnSwordDescription	Bitterroot te dio una espada para que la devolvieras a Arwin Merton en Caer Cyflen, junto con un peculiar mensaje para transmitir. Ve allí y habla con el famoso habitante de la barrica de Gravekeep. NO DISPONIBLE EN ACCESO ANTICIPADO.
+Quest/&Caer_Cyflen_Merton_Quest_ReturnSword_Outcome1Description	Le trajiste a Arwin Merton su espada. Parecía sorprendido y confundido. Quizás aprendas más sobre su historia, después de todo.
+Quest/&Caer_Cyflen_Merton_Quest_Patience_Outcome2Description	Te niegas a participar en la historia de Bitterroot con Arwin Merton.
+Quest/&Caer_Cyflen_Quest_Council03_04_FindOtherGems_Outcome1Description_EA	La historia termina aquí para la versión de acceso anticipado del juego.

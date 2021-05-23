@@ -1,0 +1,113 @@
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto0	Casco do Guardião da Tumba
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto1	Esperando por Lord Carran
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto2	Outro round
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto3	Ainda sem sinal
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto4	Lord Carran finalmente chega
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Annie01	Já famoso
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Annie02	The Scavengers
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem01	The Outpost
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem02	A torre
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem03	Os sobreviventes
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem04	Desconfiança
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem05	Finalmente dentro
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem06	O batedor
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem07	O veterano
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem08	O jovem
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem09	Discutindo a situação
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem10	A escolha
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem11	A fuga
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem12	Sobreviventes
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLemGeneric	Inspeção
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Council0	O juramento
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Gorim	Empório de Gorim
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Hugo	Maravilhas de Hugo
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Karel	Boas-vindas de Karel
+Campaign/&CrownOfTheMagister_JournalEntry01	Fuga da prisão
+Campaign/&CrownOfTheMagister_JournalEntry02	Encontro Selvagem
+Campaign/&CrownOfTheMagister_JournalEntry03	A caverna
+Campaign/&CrownOfTheMagister_JournalEntry04	Dirty Deeds
+Campaign/&CrownOfTheMagisterDescription	Os novos reinos de Solasta voltam seus olhos para Badlands e seus tesouros, mas a guerra não é a única ameaça que paira sobre o Principado de Masgarth.
+Campaign/&CrownOfTheMagisterIntroduction1	É o ano de 1024 após o Cataclismo. Novos estados surgiram em torno de Badlands e anseiam por seus tesouros.
+Campaign/&CrownOfTheMagisterIntroduction2	Uma estrada recém-descoberta oferece uma rota mais segura para o coração em ruínas do Império a partir do Principado de Masgarth, perturbando o equilíbrio de poder.
+Campaign/&CrownOfTheMagisterIntroduction3	O Legacy Council é formado, para garantir que esse conhecimento seja compartilhado. Ele emite uma chamada para agentes explorarem Badlands em seu nome.
+Campaign/&CrownOfTheMagisterIntroduction4	Os aventureiros se aglomeram em Caer Cyflen, a capital do Principado e a casa do Conselho. Quatro estranhos se encontram no Casco do Gravekeep, perto das câmaras do Conselho.
+Campaign/&CrownOfTheMagisterJournalStart	Um grupo de aventureiros se reúne na pousada do Gravekeep's Cask, esperando as instruções do Conselho de Legado. A festa tem {0} membros.
+Campaign/&CrownOfTheMagisterTitle	Coroa do Magister
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_PriestOfArun	O Sacerdote de Arun
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_PriestOfPakri	A Sacerdotisa de Pakri
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_PriestOfMaraike	O sacerdote de Maraike
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_PriestOfEinar	O padre de Einar
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_MeetHalmanSummer	Encontro Halman Summer
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_VisitHalmanSummer	Visitando os Antiquários
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_MeetMaddyGreenisle	Conhecendo Maddy Greenisle
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_VisitMaddyGreenisle	Visitando a Torre do Conhecimento
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_MeetHeddlonSurespell	Conhecendo Heddlon Surespell
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_VisitHeddlonSurespell	Visitando o Arcaneum
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_MeetJorielFoxeye	Conhecendo Joriel Foxeye
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_VisitJorielFoxeye	Visitando o Círculo de Danantar
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem13	Eles estão aqui!
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem14	Vivo!
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Council01_a	De volta à cidade
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Council01_b	Bringers of Dark News
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Council01_c	Uma nova missão
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Council02_a	Você estava certo
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Council02_b	A coroa é nossa
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Council02_c	Sintonizado
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Council02_d	Marshal Sunblaze
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Council02_e	The Lost Gem
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Council02_f	A busca
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Council03_a	A Coroa do Magister
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Council03_b	Aventureiros muito importantes
+Campaign/&CrownOfTheMagister_Journal_Mertonsquest_01	Primeiro Necrófago
+Campaign/&CrownOfTheMagister_Journal_Coparann_Cleric	A Sacerdotisa de Arun
+Campaign/&CrownOfTheMagister_Journal_Coparann_Scavengers	Os Necrófagos de Coparann
+Campaign/&CrownOfTheMagister_Journal_TOM_0Beryl	Lady Stonebeard
+Campaign/&CrownOfTheMagister_Journal_TOM_0Robar	The Idle Mercenary
+Campaign/&CrownOfTheMagister_Journal_TOM_0Daliat	Daliat Sunbird, provavelmente
+Campaign/&CrownOfTheMagister_Journal_TOM_1_A	Fanáticos!
+Campaign/&CrownOfTheMagister_Journal_TOM_1_A_intro	A torre da magia
+Campaign/&CrownOfTheMagister_Journal_TOM_1_B_LoneWorker	Condenado desde o início
+Campaign/&CrownOfTheMagister_Journal_TOM_1_C_FlyingRock	Magia Caótica
+Campaign/&CrownOfTheMagister_Journal_TOM_2_DoorOpened	Mistério resolvido
+Campaign/&CrownOfTheMagister_Journal_TOM_2_RunePuzzle	O quebra-cabeça rúnico
+Campaign/&CrownOfTheMagister_Journal_TOM_2_LockedDoor	Bloqueado!
+Campaign/&CrownOfTheMagister_Journal_TOM_3_Soraks	Aqui estão eles!
+Campaign/&CrownOfTheMagister_Journal_TOM_3_SoraksDead	Uma luta difícil
+Campaign/&CrownOfTheMagister_Journal_TOM_3_TheCrown	A coroa misteriosa
+Campaign/&CrownOfTheMagister_Journal_TOM_3_TheCurse	Uma noite turbulenta
+Campaign/&CrownOfTheMagister_Journal_TOM_3_ReturnToCC	Conseguimos!
+Campaign/&CrownOfTheMagister_Journal_Necromancy_01	De lobos e ...
+Campaign/&CrownOfTheMagister_Journal_Necromancy_02	Um fantasma estranho
+Campaign/&CrownOfTheMagister_Journal_Necromancy_03	Um oficial de longa data
+Campaign/&CrownOfTheMagister_Journal_Necromancy_04	O aluno de mestrado
+Campaign/&CrownOfTheMagister_Journal_Necromancy_05	Convidado do Mestre
+Campaign/&CrownOfTheMagister_Journal_Necromancy_06	O Mestre da Necromancia
+Campaign/&CrownOfTheMagister_Journal_Necromancy_Obs_01	O castelo escuro
+Campaign/&CrownOfTheMagister_Journal_Abjuration_00	O Mausoléu
+Campaign/&CrownOfTheMagister_Journal_Abjuration_01	Bela adormecida
+Campaign/&CrownOfTheMagister_Journal_Abjuration_02	A caravana
+Campaign/&CrownOfTheMagister_Journal_Abjuration_03	Oficial do dia
+Campaign/&CrownOfTheMagister_Journal_Abjuration_04	O Ceannard de Coparann
+Campaign/&CrownOfTheMagister_Journal_Abjuration_05	Espionagem: o joalheiro
+Campaign/&CrownOfTheMagister_Journal_Abjuration_06	Eavesdropping: The Maid
+Campaign/&CrownOfTheMagister_Journal_Abjuration_07	Eavesdropping: The Barkeep
+Campaign/&CrownOfTheMagister_Journal_Abjuration_08	Eavesdropping: The Gossip Lovers
+Campaign/&CrownOfTheMagister_Journal_Abjuration_09	Loja de Wilf Warmhearth
+Campaign/&CrownOfTheMagister_Journal_Abjuration_10	A investigação
+Campaign/&CrownOfTheMagister_Journal_Abjuration_11	O Barão?
+Campaign/&CrownOfTheMagister_Journal_Abjuration_12	Algo está errado
+Campaign/&CrownOfTheMagister_Journal_Abjuration_13	Mostrando o selo
+Campaign/&CrownOfTheMagister_Journal_Abjuration_14	Traição revelada
+Campaign/&CrownOfTheMagister_Journal_Abjuration_14_b	O Barão está seguro!
+Campaign/&CrownOfTheMagister_Journal_Abjuration_14_c	Herança de Kythaela
+Campaign/&CrownOfTheMagister_Journal_Abjuration_14_d	The Major Gate
+Campaign/&CrownOfTheMagister_Journal_Abjuration_16	Agradecimentos oficiais
+Campaign/&CrownOfTheMagister_Journal_Abjuration_17	Torre do Mestre
+Campaign/&CrownOfTheMagister_Journal_Abjuration_18	The Brood
+Campaign/&CrownOfTheMagister_Journal_Abjuration_19	Destino de Kythaela
+Campaign/&CrownOfTheMagister_Journal_Abjuration_20	O despertar
+Campaign/&CrownOfTheMagister_Journal_Abjuration_21	O Oraculo
+Campaign/&CrownOfTheMagister_Journal_Abjuration_22	Masmorras de Manacalon
+Campaign/&CrownOfTheMagister_Journal_Abjuration_23	Strike True Tavern
+Campaign/&UserCampaignTitle	Campanha de usuário
+Campaign/&UserCampaignDescription	Permite que você comece uma aventura em um local do usuário

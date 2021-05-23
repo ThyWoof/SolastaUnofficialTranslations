@@ -1,0 +1,12 @@
+FightingStyle/&ArcheryDescription	Você ganha +2 de bônus nas jogadas de ataque com armas de longo alcance.
+FightingStyle/&ArcheryTitle	Tiro com arco
+FightingStyle/&DefenseDescription	Enquanto estiver usando armadura, você ganha um bônus de +1 na CA.
+FightingStyle/&DefenseTitle	Defesa
+FightingStyle/&DuelingDescription	Quando você está empunhando uma arma corpo-a-corpo em uma mão e nenhuma outra arma, você ganha um bônus de +2 nas jogadas de dano com aquela arma.
+FightingStyle/&DuelingTitle	Duelo
+FightingStyle/&GreatWeaponDescription	Quando você rola 1 ou 2 em um dado de dano para um ataque feito com uma arma corpo-a-corpo que está empunhando com as duas mãos, você pode rolar novamente o dado. Você deve usar o novo teste, mesmo que seja 1 ou 2. A arma deve ter a propriedade de duas mãos ou versátil para que você obtenha este benefício.
+FightingStyle/&GreatWeaponTitle	Grande luta com armas
+FightingStyle/&ProtectionDescription	Quando uma criatura que você pode ver ataca um alvo diferente de você que está a menos de 1,5 m de você, você pode usar sua reação para impor desvantagem na jogada de ataque. Você deve estar empunhando um escudo.
+FightingStyle/&ProtectionTitle	Proteção
+FightingStyle/&TwoWeaponDescription	Ao entrar em combate com duas armas, você pode adicionar seu modificador de habilidade ao dano do segundo ataque.
+FightingStyle/&TwoWeaponTitle	Duas armas de combate

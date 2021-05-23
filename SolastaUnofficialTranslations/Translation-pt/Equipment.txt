@@ -1,0 +1,1648 @@
+Equipment/&_Item_RingOfProtection_plus_one_Title	Anel de Proteção +1
+Equipment/&_Item_RingOfProtection_plus_one_Unidentified_Description	Este anel tem um sinete em forma de escudo. Pode ter propriedades mágicas.
+Equipment/&_Item_RingOfProtection_plus_one_Unidentified_Title	Anel precioso
+Equipment/&Abjuration_MonasteryJournal_Content	Já se passou uma semana desde que fomos transportados para este lugar miserável! Acho que os deuses nos abandonaram! Do nosso mosteiro, o único edifício que falta é o templo e os seus dois padres residentes! Em seu lugar, temos essa construção esquisita, fora do alcance do píer, na qual nem entramos.\n\nTodos os sobreviventes estão com medo. Eles estão se voltando para mim em busca de palavras de consolo, mas sou apenas um noviço, ainda não estou pronto para ser padre. Como eles, sou um refugiado que fugiu de Sorr-Tarr e seu servo vil.\n\nNão sei onde estamos, mas estamos longe de casa. Nosso pequeno vale é um pequeno bolsão de Tirmar, perdido - não sei onde!
+Equipment/&Abjuration_MonasteryJournal_Content2	Animais estranhos vagam pela noite, mas por algum motivo eles não se atrevem a entrar em nosso vale.\n\nEnterrei minha filha ontem à noite. Ela morreu tanto de desespero quanto do deslizamento de rochas e do terremoto. Agora, espero pelo meu próprio fim.\n\nViajante - se você ler isto, faça uma oração por nossas almas, pois eu não posso. Rejeito os deuses cuja loucura nos trouxe aqui! Eu amaldiçoo todos eles!\n\nAs feras ficaram mais ousadas, mas ainda evitam nosso vale. Uma pena, já que eu poderia usar a carne. Estou sobrevivendo com grãos e vegetais, mas a solidão me dá muito trabalho e minha força não é o que era.
+Equipment/&Abjuration_MonasteryJournal_Content3	Já se passaram 40 anos. Eu sou o último, um velho agora! Enterrei todos eles - todos! Mas não consegui me obrigar a dar a extrema-unção. Não - os deuses nos deixaram para apodrecer aqui e eu me recusei a enviar nossas almas de volta para eles!\n\nEmtan Darwaz, o último do Mosteiro Sandblaze
+Equipment/&Abjuration_MonasteryJournal_Description	Uma página de um diário encontrado no mosteiro. Tal jornal seria de grande interesse para certas facções do Conselho, pois mostra que alguns efeitos colaterais do Cataclismo foram de longo alcance.
+Equipment/&Abjuration_MonasteryJournal_Title	Journal of Emtan Darwaz
+Equipment/&AmmoPackFormat	{0} x {1}
+Equipment/&AntitoxinDescription	Uma decocção protetora que aumenta a resistência ao veneno por uma hora. (Vantagem para testes de resistência contra veneno)
+Equipment/&AntitoxinTitle	Antitoxina
+Equipment/&ArcaneFocusCrystalTitle	Cristal
+Equipment/&ArcaneFocusGeneralDescription	Um feiticeiro, feiticeiro ou mago pode usar esse tipo de item como foco de conjuração.
+Equipment/&ArcaneFocusOrbTitle	Esfera
+Equipment/&ArcaneFocusRodTitle	Cajado
+Equipment/&ArcaneFocusStaffTitle	Pessoal
+Equipment/&ArcaneFocusWandTitle	Varinha
+Equipment/&Armor_Adventuring_Wizard_OutfitDescription	Roupas resistentes e elegantes, equipadas com alças e bolsos para livros de feitiços e componentes. Fornece nenhuma proteção de armadura.
+Equipment/&Armor_Adventuring_Wizard_OutfitTitle	Roupas de feiticeiro de aventura
+Equipment/&Armor_BreastplateDescription	Esta armadura consiste em uma peça de metal no peito usada com couro flexível. Embora deixe as pernas e os braços relativamente desprotegidos, esta armadura oferece uma boa proteção para os órgãos vitais do usuário, enquanto o deixa relativamente desimpedido.
+Equipment/&Armor_BreastplateTitle	Peitoral
+Equipment/&Armor_ChainMailDescription	Feita de anéis de metal entrelaçados, a cota de malha inclui uma camada de tecido acolchoado usado por baixo da cota de malha para evitar atrito e amortecer o impacto dos golpes. O traje inclui manoplas.
+Equipment/&Armor_ChainMailTitle	Cota de Malha
+Equipment/&Armor_ChainShirtDescription	Feita de anéis de metal entrelaçados, uma camisa de corrente é usada entre as camadas de roupas ou couro. Esta armadura oferece proteção modesta para a parte superior do corpo do usuário e permite que o som dos anéis esfregando um contra o outro seja abafado pelas camadas externas.
+Equipment/&Armor_ChainShirtTitle	Camisa de corrente
+Equipment/&Armor_Commoner_ClothesDescription	Roupas básicas feitas de lã, couro e linho.
+Equipment/&Armor_Commoner_ClothesTitle	Roupas do Plebeu
+Equipment/&Armor_Dwarven_HalfPlateDescription	A meia placa consiste em placas de metal moldadas que cobrem a maior parte do corpo do usuário. Não inclui proteção para as pernas além de grevas simples presas com tiras de couro. Esta armadura é decorada no estilo dos anões.
+Equipment/&Armor_Dwarven_HalfPlateTitle	Meia Placa Anã
+Equipment/&Armor_HalfPlateDescription	A meia placa consiste em placas de metal moldadas que cobrem a maior parte do corpo do usuário. Não inclui proteção para as pernas além de grevas simples presas com tiras de couro.
+Equipment/&Armor_HalfPlateTitle	Meia Prato
+Equipment/&Armor_HideDescription	Esta armadura tosca consiste em peles e peles grossas. É comumente usado por tribos bárbaras, humanóides malignos e outras pessoas que não têm acesso às ferramentas e materiais necessários para criar armaduras melhores.
+Equipment/&Armor_HideTitle	Esconder
+Equipment/&Armor_LeatherDescription	O peitoral e os protetores dos ombros desta armadura são feitos de couro que foi endurecido por ser fervido em óleo. O resto da armadura é feito de materiais mais macios e flexíveis.
+Equipment/&Armor_LeatherTitle	Couro
+Equipment/&Armor_Noble_ClothesDescription	Roupas finas de tecidos caros, decoradas com bordados de ouro ou prata.
+Equipment/&Armor_Noble_ClothesTitle	Traje nobre
+Equipment/&Armor_PaddedDescription	A armadura acolchoada consiste em camadas acolchoadas de tecido e rebatidas.
+Equipment/&Armor_PaddedTitle	Acolchoado
+Equipment/&Armor_PlateDescription	A placa consiste em placas de metal moldadas e interligadas para cobrir todo o corpo. Uma armadura inclui manoplas, botas pesadas de couro, um capacete com viseira e grossas camadas de acolchoamento por baixo da armadura. Fivelas e tiras distribuem o peso pelo corpo.
+Equipment/&Armor_PlateTitle	Placa
+Equipment/&Armor_RingMailDescription	Esta armadura é de couro com pesados ​​anéis costurados nela. Os anéis ajudam a reforçar a armadura contra golpes de espadas e machados. A cota de malha é inferior à cota de malha e geralmente é usada apenas por aqueles que não podem pagar por uma armadura melhor.
+Equipment/&Armor_RingMailTitle	Ring Mail
+Equipment/&Armor_ScaleMailDescription	Essa armadura consiste em um casaco e perneiras (e talvez uma saia separada) de couro coberto com peças de metal sobrepostas, muito parecidas com as escamas de um peixe. O traje inclui manoplas.
+Equipment/&Armor_ScaleMailTitle	Scale Mail
+Equipment/&Armor_Scavenger_Outfit_01_Description	Uma roupa simples de couro, linho e lã, mostrando sinais de velhice e sujeira.
+Equipment/&Armor_Scavenger_Outfit_01_Title	Roupa de Scavenger Ranger
+Equipment/&Armor_Scavenger_Outfit_02_Description	Uma roupa simples de couro, linho e lã, mostrando sinais de velhice e sujeira.
+Equipment/&Armor_Scavenger_Outfit_02_Title	Roupa de Scavenger Scout
+Equipment/&Armor_Scholar_ClothesDescription	Um traje elegante de tecido fino, com decoração rica.
+Equipment/&Armor_Scholar_ClothesTitle	Roupas de Acadêmico
+Equipment/&Armor_SplintDescription	Esta armadura é feita de tiras verticais estreitas de metal presas a um forro de couro que é usado sobre o acolchoamento de tecido. A cota de malha flexível protege as articulações.
+Equipment/&Armor_SplintTitle	Tala
+Equipment/&Armor_StuddedLeatherDescription	Feito de couro resistente, mas flexível, o couro cravejado é reforçado com rebites ou pontas estreitas.
+Equipment/&Armor_StuddedLeatherTitle	Couro cravejado
+Equipment/&Armor_VigdisDescription	Esta cota de malha é uma herança de família, feita com o renomado trabalho artesanal dos mestres ferreiros anões da Aliança da Neve.
+Equipment/&Armor_VigdisTitle	Kaikkonen Family Armor
+Equipment/&ArrowPlus1Title	Flecha +1
+Equipment/&ArrowTypeTitle	Flecha
+Equipment/&ArtisanToolsCategoryTitle	Ferramentas do artesão ({0})
+Equipment/&ArtisanToolSmithToolsTypeDescription	Esses especialistas são necessários para exercer uma profissão ou comércio.
+Equipment/&ArtisanToolSmithToolsTypeTitle	Ferramentas de Smith
+Equipment/&ArtItems_25_GP_Comb	Pente de Prata
+Equipment/&ArtItems_25_GP_Embroidered_silk_scarf	Lenço de seda bordado
+Equipment/&ArtItems_25_GP_Engraved_bone_dice	Dado de Osso Gravado
+Equipment/&ArtItems_25_GP_Generic_Description	Um item valioso que você pode vender para uma loja.
+Equipment/&ArtItems_25_GP_Gold_bracelet	Pulseira de ouro
+Equipment/&ArtItems_25_GP_Gold_locket	Medalhão de ouro
+Equipment/&ArtItems_25_GP_Mirror	Espelho
+Equipment/&ArtItems_25_GP_Silver_brooch	Broche de prata
+Equipment/&ArtItems_25_GP_Silver_chalice	Cálice de Prata
+Equipment/&ArtItems_25_GP_Statuette	Estatueta de bronze
+Equipment/&ArtItems_25_GP_Velvet_mask	Máscara de Veludo
+Equipment/&ArtItems_50_GP_Animal_figurines	Estatuetas de Animais
+Equipment/&ArtItems_50_GP_Bronze_crown	Coroa de bronze
+Equipment/&ArtItems_50_GP_Embroided_silk_robe	Robe de Seda Bordado
+Equipment/&ArtItems_50_GP_Gem_bracelet	Pulseira de joias
+Equipment/&ArtItems_50_GP_Gem_encrusted_chalice	Cálice de Joias
+Equipment/&ArtItems_50_GP_Gem_ring	Anel de joias
+Equipment/&ArtItems_50_GP_Gemstone_pendant	Pingente de Pedras Preciosas
+Equipment/&ArtItems_50_GP_Generic_Description	Um item valioso que você pode vender para uma loja.
+Equipment/&ArtItems_50_GP_Gold_dragon_statuette	Estatueta de Dragão de Ouro
+Equipment/&ArtItems_50_GP_Imperial_figurine	Estatueta imperial
+Equipment/&ArtItems_50_GP_Ivory_statuette	Estatueta de marfim
+Equipment/&ArtItems_50_GP_Jade_Pendant	Pingente de jade
+Equipment/&AttackModifier	Bônus de Ataque
+Equipment/&Bacgkground_Academic_Item_Description	Um diário pessoal para registrar suas aventuras e descobertas para a posteridade.
+Equipment/&Bacgkground_Academic_Item_Title	Caderno
+Equipment/&Bacgkground_Acolyte_Item_Description	Um livro simples contendo orações ao seu deus, em linguagem comum e antiga tirmariana.
+Equipment/&Bacgkground_Acolyte_Item_Title	Livro de oração
+Equipment/&Bacgkground_Aristocrat_Item_Description	Este anel carrega as armas de sua nobre família, marcando você como um membro.
+Equipment/&Bacgkground_Aristocrat_Item_Title	Sigil Ring
+Equipment/&Bacgkground_Lawkeeper_Item_Description	Você não deveria mais usá-lo, mas este distintivo já foi um símbolo de sua autoridade como policial.
+Equipment/&Bacgkground_Lawkeeper_Item_Title	Distintivo de Lawkeeper
+Equipment/&Bacgkground_Sellsword_Item_Description	Uma marca de seu serviço e coragem durante seus dias como uma espada de aluguel.
+Equipment/&Bacgkground_Sellsword_Item_Title	Fita de campanha militar
+Equipment/&Backpack3Title	Saco de contenção
+Equipment/&BackpackDescription	O amigo indispensável do aventureiro. Armazena quantos equipamentos você quiser - se você for forte o suficiente para carregá-los.
+Equipment/&BackpackTitle	Mochila
+Equipment/&BaseArmorDescription	AC definido para {0}\n+ Bônus DEX
+Equipment/&BaseArmorNoDexDescription	AC definido para {0}\nSem bônus DEX
+Equipment/&BaseArmorWithCapDescription	AC definido para {0}\n+ Bônus DEX (máx. {1})
+Equipment/&BattleaxeTypeTitle	Machado de batalha
+Equipment/&BlankScrollDescription	Necessário para criar um pergaminho de feitiço.
+Equipment/&BlankScrollTitle	Pergaminho em Branco
+Equipment/&BlowgunTypeTitle	Zarabatana
+Equipment/&BoltplusOne	Parafuso +1
+Equipment/&BoltTypeTitle	Parafuso de besta
+Equipment/&BoneKeep_Angbi_Bones_Description	Uma pilha de ossos diferentes que podem fazer parte do esqueleto de uma pessoa. Alguns desses ossos parecem ter algum tipo de marca de dente de animal.
+Equipment/&BoneKeep_Angbi_Bones_Title	Uma Pilha de Ossos
+Equipment/&BoneKeep_Document_AdventurerJournal01_Description	Parte de um diário com uma série de anotações, encontrado em um aventureiro morto dentro do Labirinto Solar.
+Equipment/&BoneKeep_Document_AdventurerJournal01_text1	Aksha me disse que se quiséssemos encontrar o Mestre, teríamos que encontrar as escadas e então seguir um caminho específico.
+Equipment/&BoneKeep_Document_AdventurerJournal01_text2	Assim que encontrarmos as escadas, precisamos descer, suba.
+Equipment/&BoneKeep_Document_AdventurerJournal01_text3	Depois disso, ela nos disse para virar à direita, subir e descer mais uma vez ...
+Equipment/&BoneKeep_Document_AdventurerJournal01_Title	Diário do Aventureiro
+Equipment/&BoneKeep_Document_AdventurerJournal02_Description	Uma série de páginas de um diário.
+Equipment/&BoneKeep_Document_AdventurerJournal02_text1	Ontem à noite finalmente encontramos as escadas! Acho que Aksha estava se segurando, porque não são escadas de verdade - apenas algum tipo de símbolo ...
+Equipment/&BoneKeep_Document_AdventurerJournal02_text2	Pela manhã começaremos de novo e desta vez seguiremos o caminho até a saída do labirinto. Agora tenho certeza de que a escada principal no meio do labirinto é, na verdade, a saída.
+Equipment/&BoneKeep_Document_AdventurerJournal02_text3	Eu tinha razão! Seguimos a placa e parece funcionar - estamos nos aproximando da escada principal. Hoje encontramos dois novos símbolos e ... Espere! Não acho que estamos sozinhos no labirinto. Eu posso ouvi-los vindo em minha direção. Vamos nos afastar dessa sala e tentar nos esconder até ...
+Equipment/&BoneKeep_Document_AdventurerJournal02_Title	Notas de aventureiro
+Equipment/&BoneKeep_Document_AkshasJournal_Description	Um livro trancado contendo as anotações de Aksha desde sua chegada ao Castelo.
+Equipment/&BoneKeep_Document_AkshasJournal_text1	Lizzaria enviou outro grupo de seus zumbis idiotas. Um deles era um ogro, como se isso fosse dificultar as coisas. Reek and Filth cuidou disso - eu nem precisei sair. Quando ela vai entender que suas tentativas são inúteis? Estou ficando cansado de fingir que ignoro quem manda esses monstros. Também estou ficando cansado de Mardracht. O velho elfo é poderoso, com certeza, mas sua mente está em decadência. Enquanto ele se barricou em seu solar, li todos os seus malditos livros, mas não aprendi quase nada.
+Equipment/&BoneKeep_Document_AkshasJournal_text2	A Doom Gem. Levei uma eternidade para imbuir poder suficiente para fazer valer a pena. Ainda não entendo como os feiticeiros de Manacalon podem ter feito isso em menos de um ano. De qualquer forma, agora eu poderia usá-lo para criar uma bela arma, mas para quê? Matando os zumbis de Lizarria? Estou perdendo o interesse pelo projeto agora que a parte difícil está feita. Não preciso de uma adaga mágica para fazer meus inimigos sangrarem.\n
+Equipment/&BoneKeep_Document_AkshasJournal_text3	Reek é um bom lacaio. Ele costumava ser bonito, mas por baixo não combina com ele. Agora ele é apenas um peão obediente. Quem diria que ele já foi um nobre? Eu mantive sua armadura e escudo - ele não precisa mais deles. A sujeira sempre foi escória, mas agora pelo menos ela tem alguma utilidade. Ela traz cadáveres para alimentar os ghouls, então eu não tenho que andar em meio a pilhas de idiotas podres. Estou pensando em criar outro Brood, no entanto. Uma boa e carnuda Ninhada de Carne seria bom. Talvez no próximo mês.
+Equipment/&BoneKeep_Document_AkshasJournal_Title	Diário de Aksha
+Equipment/&BoneKeep_Magic_Rune_Description	Esta runa mágica provavelmente utilizou um feitiço extremamente poderoso, cujo segredo foi perdido com o Cataclismo.
+Equipment/&BoneKeep_Magic_Rune_Title	Runa Esgotada
+Equipment/&BonusArmorDescription	{0} para AC
+Equipment/&BootsLevitationTitle	Botas de Levitação
+Equipment/&BootsSpecialDescription	Estas botas são de fabricação superior.
+Equipment/&BootsSpecialTitle	Botas lindas
+Equipment/&BracersOfArcheryTitle	Braçadeiras de tiro com arco
+Equipment/&BracersOfArcheryUnidentifiedDescription	Essas braçadeiras finamente decoradas podem ter propriedades mágicas.
+Equipment/&BracersOfArcheryUnidentifiedTitle	Braçadeiras Magníficas
+Equipment/&BulletTypeTitle	Sling Bullet
+Equipment/&BurglarPackTitle	Pacote do ladrão
+Equipment/&CaerLem_Daliat_Document_Content	Relatório operacional para o Primeiro Sussurrador\nInvestigação dos clérigos humanos e seus poderes.
+Equipment/&CaerLem_Daliat_Document_Content2	<i>O resto do texto é indecifrável</i>
+Equipment/&CaerLem_Daliat_Document_Description	Um velho pergaminho, escrito em algum tipo de cifra élfica.
+Equipment/&CaerLem_Daliat_Document_Title	Pergaminho Silent Whisper
+Equipment/&CaerLem_Document_Inquisitor_Content	Meu caro Andrei,\nNão tenho notícias de você desde nosso êxodo desesperado para este mundo terrível. Meus pensamentos estão com você e espero que um dia possamos nos reunir e viver em paz finalmente.\nEsperávamos por um mundo amigável e pacífico, longe do alcance do Inimigo, mas, infelizmente, encontramos apenas novos inimigos, e nossos videntes me dizem que Sorr-Akkath não está muito atrás. A guerra não acabou, e também devemos enfrentar esses Manacalons.\nEles exercem uma magia tão potente quanto a de qualquer sacerdote, mas o Sumo Sacerdote nos garante que não há deuses neste mundo.\nEstes são tempos sombrios e eles nos testarão, mas este mundo é nossa última esperança.\nQue o Senhor da Valor cuide de você, meu amor.\nArtus
+Equipment/&CaerLem_Document_Inquisitor_Content2	A maioria das páginas foi arrancada. Apenas esta última página permanece.
+Equipment/&CaerLem_Document_Inquisitor_Description	Um livro com capa de couro, escrito à mão na língua tirmariana.
+Equipment/&CaerLem_Document_Inquisitor_Title	Diário do Inquisidor Tirmarian
+Equipment/&CaerLem_Document_MasterSmith_Content	Memórias da Fundição de Guerra\nInscrição 23
+Equipment/&CaerLem_Document_MasterSmith_Content2	Devo confessar, as maravilhas dos encantadores de Solasta são inspiradoras.\nGraças a Laerin, meu novo amigo na fundição de guerra, aprendi como preparar armas para o encantamento. Claro, apenas Laerin tem o conhecimento mágico para completar o ... milagre. Arun me perdoe por essa palavra, mas o que essa magia élfica pode realizar é simplesmente divino.\nInfelizmente, nossas tropas estão se concentrando para sitiar o Rift e parar o inimigo de uma vez por todas. Estou pronto para minha primeira arma mágica, um presente para minha senhora Karyn. Ela já é uma lutadora formidável, mas com a lâmina que Laerin irá encantar, ela será ainda mais.\nEu colecionei vários encantamentos e ainda não tenho certeza de qual irá agradá-la mais.
+Equipment/&CaerLem_Document_MasterSmith_Description	Um livro com capa de couro, escrito à mão na língua tirmariana.
+Equipment/&CaerLem_Document_MasterSmith_Title	Memórias do Mestre Tirmarian Smith
+Equipment/&CaerLem_Gate_Plaque_Content	Ilustração TDC
+Equipment/&CaerLem_Gate_Plaque_Description	Uma placa prateada de um portão mágico pré-cataclismo.
+Equipment/&CaerLem_Gate_Plaque_Title	Placa do Portão Imperial
+Equipment/&CaerLem_Henrik_Notebook_Content	... algo está errado com o capitão. Eu disse à tenente, mas ela não me ouviu. Ela não pode acreditar que Henrik possa estar errado sobre qualquer coisa. Posso ter que confrontá-lo eu mesma ...
+Equipment/&CaerLem_Henrik_Notebook_Description	Uma página arrancada de um caderno.
+Equipment/&CaerLem_Henrik_Notebook_Title	Página do caderno
+Equipment/&CaerLem_TirmarianSymbol_Description	Este amuleto parece ser um símbolo sagrado da era pré-cataclismo, o que significa que é de origem tirmariana. A julgar pela sua forma, pertencia a um sacerdote de Arun.
+Equipment/&CaerLem_TirmarianSymbol_Title	Símbolo sagrado tirmariano
+Equipment/&CandleTitle	Vela
+Equipment/&ChemicalsDescription	Necessário para criar a maioria das poções, remédios e venenos.
+Equipment/&ChemicalsTitle	Produtos químicos
+Equipment/&CloseRangeTitle	Queima-roupa
+Equipment/&ClothesCommonTitle	Roupas comuns
+Equipment/&ClubTypeTitle	Clube
+Equipment/&ComponentPouchDescription	Contém componentes materiais para a maioria dos feitiços. Componentes caros não estão incluídos.
+Equipment/&ComponentPouchTitle	Bolsa de Componente
+Equipment/&ContainerArmorStandTitle	Armor Stand
+Equipment/&ContainerBarrelTitle	Barril
+Equipment/&ContainerBasketTitle	Cesta
+Equipment/&ContainerBedTitle	Cama
+Equipment/&ContainerBucketTitle	Balde
+Equipment/&ContainerCartTitle	Carrinho
+Equipment/&ContainerChestTitle	Peito
+Equipment/&ContainerCorpseTitle	Cadáver
+Equipment/&ContainerCrateTitle	Caixote
+Equipment/&ContainerGroundTitle	Chão
+Equipment/&ContainerLibraryTitle	Biblioteca
+Equipment/&ContainerNightStandTitle	Criado-mudo
+Equipment/&ContainerPersonalTitle	Itens carregados
+Equipment/&ContainerPotsTitle	Potes
+Equipment/&ContainerSackTitle	Saco
+Equipment/&ContainerWeaponsRackTitle	Rack de armas
+Equipment/&CraftingManualContentDescription	Para criar o {0}, você precisa de:\n{1}
+Equipment/&CraftingManualDescription	Leia este manual para aprender como criar o item {0}.
+Equipment/&CraftingManualTitle	Artesanato {0}
+Equipment/&CraftingPackDescription	Contém ingredientes para começar a preparar poções.
+Equipment/&CraftingPackTitle	Crafting Starter Pack
+Equipment/&CurrencyCopperDescription	Peças de cobre, cada uma valendo um centésimo de uma peça de ouro.
+Equipment/&CurrencyCopperTitle	cp
+Equipment/&CurrencyElectrumDescription	Peças elétricas, cada uma valendo meia peça de ouro.
+Equipment/&CurrencyElectrumTitle	ep
+Equipment/&CurrencyGoldDescription	Peças de ouro.
+Equipment/&CurrencyGoldTitle	gp
+Equipment/&CurrencyPlatinumDescription	Peças de platina, cada uma valendo dez peças de ouro.
+Equipment/&CurrencyPlatinumTitle	pp
+Equipment/&CurrencySilverDescription	Peças de prata, cada uma valendo um décimo de uma peça de ouro.
+Equipment/&CurrencySilverTitle	sp
+Equipment/&Dagger_plus_1_Description	A adaga de um oficial da Legião de Ferro da era Imperial, finamente trabalhada e imbuída de magia.
+Equipment/&Dagger_plus_1_Title	Adaga +1
+Equipment/&Dagger_plus_1_Unidentified_Description	Esta adaga com gravura de runas é claramente de fabricação superior.
+Equipment/&Dagger_plus_1_Unidentified_Title	Adaga Magnífica
+Equipment/&DaggerPlus1TypeTitle	Adaga + 1
+Equipment/&DaggerTypeTitle	Punhal
+Equipment/&DamageModifier	Bônus de dano
+Equipment/&DartTypeTitle	Dardo
+Equipment/&DeviceAttunedToCharacterFormat	Sintonizado com {0}
+Equipment/&DeviceChargesCurrentOverMaxPlural	{0} / {1} cobranças
+Equipment/&DeviceChargesCurrentOverMaxSingle	{0} / {1} cobrança
+Equipment/&DeviceLastChargeDestroyDescription	Gastar a última carga destruirá o item.
+Equipment/&DeviceLastChargeDestroyOn1Description	Gastar a última carga e lançar 1 em 1d20 destruirá o item.
+Equipment/&DeviceRequiresAttunementTitle	Requer sintonização (breve descanso)
+Equipment/&DeviceUsageSingleUseTitle	Consumível
+Equipment/&DisguiseKitToolTypeDescription	Esta bolsa de cosméticos, tintura de cabelo e pequenos adereços permite que você crie disfarces que mudam sua aparência física. A proficiência com este kit permite adicionar seu bônus de proficiência a qualquer teste de habilidade que você fizer para criar um disfarce visual.
+Equipment/&DisguiseKitToolTypeTitle	Kit de disfarce
+Equipment/&DocumentRestUnreadableDescription	O resto do texto é ilegível.
+Equipment/&DungeoneerPackTitle	Pacote do Calabouço
+Equipment/&EmptyFlaskDescription	Necessário para criar poções, fogo do alquimista ou água benta. Também pode armazenar ácido ou óleo.
+Equipment/&EmptyFlaskTitle	Frasco Vazio
+Equipment/&EmptyVialDescription	Necessário para criar venenos ou antitoxinas.
+Equipment/&EmptyVialTitle	Frasco Vazio
+Equipment/&Enchanted_BattleAxe_of_Acuteness_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_BattleAxe_of_Acuteness_Title	Machado de Batalha da Acuidade
+Equipment/&Enchanted_BattleAxe_of_Sharpness_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_BattleAxe_of_Sharpness_Title	Machado de Batalha da Nitidez
+Equipment/&Enchanted_BattleAxe_Punisher_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon. A combinação do melhor metal e uma pedra eslavo deu a este machado um incrível poder de perfuração.
+Equipment/&Enchanted_BattleAxe_Punisher_Title	Punisher Battleaxe
+Equipment/&Enchanted_Breastplate_Of_Deflection_Title	Peitoral de deflexão
+Equipment/&Enchanted_Breastplate_Of_Sturdiness_Title	Peitoral de Robustez
+Equipment/&Enchanted_Chainmail_Of_Robustness_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Manacalon. Seu design foi criado por Ildurial Stronghand, para a guarda pessoal da Imperatriz.
+Equipment/&Enchanted_Chainmail_Of_Robustness_Title	Cota de malha de robustez
+Equipment/&Enchanted_Chainmail_Of_Sturdiness_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Manacalon. Seu desenho original tinha o nome de Eaedhel Trueheart gravado no peito esquerdo.
+Equipment/&Enchanted_Chainmail_Of_Sturdiness_Title	Cota de malha de robustez
+Equipment/&Enchanted_Crown_Of_The_Magister_Item_Description	Você encontrou esta coroa na velha torre mágica, guardada por Soraks. Provavelmente é mágico, mas precisa de identificação.
+Equipment/&Enchanted_Crown_Of_The_Magister_Item_Identified_Description	A Coroa é um artefato Manacalon antigo, mas incompleto, cujos poderes totais são provavelmente ativados pela colocação de oito joias mágicas em seus encaixes vazios.
+Equipment/&Enchanted_Crown_Of_The_Magister_Item_Identified_Full_Description	A Coroa está completa e canaliza o incrível poder do Magister!
+Equipment/&Enchanted_Crown_Of_The_Magister_Item_Identified_Title	Coroa do Magister
+Equipment/&Enchanted_Crown_Of_The_Magister_Item_Title	Coroa misteriosa
+Equipment/&Enchanted_Dagger_Frostburn_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_Dagger_Frostburn_Title	Adaga Frostburn
+Equipment/&Enchanted_Dagger_of_acuteness_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_Dagger_of_acuteness_Title	Adaga da Acuidade
+Equipment/&Enchanted_Dagger_of_Sharpness_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_Dagger_of_Sharpness_Title	Adaga de Afiação
+Equipment/&Enchanted_Dagger_Souldrinker_Title	Adaga Souldrinker
+Equipment/&Enchanted_EmpressGarb_Title	Imperatriz Garb Chain Shirt
+Equipment/&Enchanted_Fullplate_Of_Robustness_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Manacalon. Ildurial Stronghand forjou a primeira daquelas armaduras para a guarda pessoal do imperador.
+Equipment/&Enchanted_Fullplate_Of_Robustness_Title	Plate Armor of Robustness
+Equipment/&Enchanted_Fullplate_Of_Sturdiness_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Manacalon. Seu projeto foi um dos primeiros trabalhos do Ildurial Stronghand para melhor proteger as tropas de choque imperiais.
+Equipment/&Enchanted_Fullplate_Of_Sturdiness_Title	Plate Armor of Sturdiness
+Equipment/&Enchanted_GreatAxe_of_Sharpness_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_GreatAxe_of_Sharpness_Title	Grande Machado de Nitidez
+Equipment/&Enchanted_Greataxe_Stormblade_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_Greataxe_Stormblade_Title	Stormblade Greataxe
+Equipment/&Enchanted_Greatsword_Doom_Title	Doomblade Greatsword
+Equipment/&Enchanted_Greatsword_Lightbringer_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_Greatsword_Lightbringer_Title	Espada Larga Lightbringer
+Equipment/&Enchanted_Greatsword_of_acuteness_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_Greatsword_of_acuteness_Title	Espada larga de acuidade
+Equipment/&Enchanted_Halfplate_Of_Robustness_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Manacalon.
+Equipment/&Enchanted_Halfplate_Of_Robustness_Title	Meia Placa de Robustez
+Equipment/&Enchanted_Halfplate_Of_Sturdiness_Title	Meia Placa de Robustez
+Equipment/&Enchanted_LeatherArmor_Of_FlameDancing_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Manacalon. Imbuída da essência do fogo, esta armadura permite que seu portador resista até mesmo ao fogo arcano.
+Equipment/&Enchanted_LeatherArmor_Of_FlameDancing_Title	Armadura de Couro da Dança das Chamas
+Equipment/&Enchanted_LeatherArmor_Of_Robustness_Title	Armadura de Couro da Robustez
+Equipment/&Enchanted_LeatherArmor_Of_Sturdiness_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Manacalon. Seu projeto foi um dos primeiros trabalhos do Ildurial Stronghand para proteger melhor os batedores imperiais.
+Equipment/&Enchanted_LeatherArmor_Of_Sturdiness_Title	Armadura de Couro de Robustez
+Equipment/&Enchanted_LeatherArmor_Of_Survival_Title	Armadura de Couro da Sobrevivência
+Equipment/&Enchanted_Longbow_Lightbringer_Title	Lightbringer Longbow
+Equipment/&Enchanted_Longbow_Lightning_Description	Esta arma encantada foi criada usando o conhecimento antigo dos mestres arqueiros de Colthannin. Ele foi projetado por Galar Stormforge, o primeiro ferreiro anão a aproveitar o poder da tempestade em uma arma - com um efeito devastador!
+Equipment/&Enchanted_Longbow_Lightning_Title	Stormbow
+Equipment/&Enchanted_Longbow_Of_Accuracy_Description	Esta arma encantada foi criada usando o conhecimento antigo dos mestres arqueiros de Manacalon.
+Equipment/&Enchanted_Longbow_Of_Accuracy_Title	Arco Longo de Precisão
+Equipment/&Enchanted_Longsword_Dragonblade_Title	Dragonblade
+Equipment/&Enchanted_Longsword_Frostburn_Title	Espada Longa de Frostburn
+Equipment/&Enchanted_Longsword_of_acuteness_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_Longsword_of_acuteness_Title	Longsword of Acuteness
+Equipment/&Enchanted_Longsword_Storm_Title	Stormblade Longsword
+Equipment/&Enchanted_Longsword_Warden_Title	Wardenblade
+Equipment/&Enchanted_Mace_Of_Acuteness_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_Mace_Of_Acuteness_Title	Maça de acuidade
+Equipment/&Enchanted_Mace_Of_Smashing_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon. Criada para quebrar fortificações mais rápido, esta maça também encontrou seu caminho para o cadinho da guerra para quebrar paredes de escudos.
+Equipment/&Enchanted_Mace_Of_Smashing_Title	Mace of Smashing
+Equipment/&Enchanted_Morningstar_Bearclaw_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon. As pontas afiadas das garras do urso destroem a armadura para infligir danos adicionais - exatamente como esperado por Ildurial Stronghand, que projetou a primeira arma desse tipo.
+Equipment/&Enchanted_Morningstar_Bearclaw_Title	Garra de urso
+Equipment/&Enchanted_Morningstar_Of_Power_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon. Algumas criaturas respeitam apenas a força física. Os arcanistas de Manacalon criaram esta estrela da manhã para dar aos campeões das Legiões de Ferro a força que seus corpos élficos não forneciam.
+Equipment/&Enchanted_Morningstar_Of_Power_Title	Morningstar of Power
+Equipment/&Enchanted_Rapier_Adder_Title	Black Viper
+Equipment/&Enchanted_Rapier_Doom_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_Rapier_Doom_Title	Doomblade Rapier
+Equipment/&Enchanted_Rapier_of_acuteness_Description	Esta arma encantada foi criada usando o conhecimento antigo dos mestres armeiros de Manacalon. Seu projeto foi uma das primeiras obras de Elgador Keenspirit, Magesmith of the Arcaneum.
+Equipment/&Enchanted_Rapier_of_acuteness_Title	Rapier of Acuteness
+Equipment/&Enchanted_ScaleArmor_Of_IceDancing_Description	Esta armadura encantada foi forjada com o conhecimento antigo dos mestres armeiros de Manacalon. Lestoreth Steelarm fabricou a primeira armadura desse tipo para as Legiões de Ferro em sua marcha para o Norte Congelado.
+Equipment/&Enchanted_ScaleArmor_Of_IceDancing_Title	Scale Armor of Frost Walking
+Equipment/&Enchanted_ScaleArmor_Of_Sturdiness_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Manacalon.
+Equipment/&Enchanted_ScaleArmor_Of_Sturdiness_Title	Armadura de Escala da Robustez
+Equipment/&Enchanted_Scimitar_Of_Acuteness_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_Scimitar_Of_Acuteness_Title	Cimitarra de Precisão
+Equipment/&Enchanted_Shortbow_Medusa_Description	Esta arma encantada foi criada usando o conhecimento antigo dos mestres arqueiros de Colthannin. A magia fundiu medusa coral e madeira dura para criar um arco mortal, preferido pelos grupos de abordagem dos halflings das ilhas.
+Equipment/&Enchanted_Shortbow_Medusa_Title	Arco Medusa
+Equipment/&Enchanted_Shortbow_Of_Accuracy_Description	Esta arma encantada foi criada usando o conhecimento antigo dos mestres arqueiros de Colthannin. Seu desenho original trazia o sigilo de Defineth Sharpsight, um renomado encantador elfo silvestre.
+Equipment/&Enchanted_Shortbow_Of_Accuracy_Title	Arco Curto de Precisão
+Equipment/&Enchanted_Shortbow_Of_Sharpshooting_Description	Esta arma encantada foi forjada usando o conhecimento antigo dos mestres arqueiros de Colthannin. O Coedymwarth preferia lidar com os arcanistas de Manacalon fisicamente em vez de magicamente. Seus melhores arqueiros receberam aqueles arcos curtos, a criação de Defineth Sharpsight.
+Equipment/&Enchanted_Shortbow_Of_Sharpshooting_Title	Shortbow of Sharpshooting
+Equipment/&Enchanted_Shortsword_Lightbringer_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_Shortsword_Lightbringer_Title	Espada Curta Lightbringer
+Equipment/&Enchanted_Shortsword_of_acuteness_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_Shortsword_of_acuteness_Title	Espada Curta de Precisão
+Equipment/&Enchanted_Shortsword_of_Sharpness_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon.
+Equipment/&Enchanted_Shortsword_of_Sharpness_Title	Espada curta de nitidez
+Equipment/&Enchanted_Shortsword_Whiteburn_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon. Whiteburn foi criado pelo primeiro Danantar para lutar contra uma invasão de trolls vinda dos pântanos ao sul de seu domínio entre o Sioltafin e o Scarafin.
+Equipment/&Enchanted_Shortsword_Whiteburn_Title	Whiteburn
+Equipment/&ExplorerPackTitle	Pacote do Explorador
+Equipment/&FireArrowTitle	Flecha de fogo
+Equipment/&FlailTypeTitle	Mangual
+Equipment/&FreezeSwordTitle	[Temp] Espada Longa +2, Congelamento
+Equipment/&FunctionAtWillTitle	à vontade
+Equipment/&FunctionCastSpellFormat	Elenco {0} {1}
+Equipment/&FunctionChargeCostFormatPlural	{0} cobranças
+Equipment/&FunctionChargeCostFormatSingle	{0} cobrar
+Equipment/&FunctionCommandFear	Comando (Medo)
+Equipment/&FunctionConeFear	Cone do medo
+Equipment/&FunctionIterationFormat	{0} por {1}
+Equipment/&FunctionPotionDrinkTitle	Poção Beber
+Equipment/&FunctionPotionHealOtherTitle	Curar outro
+Equipment/&FunctionPowerFormat	{0} {1}:\n{2}
+Equipment/&FunctionRechargeDurationFormat	todo {0}
+Equipment/&GamingSetCategoryTitle	Conjunto de jogos ({0})
+Equipment/&GamingSetDiceTypeDescription	Este item inclui uma ampla gama de peças de jogo, incluindo dados e baralhos de cartas.
+Equipment/&GamingSetDiceTypeTitle	Conjunto de Dados
+Equipment/&GemAmethystDescription	Uma bela ametista, que vale <#A95827>20 moedas de ouro</color>.
+Equipment/&GemAmethystTitle	Ametista
+Equipment/&GemDiamondDescription	Um magnífico diamante, que vale <#A95827>1000 peças de ouro</color>.
+Equipment/&GemDiamondTitle	Diamante
+Equipment/&GemEmeraldDescription	Uma esmeralda finamente lapidada, que vale <#A95827>100 peças de ouro</color>.
+Equipment/&GemEmeraldTitle	Esmeralda
+Equipment/&GemOpalDescription	Uma opala de ótima aparência, que vale <#A95827>300 peças de ouro</color>.
+Equipment/&GemOpalTitle	Opala
+Equipment/&GemRubyDescription	Um lindo rubi, que vale <#A95827>500 peças de ouro</color>.
+Equipment/&GemRubyTitle	Rubi
+Equipment/&GemSapphireDescription	Uma safira brilhante, que vale <#A95827>50 peças de ouro</color>.
+Equipment/&GemSapphireTitle	Safira
+Equipment/&GlaiveTypeTitle	Gládio
+Equipment/&GreataxeTypeTitle	Greataxe
+Equipment/&GreatclubTypeTitle	Greatclub
+Equipment/&GreatswordTypeTitle	Espada Grande
+Equipment/&HalberdTypeTitle	Alabarda
+Equipment/&HandaxeTypeTitle	Machado de mão
+Equipment/&HandCrossbowTypeTitle	Besta de mão
+Equipment/&HeavyArmorCategoryDescription	De todas as categorias de armadura, a armadura pesada oferece a melhor proteção. Essas armaduras cobrem todo o corpo e são projetadas para impedir uma ampla gama de ataques.
+Equipment/&HeavyArmorCategoryTitle	Armadura pesada
+Equipment/&HeavyCrossbowTypeTitle	Besta Pesada
+Equipment/&HectorLetterContent1	Era um plano ruim; Eu disse isso desde o início. Levei um mês para dominar a aparência completa de Griff e um ano para construir o culto da aranha. Os orcs agora são leais a mim e estão ansiosos para me seguir na guerra, mas os Necrófagos encontraram a cidade e começaram a invadir o território dos orcs. Decidi usar os orcs antes do planejado e eliminar os Scavengers. Havia apenas uma dúzia deles, mas eles resistiram mais do que eu esperava, e eu tive que mudar o plano novamente. Eu sacrifiquei mais orcs para capturar seu líder, um homem chamado Hector. Vou cancelar a operação com o culto da aranha e fazer a aparição desse Hector. Um membro proeminente dos Necrófagos pode ser útil. Devo passar um tempo a sós com ele nas profundezas das ruínas, onde os orcs não vão.
+Equipment/&HectorLetterContent2	Estou deixando este bilhete para o caso de o Tshar mandar me buscar. Posso não sair vivo. Cometi um erro ao ir tão fundo, tão perto do anfiteatro. As aranhas profundas são muito mais numerosas do que eu pensava e mataram meu prisioneiro. Não serei capaz de me tornar Heitor. A missão é um fracasso total e responderei ao Tshar - se sobreviver. Tentarei escapar escalando o anfiteatro, mas as aranhas podem ser rápidas demais para mim. Glória a Sorr-Tarr!
+Equipment/&HerbalismKitToolTypeDescription	Contém uma variedade de instrumentos, como tesouras, almofariz e pilão, plantas e produtos químicos, para criar poções, antitoxinas, fogo de alquimista e até mesmo frascos de ácido ou óleo.
+Equipment/&HerbalismKitToolTypeTitle	Kit de ervas
+Equipment/&HolySymbolAmuletTitle	Símbolo Sagrado (Amuleto)
+Equipment/&HolySymbolEmblemTitle	Símbolo Sagrado (Emblema)
+Equipment/&HolySymbolGeneralDescription	Um clérigo ou paladino pode usar um símbolo sagrado como foco de conjuração.
+Equipment/&HolySymbolGeneralTitle	Símbolo sagrado
+Equipment/&HolySymbolReliquaryTitle	Símbolo Sagrado (Relicário)
+Equipment/&Ingredient_AbyssMoss_Description	Um musgo muito raro encontrado nas profundezas de Badlands.
+Equipment/&Ingredient_AbyssMoss_Title	Musgo do abismo
+Equipment/&Ingredient_Acid_Description	Uma pequena quantidade de ácido.
+Equipment/&Ingredient_Acid_Title	Ácido
+Equipment/&Ingredient_AngryViolet_Description	Comum no Principado de Masgarth, esta flor deve o seu nome a um famoso mago.
+Equipment/&Ingredient_AngryViolet_Title	Violeta Irritada
+Equipment/&Ingredient_Blood_Of_Solasta_Description	Uma solução alquímica usada por transmutadores do Arcaneum, sua receita era um segredo bem guardado nos dias de Manacalon. Ele pode ser usado para criar itens mágicos.
+Equipment/&Ingredient_Blood_Of_Solasta_Title	Sangue de Solasta
+Equipment/&Ingredient_Blood_Ruby_Title	Rubi de sangue
+Equipment/&Ingredient_BloodDaffodil_Description	Há rumores de que esta grande flor cresce bem nos campos de batalha.
+Equipment/&Ingredient_BloodDaffodil_Title	Narciso de Sangue
+Equipment/&Ingredient_Cloud_Diamond_Description	Forma rara de diamante, suas facetas absorvem a luz e a refletem de maneira a dar-lhe uma aparência turva. Ele tem propriedades mágicas e pode ser usado para encantar itens.
+Equipment/&Ingredient_Cloud_Diamond_Title	Cloud Diamond
+Equipment/&Ingredient_Crystal_Of_Winter_Description	Envolvidos em gelo eterno, esses cristais irradiam frieza mesmo nos lugares mais quentes.
+Equipment/&Ingredient_Crystal_Of_Winter_Title	Cristal de Inverno
+Equipment/&Ingredient_DeepRootLichen_Description	Um raro líquen encontrado nas raízes de árvores e plantas subterrâneas magicamente distorcidas.
+Equipment/&Ingredient_DeepRootLichen_Title	Líquen de raiz profunda
+Equipment/&Ingredient_DeepVenomGland_Description	Colhido do cadáver de uma aranha profunda. Ele pode ser destilado para criar um veneno de lâmina.
+Equipment/&Ingredient_DeepVenomGland_Title	Glândula venenosa de aranha profunda
+Equipment/&Ingredient_Diamond_of_Elai_Description	Uma joia incrivelmente bela, suas facetas refletem as cores das oito escolas do Arcaneum em um padrão infinito. Ele pode ser usado para criar itens mágicos.
+Equipment/&Ingredient_Diamond_of_Elai_Title	Diamante de Elai
+Equipment/&Ingredient_Doom_Gem_Description	Esta gema tem facetas muito afiadas e sua composição mineral torna muito difícil estancar o sangramento depois de cortar a pele. É possível usá-lo para criar armas mágicas.
+Equipment/&Ingredient_Doom_Gem_Title	Doom Gem
+Equipment/&Ingredient_DragonRose_Description	Uma rosa requintada conhecida por suas cores vivas e fragrância profunda.
+Equipment/&Ingredient_DragonRose_Title	Dragonrose
+Equipment/&Ingredient_DrwarvenPrimrose_Title	Dwarven Primrose
+Equipment/&Ingredient_DwarvenPrimrose_Description	Uma flor delicada encontrada principalmente em climas do norte, crescendo em rocha nua.
+Equipment/&Ingredient_Emperorseye_Description	Este cogumelo raro foi batizado por um escravo do Império Manacalon, que pagou por seu desrespeito com a vida.
+Equipment/&Ingredient_Emperorseye_Title	Olho do imperador
+Equipment/&Ingredient_FlyingSnakeScales_Description	Escamas de uma grande cobra voadora de Badlands.
+Equipment/&Ingredient_FlyingSnakeScales_Title	Brimstone Viper Scales
+Equipment/&Ingredient_GallivanAmaranth_Description	Uma linda flor muito apreciada em Gallivan.
+Equipment/&Ingredient_GallivanAmaranth_Title	Gallivan Amaranth
+Equipment/&Ingredient_GoblinHairFungus_Description	Esse fungo fedorento cresce bem ao redor das tocas dos goblins por algum motivo.
+Equipment/&Ingredient_GoblinHairFungus_Title	Fungo de cabelo de duende
+Equipment/&Ingredient_Heartstone_Description	A mais dura das pedras, extraída do centro de uma montanha em Badlands. Possui propriedades mágicas.
+Equipment/&Ingredient_Heartstone_Title	Coração de pedra
+Equipment/&Ingredient_Lifestone_Description	Um tom de vida é uma joia muito rara. Em suas facetas, os especialistas afirmam ver a própria vida se desdobrando. Ele pode ser usado para criar itens mágicos.
+Equipment/&Ingredient_Lifestone_Title	Life Stone
+Equipment/&Ingredient_LilyOfTheBadlands_Description	Uma flor pequena, mas útil, que tira seu poder da magia de Badlands.
+Equipment/&Ingredient_LilyOfTheBadlands_Title	Lily of the Badlands
+Equipment/&Ingredient_Magnesium_Description	Um pouco de magnésio em pó.
+Equipment/&Ingredient_Magnesium_Title	Magnésio
+Equipment/&Ingredient_ManacalonOrchid_Description	Uma flor muito rara que parece ter sobrevivido ao Cataclismo, geralmente encontrada nas profundezas das ruínas da era Manacalon.
+Equipment/&Ingredient_ManacalonOrchid_Title	Orquídea Manacalon
+Equipment/&Ingredient_MedusaCoral_Description	Os corais Medusa são a desgraça dos mergulhadores nos recifes rasos ao redor das ilhas do sul, pois tocá-los é cortejar uma morte lenta.
+Equipment/&Ingredient_MedusaCoral_Title	Medusa Coral
+Equipment/&Ingredient_Mithralstone_Description	Esta pedra é um bloco de mithral puro, um metal conhecido pela sua flexibilidade e leveza, frequentemente usado para reforçar os pontos fracos das armaduras.
+Equipment/&Ingredient_Mithralstone_Title	Pedra Mithral
+Equipment/&Ingredient_MoonFlower_Description	Uma flor branca que se abre apenas ao luar.
+Equipment/&Ingredient_MoonFlower_Title	Flor da Lua
+Equipment/&Ingredient_Oil_Of_Acuteness_Description	Esta essência mágica pode ser fundida com uma arma preparada ou armadura para encantá-la. O processo requer tempo, além de proficiência com o rosário do feiticeiro.
+Equipment/&Ingredient_Oil_Of_Acuteness_Title	Óleo de acuidade
+Equipment/&Ingredient_Oil_Of_Sharpness_Description	Esta essência mágica pode ser fundida com uma arma preparada para encantá-la. O processo requer tempo, além de proficiência com o rosário do feiticeiro.
+Equipment/&Ingredient_Oil_Of_Sharpness_Title	Óleo de nitidez
+Equipment/&Ingredient_Primed_BattleAxe_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_BattleAxe_Title	Machado de batalha preparado
+Equipment/&Ingredient_Primed_Breastplate_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Breastplate_Title	Peitoral preparado
+Equipment/&Ingredient_Primed_Chainmail_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Chainmail_Title	Cota de malha preparada
+Equipment/&Ingredient_Primed_Chainshirt_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Chainshirt_Title	Camisa de corrente preparada
+Equipment/&Ingredient_Primed_Dagger_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Dagger_Title	Punhal preparado
+Equipment/&Ingredient_Primed_Fullplate_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Fullplate_Title	Placa preparada
+Equipment/&Ingredient_Primed_GreatAxe_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_GreatAxe_Title	Machado Grande Preparado
+Equipment/&Ingredient_Primed_Greatsword_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Greatsword_Title	Espada Grande preparada
+Equipment/&Ingredient_Primed_Halfplate_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Halfplate_Title	Meia placa preparada
+Equipment/&Ingredient_Primed_LeatherArmor_Description	Encantada por um artesão Manacalon, esta armadura é feita de couro tarrasque. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_LeatherArmor_Title	Armadura de couro preparada
+Equipment/&Ingredient_Primed_Longbow_Description	Encantada por um mestre bowyer Manacalon, esta arma é feita de madeiras mágicas e ligas. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Longbow_Title	Arco longo com ferragem
+Equipment/&Ingredient_Primed_Longsword_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Longsword_Title	Espada Longa Preparada
+Equipment/&Ingredient_Primed_Mace_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Mace_Title	Mace preparado
+Equipment/&Ingredient_Primed_Morningstar_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Morningstar_Title	Primed Morningstar
+Equipment/&Ingredient_Primed_Rapier_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Rapier_Title	Rapier preparado
+Equipment/&Ingredient_Primed_ScaleMail_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_ScaleMail_Title	Malha de balança preparada
+Equipment/&Ingredient_Primed_Scimitar_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Scimitar_Title	Cimitarra preparada
+Equipment/&Ingredient_Primed_Shortbow_Description	Encantada por um mestre bowyer Manacalon, esta arma é feita de madeiras mágicas e ligas. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Shortbow_Title	Arco Curto Preparado
+Equipment/&Ingredient_Primed_Shortsword_Description	Encantada por um mestre ferreiro Manacalon, esta arma é feita de uma liga mágica. Ele só precisa de um catalisador para desbloquear seu potencial.
+Equipment/&Ingredient_Primed_Shortsword_Title	Espada curta preparada
+Equipment/&Ingredient_PurpleAmber_Description	Esta resina fossilizada de árvores pré-Manacalon é muito difícil de moldar: é mais dura do que o aço e seus fragmentos são incrivelmente afiados. Eles podem ser usados ​​para criar uma arma mágica.
+Equipment/&Ingredient_PurpleAmber_Title	Âmbar roxo
+Equipment/&Ingredient_QueenIvy_Description	Uma pequena flor, frequentemente usada como motivo decorativo na arquitetura de Manacalon, mas agora rara.
+Equipment/&Ingredient_QueenIvy_Title	Rainha Ivy
+Equipment/&Ingredient_RefinedOil_Description	Uma pequena quantidade de óleo refinado.
+Equipment/&Ingredient_RefinedOil_Title	Óleo refinado
+Equipment/&Ingredient_Serpentinite_Description	Este pó verde vem de uma rocha escura raramente encontrada em Solasta.
+Equipment/&Ingredient_Serpentinite_Title	Serpentinite
+Equipment/&Ingredient_Shard_Of_Fire_Description	O Fragmento de Fogo é colhido da essência de um Fire Elemental que morreu em seu próprio plano de existência. Ele pode ser usado para criar vários itens mágicos.
+Equipment/&Ingredient_Shard_Of_Fire_Title	Fragmento de fogo
+Equipment/&Ingredient_ShardOfIce_Description	O Fragmento de Gelo é colhido da essência de um Elemental de Gelo que morreu em seu próprio plano de existência. Ele pode ser usado para criar vários itens mágicos.
+Equipment/&Ingredient_ShardOfIce_Title	Fragmento de gelo
+Equipment/&Ingredient_SkarnPowder_Description	Um pó marrom obtido a partir do esmagamento de um cristal raro de Badlands.
+Equipment/&Ingredient_SkarnPowder_Title	Pó Skarn
+Equipment/&Ingredient_Slavestone_Description	Particularmente apreciados pelos escravos Manacalon, pois suas pontas afiadas os tornavam armas improvisadas ideais durante uma revolta. Manacalon os valorizava por seu poder de encantamento.
+Equipment/&Ingredient_Slavestone_Title	Slavestone
+Equipment/&Ingredient_Soul_Gem_Description	Uma pedra comum encantada com essência necromântica, torna-se uma pedra da alma após absorver a essência da vida de muitas vítimas.
+Equipment/&Ingredient_Soul_Gem_Title	Soul Gem
+Equipment/&Ingredient_Stardust_Description	Essa poeira foi coletada por arcanistas Manacalon dos restos de uma chuva de meteoros. Os materiais incríveis que contém concedem poderes mágicos e podem ser usados ​​para encantar itens.
+Equipment/&Ingredient_Stardust_Title	poeira estelar
+Equipment/&Ingredient_StormHeather_Description	Uma flor rara de Badlands, que dizem crescer onde um raio atingiu o solo.
+Equipment/&Ingredient_StormHeather_Title	Storm Heather
+Equipment/&Ingredient_TrollAcanthus_Description	Uma planta muito resistente, diz-se que regenera quando é cortada.
+Equipment/&Ingredient_TrollAcanthus_Title	Troll Acanthus
+Equipment/&Ingredient_VenomGland_Description	Colhido do cadáver de uma aranha de Badlands. Ele pode ser destilado para criar um veneno de lâmina.
+Equipment/&Ingredient_VenomGland_Title	Glândula de veneno de aranha
+Equipment/&Item_Food_Ration_Description	Um saco de pano com <#A95827>comida suficiente para um dia</color>: pão, carne seca, vegetais crus e nozes.
+Equipment/&Item_Food_Ration_Title	Bolsa de ração
+Equipment/&ItemBrandingFormat	{1} de {0}
+Equipment/&ItemTypeAmmunitionTitle	Munição
+Equipment/&ItemTypeArmorTitle	Armadura ({0})
+Equipment/&ItemTypeClothTitle	Confecções
+Equipment/&ItemTypeContainerTitle	Recipiente
+Equipment/&ItemTypeLightSourceDescription	Claro {0} + Dim {1}
+Equipment/&ItemTypeLightSourceTitle	Fonte de luz
+Equipment/&ItemTypePotionTitle	Poção
+Equipment/&ItemTypeRingTitle	Anel
+Equipment/&ItemTypeRodTitle	Cajado
+Equipment/&ItemTypeScrollTitle	Rolagem
+Equipment/&ItemTypeSpellbookTitle	Livro de feitiços
+Equipment/&ItemTypeSpellFocusTitle	Foco de feitiço
+Equipment/&ItemTypeStaffTitle	Pessoal
+Equipment/&ItemTypeStarterPackTitle	Pacote de iniciante
+Equipment/&ItemTypeToolTitle	Ferramenta
+Equipment/&ItemTypeWandTitle	Varinha
+Equipment/&ItemTypeWeaponTitle	Arma
+Equipment/&ItemTypeWondrousTitle	Item Maravilhoso
+Equipment/&JavelinPlusOne	Dardo +1
+Equipment/&JavelinTypeTitle	Dardo
+Equipment/&LanceTypeTitle	Lança
+Equipment/&LeatherArmorPlus+1_Title	Armadura de Couro +1
+Equipment/&LeatherArmorPlus1_Description	Esta armadura foi usada por batedores do exército de Manacalon. Provavelmente pertenceu a um soldado nobre e está imbuído de magia, proporcionando defesa adicional.
+Equipment/&LeatherArmorPlus1_Unidentified_Description	Esta armadura finamente decorada tem os emblemas de uma antiga família élfica.
+Equipment/&LeatherArmorPlus1_Unidentified_Title	Armadura de couro magnífica
+Equipment/&LiamsHeirloom_Description	Esta herança é um rubi magnífico, provavelmente valendo cerca de 500 PO.
+Equipment/&LiamsHeirloom_Title	Relíquia de família de Liam
+Equipment/&LightArmorCategoryDescription	Feita de materiais flexíveis e finos, a armadura leve favorece os aventureiros ágeis, pois oferece alguma proteção sem sacrificar a mobilidade.
+Equipment/&LightArmorCategoryTitle	Armadura leve
+Equipment/&LightCrossbowTypeTitle	Besta leve
+Equipment/&LightHammerTypeTitle	Martelo Leve
+Equipment/&LongbowTypeTitle	Arco longo
+Equipment/&Longsword_plus_one_Description	A espada longa de um inquisidor tirmariano, abençoada com magia divina.
+Equipment/&Longsword_plus_one_Title	Espada Longa +1
+Equipment/&Longsword_plus_one_Unidentified_Description	Esta espada longa finamente decorada parece antiga e valiosa.
+Equipment/&Longsword_plus_one_Unidentified_Title	Espada Longa Magnífica
+Equipment/&LongswordTypeTitle	Espada Longa
+Equipment/&MaceTypeTitle	Mace
+Equipment/&ManacalonRosaryDescription	Este pingente é usado para encantar itens usando materiais preparados criados pelos antigos mestres da magia Manacalon. É quase impossível reproduzir seus rituais, mas eles podem ser concluídos por alguém que tenha a habilidade e os ingredientes necessários.
+Equipment/&ManacalonRosaryTitle	Rosário de Manacalon
+Equipment/&MartialWeaponCategoryDescription	Essas armas requerem treinamento avançado para serem manuseadas sem penalidades.
+Equipment/&MartialWeaponCategoryTitle	Armas marciais
+Equipment/&MaulTypeTitle	Malho
+Equipment/&MaxRangeTitle	Alcance Máximo
+Equipment/&MediumArmorCategoryDescription	A armadura média oferece mais proteção do que a armadura leve, mas também prejudica mais os movimentos.
+Equipment/&MediumArmorCategoryTitle	Armadura Média
+Equipment/&Morningstar_plus_1_Description	Uma estrela da manhã finamente decorada usada pelas tropas de choque imperiais de Manacalon, imbuída de magia.
+Equipment/&Morningstar_plus_1_Title	Manacalon Morningstar +1
+Equipment/&Morningstar_plus_1_Unidentified_Description	Esta estrela da manhã finamente decorada é claramente uma arma superior.
+Equipment/&Morningstar_plus_1_Unidentified_Title	Magnificent Morningstar
+Equipment/&MorningstarTypeTitle	Estrela da Manhã
+Equipment/&MusicalInstrumentCategoryTitle	Instrumento Musical ({0})
+Equipment/&MusicalInstrumentLyreTypeDescription	Se você tiver proficiência com um determinado instrumento musical, poderá adicionar seu bônus de proficiência a qualquer teste de habilidade que fizer para tocar música com o instrumento. Um bardo pode usar um instrumento musical como foco de conjuração. Cada tipo de instrumento musical requer uma proficiência separada.
+Equipment/&MusicalInstrumentLyreTypeTitle	Lira
+Equipment/&NecklaceOfFireballsTitle	Colar de bolas de fogo
+Equipment/&NecklaceSpecialDescription	A qualidade deste colar está acima da média.
+Equipment/&NecklaceSpecialTitle	Lindo colar
+Equipment/&NeedleTypeTitle	Agulha de maçarico
+Equipment/&NetTypeTitle	Internet
+Equipment/&NoArmorCategoryDescription	Este tipo de roupa básica não oferece nenhuma proteção natural.
+Equipment/&NoArmorCategoryTitle	Sem armadura
+Equipment/&OfOrcsAndMenContent	A leitura deste livro dá a você um conhecimento mais profundo dos orcs e de sua natureza.
+Equipment/&OfOrcsAndMenDescription	Um livro sobre as várias tribos de orcs.
+Equipment/&OfOrcsAndMenHeader	Os Orcs de Solasta
+Equipment/&OfOrcsAndMenTitle	De Orcs e Homens
+Equipment/&OgreJavelinTitle	Ogre Javelin
+Equipment/&OrcArrowTypeTitle	Flecha Orc
+Equipment/&OrcGreataxeTypeTitle	Orc Greataxe
+Equipment/&OrcJavelinTitle	Orc Javelin
+Equipment/&OrcMaceTypeTitle	Orc Mace
+Equipment/&OrcShortbowTypeTitle	Orc Shortbow
+Equipment/&PebbleThrowTypeTitle	Seixo
+Equipment/&PikeTypeTitle	Pique
+Equipment/&Poison_basicDescription	Um simples veneno químico que causa danos.
+Equipment/&Poison_basicTitle	Veneno Básico
+Equipment/&Poison_DeepSpiderDescription	Um veneno destilado das glândulas de veneno de aranhas profundas. Pode ser aplicado a armas e munições para causar dano adicional e diminuir a velocidade de um inimigo.
+Equipment/&Poison_DeepSpiderTitle	Veneno de aranha profunda
+Equipment/&Poison_SpiderDescription	Um veneno destilado das glândulas de veneno das Badlands Spiders. Pode ser aplicado a armas e munições para danos adicionais.
+Equipment/&Poison_SpiderTitle	Veneno de aranha
+Equipment/&Poison_WinterWolfPeltDescription	Esta pele mágica pode ser usada para criar um item interessante.
+Equipment/&Poison_WinterWolfPeltTitle	Pele de lobo do inverno
+Equipment/&PoisonersKitToolTypeDescription	Contém os frascos, produtos químicos, plantas e outros equipamentos necessários para a criação de venenos. Para alguns venenos, o veneno de uma criatura também pode ser necessário.
+Equipment/&PoisonersKitToolTypeTitle	Poisoner's Kit
+Equipment/&PotionGiantStrengthCloudDescription	Quando você bebe esta poção, seu STR torna-se 27 por 1 hora.
+Equipment/&PotionGiantStrengthCloudTitle	Poção de Força Gigante (Nuvem)
+Equipment/&PotionGiantStrengthFireDescription	Quando você bebe esta poção, seu STR torna-se 25 por 1 hora.
+Equipment/&PotionGiantStrengthFireTitle	Poção de Força Gigante (Fogo)
+Equipment/&PotionGiantStrengthFrostDescription	Quando você bebe esta poção, seu STR torna-se 23 por 1 hora.
+Equipment/&PotionGiantStrengthFrostTitle	Poção de Força Gigante (Geada)
+Equipment/&PotionGiantStrengthHillDescription	Quando você bebe esta poção, seu STR torna-se 21 por 1 hora.
+Equipment/&PotionGiantStrengthHillTitle	Poção da Força Gigante (Colina)
+Equipment/&PotionHealingRemedyDescription	Contém um líquido cintilante. Cura alguns de seus HP perdidos quando bêbado.
+Equipment/&PotionHealingRemedyTitle	Remédio de Cura
+Equipment/&PotionOfClimbingDescription	Quando você bebe esta poção, você pode escalar como uma aranha por 1 hora.
+Equipment/&PotionOfClimbingTitle	Poção de Escalada
+Equipment/&PotionOfFlyingDescription	Quando você bebe esta poção, você pode voar por 1 hora.
+Equipment/&PotionOfFlyingTitle	Poção de Voar
+Equipment/&PotionOfGreaterHealingDescription	Contém um líquido cintilante. Cura alguns de seus HP perdidos quando bêbado.
+Equipment/&PotionOfGreaterHealingTitle	Poção de Grande Cura
+Equipment/&PotionOfHealingDescription	Contém um líquido cintilante. Cura alguns de seus HP perdidos quando bêbado.
+Equipment/&PotionOfHealingTitle	Poção de Cura
+Equipment/&PotionOfHeroismDescription	Beber esta poção concede a você pontos de vida adicionais por um tempo, além dos efeitos de um feitiço de bênção.
+Equipment/&PotionOfHeroismTitle	Poção de Heroísmo
+Equipment/&PotionOfInvisibilityDescription	Torna você invisível por 1 hora.
+Equipment/&PotionOfInvisibilityTitle	Poção de Invisibilidade
+Equipment/&PotionOfSpeedDescription	Beber esta poção replica o efeito de um feitiço de pressa em você. Requer concentração.
+Equipment/&PotionOfSpeedTitle	Poção de Velocidade
+Equipment/&PotionOfSuperiorHealingDescription	Contém um líquido cintilante. Cura alguns de seus HP perdidos quando bêbado.
+Equipment/&PotionOfSuperiorHealingTitle	Poção de Cura Superior
+Equipment/&PotionofwaterbreatingDescription	Contém um líquido cintilante. Cura alguns de seus HP perdidos quando bêbado.
+Equipment/&PotionofwaterbreatingTitle	Remédio de Cura
+Equipment/&PouchDescription	Uma bolsa de couro e tecido usada para empilhar pequenos itens.
+Equipment/&PouchTitle	Bolsa
+Equipment/&PriestPackTitle	Pacote do Sacerdote
+Equipment/&QuarterstaffTypeTitle	Quarterstaff
+Equipment/&RapierTypeTitle	Rapier
+Equipment/&ReachTitle	Alcançar
+Equipment/&RingDetectInvisibleDescription	[Temp] Este anel revela criaturas invisíveis a até 12 células de distância.
+Equipment/&RingDetectInvisibleTitle	[Temp] Anel de detecção invisível
+Equipment/&RingOfProtection_plus_one_Description	Um anel de prata lindamente trabalhado com um design em escudo.
+Equipment/&ScaleArmorPlus+1_Title	Escala de armadura +1
+Equipment/&ScaleArmorPlus1_Description	Esta armadura foi usada por batedores do exército de Manacalon. Provavelmente pertenceu a um soldado nobre e está imbuído de magia, proporcionando defesa adicional.
+Equipment/&ScaleArmorPlus1_Unidentified_Description	Esta armadura finamente decorada mostra a habilidade dos antigos armeiros Manacalon.
+Equipment/&ScaleArmorPlus1_Unidentified_Title	Armadura de Escama Magnífica
+Equipment/&ScholarPackTitle	Scholar's Pack
+Equipment/&ScimitarTypeTitle	Cimitarra
+Equipment/&ScrollAcidArrowDescription	Ao usar este pergaminho, você lança o feitiço da flecha de ácido.
+Equipment/&ScrollAcidArrowTitle	Pergaminho da seta de ácido
+Equipment/&ScrollBaneDescription	Ao usar este pergaminho, você lança o feitiço Bane.
+Equipment/&ScrollBaneTitle	Pergaminho de Maldição
+Equipment/&ScrollBarkskinDescription	Quando você usa este pergaminho, você lança o feitiço Barkskin.
+Equipment/&ScrollBarkskinTitle	Pergaminho de Barkskin
+Equipment/&ScrollBlessDescription	Ao usar este pergaminho, você lança o feitiço Abençoar.
+Equipment/&ScrollBlessTitle	Pergaminho de Bênção
+Equipment/&ScrollBurningHandsDescription	Ao usar este pergaminho, você lança o feitiço mãos ardentes.
+Equipment/&ScrollBurningHandsTitle	Pergaminho de Mãos Ardentes
+Equipment/&ScrollColorSprayDescription	Ao usar este pergaminho, você lança o feitiço Color Spray.
+Equipment/&ScrollColorSprayTitle	Scroll of Color Spray
+Equipment/&ScrollCureWoundsDescription	Ao usar este pergaminho, você lança o feitiço Curar feridas.
+Equipment/&ScrollCureWoundsTitle	Pergaminho de curar feridas
+Equipment/&ScrollExpeditiousRetreatDescription	Ao usar este pergaminho, você lança o feitiço Retirada expedita.
+Equipment/&ScrollExpeditiousRetreatTitle	Pergaminho do Retiro Rápido
+Equipment/&ScrollFireballDescription	Ao usar este pergaminho, você lança o feitiço Fireball.
+Equipment/&ScrollFireballTitle	Pergaminho de Fireball
+Equipment/&ScrollFogCloudDescription	Ao usar este pergaminho, você lança o feitiço Nuvem de Nevoeiro.
+Equipment/&ScrollFogCloudTitle	Pergaminho da Nuvem de Nevoeiro
+Equipment/&ScrollGreaseDescription	Ao usar este pergaminho, você lança o feitiço Graxa.
+Equipment/&ScrollGreaseTitle	Pergaminho de Graxa
+Equipment/&ScrollGuidingBoltDescription	Ao usar este pergaminho, você lança o feitiço Guiding Bolt.
+Equipment/&ScrollGuidingBoltTitle	Pergaminho do Parafuso-Guia
+Equipment/&ScrollHideousLaughterDescription	Ao usar este pergaminho, você lança o feitiço Risada Hedionda.
+Equipment/&ScrollHideousLaughterTitle	Pergaminho da risada horrível
+Equipment/&ScrollHoldPersonDescription	Ao usar este pergaminho, você lança o feitiço Prender Pessoa.
+Equipment/&ScrollHoldPersonTitle	Pergaminho de Retenção de Pessoa
+Equipment/&ScrollIdentifyDescription	Ao usar este pergaminho, você lança o feitiço Identificar.
+Equipment/&ScrollIdentifyTitle	Pergaminho de Identificar
+Equipment/&ScrollJumpDescription	Ao usar este pergaminho, você lança o feitiço Saltar.
+Equipment/&ScrollJumpTitle	Pergaminho de Salto
+Equipment/&ScrollKitToolTypeDescription	Contém as ferramentas e materiais necessários para preparar tinta mágica e criar pergaminhos de feitiço.
+Equipment/&ScrollKitToolTypeTitle	Kit de pergaminho
+Equipment/&ScrollLesserRestorationDescription	Ao usar este pergaminho, você lança o feitiço Restauração Menor.
+Equipment/&ScrollLesserRestorationTitle	Pergaminho da Restauração Menor
+Equipment/&ScrollLightningBoltDescription	Ao usar este pergaminho, você lança o feitiço Lightning Bolt.
+Equipment/&ScrollLightningBoltTitle	Pergaminho do Relâmpago
+Equipment/&ScrollMageArmorDescription	Ao usar este pergaminho, você lança o feitiço Armadura de Mago.
+Equipment/&ScrollMageArmorTitle	Pergaminho da Armadura de Mago
+Equipment/&ScrollMagicMissileDescription	Ao usar este pergaminho, você lança o feitiço Míssil Mágico.
+Equipment/&ScrollMagicMissileTitle	Pergaminho do Míssil Mágico
+Equipment/&ScrollProtectionFromEvilandGoodDescription	Ao usar este pergaminho, você lança o feitiço Proteção contra o Mal e o Bem.
+Equipment/&ScrollProtectionFromEvilandGoodTitle	Pergaminho de proteção contra o mal e o bem
+Equipment/&ScrollRaiseDeadDescription	Ao usar este pergaminho, você lança o feitiço Raise Dead.
+Equipment/&ScrollRaiseDeadTitle	Pergaminho de Raise Dead
+Equipment/&ScrollRevivifyDescription	Quando você usa este pergaminho, você lança o feitiço Revivify.
+Equipment/&ScrollRevivifyTitle	Pergaminho de Revivificar
+Equipment/&ScrollScorchingRayDescription	Ao usar este pergaminho, você lança o feitiço Raio Ardente.
+Equipment/&ScrollScorchingRayTitle	Pergaminho do Raio Ardente
+Equipment/&ScrollShieldOfFaithDescription	Ao usar este pergaminho, você lança o feitiço Escudo da Fé.
+Equipment/&ScrollShieldOfFaithTitle	Pergaminho do Escudo da Fé
+Equipment/&ScrollSleepDescription	Ao usar este pergaminho, você lança o feitiço Sono.
+Equipment/&ScrollSleepTitle	Pergaminho do Sono
+Equipment/&ScrollThunderwaveDescription	Quando você usa este pergaminho, você lança o feitiço Thunderwave.
+Equipment/&ScrollThunderwaveTitle	Pergaminho do Thunderwave
+Equipment/&Sellsword_Background_Quest_Document_01	Caro amigo, agora que salvou o Barão, devo falar-lhe sobre certos assuntos do passado que agora tenho liberdade para divulgar. Não fui totalmente franco com você durante sua última visita. Você poderia dar uma passada na próxima vez que estiver em Coparann?\n\nCéus claros para você,\n\nMildred Warmhearth
+Equipment/&Sellsword_Background_Quest_Document_02	Querido filho,\n\nEm breve encontraremos nosso destino, sua mãe e eu. Um velho amigo entregará esta carta a você quando chegar ao ponto em que você está em busca de sentido e respostas na vida.\n\nO que fizemos, fizemos para protegê-lo, embora seja difícil de acreditar. É difícil deixar uma criança sozinha no mundo, mas é melhor do que alguns outros destinos.\n\nNão fomos fortes o suficiente para resistir à tentação, mas seremos fortes o suficiente para não deixar o mal triunfar no final.
+Equipment/&Sellsword_Background_Quest_Document_03	Relate para mim imediatamente! Lembre-se, estamos sempre vigiando - e se você pensar em nos trair, seu filho será o primeiro a sofrer! Nós estamos em todo lugar! Espero seu próximo relatório em dois dias!
+Equipment/&Shield_plus_1_Description	Um escudo mágico leve e resistente, usado pelas tropas de choque imperiais de Manacalon.
+Equipment/&Shield_plus_1_Title	Escudo +1
+Equipment/&Shield_plus_1_Unidentified_Description	Este escudo de metal é de um acabamento magnífico, com runas místicas em sua superfície.
+Equipment/&Shield_plus_1_Unidentified_Title	Escudo magnífico
+Equipment/&Shield_plus_2_Description	Um poderoso escudo mágico forjado por Edvan Danantar para um senhor do Principado de Masgarth.
+Equipment/&Shield_plus_2_Title	Escudo +2
+Equipment/&ShieldCategoryDescription	Um escudo é feito de madeira ou metal e é carregado em uma das mãos. Você só pode se beneficiar de um escudo por vez.
+Equipment/&ShieldCategoryTitle	Escudo
+Equipment/&Shortbow_plus_1_Description	Um arco curto encantado soberbamente equilibrado da era Manacalon, usado pelo corpo de batedores imperiais.
+Equipment/&Shortbow_plus_1_Title	Shortbow +1
+Equipment/&Shortbow_plus_1_Unidentified_Description	Este arco curto soberbamente equilibrado está gravado com runas antigas.
+Equipment/&Shortbow_plus_1_Unidentified_Title	Arco Curto Magnífico
+Equipment/&ShortbowPlus1TypeTitle	Shortbow + 1
+Equipment/&ShortbowTypeTitle	Arco curto
+Equipment/&ShortswordTypeTitle	Espada curta
+Equipment/&SickleTypeTitle	Foice
+Equipment/&SimpleWeaponCategoryDescription	Os tipos de armas mais simples que a maioria das pessoas pode usar com proficiência, mas nem todos.
+Equipment/&SimpleWeaponCategoryTitle	Armas Simples
+Equipment/&SlingTypeTitle	Funda
+Equipment/&SpearTypeTitle	Lança
+Equipment/&SpellbookCapacityDescription	Páginas usadas: {0} / {1}
+Equipment/&SpellbookContainsDescription	Feitiços: {0}
+Equipment/&SpellbookDescription	Essencial para magos, um livro de feitiços é um tomo encadernado em couro com 100 páginas de pergaminho em branco adequadas para registrar feitiços.
+Equipment/&SpellbookTitle	Livro de feitiços
+Equipment/&StaffOfFireDescription	Outra criação de Lanathir Goldenfire, não mera bugiganga, mas uma arma poderosa nas mãos certas.
+Equipment/&StaffOfFireTitle	Cajado de Fogo
+Equipment/&StaffSpecialDescription	Uma bela equipe, possivelmente mais do que parece à primeira vista.
+Equipment/&StaffSpecialTitle	Equipe Superior
+Equipment/&StarterPackGeneralDescription	Um pacote inicial contém tudo que um personagem precisa para começar uma vida de aventuras.
+Equipment/&StartingWealth10GPDescription	As tuas poupanças
+Equipment/&StartingWealth10GPTitle	10 moedas de ouro
+Equipment/&StartingWealth15GPDescription	As tuas poupanças
+Equipment/&StartingWealth15GPTitle	15 moedas de ouro
+Equipment/&StartingWealth25GPDescription	As tuas poupanças
+Equipment/&StartingWealth25GPTitle	25 moedas de ouro
+Equipment/&StartingWealth40GPDescription	As tuas poupanças
+Equipment/&StartingWealth40GPTitle	40 moedas de ouro
+Equipment/&ThievesToolTypeDescription	Contém uma pequena lima, um conjunto de palhetas, um pequeno espelho montado em cabo de metal, uma tesoura de lâmina estreita e um alicate, úteis para desarmar armadilhas e abrir fechaduras.
+Equipment/&ThievesToolTypeTitle	Ferramentas de ladrões
+Equipment/&ToM_ArchaeologicalNotes_01_Content	Esta mulher Manacalon era provavelmente uma maga de alto escalão. Ela pode ter vivido aqui, a leste do Império Interior… <i>Seguem-se várias notas sobre a estátua.</i>
+Equipment/&ToM_ArchaeologicalNotes_01_Description	Notas sobre um possível mestre da magia Manacalon, baseado em uma estátua descoberta na torre em ruínas.
+Equipment/&ToM_ArchaeologicalNotes_01_Title	Notas Arqueológicas
+Equipment/&ToM_ArchaeologicalNotes_02_Content	Esta estátua representa um dragão humanóide, vestindo mantos clássicos de feiticeiros Manacalon. Um estudioso pode saber o que isso significa.
+Equipment/&ToM_ArchaeologicalNotes_02_Description	Notas sobre uma estátua estranha encontrada na torre em ruínas em Badlands.
+Equipment/&ToM_ArchaeologicalNotes_02_Title	Notas Arqueológicas
+Equipment/&ToM_ArchaeologicalNotes_03_Content	Esta estátua está em uma pose clássica usada para imperadores. Uma inscrição nomeia Lerithir Imradir.
+Equipment/&ToM_ArchaeologicalNotes_03_Description	Notas sobre uma estátua de Lerithir Imradir, o último imperador de Manacalon. Isso significa que a torre estava ativa quando o Cataclismo aconteceu.
+Equipment/&ToM_ArchaeologicalNotes_03_Title	Notas Arqueológicas
+Equipment/&ToM_SecretSpellbook_Content	Este livro de feitiços é impossível de abrir. Pode ter sido fechado magicamente por seu dono antes do Cataclismo! Quem sabe quais feitiços ele pode conter? Encontre alguém que possa abri-lo.
+Equipment/&ToM_SecretSpellbook_Description	Um livro de feitiços magicamente fechado da era Manacalon.
+Equipment/&ToM_SecretSpellbook_Title	Livro de Feitiços Secretos
+Equipment/&ToM_SorakHead_Description	Este pacote nojento é a prova de que o Legacy Council precisa. Os Sorr-Akkath não são apenas um mito!
+Equipment/&ToM_SorakHead_Title	Sorak Head
+Equipment/&TorchHolderTitle	Porta-tocha
+Equipment/&TorchTitle	Tocha
+Equipment/&TowerOfMagic_Myth_Document_Content	Muitos já observaram que as principais pessoas da antiga Solasta têm, em cada caso, uma Afinidade com um dos Elementos Clássicos: os antigos Elfos eram para o Ar, os Anões para a Terra e os Halfelinges para a Água.\nEmbora muitos outros contestem essa hipótese, há vários argumentos convincentes a seu favor, e as perguntas que permanecem sem resposta podem ser consideradas insuficientes para constituir uma refutação abrangente e satisfatória.\nOs Elfos dos tempos mais antigos eram Altos Elfos, sem exceção.\nA raça Sylvan surgiu de um cisma entre seu povo, que acompanhou a fundação do Império Manacalonne.\nAlguns, insatisfeitos com a firmeza de sua regra e expressando muitas queixas de Tyrranie, retiraram-se ...\n
+Equipment/&TowerOfMagic_Myth_Document_Description	Um livro antigo escrito em anão.
+Equipment/&TowerOfMagic_Myth_Document_Title	Mitos de Solasta
+Equipment/&TowerOfMagic_SorakOrders_Content	Deve estar em algum lugar da velha torre. Se você encontrar, mande buscar o Tshar. Proteja-o com suas vidas.
+Equipment/&TowerOfMagic_SorakOrders_Description	Uma carta encontrada no cadáver de Sorr-Akkath, perto da Coroa.
+Equipment/&TowerOfMagic_SorakOrders_Title	Carta Sorr-Akkath
+Equipment/&TowerOfMagic_WorkerLetter_Content	Os outros desistiram. Mas posso escapar, talvez. Espero poder chegar em casa antes deles. Eles matariam todo mundo, eu sei que sim. Eles matariam meus filhos sem hesitar. Eles são pura maldade.
+Equipment/&TowerOfMagic_WorkerLetter_Description	Uma carta encontrada no cadáver de um trabalhador humano perto da torre em ruínas.
+Equipment/&TowerOfMagic_WorkerLetter_Title	Carta do Trabalhador
+Equipment/&TridentTypeTitle	Tridente
+Equipment/&UnarmedStrikeBaseTitle	Mãos nuas
+Equipment/&Unidentified_Potion_Description	Este frasco contém um líquido cintilante - possivelmente mágico, mas não identificado.
+Equipment/&Unidentified_Potion_Title	Poção Não Identificada
+Equipment/&UnidentifiedWeaponDescription	Esta arma é obviamente de fabricação superior e pode revelar mais qualidades.
+Equipment/&WandDetectMagicDescription	Lança o feitiço detectar magia ao gastar uma carga. A varinha tem 3 cargas e recupera 1d3 cargas a cada amanhecer.
+Equipment/&WandDetectMagicTitle	Varinha de Detecção de Magia
+Equipment/&WandFearTitle	Varinha do medo
+Equipment/&WandLightningBoltsTitle	Varinha de raios
+Equipment/&WandMagicMissileTitle	Varinha do Míssil Mágico
+Equipment/&WandSpecialDescription	Uma varinha de artesanato superior, possivelmente com qualidades desconhecidas.
+Equipment/&WandSpecialTitle	Varinha Magnífica
+Equipment/&WarhammerTypeTitle	Warhammer
+Equipment/&WarpickTypeTitle	Picareta de guerra
+Equipment/&WeaponTagAmmunitionTitle	Munição
+Equipment/&WeaponTagFinesseTitle	Finesse
+Equipment/&WeaponTagHeavyTitle	Pesado
+Equipment/&WeaponTagLightTitle	Luz
+Equipment/&WeaponTagLoadingTitle	Carregando
+Equipment/&WeaponTagReachTitle	Alcançar
+Equipment/&WeaponTagThrownTitle	Jogado
+Equipment/&WeaponTagTwoHandedTitle	Duas mãos
+Equipment/&WeaponTagVersatileTitle	Versátil
+Equipment/&WhipTypeTitle	Chicote
+Equipment/&ContainerHarvestable_Angry_Bush_Title	Mato zangado
+Equipment/&ContainerHarvestable_Angry_Bush_Description	Um pequeno arbusto encontrado nos Reinos Orientais e Ermos que produz Violetas Furiosas.
+Equipment/&ContainerHarvestable_MagnesiumDeposit_Title	Depósito de magnésio
+Equipment/&ContainerHarvestable_MagnesiumDeposit_Description	Uma pilha natural de magnésio em pó.
+Equipment/&ContainerHarvestable_Mosspatch_Title	Moss Patch
+Equipment/&ContainerHarvestable_Mosspatch_Description	Um pedaço de musgo profundo que produz ingredientes úteis regularmente.
+Equipment/&ContainerHarvestable_GallivanThicket_Title	Amaranth Thicket
+Equipment/&ContainerHarvestable_GallivanThicket_Description	Um pequeno matagal que produz o amado Gallivan Amaranth.
+Equipment/&ContainerHarvestable_BloodBush_Title	Blood Bush
+Equipment/&ContainerHarvestable_BloodBush_Description	Um pequeno arbusto que produz o raro Narciso de Sangue.
+Equipment/&ContainerHarvestable_AcidPuddle_Title	Poça de ácido
+Equipment/&ContainerHarvestable_AcidPuddle_Description	Uma poça de ácido que ocorre naturalmente.
+Equipment/&ContainerHarvestable_TrollBramble_Title	Troll Bramble
+Equipment/&ContainerHarvestable_TrollBramble_Description	Uma amoreira feia que se parece com um braço de troll peludo e produz o surpreendentemente belo Troll Acanthus.
+Equipment/&ContainerHarvestable_SkarnRock_Title	Skarn Rock
+Equipment/&ContainerHarvestable_SkarnRock_Description	Uma pequena rocha esverdeada que pode ser transformada em pó fino de Skarn.
+Equipment/&ContainerHarvestable_DeepRoot_Title	Deep Root
+Equipment/&ContainerHarvestable_DeepRoot_Description	Uma raiz com mutação mágica coberta com o precioso Líquen de Raiz Profunda.
+Equipment/&ContainerHarvestable_QueenVine_Title	Queen Vine
+Equipment/&ContainerHarvestable_QueenVine_Description	Uma rara e bela videira que produz o requintado Queen Ivy.
+Equipment/&ContainerHarvestable_MoonShruberry_Title	Arbusto da lua
+Equipment/&ContainerHarvestable_MoonShruberry_Description	Um arbusto raro que produz a rara e muito útil flor da lua.
+Equipment/&ContainerHarvestable_SerpentRock_Title	Serpent Rock
+Equipment/&ContainerHarvestable_SerpentRock_Description	Uma rara rocha protuberante que pode ser transformada em Pó de Serpentinita.
+Equipment/&ContainerHarvestable_Imperial Vine_Title	Videira imperial
+Equipment/&ContainerHarvestable_Imperial Vine_Description	Uma rara videira encontrada principalmente perto de manchas de magia caótica em Badlands que produz o Mush Olho do Imperador.
+Equipment/&ContainerHarvestable_DragonBramble_Title	Dragon Bramble
+Equipment/&ContainerHarvestable_DragonBramble_Description	Uma amoreira verde que produz uma rosa do dragão a cada poucos dias.
+Equipment/&ContainerHarvestable_BrownPatch_Title	Patch marrom
+Equipment/&ContainerHarvestable_BrownPatch_Description	Essa coisa nojenta parece uma bosta de goblin, mas na verdade é um fungo muito útil conhecido como fungo de cabelo de goblin.
+Equipment/&ContainerHarvestable_StormBriar_Title	Storm Briar
+Equipment/&ContainerHarvestable_StormBriar_Description	Este briar de cores vivas produz a muito útil Storm Heather.
+Equipment/&ContainerHarvestable_DwarvenThicket_Title	Dwarven Thicket
+Equipment/&ContainerHarvestable_DwarvenThicket_Description	Esta planta produz a rara e frágil Dwarven Primrose.
+Equipment/&ContainerHarvestable_OrchidBush_Title	Arbusto de orquídea
+Equipment/&ContainerHarvestable_OrchidBush_Description	Este pequeno arbusto cresce apenas em condições extremas, apoiado pelo fluxo mágico de Badlands, e produz a Orquídea Manacalon, uma flor vista em muitas decorações imperiais.
+Equipment/&ContainerHarvestable_BadlandsBriar_Title	Badlands Briar
+Equipment/&ContainerHarvestable_BadlandsBriar_Description	Esta sarça é encontrada principalmente nas profundezas de Badlands e produz uma das flores mais raras em Solasta, o Lírio das Badlands.
+Equipment/&Necromancy_AngbisJournal_Title	Um livro manuscrito com capa de couro
+Equipment/&Necromancy_AngbisJournal_Description	The Journal of Angbi Kramsson, da Guilda dos Antiquários.
+Equipment/&Necromancy_AngbisJournal_Content01	Se for encontrado, por favor, volte para a Guilda dos Antiquários em Caer Cyflen. Uma recompensa será oferecida.
+Equipment/&Necromancy_AngbisJournal_Content02	Arredores, continuação… a arquitetura do castelo é do estilo da Primeira Expansão, com muitos reparos e adições. Uma placa de fundação padrão: "Caer Tenarion", construída pela 25ª Legião de Ferro no 24º ano de Gwaltrian III - 1557 no calendário Manacalon, ou 1486 antes do Cataclismo. Presumivelmente construído para pacificar a área circundante.
+Equipment/&Necromancy_AngbisJournal_Content03	Mais tarde, no mesmo dia. Minha impressão inicial se confirmou: o castelo está ocupado. Eu encontrei uma patrulha de esqueletos liderada por um espectro que deu seu nome como Adam o Décimo Segundo, um ex-oficial Imperial e agora capitão da guarda do castelo. Ele me questionou de perto e me deu permissão para pesquisar fora do castelo, mas não para me aproximar do castelo ou tentar entrar. O senhor, cujo nome ele deu como Mardracht, não recebe visitantes. Na verdade, o capitão admitiu que ele próprio não via ou falava com seu mestre há vários séculos.
+Equipment/&Necromancy_AngbisJournal_Content04	Cemitério, continuação ... nenhuma lápide mostra uma data de sepultamento posterior ao Cataclismo: nenhum novo sepultamento em mais de mil anos. Possivelmente, todos no castelo são mortos-vivos, como seus guardas. Impossível confirmar, já que minha admissão foi recusada.
+Equipment/&Necromancy_AngbisJournal_Content05	Mausoléu substancial na extremidade do cemitério, construído no estilo da Primeira Expansão. A inscrição na entrada nomeia a 25ª Legião de Ferro. Presumivelmente, os oficiais foram enterrados lá dentro (e possivelmente em catacumbas embaixo, se o prédio se encheu com o tempo) enquanto as patentes mais baixas ocupam o cemitério ao redor.
+Equipment/&Necromancy_AngbisJournal_Content06	No dia seguinte, continuou ... enquanto eu continuava a documentar o cemitério, uma matilha de lobos chegou do norte, liderada por um homem humano - ou assim parecia. Encontrado pelo capitão e guardas. Conversado por vários minutos, de maneira cautelosa, mas não hostil. O capitão apontou em minha direção, informando claramente ao homem da minha presença. Ninguém no grupo demonstrou interesse por mim.
+Equipment/&Necromancy_AngbisJournal_Content07	Mais tarde, no mesmo dia: Uma mulher élfica saiu do mausoléu, acompanhada por vários outros: elfos e humanos, todos aparentemente vivos. Eles não poderiam ter entrado no mausoléu sem que eu os visse. Duas questões surgem:
+Equipment/&Necromancy_AngbisJournal_Content08	Outra maneira de entrar no mausoléu? Possíveis catacumbas embaixo - passagem subterrânea para o castelo?
+Equipment/&Necromancy_AngbisJournal_Content09	2. Almas vivas no castelo, mas sem sepulturas anteriores a 1.000 anos? Duas possibilidades: vida magicamente prolongada (necromancia? Se encaixa com guarda morto-vivo que encontrei) e / ou corpos não enterrados após a morte (também compatível com necromancia).
+Equipment/&Necromancy_AngbisJournal_Content10	Eu assisti escondido enquanto eles exploravam o cemitério, aparentemente procurando por algo (eu?). Extremo cuidado é indicado a partir de agora.
+Equipment/&Necromancy_LizzariasJournal_Title	Diário da Lizzaria
+Equipment/&Necromancy_LizzariasJournal_Description	Uma série de páginas escritas à mão
+Equipment/&Necromancy_LizzariasJournal_Content01	… Lá em cima para tentar falar com Mardracht sobre isso, mas Aksha disse que ele estava descansando e havia deixado ordens para não ser incomodado - como de costume. Ela se ofereceu para passar uma mensagem - muito útil! - mas eu sei que nunca o alcançará.
+Equipment/&Necromancy_LizzariasJournal_Content02	Pelo que sei, ela disse a ele que estou morto. Ela pode estar planejando tornar isso realidade. Ele está tão abalado e confuso com o Cataclismo que provavelmente acreditaria nela. Ela poderia já tê-lo matado - ele poderia estar morto há séculos - mas não: suas defesas mágicas ainda estão no lugar. Ele deve estar vivo.
+Equipment/&Necromancy_LizzariasJournal_Content03	Se eu pudesse alcançá-lo - libertá-lo de sua influência - mas não consigo passar por ela e seus ghouls. Tão frustrante! Preciso marcar um encontro repentino com uma estaca de madeira, mas ela é cuidadosa.
+Equipment/&Necromancy_LizzariasJournal_Content04	Adam não ajuda. Ele não vai se juntar a mim contra Aksha sem ordens de Mardracht, que é claro não pode vir porque ela o isolou. Como ele é cego para não ver isso - nunca vou entregar o castelo a ela, não importa o que ela faça. Enquanto Mardracht viver, tenho que continuar tentando salvá-lo.
+Equipment/&Necromancy_LizzariasJournal_Content05	... vasculhando o cemitério como de costume. O anão estava lá - ele sempre achou que eu não o tinha visto, mas eu vi - mas agora ele é um fantasma. Adam disse que ele era um antiquário, algum tipo de estudioso, então tentei controlá-lo e descobrir o que ele sabe.
+Equipment/&Necromancy_LizzariasJournal_Content06	Eu estava ansioso demais, porém, e ele fugiu. Uma oportunidade perdida. Ele pode saber algo que poderia me ajudar a superar Aksha e seus ghouls e libertar Mardracht de sua influência. Algum dia, de alguma forma, vou me livrar dela. Eu vou.
+Equipment/&Necromancy_MardrachtsJournal_Title	Diário de Mardracht
+Equipment/&Necromancy_MardrachtsJournal_Description	Uma série de páginas escritas à mão
+Equipment/&Necromancy_MardrachtsJournal_Content01	Pesadelos novamente. A batalha, a Rift - Kaseinax com a Coroa, banhada em poder.
+Equipment/&Necromancy_MardrachtsJournal_Content02	Os humanos. Os deuses - os deuses! O que eles são? Por que tão poderoso? Por que não conseguimos pará-los? Por que eles vieram?
+Equipment/&Necromancy_MardrachtsJournal_Content03	Por que eles não vieram atrás de mim? Eles vão, eu sei disso. Todos nós que estávamos lá: eles vão nos caçar, nos matar - talvez pior. Estarei pronto. Estou pronto. Este velho verme ainda tem alguns truques - ah, sim. Já fomos tão poderosos quanto deuses, uma vez. Os elfos esqueceram, mas uma vez eles souberam. Sim eles fizeram.
+Equipment/&Necromancy_MardrachtsJournal_Content04	Por que eles não vêm? Esses deuses alienígenas já foram destruídos? É seguro lá fora? Ou é isso que eles querem que eu pense? Eles não vão me atrair - oh, não. Nunca.
+Equipment/&BeltOfGiantHillStrength_Title	Cinto da Força Gigante (Colina)
+Equipment/&BeltOfGiantHillStrength_Unidentified_Title	Cinto magnífico
+Equipment/&BeltOfGiantHillStrength_Unidentified_Description	Um cinto pesado e altamente decorado, provavelmente mágico.
+Equipment/&AmuletOfHealth_Unidentified_Title	Amuleto
+Equipment/&AmuletOfHealth_Unidentified_Description	Um amuleto incrustado de pedras preciosas de boa aparência.
+Equipment/&AmuletOfHealth_Title	Amuleto da Saúde
+Equipment/&AmuletOfHealth_Description	Sua pontuação de constituição é 19 enquanto você usa este amuleto. Não tem efeito sobre você se sua pontuação de constituição já for 19 ou mais.
+Equipment/&BeltOfDwarvenkind_Unidentified_Title	Correia Grande
+Equipment/&BeltOfDwarvenkind_Unidentified_Description	Um cinto pesado e resistente com decorações anãs.
+Equipment/&BeltOfDwarvenkind_Title	Belt of Dwarvenkind
+Equipment/&Necromancy_Thesis_Title	Sobre a nova magia dos humanos e seus deuses
+Equipment/&Necromancy_Thesis_Description	Um livro de aparência antiga, com os oito anéis do Arcaneum gravados na capa.
+Equipment/&Necromancy_Thesis_Content01	Sobre a nova magia dos humanos e seus deuses, e suas implicações particulares para a necromancia. Por Alithariel Threanin, Postulant Junior Master of the Arcaneum, School of Necromancy. Sessão Acadêmica de 3044, Calendário Imperial
+Equipment/&Necromancy_Thesis_Content02	Como minha tese em apoio à minha candidatura ao posto de Mestre Júnior do Arcaneum na Escola de Necromancia, eu respeitosamente apresento os resultados de minha pesquisa sobre a natureza e os tipos de novas magias trazidas para Solasta pelos humanos de Tirmar, em particular a eficácia daqueles a quem eles chamam de "clérigos" em repelir e destruir criaturas mortas-vivas. Esse conhecimento é de importância urgente, pois lutamos para entender esses humanos e avaliar a gravidade da ameaça que eles podem representar para o Império e o benefício potencial que podem trazer a ele, uma vez conquistados.
+Equipment/&Necromancy_Thesis_Content03	É amplamente conhecido que a magia dos humanos deriva das entidades que eles chamam de "deuses" ("deusas" no feminino e "divindades" coletivamente). Eu chamo isso de "magia divina" nesta tese, para distingui-la de nossa própria magia arcana que é o resultado do estudo da magia. Assim como a magia arcana é organizada em escolas, alguma magia divina é composta por oito áreas de estudo, que os humanos chamam de "domínios". Cada divindade normalmente fornece a seus clérigos acesso a dois domínios, representando seus interesses particulares. O domínio que mais corresponde à Escola de Necromancia é chamado de Domínio do Esquecimento.
+Equipment/&Necromancy_Thesis_Content04	Além de magias de dois domínios, um clérigo tem acesso a uma ampla gama de outras magias e poderes, que são comuns a todos, independentemente de sua divindade patronal. Muitos são amplamente semelhantes em seus efeitos aos feitiços da Escola de Necromancia. Existem dois poderes necromânticos, entretanto, que são completamente novos e únicos: um clérigo de qualquer divindade tirmariana, se sua posição for alta o suficiente, pode repelir criaturas mortas-vivas e até mesmo destruí-las. Os humanos que questionei acreditam que isso ocorre porque suas divindades consideram todas as criaturas mortas-vivas como "não naturais" - uma palavra que revela muito sobre seu nível primitivo de sofisticação - e, portanto, indesejáveis, mas eles parecem não saber nada sobre os meios pelos quais esse resultado é alcançado, falando apenas sobre a "vontade" ou "poder" de suas divindades.
+Equipment/&Necromancy_Thesis_Content05	As páginas seguintes examinam o fenômeno de "transformar" e destruir mortos-vivos usando tanto a abordagem taumatológica clássica de Fathirien e seus sucessores, quanto os métodos mais modernos defendidos por Gorlindrien e os Practicalists. Todas as conclusões são provisórias. Se esta tese for aceita, proponho fazer desse fenômeno o meu principal tópico de pesquisa.
+Equipment/&Necromancy_Fallen_Title	Página Rasgada
+Equipment/&Necromancy_Fallen_Description	Uma página aparentemente arrancada de um livro, amassada e jogada no chão.
+Equipment/&Necromancy_Fallen_Content01	… Enquanto os Soraks seguiam a humanidade, um sumo sacerdote do Oblivion sucumbiu ao desespero e à loucura. Ele contaminou a paz da sepultura com a impureza da vida morta, levantando os caídos para reunir um exército. Como ele sabia que esta não era uma oração que ganharia o favor de Maraike, a senhora da vida e da morte, ele e seus seguidores expressaram seu plano na forma de uma maldição, enganando sua deusa para garantir que seu plano teria sucesso. Maraike atendeu ao pedido, mas não foi enganado. Ela amaldiçoou os conspiradores também, pois eles foram corrompidos pelo mal e sua graça foi negada. Eles se tornaram os caídos, e aqueles que ressuscitaram tornaram-se zumbis da tristeza, batizados com o nome da maldição da tristeza que eles haviam feito.
+Equipment/&Necromancy_Fallen_Content02	A punição de Maraike garantiu que nenhum dos caídos pudesse desfrutar do toque da luz sem sofrer e morrer. Eles devem se esconder para sempre nas sombras até que se arrependam. Mas a punição de Maraike não foi tudo. Sorr-Tarr, o vil deus dos Soraks, viu potencial nos caídos. Sem desfazer a maldição de Maraike, ele deu a eles poderes para fazer o mal: corromper os outros com seu toque e criar servos mais sujos do que zumbis. Dos caídos originais não se sabe muito, exceto que havia doze deles, sacerdotes e paladinos ...
+Equipment/&Necromancy_Refugees_Title	Página Rasgada
+Equipment/&Necromancy_Refugees_Description	Uma página aparentemente arrancada de um livro, amassada e jogada no chão.
+Equipment/&Necromancy_Refugees_Content01	... os humanos explicaram que fugiram de sua casa para Solasta, um mundo que chamavam de Tirmar, e que foram perseguidos por uma raça que chamaram de Sorr-Akkath ou Soraks, que se espalhou por este mundo de Tirmar e ameaçava conquistar todos outras.
+Equipment/&Necromancy_Refugees_Content02	O governador os recebeu com a aparência de bondade, raciocinando que se eles viessem como fugitivos suplicantes seria uma tarefa fácil subjugá-los e colocá-los para trabalhar como escravos ao lado das raças inferiores de Solasta ou prendê-los aos feiticeiros de o Arcaneum para dissecação ou qualquer outra forma de estudo que se mostre mais frutífera. Quando os guardas tentaram amarrar os humanos, porém, eles chamaram seres que eles chamaram de "deuses" e manifestaram poderosas magias que pegaram seus hospedeiros de surpresa. Assim, eles foram capazes de escapar.
+Equipment/&Necromancy_Gods_Title	Página Rasgada
+Equipment/&Necromancy_Gods_Description	Uma página aparentemente arrancada de um livro, amassada e jogada no chão.
+Equipment/&Necromancy_Gods_Content01	… Divindades de Tirmar são uma fonte de um tipo novo e desconhecido de magia. Os humanos acreditam que são entidades poderosas, talvez de natureza extraplanar, a quem adoram e cujos comandos seguem, recebendo poder em troca.
+Equipment/&Necromancy_Gods_Content02	Os humanos têm o cuidado de distinguir entre divindades "boas" e "más". "Boas" divindades são aquelas que os humanos consideram úteis para eles e - pelo menos em sua teologia - preocupados com seu bem-estar. Divindades "más" são aquelas que são hostis aos humanos e apóiam os esforços de outras raças para conquistá-los. Foi uma divindade "maligna" e seus seguidores - um Sorr-Tarr e a raça dos Sorr-Akkath, ou Soraks - que levaram os humanos a tentar escapar de seu mundo natal, Tirmar, eles dizem. A chegada deles em Solasta ...
+Equipment/&Abjuration_Dragons_Title	O Tempo dos Dragões
+Equipment/&Abjuration_Dragons_Description	Um livro antigo com a imagem de um dragão gravada na capa.
+Equipment/&Abjuration_Dragons_Content01	Houve um tempo, muito tempo atrás, em que os dragões eram os governantes de Solasta. Eles viviam nas montanhas, perto de vulcões que amavam por seu calor - pois nada mais era quente o suficiente para incubar um ovo de dragão. Naquela época, os anões ainda não haviam subido do solo, sendo mais rocha do que carne, e os halflings permaneceram em seus pântanos, longe de ninguém. E os elfos? Os elfos estavam no ar, sem forma física, mas existindo como correntes rodopiantes de ar e mana, um com a magia e com o mundo.
+Equipment/&Abjuration_Dragons_Content02	Eventualmente, porém, os elfos se cansaram de uma vida de puro espírito e vento. Eles assumiram uma forma física e começaram a construir grandes torres e palácios, trazendo a beleza de seus pensamentos à existência material. Os dragões os temiam, e uma grande guerra se seguiu, jogando fogo e magia contra ar e magia até que os elfos ...
+Equipment/&Abjuration_Housekeeping_Title	A boa gestão dos servos
+Equipment/&Abjuration_Housekeeping_Description	Um livro antigo que parece muito manuseado.
+Equipment/&Abjuration_Housekeeping_Content01	O dever supremo do chefe de família é a administração dos empregados. Isso é mais importante até do que o bem-estar da família, porque uma família pode sobreviver a conflitos internos e injustiças, mas não pode sobreviver a uma quebra de disciplina. Preste atenção às lições da história e mantenha pensamentos de revolta longe da mente de seus escravos.
+Equipment/&Abjuration_Housekeeping_Content02	Lembre-se de que, por mais inteligentes e cativantes que pareçam, seus escravos não-elfos são animais, nada mais. Não seja indulgente com eles, mas dê-lhes todos os dias um novo motivo para temer sua ira e um novo lembrete de que seu poder é absoluto. Não é ir longe demais, se você puder pagar, selecionar um ao acaso de vez em quando para morrer por tortura. Para além de proporcionar entretenimento aos seus convidados e um exemplo aos seus filhos, esta prática infunde uma…
+Equipment/&Abjuration_Plaque_Title	Placa Memorial
+Equipment/&Abjuration_Plaque_Description	Uma placa de latão na parede.
+Equipment/&Abjuration_Plaque_Content01	Em memória de Hathirin Lithinel e os outros membros da Casa de Lithinel, assassinados de forma blasfema e traiçoeira, e sua casa queimada por escravos rebeldes no ano de 2435. Esta placa foi fundida de latão fundido em uma fornalha alimentada pelos corpos de seus escravos infiéis , vivos e mortos.
+Equipment/&Abjuration_DragonsWar_Title	A Grande Guerra contra os Dragões
+Equipment/&Abjuration_DragonsWar_Description	Um livro antigo.
+Equipment/&Abjuration_DragonsWar_Content01	Os dragões viram como os elfos estavam mudando o mundo, trazendo beleza para as ruínas vulcânicas destruídas e o verde vivo para campos de rocha estéreis. Eles nunca tinham visto beleza antes, nem ouvido música; sua linguagem era desprovida de poesia e sua magia era brutal e sem maravilhas.
+Equipment/&Abjuration_DragonsWar_Content02	Os dragões se apaixonaram pelos elfos, como todos os que os vêem. Eles ansiavam por possuí-los, pois os dragões são avarentos por natureza. Com palavras doces e truques eles escravizaram algumas pessoas bonitas, mas a maioria dos elfos não se deixou levar pela bajulação dos dragões e se preparou para resistir a eles.
+Equipment/&Abjuration_DragonsWar_Content03	Grandes batalhas foram travadas, lâmina contra fogo e magia contra magia. As montanhas foram niveladas e a terra afundou para formar o Mar Interior. Os túneis onde os anões se escondiam com medo foram inundados. Foi naquele cadinho sangrento que o domínio da magia de nosso povo foi forjado, e a raça élfica se uniu sob o primeiro imperador Ilmathir Ellanion.
+Equipment/&Abjuration_DragonsWar_Content04	A guerra contra os dragões durou três gerações antes que a guerreira Imperatriz Cythaeriel Ellanion, a Senhora da Lâmina Brilhante, conduzisse os elfos para ...
+Equipment/&Evocation_Plaque1_Title	Inscrição de Pedra
+Equipment/&Evocation_Plaque1_Description	Uma placa de pedra com inscrições.
+Equipment/&Evocation_Plaque1_Content01	Em memória do Imperador Laethar Aerlinn, primeiro de seu nome, que reinou do ano de 1773 até 2117 e supervisionou a gloriosa expansão do Império, subjugando os elfos rebeldes das florestas, os anões das montanhas ocidentais e os halflings. Herói da Floresta das Chamas, onde matou mais de cem rebeldes com as próprias mãos. Morto de forma traiçoeira por flechas rebeldes durante o avanço sobre Colthannin. E para sua Rainha Saefinala e seu filho Príncipe Kealin, ambos traiçoeiramente assassinados por ordem do usurpador e falso Imperador Rithian Thirion, que tomou o trono.
+Equipment/&Evocation_Plaque1_Content02	Este monumento é erguido por seus servos fiéis que trouxeram seus corpos de Siothyrnas para este lugar de refúgio até que a dinastia de Aerlinn seja restaurada e seus restos sagrados possam retornar à capital.
+Equipment/&Evocation_Plaque2_Title	Inscrição de Pedra
+Equipment/&Evocation_Plaque2_Description	Uma placa de pedra com inscrições.
+Equipment/&Evocation_Plaque2_Content01	Em memória das 17ª, 18ª e 19ª Legiões de Ferro, traiçoeiramente mortas na Floresta de Colthannin pelos elfos rebeldes. Eles serão vingados. Os elfos silvestres serão colocados de lado e sua floresta será destruída, exceto por uma árvore onde os corpos de seus líderes ficarão pendurados eternamente por seus crimes. Isso nós juramos.
+Equipment/&Evocation_Plaque3_Title	Inscrição de Pedra
+Equipment/&Evocation_Plaque3_Description	Uma placa de pedra com inscrições.
+Equipment/&Evocation_Plaque3_Content01	Em memória de Larithir Elirion, Príncipe do Sangue e Governador do Norte, que caiu na batalha contra os selvagens anões da neve das montanhas do norte. Em seu nome eles serão conquistados.
+Equipment/&Evocation_Plaque4_Title	Inscrição de Pedra
+Equipment/&Evocation_Plaque4_Description	Uma placa de pedra com inscrições.
+Equipment/&Evocation_Plaque4_Content01	Em memória de Fathiel Morvannion, Príncipe e General, que deu sua vida pela glória do Império na travessia do rio Falafyn no primeiro ano da campanha oriental. Seu corpo repousa com seus companheiros de armas, mas os de sua cidade natal se lembram dele.
+Equipment/&Evocation_Plaque5_Title	Inscrição de Pedra
+Equipment/&Evocation_Plaque5_Description	Uma placa de pedra com inscrições.
+Equipment/&Evocation_Plaque5_Content01	Em memória de Galatheriel Amaneithon, Senhora da Casa de Amaneithon e amada mãe. Criado por seu filho em luto, Helarioth Amaneithon, que foi impedido de ir ao funeral por seu dever em Hyfrynas. Ele jura erguer um monumento a ela dos ossos dos rebeldes silvestres.
+Equipment/&Evocation_Plaque6_Title	Inscrição de Pedra
+Equipment/&Evocation_Plaque6_Description	Uma placa de pedra com inscrições.
+Equipment/&Evocation_Plaque6_Content01	Em memória de Malirion Etharel, da Casa de Etharel nesta cidade, que se tornou supervisor de grãos para a província de Afon-Dwar. Ele foi assassinado por um escravo anão. Tome cuidado e não confie.
+Equipment/&Illusion_Armor1_Title	Cartaz
+Equipment/&Illusion_Armor1_Description	Um cartaz foi colocado ao lado desta armadura.
+Equipment/&Illusion_Armor1_Content01	As armas e armaduras de Morthannil Lirien, almirante da Frota do Sul, que liderou um grupo de assalto contra as fortificações externas de Roughport nas Ilhas do Sul e aceitou a rendição do halfling, mais tarde para ser afogado quando piratas halfling afundou sua nau capitânia enquanto voltava para casa.
+Equipment/&Illusion_Armor2_Title	Cartaz
+Equipment/&Illusion_Armor2_Description	Um cartaz foi colocado ao lado desta armadura.
+Equipment/&Illusion_Armor2_Content01	As armas e armaduras de Berien Tharanduil, almirante-geral do Afon-Dwar e lorde marechal do oeste. Por meio da força e da diplomacia, ele abriu o comércio com os anões das colinas e pôs fim aos ataques halfling ao longo do rio.
+Equipment/&Illusion_Notice1_Title	Perceber
+Equipment/&Illusion_Notice1_Description	Uma placa fixada na parede, aparentemente para os servos lerem.
+Equipment/&Illusion_Notice1_Content01	Serviço. Lealdade. Silêncio.
+Equipment/&Illusion_Notice2_Title	Perceber
+Equipment/&Illusion_Notice2_Description	Uma placa fixada na parede, aparentemente para os servos lerem.
+Equipment/&Illusion_Notice2_Content01	Por favor, seu mestre, salve sua vida.
+Equipment/&Illusion_Notice3_Title	Perceber
+Equipment/&Illusion_Notice3_Description	Uma placa fixada na parede, aparentemente para os servos lerem.
+Equipment/&Illusion_Notice3_Content01	Os leais relatam deslealdade.
+Equipment/&Illusion_Book1_Title	Ilusão e substância: um primer
+Equipment/&Illusion_Book1_Description	Um livro escrito em alto élfico.
+Equipment/&Illusion_Book1_Content01	... como o Mestre Irillien do Arcaneum escreveu em sua grande obra "Sobre a Natureza da Ilusão e a Questão da Realidade", "Muitas ilusões, se acreditadas, são tão eficazes como se fossem reais; por outro lado, algumas realidades, se ignoradas, podem ser evitado. O que, então, é mais válido? O que, de fato, é real ou realidade? Foi nosso grande Império, e nosso domínio legítimo do mundo e de todos os que nele habitam, não um sonho, que é uma forma de ilusão, antes que nossas Legiões de Ferro e nossos arcanistas o tornassem real? "
+Equipment/&Illusion_Book1_Content02	Há algum mérito, portanto, em evitar uma distinção entre ilusão e realidade, mas considerá-las como dois pólos de um continuum. Algumas coisas são inteiramente reais e algumas coisas são inteiramente ilusórias, mas o número de cada uma é muito menor do que normalmente se supõe. A maioria das coisas fica em algum ponto intermediário, compartilhando da natureza da ilusão e da realidade em proporções diferentes. Aqueles que buscam uma verdadeira compreensão da natureza das coisas e das distinções ...
+Equipment/&Illusion_Book2_Title	Deuses humanos e sua magia
+Equipment/&Illusion_Book2_Description	Um livro escrito em alto élfico.
+Equipment/&Illusion_Book2_Content01	… A exploração dos planos fora do nosso revelou a existência de todos os tipos de entidades estranhas, algumas delas excepcionalmente poderosas. É de se supor que o mundo de Tirmar, do qual os humanos vieram com seus deuses, pertence a um desses planos, que de alguma forma colidiu com o nosso durante os eventos que levaram ao Cataclismo, em vez de permanecer confinado em segurança além de um mágico portal.
+Equipment/&Illusion_Book2_Content02	A razão para isto é desconhecida. Várias teorias foram apresentadas, mas nenhuma foi provada. Embora variem em seus detalhes mais sutis, muitas teorias culpam a divindade Sorr-Tarr, de quem os humanos e seus deuses estavam fugindo quando entraram em Solasta. Os estudiosos do Arcaneum não entendem completamente a classe de seres chamados de "deuses" ou "divindades" e, embora seus seguidores humanos orgulhosamente afirmem que seus poderes são ilimitados, é claro que este não pode ser o caso, ou o Cataclismo iria foram evitados. Ainda assim, este Sorr-Tarr, sendo uma entidade poderosa desta classe, pode ter procurado abrir a Fenda mais ampla, a fim de facilitar a perseguição por seus seguidores de Sorr-Akkath e completar ...
+Equipment/&Illusion_Book3_Title	Sobre aqueles que vieram de Tirmar
+Equipment/&Illusion_Book3_Description	Um livro escrito em alto élfico.
+Equipment/&Illusion_Book3_Content01	… Humanos e Sorr-Akkath são considerados os únicos seres mortais a cruzar de Tirmar, a questão dos orcs e seus parentes deve ser levada em consideração. Relatos humanos sobre o assunto são confusos e freqüentemente se contradizem, mas uma leitura cuidadosa das melhores fontes sugere que os orcs já foram humanos e foram alterados pelas magias selvagens que acompanharam o fechamento da Rift.
+Equipment/&Illusion_Book3_Content02	Os ancestrais humanos dos orcs eram membros de tribos bárbaras selvagens das partes mais remotas de Tirmar. Ferocidade e coragem na batalha eram os valores mais altos em sua cultura, então quando as forças de nossos dois mundos se combinaram na Batalha do Rift, foram essas tribos que buscaram os locais mais perigosos para ganhar mais glória pelos valores de sua cultura. Isso os aproximou muito da própria Fenda e, portanto, os tornou mais vulneráveis ​​às energias mágicas imprevisíveis que emanaram dela. Todos aqueles que lutaram ao lado deles morreram, até mesmo a elite das Legiões de Ferro - mas de alguma forma esses bárbaros, de mente e corpo fortes, foram capazes de sobreviver. No entanto, seus corpos e mentes foram afetados, e eles se tornaram os primeiros orcs a existir em ambos os mundos.
+Equipment/&Illusion_Book4_Title	Provérbios de Misaye
+Equipment/&Illusion_Book4_Description	Um pequeno livreto escrito na língua comum.
+Equipment/&Illusion_Book4_Content01	Não existe sorte, exceto quando existe.
+Equipment/&Illusion_Book4_Content02	O maior deleite de Misaye é a expressão no rosto de um idiota quando eles percebem.
+Equipment/&Illusion_Book4_Content03	A raposa que invade um galinheiro é mais feliz do que o cachorro que o guarda.
+Equipment/&Illusion_Book4_Content04	Uma vida sem risos não é vida.
+Equipment/&Illusion_Book4_Content05	Não se preocupe com a morte. Esqueletos sorriem mais do que ninguém.
+Equipment/&Illusion_Book4_Content06	Tudo é um caos, então aproveite. Você vai se dissolver no caos em breve.
+Equipment/&Illusion_Book4_Content07	A lei é uma pedra em um riacho. Tudo flui ao seu redor ou sobre ele e, com o tempo, se desgastará.
+Equipment/&BroochOfShielding_Unidentified_Title	Lindo broche
+Equipment/&BroochOfShielding_Unidentified_Description	Um broche bonito em forma de escudo. Provavelmente mágico.
+Equipment/&BroochOfShielding_Title	Broche de Blindagem
+Equipment/&StaffOfHealing_Unidentified_Title	Equipe Magnífica
+Equipment/&StaffOfHealing_Unidentified_Description	Um cajado leve e robusto com runas douradas. Provavelmente mágico.
+Equipment/&StaffOfHealing_Title	Cajado de Cura
+Equipment/&StaffOfHealing_Description	Os sacerdotes vitalícios de Maraike freqüentemente gastam suas últimas forças imbuindo um cajado de cura, para que a vida seja eterna.
+Equipment/&PeriaptOPAPoison_Unidentified_Title	Black Gem Periapt
+Equipment/&PeriaptOPAPoison_Unidentified_Description	Uma joia negra em uma corrente de prata.
+Equipment/&PeriaptOPAPoison_Title	Periapto da Prova Contra o Veneno
+Equipment/&PeriaptOPAPoison_Description	Galar Stormforge elaborou o primeiro periapto. Eles são muito procurados por governantes e espiões.
+Equipment/&RingDarkvision_Unidentified_Title	Anel Quadrado
+Equipment/&RingDarkvision_Unidentified_Description	Um lindo anel, provavelmente mágico.
+Equipment/&RingDarkvision_Title	Ring of Darkvision
+Equipment/&RingLanguages_Unidentified_Title	Anel Hexagonal
+Equipment/&RingLanguages_Unidentified_Description	Um lindo anel, provavelmente mágico.
+Equipment/&RingLanguages_Title	Anel de todas as palavras
+Equipment/&FunctionGoodberryFeedOtherTitle	Comer
+Equipment/&FunctionGoodberryEatTitle	Alimente Alguém
+Equipment/&Item_Berry_Ration_Title	Goodberry
+Equipment/&HalpfPlatePlus1_Title	Meia Placa +1
+Equipment/&HalpfPlatePlus1_Description	Esta armadura mágica foi feita para um cavaleiro de Gallivan. Seu nome está gravado sob o peitoral: Ramsay.
+Equipment/&HalpfPlatePlus1_Unidentified_Title	Esplêndida Armadura de Meia Placa
+Equipment/&HalpfPlatePlus1_Unidentified_Description	Esta magnífica armadura parece muito antiga e é muito bem trabalhada. Provavelmente é mágico.
+Equipment/&Ingredient_TigerDrakeScales_Description	Escamas de uma cobra voadora muito grande encontrada em Badlands.
+Equipment/&Ingredient_TigerDrakeScales_Title	Escalas de tigre drake
+Equipment/&BoneKeep_Solar_Rune_Plaque_Title	Placa Rúnica
+Equipment/&BoneKeep_Solar_Rune_Plaque_Description	Uma runa mágica esgotada, provavelmente usada para proteger um corredor. O encantamento é antigo, provavelmente algum feitiço esquecido dos tempos imperiais.
+Equipment/&Magic_Arrow_Unidentified_Title	Flecha Notável
+Equipment/&Magic_Arrow_Unidentified_Description	Esta flecha é notavelmente leve e afiada. Pode ser mágico.
+Equipment/&Magic_Bolt_Unidentified_Title	Parafuso de besta notável
+Equipment/&Magic_Bolt_Unidentified_Description	Este parafuso é extremamente leve e afiado. Pode ser mágico.
+Equipment/&ContainerTombTitle	Túmulo
+Equipment/&Item_Berry_Ration_Description	Uma baga mágica criada por um feitiço. Ele tem propriedades curativas e também é nutritivo. Não pode ser vendido.
+Equipment/&ItemMartialWeaponSubtypeTitle	Arma marcial
+Equipment/&ItemSimpleWeaponSubtypeTitle	Arma Simples
+Equipment/&GauntletsOfOgrePower_Title	Manoplas do poder do ogro
+Equipment/&HeadbandOfIntellect_Title	Tiara do Intelecto
+Equipment/&HeadbandOfIntellect_Unidentified_Title	Tiara Metálica
+Equipment/&HeadbandOfIntellect_Unidentified_Description	Uma faixa de cabeça bem decorada.
+Equipment/&StoneOfGoodLuck_Title	Pedra da boa sorte
+Equipment/&BeltOfGiantFire_Title	Cinto de Força Gigante (Fogo)
+Equipment/&BeltOfGiantStone_Title	Cinto de Força Gigante (Pedra)
+Equipment/&CircletOfBlasting_Title	Círculo de Explosão
+Equipment/&CircletOfBlasting_Description	Uma bugiganga vistosa criada por Lanathir Goldenfire para impressionar as pessoas primitivas durante a Primeira Expansão.
+Equipment/&CircletOfBlasting_Unidentified_Title	Tiara Magnífica
+Equipment/&CircletOfBlasting_Unidentified_Description	Um diadema de ouro decorado com uma gema, provavelmente contendo alguns poderes interessantes.
+Equipment/&CloakOfProtection_Title	Manto de Proteção
+Equipment/&CloakOfProtection_Description	Uma capa de corte requintado, muito procurada por arcanistas de choque. Um segredo perdido de Manacalon.
+Equipment/&CloakOfProtection_Unidentified_Title	Bela capa
+Equipment/&CloakOfProtection_Unidentified_Description	Uma capa bonita com símbolos Manacalon bordados no cinto.
+Equipment/&Crown_Of_The_Magister_Item_01_Title	Coroa imperial
+Equipment/&Crown_Of_The_Magister_Item_01_Description	A coroa revelou alguns de seus poderes. Ele pode transmitir imagens do passado ao portador e guiá-lo para encontrar as joias que faltam. Ele também fornece proteção e poderes mágicos, dependendo das joias que carrega.
+Equipment/&Crown_Of_The_Magister_Item_ResistIdentification_Title	Coroa imperial
+Equipment/&Crown_Of_The_Magister_Item_ResistIdentification_Description	A coroa parece fornecer proteção superior contra todos os tipos de investigação mágica, e você ainda não sabe o que é. Ainda assim, fornece ao portador proteções e poderes mágicos.
+Equipment/&RingOfFeatherFalling_Title	Anel da Pena caindo
+Equipment/&RingOfFeatherFalling_Description	Lutar na montanha Snow Alliance tornou este anel obrigatório para os grupos imperiais de reconhecimento.
+Equipment/&RingOfFeatherFalling_Unidentified_Title	Anel Alado
+Equipment/&RingOfFeatherFalling_Unidentified_Description	Um lindo anel com asas gravadas.
+Equipment/&BracersOfDefense_Title	Braçadeiras de Defesa
+Equipment/&BracersOfDefense_Description	Essas braçadeiras eram o bem precioso de um arcanista de choque de Manacalon.
+Equipment/&BracersOfDefense_Unidentified_Title	Braçadeiras Magníficas
+Equipment/&BracersOfDefense_Unidentified_Description	Um par de braçadeiras finamente trabalhadas.
+Equipment/&CloakOfDisplacement_Title	Manto do Deslocamento
+Equipment/&CloakOfDisplacement_Description	Uma capa encomendada por Lord Arador Blackheart após uma série de tentativas de assassinato.
+Equipment/&CloakOfDisplacement_Unidentified_Title	Bela capa
+Equipment/&CloakOfDisplacement_Unidentified_Description	Uma capa escura com bordados dourados.
+Equipment/&BootsOfJumping_Title	Botas de Passadas e Saltos
+Equipment/&BootsOfJumping_Description	Defineth Sharpeye criou essas botas depois de observar seu gato pular, aparentemente desafiando a gravidade em sua perseguição por ratos e pássaros.
+Equipment/&BootsOfJumping_Unidentified_Title	Botas bem elaboradas
+Equipment/&BootsOfJumping_Unidentified_Description	Um par de botas finamente trabalhadas.
+Equipment/&CloakOfElvenKind_Title	Manto de Élfico
+Equipment/&CloakOfElvenKind_Description	Feito em Colthannin para aliados humanos do Reino protegendo suas fronteiras.
+Equipment/&CloakOfElvenKind_Unidentified_Title	Manto Élfico
+Equipment/&CloakOfElvenKind_Unidentified_Description	Uma bela capa feita de tecido fino e decorada com símbolos élficos silvestres.
+Equipment/&DustOfDissapearance_Title	Poeira do Desaparecimento
+Equipment/&DustOfDissapearance_Description	Criado pelo Arcaneum, este pó era uma ferramenta favorita do Silent Whisper em sua luta contra a dissidência e a rebelião.
+Equipment/&DustOfDissapearance_Unidentified_Title	Bolsa de poeira
+Equipment/&DustOfDissapearance_Unidentified_Description	Uma bolsa cheia de um pó translúcido.
+Equipment/&EfficientQuiver_Title	Efficient Quiver
+Equipment/&EfficientQuiver_Description	Poder TBC
+Equipment/&EfficientQuiver_Unidentified_Title	Aljava bem trabalhada.
+Equipment/&EfficientQuiver_Unidentified_Description	Uma aljava lindamente trabalhada.
+Equipment/&GlovesOfMissileSnaring_Title	Luvas de Captura de Mísseis
+Equipment/&GlovesOfMissileSnaring_Description	Feito por Ildurial Stronghand para os membros do Euraidd encarregados de proteger a família Imperial.
+Equipment/&GlovesOfMissileSnaring_Unidentified_Title	Luvas Magníficas
+Equipment/&GlovesOfMissileSnaring_Unidentified_Description	Essas luvas resistentes são muito confortáveis ​​e podem ter propriedades mágicas.
+Equipment/&HornOfBlasting_Title	Chifre de Explosão
+Equipment/&HornOfBlasting_Description	Você pode usar uma ação para falar a Palavra de Comando da buzina e, em seguida, tocar a buzina, que emite uma explosão estrondosa em um cone de 9 metros que pode ser ouvido a 180 metros de distância. Cada criatura no cone deve fazer um teste de resistência de Constituição com CD 15. Em uma falha no teste de resistência, a criatura sofre 5d6 de dano de trovão e fica surda por 1 minuto. Em um teste de resistência bem-sucedido, uma criatura sofre metade do dano e não fica ensurdecida. Criaturas e objetos feitos de vidro ou cristal têm desvantagem no teste de resistência e recebem 10d6 de dano de trovão ao invés de 5d6.
+Equipment/&HornOfBlasting_Unidentified_Title	Chifre com cabeça de leão
+Equipment/&HornOfBlasting_Unidentified_Description	Um belo chifre com uma cabeça de leão dourado que pode ser usado para soprar um som poderoso.
+Equipment/&OilOfSharpness_Title	Óleo de nitidez
+Equipment/&OilOfSharpness_Description	Este óleo transparente e gelatinoso cintila com pequenos fragmentos de prata ultrafinos. O óleo pode cobrir uma arma cortante ou perfurante, ou até 5 peças de munição cortante ou perfurante. A aplicação do óleo leva 1 minuto. Por 1 hora, o item revestido é mágico e tem um bônus de +3 para jogadas de ataque e dano.
+Equipment/&OilOfSharpness_Unidentified_Title	Óleo estranho
+Equipment/&OilOfSharpness_Unidentified_Description	Uma garrafa contendo um óleo transparente e gelatinoso que cintila com minúsculos cacos de prata ultrafinos.
+Equipment/&PeriaptOfHealth_Title	Periapto da Saúde
+Equipment/&PeriaptOfHealth_Description	Os clérigos de Maraike costumam usar essas periaptos para manter a saúde e servir melhor aos enfermos. Em extrema necessidade, eles usam o periapto nos enfermos para estabilizá-los enquanto trabalham sua magia de cura.
+Equipment/&PeriaptOfHealth_Unidentified_Title	Lindo pingente
+Equipment/&PeriaptOfHealth_Unidentified_Description	Um pingente bonito com uma gema azul.
+Equipment/&DireWolfPeltTitle	Dire Wolf Pelt
+Equipment/&DireWolfPeltDescription	Uma pele grossa e bonita que pode ser vendida por algum ouro.
+Equipment/&PartyStashTitle	Party Stash - é seu!
+Equipment/&MerranStashTitle	Stash do Capitão Merran
+Equipment/&MertonStashTitle	Stash de festa desconhecido
+Equipment/&MertonsJournal_Title	Biografia Inacabada
+Equipment/&MertonsJournal_Description	Um manual escrito à mão, aparentemente usado para esboçar uma biografia. O projeto parece ter sido cancelado após apenas algumas linhas.
+Equipment/&MertonsJournal_Content_00	Rascunho da biografia\nMemórias de um domador de sombras\nPor A. Merton\n1022 A.C.\n\nEles foram apenas um punhado de bravos exploradores, os primeiros desde a Queda, a cruzar as montanhas para o Velho Império. Seus nomes: Khay, Annie, Betty, Arwin, Swen, Rhianna e Hector.\nJuntos, eles eram mais fortes do que todos os monstros de Badlands.\nMuito antes de a Copperhead Road ser encontrada, eles conheciam os caminhos e túneis de Masgarth a Manacalon.\nEles trouxeram de volta um livro antigo com ensinamentos de como encantar armas preparadas e o venderam a um senhor anão do clã Gormsdottir. Esse foi o começo de tudo. Logo, todos os olhos se voltaram para Badlands. A sede pelos segredos esquecidos do Velho Império estava crescendo.\n\nO resto está rabiscado.
+Equipment/&Item_Food_Ration_Created_Title	Ração de comida mágica
+Equipment/&Item_Food_Ration_Created_Description	Comida suficiente para um dia, criada por magia. Não pode ser vendido.
+Equipment/&ArcaneShieldstaff_Title	Arcane Shieldstaff
+Equipment/&ArcaneShieldstaff_Lore_Description	Cajados de escudos são artefatos raros de muito tempo atrás. Criado por um antigo mago durante a guerra, este cajado promete manter seu usuário seguro e livre para se concentrar em outras atividades mágicas, deixando a defesa para o cajado.
+Equipment/&Brightwall_Title	Brightwall
+Equipment/&Brightwall_Description	Uma relíquia que pode ser rastreada até Tirmar. Referências a Brightwall podem ser encontradas nos raros textos que descrevem lutas épicas contra Soraks.
+Equipment/&PoisonVipersBiteDescription	Um veneno destilado das glândulas de veneno de cobras venenosas. Pode ser aplicado a armas para dano de veneno adicional.
+Equipment/&PoisonVipersBiteTitle	Mordida de víbora
+Equipment/&Poison_BrimstoneFang_Title	Brimstone Fang
+Equipment/&Poison_BrimstoneFang_Description	Um veneno criado a partir das presas venenosas de uma Víbora de Enxofre.
+Equipment/&Poison_TigerFang_Title	Tiger Fang
+Equipment/&Poison_TigerFang_Description	Um veneno criado a partir das presas venenosas de um Tiger Drake.
+Equipment/&Poison_DarkStab_Title	Dark Stab
+Equipment/&Poison_DarkStab_Description	Um veneno criado a partir da glândula de veneno de uma aranha de Badlands.
+Equipment/&Poison_DeepPain_Title	Dor profunda
+Equipment/&Poison_DeepPain_Description	Um veneno criado com as presas venenosas de uma Aranha Profunda.
+Equipment/&Poison_ArivadsKiss_Title	Beijo de Arivad
+Equipment/&Poison_ArivadsKiss_Description	Um veneno criado com a espinha venenosa de um Sorak.
+Equipment/&Poison_ArunsLight_Description	Um veneno químico que cega um oponente por um curto período.
+Equipment/&Poison_TheLongNight_Title	A longa noite
+Equipment/&Poison_TheLongNight_Description	Um veneno feito com escamas de cobras voadoras, que te consome por dentro.
+Equipment/&Poison_TheBurden_Title	O fardo
+Equipment/&Poison_TheBurden_Description	Um veneno químico que faz você se sentir como se estivesse carregando uma montanha.
+Equipment/&Poison_GhoulsCaress_Title	Carícia do Ghoul
+Equipment/&Poison_GhoulsCaress_Description	Um terrível veneno químico que pode paralisar até o maior lutador.
+Equipment/&Ingredient_SorakPoisonSpine_Title	Sorak Poisonous Spine
+Equipment/&Ingredient_SorakPoisonSpine_Description	Retirado do cadáver de um Sorak, esta espinha contém um veneno que pode ser processado para ser usado em uma arma.
+Equipment/&Ingredient_TigerDrakeFang_Title	Glândula de Veneno do Tigre Drake
+Equipment/&Ingredient_TigerDrakeFang_Description	Retirado do cadáver de um Sorak, esta espinha contém um veneno que pode ser processado para ser usado em uma arma.
+Equipment/&Ingredient_SpiderQueenPoisonGland_Title	Glândula venenosa da rainha da aranha
+Equipment/&Ingredient_SpiderQueenPoisonGland_Description	Colhidas do corpo de uma rainha-aranha, essas glândulas têm capacidades místicas. Nas mãos de um feiticeiro capaz, eles podem ser usados ​​para fabricar venenos mortais ou até mesmo armas de envenenamento.
+Equipment/&ItemRingOfRegenerationDescription	Um anel antigo criado para manter os senhores da guerra de pé no campo de batalha.
+Equipment/&ItemRingOfRegenerationUnidentifiedDescription	Este anel contém símbolos de vida e saúde. Pode ter propriedades mágicas.
+Equipment/&ItemRingOfRegenerationTitle	Anel de Regeneração
+Equipment/&Cog_of_Cohh_Title	Cog of Cohh
+Equipment/&Cog_of_Cohh_Description	O artesanato requintado desta engrenagem garante que o portador seja tido em alta conta por todos que o vêem. E em uma pitada, sabe-se que o forte metal dos anões bloqueia uma lâmina!
+Equipment/&Cog_of_Cohh_Unidentified_Title	Escudo em forma de engrenagem
+Equipment/&Cog_of_Cohh_Unidentified_Description	Uma engrenagem gigante de uma máquina antiga que perdeu seu propósito há incontáveis ​​anos. É muito mais leve do que parece, aparentemente parte de um todo maior. Foi equipado com uma tira que o torna utilizável como escudo.
+Equipment/&Staff_of_Metis_Title	Equipe de Metis
+Equipment/&Staff_of_Metis_Description	TBC
+Equipment/&Staff_of_Metis_Unidentified_Title	Equipe Acacia
+Equipment/&Staff_of_Metis_Unidentified_Description	Feita de um forte galho de uma acácia, na extremidade superior segura uma safira gigante que de alguma forma se transformou no galho.
+Equipment/&Abjuration_HolySymbol_Title	Símbolo Sagrado Antigo
+Equipment/&Abjuration_HolySymbol_Description	Este antigo símbolo sagrado provavelmente pertencia a um clérigo de Tirmar. Ele carrega uma nuvem, uma onda e uma chama.
+Equipment/&Abjuration_EmtansPackage_Title	Caixa pequena
+Equipment/&Abjuration_EmtansPackage_Description	Uma velha caixa de madeira.
+Equipment/&Enchanted_Rapier_Adder_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon, usando um florete preparado e o veneno de uma aranha lendária das profundezas de Solasta. O designer da lâmina foi Griff Blackheart, um notório ferreiro halfling da Marsh que trabalhava nas forjas do Aer Elai.
+Equipment/&Backpack2Description	Uma criação de Eirollimon Apasseich, ele garantiu que todos os Greenmages do Coedymwarth em patrulha tivessem acesso a eles. É muito mais prático do que parece e aumenta muito a sua capacidade de carga.
+Equipment/&Backpack3Description	Este item foi feito de acordo com as especificações do Imperador Laethar, a Alma Dourada, que queria tesouros da província conquistada estocados em bolsas especiais. É quase sem peso e aumenta enormemente sua capacidade de carga.
+Equipment/&Enchanted_Dagger_Souldrinker_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon. Uma favorita dos agentes Silent Whisper, esta arma foi projetada por Cylordir Redblade.
+Equipment/&Enchanted_Breastplate_Of_Deflection_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Manacalon. Eldoril Puremind fez com que sua vida funcionasse para criar uma armadura que protegesse contra uma adaga nas costas. Esta é sua melhor criação.
+Equipment/&Enchanted_Breastplate_Of_Sturdiness_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Manacalon. Ildurial Stronghand forjou a primeira dessas armaduras para a guarda pessoal do imperador.
+Equipment/&Enchanted_Longsword_Frostburn_Description	Esta arma encantada foi forjada usando o conhecimento antigo de ferreiros mestres anões. Ele foi projetado por Keliandir Moltenheart, que forjou esta arma para lutar contra salamandras depois que uma exploração dos planos elementais deu errado.
+Equipment/&Enchanted_Longsword_Dragonblade_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon. Foi projetado por Lestoreth Steelarm para lutar no gelado Norte do Império.
+Equipment/&Enchanted_Longbow_Lightbringer_Description	Esta arma encantada foi forjada usando o conhecimento antigo dos mestres arqueiros de Colthannin. Ele foi projetado por Elgador Keenspirit, Magesmith of the Arcaneum para apoiar o combate contra criaturas mortas-vivas.
+Equipment/&Enchanted_LeatherArmor_Of_Survival_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Colthannin. Medreth Sharpeye projetou esta vestimenta para proteger os batedores Coedymwarth contra a magia Imperial.
+Equipment/&Enchanted_LeatherArmor_Of_Robustness_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Colthannin. Defineth Sharpeye roubou e adaptou o design de Ildurial às necessidades dos batedores de Coedymwarth.
+Equipment/&Enchanted_Halfplate_Of_Sturdiness_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Manacalon. Ildurial Stronghand forjou a primeira daquelas armaduras para a guarda pessoal do imperador.
+Equipment/&Enchanted_Greatsword_Doom_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon. Kenaloth Darkmind inventou as Doomblades como uma ferramenta de punição para aqueles que resistiram ao poder do Império.
+Equipment/&Enchanted_EmpressGarb_Description	Esta armadura encantada foi criada usando o conhecimento antigo dos mestres armeiros de Manacalon. Foi originalmente desenhado por Ildurial Stronghand como um presente de casamento para a Imperatriz Cylloriel Wildspirit, a Imperatriz Guerreira. Não requer proficiência em armadura e não impõe limites ao modificador DEX.
+Equipment/&Enchanted_Longsword_Warden_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon. Foi projetado por Ildurial Stronghand, um famoso cuteleiro de Manacalon. A primeira dessas lâminas, o Manacalon Warden, foi oferecida ao comandante do Euraidd.
+Equipment/&Enchanted_Longsword_Storm_Description	Esta arma encantada foi forjada com o conhecimento antigo dos mestres ferreiros de Manacalon. Ele foi projetado por Galar Stormforge, o primeiro ferreiro anão a aproveitar o poder da tempestade em uma arma - com um efeito devastador!
+Equipment/&Item_Food_Ration_Foraged_Title	Comida forrageada
+Equipment/&Item_Food_Ration_Foraged_Description	Uma ração de comida feita com o resultado de sua caça e coleta durante a viagem. Não foi preparado para durar muito e deve ser consumido rapidamente.
+Equipment/&FunctionGemOfSeeingTitle	Truesight
+Equipment/&GemOfSeeingDescription	Essas joias são geralmente encontradas como relíquias sagradas nos templos de Einar, pois podem ajudar a detectar metamorfos. Eles são usados ​​nos dias sagrados de Einar para vários rituais.
+Equipment/&GemOfSeeingTitle	Joia de ver
+Equipment/&GemOfSeeingUnidentifiedDescription	Uma bela joia cujas facetas refletem a luz em tons multicoloridos.
+Equipment/&GemOfSeeingUnidentifiedTitle	Gema multicolorida
+Equipment/&BootsWingedDescription	A observação de pássaros não é fácil quando você não pode voar. Millie Strongbreeze criou essas botas para seguir sua paixão pela ornitologia.
+Equipment/&BootsWingedTitle	Botas Aladas
+Equipment/&MinimalStrengthDescription	STR mínimo: {0}
+Equipment/&Unidentified_Gauntlets_Description	Manoplas metálicas de habilidade superior.
+Equipment/&Unidentified_Gauntlets_Title	Manoplas magníficas
+Equipment/&Unidentified_Slippers_Description	Um par de chinelos confortáveis ​​que parecem resistentes o suficiente para andar na estrada.
+Equipment/&Unidentified_Slippers_Title	Chinelos
+Equipment/&StoneOfGoodLuck_Unidentified_Description	Um lindo pingente em forma de um trevo de quatro folhas.
+Equipment/&ManualOfBodilyHealth_Title	Manual de Saúde Corporal
+Equipment/&ManualOfBodilyHealth_Function_Description	Avar Wiseheart superou uma doença debilitante para vencer os jogos dos anões. Ele resumiu seus métodos neste manual.
+Equipment/&ManualOfBodilyHealth_Unidentified_Title	Livro encadernado em couro
+Equipment/&ManualOfBodilyHealth_Unidentified_Description	Um livro que contém uma série de conselhos para quem busca melhorar sua saúde.
+Equipment/&ManualOfGainfulExercise_Title	Manual de exercícios lucrativos
+Equipment/&ManualOfGainfulExercise_Function_Description	Avar Wiseheart superou uma doença debilitante para vencer os jogos dos anões. Ele resumiu seus métodos neste manual.
+Equipment/&ManualOfGainfulExercise_Unidentified_Title	Livro encadernado em couro
+Equipment/&ManualOfGainfulExercise_Unidentified_Description	Um livro que contém uma série de conselhos para quem quer se fortalecer.
+Equipment/&ManualOfQuicknessOfAction_Title	Manual de Rapidez de Ação
+Equipment/&ManualOfQuicknessOfAction_Function_Description	Gifaliel Swiftfoot escreveu este manual para seus alunos na Escola Imperial de Ballet de Siothyrnas.
+Equipment/&ManualOfQuicknessOfAction_Unidentified_Title	Livro encadernado em couro
+Equipment/&ManualOfQuicknessOfAction_Unidentified_Description	Um livro que contém uma série de conselhos para quem busca se tornar mais ágil.
+Equipment/&ManualOfLeadership_Title	Tomo de liderança e influência
+Equipment/&ManualOfLeadership_Function_Description	O trabalho de liderança seminal do curso de oficiais gerais da Legião de Ferro.
+Equipment/&ManualOfLeadership_Unidentified_Title	Livro encadernado em couro
+Equipment/&ManualOfLeadership_Unidentified_Description	Um livro que contém uma série de conselhos para aqueles que desejam ganhar influência e liderança.
+Equipment/&ManualOfQuickThought_Title	Tomo do Pensamento Rápido
+Equipment/&ManualOfQuickThought_Function_Description	As aprendizagens destiladas de estudiosos de Manacalon, este livro fascinou gerações de arcanistas.
+Equipment/&ManualOfQuickThought_Unidentified_Title	Livro encadernado em couro
+Equipment/&ManualOfQuickThought_Unidentified_Description	Um livro que contém uma série de conselhos para aqueles que desejam se tornar mais inteligentes.
+Equipment/&ManualOfUnderstanding_Title	Tomo de Entendimento
+Equipment/&ManualOfUnderstanding_Function_Description	Inspirado por Pakri, este livro trouxe uma fé profunda em poderes superiores (ou inferiores) para muitos agnósticos.
+Equipment/&ManualOfUnderstanding_Unidentified_Title	Livro encadernado em couro
+Equipment/&ManualOfUnderstanding_Unidentified_Description	Um livro que contém uma série de conselhos para aqueles que desejam crescer mais sábios.
+Equipment/&BootsOfTheWinterlandDescription	Lestoreth Steelarm criou essas botas para acompanhar a Legião de Ferro em uma marcha pelo Norte gelado.
+Equipment/&BootsOfTheWinterlandTitle	Botas das Terras Invernais
+Equipment/&CloakOfArachnida_Title	Manto de Arachnida
+Equipment/&CloakOfArachnida_Description	Os mestres do Darkweavers 'Guild foram os primeiros usuários dessas capas!
+Equipment/&CloakOfArachnida_Unidentified_Title	Bela capa
+Equipment/&CloakOfArachnida_Unidentified_Description	Um manto rico bordado com fios prateados.
+Equipment/&ChimeOfOpening_Title	Carrilhão de Abertura
+Equipment/&ChimeOfOpening_Function_Description	VAZIO
+Equipment/&ChimeOfOpening_Unidentified_Title	Silver Chime
+Equipment/&ChimeOfOpening_Unidentified_Description	Um belo carrilhão de prata com minúsculas runas élficas gravadas nele.
+Equipment/&BracersOfArcheryDescription	Um favorito das patrulhas de fronteira de Colthannin.
+Equipment/&_Item_RingOfProtection_plus_one_Description	Um anel criado para proteger os arcanistas de choque que lutam nas batalhas do Império. Concedido após a formatura do Arcaneum.
+Equipment/&Backpack3_Unidentified_Title	Bolsa bonita
+Equipment/&Backpack3_Unidentified_Description	Esta bolsa parece muito pequena para ser útil a um aventureiro, a menos que tenha propriedades mágicas ocultas.
+Equipment/&Backpack2Title	Handy Haversack
+Equipment/&BeltOfGiantHillStrength_Description	No início dos tempos, houve um confronto entre os gigantes e os elfos. Os arcanistas élficos não desperdiçaram nada dos gigantes, aproveitando sua essência de vida para criar itens mágicos poderosos.
+Equipment/&GauntletsOfOgrePower_Description	Arasdir Mão de Luz fabricou essas manoplas, mostrando aos ogros a superioridade da mente sobre a matéria.
+Equipment/&RingDarkvision_Description	Enquanto usa este anel, você tem Visão no escuro como um elfo. Idealizado por um excêntrico arcanista Manacalon especializado em feitiços de luz para garantir que seu famoso cozinheiro, o halfling da ilha Mildred Sharpnose, pudesse entregar o café da manhã a qualquer hora, sem ter que iluminar seus estudos.
+Equipment/&RingLanguages_Description	Enquanto usa este anel, você conhece todos os idiomas de Solasta. Um bom mestre garante que todos os servos possam entender as ordens; tal anel foi dado aos supervisores para evitar mal-entendidos durante o governo do Império Manacalon.
+Equipment/&BroochOfShielding_Description	Medreth Sharpeye forjou esses broches para proteger os batedores Coedymwarth contra o feitiço mais comum dos arcanistas de choque imperiais.
+Equipment/&HeadbandOfIntellect_Description	Formado por ordem do príncipe comerciante Elgareth Goldenmind para garantir que sua dinastia sobreviveria ao advento de sucessores menos talentosos.
+Equipment/&StoneOfGoodLuck_Description	Um amuleto mágico feito com uma pedra verde em forma de um trevo de quatro folhas. Misaye deu a primeira dessas pedras a seu sumo sacerdote em sinal de favor.
+Equipment/&WandMagicMissileDescription	Durante o reinado do Império Manacalon, todos os oficiais da Legião de Ferro tinham essa varinha - um símbolo de seu poder e autoridade.
+Equipment/&WandFearDescription	Os superintendentes de Manacalon carregavam essa varinha para garantir a obediência.
+Equipment/&WandLightningBoltsDescription	Uma criação de Galar Stormforge, aproveitando o poder do relâmpago para dar a seus irmãos anões uma chance contra o poder do Império Manacalon.
+Equipment/&BootsLevitationDescription	Depois de alguns ataques nas montanhas da Aliança da Neve, os arcanistas de choque de Manacalon começaram a usar essas botas!
+Equipment/&AmuletOfHealth_Lore_Description	Este amuleto foi criado pelos magos halfling de Marsh nos tempos antigos para ajudar pessoas doentes a sobreviver às adversidades de Olme Fen.
+Equipment/&BeltOfDwarvenkind_Description	Este cinto foi dado a Callawin pelo Kaikkonen depois que ele resgatou seu filho em uma ação ousada e selvagem! Um ataque digno de um anão, mesmo que tenha sido feito por um elfo!
+Equipment/&NecklaceOfFireballsDescription	Medreth Sharpeye se juntou a um joalheiro para criar este item para ajudar grupos de invasores do Coedymwarth que lutam em território imperial.
+Equipment/&BootsOfElvenkind_Title	Boots of Elvenkind
+Equipment/&BootsOfElvenkind_Description	Feito em Colthannin para aliados humanos do Reino protegendo suas fronteiras.
+Equipment/&MantleOfSpellResistance_Title	Manto de Resistência ao Feitiço
+Equipment/&MantleOfSpellResistance_Description	Medreth Sharpeye criou este item para proteger os batedores Coedymwarth em suas investidas de longo alcance.
+Equipment/&MantleOfSpellResistance_Unidentified_Title	Manto bonito
+Equipment/&MantleOfSpellResistance_Unidentified_Description	Um manto fino e bem trabalhado de seda. Possivelmente mágico.
+Equipment/&EndlessQuiver_Title	Aljava infinita de Colthannin
+Equipment/&EndlessQuiver_Description	Encantados pelos antigos Greenmages de Colthannin, essas aljavas garantiam que nunca ficassem sem flechas.
+Equipment/&EndlessQuiver_Unidentified_Title	Colthannin Quiver
+Equipment/&EndlessQuiver_Unidentified_Description	Uma bela aljava feita por artesãos elfos silvestres e decorada com símbolos de sua grande floresta.
+Equipment/&FunctionEndlessQuiverTitle	Gerar Setas
+Equipment/&FunctionEndlessQuiverDescription	Gere 20 flechas.
+Equipment/&RingOfResistance_Fire_Title	Anel de Resistência ao Fogo
+Equipment/&RingOfResistance_Fire_Description	Um mestre Manacalon da Abjuração criou este anel para combater danos específicos.
+Equipment/&RingOfResistance_Cold_Title	Anel de Resistência ao Frio
+Equipment/&RingOfResistance_Cold_Description	Um mestre Manacalon da Abjuração criou este anel para combater danos específicos.
+Equipment/&RingOfResistance_Necrotic_Title	Anel de Resistência Necrótica
+Equipment/&RingOfResistance_Necrotic_Description	Um mestre Manacalon da Abjuração criou este anel para combater danos específicos.
+Equipment/&RingOfResistance_Poison_Title	Anel de Resistência ao Veneno
+Equipment/&RingOfResistance_Poison_Description	Um mestre Manacalon da Abjuração criou este anel para combater danos específicos.
+Equipment/&RingOfResistance_Unidentified_Description	Um anel magnífico com uma forma turva na sua luneta.
+Equipment/&RingOfResistance_Unidentified_Title	Excelente Anel
+Equipment/&GauntletsOfOgrePower_Function_Description	Seu valor de Força é 19 enquanto você usa essas manoplas. Não tem efeito sobre você se sua pontuação de Força já for 19 ou superior.
+Equipment/&GiantStrengthHill_Function_Description	Sua pontuação de Força é 19 enquanto estiver usando este cinto. Não tem efeito sobre você se sua pontuação de Força já for 19 ou superior.
+Equipment/&GiantStrengthFire_Function_Description	Seu valor de Força é 25 enquanto estiver usando este cinto. Não tem efeito sobre você se seu valor de Força já for 25 ou superior.
+Equipment/&GiantStrengthStone_Function_Description	Seu valor de Força é 23 enquanto estiver usando este cinto. Não tem efeito sobre você se sua pontuação de Força já for 23 ou superior.
+Equipment/&HeadbandOfIntellect_Function_Description	Sua pontuação de inteligência é 19 enquanto você estiver usando esta bandana. Não tem efeito sobre você se seu valor de Inteligência já for 19 ou superior.
+Equipment/&BracersOfArchery_Function_Description	Enquanto usa essas braçadeiras, você tem proficiência com o arco longo e o arco curto e ganha um bônus de +2 nas jogadas de dano em ataques à distância feitos com tais armas.
+Equipment/&OilOfSharpness_Function_Description	+3 para ATK e DMG, a arma se torna mágica.
+Equipment/&BaronCellKey_Title	Baron Cell Key
+Equipment/&BaronCellKey_Description	Esta chave abre a cela onde o verdadeiro Barão está sendo mantido.
+Equipment/&Greatsword_plus_1_Title	Espada Grande +1
+Equipment/&Greatsword_plus_1_Description	Uma arma mágica típica fabricada nas forjas do Império Manacalon.
+Equipment/&Greatsword_plus_1_unidentified_Title	Espada Grande Magnífica
+Equipment/&Greatsword_plus_1_unidentified_Description	Esta espada grande finamente trabalhada traz símbolos élficos em seu punho e lâmina.
+Equipment/&JavelinPlusOne_unidentified_Title	Superb Javelin
+Equipment/&JavelinPlusOne_unidentified_Description	Este dardo é finamente trabalhado, leve, mas eficiente.
+Equipment/&Document_Coparann_Lightfiller_Title	Livro de código Sigil
+Equipment/&Document_Coparann_Lightfiller_Description	Este manual contém notas escritas na forma enigmática dos antigos élficos. As únicas coisas interessantes são os desenhos: eles se parecem com as pedras da lua encontradas perto do mausoléu de Kythaela.
+Equipment/&RingOfTheLightbringers_Title	Anel dos Portadores da Luz
+Equipment/&RingOfTheLightbringers_Description	Originalmente, esses anéis foram forjados pelos mestres ferreiros Tirmarianos para equipar uma ordem de Paladinos que queria entrar na terra natal de Sorr-Akkath e destruí-la.
+Equipment/&RingOfTheLightbringers_Unidentified_Title	Lindo anel de prata
+Equipment/&RingOfTheLightbringers_Unidentified_Description	Um anel magnífico com uma luneta em forma de sol.
+Equipment/&BracersOfSparkles_Title	Braçadeiras de brilhos
+Equipment/&BracersOfSparkles_Description	Essas braçadeiras eram usadas para fins cerimoniais nos templos tirmarianos, para iluminar as igrejas.
+Equipment/&BracersOfSparkles_Unidentified_Title	Braçadeiras de Ouro
+Equipment/&BracersOfSparkles_Unidentified_Description	Um par de braçadeiras soberbas feitas de ouro, com decorações em forma de chama.
+Equipment/&Document_Relic_Manifest_Title	Manifesto Antigo
+Equipment/&Document_Relic_Manifest_Description	Este velho pedaço de papel é datado de antes do Cataclismo. É um documento de entrega muito mundano, mas pode ter algum valor para os Antiquários, por exemplo.
+Equipment/&Document_Relic_Poem_Title	Poema
+Equipment/&Document_Relic_Poem_Description	Isso pode ter sido uma carta de amor, ou simplesmente um poema, dedicado a uma Lady Adrastia. Foi claramente amassado, em seguida, recuperado e armazenado com segurança.
+Equipment/&Document_Relic_Order_Title	Solicitação de arma mágica
+Equipment/&Document_Relic_Order_Description	Este pedido foi feito por um oficial da Legião de Ferro para obter uma espada de guarda da oficina mágica da Torre de Abjuração. Refere-se a um componente principal que deve reduzir o preço de fabricação.
+Equipment/&Document_Relic_Craftlist_Title	Este foi aparentemente um documento dado a pessoas que queriam pedir um item mágico do Mestre da Abjuração. Os custos parecem ridiculamente baratos, mas provavelmente porque esses itens eram muito fáceis de fazer para os mestres da magia de Manacalon.
+Equipment/&Document_Relic_Craftlist_Description	Warden Longsword:
+Equipment/&Document_Relic_ElvenWarsBook_Title	As guerras dos elfos
+Equipment/&Document_Relic_ElvenWarsBook_Description	Um livro de história do primeiro mestre do conhecimento do Manacalon Arcaneum. Muito valioso.
+Equipment/&Ingredient_Enchant_SpiderQueen_Venom_Title	Veneno da Rainha Aranha
+Equipment/&Ingredient_Enchant_SpiderQueen_Venom_Description	TBC
+Equipment/&Ingredient_FireSpiderVenomGland_Title	Glândula venenosa de aranha de fogo
+Equipment/&Ingredient_FireSpiderVenomGland_Description	TBC
+Equipment/&MertonSword_Title	Espada de Arwin Merton
+Equipment/&MertonSword_Description	Bitterroot deu a você esta espada. Você deveria trazê-lo para Merton em Caer Cyflen.
+Equipment/&GreenmageArmor_unidentified_Title	Sylvan Outfit
+Equipment/&GreenmageArmor_unidentified_Description	Uma roupa bonita e bem decorada feita de linho verde com forro dourado.
+Equipment/&Plate_plus_one_Title	Placa + 1
+Equipment/&Plate_plus_one_Description	Uma armadura de placas completa feita com metal encantado.
+Equipment/&Plate_plus_one_unidentified_Title	Magnificent Plate Armor
+Equipment/&Plate_plus_one_unidentified_Description	Esta armadura é feita de placas finamente decoradas e contém runas mágicas.
+Equipment/&Handaxe_plus_one_TypeTitle	Machado de mão +1
+Equipment/&Handaxe_plus_one_Description	TBC
+Equipment/&Handaxe_plus_one_Unidentified_Title	Excelente machado de mão
+Equipment/&Handaxe_plus_one_Unidentified_Description	Um machado de mão finamente trabalhado e excepcionalmente bem equilibrado.
+Equipment/&Longsword_plus_two_Title	Espada Longa +2
+Equipment/&Longsword_plus_two_Description	TBC
+Equipment/&Longsword_plus_two_Unidentified_Title	Espada Longa Magnífica
+Equipment/&Longsword_plus_two_Unidentified_Description	Uma espada longa magnificamente trabalhada e decorada.
+Equipment/&Warhammer_plus_two_TypeTitle	Dwarven Thrower
+Equipment/&Warhammer_plus_two_Description	Obra-prima de Galar Stormforge, este excepcional martelo de guerra leve pode ser arremessado para causar danos devastadores, especialmente contra gigantes.
+Equipment/&Warhammer_plus_two_Unidentified_Title	Dwarven Warhammer
+Equipment/&Warhammer_plus_two_Unidentified_Description	Um martelo de guerra leve que parece ser lançado.
+Equipment/&Mace_plus_one_TypeTitle	Mace +1
+Equipment/&Mace_plus_one_Description	Um excelente exemplo das armas produzidas pelos armeiros anões nas cidades da Aliança da Neve.
+Equipment/&Mace_plus_one_Unidentified_Title	Magnificent Mace
+Equipment/&Mace_plus_one_Unidentified_Description	Uma maça lindamente trabalhada com decoração requintada.
+Equipment/&Quarterstaff_plus_three_TypeTitle	Quarterstaff +3
+Equipment/&Quarterstaff_plus_three_Description	TBC
+Equipment/&Quarterstaff_plus_three_Unidentified_Title	Quarterstaff magnífico
+Equipment/&Quarterstaff_plus_three_Unidentified_Description	Um bordão particularmente bem trabalhado, decorado com ouro e pedras preciosas.
+Equipment/&Rapier_plus_one_TypeTitle	Rapier +1
+Equipment/&Rapier_plus_one_Description	TBC
+Equipment/&Rapier_plus_one_Unidentified_Title	Magnificent Rapier
+Equipment/&Rapier_plus_one_Unidentified_Description	Um florete fino, extremamente afiado e bem equilibrado.
+Equipment/&Shortsword_plus_one_TypeTitle	Espada Curta +1
+Equipment/&Shortsword_plus_one_Description	TBC
+Equipment/&Shortsword_plus_one_Unidentified_Title	Espada Curta Magnífica
+Equipment/&Shortsword_plus_one_Unidentified_Description	Uma lâmina excepcional montada em um cabo decorativo e gravado.
+Equipment/&Greataxe_plus_1_Title	Soberbo Greataxe
+Equipment/&Greataxe_plus_1_Description	TBC
+Equipment/&Greataxe_plus_1_unidentified_Title	Greataxe +1
+Equipment/&Greataxe_plus_1_unidentified_Description	Um machado finamente decorado com gravuras rúnicas.
+Equipment/&Maul_Title	Malho
+Equipment/&Maul_Description	Um maul simples, bom e pesado para esmagar seus oponentes.
+Equipment/&Quarterstaff_plus_two_TypeTitle	Superb Quarterstaff
+Equipment/&Quarterstaff_plus_two_Description	TBC
+Equipment/&Quarterstaff_plus_two_Unidentified_Title	Quarterstaff +2
+Equipment/&Quarterstaff_plus_two_Unidentified_Description	Um bordão particularmente bem trabalhado, decorado com ouro e pedras preciosas.
+Equipment/&Shield_plus_3_Title	Escudo Soberba
+Equipment/&Shield_plus_3_Description	TBC
+Equipment/&Shield_plus_3_Unidentified_Title	Escudo +3
+Equipment/&Shield_plus_3_Unidentified_Description	Um escudo redondo feito de um metal excepcional, gravado com runas.
+Equipment/&Dagger_plus_2_Title	Adaga Excelente
+Equipment/&Dagger_plus_2_Description	TBC
+Equipment/&Dagger_plus_2_unidentified_Title	Adaga +2
+Equipment/&Dagger_plus_2_unidentified_Description	Uma adaga curva feita de um metal excepcional. É extremamente afiado.
+Equipment/&Dart_Title	Dardo
+Equipment/&Dart_Description	Um dardo de lâmina afiada que você pode lançar contra seus inimigos.
+Equipment/&PlatePlus1_Title	Placa +1
+Equipment/&PlatePlus1_Description	TBC
+Equipment/&PlatePlus1_Unidentified_Title	Splendid Plate Armor
+Equipment/&PlatePlus1_Unidentified_Description	Esta magnífica armadura parece muito antiga e é muito bem trabalhada. Provavelmente é mágico.
+Equipment/&ArcaneFocus_Belt_Title	Bolsa de Componente de Correia
+Equipment/&ArcaneFocus_Belt_Description	Este cinto contém vários bolsos e bolsas para armazenar componentes de feitiço. Fácil de acessar, é obrigatório para o mago viajante.
+Equipment/&ArcaneFocus_Amulet_Title	Amuleto Arcano
+Equipment/&ArcaneFocus_Amulet_Description	Este amuleto é um item caro com uma pequena joia como peça principal a ser usada como Foco Arcano.
+Equipment/&ArcaneFocus_Bracers_Title	Braçadeiras de Componente
+Equipment/&ArcaneFocus_Bracers_Description	Essas grandes braçadeiras contêm bolsos de acesso rápido para armazenar seus componentes mundanos. Uma obrigação para os magos que gostam de viajar com pouca bagagem.
+Equipment/&ArcaneFocus_Circlet_Title	Círculo Arcano
+Equipment/&ArcaneFocus_Circlet_Description	Este diadema é simplesmente um foco de feitiço com uma joia montada em um diadema de boa aparência. Equipamento não muito modesto, mas prático: basta tocar a sobrancelha na hora do gesso.
+Equipment/&HolySymbolAmulet_Belt_Title	Fivela de cinto Holy Symbol
+Equipment/&HolySymbolAmulet_Belt_Description	Este símbolo sagrado prático é preso a um cinto de couro maciço. Um clérigo ou paladino pode acessá-lo facilmente para lançar, mesmo que a postura de alguém não seja tão elegante quanto segurá-lo na cara do inimigo. Existe em várias versões para acomodar todas as religiões em Solasta.
+Equipment/&HolySymbolAmulet_Cape_Title	Capa de Símbolo Sagrado
+Equipment/&HolySymbolAmulet_Cape_Description	Você pode envolver-se nesta capa bonita para lançar feitiços, o que tende a fazer você parecer um poderoso overlord se exibindo, mas o aspecto prático faz valer a pena. Ele pode ser rapidamente bordado com o símbolo de sua divindade pelo seu comerciante ou clérigo favorito.
+Equipment/&HolySymbolAmulet_Crown_Title	Sagrado Símbolo Coroa
+Equipment/&HolySymbolAmulet_Crown_Description	Provavelmente o mais impressionante e menos modesto dos símbolos sagrados, este item é, no entanto, muito prático, já que você só precisa tocar sua testa para focar o poder de sua divindade. Existe em várias versões para acomodar todas as religiões em Solasta.
+Equipment/&Ingredient_PrimordialLavaStones_Title	Pedras de lava primordiais
+Equipment/&Ingredient_PrimordialLavaStones_Description	TBC
+Equipment/&ContainerHarvestable_PrimordialLavaStones_Title	Pedras de lava primordiais
+Equipment/&ContainerHarvestable_PrimordialLavaStones_Description	TBC
+Equipment/&GemPearlTitle	Pérola
+Equipment/&GemPearlDescription	Uma linda pérola natural, que vale <#A95827>100 peças de ouro</color>.
+Equipment/&Ingredient_BrimstoneViperVenomGland_Title	Glândula de veneno de víbora enxofre
+Equipment/&Ingredient_BrimstoneViperVenomGland_Description	Um saco de veneno encontrado no cadáver de uma Víbora de Enxofre, possivelmente utilizável para criar um veneno.
+Equipment/&Gem300GPDiamongDescription	Um pequeno diamante no valor de <#A95827>300 peças de ouro</color>.
+Equipment/&Gem500GPDiamongDescription	Um diamante que vale <#A95827>500 peças de ouro</color>.
+Equipment/&ContainerHarvestable_FoodCrate_Title	Caixa de comida
+Equipment/&ContainerHarvestable_FoodCrate_Description	Este recipiente é enchido regularmente com alimentos pelo pessoal do alojamento.
+Equipment/&Poison_ArunsLight_Title	Luz de Arun
+Equipment/&Poison_MaraikesTorpor_Title	Torpor de Maraike
+Equipment/&Poison_MaraikesTorpor_Description	Um veneno químico que causa a condição de envenenamento.
+Equipment/&Poison_QueenSpiderBlood_Title	Sangue da rainha aranha
+Equipment/&Poison_QueenSpiderBlood_Description	Um veneno lendário que causa um dano enorme.
+Equipment/&Poisoned_Arrow_Title	Flecha envenenada
+Equipment/&Poisoned_Arrow_MaraikesTorpor_Description	Esses projéteis têm uma pequena bolsa de veneno presa em sua ponta, para que eles distribuam o efeito do veneno em um ataque bem-sucedido. Essas flechas em particular usam o Torpor de Maraike.
+Equipment/&Poisoned_Arrow_ArunsLight_Description	Esses projéteis têm uma pequena bolsa de veneno presa em sua ponta, para que eles distribuam o efeito do veneno em um ataque bem-sucedido. Essas flechas em particular usam a Luz de Arun.
+Equipment/&Poisoned_Arrow_DarkStab_Description	Esses projéteis têm uma pequena bolsa de veneno presa em sua ponta, para que eles distribuam o efeito do veneno em um ataque bem-sucedido. Essas flechas em particular usam Dark Stab.
+Equipment/&Poisoned_Arrow_DeepPain_Description	Esses projéteis têm uma pequena bolsa de veneno presa em sua ponta, para que eles distribuam o efeito do veneno em um ataque bem-sucedido. Essas flechas em particular usam Deep Pain.
+Equipment/&Poisoned_Arrow_SpiderQueenBlood_Description	Esses projéteis têm uma pequena bolsa de veneno presa em sua ponta, para que eles distribuam o efeito do veneno em um ataque bem-sucedido. Essas flechas em particular usam o Sangue da Rainha Aranha.
+Equipment/&Poisoned_Arrow_TheBurden_Title	Esses projéteis têm uma pequena bolsa de veneno presa em sua ponta, para que eles distribuam o efeito do veneno em um ataque bem-sucedido. Essas flechas em particular usam o Burden.
+Equipment/&Poisoned_Arrow_TigerFang_Description	Esses projéteis têm uma pequena bolsa de veneno presa em sua ponta, para que eles distribuam o efeito do veneno em um ataque bem-sucedido. Estas flechas em particular usam Tiger Fang.
+Equipment/&Poisoned_Arrow_TheLongNight_Title	Esses projéteis têm uma pequena bolsa de veneno presa em sua ponta, para que eles distribuam o efeito do veneno em um ataque bem-sucedido. Essas flechas em particular usam The Long Night.
+Equipment/&Poisoned_Arrow_Basic_Title	Esses projéteis têm uma pequena bolsa de veneno presa em sua ponta, para que eles distribuam o efeito do veneno em um ataque bem-sucedido. Essas flechas em particular usam veneno básico.
+Equipment/&Poisoned_Arrow_BrimstoneFang_Title	Esses projéteis têm uma pequena bolsa de veneno presa em sua ponta, para que eles distribuam o efeito do veneno em um ataque bem-sucedido. Essas flechas em particular usam Brimstone Fang.
+Equipment/&Poisoned_Bolt_Title	Parafuso Envenenado
+Equipment/&Poisoned_Arrow_ArivadsKiss_Title	Flecha envenenada
+Equipment/&Poisoned_Arrow_ArivadsKiss_Description	Esses projéteis têm uma pequena bolsa de veneno presa em sua ponta, então eles vão lidar com o efeito do veneno em um ataque bem-sucedido. Essas flechas em particular usam o Beijo de Arivad.
+Equipment/&Poisoned_Arrow_CraftingRecipe_Title	Crie 5 flechas venenosas
+Equipment/&Poisoned_Bolt_CraftingRecipe_Title	Crie 5 setas venenosas
+Equipment/&Poisoned_Arrow_GhoulsCaress_Description	Esses projéteis têm uma pequena bolsa de veneno presa em sua ponta, para que eles distribuam o efeito do veneno em um ataque bem-sucedido. Estas flechas em particular usam Carícia do Ghoul.
+Equipment/&Coparann_Lightfiller_Document_Title	Livro velho empoeirado
+Equipment/&Coparann_Lightfiller_Document_Description	Parece uma lista de diretrizes para o pessoal da fortaleza. É claramente da era Manacalon, muito antes do reinado dos Ceannards.
+Equipment/&Legendary_Document_Title	A guerra dos deuses
+Equipment/&Legendary_Document_Description	Você anotou isso nas escrituras na parede do templo. Parece ser a antiga história da queda de Arivad, em Tirmar, antes do Cataclismo.
+Equipment/&Legendary_Document_Content00	O Cisma de Arivad
+Equipment/&Legendary_Document_Content01	Os deuses primitivos formaram um conjunto equilibrado quando a humanidade surgiu em Tirmar. Arun foi o primeiro, Maraike com ele. Pakri e Arivad surgiram e consolidaram o quarteto.
+Equipment/&Legendary_Document_Content02	Arun subiu, ele era mais alto que os outros, o primeiro e o mais poderoso.
+Equipment/&Legendary_Document_Content03	Então Arun se afastou, desejando acima de tudo o equilíbrio entre os deuses.
+Equipment/&Legendary_Document_Content04	Pakri estava assistindo o tempo todo. Ela assumiu um papel mais central para trazer equilíbrio à humanidade.
+Equipment/&Legendary_Document_Content05	Os dias sombrios chegaram e os homens oraram por um deus forte para protegê-los contra Sorr-Akkath. Arivad ascendeu como o novo líder dos deuses.
+Equipment/&Legendary_Document_Content06	Sorr-Tarr corrompeu Arivad, causando o cisma. Arivad se dividiu em duas entidades: Einar nasceu, limpo de toda corrupção. Arivad permaneceu contaminado para sempre. Eles não eram mais quatro, mas cinco.
+Equipment/&Tirmarian_GreataxeTypeTitle	Sandraven Holy Axe
+Equipment/&BoltStuff_Title	Peças de Projétil
+Equipment/&BoltStuff_Description	Um pacote de cabeças e caudas para fazer parafusos ou flechas usando ferramentas de ferreiro.
+Equipment/&BoltStuff_Recipe_Title	Crie 20 parafusos de besta
+Equipment/&ArrowStuff_Recipe_Title	Crie 20 flechas
+Equipment/&ArtisanToolSmith_Title	Small Smith Toolkit
+Equipment/&ArtisanToolSmith_Description	Este conjunto de ferramentas permite que um indivíduo habilidoso crie seus próprios parafusos e flechas.
+Equipment/&Subquest_Lawkeeper_RodricHideoutNote_Title	Nota manuscrita
+Equipment/&Subquest_Lawkeeper_RodricHideoutNote_Description	Esta nota prova que Rodric está envolvido em atividades criminosas.
+Equipment/&Subquest_Lawkeeper_RodricHideoutNote_Content	Ainda não recebemos o último fornecimento. Os clientes não são tão tolerantes quanto eu. Você tem cinco dias para trazer a mercadoria, ou nós iremos buscá-la nós mesmos. - Rodric
+Equipment/&Aristocrat_AdriasJournal_Title	Diário de Adria
+Equipment/&Aristocrat_AdriasJournal_Description	Um diário pessoal com a maioria das páginas arrancadas. Os restantes contam uma história sombria de queda sob o domínio de Arivad.
+Equipment/&SpoonOfDiscord_Title	Colher de discórdia
+Equipment/&SpoonOfDiscord_Description	Um estranho artefato que pertencia a um culto ainda mais estranho. Ou você foi enganado pelo comerciante que o vendeu para você.
+Equipment/&OneRing_Title	Um anel
+Equipment/&OneRing_Description	Usar este anel deixa você terrivelmente desconfortável e você se sente como se estivesse sendo observado. Dito isso, de alguma forma parece torná-lo mais furtivo.
+Equipment/&SixLeaguesBoots_Title	Botas de seis ligas
+Equipment/&SixLeaguesBoots_Description	Pode não torná-lo o mais rápido de estar vivo, mas coloca um pouco de vitalidade em seu passo!
+Equipment/&Sellsword_Background_Quest_FarmhouseKey_Title	Chave de casa
+Equipment/&Sellsword_Background_Quest_FarmhouseKey_Description	Esta chave abre uma pequena casa perto de Coparann.
+Equipment/&Sellsword_Background_Quest_Document_01_Title	Carta de Mildred
+Equipment/&Sellsword_Background_Quest_Document_01_Description	Annie deu a você esta carta. É de Mildred, a estalajadeira de Coparann.
+Equipment/&Sellsword_Background_Quest_Document_02_Title	Carta de seus pais
+Equipment/&Sellsword_Background_Quest_Document_02_Description	Mildred lhe deu esta velha carta de seus pais.
+Equipment/&Sellsword_Background_Quest_Document_03_Title	Nota manuscrita
+Equipment/&Sellsword_Background_Quest_Document_03_Description	Esta nota manuscrita foi encontrada dentro da casa da fazenda de sua família perto de Coparann. É a prova de que Soraks está envolvido.
+Equipment/&Sellsword_Background_Quest_Document_04_Title	Nota de Nikannen
+Equipment/&Sellsword_Background_Quest_Document_04_Description	Este documento é uma ordem oficial do Sargento Nikannen permitindo que você recupere a chave de sua casa do Arquivista no Porão da Fortaleza de Coparann.
+Equipment/&Lowlife_Quest_MagicalSword_Title	Espada Mágica
+Equipment/&Lowlife_Quest_MagicalSword_Description	Esta é a espada mágica que Annie está procurando. Parece fortemente imbuído de magia.
+Equipment/&Sigil_Ring_Abjuration_Title	Sigil Ring of Abjuration
+Equipment/&Sigil_Ring_Abjuration_Description	Um presente do Mestre Adrastia por ajudá-la e a Kythaela. Os anéis de sigilo são um sinal claro de favor dracônico: eles só podem ser dados gratuitamente. Nenhum foi visto desde a queda de Manacalon.
+Equipment/&Sigil_Ring_Necromancy_Title	Sigil Ring of Necromancy
+Equipment/&Sigil_Ring_Necromancy_Description	Um presente do Mestre Mardracht por convencê-lo a resgatar sua joia da Necromancia. Os anéis de sigilo são um sinal claro de favor dracônico: eles só podem ser dados gratuitamente. Nenhum foi visto desde a queda de Manacalon.
+Equipment/&PickupQuest_Item_HiddenBlade_Title	Lâmina Sorr-Akkath
+Equipment/&PickupQuest_Item_HiddenBlade_Description	Esta lâmina quebrada que você descobriu perto do acampamento pode ter pertencido a Sorr-Akkath. Não se parece com nenhuma arma que você já viu antes e é coberto com tinta preta, por isso não brilha quando iluminado. Existem palavras escritas nele em um idioma não falado em Solasta.
+Equipment/&PickupQuest_Item_PaintedHide_Title	Couro Pintado
+Equipment/&PickupQuest_Item_PaintedHide_Description	Esta pele enrolada está pintada com símbolos de aparência estranha, provavelmente escrita de duende.
+Equipment/&PickupQuest_Item_ChroniclesOfTheInquisition_Title	Crônicas da Inquisição
+Equipment/&PickupQuest_Item_ChroniclesOfTheInquisition_Description	Este livro muito antigo de Tirmar conta a história de como a inquisição liderou a luta contra Sorr-Akkath.
+Equipment/&PickupQuest_Item_CrownNotes_Title	Inscrições antigas
+Equipment/&PickupQuest_Item_CrownNotes_Description	Notas tiradas do pedestal onde você encontrou a Coroa.
+Equipment/&PickupQuest_Item_ImperialInsignia_Title	Insígnia da Primeira Legião
+Equipment/&PickupQuest_Item_ImperialInsignia_Description	Uma insígnia pré-Cataclismo da Primeira Legião do Império Manacalon.
+Equipment/&PickupQuest_Item_SylvanRebelJournal_Title	Sylvan Rebel Journal
+Equipment/&PickupQuest_Item_SylvanRebelJournal_Description	Uma velha coleção de papéis contendo os últimos escritos de um famoso rebelde Elfo Sylvan durante a Segunda Expansão Imperial.
+Equipment/&PickupQuest_Item_SylvanRebelJournal_Content01	Este não é o fim
+Equipment/&PickupQuest_Item_SylvanRebelJournal_Content02	Se você ler isso, eu morri! Tenha certeza de que caí lutando até o fim e me recusei a me curvar! Cuidado com a astúcia de Manacalon, mas confie em suas irmãs e irmãos de armas! No final das contas, o Coedymwarth é mais do que uma organização; é a personificação da resiliência do espírito livre confrontado pela mais vil tirania!
+Equipment/&PickupQuest_Item_DanantarLetterTitle	Carta Antiga
+Equipment/&PickupQuest_Item_DanantarLetterDescription	Uma curta carta escrita como testemunho de um ancestral de Lord Danantar.
+Equipment/&PickupQuest_Item_DanantarLetterContent01	Adeus ao escudo
+Equipment/&PickupQuest_Item_DanantarLetterContent02	Acabei de receber meus pedidos! Vou deixar o serviço de minha amada Adrastia para ir para as províncias externas! Uma nova escola de magia está se abrindo para Spellblades e estou sendo enviado para lá como diretor em reconhecimento aos meus anos de serviço fiel. Deixo para trás esta adaga como um testemunho de meu amor e respeito duradouro por meu mentor, Adrastia, o Escudo Prudente, Mestre do Arcaneum.
+Equipment/&MagisterTooth_Title	Dente de dragão
+Equipment/&MagisterTooth_Description	Este dente foi encontrado em uma pilha de ossos de dragão. Deve ter pertencido ao Magister, ele próprio um dragão!
+Equipment/&EverlastingTorch_Title	Tocha Eterna
+Equipment/&EverlastingTorch_Description	Peça padrão do kit para equipes de ataque da Inquisição que vão atrás de Soraks em Tirmar. Adotado instantaneamente em Solasta.
+Equipment/&LoadedDice_Title	Dados viciados
+Equipment/&LoadedDice_Description	Os sacerdotes de Misaye são conhecidos por usar esses dados com grande efeito!
+Equipment/&PickupQuest_Item_MagisterAmulet_Title	Amuleto do Magister
+Equipment/&PickupQuest_Item_MagisterAmulet_Description	Este amuleto com joias é enorme - grande demais, com certeza, para pertencer a qualquer pessoa de tamanho humano.
+Equipment/&ScrollHasteDescription	Ao usar este pergaminho, você lança o feitiço Aceleração.
+Equipment/&ScrollHasteTitle	Pergaminho de Rapidez
+Equipment/&ScrollConjureAnimalsDescription	Ao usar este pergaminho, você lança o feitiço Conjurar Animais.
+Equipment/&ScrollConjureAnimalsTitle	Pergaminho de Animais Conjuros
+Equipment/&ScrollDaylightDescription	Ao usar este pergaminho, você lança o feitiço Daylight.
+Equipment/&ScrollDaylightTitle	Pergaminho da luz do dia
+Equipment/&ScrollFlyDescription	Ao usar este pergaminho, você lança o feitiço Fly.
+Equipment/&ScrollFlyTitle	Pergaminho da Mosca
+Equipment/&ScrollSleetStormDescription	Ao usar este pergaminho, você lança o feitiço Tempestade de granizo.
+Equipment/&ScrollSleetStormTitle	Pergaminho da tempestade de granizo
+Equipment/&ScrollSlowDescription	Ao usar este pergaminho, você lança o feitiço Lento.
+Equipment/&ScrollSlowTitle	Pergaminho lento
+Equipment/&ScrollSpiritGuardiansDescription	Ao usar este pergaminho, você lança o feitiço Guardiões espirituais.
+Equipment/&ScrollSpiritGuardiansTitle	Pergaminho dos Guardiões Espirituais
+Equipment/&ScrollStinkingCloudDescription	Ao usar este pergaminho, você lança o feitiço Nuvem Fedorenta.
+Equipment/&ScrollStinkingCloudTitle	Pergaminho da Nuvem Fedorenta
+Equipment/&ScrollTonguesDescription	Ao usar este pergaminho, você lança o feitiço Línguas.
+Equipment/&ScrollTonguesTitle	Rolo de línguas
+Equipment/&ScrollMassHealingWordDescription	Ao usar este pergaminho, você lança o feitiço Palavra de Cura em Massa.
+Equipment/&ScrollMassHealingWordTitle	Pergaminho da Palavra de Cura em Massa
+Equipment/&DaggerPlus2TypeTitle	Adaga +2
+Equipment/&DaggerPlus2TypeDescription	Tradição TBC
+Equipment/&ShortbowPlus2TypeTitle	Shortbow +2
+Equipment/&ShortbowPlus2TypeDescription	Tradição TBC
+Equipment/&Longbow_plus_1_Unidentified_Title	Arco Longo Magnífico
+Equipment/&Longbow_plus_1_Unidentified_Description	Um arco longo finamente trabalhado com gravuras e runas. Provavelmente mágico.
+Equipment/&LongbowPlus1TypeTitle	Arco Longo +1
+Equipment/&LongbowPlus1TypeDescription	Tradição TBC
+Equipment/&Morningstar_plus_2_Title	Morningstar +2
+Equipment/&Morningstar_plus_2_Description	Tradição TBC
+Equipment/&Tirmarian_GreataxeTypeDescription	Este machado maravilhosamente encaixotado carrega as marcas dos artesãos tirmarianos! Como ele pousou entre um tesouro orc é apenas mais um mistério de Badlands!
+Equipment/&BattleAxe_plus_1_Unidentified_Title	Machado de batalha magnífico
+Equipment/&BattleAxe_plus_1_Unidentified_Description	Um machado de batalha finamente trabalhado com gravuras e runas. Provavelmente mágico.
+Equipment/&Warhammer_plus_1_Title	Warhammer +1
+Equipment/&Warhammer_plus_1_Description	TBC
+Equipment/&Warhammer_plus_1_unidentified_Title	Superb Warhammer
+Equipment/&Warhammer_plus_1_unidentified_Description	Um martelo de guerra bem balanceado e extremamente robusto.
+Equipment/&HelmLanguages_Title	Helm of Comprehending Languages
+Equipment/&HelmLanguages_Description	Permite que você lance o feitiço de Línguas à vontade e decifre e fale todas as línguas.
+Equipment/&HelmLanguages_Unidentified_Title	Lindo elmo
+Equipment/&HelmLanguages_Unidentified_Description	Este elmo é muito leve para fornecer qualquer proteção, mas pode ter propriedades mágicas.
+Equipment/&Spy_Background_Quest_Document_01_Title	Dossiê Incriminante
+Equipment/&Spy_Background_Quest_Document_01_Description	Este documento lacrado contém informações sobre Lord Belmont. O suficiente para arruinar sua reputação.
+Equipment/&MorningstarOfPower_Function_Description	Seu valor de Força é 19 enquanto você empunha esta arma. Não tem efeito sobre você se sua pontuação de Força já for 19 ou superior.
+Equipment/&Enchanted_ScaleArmor_Of_Robustness_Title	Armadura de Escala da Robustez
+Equipment/&Enchanted_ScaleArmor_Of_Robustness_Description	Lore TBD
+Equipment/&GreenmageArmor_Title	Sylvan Armor
+Equipment/&GreenmageArmor_Description	Eirollimon Apasseich ajudou a projetar esta armadura para apoiar seus alunos em seus esforços como Greenmages protegendo as fronteiras de Colthannin.
+Equipment/&ClothOfTheLightbringers_Title	Pano dos Portadores da Luz
+Equipment/&ClothOfTheLightbringers_Description	Este pano foi desenhado e encantado pelos clérigos de um culto tirmariano para equipar seus paladinos.
+Equipment/&ElvenChain_Title	Corrente Colthannin
+Equipment/&ElvenChain_Description	Esta cota de malha mágica foi projetada para os guerreiros selvagens de Colthannin, que não eram proficientes com armaduras pesadas.
+Equipment/&ElvenChain_Unidentified_Title	Elven Chain Mail
+Equipment/&ElvenChain_Unidentified_Description	Esta cota de malha é magnificamente decorada no estilo élfico e é muito mais leve do que parece.
+Equipment/&AdamantinePlate_Title	Armadura de placa adamantina
+Equipment/&AdamantinePlate_Description	O primeiro portador dessa armadura foi Ketil Strongshield, campeão da Aliança da Neve contra Manacalon. A resistência de sua armadura levou a escavações cada vez mais profundas dos mineiros da Aliança para equipar seus melhores lutadores.
+Equipment/&Enchanted_WeaponOfAcuteness_Description	Esta arma encantada foi criada usando o conhecimento antigo dos mestres ferreiros de Manacalon. Seu projeto foi uma das primeiras obras de Elgador Keenspirit, Magesmith of the Arcaneum.
+Equipment/&ArrowPlus2Title	Seta +2
+Equipment/&Enchanted_WeaponOfSharpness_Description	Esta arma encantada foi criada usando o conhecimento antigo dos mestres ferreiros de Manacalon. Seu design foi o esforço magistral de Elgador Keenspirit, Magesmith of the Arcaneum.
+Equipment/&_Item_Legendary_RingofTheLordInquisitor_Title	Anel do Senhor Inquisidor
+Equipment/&_Item_Legendary_RingofTheLordInquisitor_Description	Este anel pertenceu a Hyeronimus Bash, Lorde Inquisidor da Igreja de Arivad, antes de seu deus trair a humanidade. Quando isso aconteceu, Hyeronimus selou este anel dentro do templo, antes de se juntar ao culto de Einar. Diz a lenda que Hyeronimus foi o último homem a resistir na Batalha do Rift.
+Equipment/&AlchemistFire_Title	Fogo Alquimista
+Equipment/&AlchemistFire_Description	Um composto explosivo que você pode lançar para colocar fogo em um inimigo.
+Equipment/&LavaBlast_Title	Explosão de lava
+Equipment/&LavaBlast_Description	Um poderoso composto explosivo que você pode lançar para incendiar um inimigo.
+Equipment/&AcidVial_Title	Frasco de ácido
+Equipment/&AcidVial_Description	Um composto explosivo que você pode lançar para queimar um inimigo com ácido.
+Equipment/&HolyWater_Title	Água benta
+Equipment/&HolyWater_Description	Um pequeno frasco que você pode jogar para um morto-vivo ou demônio para queimá-lo com poder radiante.
+Equipment/&Document_Lowlife_Note_Title	Nota manuscrita
+Equipment/&Document_Lowlife_Note_Description	Uma nota encontrada sobre os agressores que o atacaram quando você saiu do Templo de Misaye.
+Equipment/&Document_Lowlife_Note_Content	Nós descobrimos que este Sacerdote de Misaye - Nel - tem a espada mágica da qual eu estava falando. Esse bando de deputados do Conselho parece estar atrás dele também, então talvez eles coloquem as mãos nele. Se isso acontecer, você sabe o que fazer.
+Equipment/&Dwarvenbread_Description	Este pão é tão difícil de mastigar que o simples fato de carregá-lo o enche de determinação. E fortaleza. E dor de dente.
+Equipment/&Dwarvenbread_Title	Pão de Anão
+Equipment/&EarlyBird_Title	Madrugador
+Equipment/&EarlyBird_Description	Dizem que quem madruga pega o verme, mas esse madrugador também ajuda você a socar antes de todo mundo.
+Equipment/&StaffOfMetis_Description	Diz-se que a safira que adorna o Cajado de Metis foi encontrada dentro da árvore de acácia que foi usada para esculpi-la e que tem o poder de proteger seu portador de tempestades e outros desastres naturais.
+Equipment/&StaffOfMetis_Title	Equipe de Metis
+Equipment/&Ingredient_Blood_Ruby_Description	Um rubi banhado em sangue de minotauro preservado magicamente torna-se um rubi de sangue, freqüentemente usado para aumentar a força.
+Equipment/&Armor_DwarvenPlate_Title	Prato dos Anões
+Equipment/&Armor_DwarvenPlate_Description	A luta subterrânea levou os anões a criarem esta armadura para evitar serem empurrados por pontes de pedra.
+Equipment/&ImperialPrisonKey_PickupQuest_GhostsOfTheEmpire_Title	Chave da prisão imperial
+Equipment/&ImperialPrisonKey_PickupQuest_GhostsOfTheEmpire_Description	Isso foi dado a você para acessar as profundezas da prisão Imperial para recuperar um item.
+Equipment/&ScrollCloudKillTitle	Pergaminho de Cloudkill
+Equipment/&ScrollCloudKillDescription	Quando você usa este pergaminho, você lança o feitiço Cloudkill.
+Equipment/&ScrollConeOfColdTitle	Pergaminho de Cone de Frio
+Equipment/&ScrollConeOfColdDescription	Ao usar este pergaminho, você lança o feitiço Cone de Frio.
+Equipment/&ScrollConjureElementalTitle	Pergaminho de Conjurar Elemental
+Equipment/&ScrollConjureElementalDescription	Ao usar este pergaminho, você lança o feitiço Conjurar Elemental.
+Equipment/&ScrollContagionTitle	Pergaminho de Contágio
+Equipment/&ScrollContagionDescription	Ao usar este pergaminho, você lança o feitiço Contágio.
+Equipment/&ScrollDominatePersonTitle	Pergaminho de Pessoa Dominada
+Equipment/&ScrollDominatePersonDescription	Ao usar este pergaminho, você lança o feitiço Dominar Pessoa.
+Equipment/&ScrollDispelEvilAndGoodTitle	Pergaminho de Dissipar o Mal e o Bem
+Equipment/&ScrollDispelEvilAndGoodDescription	Ao usar este pergaminho, você lança o feitiço Dissipar o Mal e o Bem.
+Equipment/&ScrollFlameStrikeTitle	Pergaminho do Ataque de Chamas
+Equipment/&ScrollFlameStrikeDescription	Quando você usa este pergaminho, você lança o feitiço Golpe da Chama.
+Equipment/&ScrollGreaterRestorationTitle	Pergaminho da Grande Restauração
+Equipment/&ScrollGreaterRestorationDescription	Ao usar este pergaminho, você lança o feitiço Restauração Maior.
+Equipment/&ScrollHoldMonsterTitle	Pergaminho do Monstro Hold
+Equipment/&ScrollHoldMonsterDescription	Ao usar este pergaminho, você lança o feitiço Hold Monster.
+Equipment/&ScrollInsectPlagueTitle	Pergaminho da Praga de Insetos
+Equipment/&ScrollInsectPlagueDescription	Ao usar este pergaminho, você lança o feitiço Peste de Insetos.
+Equipment/&ScrollMassCureWoundsTitle	Pergaminho de curar feridas em massa
+Equipment/&ScrollMassCureWoundsDescription	Ao usar este pergaminho, você lança o feitiço Curar feridas em massa.
+Equipment/&ScrollMindTwistTitle	Scroll of Mind Twist
+Equipment/&ScrollMindTwistDescription	Ao usar este pergaminho, você lança o feitiço Mind Twist.
+Equipment/&ScrollBanishmentTitle	Pergaminho de Banimento
+Equipment/&ScrollBanishmentDescription	Ao usar este pergaminho, você lança o feitiço Banimento.
+Equipment/&ScrollBlackTentaclesTitle	Pergaminho de Tentáculos Negros
+Equipment/&ScrollBlackTentaclesDescription	Ao usar este pergaminho, você lança o feitiço Tentáculos Negros.
+Equipment/&ScrollBlightTitle	Pergaminho da Praga
+Equipment/&ScrollBlightDescription	Ao usar este pergaminho, você lança o feitiço Blight.
+Equipment/&ScrollConfusionTitle	Pergaminho de Confusão
+Equipment/&ScrollConfusionDescription	Ao usar este pergaminho, você lança o feitiço Confusão.
+Equipment/&ScrollDeathwardTitle	Pergaminho do Deathward
+Equipment/&ScrollDeathwardDescription	Ao usar este pergaminho, você lança o feitiço Deathward.
+Equipment/&ScrollDimensionDoorTitle	Pergaminho da Porta Dimensional
+Equipment/&ScrollDimensionDoorDescription	Ao usar este pergaminho, você lança o feitiço Porta da Dimensão.
+Equipment/&ScrollFireShieldTitle	Pergaminho do escudo de fogo
+Equipment/&ScrollFireShieldDescription	Ao usar este pergaminho, você lança o feitiço Fire Shield.
+Equipment/&ScrollGiantInsectTitle	Pergaminho de inseto gigante
+Equipment/&ScrollGiantInsectDescription	Ao usar este pergaminho, você lança o feitiço Inseto Gigante.
+Equipment/&ScrollGreaterInvisibilityTitle	Pergaminho de Maior Invisibilidade
+Equipment/&ScrollGreaterInvisibilityDescription	Ao usar este pergaminho, você lança o feitiço Maior Invisibilidade.
+Equipment/&ScrollGuardianOfFaithTitle	Pergaminho do Guardião da Fé
+Equipment/&ScrollGuardianOfFaithDescription	Ao usar este pergaminho, você lança o feitiço Guardião da Fé.
+Equipment/&ScrollIceStormTitle	Pergaminho da Tempestade de Gelo
+Equipment/&ScrollIceStormDescription	Ao usar este pergaminho, você lança o feitiço Tempestade de Gelo.
+Equipment/&ScrollPhantasmalKillerTitle	Pergaminho do Phantasmal Killer
+Equipment/&ScrollPhantasmalKillerDescription	Ao usar este pergaminho, você lança o feitiço Phantasmal Killer.
+Equipment/&ScrollStoneskinTitle	Pergaminho de Pele de Pedra
+Equipment/&ScrollStoneskinDescription	Ao usar este pergaminho, você lança o feitiço Pele de Pedra.
+Equipment/&ScrollWallOfFireTitle	Pergaminho da Parede de Fogo
+Equipment/&ScrollWallOfFireDescription	Ao usar este pergaminho, você lança o feitiço Parede de Fogo.
+Equipment/&ScrollPassWithoutTraceTitle	Pergaminho do passe sem deixar rastros
+Equipment/&ScrollPassWithoutTraceDescription	Ao usar este pergaminho, você lança o feitiço Passar sem deixar rastros.
+Equipment/&ScrollFreedomOfMovementTitle	Pergaminho da Liberdade de Movimento
+Equipment/&ScrollFreedomOfMovementDescription	Ao usar este pergaminho, você lança o feitiço Liberdade de Movimento.
+Equipment/&ScrollCommandTitle	Pergaminho de Comando
+Equipment/&ScrollCommandDescription	Ao usar este pergaminho, você lança o feitiço Comando.
+Equipment/&ScrollConjureMinorElementalsTitle	Pergaminho de Conjurar Elementais Menores
+Equipment/&ScrollConjureMinorElementalsDescription	Ao usar este pergaminho, você lança o feitiço Conjurar Elementais Menores.
+Equipment/&ScrollEntangleTitle	Pergaminho do Entangle
+Equipment/&ScrollEntangleDescription	Ao usar este pergaminho, você lança o feitiço Entangle.
+Equipment/&Breastplate_Unidentified_Title	Peitoral magnífico
+Equipment/&Breastplate_Unidentified_Description	Um peitoral agradavelmente decorado com gravuras rúnicas.
+Equipment/&Breastplate_plus_one_Title	Peitoral +1
+Equipment/&Breastplate_plus_one_Description	Esta armadura foi forjada por Ildurial para a guarda pessoal do Imperador.
+Equipment/&ScrollCounterspellTitle	Pergaminho da contramágica
+Equipment/&ScrollCounterspellDescription	Ao usar este pergaminho, você lança o feitiço Contrafeitiço.
+Equipment/&ScrollDispelMagicTitle	Pergaminho de Dissipar Magia
+Equipment/&ScrollDispelMagicDescription	Ao usar este pergaminho, você lança o feitiço Dissipar Magia.
+Equipment/&ScrollFearTitle	Pergaminho do Medo
+Equipment/&ScrollFearDescription	Ao usar este pergaminho, você lança o feitiço Medo.
+Equipment/&ScrollHypnoticPatternTitle	Pergaminho de Padrão Hipnótico
+Equipment/&ScrollHypnoticPatternDescription	Ao usar este pergaminho, você lança o feitiço Padrão Hipnótico.
+Equipment/&ScrollProtectionFromEnergyTitle	Pergaminho de proteção contra energia
+Equipment/&ScrollProtectionFromEnergyDescription	Ao usar este pergaminho, você lança o feitiço Proteção contra Energia.
+Equipment/&ScrollRemoveCurseTitle	Pergaminho de Remover Maldição
+Equipment/&ScrollRemoveCurseDescription	Ao usar este pergaminho, você lança o feitiço Remover Maldição.
+Equipment/&ScrollVampiricTouchTitle	Pergaminho de toque vampírico
+Equipment/&ScrollVampiricTouchDescription	Ao usar este pergaminho, você lança o feitiço Toque Vampírico.
+Equipment/&ScrollBlindnessTitle	Pergaminho da Cegueira
+Equipment/&ScrollBlindnessDescription	Ao usar este pergaminho, você lança o feitiço Cegueira.
+Equipment/&ScrollBlurTitle	Pergaminho de Desfoque
+Equipment/&ScrollBlurDescription	Ao usar este pergaminho, você lança o feitiço Desfoque.
+Equipment/&ScrollDarknessTitle	Pergaminho da Escuridão
+Equipment/&ScrollDarknessDescription	Ao usar este pergaminho, você lança o feitiço Escuridão.
+Equipment/&ScrollDarkvisionTitle	Pergaminho da Visão no escuro
+Equipment/&ScrollDarkvisionDescription	Ao usar este pergaminho, você lança o feitiço Visão no escuro.
+Equipment/&ScrollFindTrapsTitle	Pergaminho de Encontrar Armadilhas
+Equipment/&ScrollFindTrapsDescription	Ao usar este pergaminho, você lança o feitiço Encontrar Armadilhas.
+Equipment/&ScrollFlameBladeTitle	Pergaminho da lâmina de fogo
+Equipment/&ScrollFlameBladeDescription	Ao usar este pergaminho, você lança o feitiço Lâmina de Chama.
+Equipment/&ScrollFlamingSphereTitle	Pergaminho da Esfera Flamejante
+Equipment/&ScrollFlamingSphereDescription	Ao usar este pergaminho, você lança o feitiço Esfera Flamejante.
+Equipment/&ScrollInvisibilityTitle	Pergaminho da Invisibilidade
+Equipment/&ScrollInvisibilityDescription	Ao usar este pergaminho, você lança o feitiço Invisibilidade.
+Equipment/&ScrollKnockTitle	Pergaminho de Knock
+Equipment/&ScrollKnockDescription	Ao usar este pergaminho, você lança o feitiço Knock.
+Equipment/&ScrollLevitateTitle	Pergaminho de Levitar
+Equipment/&ScrollLevitateDescription	Ao usar este pergaminho, você lança o feitiço Levitar.
+Equipment/&ScrollMagicWeaponTitle	Pergaminho da Arma Mágica
+Equipment/&ScrollMagicWeaponDescription	Ao usar este pergaminho, você lança o feitiço Arma Mágica.
+Equipment/&ScrollMirrorImageTitle	Pergaminho da imagem em espelho
+Equipment/&ScrollMirrorImageDescription	Ao usar este pergaminho, você lança o feitiço Imagem Espelhada.
+Equipment/&ScrollMistyStepTitle	Scroll of Misty Step
+Equipment/&ScrollMistyStepDescription	Ao usar este pergaminho, você lança o feitiço Misty Step.
+Equipment/&ScrollRayOfEnfeeblementTitle	Pergaminho de Ray Of Enfeeblement
+Equipment/&ScrollRayOfEnfeeblementDescription	Ao usar este pergaminho, você lança o feitiço Ray Of Enfeeblement.
+Equipment/&ScrollSeeInvisibilityTitle	Pergaminho de Ver Invisibilidade
+Equipment/&ScrollSeeInvisibilityDescription	Ao usar este pergaminho, você lança o feitiço Ver Invisibilidade.
+Equipment/&ScrollShatterTitle	Pergaminho de quebra
+Equipment/&ScrollShatterDescription	Ao usar este pergaminho, você lança o feitiço Quebrar.
+Equipment/&ScrollSilenceTitle	Pergaminho do Silêncio
+Equipment/&ScrollSilenceDescription	Ao usar este pergaminho, você lança o feitiço Silêncio.
+Equipment/&ScrollSpiderClimbTitle	Pergaminho da escalada de aranha
+Equipment/&ScrollSpiderClimbDescription	Ao usar este pergaminho, você lança o feitiço Spider Climb.
+Equipment/&ScrollSpiritualWeaponTitle	Pergaminho de Arma Espiritual
+Equipment/&ScrollSpiritualWeaponDescription	Ao usar este pergaminho, você lança o feitiço Arma Espiritual.
+Equipment/&ScrollWardingBondTitle	Pergaminho do vínculo de proteção
+Equipment/&ScrollWardingBondDescription	Ao usar este pergaminho, você lança o feitiço Vínculo de Proteção.
+Equipment/&ScrollAnimalFriendshipTitle	Pergaminho da Amizade Animal
+Equipment/&ScrollAnimalFriendshipDescription	Ao usar este pergaminho, você lança o feitiço Amizade Animal.
+Equipment/&ScrollCharmPersonTitle	Pergaminho de pessoa encantada
+Equipment/&ScrollCharmPersonDescription	Ao usar este pergaminho, você lança o feitiço Encantar Pessoa.
+Equipment/&ScrollComprehendLanguagesTitle	Pergaminho de Compreender Idiomas
+Equipment/&ScrollComprehendLanguagesDescription	Ao usar este pergaminho, você lança o feitiço Compreender idiomas.
+Equipment/&ScrollDetectEvilAndGoodTitle	Pergaminho de Detectar o Mal e o Bem
+Equipment/&ScrollDetectEvilAndGoodDescription	Ao usar este pergaminho, você lança o feitiço Detectar o Mal e o Bem.
+Equipment/&ScrollDetectMagicTitle	Pergaminho de Detectar Magia
+Equipment/&ScrollDetectMagicDescription	Ao usar este pergaminho, você lança o feitiço Detectar Magia.
+Equipment/&ScrollDetectionPoisonAndDiseaseTitle	Pergaminho de Detecção de Veneno e Doença
+Equipment/&ScrollDetectionPoisonAndDiseaseDescription	Ao usar este pergaminho, você lança o feitiço Detecção de Veneno e Doença.
+Equipment/&ScrollFaerieFireTitle	Pergaminho do Fogo das Fadas
+Equipment/&ScrollFaerieFireDescription	Ao usar este pergaminho, você lança o feitiço Fogo das Fadas.
+Equipment/&ScrollFeatherFallTitle	Pergaminho da Queda de Penas
+Equipment/&ScrollFeatherFallDescription	Ao usar este pergaminho, você lança o feitiço Feather Fall.
+Equipment/&ScrollInflictWoundsTitle	Pergaminho de feridas infligidas
+Equipment/&ScrollInflictWoundsDescription	Ao usar este pergaminho, você lança o feitiço Infligir Feridas.
+Equipment/&ScrollShieldTitle	Pergaminho de Escudo
+Equipment/&ScrollShieldDescription	Ao usar este pergaminho, você lança o escudo mágico.
+Equipment/&LeatherArmorPlus+2_Title	Armadura de Couro +2
+Equipment/&ChainmailPlus1_Unidentified_Title	Magnificient Chainmail
+Equipment/&ChainmailPlus1_Unidentified_Description	Esta cota de malha finamente elaborada é leve e extremamente resistente e provavelmente mágica.
+Equipment/&Poison_BrimstoneFangPoisonedArrow_Title	Flecha Envenenada de Presa de Enxofre
+Equipment/&Poison_BrimstoneFangPoisonedBolt_Title	Parafuso Envenenado de Presa de Enxofre
+Equipment/&Poison_TigerFangPoisonedArrow_Title	Flecha Envenenada Presa de Tigre
+Equipment/&Poison_TigerFangPoisonedBolt_Title	Parafuso Envenenado Presa do Tigre
+Equipment/&Poison_DarkStabPoisonedArrow_Title	Flecha Envenenada com Facada Negra
+Equipment/&Poison_DarkStabPoisonedBolt_Title	Parafuso Envenenado com Facada Negra
+Equipment/&Poison_DeepPainPoisonedArrow_Title	Flecha Envenenada para Dor Profunda
+Equipment/&Poison_DeepPainPoisonedBolt_Title	Parafuso Envenenado com Dor Profunda
+Equipment/&Poison_ArivadsKissPoisonedArrow_Title	Beijo de Arivad Flecha Envenenada
+Equipment/&Poison_ArivadsKissPoisonedBolt_Title	Parafuso Envenenado do Beijo de Arivad
+Equipment/&Poison_ArunsLightPoisonedArrow_Title	Flecha Envenenada por Luz de Arun
+Equipment/&Poison_ArunsLightPoisonedBolt_Title	Parafuso envenenado por luz de Arun
+Equipment/&Poison_TheLongNightPoisonedArrow_Title	Flecha Envenenada de Longa Noite
+Equipment/&Poison_TheLongNightPoisonedBolt_Title	Parafuso Envenenado de Noite Longa
+Equipment/&Poison_TheBurdenPoisonedArrow_Title	Flecha Envenenada de Burden
+Equipment/&Poison_TheBurdenPoisonedBolt_Title	Parafuso envenenado por carga
+Equipment/&Poison_GhoulsCaressPoisonedArrow_Title	Flecha Envenenada da Carícia do Ghoul
+Equipment/&Poison_GhoulsCaressPoisonedBolt_Title	Parafuso Envenenado da Carícia do Ghoul
+Equipment/&Poison_MaraikesTorpor_Arrow_Title	Flecha Envenenada por Torpor
+Equipment/&Poison_MaraikesTorpor_Bolt_Title	Parafuso Envenenado por Torpor
+Equipment/&Poison_Basic_Arrow_Title	Flecha Basicamente Envenenada
+Equipment/&Poison_Basic_Bolt_Title	Parafuso Basicamente Envenenado
+Equipment/&Poison_Queen_Arrow_Title	Flecha Envenenada por Sangue da Rainha
+Equipment/&Poison_Queen_Bolt_Title	Parafuso Envenenado por Sangue da Rainha
+Equipment/&CraftingManual_x5_Title	Criação de 5 x {0}
+Equipment/&ClothLightbringers_unidentified_Title	Roupa tirmariana
+Equipment/&ClothLightbringers_unidentified_Description	Esta roupa finamente decorada tem símbolos típicos de Tirmar.

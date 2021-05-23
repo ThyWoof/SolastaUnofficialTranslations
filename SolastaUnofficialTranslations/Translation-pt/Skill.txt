@@ -1,0 +1,36 @@
+Skill/&AcrobaticsDescription	Seu teste de Destreza (Acrobacia) cobre sua tentativa de se manter em pé em uma situação complicada, como quando você está tentando correr por uma camada de gelo, equilibrar-se em uma corda bamba ou ficar em pé no convés de um navio balançando.
+Skill/&AcrobaticsTitle	Acrobacias
+Skill/&AnimalHandlingDescription	Quando houver qualquer dúvida se você pode acalmar um animal domesticado, evitar que uma montaria se assuste ou intuir as intenções de um animal, faça um teste de Sabedoria (Manejo de Animais). Você também faz um teste de Sabedoria (Manuseio de Animais) para controlar sua montaria ao tentar uma manobra arriscada.
+Skill/&AnimalHandlingTitle	Manipulação de Animais
+Skill/&ArcanaDescription	Seu teste de Inteligência (Arcana) mede sua capacidade de lembrar de conhecimentos sobre feitiços, itens mágicos, símbolos sobrenaturais, tradições mágicas, os planos de existência e os habitantes desses planos.
+Skill/&ArcanaTitle	Arcana
+Skill/&AthleticsDescription	Seu teste de Força (Atletismo) cobre situações difíceis que você encontra ao escalar, pular ou nadar.
+Skill/&AthleticsTitle	Atletismo
+Skill/&DeceptionDescription	Seu teste de Carisma (Decepção) determina se você pode esconder a verdade de forma convincente, seja verbalmente ou por meio de suas ações.
+Skill/&DeceptionTitle	Decepção
+Skill/&HistoryDescription	Sua verificação de Inteligência (História) mede sua capacidade de relembrar conhecimentos sobre eventos históricos, pessoas lendárias, reinos antigos, disputas passadas, guerras recentes e civilizações perdidas.
+Skill/&HistoryTitle	História
+Skill/&InsightDescription	Seu teste de Sabedoria (Insight) decide se você pode determinar as verdadeiras intenções de uma criatura, como ao procurar uma mentira ou prever o próximo movimento de alguém. Isso pode ser útil para saber qual técnica de negociação você deve empregar durante um diálogo.
+Skill/&InsightTitle	Entendimento
+Skill/&IntimidationDescription	Quando você tenta influenciar alguém por meio de ameaças abertas, ações hostis e violência física, você pode fazer um teste de Carisma (Intimidação).
+Skill/&IntimidationTitle	Intimidação
+Skill/&InvestigationDescription	Quando você olha ao redor em busca de pistas e faz deduções com base nessas pistas, você faz uma verificação de Inteligência (Investigação).
+Skill/&InvestigationTitle	Investigação
+Skill/&MedecineDescription	Um teste de Sabedoria (Medicina) permite que você tente estabilizar um companheiro moribundo, diagnosticar uma doença ou criar poções de cura ou antitoxina.
+Skill/&MedecineTitle	Medicamento
+Skill/&NatureDescription	Sua verificação de Inteligência (Natureza) mede sua capacidade de recordar conhecimentos sobre terreno, plantas e animais, o clima e os ciclos naturais.
+Skill/&NatureTitle	Natureza
+Skill/&PerceptionDescription	Sua verificação de Sabedoria (Percepção) permite que você localize, ouça ou detecte de outra forma a presença de algo. Ele mede sua consciência geral de seu entorno e a agudeza de seus sentidos.
+Skill/&PerceptionTitle	Percepção
+Skill/&PerformanceDescription	Sua verificação de Carisma (Desempenho) determina o quão bem você pode encantar um público com música, dança, atuação, narração de histórias ou alguma outra forma de entretenimento.
+Skill/&PerformanceTitle	Desempenho
+Skill/&PersuasionDescription	Quando você tenta influenciar alguém ou um grupo de pessoas com tato, elegância social ou boa natureza, você pode fazer um teste de Carisma (Persuasão). Normalmente, você usa a persuasão ao agir de boa fé para promover amizades, fazer pedidos cordiais ou exibir etiqueta adequada.
+Skill/&PersuasionTitle	Persuasão
+Skill/&ReligionDescription	Sua verificação de Inteligência (Religião) mede sua capacidade de lembrar conhecimentos sobre divindades, ritos e orações, hierarquias religiosas, símbolos sagrados e as práticas de cultos secretos.
+Skill/&ReligionTitle	Religião
+Skill/&SleightOfHandDescription	Sempre que você tentar um ato de prestidigitação ou trapaça manual, como plantar algo em outra pessoa ou esconder um objeto em sua pessoa, faça um teste de Destreza (Prestidigitação).
+Skill/&SleightOfHandTitle	Prestidigitação
+Skill/&StealthDescription	Faça um teste de Destreza (Furtividade) ao tentar uma ação próximo a inimigos sem ser detectado. Sua pontuação também é usada para determinar a rapidez com que o medidor de detecção se enche quando se esgueira pelos inimigos.
+Skill/&StealthTitle	Furtividade
+Skill/&SurvivalDescription	Você pode fazer um teste de Sabedoria (Sobrevivência) para seguir rastros, caçar animais selvagens, guiar seu grupo por terras desertas congeladas, identificar sinais de que ursos-coruja vivem nas proximidades, prever o tempo ou evitar areia movediça e outros perigos naturais.
+Skill/&SurvivalTitle	Sobrevivência

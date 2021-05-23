@@ -1,0 +1,67 @@
+Gadget/&CampfireTitle	Hoguera
+Gadget/&CampfireDescription	Una fogata interactiva utilizada para iniciar un largo descanso para la fiesta.
+Gadget/&ChestTitle	Pecho
+Gadget/&ChestDescription	Un contenedor para botín
+Gadget/&DoubleDoorTitle	Puerta doble
+Gadget/&DoubleDoorDescription	Una puerta simple para abrir
+Gadget/&EntranceTitle	Entrada
+Gadget/&EntranceDescription	El punto de partida de la fiesta
+Gadget/&ExitTitle	Salida
+Gadget/&ExitDescription	Un punto de salida para la fiesta. Puede llevar a la ubicación de otro usuario
+Gadget/&HiddenDoorTitle	Puerta oculta
+Gadget/&HiddenDoorDescription	Una puerta que requiere un control de percepción para ser detectada.
+Gadget/&InteractiveTorchTitle	Antorcha interactiva
+Gadget/&InteractiveTorchDescription	Una linterna de pared que se puede encender / apagar dinámicamente
+Gadget/&LoreAreaTitle	Área de Lore
+Gadget/&LoreAreaDescription	Al entrar en esta área, se mostrará un texto
+Gadget/&MonsterMTitle	Monstruo M
+Gadget/&MonsterMDescription	Genera un monstruo mediano (o más pequeño) en la posición del dispositivo.
+Gadget/&MonsterLTitle	Monstruo L
+Gadget/&MonsterLDescription	Genera un monstruo grande en la posición del dispositivo.
+Gadget/&MonsterMMultipleTitle	Monstruo Multi M
+Gadget/&MonsterMMultipleDescription	Genera una cantidad de monstruos medianos (o más pequeños) en la posición del dispositivo.
+Gadget/&TrapTitle	Trampa
+Gadget/&TrapDescription	Una trampa que se activa al pisar la superficie que ocupa.
+Gadget/&VirtualLoreTitle	Conocimiento virtual
+Gadget/&VirtualLoreDescription	Una interacción que muestra un texto de historia, que se puede colocar en cualquier accesorio.
+Gadget/&VirtualLootTitle	Botín virtual
+Gadget/&VirtualLootDescription	Una interacción de botín de propósito genérico, que se puede colocar en cualquier accesorio para simular un contenedor.
+Gadget/&ParameterExplicitItemsTitle	Elementos explícitos
+Gadget/&ParameterLootPackTitle	Paquete de botín
+Gadget/&ParameterItemListTitle	Lista de artículos
+Gadget/&ParameterParam_LockedTitle	Bloqueado
+Gadget/&ParameterUnlock_DCTitle	Desbloquear DC
+Gadget/&ParameterParam_TrappedTitle	Atrapado
+Gadget/&ParameterPerception_DCTitle	Percepción DC
+Gadget/&ParameterDisarm_DCTitle	Desarmar DC
+Gadget/&ParameterReveal_DCTitle	Revelar DC
+Gadget/&ParameterTrapEffectTitle	Efecto trampa
+Gadget/&ParameterEntranceIndexTitle	Índice de entrada
+Gadget/&ParameterDestinationLocationTitle	Ubicación de destino
+Gadget/&ParameterCreatureTitle	Criatura
+Gadget/&ParameterQuantityTitle	Cantidad
+Gadget/&ParameterPerceptionDCTitle	Percepción DC
+Gadget/&ParameterSpeechTitle	Discurso
+Gadget/&ParameterEncounterGroupTitle	Grupo de encuentro
+Gadget/&ParameterGroupIndexTitle	Índice de grupo
+Gadget/&ParameterExplicitItemsDescription	Determina si el contenido será un paquete de botín predefinido o una lista explícita de elementos.
+Gadget/&ParameterLootPackDescription	Una lista predefinida de elementos, algunos de los cuales se lanzarán al azar
+Gadget/&ParameterItemListDescription	Especifique una lista explícita de elementos que se generarán en el contenedor
+Gadget/&ParameterParam_LockedDescription	Determina si este gadget está bloqueado.
+Gadget/&ParameterUnlock_DCDescription	La clase de dificultad para desbloquear este dispositivo.
+Gadget/&ParameterParam_TrappedDescription	Determina si este gadget está atrapado.
+Gadget/&ParameterPerception_DCDescription	La clase de dificultad para detectar la trampa en este dispositivo.
+Gadget/&ParameterDisarm_DCDescription	La clase de dificultad para desarmar la trampa en este dispositivo.
+Gadget/&ParameterReveal_DCDescription	La clase de dificultad para revelar este gadget.
+Gadget/&ParameterTrapEffectDescription	El tipo de efecto que afecta a las criaturas afectadas cuando se activa esta trampa.
+Gadget/&ParameterEntranceIndexDescription	Se puede ingresar una ubicación desde varios puntos de entrada. Este índice se utiliza para especificar la entrada a la que conduce un gadget de salida.
+Gadget/&ParameterDestinationLocationDescription	Ubicación de destino
+Gadget/&ParameterCreatureDescription	El tipo de criatura engendrada
+Gadget/&ParameterQuantityDescription	La cantidad de criaturas
+Gadget/&ParameterSpeechDescription	El texto que se muestra al interactuar con este gadget.
+Gadget/&ParameterEncounterGroupDescription	Marque esto para hacer que la criatura generada forme parte de un grupo de encuentro, desencadenando batallas juntas
+Gadget/&ParameterGroupIndexDescription	Las criaturas con un índice de grupo idéntico (cualquier número que elija) pertenecerán al mismo grupo de encuentro
+Gadget/&ParameterSavingThrowDCTitle	Tiro de salvación DC
+Gadget/&ParameterSavingThrowDCDescription	La clase de dificultad para la tirada de salvación.
+Gadget/&ParameterAddDiceTitle	Dados adicionales
+Gadget/&ParameterAddDiceDescription	Incrementa el número de dados para este efecto.

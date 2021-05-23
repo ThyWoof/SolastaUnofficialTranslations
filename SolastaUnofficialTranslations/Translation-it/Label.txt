@@ -1,0 +1,8 @@
+Label/&CampfireLocationRestDescription	Interagisci con questo oggetto per iniziare un lungo riposo.
+Label/&CampfireLocationRestTitle	Riposo lungo
+Label/&CampfireResumeTravelRestDescription	Torna alla mappa del mondo e riprendi il tuo riposo.
+Label/&CampfireResumeTravelRestTitle	Riprendi il riposo
+Label/&EnterLocationDescription	Fai entrare il gruppo in questo luogo.
+Label/&EnterLocationTitle	accedere
+Label/&TravelToLocationDescription	Preparati a viaggiare in questo luogo.
+Label/&TravelToLocationTitle	Viaggio

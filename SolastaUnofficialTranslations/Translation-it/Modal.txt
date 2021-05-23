@@ -1,0 +1,103 @@
+Modal/&AssertionFailedTtitle	Asserzione non riuscita
+Modal/&CampaignSelectionButtonTitle	Selezionare
+Modal/&CampaignSelectionTitle	Campagna
+Modal/&CampCaptionMultipleHoursFormat	La festa sta preparando il campo per {0} ore.
+Modal/&CampCaptionSingleHourFormat	La festa si accampa per un'ora.
+Modal/&CancelButtonTitle	Annulla
+Modal/&CancelPrepareDescription	Annulla tutte le modifiche apportate in questo pannello.
+Modal/&CancelPrepareTitle	Annulla
+Modal/&CharacterReviveMessageCancel	Annulla
+Modal/&CharacterReviveMessageContent	Questa opzione ha un tempo di attivazione lungo e potrebbe invalidare altre opzioni basate sul tempo. Vuoi continuare?
+Modal/&CharacterReviveMessageTitle	avvertimento
+Modal/&CharacterReviveMessageValidate	Accettare
+Modal/&CharacterReviveModalHeaderPluralTitle	Rianima tutti i personaggi morti
+Modal/&CharacterReviveModalHeaderSingularTitle	Revive Dead Character
+Modal/&CharacterReviveModalSubTitle	Non puoi continuare l'avventura con uno o più personaggi morti. Seleziona un'opzione.
+Modal/&CharacterReviveModalTooLateFormat	È troppo tardi per utilizzare questa opzione su {0}.
+Modal/&DefeatDescription	La festa non ha avuto modo di resuscitare i loro morti: il gioco è finito! Prova a dare le pergamene di Revivify ai personaggi che possono usarle.
+Modal/&DefeatTitle	Game Over
+Modal/&DeleteButtonTitle	Elimina
+Modal/&EquipementSelectionDescription	Seleziona le tue opzioni di equipaggiamento preferite.
+Modal/&EquipementSelectionTitle	Scelta dell'attrezzatura
+Modal/&ErrorModalContinuePlayingTitle	Continua a giocare
+Modal/&ErrorModalCopyToClipboardTitle	Copia negli appunti
+Modal/&ErrorModalIgnoreErrorTitle	Ignora questo errore
+Modal/&ErrorModalQuitTitle	Esci dal gioco
+Modal/&ErrorModalTitle	Si è verificato un errore grave.
+Modal/&ExceptionModalTitle	Si è verificata un'eccezione critica.
+Modal/&FactionRedeemCostDescription	Riscattare un articolo è spesso più redditizio che venderlo a un commerciante
+Modal/&FactionRedeemInstructionsDescription	Riscattare oggetti con la fazione "{0}" ti farà guadagnare denaro e migliorerà i tuoi rapporti con questa fazione.
+Modal/&FactionRedeemRelationDescription	I tuoi rapporti con quella fazione migliorano
+Modal/&FactionRedeemRelationGainFormat	{0} Relazione
+Modal/&FactionRedeemSelectTitle	Seleziona un elemento da riscattare
+Modal/&HigherLevelFeaturesTitle	Funzionalità di livello superiore
+Modal/&InterruptCraftingCompleteTitle	Interrompi quando un oggetto è stato creato.
+Modal/&InterruptLevelUpAvailableTitle	Interrompi quando un personaggio può salire di livello.
+Modal/&InterruptLongRestCompleteTitle	Interrompi quando il riposo lungo è stato completato.
+Modal/&LoadButtonTitle	Caricare
+Modal/&LoadGameHeader	Caricare
+Modal/&LoadGamePlaceholder	Seleziona una partita salvata.
+Modal/&LoadingProceedButtonTitle	Fare clic o premere un tasto qualsiasi per iniziare.
+Modal/&LoadingTitle	Attendere il caricamento prego
+Modal/&LoadLastSaveDescription	Riprendi a giocare dall'ultima partita salvata
+Modal/&LoadLastSaveTitle	Riavvia dall'ultimo salvataggio
+Modal/&MonsterListingCaption	{0} si sta concentrando per determinare la presenza di mostri nell'area ...
+Modal/&MonsterListingFavoredEnemyTitle	Nemico preferito
+Modal/&MonsterListingNotPerceivedTitle	Nessuna
+Modal/&MonsterListingPerceivedTitle	Presente
+Modal/&NumberSelectionInstructionTitle	Quanti punti?
+Modal/&NumberSelectionValidateTitle	Convalidare
+Modal/&PartyWaitMinutesPluralFormat	La festa attende {0} minuti.
+Modal/&PartyWaitMinutesSingleFormat	La festa attende {0} minuto.
+Modal/&RequiredRestsMultipleFormat	{0} lunghe pause
+Modal/&RequiredRestsNoneFormat	Nessuna
+Modal/&RequiredRestsSingleFormat	1 riposo lungo
+Modal/&RequiredRestsTitle	Riposi richiesti
+Modal/&ResetDefaultsDescription	Fare clic per ripristinare le impostazioni di viaggio al valore predefinito.
+Modal/&ResetDefaultsTitle	Ripristina i valori di default
+Modal/&SaveButtonTitle	Salva
+Modal/&SaveGameHeader	Salva
+Modal/&SaveGamePlaceholder	Inserisci un nome file o seleziona una partita salvata.
+Modal/&SelectCharacterMultipleTitle	Seleziona uno o più caratteri.
+Modal/&SelectCharacterSingleTitle	Seleziona un personaggio
+Modal/&SelectTitle	Selezionare
+Modal/&StartTravelDescription	Avvia il viaggio verso la posizione selezionata.
+Modal/&StartTravelTitle	Inizia a viaggiare
+Modal/&TravelDurationLessThanADayFormat	Meno di un giorno
+Modal/&TravelDurationMultipleFormat	{0} giorni
+Modal/&TravelDurationSingleFormat	1 giorno
+Modal/&TravelDurationTitle	Durata
+Modal/&TravelFromTitle	A partire dal
+Modal/&TravelPaceNormalTitle	Normale
+Modal/&TravelPaceTitle	Velocità di viaggio
+Modal/&TravelSettingsButtonDescriptionTitle	Fare clic per modificare le impostazioni di viaggio e riposo.
+Modal/&TravelSettingsCustomTitle	Personalizzato
+Modal/&TravelSettingsDefaultTitle	Predefinito
+Modal/&TravelSettingsTitle	Impostazioni di viaggio
+Modal/&TravelToTitle	Per
+Modal/&ValidateButtonTitle	Convalidare
+Modal/&LoadingShortTitle	Caricamento in corso
+Modal/&LoadingTipTitle	Mancia
+Modal/&UnitsSelectionInstructionTitle	Quante unità?
+Modal/&CastSpellBeforeLongRestTitle	Lancia l'incantesimo {0} quando inizia il riposo lungo.
+Modal/&ScavengerMissionsModalTitle	Spedizioni al tesoro
+Modal/&ScavengerMissionsModalDescription	Gli spazzini si stanno dirigendo verso questi luoghi per raccogliere e riportare il bottino lasciato alle spalle.
+Modal/&ScavengerMissionLineEncounterTitle	Da qualche parte lungo la strada
+Modal/&ScavengerMissionLineNewMissionFormat	Nuovo: {0} rimanenti
+Modal/&ScavengerMissionLineOngoingMissionFormat	In corso: {0} rimanenti
+Modal/&ScavengerMissionLineFinishedMissionDescription	Completato
+Modal/&ScavengerMissionModalToggleTitle	Mostra spedizioni legate agli incontri
+Modal/&ScavengerLootModalTitle	Oggetti recuperati durante le spedizioni
+Modal/&ScavengerLootModalInstructionsDescription	Fare clic su un oggetto per recuperarlo invece di venderlo.
+Modal/&ScavengerLootModalSellAllButton	Vendere tutto
+Modal/&ScavengerLootModalSellInstructionsDescription	Guadagni:
+Modal/&DefeatStealthDescription	Sei stato rilevato durante una fase di furtività critica! Usa la modalità prudente e muoviti con cautela.
+Modal/&QuestBoardTitle	Missioni disponibili
+Modal/&QuestBoardDescription	Seleziona la missione che desideri accettare e premi Avvia.
+Modal/&QuestBoardStartTitle	Inizio
+Modal/&QuestBoardStartDescription	Accetta e avvia la missione selezionata.
+Modal/&QuestInProgressTitle	In corso
+Modal/&SolastaBackers	Solasta Backers
+Modal/&SelectUserLocationTitle	Seleziona una posizione
+Modal/&UserLocationSettingsTitle	Impostazioni di posizione
+Modal/&UserLocationSettingsApplyTitle	Applicare
