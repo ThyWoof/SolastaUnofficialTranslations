@@ -16,10 +16,18 @@
 
 # How to fix bad translations
 
-* Translation files are stored in $SOLASTA_HOME/Mods/SolastaUnofficialTranslations/Translation-#LANGUAGE-CODE#.txt organized by categories
-* Translation files are TAB separated
-* Apply your corrections (use the Export function to get the original term from official languages)
-* Submit a request to this repo
+1. ALWAYS KEEP A TAB OF YOUR CORRECTIONS!!!
+	- The translation process is fully automated to support future game versions
+		1. Uses Google API to translate all 17,000+ game terms beforehand using the Python script
+		2. Mod reads a Corrections file with FIXES COMMUNITY WILL SHARE WITH ME
+
+	## Correction Files
+
+	* stored as $SOLASTA_HOME/Mods/SolastaUnofficialTranslations/Corrections-#LANGUAGE-CODE#.txt
+	* corrections are case sensitive
+	* corrections are applied to all terms
+	* corrections are TAB separated
+	* check Corrections-PT.txt as a guide
 
 # How to create new translations
 
@@ -28,7 +36,7 @@
 	- `pip3 install deep_translator`
 * Export EN official language
 * Run batch translator
-	- `py Scripts\translate.py EXPORT_FOLDER_NAME -c LANGUAGE_CODE`
+	- `py Scripts\translate.py $SOLASTA_HOME/Mods/SolastaUnofficialTranslations/Export-en -c LANGUAGE_CODE`
 
 # How to compile
 
