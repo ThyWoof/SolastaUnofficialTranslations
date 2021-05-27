@@ -1,5 +1,0 @@
-SpellList/&SpellListClericTitle	Incantesimi da chierico
-SpellList/&SpellListPaladinTitle	Incantesimi da paladino
-SpellList/&SpellListRangerTitle	Incantesimi da ranger
-SpellList/&SpellListSpellbladeTitle	Incantesimi Spellblade
-SpellList/&SpellListWizardTitle	Incantesimi da mago

@@ -9,6 +9,7 @@ using UnityModManagerNet;
 using HarmonyLib;
 using I2.Loc;
 using System.Globalization;
+using System.Text.RegularExpressions;
 
 namespace SolastaUnofficialTranslations
 { 
@@ -19,7 +20,7 @@ namespace SolastaUnofficialTranslations
 
     static class Language
     {
-        const String IN = "Translation-";
+        const String IN = "Translations-";
         const String OUT = "Export-";
         const String EXT = ".txt";
 
@@ -28,6 +29,8 @@ namespace SolastaUnofficialTranslations
         private static readonly List<LanguageEntry> languages = new List<LanguageEntry>();
 
         private static void Error(string msg) => Main.Error(msg);
+
+        private static void Log(string msg) => Main.Log(msg);
 
         public static void LoadOfficialLanguages() => languageSourceData.LoadAllLanguages();
 
@@ -47,18 +50,45 @@ namespace SolastaUnofficialTranslations
                 else if (LocalizationManager.HasLanguage(cultureInfo.DisplayName))
                     Error($"language {code} from {directory.Name} already in game");
                 else
+                {
                     languages.Add(new LanguageEntry()
                     {
                         code = code,
                         text = cultureInfo.TextInfo.ToTitleCase(cultureInfo.NativeName),
                         directory = directory.Name
                     });
+                    Log($"Language {code} detected.");
+                }
             }
         }
 
-        public static IEnumerable<LanguageEntry> GetAll() => languages.AsEnumerable<LanguageEntry>();
+        public static IEnumerable<LanguageEntry> GetCustomLanguages() => languages.AsEnumerable<LanguageEntry>();
 
         public static int Count() => languages.Count;
+
+        public static Dictionary<string, string> GetCorrections(string code)
+        {
+            Dictionary<string, string> corrections = new Dictionary<string, string> { { @"\n", "\n"} };
+            string filename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/Corrections-{code}{EXT}";
+
+            if (File.Exists(filename))
+            {
+                using (var sr = new StreamReader(filename))
+                {
+                    String line;
+                    while ((line = sr.ReadLine()) != null)
+                    {
+                        var splitted = line.Split('\t');
+                        corrections.Add(splitted[0], splitted[1]);
+                    }
+                }
+            } else
+            {
+                Log($"Corrections file {filename} not loaded.");
+            }
+
+            return corrections;
+        }
 
         public static void LoadCustomTerms()
         {
@@ -68,6 +98,9 @@ namespace SolastaUnofficialTranslations
                 // add language
                 languageSourceData.AddLanguage(language.text, language.code);
                 var languageIndex = languageSourceData.GetLanguageIndex(language.text);
+
+                // get corrections
+                var corrections = GetCorrections(language.code);
 
                 // add terms
                 DirectoryInfo directoryInfo = new DirectoryInfo($@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{language.directory}");
@@ -81,7 +114,10 @@ namespace SolastaUnofficialTranslations
                         while ((line = sr.ReadLine()) != null)
                         {
                             var splitted = line.Split(new[] { '\t', ' ' }, 2);
-                            languageSourceData.AddTerm(splitted[0]).Languages[languageIndex] = splitted[1].Trim().Replace(@"\n", "\n");
+                            var term = splitted[0];
+                            var text = splitted[1];
+                            var corrected = Regex.Replace(text, string.Join("|", corrections.Keys.Select(k => k.ToString()).ToArray()), m => corrections[m.Value]);
+                            languageSourceData.AddTerm(term).Languages[languageIndex] = corrected;
                         }
                     }
                 }
@@ -163,13 +199,14 @@ namespace SolastaUnofficialTranslations
         }
     }
 
+
     [HarmonyPatch(typeof(GameManager), "BindServiceSettings")]
     internal static class GameManager_BindServiceSettings_Patch
     {
         public static void Prefix(Dictionary<string, string> ___languageByCode)
         {
             if (___languageByCode != null)
-                foreach (LanguageEntry language in Language.GetAll())
+                foreach (LanguageEntry language in Language.GetCustomLanguages())
                     if (!___languageByCode.ContainsKey(language.code))
                         ___languageByCode.Add(language.code, language.text);
         }
@@ -190,7 +227,7 @@ namespace SolastaUnofficialTranslations
                 Array.Copy(___settingTypeDropListAttribute.Items, items, top);
                 ___settingTypeDropListAttribute.Items = items;
 
-                foreach (LanguageEntry language in Language.GetAll())
+                foreach (LanguageEntry language in Language.GetCustomLanguages())
                 {
                     items[top++] = language.code;
                     ___dropList.options.Add(new GuiDropdown.OptionDataAdvanced 

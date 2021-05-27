@@ -1,6 +1,0 @@
-LootPack/&CR0_Loot_PackTitle	Botín CR0
-LootPack/&CR1_Loot_PackTitle	Botín CR1
-LootPack/&CR2_Loot_PackTitle	Botín CR2
-LootPack/&CR3_Loot_PackTitle	Botín CR3
-LootPack/&CR4_Loot_PackTitle	Botín CR4
-LootPack/&CR5_Loot_PackTitle	Botín CR5

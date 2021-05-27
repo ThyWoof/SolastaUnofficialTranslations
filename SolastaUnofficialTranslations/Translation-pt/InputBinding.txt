@@ -1,8 +1,0 @@
-InputBinding/&LeftAlt	LeftAlt +
-InputBinding/&LeftControl	LeftCtrl +
-InputBinding/&LeftShift	LeftShift +
-InputBinding/&MainFormat	Atalho: {0}
-InputBinding/&OrFormat	ou
-InputBinding/&RightAlt	RightAlt +
-InputBinding/&RightControl	RightCtrl +
-InputBinding/&RightShift	RightShift +

@@ -14,6 +14,7 @@ import sys
 from deep_translator import GoogleTranslator
 
 
+OUTPUT_FOLDER = "Translations-"
 CHARS_MAX = 5000
 SEPARATOR = "\x0D"
 
@@ -147,7 +148,7 @@ def apply_dictionary(dictionary, text):
 
 
 def get_output_folder(code):
-    path = f"./Translation-{code}"
+    path = f"./{OUTPUT_FOLDER}{code}"
     try:
         shutil.rmtree(path)
     except:

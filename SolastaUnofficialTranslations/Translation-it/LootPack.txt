@@ -1,6 +1,0 @@
-LootPack/&CR0_Loot_PackTitle	Bottino CR0
-LootPack/&CR1_Loot_PackTitle	Bottino CR1
-LootPack/&CR2_Loot_PackTitle	Bottino CR2
-LootPack/&CR3_Loot_PackTitle	Bottino CR3
-LootPack/&CR4_Loot_PackTitle	Bottino CR4
-LootPack/&CR5_Loot_PackTitle	Bottino CR5

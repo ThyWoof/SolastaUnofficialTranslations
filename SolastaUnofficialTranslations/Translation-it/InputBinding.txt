@@ -1,8 +1,0 @@
-InputBinding/&LeftAlt	LeftAlt +
-InputBinding/&LeftControl	LeftCtrl +
-InputBinding/&LeftShift	Maiusc sinistro +
-InputBinding/&MainFormat	Scorciatoia: {0}
-InputBinding/&OrFormat	o
-InputBinding/&RightAlt	RightAlt +
-InputBinding/&RightControl	Ctrl destro +
-InputBinding/&RightShift	RightShift +

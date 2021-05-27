@@ -1,5 +1,0 @@
-SpellList/&SpellListClericTitle	Hechizos de clérigo
-SpellList/&SpellListPaladinTitle	Hechizos de paladín
-SpellList/&SpellListRangerTitle	Hechizos de guardabosques
-SpellList/&SpellListSpellbladeTitle	Hechizos de hoja de hechizo
-SpellList/&SpellListWizardTitle	Hechizos de mago

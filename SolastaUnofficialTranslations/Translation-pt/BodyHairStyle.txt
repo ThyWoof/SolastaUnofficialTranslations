@@ -1,5 +1,0 @@
-BodyHairStyle/&Hairstyle_A	Pixie Cut
-BodyHairStyle/&Hairstyle_B	Médio
-BodyHairStyle/&Hairstyle_C	Baixo
-BodyHairStyle/&Hairstyle_D	Pão
-BodyHairStyle/&Hairstyle_E	Trança coroa

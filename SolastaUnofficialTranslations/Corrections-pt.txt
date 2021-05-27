@@ -1,0 +1,12 @@
+Elfo alto	Elfo Nobre
+Pergaminho de Identificar	Pergaminho de Identificação
+STR	FOR
+DEX	DES
+VIGARISTA	CON
+WIZ	SAB
+CHA	CAR
+Mal caótico	Caótico e Mal
+Caótico Bom	Bom e Caótico
+Neutro caótico	Caótico e Neutro
+Mal legal	Ordeiro e Mal
+Bem legal	Ordeiro e Bom

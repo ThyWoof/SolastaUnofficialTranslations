@@ -1,8 +1,0 @@
-Label/&CampfireLocationRestDescription	Interaja com este item para iniciar um longo descanso.
-Label/&CampfireLocationRestTitle	Longo descanso
-Label/&CampfireResumeTravelRestDescription	Retorne ao mapa mundial e retome o seu descanso.
-Label/&CampfireResumeTravelRestTitle	Retomar o descanso
-Label/&EnterLocationDescription	Faça a festa entrar neste local.
-Label/&EnterLocationTitle	Entrar
-Label/&TravelToLocationDescription	Prepare-se para viajar para este local.
-Label/&TravelToLocationTitle	Viajar por

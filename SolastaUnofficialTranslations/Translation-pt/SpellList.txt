@@ -1,5 +1,0 @@
-SpellList/&SpellListClericTitle	Feitiços de clérigo
-SpellList/&SpellListPaladinTitle	Feitiços de Paladino
-SpellList/&SpellListRangerTitle	Feitiços de Ranger
-SpellList/&SpellListSpellbladeTitle	Feitiços de Spellblade
-SpellList/&SpellListWizardTitle	Feitiços de feiticeiro

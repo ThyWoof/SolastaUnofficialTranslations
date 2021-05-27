@@ -1,6 +1,0 @@
-Status/&ConcentrationFormat	{0} está se concentrando para manter o feitiço "{1}".
-Status/&ConcentrationStopDescription	Clique para parar de se concentrar.
-Status/&HealthStatusFormat	Saúde: {0}
-Status/&ReadiedCantripAttackFormat	{0} está pronto para usar um ataque cantrip se surgir a oportunidade.
-Status/&ReadiedMeleeAttackFormat	{0} está pronto para usar um ataque corpo a corpo se surgir a oportunidade.
-Status/&ReadiedRangedAttackFormat	{0} está pronto para usar um ataque à distância se surgir a oportunidade.

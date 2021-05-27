@@ -1,8 +1,0 @@
-InputBinding/&LeftAlt	Izquierda Alt +
-InputBinding/&LeftControl	IzquierdaCtrl +
-InputBinding/&LeftShift	Izquierda Mayús +
-InputBinding/&MainFormat	Atajo: {0}
-InputBinding/&OrFormat	o
-InputBinding/&RightAlt	RightAlt +
-InputBinding/&RightControl	DerechaCtrl +
-InputBinding/&RightShift	RightShift +

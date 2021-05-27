@@ -1,6 +1,0 @@
-DieStyle/&DieStyleEbonyTitle	Ébano
-DieStyle/&DieStyleGreenTitle	Verde
-DieStyle/&DieStyleIvoryTitle	Marfim
-DieStyle/&DieStyleRubyTitle	Rubi
-DieStyle/&DieStyleStandardTitle	Padrão
-DieStyle/&DieStyleYellowTitle	Amarelo

@@ -2,8 +2,8 @@
 
 	<PropertyGroup>
 		<TargetFramework>net472</TargetFramework>
-		<AssemblyVersion>1.0.0</AssemblyVersion>
-		<FileVersion>1.0.0</FileVersion>
+		<AssemblyVersion>1.0.1</AssemblyVersion>
+		<FileVersion>1.0.1</FileVersion>
 		<Description></Description>
 		<PackageProjectUrl>https://github.com/ThyWoof/SolastaUnofficialTranslations</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/ThyWoof/SolastaUnofficialTranslations</RepositoryUrl>
@@ -14,7 +14,7 @@
 		<Product />
 		<Copyright>Copyright 2021</Copyright>
 		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 	</PropertyGroup>
 
 	<Target Name="CheckEnvironmentVars">
@@ -405,13 +405,22 @@
 		<None Update="Repository.json">
 		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</None>
-		<None Update="Translation-pt\**\*.*">
+		<None Update="Translations-pt\**\*.*">
 		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</None>
-		<None Update="Translation-es\**\*.*">
+		<None Update="Corrections-pt.txt">
 		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</None>
-		<None Update="Translation-it\**\*.*">
+		<None Update="Translations-es\**\*.*">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Update="Corrections-es.txt">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Update="Translations-it\**\*.*">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Update="Corrections-it.txt">
 		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</None>
 	</ItemGroup>

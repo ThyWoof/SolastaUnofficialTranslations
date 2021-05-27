@@ -1,6 +1,0 @@
-Environment/&CatacombsTitle	Catacumbas
-Environment/&CatacombsDescription	Uma rede subterrânea de tumbas e criptas
-Environment/&NecropolisTitle	Necrópole
-Environment/&NecropolisDescription	Um domínio subterrâneo dos mortos
-Environment/&SewersTitle	Esgotos
-Environment/&SewersDescription	Uma coleção de túneis de esgoto e drenagem

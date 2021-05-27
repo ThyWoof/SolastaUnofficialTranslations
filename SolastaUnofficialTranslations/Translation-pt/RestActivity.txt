@@ -1,9 +1,0 @@
-RestActivity/&ArcaneRecoveryDescription	Uma vez por dia, ao completar um breve descanso, você pode recuperar um número de espaços de feitiço gastos (máximo 5º nível) até a metade do seu nível de mago, arredondado para cima.
-RestActivity/&ArcaneRecoveryTitle	Recuperação Arcana
-RestActivity/&AttuneItemDescription	A sintonia com um item acessa suas propriedades e funções avançadas.
-RestActivity/&AttuneItemTitle	Item de sintonia
-RestActivity/&LevelUpDescription	Comece a seqüência de aumento de nível para este personagem.
-RestActivity/&LevelUpTitle	Upar
-RestActivity/&PrepareSpellsDescription	Você pode alterar sua lista de feitiços preparados quando terminar um longo descanso.
-RestActivity/&PrepareSpellsTitle	Prepare feitiços
-RestActivity/&ArcaneRecoveryExecutedDescription	Ativar a <b>Recuperação Arcana</b> permitiu que {0} recuperasse os seguintes slots de feitiço:

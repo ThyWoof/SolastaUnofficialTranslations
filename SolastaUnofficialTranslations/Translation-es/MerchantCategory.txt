@@ -1,7 +1,0 @@
-MerchantCategory/&AdventuringTitle	Equipo de aventuras
-MerchantCategory/&AllTitle	Todos los artículos
-MerchantCategory/&ArmorTitle	Armadura
-MerchantCategory/&CraftingTitle	Elaboración
-MerchantCategory/&IngredientTitle	Ingredientes
-MerchantCategory/&MagicDeviceTitle	Dispositivos mágicos
-MerchantCategory/&WeaponTitle	Armas

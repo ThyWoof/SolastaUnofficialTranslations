@@ -1,6 +1,0 @@
-DieStyle/&DieStyleEbonyTitle	Ebano
-DieStyle/&DieStyleGreenTitle	verde
-DieStyle/&DieStyleIvoryTitle	Avorio
-DieStyle/&DieStyleRubyTitle	Rubino
-DieStyle/&DieStyleStandardTitle	Standard
-DieStyle/&DieStyleYellowTitle	Giallo

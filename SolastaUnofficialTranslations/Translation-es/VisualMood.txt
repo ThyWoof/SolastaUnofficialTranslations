@@ -1,3 +1,0 @@
-VisualMood/&CryptTitle	Cripta
-VisualMood/&InfernoTitle	Infierno
-VisualMood/&StrangeTitle	Extraño

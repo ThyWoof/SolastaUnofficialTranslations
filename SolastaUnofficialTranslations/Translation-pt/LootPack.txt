@@ -1,6 +1,0 @@
-LootPack/&CR0_Loot_PackTitle	CR0 Loot
-LootPack/&CR1_Loot_PackTitle	CR1 Loot
-LootPack/&CR2_Loot_PackTitle	CR2 Loot
-LootPack/&CR3_Loot_PackTitle	CR3 Loot
-LootPack/&CR4_Loot_PackTitle	CR4 Loot
-LootPack/&CR5_Loot_PackTitle	CR5 Loot

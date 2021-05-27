@@ -1,7 +1,0 @@
-Voice/&Female1Title	Feminino 1
-Voice/&Female2Title	Feminino 2
-Voice/&Male1Title	Masculino 1
-Voice/&Male2Title	Masculino 2
-Voice/&Voice1Title	Voz 1
-Voice/&Voice2Title	Voz 2
-Voice/&Voice3Title	Voz 3
