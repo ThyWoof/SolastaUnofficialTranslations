@@ -1,0 +1,31 @@
+MonsterAttacks/&Attack_Bite_Title	Morder
+MonsterAttacks/&Attack_Claws_Title	Garras
+MonsterAttacks/&Attack_DreadfulGlare_Title	Deslumbramiento terrible
+MonsterAttacks/&Attack_GhoulishClaw_Title	Garra macabra
+MonsterAttacks/&Attack_PoisonousBite_Title	Mordedura venenosa
+MonsterAttacks/&Attack_RottingFist_Title	Puño podrido
+MonsterAttacks/&Attack_Shrieker_Description	Una espada maldita, forjada por los antiguos herreros de Sorr-Akkath en las forjas de Tirmar y bendecida por Sorr-Tarr.
+MonsterAttacks/&Attack_Shrieker_Title	Hoja de Nekkesh
+MonsterAttacks/&Attack_Spine_Title	Espina venenosa
+MonsterAttacks/&Attack_Spit_Title	Escupir
+MonsterAttacks/&Attack_Talons_Title	Garras
+MonsterAttacks/&Attack_Web_Title	Veneno Web
+MonsterAttacks/&Attack_Slam_Title	Golpe
+MonsterAttacks/&Attack_Ghost_Blade_Title	Hoja marchita
+MonsterAttacks/&Attack_Ghost_Touch_Title	Toque fulminante
+MonsterAttacks/&Attack_Beak_Title	Pico
+MonsterAttacks/&Attack_SkeletalMarksman_Bow	Flecha necrótica
+MonsterAttacks/&Attack_SkeletalMarksman_Sword	Espada corta oxidada
+MonsterAttacks/&Attack_Fire_Touch	Toque ardiente
+MonsterAttacks/&Attack_Grimblade	La cuchilla de hielo
+MonsterAttacks/&Attack_Grimblade_IceDagger	Daga de hielo
+MonsterAttacks/&Attack_AcidSpit	Escupir ácido
+MonsterAttacks/&Attack_AcidBite	Mordedura de ácido
+MonsterAttacks/&Attack_Freeze_Title	Congelar
+MonsterAttacks/&Attack_Fire_Title	Tocar
+MonsterAttacks/&Attack_ShockingAntenna_Title	Impactante antena
+MonsterAttacks/&Attack_ShockingAntenna_Description	Los fanáticos pueden transmitir una poderosa descarga eléctrica con sus antenas.
+MonsterAttacks/&Attack_PheromoneSpray_Title	Spray de feromonas
+MonsterAttacks/&Attack_PheromoneSpray_Description	Los peregrinos pueden rociar un objetivo con una feromona que quema la piel y enloquece a sus aliados.
+MonsterAttacks/&Attack_Tail_Title	Cola
+MonsterAttacks/&AttackNecroticBite_Title	Mordedura necrótica

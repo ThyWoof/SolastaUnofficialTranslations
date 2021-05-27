@@ -158,7 +158,7 @@ Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToRobar_Outcome1Description	You talked
 Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToRobar_Outcome2Description	You remembered that Robar was killed in Caer Lem.
 Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToRobarDescription	Find Robar and ask him if he knows anything. Take a look around Sunblaze Court.
 Quest/&Caer_Cyflen_Quest_AfterCaerLem_TalkToRobarTitle	Talk to Robar
-Quest/&Caer_Cyflen_Quest_AfterCaerLem_Title	Report to Carran
+Quest/&Caer_Cyflen_Quest_AfterCaerLem_Title	First Mission Accomplished
 Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_01_MeetCarran_Description	Meet with Carran at the Gravekeep's Cask.
 Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_01_MeetCarran_Outcome1Description	You have met with Carran and brought the head of the Sorak to the Council. While the crown was being inspected by the high ranking members of the Council, you passed out and were brought to the Temple of Einar.
 Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_01_MeetCarran_Title	Go to the Gravekeep's Cask
@@ -303,7 +303,7 @@ Quest/&CradleOfFire_Quest_GoToNecropolis_Outcome2Description	You have found a wa
 Quest/&CradleOfFire_Quest_GoToNecropolisDescription	Urka the Sandraven shaman asks you to bring back the key to the lost Imperial city that lies under the volcano. Go to the necropolis and find the key in the richest tomb there.
 Quest/&CradleOfFire_Quest_GoToNecropolisTitle	Recover the Key to Sentharyllian
 Quest/&CradleOfFire_Quest_KillUrka_Outcome1Description	You have learned that Urka was actually a Sorak agent!
-Quest/&CradleOfFire_Quest_KillUrkaDescription	You have found the key to Sentharyllian as Urka wanted, but he has double-crossed you! Kill him and his Sandraven orcs!
+Quest/&CradleOfFire_Quest_KillUrkaDescription	You found the key to Sentharyllian as Urka wanted, but he double-crossed you! Kill him and his Sandraven orcs!
 Quest/&CradleOfFire_Quest_KillUrkaTitle	Defeat Urka
 Quest/&CradleOfFire_Quest_MeetAtRescarGate_Outcome1Description	You have joined the alliance.
 Quest/&CradleOfFire_Quest_MeetAtRescarGateDescription	You have united the orc tribes and Brok is ready to challenge Arrok. Go to Redscar Gate and meet the orc leaders as they prepare to face Arrok.
@@ -327,8 +327,8 @@ Quest/&CradleOfFire_Quest_UniteTribesDescription	Brok has agreed to challenge Ar
 Quest/&CradleOfFire_Quest_UniteTribesTitle	Unite the Orc Tribes
 Quest/&CradleOfFire_Quest_VisitBladefang_Outcome1Description	You have spoken to Radulf, the Bladefang chief.
 Quest/&CradleOfFire_Quest_VisitBladefangDescription	Go to the Bladefang tribe and talk to their chief. Kebra will accompany you.
-Quest/&CradleOfFire_Quest_VisitBladefangTitle	Visit the Bloodspear Tribe
-Quest/&Cradle_Of_Fire_Quest_09_VisitBloodspear_Outcome1Description	You have spoken to Edrof, the Bloodspear chief.
+Quest/&CradleOfFire_Quest_VisitBladefangTitle	Visit the Bladefang Tribe
+Quest/&Cradle_Of_Fire_Quest_09_VisitBloodspear_Outcome1Description	Brok has arranged a ritual duel between one of you and Edrof, to take control of his tribe.
 Quest/&Cradle_Of_Fire_Quest_09_VisitBloodspearDescription	Go to the Bloodspear tribe and talk to their chief. Kebra will accompany you.
 Quest/&Cradle_Of_Fire_Quest_09_VisitBloodspearTitle	Visit the Bloodspear Tribe
 Quest/&CradleOfFire_Quest_VisitSandRaven_Outcome1Description	You have spoken to Urka, the Sandraven shaman.
@@ -403,7 +403,7 @@ Quest/&Quest_Background_Lawkeeper_MeetStig_Outcome1Description	Stig gave you a l
 Quest/&Quest_Background_Lawkeeper_MeetStigDescription	Stig is an old acquaintance who needs help tracking corruption within the city guard.
 Quest/&Quest_Background_Lawkeeper_MeetStigTitle	Speak to Stig
 Quest/&Quest_Background_Lawkeeper_Report_Outcome1Description	Stig thanked you for your help and went to report your findings to Captain Ironshell.
-Quest/&Quest_Background_Lawkeeper_ReportDescription	You have cleared most of Stig's suspects and found out that Alrin was a traitor and a smuggler, if not worse. Report back to Stig at the Palace entrance.
+Quest/&Quest_Background_Lawkeeper_ReportDescription	You have cleared most of Stig's suspects and found out that Rodric was a traitor and a smuggler, if not worse. Report back to Stig at the Palace entrance.
 Quest/&Quest_Background_Lawkeeper_ReportTitle	Return to Stig
 Quest/&Quest_Background_Lawkeeper_Suspect1_Outcome1Description	Corporal Dann left his post. You followed him.
 Quest/&Quest_Background_Lawkeeper_Suspect1Description	Corporal Dann works at the High Bridge. Stig has seen him furtively leaving his post.
@@ -413,9 +413,9 @@ Quest/&Quest_Background_Lawkeeper_Suspect2Title	Meet Private Garth
 Quest/&Quest_Background_Lawkeeper_Suspect3_Outcome1Description	You set up a secret meeting with Tradtsson to buy his product.
 Quest/&Quest_Background_Lawkeeper_Suspect3Description	Tradtsson is a city guard working in a joint operation with the Snow Alliance to provide protection to the embassy. Rumor has it that he has a small side-business. Try to find out what he is dealing.
 Quest/&Quest_Background_Lawkeeper_Suspect3Title	Trick Shieldguard Tradtsson
-Quest/&Quest_Background_Lawkeeper_Suspect4_Outcome1Description	Private Alrin teleported away while you were questioning him.
-Quest/&Quest_Background_Lawkeeper_Suspect4Description	Private Alrin is posted at the entrance to the Temple Quarter. He takes frequent breaks, but not with his colleagues. Find out what he does when he is not at his post.
-Quest/&Quest_Background_Lawkeeper_Suspect4Title	Observe Private Alrin
+Quest/&Quest_Background_Lawkeeper_Suspect4_Outcome1Description	Private Rodric teleported away while you were questioning him.
+Quest/&Quest_Background_Lawkeeper_Suspect4Description	Private Rodric is posted at the entrance to the Temple Quarter. He takes frequent breaks, but not with his colleagues. Find out what he does when he is not at his post.
+Quest/&Quest_Background_Lawkeeper_Suspect4Title	Observe Private Rodric
 Quest/&Quest_Background_Lawkeeper_Title	The Law is the Law
 Quest/&Quest_Background_Spy_Infiltrate the New Empire Embassy_Outcome1Description	You have successfully entered the embassy!
 Quest/&Quest_Background_Spy_Infiltrate the New Empire EmbassyDescription	Find the secret entrance to the New Empire Embassy and sneak inside.
@@ -424,7 +424,7 @@ Quest/&Quest_Background_Spy_Optional_Go back to the residence_Outcome1Descriptio
 Quest/&Quest_Background_Spy_Optional_Go back to the residenceDescription	Return to the residence and check whether the document has reached the upper ranks of the Snow Alliance nobility.
 Quest/&Quest_Background_Spy_Optional_Go back to the residenceTitle	Return to the Residence
 Quest/&Quest_Background_Spy_Optional_GoToTavernDaliat_Title	Meet Daliat at the Tavern
-Quest/&Quest_Background_Spy_Optional_Killtraitors_Outcome1Description	You have eliminated Daliat's enemies! Find him at the Tavern.
+Quest/&Quest_Background_Spy_Optional_Killtraitors_Outcome1Description	You have eliminated Daliat's enemies! Go to Lane Ends and tell him.
 Quest/&Quest_Background_Spy_Optional_KilltraitorsDescription	You have agreed to eliminate a few of Daliat's enemies in exchange for his help with Belmont. Go to the traitors' hideout and take them out!
 Quest/&Quest_Background_Spy_Optional_KilltraitorsTitle	Kill the Traitors
 Quest/&Quest_Background_Spy_Optional_ReturnToDaliat_Outcome1Description	You have closed the deal with Daliat.
@@ -455,7 +455,7 @@ Quest/&TelemaLevel_Quest_ClimbDownTitle	Descend into the Caves
 Quest/&TelemaLevel_Quest_ClimbUp_Outcome1Description	You haven't had time to reach to top of the amphitheater. You've been attacked by deep spiders.
 Quest/&TelemaLevel_Quest_ClimbUpDescription	You arrived at the bottom of an old Imperial amphitheater. Find a way to climb up and exit. Use light against the deep spiders that may be roaming around.
 Quest/&TelemaLevel_Quest_ClimbUpTitle	Climb the Amphitheater
-Quest/&TelemaLevel_Quest_Collapse_Outcome1Description	You have reached the top of the amphitheater and triggered a collapse that was blocking the spiders' nest.
+Quest/&TelemaLevel_Quest_Collapse_Outcome1Description	You have reached the top of the amphitheater and triggered something to collapse that was blocking the spiders' nest.
 Quest/&TelemaLevel_Quest_CollapseDescription	You are under attack from countless deep spiders! Use light to keep them away, and run as fast as you can to reach the room's exit. Don't forget to gather all you party up there!
 Quest/&TelemaLevel_Quest_CollapseTitle	Escape the Spiders
 Quest/&TelemaLevel_Quest_DealWithOrcs_Outcome1Description	You haven't found Hector in the orc camp.
@@ -543,7 +543,7 @@ Quest/&Tower_Of_Magic_Sub_Quest_Info3_Outcome3Description	You have found a statu
 Quest/&Tower_Of_Magic_Sub_Quest_Info3Description	Find any oddity that might distinguish this tower from others in the Badlands.
 Quest/&Tower_Of_Magic_Sub_Quest_Info3Title	Find the Third Clue
 Quest/&Tower_Of_Magic_Sub_Quest_Info4_Outcome2Description	You have found a statue of an important-looking elf.
-Quest/&Tower_Of_Magic_Sub_Quest_Info4_Outcome4Description	You have found a statue of a Manacalon Emperor, who reigned at the time of the Cataclysm.
+Quest/&Tower_Of_Magic_Sub_Quest_Info4_Outcome4Description	You have found a statue of a Manacalon Emperor who reigned at the time of the Cataclysm.
 Quest/&Tower_Of_Magic_Sub_Quest_Info4Description	Find any information that could suggest when this tower was in use.
 Quest/&Tower_Of_Magic_Sub_Quest_Info4Title	Find the Fourth Clue
 Quest/&Tower_Of_Magic_Sub_QuestTitle	Quest for Information
@@ -676,17 +676,17 @@ Quest/&Tower_Of_Magic_Quest_Rune4Title	Activate the Fourth Rune
 Quest/&Tower_Of_Magic_Quest_Rune4Description	Find and activate the rune.
 Quest/&Tower_Of_Magic_Quest_Rune4_Outcome1Description	You found and activated the rune.
 Quest/&Tower_Of_Magic_Quest_OrbeTitle	Activate the Orb
-Quest/&Tower_Of_Magic_Quest_OrbeDescription	After lighting up all the runes, you have seen a magical orb appear. Activate it.
-Quest/&Tower_Of_Magic_Quest_Orbe_Outcome1Description	After lighting up all the runes, you have seen a magical orb appear. You activated it and opened the way out of the library!
+Quest/&Tower_Of_Magic_Quest_OrbeDescription	After lighting up all the runes, you saw a magical orb appear. Activate it.
+Quest/&Tower_Of_Magic_Quest_Orbe_Outcome1Description	After lighting up all the runes, you saw a magical orb appear. You activated it and opened the way out of the library!
 Quest/&Abjuration_Quest_16_b_Teleporter_Outcome1Description	In the secret room in the basement, near Kythaela's belongings, you saw a magnificent door of high imperial style. Behind it was a small room containing a Major Gate - one of the ones you were told could be used to teleport as far as Caer Cyflen, provided you had the right command word.
 Quest/&Abjuration_Quest_16_b_TeleporterDescription	In the secret room in the basement, near Kythaela's belongings, you saw a magnificent door of high imperial style. Check out what's on the other side.
 Quest/&Abjuration_Quest_16_b_TeleporterTitle	Check Out the Imperial Door
 Quest/&Cradle_Of_Fire_Quest_04_TalkToArbalTitle	Get Past Arbal
-Quest/&Cradle_Of_Fire_Quest_04_TalkToArbalDescription	You entered the volcano and reached a gate guarded by a famous orc warrior named Arbal. Now, you need to get through, and maybe you don't need to fight.
+Quest/&Cradle_Of_Fire_Quest_04_TalkToArbalDescription	You entered the volcano and reached a gate guarded by a famous orc warrior named Arbal. Now you need to get through, and maybe you don't need to fight.
 Quest/&Cradle_Of_Fire_Quest_04_TalkToArbal_Outcome1Description	You convinced the warrior Arbal to let you enter the inner volcano.
 Quest/&Cradle_Of_Fire_Quest_04_TalkToArbal_Outcome2Description	You talked to Arbal briefly but ended up fighting him and his orcs.
 Quest/&Cradle_Of_Fire_Quest_06_KillRedscarOrcsTitle	Kill Redscar Orcs
-Quest/&Cradle_Of_Fire_Quest_06_KillRedscarOrcsDescription	You entered the orc market. To free Brok, you need to get rid of the orcs guarding him. Those orcs from the Redscar tribe cannot be bartered with; they work for Arrok, the new king under the volcano.
+Quest/&Cradle_Of_Fire_Quest_06_KillRedscarOrcsDescription	You gained access to the orc market. To free Brok, you need to get rid of the orcs guarding him. Those orcs from the Redscar tribe cannot be bartered with; they work for Arrok, the new king under the volcano.
 Quest/&Cradle_Of_Fire_Quest_06_KillRedscarOrcs_Outcome1Description	You killed the Redscar orcs on the market.
 Quest/&Cradle_Of_Fire_Quest_07_FreeBrokTitle	Free Brok
 Quest/&Cradle_Of_Fire_Quest_07_FreeBrokDescription	You can now free Brok for good. No one is going to stop you.
@@ -697,10 +697,10 @@ Quest/&Cradle_Of_Fire_Quest_08_TakeElevator_Outcome1Description	You entered the 
 Quest/&Cradle_Of_Fire_Quest_05_FreebrokTitle	Free Brok
 Quest/&Cradle_Of_Fire_Quest_05_FreebrokDescription	You passed the gate and accessed to the market area. Find where Brok is being kept prisoner and liberate him.
 Quest/&Cradle_Of_Fire_Quest_05_Freebrok_Outcome1Description	You reached the market area where Brok was being kept prisoner.
-Quest/&Cradle_Of_Fire_Quest_00_GainBladefangSupportTitle	Gain the Bloodspear Tribe's Support
+Quest/&Cradle_Of_Fire_Quest_00_GainBladefangSupportTitle	Gain the Bladefang Tribe's Support
 Quest/&Cradle_Of_Fire_Quest_00_GainBladefangSupportDescription	You met with Edrof.
 Quest/&Cradle_Of_Fire_Quest_01_ChallengeTitle	Take Up Edrof's Challenge
-Quest/&Cradle_Of_Fire_Quest_01_ChallengeDescription	Choose a character to fight the Bloodspear chief Edrof to the death in ritual combat. If you win, the Bloodspear tribe will join Brok's alliance. The chosen fighter can choose from traditional weapons. There will be no armor and magic cast during the fight. You can buff yourself and pick up your weapons to start the combat.
+Quest/&Cradle_Of_Fire_Quest_01_ChallengeDescription	Choose a character to fight the Bloodspear chief Edrof to the death in ritual combat. If you win, the Bloodspear tribe will join Brok's alliance. The chosen fighter can choose from traditional weapons. There will be no armor or magic cast during the fight. You can buff yourself and pick up your weapons to start the combat.
 Quest/&Cradle_Of_Fire_Quest_01_Challenge_Outcome1Description	You have defeated Edrof and the Bloodspear tribe has joined Brok's alliance.
 Quest/&CradleOfFire_Bladefang_Title	Orc Alliance: Bladefang
 Quest/&Abjuration_Quest_18_FindTheGemLocation_Outcome1Description	You have reached the foot of a hill with a large tower in the distance. This could be the right place.
@@ -755,7 +755,7 @@ Quest/&Caer_Cyflen_Merton_Quest_PatienceTitle	Merton's Secrets
 Quest/&Caer_Cyflen_Merton_Quest_PatienceDescription	You didn't find out much about Arwin Merton. Maybe something will come up if he really did use to be famous.
 Quest/&Caer_Cyflen_Merton_Quest_Patience_Outcome1Description	In Coparann, you finally heard about Arwin Merton again when you met a mysterious half-elf called Bitterroot who worked for the local Scavengers. She asked you to bring Merton a message and a sword.
 Quest/&Quest_Background_Academic_SpeakToAnnieTitle	Speak to Annie
-Quest/&Quest_Background_Academic_SpeakToAnnieDescription	Annie Bagmordah left a message for you. You need to come and see her about some personal matter.
+Quest/&Quest_Background_Academic_SpeakToAnnieDescription	Annie Bagmordah left a message for you. You need to go see her about some personal matter.
 Quest/&Quest_Background_Academic_SpeakToAnnie_Outcome1Description	You spoke to Annie. Apparently, one of your old acquaintances is in town and needs your help. Go to Sunblaze Court; he's waiting for you.
 Quest/&CradleOfFire_Bloodspear_Title	Bloodspear
 Quest/&Subquest_Acolyte_Quest_00_SearchMonasteryTitle	Search the Monastery
@@ -782,7 +782,7 @@ Quest/&Cradle_Of_Fire_Quest_01_CompleteTheChallenge_Outcome1Description	You know
 Quest/&Cradle_Of_Fire_Quest_01_CompleteTheChallenge_Outcome2Description	You know the details of the Sandraven tribe challenge.
 Quest/&Cradle_Of_Fire_Quest_01_CompleteTheChallenge_Outcome3Description	You know the details of the tribe challenge.
 Quest/&Cradle_Of_Fire_Quest_10_EdrofsChallengeTitle	Fight or Forfeit
-Quest/&Cradle_Of_Fire_Quest_10_EdrofsChallengeDescription	According to orc customs, both fighters must be unarmored and spells are prohibited, although other kind of powers can be used. The arena is protected against magic to ensure that no spells are used. Each combatant can pick a traditional set of weapons. Edrof never surprises and always chooses the two-handed axe. Pick a set of weapons to proceed to the duel. If you exit the arena, you will forfeit the battle in shame.
+Quest/&Cradle_Of_Fire_Quest_10_EdrofsChallengeDescription	According to orc customs, both fighters must be unarmored and spells are prohibited, although other kind of powers can be used. The arena is protected against magic to ensure that no spells are used. Each combatant can pick a set of traditional weapons. Edrof never surprises and always chooses the two-handed axe. Pick a set of weapons to proceed to the duel. If you exit the arena, you will forfeit the battle in shame.
 Quest/&Cradle_Of_Fire_Quest_10_EdrofsChallenge_Outcome2Description	You chose your set of weapons.
 Quest/&Cradle_Of_Fire_Quest_10_EdrofsChallenge_Outcome1Description	You decided that Edrof was too strong to beat.
 Quest/&Cradle_Of_Fire_Quest_10_DefeatEdrofTitle	Defeat Edrof
@@ -790,22 +790,22 @@ Quest/&Cradle_Of_Fire_Quest_10_DefeatEdrofDescription	This fight is to the death
 Quest/&Cradle_Of_Fire_Quest_10_DefeatEdrof_Outcome1Description	You defeated Edrof in one-on-one combat!
 Quest/&Cradle_Of_Fire_Quest_10_ForfeitDuelTitle	Forfeit Duel
 Quest/&Cradle_Of_Fire_Quest_10_ForfeitDuelDescription	Edrof is too strong, never mind this madness.
-Quest/&Cradle_Of_Fire_Quest_10_ForfeitDuel_Outcome1Description	You decided that Edrof's tribe could not be part your alliance.
+Quest/&Cradle_Of_Fire_Quest_10_ForfeitDuel_Outcome1Description	Bloodspear could not join the alliance as you refused to fight Edrof to the death.
 Quest/&LegendaryQuest_Title	Temple of the Lost God
 Quest/&LegendaryQuest_Quest_01_SpeakToMertonTitle	Speak to Arwin Merton
-Quest/&LegendaryQuest_Quest_01_SpeakToMertonDescription	Find Arwin Merton at his customary location and ask him about the temple of the Lost God.
-Quest/&LegendaryQuest_Quest_01_SpeakToMerton_Outcome1Description	You spoke with Arwin. He agreed to bring you to the temple, and partake in the raid. He asked that you wait one day so he can prepare.
+Quest/&LegendaryQuest_Quest_01_SpeakToMertonDescription	Historians speak of a lost temple brought from Tirmar, lost somewhere north of the Badlands. It was a place of faith for a deity that could not cross the Rift to Solasta. Such knowledge about Tirmar is invaluable! Find proof of the temple's existence and bring back all possible historical information. It is rumored that Arwin Merton has been there.
+Quest/&LegendaryQuest_Quest_01_SpeakToMerton_Outcome1Description	You spoke with Arwin. He agreed to bring you to the temple and partake in the raid. He asked that you wait one day so he can prepare.
 Quest/&LegendaryQuest_Quest_02_WaitOneNightTitle	Wait One Night
 Quest/&LegendaryQuest_Quest_02_WaitOneNightDescription	Return later to see Arwin at the Gravekeep's Cask. The simplest thing to do is to take a room, but you can spend the night anywhere you like.
 Quest/&LegendaryQuest_Quest_02_WaitOneNight_Outcome1Description	You gave Arwin enough time to prepare. Go find him near the fireplace at the Gravekeep's Cask.
 Quest/&LegendaryQuest_Quest_03_TalkToMertonTitle	Talk to Arwin Merton
 Quest/&LegendaryQuest_Quest_03_TalkToMertonDescription	Arwin is waiting for you to undertake this dangerous quest, talk to him before going there.
-Quest/&LegendaryQuest_Quest_03_TalkToMerton_Outcome1Description	You spoke with Arwin, he gave you the location of the lost valley and asked that you find him there, he prefers to travel alone.
-Quest/&LegendaryQuest_Quest_04_GoToTempleTitle	Travel to the Lost Valley
-Quest/&LegendaryQuest_Quest_04_GoToTempleDescription	You have the location of the Lost Valley, and hopefully, of the temple of the Lost God, on your map. Go there and join Arwin Merton.
+Quest/&LegendaryQuest_Quest_03_TalkToMerton_Outcome1Description	You spoke with Arwin, he gave you the location of Caer Elis and asked that you find him there. He prefers to travel alone.
+Quest/&LegendaryQuest_Quest_04_GoToTempleTitle	Travel to Caer Elis
+Quest/&LegendaryQuest_Quest_04_GoToTempleDescription	You have the location of the Lost Valley and - hopefully - of the temple of the Lost God, on your map. Go there and join Arwin Merton.
 Quest/&LegendaryQuest_Quest_04_GoToTemple_Outcome1Description	You reached the Lost Valley.
 Quest/&LegendaryQuest_Quest_05_JoinMertonTitle	Team up with Arwin
-Quest/&LegendaryQuest_Quest_05_JoinMertonDescription	Arwin Merton is here as promised. Talk to him and team-up for the upcoming challenge.
+Quest/&LegendaryQuest_Quest_05_JoinMertonDescription	Arwin Merton is here as promised. Talk to him and team up for the upcoming challenge.
 Quest/&LegendaryQuest_Quest_05_JoinMerton_Outcome1Description	You joined with Arwin Merton and started searching for a way through the mist.
 Quest/&LegendaryQuest_Quest_06_FindAWayInTitle	Go through the Mist
 Quest/&LegendaryQuest_Quest_06_FindAWayInDescription	Arwin told you to move forward through the mist, and that you'd find the temple of the Lost God behind it.
@@ -824,17 +824,17 @@ Quest/&LegendaryQuest_Quest_10_BeatTheMonsterDescription	You now have to face th
 Quest/&LegendaryQuest_Quest_10_BeatTheMonster_Outcome1Description	You defeated the last guardian of the temple, an adult remorhaz!
 Quest/&Conjuration_Quest_03_FindAWayOutTitle	Find a Way Out
 Quest/&Conjuration_Quest_03_FindAWayOutDescription	You don't really know where you are, but you have to find a way out.
-Quest/&Conjuration_Quest_03_FindAWayOut_Outcome1Description	The dragon you fought seems to have suddenly vanished into thin air, leaving a fragment of the gem you are looking for. Now you are in a new and even more mysterious place.
+Quest/&Conjuration_Quest_03_FindAWayOut_Outcome1Description	The dragon you fought seemed to suddenly vanish into thin air, leaving a fragment of the gem you are looking for. Now you are in a new and even more mysterious place.
 Quest/&Conjuration_Quest_04_FindAnotherGemsFragmentTitle	Find Another Fragment of the Gem
 Quest/&Conjuration_Quest_04_FindAnotherGemsFragmentDescription	You are lost in an unknown place. Find a way out and complete the gem.
-Quest/&Conjuration_Quest_04_FindAnotherGemsFragment_Outcome1Description	You encountered a cube of light that kind of reminds you of the dragon. This too has disappeared and given way to a new fragment of the gem. After recovering it, you found yourself in a new, unknown place.
+Quest/&Conjuration_Quest_04_FindAnotherGemsFragment_Outcome1Description	You encountered a cube of light that kind of reminded you of the dragon. This too disappeared and gave way to a new fragment of the gem. After recovering it, you found yourself in a new, unknown place.
 Quest/&Conjuration_Arena_Title	The Arena
 Quest/&Conjuration_Quest_Arena_00_1stRoundDefeatYourOpponentTitle	Round 1 - Defeat Your Opponent
 Quest/&Conjuration_Quest_Arena_00_1stRoundDefeatYourOpponentDescription	You are trapped in this arena. Defend yourself.
-Quest/&Conjuration_Quest_Arena_00_1stRoundDefeatYourOpponent_Outcome1Description	You have defeated a first threat. Get ready for the next one!
+Quest/&Conjuration_Quest_Arena_00_1stRoundDefeatYourOpponent_Outcome1Description	You have defeated the first threat. Get ready for the next one!
 Quest/&Conjuration_Quest_Arena_01_2ndRoundDefeatYourOpponentTitle	Round 2 - Defeat Your Opponent
 Quest/&Conjuration_Quest_Arena_01_2ndRoundDefeatYourOpponentDescription	You are trapped in this arena. Defend yourself.
-Quest/&Conjuration_Quest_Arena_01_2ndRoundDefeatYourOpponent_Outcome1Description	You have defeated a second threat. Get ready for the next one!
+Quest/&Conjuration_Quest_Arena_01_2ndRoundDefeatYourOpponent_Outcome1Description	You have defeated the second threat. Get ready for the next one!
 Quest/&Conjuration_Quest_Arena_02_3rdRoundDefeatYourOpponentTitle	Round 3 - Defeat Your Opponent
 Quest/&Conjuration_Quest_Arena_02_3rdRoundDefeatYourOpponentDescription	You are trapped in this arena. Defend yourself.
 Quest/&Conjuration_Quest_Arena_02_3rdRoundDefeatYourOpponent_Outcome1Description	You have overcome a great threat. Now you can leave the arena or face one last enemy.
@@ -846,7 +846,7 @@ Quest/&Cradle_Of_Fire_Quest_10_TalkToRadulfTitle	Talk to Radulf
 Quest/&Cradle_Of_Fire_Quest_10_TalkToRadulfDescription	Find out how to get Bladefang to join your alliance.
 Quest/&Cradle_Of_Fire_Quest_11_Go_To_Spider_LairTitle	Find the Old Queen
 Quest/&Cradle_Of_Fire_Quest_11_Go_To_Spider_LairDescription	To convince Radulf and his tribe to join the alliance, you need to bring back a holy item guarded by an Old Queen. Enter the dark lair from the crossroad access and kill the monster.
-Quest/&Cradle_Of_Fire_Quest_11_Go_To_Spider_Lair_Outcome1Description	You entered the Old Queen's lair
+Quest/&Cradle_Of_Fire_Quest_11_Go_To_Spider_Lair_Outcome1Description	You entered the Old Queen's lair.
 Quest/&Cradle_Of_Fire_Quest_12_KillOldQueenTitle	Kill the Old Queen
 Quest/&Cradle_Of_Fire_Quest_12_KillOldQueenDescription	You discovered who, or rather what, the Old Queen is: a humongous spider.
 Quest/&Cradle_Of_Fire_Quest_12_KillOldQueen_Outcome1Description	You killed the Old Queen!
@@ -858,10 +858,10 @@ Quest/&Cradle_Of_Fire_Quest_14_ReturnTheAxeDescription	You found the item Radulf
 Quest/&Cradle_Of_Fire_Quest_14_ReturnTheAxe_Outcome1Description	You gave the Holy Axe back to Radulf and he agreed to join the alliance.
 Quest/&Cradle_Of_Fire_Quest_14_ReturnTheAxe_Outcome2Description	You refused to give the Holy Axe back and Radulf refused to join the alliance.
 Quest/&Cradle_Of_Fire_Quest_15_AccessNecropolisTitle	Go through Redscar Gate
-Quest/&Cradle_Of_Fire_Quest_15_AccessNecropolisDescription	Urka asked you to find a key somewhere in the Manacalon necropolis, beyond Redscar Gate. Go there and explore the Necropolis.
+Quest/&Cradle_Of_Fire_Quest_15_AccessNecropolisDescription	Urka asked you to find a key somewhere in the Manacalon Necropolis, beyond Redscar Gate. Go there and explore the Necropolis.
 Quest/&Cradle_Of_Fire_Quest_15_AccessNecropolis_Outcome1Description	You have entered Redscar Gate
 Quest/&Cradle_Of_Fire_Quest_16_ExploreNecropolisTitle	Explore the Necropolis
-Quest/&Cradle_Of_Fire_Quest_16_ExploreNecropolisDescription	The entrance of the Manacalon Necropolis is near Redscar Gate. Enter and find the key somewhere near an emperor's tomb.
+Quest/&Cradle_Of_Fire_Quest_16_ExploreNecropolisDescription	The entrance of the Manacalon Necropolis is near Redscar Gate. Enter and find the key somewhere near an Emperor's tomb.
 Quest/&Cradle_Of_Fire_Quest_16_ExploreNecropolis_Outcome1Description	You found the Emperor's tomb… and his ghost! You decided to take his key by force.
 Quest/&Cradle_Of_Fire_Quest_16_ExploreNecropolis_Outcome2Description	You found the Emperor's tomb… and his ghost! You convinced him to let you go.
 Quest/&Cradle_Of_Fire_Quest_17_StealOrNotTitle	Fight or Feint
@@ -873,10 +873,10 @@ Quest/&Cradle_Of_Fire_Quest_17_ReturnToUrka_Outcome1Description	You had a nasty 
 Quest/&Cradle_Of_Fire_Quest_17_StealOrNot_Outcome2Description	You decided to use the Minor Gate and teleported into the inner city.
 Quest/&Quest_Background_Acolyte_Recall_00_TalkToDalonLarkTitle	Talk to Dalon Lark
 Quest/&Quest_Background_Acolyte_Recall_00_TalkToDalonLarkDescription	Dalon Lark wants to see you. Return to him as soon as possible.
-Quest/&Quest_Background_Acolyte_Recall_00_TalkToDalonLark_Outcome1Description	Dalon Lark asked you to talk with Rogar Ardentire, priest of Arun. He has important news to share.
+Quest/&Quest_Background_Acolyte_Recall_00_TalkToDalonLark_Outcome1Description	Dalon Lark asked you to talk with Rogar Ardentfire, priest of Arun. He has important news to share.
 Quest/&Quest_Background_Acolyte_Recall_01_TalkToRogarArdentireTitle	Talk to the Priest of Arun
-Quest/&Quest_Background_Acolyte_Recall_01_TalkToRogarArdentireDescription	Go to Rogar Ardentire, priest of Arun, near the promontory in Caer Cyflen.
-Quest/&Quest_Background_Acolyte_Recall_01_TalkToRogarArdentire_Out	Rogar Ardentire told you the sad story of Emtan, priest of Tirmar. You need to cleanse his soul.
+Quest/&Quest_Background_Acolyte_Recall_01_TalkToRogarArdentireDescription	Go to Rogar Ardentfire, priest of Arun, near the promontory in Caer Cyflen.
+Quest/&Quest_Background_Acolyte_Recall_01_TalkToRogarArdentire_Out	Rogar Ardentfire told you the sad story of Emtan, priest of Tirmar. You need to cleanse his soul.
 Quest/&Quest_Background_Acolyte_Recall_02_GoBackToTheMonasteryTitle	Travel to the Tirmarian Ruins
 Quest/&Quest_Background_Acolyte_Recall_02_GoBackToTheMonasteryDescription	Go back to the monastery where you found Emtan's holy symbol.
 Quest/&Quest_Background_Acolyte_Recall_02_GoBackToTheMonastery_Outcome1Description	You reached the monastery.
@@ -893,7 +893,7 @@ Quest/&Cradle_Of_Fire_Quest_10_DefeatEdrof02Title	Choose a Weapon to Defeat Edro
 Quest/&Cradle_Of_Fire_Quest_10_DefeatEdrof02Description	This fight is to the death, you have to win.
 Quest/&Cradle_Of_Fire_Quest_10_ForfeitDuel02Title	Open the Door to Forfeit the Duel
 Quest/&Cradle_Of_Fire_Quest_10_ForfeitDuel02Description	Edrof is too strong, never mind this madness.
-Quest/&Cradle_Of_Fire_Quest_10_EdrofsChallenge02Title	Choose a Weapon to Fight, or Open the door to Forfeit the Duel
+Quest/&Cradle_Of_Fire_Quest_10_EdrofsChallenge02Title	Choose a Weapon to Fight, or Open the Door to Forfeit the Duel
 Quest/&Cradle_Of_Fire_Quest_16A_ExploreNecropolisTitle	Explore the Necropolis
 Quest/&Cradle_Of_Fire_Quest_16A_ExploreNecropolisDescription	The key is supposed to be close to the Emperor's tomb. Look around the Necropolis to find the tomb.
 Quest/&Cradle_Of_Fire_Quest_16A_ExploreNecropolis_Outcome1Description	You found the Emperor's tomb.
@@ -904,7 +904,7 @@ Quest/&Cradle_Of_Fire_Quest_16C_NegociateWithEmperorTitle	Negotiate
 Quest/&Cradle_Of_Fire_Quest_16C_NegociateWithEmperorDescription	You found the Emperor's tomb... and his ghost.
 Quest/&Cradle_Of_Fire_Quest_16C_NegociateWithEmperor_Outcome1Description	You found the Emperor's tomb and manage to negotiate with his ghost.
 Quest/&Cradle_Of_Fire_Quest_17A_StealTitle	Steal the Key
-Quest/&Cradle_Of_Fire_Quest_17A_StealDescription	You have seen the key inside the Emperor's tomb.
+Quest/&Cradle_Of_Fire_Quest_17A_StealDescription	You saw the key inside the Emperor's tomb.
 Quest/&Cradle_Of_Fire_Quest_17A_Steal_Outcome1Description	You decided to fight the Emperor to get the key.
 Quest/&Cradle_Of_Fire_Quest_17B_UseMinorGateTitle	Use the Minor Gate
 Quest/&Cradle_Of_Fire_Quest_17B_UseMinorGateDescription	The Emperor told you there was a Minor Gate leading to Arrok's Throne Room.
@@ -920,23 +920,23 @@ Quest/&Quest_Background_Philosopher_TalkToGaleafinTitle	Talk to Galeafin
 Quest/&Quest_Background_Philosopher_TalkToGaleafinDescription	Galeafin wants to speak with you. Meet him at his house near the tavern.
 Quest/&Quest_Background_Philosopher_TalkToGaleafin_Outcome1Description	Galeafin talked to you about what motivates people to choose evil.
 Quest/&Quest_Background_Philosopher_TalkToGaleafin_Outcome2Description	Galeafin talked to you about what makes Sorr-Akkath so cruel.
-Quest/&Quest_Background_Philosopher_TalkToGaleafin_Outcome3Description	Galeafin seemed preoccupied. He says he has to think and asks you to come back tomorrow.
-Quest/&Quest_Background_Philosopher_TalkToGaleafin_Outcome4Description	Galeafin introduced you to his beloved Illoreth. You learned that they were both working for the Coven of Arivad. But now things have changed and they want to destroy it. They asked your help.
-Quest/&Quest_Background_Philosopher_ComeBackLaterTitle	Come Back to Galeafin
-Quest/&Quest_Background_Philosopher_ComeBackLaterDescription	Galeafin wants to speak with you later.
+Quest/&Quest_Background_Philosopher_TalkToGaleafin_Outcome3Description	Galeafin seemed preoccupied. He said he had to think and asked you to come back tomorrow.
+Quest/&Quest_Background_Philosopher_TalkToGaleafin_Outcome4Description	Galeafin introduced you to his beloved Illoreth. You learned that they were both working for the Coven of Arivad. But now things have changed and they want to destroy it. They asked for your help.
+Quest/&Quest_Background_Philosopher_ComeBackLaterTitle	Wait for Galeafin to Call You Again
+Quest/&Quest_Background_Philosopher_ComeBackLaterDescription	Master Galeafin said he'll want to speak with you again. Wait the night. He might have further questions and will send for you.
 Quest/&Quest_Background_Philosopher_ComeBackLater_Outcome1Description	You have been informed that Galeafin wants to talk with you.
 Quest/&Quest_Background_Philosopher_MeetIllorethTitle	Meet Illoreth
 Quest/&Quest_Background_Philosopher_MeetIllorethDescription	Illoreth wants to help you infiltrate the Coven of Arivad. Find her in the streets.
 Quest/&Quest_Background_Philosopher_MeetIlloreth_Outcome1Description	Illoreth gave you a mask in order to help you infiltrate the Coven. 
 Quest/&Quest_Background_Philosopher_DefeatTheCovenTitle	Defeat the Coven of Arivad
 Quest/&Quest_Background_Philosopher_DefeatTheCovenDescription	Infiltrate the Coven of Arivad with Illoreth and find a way to defeat it.
-Quest/&Quest_Background_Philosopher_DefeatTheCoven_Outcome1Description	You found the Coven of Arivad and killed its Sorak member. Illoreth and Galeafin should have left the city now.
+Quest/&Quest_Background_Philosopher_DefeatTheCoven_Outcome1Description	You found the Coven of Arivad and killed the Sorak member. Illoreth and Galeafin should have left the city now.
 Quest/&Conjuration_Quest_05_EnterTheManorTitle	Enter the Manor
 Quest/&Conjuration_Quest_05_EnterTheManorDescription	The gem's signal seems to be coming from this mansion. Find a way in.
 Quest/&Conjuration_Quest_05_EnterTheManor_Outcome1Description	You entered the manor and were greeted by a butler who will lead you to his master. Follow him.
-Quest/&Conjuration_Quest_06_FollowTheButtlerTitle	Follow the Butler
-Quest/&Conjuration_Quest_06_FollowTheButtlerDescription	Follow the butler through the manor to his master. The gem might be there.
-Quest/&Conjuration_Quest_06_FollowTheButtler_Outcome1Description	The butler led you to his master. The latter challenges you in one last fight to make sure you are worthy of recovering his gem.
+Quest/&Conjuration_Quest_06_FollowTheButtlerTitle	Follow the Housekeeper
+Quest/&Conjuration_Quest_06_FollowTheButtlerDescription	Follow the housekeeper through the manor to his master. The gem might be there.
+Quest/&Conjuration_Quest_06_FollowTheButtler_Outcome1Description	The housekeeper led you to his master. The latter challenges you in one last fight to make sure you are worthy of recovering his gem.
 Quest/&Conjuration_Quest_07_FightTheMasterTitle	Fight the Master
 Quest/&Conjuration_Quest_07_FightTheMasterDescription	The master attacked you. Kill him!
 Quest/&Conjuration_Quest_07_FightTheMaster_Outcome1Description	You defeated the master. Take the gem and get out.
@@ -944,17 +944,17 @@ Quest/&Conjuration_Quest_08_TakeTheGemTitle	Take the Gem
 Quest/&Conjuration_Quest_08_TakeTheGemDescription	Take the gem and get out.
 Quest/&Conjuration_Quest_08_TakeTheGem_Outcome1Description	You managed to return to the lava forest and now have a new gem in your possession.
 Quest/&Conjuration_SuperEgo_Mansion_HelpServant_Title	A Well-ordered Room
-Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpServant_00_HelpTheServantOrGoTitle	Help the Servant to Clear the Room or Go Your Way
+Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpServant_00_HelpTheServantOrGoTitle	Help the Servant to Clear the Room or Go on Your Way
 Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpServant_00_HelpTheServantOrGoDescription	You find a maid tidying up a room.
 Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpServant_00_HelpTheServantOrGo_Outcome1Description	You helped the maid clear the room and saved her valuable time.
 Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpServant_00_HelpTheServantOrGo_Outcome2Description	You went on your way and left the maid to continue tidying up by herself.
 Quest/&Conjuration_SuperEgo_Mansion_HelpSlave_Title	The Escape from the Manor
-Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpSlave_00_HelpTheSlaveOrGoTitle	Help the Slave to Escape or Go Your Way
+Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpSlave_00_HelpTheSlaveOrGoTitle	Help the Slave to Escape or Go on Your Way
 Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpSlave_00_HelpTheSlaveOrGoDescription	You are approached by a slave who asks you to help him escape.
 Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpSlave_00_HelpTheSlaveOrGo_Outcome1Description	You acceded to the slave's request and helped him escape by breaking the bars that kept him locked up.
 Quest/&Conjuration_Quest_SuperEgo_Mansion_HelpSlave_00_HelpTheSlaveOrGo_Outcome2Description	You ignored the slave's request to help him escape.
 Quest/&Conjuration_SuperEgo_Mansion_Loot_Title	A Very Tempting Place
-Quest/&Conjuration_Quest_SuperEgo_Mansion_Loot_00_LootOrGoTitle	Check the Place or Go Your Way
+Quest/&Conjuration_Quest_SuperEgo_Mansion_Loot_00_LootOrGoTitle	Check the Place or Go on Your Way
 Quest/&Conjuration_Quest_SuperEgo_Mansion_Loot_00_LootOrGoDescription	You find the entrance hall of the mansion, full of treasure.
 Quest/&Conjuration_Quest_SuperEgo_Mansion_Loot_00_LootOrGo_Outcome1Description	You searched the hall and found interesting things despite the servants' warnings.
 Quest/&Conjuration_Quest_SuperEgo_Mansion_Loot_00_LootOrGo_Outcome2Description	Despite the promise of these places, you went on your way.
@@ -975,7 +975,7 @@ Quest/&Quest_Background_Lowlife_TalkToNel2Title	Ask Nel for a bowl of soup.
 Quest/&Quest_Background_Lowlife_TalkToNel2Description	Apparently, Nel was pulling your leg from the beginning, which is typical of him. He had the stolen sword in his possession all along. Go back to the Temple of Misaye and ask him for a "bowl of soup."
 Quest/&Quest_Background_Lowlife_TalkToNel2_Outcome1Description	Nel admitted to having the stolen sword in his possession all the time, and asked you to submit to a mildly humiliating process and to offer some money to the church.
 Quest/&Quest_Background_Lowlife_OpenTheChestTitle	Open Nel's Chest
-Quest/&Quest_Background_Lowlife_OpenTheChestDescription	Find a way to open Nel's chest. It should contains the sword.
+Quest/&Quest_Background_Lowlife_OpenTheChestDescription	Find a way to open Nel's chest. It should contain the sword.
 Quest/&Quest_Background_Lowlife_OpenTheChest_Outcome1Description	You successfully opened the chest and recovered the stolen sword. Bring it back to Annie.
 Quest/&Quest_Background_Lowlife_BringSwordToAnnieTitle	Bring the Sword Back
 Quest/&Quest_Background_Lowlife_BringSwordToAnnieDescription	Bring the sword back to Annie and get your reward.
@@ -985,26 +985,26 @@ Quest/&CradleOfFire_Quest_MeetAtRescarGateHallDescription	Brok is ready to chall
 Quest/&CradleOfFire_Quest_MeetAtRescarGateHallTitle	Join Brok behind the Redscar Gate
 Quest/&Quest_Background_Sellsword_Title	Family Reckoning
 Quest/&Quest_Background_Sellsword_TalkToMildred1Title	Talk to Mildred
-Quest/&Quest_Background_Sellsword_TalkToMildred1Description	You received a letter from Mildred in Coparann asking you to come visit her.
-Quest/&Quest_Background_Sellsword_TalkToMildred1_Outcome1Description	Mildred told you some secrets about your family.
-Quest/&Quest_Background_Sellsword_TalkToNikannenTitle	Get the Keys from Sergeant Nikannen
+Quest/&Quest_Background_Sellsword_TalkToMildred1Description	You received a letter from Mildred, Coparann's innkeeper, asking you to come visit her.
+Quest/&Quest_Background_Sellsword_TalkToMildred1_Outcome1Description	Mildred revealed to you that you lived near Coparann before your parents died; they were sentenced to death and you were given an elixir of forgetfulness.
+Quest/&Quest_Background_Sellsword_TalkToNikannenTitle	Go See Joris Nikannen
 Quest/&Quest_Background_Sellsword_TalkToNikannenDescription	Sergeant Nikannen in Coparann can help you get the keys to your house. Go find him.
-Quest/&Quest_Background_Sellsword_TalkToNikannen_Outcome1Description	Sergeant Nikannen told you that the keys are in the archives of the Keep. He wrote you a note to get them.
+Quest/&Quest_Background_Sellsword_TalkToNikannen_Outcome1Description	Sergeant Nikannen told you that the keys were in the archives of the Keep. He wrote you a note to get them.
 Quest/&Quest_Background_Sellsword_GetTheKeysTitle	Get the Keys from the Archivist
-Quest/&Quest_Background_Sellsword_GetTheKeysDescription	Find the Archivist in Coparann Keep Basement in order to get your keys.
+Quest/&Quest_Background_Sellsword_GetTheKeysDescription	Find the archivist in the Keep's basement and ask for the keys to your house in the Vale.
 Quest/&Quest_Background_Sellsword_GetTheKeys_Outcome1Description	You have the keys to your house! Time to visit it.
-Quest/&Quest_Background_Sellsword_VisitYourHouseTitle	Visit Your House
-Quest/&Quest_Background_Sellsword_VisitYourHouseDescription	Go to your house near Coparann and investigate the place.
-Quest/&Quest_Background_Sellsword_VisitYourHouse_Outcome1Description	Visiting the house, you discover a handwritten note from a spymaster to your parents.
+Quest/&Quest_Background_Sellsword_VisitYourHouseTitle	Search Your House
+Quest/&Quest_Background_Sellsword_VisitYourHouseDescription	Go to your house in the Vale and investigate the place. There must be something hidden that could help explain the events of your childhood.
+Quest/&Quest_Background_Sellsword_VisitYourHouse_Outcome1Description	Visiting the house, you discover a handwritten note from a mysterious individual. He was blackmailing them!
 Quest/&Quest_Background_Sellsword_TalkToMildred2Title	Discuss the Note with Mildred
-Quest/&Quest_Background_Sellsword_TalkToMildred2Description	Mildred may be able to help you understand the note you found in your house. Go to Coparann and talk to her.
-Quest/&Quest_Background_Sellsword_TalkToMildred2_Outcome1Description	You understand that the note points to a traitor in Coparann, and that you need to see the papers of your parents' trial. 
-Quest/&Quest_Background_Sellsword_ConfrontArchivistTitle	Get the Process Papers
-Quest/&Quest_Background_Sellsword_ConfrontArchivistDescription	Go to the Archivist in Coparann and ask for the trial papers.
-Quest/&Quest_Background_Sellsword_ConfrontArchivist_Outcome1Descriptio	The Archivist was a Sorak traitor! You managed to defeat him.
+Quest/&Quest_Background_Sellsword_TalkToMildred2Description	Mildred may be able to help you understand the note you found in the house. Return to Coparann and talk to her.
+Quest/&Quest_Background_Sellsword_TalkToMildred2_Outcome1Description	You understood that the note was written by someone from Coparann - someone who might have been present at their trial. That person's name should be registered in the documents kept in the archives.
+Quest/&Quest_Background_Sellsword_ConfrontArchivistTitle	Get the Minutes of Your Parents' Trial
+Quest/&Quest_Background_Sellsword_ConfrontArchivistDescription	Go to the archives down in the Keep's basement and ask for the minutes of your parents' trial.
+Quest/&Quest_Background_Sellsword_ConfrontArchivist_Outcome1Descriptio	The archivist himself was the one who blackmailed your parents, and a Sorak infiltrator! You managed to defeat him.
 Quest/&Quest_Background_Sellsword_TalkToCeannardTitle	Talk to the Ceannard
-Quest/&Quest_Background_Sellsword_TalkToCeannardDescription	Meet the Ceannard in Coparann and ask for retribution.
-Quest/&Quest_Background_Sellsword_TalkToCeannard_Outcome1Description	The Ceannard apologized and promise to build a memorial in honor of your parents.
+Quest/&Quest_Background_Sellsword_TalkToCeannardDescription	Meet the Ceannard in Coparann and ask him to clear your name.
+Quest/&Quest_Background_Sellsword_TalkToCeannard_Outcome1Description	The Ceannard apologized and promised to build a memorial in the honor and memory of your parents.
 Quest/&Caer_Cyflen_Quest_Council03_03_Visit_The_ResidenceTitle	Visit the Residence
 Quest/&Caer_Cyflen_Quest_Council03_03_Visit_The_ResidenceDescription	Go to Sunblaze Court and speak to Butler Ravensworth, and take your quarters at the residence.
 Quest/&Caer_Cyflen_Quest_Council03_03_Visit_The_Residence_Outcome1Description	You visited the residence where guests of the Princess are received. It is a great honor. You can now sleep there at your discretion and find fresh food every day.
@@ -1013,56 +1013,56 @@ Quest/&Caer_Cyflen_Quest_Council03_04_FindOtherGemsDescription	Follow the gems' 
 Quest/&Caer_Cyflen_Quest_Council03_04_FindOtherGems_Outcome1Description	You are now Senior Deputies of the Legacy Council. Everyone is counting on you to find the missing gems of the Crown of the Magister. Obviously, the Crown itself sends you hints about where to find them. Follow these leads and complete the Crown!
 Quest/&PickupQuest_01_HiddenBlade_Title	Sorak Relic
 Quest/&PickupQuest_01_HiddenBlade_01_TITLE	Find a Sorak Item
-Quest/&PickupQuest_01_HiddenBlade_01_DESCRIPTION	The Sorr-Akkath have attacked the outpost of Caer Lem in the Marches. They must have left traces, weapons, something. Search their camp in the caves. Bring back any piece of equipment that could be of Sorr-Akkath origin. Client: The Church of Einar. Reward: A vial of Stardust.
+Quest/&PickupQuest_01_HiddenBlade_01_DESCRIPTION	The Sorr-Akkath have attacked the outpost of Caer Lem in the Marches. They must have left traces, weapons, something. Search their camp in the caves. Bring back any piece of equipment that could be of Sorr-Akkath origin. Client: The Church of Einar. Reward: A vial of Stardust. Recommended level: 4
 Quest/&PickupQuest_01_HiddenBlade_01_OUTCOME	You found a mysterious blade with an engraving in no language known on Solasta. This might be a Sorr-Akkath item. Bring it back to the quest board in Caer Cyflen.
 Quest/&PickupQuest_01_HiddenBlade_02_TITLE	Return to the Quest Board
 Quest/&PickupQuest_01_HiddenBlade_02_DESCRIPTION	You need to bring the blade back; it might be what the Church of Einar is hoping for.
 Quest/&PickupQuest_01_HiddenBlade_02_OUTCOME	You returned the blade to Dalon Lark; it will be studied by the Church of Einar.
 Quest/&PickupQuest_02_GoblinCulture_Title	Goblin Culture
 Quest/&PickupQuest_02_GoblinCulture_01_TITLE	Search the Goblin Caves in Caer Lem
-Quest/&PickupQuest_02_GoblinCulture_01_DESCRIPTION	You encountered goblins in the caves at Caer Lem. There are scholars at the Tower of Knowledge who believe that the goblins have evolved a written language, so go back there, find a potential example of goblin writing, and bring it back to a quest board. Client: The Tower of Knowledge. Reward: A gem worth 300 gp, five level-3 spell scrolls.
+Quest/&PickupQuest_02_GoblinCulture_01_DESCRIPTION	You encountered goblins in the caves at Caer Lem. There are scholars at the Tower of Knowledge who believe that the goblins have evolved a written language, so go back there, find a potential example of goblin writing, and bring it back to a quest board. Client: The Tower of Knowledge. Reward: A gem worth 300 gp, five level-3 spell scrolls. Recommended level: 3
 Quest/&PickupQuest_02_GoblinCulture_01_OUTCOME1	You found a painted hide bearing strange writings in a goblin language - perhaps proof that the goblins have a written tradition. Bring it back to the Tower of Knowledge.
 Quest/&PickupQuest_02_GoblinCulture_02_TITLE	Meet with Maddy Greenisle
 Quest/&PickupQuest_02_GoblinCulture_02_DESCRIPTION	Bring the painted hide back to Maddy Greenisle.
 Quest/&PickupQuest_02_GoblinCulture_02_OUTCOME1	You returned the painted hide to Maddy Greenisle. The Tower of Knowledge is grateful.
 Quest/&PickupQuest_03_AncientKnowledge_Title	Ancient Knowledge
 Quest/&PickupQuest_03_AncientKnowledge_01_TITLE	Search the Tirmarian Tower
-Quest/&PickupQuest_03_AncientKnowledge_01_DESCRIPTION	Proof has been found of the presence of Tirmarian inquisitors near the tower at Caer Lem. Return to the tower and search the library for a book titled Chronicles of the Inquisition. Client: The Church of Einar. Reward: A Ring of the Lightbringers.
+Quest/&PickupQuest_03_AncientKnowledge_01_DESCRIPTION	Proof has been found of the presence of Tirmarian inquisitors near the tower at Caer Lem. Return to the tower and search the library for a book titled Chronicles of the Inquisition. Client: The Church of Einar. Reward: A Ring of the Lightbringers. Recommended level: 4
 Quest/&PickupQuest_03_AncientKnowledge_01_OUTCOME	You found the book required by the Church of Einar.
 Quest/&PickupQuest_03_AncientKnowledge_02_TITLE	Return to Dalon Lark
 Quest/&PickupQuest_03_AncientKnowledge_02_DESCRIPTION	Bring the book back to Dalon Lark in Caer Cyflen.
 Quest/&PickupQuest_03_AncientKnowledge_02_OUTCOME	Dalon Lark was very happy to recover this rare book.
 Quest/&PickupQuest_04_ResearchCrown_Title	Origins of the Crown
 Quest/&PickupQuest_04_ResearchCrown_01_TITLE	Study the Crown's Pedestal
-Quest/&PickupQuest_04_ResearchCrown_01_DESCRIPTION	Return to the tower of magic where you found the Crown. Make a note of every piece of writing on the Crown's pedestal for research. Client: The Legacy Council. Reward: One Handy Haversack.
+Quest/&PickupQuest_04_ResearchCrown_01_DESCRIPTION	Return to the Manacalon ruin where you found the Crown. Note all the writing on the Crown's pedestal for research. Client: The Legacy Council. Reward: One Handy Haversack. Recommended level: 6
 Quest/&PickupQuest_04_ResearchCrown_01_OUTCOME	You copied all the symbols and texts from the pedestal.
 Quest/&PickupQuest_04_ResearchCrown_02_TITLE	Meet with Captain Ironshell
 Quest/&PickupQuest_04_ResearchCrown_02_DESCRIPTION	Return your notes to Captain Verissa Ironshell. The Council will study them.
 Quest/&PickupQuest_04_ResearchCrown_02_OUTCOME	You returned the notes from the Crown's pedestal to Captain Verissa Ironshell. The Council was pleased.
 Quest/&PickupQuest_05_Collector_Title	The Collector
 Quest/&PickupQuest_05_Collector_01_TITLE	Return to the Imperial Outpost
-Quest/&PickupQuest_05_Collector_01_DESCRIPTION	Scavengers have reported that the sigil of the Imperial First Legion has been found on the ruined outpost you found near Coparann. Return there and find any item that might have been part of the equipment of a soldier of this legion. Client: The Arcaneum. Reward: One pearl worth 100 gp, a pair of Bracers of Sparkles.
+Quest/&PickupQuest_05_Collector_01_DESCRIPTION	Scavengers have reported that the sigil of the Imperial First Legion has been found on the ruined outpost you found near Coparann. Return there and find any item that might have been part of the equipment of a soldier of this legion. Client: The Arcaneum. Reward: One pearl worth 100 gp, a pair of Bracers of Sparkles. Recommended level: 6
 Quest/&PickupQuest_05_Collector_01_OUTCOME	You searched the ruined Imperial outpost and found an Imperial insignia of the First Legion.
 Quest/&PickupQuest_05_Collector_02_TITLE	Meet with Halman Summer
 Quest/&PickupQuest_05_Collector_02_DESCRIPTION	Return the insignia to Halman Summer.
 Quest/&PickupQuest_05_Collector_02_OUTCOME	You returned the insignia to the Antiquarians.
 Quest/&PickupQuest_06_GhostsOfTheEmpire_Title	Ghosts of the Empire
 Quest/&PickupQuest_06_GhostsOfTheEmpire_01_TITLE	Return to the Imperial Prison
-Quest/&PickupQuest_06_GhostsOfTheEmpire_01_DESCRIPTION	Return to the Manacalon dungeons with the key that Lord Danantar hopes will give you access to a high-security area. He thinks that Erathliel Fliann, a well-loved sylvan elf and a real thorn in the side of Manacalon, was brought to this secret Imperial prison. She might have left traces of her passage in this dark place. Client: The Circle of Danantar. Reward: one emerald worth 100 gp, Sylvan Armor.
+Quest/&PickupQuest_06_GhostsOfTheEmpire_01_DESCRIPTION	Return to the Manacalon dungeons with the key that Lord Danantar hopes will give you access to a high-security area. He thinks that Erathliel Fliann, a well-loved sylvan elf and a real thorn in the side of Manacalon, was brought to this secret Imperial prison. She might have left traces of her passage in this dark place. Client: The Circle of Danantar. Reward: one emerald worth 100 gp, Sylvan Armor. Recommended level: 6
 Quest/&PickupQuest_06_GhostsOfTheEmpire_01_OUTCOME	Thanks to the key, you were able to search the whole prison and find what you were looking for.
 Quest/&PickupQuest_06_GhostsOfTheEmpire_02_TITLE	Find the Secret Entrance
 Quest/&PickupQuest_06_GhostsOfTheEmpire_02_DESCRIPTION	Find where to insert the key to access the inner prison. There might be something in the first corridor.
 Quest/&PickupQuest_06_GhostsOfTheEmpire_02_OUTCOME	You found a rune on the wall and the key fit perfectly. You opened up a way inside the prison.
 Quest/&PickupQuest_07_RunsInTheFamily_Title	Runs in the Family
-Quest/&PickupQuest_07_RunsInTheFamily_01_TITLE	Return to the Tower of Abjuration
-Quest/&PickupQuest_07_RunsInTheFamily_01_DESCRIPTION	Lord Danantar wants you to retrieve an item from the ruins around Adrasteia's Tower. He believes one of his ancestors lived there. Find anything that proves this and bring it back. Client: The Circle of Danantar. Reward: One pearl worth 100 gp, three level-5 spell scrolls.
+Quest/&PickupQuest_07_RunsInTheFamily_01_TITLE	Return to the Fortress of the Shield
+Quest/&PickupQuest_07_RunsInTheFamily_01_DESCRIPTION	Lord Danantar wants you to retrieve an item from the ruins around Adrasteia's Fortress. He believes one of his ancestors lived there. Find anything that proves this and bring it back. Reward: One pearl worth 100 gp, three level-5 spell scrolls. Recommended level: 8
 Quest/&PickupQuest_07_RunsInTheFamily_01_OUTCOME	You found a letter hidden in a dagger sheath inside one of the old buildings.
 Quest/&PickupQuest_07_RunsInTheFamily_02_TITLE	Meet with Joriel Foxeye
 Quest/&PickupQuest_07_RunsInTheFamily_02_DESCRIPTION	Bring the letter back to Joriel Foxeye so she can transmit it to Lord Danantar.
 Quest/&PickupQuest_07_RunsInTheFamily_02_OUTCOME	Lord Danantar was very pleased with your find, and rewarded you.
 Quest/&PickupQuest_12_HallowedDead_Title	Halls of the Hallowed Dead
 Quest/&PickupQuest_12_HallowedDead_01_TITLE	Check the Hall
-Quest/&PickupQuest_12_HallowedDead_01_DESCRIPTION	The Ceannard is looking for heroes to investigate the Hall of the Hallowed Dead. Regular patrols of the Valley have shown that someone or something entered the Halls, and everyone in the Vale of Coparann is reluctant to enter the Halls. Find what is going on there.
+Quest/&PickupQuest_12_HallowedDead_01_DESCRIPTION	The Ceannard is looking for heroes to investigate the Halls of the Hallowed Dead. Regular patrols of the valley have shown that someone or something entered the Halls, and everyone in the Vale of Coparann is reluctant to enter the Halls. Find what is going on there.
 Quest/&PickupQuest_12_HallowedDead_01_OUTCOME	You entered and visited the Halls and found that they were infested with the undead. You had to destroy them. The place is now secure again.
 Quest/&PickupQuest_12_HallowedDead_02_TITLE	Return to the Ceannard
 Quest/&PickupQuest_12_HallowedDead_02_DESCRIPTION	Return to the Ceannard to tell him that the place is secure, and collect your reward.
@@ -1078,8 +1078,8 @@ Quest/&Quest_Background_Lawkeeper_MeetStigAtPalace_Outcome1Description	You talke
 Quest/&Quest_Background_Lawkeeper_Suspect2Description	Garth is a notorious drunk. Find him at the Gravekeep's Cask, and don't let him scold you. Insist if need be.
 Quest/&PickupQuest_08_MagisterAmulet_Title	The Magister's Amulet
 Quest/&PickupQuest_08_MagisterAmulet_01_TITLE	Find the Amulet
-Quest/&PickupQuest_08_MagisterAmulet_01_DESCRIPTION	The Arcaneum experts believe an amulet belonging to the Magister might be located inside his old tower. Search the tower's library and return the amulet. Client: The Arcaneum. Reward: four gems worth 50 gp, a ring of resistance to necrotic damage.
-Quest/&PickupQuest_08_MagisterAmulet_01_OUTCOME	You found the amulet inside the tower of magic.
+Quest/&PickupQuest_08_MagisterAmulet_01_DESCRIPTION	The Arcaneum experts believe an amulet belonging to the Magister might be located inside the Manacalon ruin where you found the Crown. Search the tower's library and return the amulet. Client: The Arcaneum. Reward: four gems worth 50 gp, a ring of resistance to necrotic damage. Recommended level: 6
+Quest/&PickupQuest_08_MagisterAmulet_01_OUTCOME	You found the amulet inside the Manacalon ruin.
 Quest/&PickupQuest_08_MagisterAmulet_02_TITLE	Meet the Arcaneum
 Quest/&PickupQuest_08_MagisterAmulet_02_DESCRIPTION	Bring the amulet to Heddlon Surespell of the Arcaneum.
 Quest/&PickupQuest_08_MagisterAmulet_02_OUTCOME	You returned the amulet to the Arcaneum, who were very pleased.
@@ -1118,7 +1118,7 @@ Quest/&Aer_Elai_Final_Quest_08_Defeat_Sorrak_Outcome1Description	You defeated th
 Quest/&Aer_Elai_Final_Quest_09_Push_Back_SorrakTitle	Hold the Line!
 Quest/&Aer_Elai_Final_Quest_09_Push_Back_SorrakDescription	Defend the Magister while he is closing the Rift.
 Quest/&Aer_Elai_Final_Quest_09_Push_Back_Sorrak_Outcome1Description	You protected the Magister and allowed the Rift to be sealed forever!
-Quest/&Quest_Background_Lowlife_MisayeHiddenSign	Misaye is laughing! Those dice tell the faithful it’s a Temple of Misaye, the fickle lady of luck!
+Quest/&Quest_Background_Lowlife_MisayeHiddenSign	Misaye is laughing! Those dice tell the faithful it's a Temple of Misaye, the fickle lady of luck!
 Quest/&Quest_Background_Spy_WaitForNextDayTitle	Wait for the Next Day
 Quest/&Quest_Background_Spy_WaitForNextDayDescription	As soon as the document is discovered by the New Empire intelligence, they will blackmail Belmont. He should be leaving very soon, but you should at least wait the night.
 Quest/&Quest_Background_Spy_WaitForNextDay_Outcome1Description	You waited one night to allow time for Imperial intelligence to find the document and blackmail Belmont.
@@ -1131,8 +1131,111 @@ Quest/&Quest_Background_Lawkeeper_SearchTitle	Search the Hideout
 Quest/&PickupQuest_06_GhostsOfTheEmpire_03_TITLE	Find the Sylvan Rebel Journal
 Quest/&PickupQuest_06_GhostsOfTheEmpire_03_DESCRIPTION	You are in the prison. Now search for the writings of the sylvan rebel.
 Quest/&PickupQuest_06_GhostsOfTheEmpire_03_OUTCOME	You found Fliann's journal!
-Quest/&Caer_Cyflen_Merton_Quest_ReturnSwordTitle	Return the sword to Merton
-Quest/&Caer_Cyflen_Merton_Quest_ReturnSwordDescription	Bitterroot gave you a sword to return to Arwin Merton in Caer Cyflen, along with a peculiar message to convey. Go there and talk to the notorious dweller of the Gravekeep's Cask. NOT AVAILABLE IN EARLY ACCESS.
+Quest/&Caer_Cyflen_Merton_Quest_ReturnSwordTitle	Return the Sword to Merton
+Quest/&Caer_Cyflen_Merton_Quest_ReturnSwordDescription	Bitterroot gave you a sword to return to Arwin Merton in Caer Cyflen, along with a peculiar message to convey. Go there and talk to the notorious regular at the Gravekeep's Cask.
 Quest/&Caer_Cyflen_Merton_Quest_ReturnSword_Outcome1Description	You brought Arwin Merton his sword. He seemed surprised and confused. Maybe you'll learn more about his story, after all.
 Quest/&Caer_Cyflen_Merton_Quest_Patience_Outcome2Description	You refuse to play any part in Bitterroot's story with Arwin Merton.
 Quest/&Caer_Cyflen_Quest_Council03_04_FindOtherGems_Outcome1Description_EA	The story ends here for the Early Access version of the game.
+Quest/&Caer_Cyflen_Quest_Council04_Title	The Missing Piece
+Quest/&Caer_Cyflen_Quest_Council04_01_ReturnToTomTitle	Return to the Manacalon Ruin
+Quest/&Caer_Cyflen_Quest_Council04_01_ReturnToTomDescription	The Crown seems to want you to return to the Manacalon Ruin. It's unclear, but it's worth checking out.
+Quest/&Caer_Cyflen_Quest_Council04_01_ReturnToTom_Outcome1Description	You returned to the ruin but nothing happened. It made it clear to you that you could not complete the quest.
+Quest/&Caer_Cyflen_Quest_Council04_02_ReportToCouncilTitle	Report to the Council
+Quest/&Caer_Cyflen_Quest_Council04_02_ReportToCouncilDescription	It seems your quest cannot be completed; you cannot lie to the Council about it. Return to Caer Cyflen and report the situation.
+Quest/&Caer_Cyflen_Quest_Council04_02_ReportToCouncil_Outcome1Description	You told the Legacy Council that you did not have a clue where to find the remaining gems, and they threatened to take to Crown off of you. 
+Quest/&Caer_Cyflen_Quest_Council04_03_WaitTheNightTitle	Take a Long Rest
+Quest/&Caer_Cyflen_Quest_Council04_03_WaitTheNightDescription	The Council will reconvene tomorrow and tell you their decision. Wait for the next day and return to the Council Hall.
+Quest/&Caer_Cyflen_Quest_Council04_03_WaitTheNight_Outcome1Description	You slept at the Inn and nothing special happened.
+Quest/&Caer_Cyflen_Quest_Council04_03_WaitTheNight_Outcome2Description	You slept at the residence, and you were attacked by Soraks!
+Quest/&Caer_Cyflen_Quest_Council04_04_TalkToHeddlonSurespellTitle	Talk to Heddlon Surespell
+Quest/&Caer_Cyflen_Quest_Council04_04_TalkToHeddlonSurespellDescription	Captain Ironshell told you that your quarters at the residence were attacked by Soraks! Heddlon Surespell warned you, but how? Go find him and confront him.
+Quest/&Caer_Cyflen_Quest_Council04_04_TalkToHeddlonSurespell_AfterAttackTitle	Talk to Heddlon Surespell
+Quest/&Caer_Cyflen_Quest_Council04_04_TalkToHeddlonSurespell_AfterAttackDescription	Heddlon Surespell told you to avoid the residence; it is very suspicious. Go find him and confront him.
+Quest/&Caer_Cyflen_Quest_Council04_04_TalkToHeddlonSurespell_AfterAttack_Outcome1Description	Surespell was elusive as always, simply pretending to have insights about a possible threat.
+Quest/&Caer_Cyflen_Quest_Council04_03b_GoToCouncilTitle	No Way Back!
+Quest/&Caer_Cyflen_Quest_Council04_03b_GoToCouncilDescription	Go to the Council to learn about their decision. BEWARE: After this, you will be unable to complete optional quests. Make sure you have finished all your tasks and are ready for the game's final chapter!
+Quest/&Caer_Cyflen_Quest_Council04_03b_GoToCouncil_Outcome1Description	Before you were able to exit the Gravekeep's Cask, Captain Ironshell caught you and told you about an attack on your quarters at the residence!
+Quest/&Caer_Cyflen_Quest_Council04_05_ReturnToTheCouncil_Outcome1Description	You returned to the Legacy Council and heard its verdict. Alas, they took the Crown of the Magister off of you, to secure it in the Temple of Einar.
+Quest/&Caer_Cyflen_Quest_Council04_06_CheckEarcornTitle	The Dark Cult
+Quest/&Caer_Cyflen_Quest_Council04_06_CheckEarcornDescription	Talk to Halman
+Quest/&Caer_Cyflen_Quest_Council04_06_CheckEarcorn_Outcome1Description	Halman Summer told you about a possible Coven of Arivad in a nearby village. Considering the recent actions of the Soraks, it may be an outpost for their operations in the capital city. 
+Quest/&Caer_Cyflen_Quest_Council04_06_CheckEarcorn_Outcome2Description	Halman Summer told you about a possible Coven of Arivad in a nearby village. Considering the recent actions of the Soraks, it may be an outpost for their operations in the capital city. 
+Quest/&Caer_Cyflen_Quest_Council04_07_EarcornTitle	Go to Earcorn
+Quest/&Caer_Cyflen_Quest_Council04_07_EarcornDescription	Take the road again and go to Earcorn
+Quest/&Caer_Cyflen_Quest_Council04_07_Earcorn_Outcome1Description	You arrived in Earcorn, a little farming village that looks pretty mundane.
+Quest/&Caer_Cyflen_Quest_Council04_08_TracksTitle	Search Earcorn
+Quest/&Caer_Cyflen_Quest_Council04_08_TracksDescription	Search for clues about possible cultist activity.
+Quest/&Caer_Cyflen_Quest_Council04_08_Tracks_Outcome1Description	You found suspicious tracks in the village… and their owners!
+Quest/&Caer_Cyflen_Quest_Council04_09_FightSoraksTitle	Fight the Soraks!
+Quest/&Caer_Cyflen_Quest_Council04_09_FightSoraksDescription	The place is indeed full of Arivad cultists and Soraks - stay alive!
+Quest/&Caer_Cyflen_Quest_Council04_09_FightSoraks_Outcome1Description	You were attacked by cultists and Soraks. They were expecting you; this really felt like a trap!
+Quest/&Caer_Cyflen_Quest_Council04_10_ReturnToCyflenTitle	Return to Caer Cyflen
+Quest/&Caer_Cyflen_Quest_Council04_10_ReturnToCyflenDescription	Quickly return to the capital and find Halman Summer. Though, if he's responsible for this setup, he's probably already long gone.
+Quest/&Caer_Cyflen_Quest_Council04_10_ReturnToCyflen_Outcome1Description	You returned to the city, only to find it in turmoil!
+Quest/&Caer_Cyflen_Quest_Council04_11_FindHalmanTitle	Find Halman Summer
+Quest/&Caer_Cyflen_Quest_Council04_11_FindHalmanDescription	Caer Cyflen is full of soldiers! Something happened while you were away at Earcorn. You still have to know if Halman Summer is a traitor. Search the city for information.
+Quest/&Caer_Cyflen_Quest_Council04_11_FindHalman_Outcome1Description	You did not find Halman Summer but encountered Heddlon Surespell who told you to ask Carran about the situation.
+Quest/&Caer_Cyflen_Quest_Council04_12_FindCarranTitle	Go to the Council Hall
+Quest/&Caer_Cyflen_Quest_Council04_12_FindCarranDescription	Go to the Legacy Council Hall and find Carran.
+Quest/&Caer_Cyflen_Quest_Council04_12_FindCarran_Outcome1Description	Carran told you that Halman Summer had a house in town.
+Quest/&Caer_Cyflen_Quest_Council04_13_SearchHalmansHouseTitle	Search Halman's House
+Quest/&Caer_Cyflen_Quest_Council04_13_SearchHalmansHouseDescription	Go to Halman's family house near the Circle of Danantar's HQ and search it.
+Quest/&Caer_Cyflen_Quest_Council04_13_SearchHalmansHouse_Outcome1Description	You found Halman Summer's house and his dark secrets: he was indeed a traitor and a cultist of Arivad!
+Quest/&Caer_Cyflen_Quest_Council03_05_FourGemsTitle	Find the Next Gem
+Quest/&Caer_Cyflen_Quest_Council03_05_FourGemsDescription	You have found the fourth gem of the Crown. Continue the quest.
+Quest/&Caer_Cyflen_Quest_Council03_05_FourGems_Outcome1Description	You found the fifth gem of the Crown!
+Quest/&Caer_Cyflen_Quest_Council04_14_TellCarranTitle	Bring the Documents to Carran
+Quest/&Caer_Cyflen_Quest_Council04_14_TellCarranDescription	Tell Carran what you found out about Halman Summer. The Council must act immediately!
+Quest/&Caer_Cyflen_Quest_Council04_14_TellCarran_Outcome1Description	Talking to Carran, you realized the poisoning of the Tower of Knowledge delegation was a plot to infiltrate the Temple of Einar!
+Quest/&Caer_Cyflen_Quest_Council04_15_GoToTempleTitle	Rush to the Temple
+Quest/&Caer_Cyflen_Quest_Council04_15_GoToTempleDescription	Rush to the temple and find what's going on.
+Quest/&Caer_Cyflen_Quest_Council04_15_GoToTemple_Outcome1Description	You ran to the Temple of Einar and found Beric Sunblaze.
+Quest/&Caer_Cyflen_Quest_Council04_16_CheckCrownTitle	Talk to Marshal Sunblaze
+Quest/&Caer_Cyflen_Quest_Council04_16_CheckCrownDescription	Ask Marshal Sunblaze what's going on.
+Quest/&Caer_Cyflen_Quest_Council04_16_CheckCrown_Outcome1Description	Marshal Sunblaze told you that the Tower of Knowledge people were in the main dispensary.
+Quest/&Caer_Cyflen_Quest_Council04_17_FightTitle	Fight the Infiltrators!
+Quest/&Caer_Cyflen_Quest_Council04_17_FightDescription	As you expected, the people from the Tower of Knowledge are working with the Soraks! Even Morden Kyre, the highly discreet assistant, is one of them!
+Quest/&Caer_Cyflen_Quest_Council04_17_Fight_Outcome1Description	You got rid of the infiltrators, including Morden Kyre, the highly discreet Assistant to Dean Faisech. 
+Quest/&Caer_Cyflen_Quest_Council04_18_FindTheCrownTitle	Find the Crown!
+Quest/&Caer_Cyflen_Quest_Council04_18_FindTheCrownDescription	The infiltrators are in the temple! Find the Crown before them!
+Quest/&Caer_Cyflen_Quest_Council04_18_FindTheCrown_Outcome1Description	You found out that the infiltrators had already stolen the Crown of the Magister and escaped through a hidden secret passage in the safe room!
+Quest/&Caer_Cyflen_Quest_Council04_19_FightInfiltratorsTitle	Stop the Infiltrators
+Quest/&Caer_Cyflen_Quest_Council04_19_FightInfiltratorsDescription	You found the infiltrators! They're trying to get away with the Crown through the Major Gate! Stop them at all costs!
+Quest/&Caer_Cyflen_Quest_Council04_19_FightInfiltrators_Outcome1Description	You weren't able to stop the infiltrators in time! They got away with the Crown!
+Quest/&Caer_Cyflen_Quest_Council04_20_TakeLongRestTitle	Take a Long Rest
+Quest/&Caer_Cyflen_Quest_Council04_20_TakeLongRestDescription	You made an incredible discovery. Princess Ceiwad Silverflower is a dragon in disguise! Just like the masters of the Manacalon Arcaneum, she's hiding her powers by taking the form of an elf. She helped you kill the remaining infiltrators and has tasked you with stopping the Soraks' plans. Take a long rest in the time stasis bubble, and use the Major Gate to enter the Aer Elai, the heart of the Badlands, and reach the Rift's location to prevent a second Cataclysm.
+Quest/&Caer_Cyflen_Quest_Council04_20_TakeLongRest_Outcome1Description	You took a long rest and are ready to dive into the heart of the Badlands.
+Quest/&Caer_Cyflen_Quest_Council04_21_UseTheMajorGateTitle	Use the Major Gate
+Quest/&Caer_Cyflen_Quest_Council04_21_UseTheMajorGateDescription	This is it. The Major Gate will take you to the point of no return: the Aer Elai. Once there, you cannot go back, and you'll have to stop the Soraks.
+Quest/&Caer_Cyflen_Quest_Council04_21_UseTheMajorGate_Outcome1Description	You took the Major Gate and teleported into the Aer Elai.
+Quest/&PickupQuest_HickoryCorner_01_TITLE	Find the Imperial Outpost
+Quest/&PickupQuest_HickoryCorner_01_DESCRIPTION	In the Cradle of Fire, you saw an ancient map of the Manacalon Empire, showing the place that is now known as Hickory Corner Wood. There was a military building there. Find out if any archeological treasure remains and bring it back for the Tower of Knowledge to study. Reward: a pair of Gloves of Missile Snaring. Recommended level: 8
+Quest/&PickupQuest_HickoryCorner_01_OUTCOME	You found an Imperial Aquila and brought it back.
+Quest/&PickupQuest_HickoryCorner_Title	Hickory Corner Wood
+Quest/&PickupQuest_Bitterroot_00_Title	Bitterroot's Treasure Map
+Quest/&PickupQuest_Bitterroot_00_Quest_Title	Find the Silent Whisper Base
+Quest/&PickupQuest_Bitterroot_00_Quest_Description	Bitterroot gave you this map and told you the Arcaneum wanted the place to be explored as it used to be a Silent Whisper base. It's now up to you to search this area. Return any archeological items that might be of interest to the Arcaneum. You don't know how they'd reward you exactly, but it would definitely improve your relationship. Recommended level: 6
+Quest/&Caer_Cyflen_Merton2_Quest_MainTitle	The First Scavenger
+Quest/&Caer_Cyflen_Merton_Quest_TalkToMertonTitle	Talk to Arwin Merton
+Quest/&Caer_Cyflen_Merton_Quest_TalkToMertonDescription	Ask Merton where he got his reputation.
+Quest/&Caer_Cyflen_Merton_Quest_TalkToMerton_Outcome1Description	You talked to Arwin Merton and he admitted to having been one of the first scavengers, but he sounded bitter and paranoid. There's probably not much to expect from him.
+Quest/&Caer_Cyflen_Merton_Quest_TalkToMerton_Outcome2Description	You did not talk to Arwin Merton about his reputation.
+Quest/&KillRazan_Title	Shadow of the Defiler
+Quest/&Secondary_KillRazan_Quest_01_Find_DefilerTitle	Find Razan and destroy him!
+Quest/&Secondary_KillRazan_Quest_01_Find_DefilerDescription	Adrasteia asked you to find the defiler who nests nearby her tower. Return to the ruins outside the Fortress of the Shield, find the tomb where Razan placed the remains of his family to lure him, and put an end to his existence.
+Quest/&Secondary_KillRazan_Quest_01_Find_Defiler_Outcome1Description	You kept your promise to Adrasteia and destroyed Razan.
+Quest/&CheckTomb_Description	This tomb seems out of place, like it was brought here after the Cataclysm.
+Quest/&PickupQuest_LavaForest_01_Title	Search the Lava Forest
+Quest/&PickupQuest_LavaForest_01_Description	The lava forest you describe deep in the Badlands might be located on the frontline of the First Expansion era of the Manacalon Empire. You might be able to find remnants of pre-Imperial dwarven culture somewhere. Return there and search any ruins of buildings, and bring back anything tied to this era. Client: Antiquarians. Reward: A gem worth 500 gp and a Dagger +2. Recommended level: 8
+Quest/&PickupQuest_LavaForest_01_Outcome	You found a mysterious warhammer that seems to predate the Imperial Expansion. 
+Quest/&PickupQuest_LavaForest_00_Title	Wartime Treasure
+Quest/&Conjuration_Quest_Arena_00b_Start2ndRoundTitle	Get Ready for the Next Battle
+Quest/&Conjuration_Quest_Arena_00b_Start2ndRoundDescription	It looks like you have no choice but to activate the column again. More of these monsters will probably spawn out of nowhere.
+Quest/&Conjuration_Quest_Arena_00b_Start2ndRound_Outcome1Description	This battle was tougher than the previous ones! When will it stop?
+Quest/&Conjuration_Quest_Arena_01b_Start3rdRoundTitle	Get Ready for the Next Battle
+Quest/&Conjuration_Quest_Arena_01b_Start3rdRoundDescription	Things are getting worse every time, but now you seem to have a way out. You could also continue fighting.
+Quest/&Conjuration_Quest_Arena_03b_LeaveArenaAfter4thRoundTitle	Leave the Arena
+Quest/&Conjuration_Quest_Arena_03b_LeaveArenaAfter4thRoundDescription	You have done enough to get away from this place. Find the gem!
+Quest/&Conjuration_Quest_Arena_03b_LeaveArenaAfter4thRound_Outcome1Description	You finally exited this insane battle arena.
+Quest/&Tutorial_04_Quest_Stealth_EnterSecondCourtyardDescription	You're almost there. According to Liam, there is an access point in the next courtyard if you can cross the fountain and pass the quartermaster.
+Quest/&Tutorial_04_Quest_Stealth_EnterSecondCourtyard_Outcome1Description	You have entered the final courtyard and gained access to the window near the treasure room.

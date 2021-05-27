@@ -1,0 +1,273 @@
+Feedback/&AbilityCheckConsoleAnyAdvantageLine	{0} tira una {1} prova di caratteristica contro CD {2}, tira {3} {4}, {5}
+Feedback/&AbilityCheckConsoleAnyAdvantageNoModifierLine	{0} tira una {1} prova di caratteristica contro CD {2}, tira {3} {4}
+Feedback/&AbilityCheckConsoleLine	{0} tira una {1} prova di caratteristica contro CD {2}, tira {3} = {4}
+Feedback/&AbilityCheckConsoleNoModifierLine	{0} tira una {1} prova di caratteristica contro CD {2}, tira {3}
+Feedback/&AbilityCheckFailedFormat	Fallito
+Feedback/&AbilityCheckFailureNarrationLine	{0} check: errore!
+Feedback/&AbilityCheckFailureOutcome	{0} (errore)
+Feedback/&AbilityCheckSuccessNarrationLine	{0} check: successo!
+Feedback/&AbilityCheckSuccessOutcome	{0} (successo)
+Feedback/&ActivatePowerLine	{0} attiva l'alimentazione {1}
+Feedback/&ActivatePowerWithChanelDivinityLine	{0} canali divinità per attivare {1}
+Feedback/&ActivatePowerWithSpellSlotLine	{0} si attiva {1} con uno slot incantesimo di livello {2}
+Feedback/&AdditionalDamageArcaneFuryFormat	Furia Arcana!
+Feedback/&AdditionalDamageArcaneFuryLine	{0} infligge più danni a {1} da Arcane Furry (+ {2})
+Feedback/&AdditionalDamageBestowCurseFormat	Attacco a Maledetto!
+Feedback/&AdditionalDamageBestowCurseLine	{0} infligge più danni a maledetto {1} (+ {2})
+Feedback/&AdditionalDamageBrandingSmiteFormat	Branding Smite!
+Feedback/&AdditionalDamageBrandingSmiteLine	{0} infligge più danni a {1} tramite un branding punitivo (+ {2})
+Feedback/&AdditionalDamageColossusSlayerFormat	Colossus Slayer!
+Feedback/&AdditionalDamageColossusSlayerLine	{0} infligge più danni ai feriti {1} (+ {2})
+Feedback/&AdditionalDamageDarkSlayerFormat	Assassino oscuro!
+Feedback/&AdditionalDamageDarkSlayerLine	{0} infligge più danni alle creature con Scurovisione superiore {1} (+ {2})
+Feedback/&AdditionalDamageDecisiveStrikeFormat	Sciopero decisivo!
+Feedback/&AdditionalDamageDecisiveStrikeLine	{0} avvertimenti {1} (+ {2})
+Feedback/&AdditionalDamageDivineFavorFormat	Favore divino!
+Feedback/&AdditionalDamageDivineFavorLine	{0} infligge più danni a {1} tramite il favore divino (+ {2})
+Feedback/&AdditionalDamageDivineSmiteFormat	Colpisci!
+Feedback/&AdditionalDamageDivineSmiteLine	{0} punizioni {1} (+ {2})
+Feedback/&AdditionalDamageFavoredEnemyFormat	Nemico preferito!
+Feedback/&AdditionalDamageFavoredEnemyLine	{0} infligge più danni a {1} come tipo di nemico preferito (+ {2})
+Feedback/&AdditionalDamageHuntersMarkFormat	Marchio del cacciatore!
+Feedback/&AdditionalDamageHuntersMarkLine	{0} infligge più danni a {1} come bersaglio contrassegnato (+ {2})
+Feedback/&AdditionalDamagePredatorFormat	Predatore!
+Feedback/&AdditionalDamagePredatorLine	{0} infligge più danni a {1} da un terreno più elevato (+ {2})
+Feedback/&AdditionalDamageSmiteTheHiddenDarkvisionFormat	Colpisci l'occulto!
+Feedback/&AdditionalDamageSmiteTheHiddenDarkvisionLine	{0} infligge più danni a {1}, Flagello degli Nascosti con Scurovisione (+ {2})
+Feedback/&AdditionalDamageSmiteTheHiddenShapechangerFormat	Colpisci l'occulto!
+Feedback/&AdditionalDamageSmiteTheHiddenShapechangerLine	{0} infligge più danni a {1}, Flagello degli Nascosti con mutaforma (+ {2})
+Feedback/&AdditionalDamageSneakAttackFormat	Attacco furtivo!
+Feedback/&AdditionalDamageSneakAttackLine	{0} esegue un attacco furtivo su {1} (+ {2})
+Feedback/&AdditionalDamageStrikeOblivionFormat	Strike of Oblivion!
+Feedback/&AdditionalDamageStrikeOblivionLine	{0} infligge più danni a {1} con Strike of Oblivion (+ {2})
+Feedback/&AdvantageRollDescription	Tirare con vantaggio significa tirare due d20 e mantenere il risultato migliore.
+Feedback/&AdvantageRollOutcome	con vantaggio
+Feedback/&AlreadySuccessfulCaptionFormat	Già di successo
+Feedback/&AttackConsoleLine	{0} attacca {1} con {2}, tira {3} = {4}
+Feedback/&AttackConsoleLineAnyAdvantage	{0} attacca {1} con {2}, tira {3} {4} = {5}
+Feedback/&AttackConsoleLineAnyAdvantageNoModifier	{0} attacca {1} con {2}, tira {3} {4}
+Feedback/&AttackConsoleLineAutomaticHit	{0} attacca {1} con {2} e colpisce automaticamente
+Feedback/&AttackConsoleLineNoModifier	{0} attacca {1} con {2}, tira {3}
+Feedback/&AttackFailureFormat	Attacco mancato ({0})
+Feedback/&AttackFailureOutcome	{0} (signorina)
+Feedback/&AttackOfOpportunityFormat	Attacco di opportunità
+Feedback/&AttackOfOpportunityLine	{0} esegue un attacco di opportunità contro {1}
+Feedback/&AttackSuccessFormat	Colpo d'attacco ({0})
+Feedback/&AttackSuccessOutcome	{0} (Hit)
+Feedback/&BrightLightCaption	Luce luminosa
+Feedback/&BrightLightDescription	La creatura è in piena luce.
+Feedback/&CannotHealFormat	Non posso guarire!
+Feedback/&CannotReceiveAnyHealingLine	{0} non può ricevere alcuna guarigione
+Feedback/&CheckFailureCaption	Fallimento
+Feedback/&CheckSuccessCaption	Successo
+Feedback/&ConcentrationCheckRolledAnyAdvantageLine	{0} tira per mantenere la concentrazione {1} contro DC {2}, tira {3} = {4}
+Feedback/&ConcentrationCheckRolledAnyAdvantageNoModifierLine	{0} tira per mantenere la concentrazione {1} contro DC {2}, tira {3}
+Feedback/&ConcentrationCheckRolledLine	{0} tira per mantenere la concentrazione contro DC {1}, tira {2} = {3}
+Feedback/&ConcentrationCheckRolledNoModifierLine	{0} tira per mantenere la concentrazione contro DC {1}, tira {2}
+Feedback/&ConcentrationLostLine	{0} perde la concentrazione su {1}
+Feedback/&ConditionAddedHasLine	{0} ora ha {1}
+Feedback/&ConditionAddedLine	{0} ora è {1}
+Feedback/&ConditionRemovedHasLine	{0} non ha più {1}
+Feedback/&ConditionRemovedLine	{0} non è più {1}
+Feedback/&ContestCheckConsoleBothAdvantageLine	{0} concorsi {1}, {2} contro {3}, ottiene {4} {5} contro {6} {7} {8}
+Feedback/&ContestCheckConsoleLine	{0} concorsi {1}, {2} contro {3}, tira {4} contro {5} {6}
+Feedback/&ContestCheckConsoleMainAdvantageLine	{0} concorsi {1}, {2} contro {3}, ottiene {4} {5} contro {6} {7}
+Feedback/&ContestCheckConsoleOpponentAdvantageLine	{0} concorsi {1}, {2} contro {3}, ottiene {4} contro {5} {6} {7}
+Feedback/&ContestFailure	Fallimento
+Feedback/&ContestSuccess	Successo
+Feedback/&ConversationClickTitle	Clicca per leggere
+Feedback/&ConversationRecordedLine	Conversazione registrata {0} {1}
+Feedback/&CoverFullCaption	fuori dal campo visivo
+Feedback/&CoverHalfCaption	1/2 copertina
+Feedback/&CoverThreeQuarterCaption	Copertura 3/4
+Feedback/&CriticalAbilityCheckFailureOutcome	{0} (ERRORE CRITICO)
+Feedback/&CriticalAbilityCheckOutcome	{0} (SUCCESSO CRITICO)
+Feedback/&CriticalAttackFailureOutcome	{0} (MANCANZA CRITICA)
+Feedback/&CriticalAttackFormat	Attacco critico!
+Feedback/&CriticalAttackOutcome	{0} (COLPO CRITICO)
+Feedback/&CriticalFailureFormat	Errore critico!
+Feedback/&DarknessCaption	Magica oscurità
+Feedback/&DarknessDescription	La creatura è nell'oscurità magica.
+Feedback/&DeadlyFallLine	{0} sono caduti a morte.
+Feedback/&DeathSaveAnyAdvantageConsoleLine	{0} tira un tiro salvezza sulla morte {1}: {2}
+Feedback/&DeathSaveConsoleLine	{0} tira un tiro salvezza sulla morte: {1}
+Feedback/&DeathSaveCriticalFailureFormat	{0} Errore critico
+Feedback/&DeathSaveCriticalFailureLine	{0} fallimenti del tiro salvezza aggiunti a {1}
+Feedback/&DeathSaveCriticalSuccessFormat	{0} Successo critico
+Feedback/&DeathSaveCriticalSuccessLine	{0} riguadagna 1 punto ferita e si stabilizza.
+Feedback/&DeathSaveFailureFormat	{0} Fallimento
+Feedback/&DeathSaveFailuresAddedLine	{0} fallimento del salvataggio in caso di morte aggiunto a {1}
+Feedback/&DeathSaveRegainLifeLine	Grazie a {0}, {1} viene riportato a {2} punti ferita
+Feedback/&DeathSaveSuccessAddedLine	{0} salvataggio in caso di morte riuscito aggiunto a {1}
+Feedback/&DeathSaveSuccessFormat	{0} Successo
+Feedback/&DetectedDefeatFormat	Sei stato rilevato! Usa la modalità prudente la prossima volta.
+Feedback/&DeviceAutoIdentifiedLine	Grazie ad una maggiore conoscenza di questo tipo di articolo, {0} ha individuato {1}
+Feedback/&DimLightCaption	Penombra
+Feedback/&DisadvantageRollDescription	Tirare con svantaggio significa tirare due d20 e mantenere il risultato peggiore.
+Feedback/&DisadvantageRollOutcome	con svantaggio
+Feedback/&ExperienceGainedFormat	+ {0} XP
+Feedback/&ExperienceGainedLine	{0} guadagna {1} XP
+Feedback/&FragileGroundDetectedFormat	Rilevato terreno fragile
+Feedback/&FragileGroundTrigerredFormat	Terreno fragile rotto
+Feedback/&GameAutoSavedLine	Gioco salvato automaticamente
+Feedback/&GameQuickSavedLine	Gioco salvato rapidamente
+Feedback/&GameSavedLine	Partita salvata
+Feedback/&HiddenObjectRevealedFormat	Oggetto rivelato
+Feedback/&HiddenObjectRevealedLine	{0} ha rivelato un oggetto nascosto
+Feedback/&ImmuneToConditionFormat	Immune
+Feedback/&ImmuneToDamageFormat	Immune {0}
+Feedback/&ImmuneToDamageLine	{0} è immune a {1} danni
+Feedback/&ImmuneToSpellFormat	Immune {0}
+Feedback/&ImmuneToSpellLine	{0} è immune all'incantesimo {1}
+Feedback/&InflictedDamageLine	{0} subisce danni: {1}
+Feedback/&InitiativeCaption	Iniziativa
+Feedback/&InitiativeConsoleLine	{0} lancia l'iniziativa: {1} = {2}
+Feedback/&InitiativeConsoleLineAdvantage	{0} lancia l'iniziativa {1}: {2} = {3}
+Feedback/&InitiativeFormat	Iniziativa {0}
+Feedback/&InsightAutomaticFailureLine	{0} fallisce automaticamente un controllo Insight (Wisdom): le probabilità di successo della finestra di dialogo sono nascoste.
+Feedback/&InsightAutomaticSuccessLine	{0} supera automaticamente un controllo Insight (Wisdom): vengono rivelate le probabilità di successo della finestra di dialogo.
+Feedback/&InsightCriticalFailureLine	{0} fallisce in modo critico un controllo Insight (Wisdom): le probabilità di successo della finestra di dialogo sono nascoste.
+Feedback/&InsightCriticalSuccessLine	{0} segna un successo critico su un controllo Insight (Wisdom): vengono rivelate le probabilità di successo del dialogo.
+Feedback/&InsightFailureLine	{0} non supera un controllo Insight (Wisdom): le probabilità di successo della finestra di dialogo sono nascoste.
+Feedback/&InsightSuccessLine	{0} supera un controllo Insight (Wisdom): vengono rivelate le probabilità di successo del dialogo.
+Feedback/&ItemConsumedCaption	{0} consumato
+Feedback/&ItemConsumedLine	{0} ha consumato completamente un articolo: {1}
+Feedback/&ItemGainedLine	{0} guadagna un elemento: {1}
+Feedback/&ItemSpellCastLine	e lancia l'incantesimo {0}
+Feedback/&ItemUsedLastChargeDestroyLine	Ultimo addebito speso: {0} viene distrutto
+Feedback/&ItemUsedLastChargeRollDestroyLine	Ultimo addebito speso e {1} viene tirato su d20: {0} viene distrutto
+Feedback/&ItemUsedLastChargeRollNotDestroyLine	Ultimo addebito speso e {1} viene tirato su d20: {0} viene mantenuto
+Feedback/&ItemUsedLine	{0} utilizza l'elemento {1}
+Feedback/&ItemUsedSpellCastLine	{0} utilizza l'elemento {1} e lancia l'incantesimo {2}
+Feedback/&LongRestCompletedLine	Riposo lungo completato. Unità di cibo consumate: {0}
+Feedback/&MagicalHitPointsPoolRolledLine	{0} tira un pool di {1} punti ferita per {2}
+Feedback/&MoneyGainedLine	VUOTO
+Feedback/&NeedFlamingTagFormat	Hai bisogno di un oggetto fiammeggiante
+Feedback/&ObservationFailedFormat	L'osservazione è fallita
+Feedback/&ObservationSuccessfulFormat	Osservazione riuscita
+Feedback/&OutOfAttackUsesLine	{0} ha esaurito le munizioni / gli usi per "{1}"
+Feedback/&OverConcentrationUsedLine	{0} subisce {1} danni, ma non tira per la concentrazione a causa di {2}
+Feedback/&PathFailedFormat	Nessun percorso per la destinazione!
+Feedback/&PreventedFromActingCaption	Non posso agire!
+Feedback/&PreventedFromActingHasLine	{0} ha {1} e non riesce ad agire in questo turno
+Feedback/&PreventedFromActingLine	{0} è {1} e non riesce ad agire in questo turno
+Feedback/&ReadiedActionTriggeredCaptionFormat	Azione preparata attivata
+Feedback/&ReceivedHealingFullLine	{0} è già in piena salute
+Feedback/&ReceivedHealingFromInflictedDamageFullLine	{0} recupera i punti vita dai danni inflitti
+Feedback/&ReceivedHealingFromInflictedDamageHalfLine	{0} recupera punti vita dalla metà dei danni inflitti
+Feedback/&ReceivedHealingLine	{0} è guarito {1} punti ferita
+Feedback/&ReceivedTemporaryHitPointsFailureLine	{0} non può ricevere punti ferita temporanei
+Feedback/&ReceivedTemporaryHitPointsSuccessLine	{0} ora ha {1} hit point temporanei
+Feedback/&RitualCastLine	{0} lancia l'incantesimo {1} come un rituale
+Feedback/&RollAttackCriticalFailureTitle	Signorina critica
+Feedback/&RollAttackCriticalSuccessTitle	Colpo critico
+Feedback/&RollAttackFailureTitle	Perdere
+Feedback/&RollAttackSuccessTitle	Colpire
+Feedback/&RollCheckCriticalFailureTitle	Errore critico
+Feedback/&RollCheckCriticalSuccessTitle	Successo critico
+Feedback/&RollCheckFailureTitle	Fallimento
+Feedback/&RollCheckSuccessTitle	Successo
+Feedback/&SaveCaptionFormat	{0} Salva
+Feedback/&SaveConsoleAnyAdvantageLine	{0} tira un {1} tiro salvezza contro {2} (CD {3}), tira {4} {5} = {6}
+Feedback/&SaveConsoleAnyAdvantageNoModifierLine	{0} tira un {1} tiro salvezza contro {2} (CD {3}), tira {4} {5}
+Feedback/&SaveConsoleLine	{0} tira un {1} tiro salvezza contro {2} (CD {3}), tira {4} = {5}
+Feedback/&SaveConsoleNoModifierLine	{0} tira un {1} tiro salvezza contro {2} (CD {3}), tira {4}
+Feedback/&SaveFailureOutcome	{0} Non riesce
+Feedback/&SaveSuccessFormat	Salva
+Feedback/&SaveSuccessOutcome	{0} (successo)
+Feedback/&ShortRestCompletedLine	Breve riposo completato.
+Feedback/&SleightOfHandDetectedCaptionFormat	Rilevato!
+Feedback/&SleightOfHandDetectedLine	{0} è stato rilevato da {1} durante il tentativo di furto di oggetti
+Feedback/&SleightOfHandNotEnoughRoomCaptionFormat	Inventario pieno.
+Feedback/&SleightOfHandNotEnoughRoomLine	{0} non dispone di spazio sufficiente nel proprio inventario per rubare articoli da {1}
+Feedback/&SleightOfHandNothingToStealCaptionFormat	Niente da rubare.
+Feedback/&SleightOfHandNothingToStealLine	{0} non può rubare altro da {1}
+Feedback/&SleightOfHandSuccessCaptionFormat	Successo!
+Feedback/&SleightOfHandSuccessLine	Sfida
+Feedback/&SpellcastingFailedCaption	Cast fallito!
+Feedback/&SpellcastingFailedLine	{0} non riesce a lanciare l'incantesimo {1}
+Feedback/&SpellCastLine	{0} lancia l'incantesimo {1}
+Feedback/&SpellCastSuperiorSlotLine	{0} lancia {1} con uno slot {2} di livello
+Feedback/&SpellCounteredFailLine	{0} non riesce a neutralizzare la {2} magia lanciata da {1}
+Feedback/&SpellCounteredSuccessLine	{0} contrasta la {2} magia lanciata da {1}
+Feedback/&SpellCounterFailFormat	Counter Fail!
+Feedback/&SpellCounterSuccessFormat	Counter!
+Feedback/&SpellDissipatedFailureLine	{0} non riesce a dissipare l'effetto dell'incantesimo {1} su
+Feedback/&SpellDissipatedFormat	Dissolto!
+Feedback/&SpellDissipatedOnTargetFailureLine	{0} non riesce a dissipare l'effetto dell'incantesimo {1} su {2}
+Feedback/&SpellDissipatedOnTargetSuccessLine	{0} dissolve l'effetto dell'incantesimo {1} su {2}
+Feedback/&SpellDissipatedSuccessLine	{0} dissolve l'effetto dell'incantesimo {1}
+Feedback/&SpellScribedFailure	VUOTO
+Feedback/&SpellScribedLine	{0} cerca di copiare l '{1} incantesimo in un libro degli incantesimi {2}
+Feedback/&SpellScribedSuccess	VUOTO
+Feedback/&SpellSlotsRecoveredLine	{0} recupera gli slot degli incantesimi: {1}
+Feedback/&SuccessOddsLine	Probabilità di successo: {0}
+Feedback/&TrackDetectedFormat	Tracce individuate
+Feedback/&TrapDetectedFormat	Rilevata trappola
+Feedback/&TrapDisarmedFormat	Trappola disarmata
+Feedback/&TrapDisarmFailedFormat	Disinserimento non riuscito
+Feedback/&TrapTriggeredFormat	Trappola attivata
+Feedback/&CharmedEnemyRemovedFromArea	{0} ha lasciato l'area
+Feedback/&UnlitCaption	Senza luce
+Feedback/&UnlitDescription	La creatura è spenta. I tiri per attaccare contro di essa saranno effettuati con svantaggio.
+Feedback/&CraftingAttemptedLine	{0} sta tentando di creare {1}
+Feedback/&StealthBrokenByForce	{0} è stato rivelato e non è più nascosto.
+Feedback/&StealthBrokenByEnemy	{0} è stato rilevato da {1} e non è più nascosto.
+Feedback/&StealthNotBroken	{0} è riuscito a rimanere nascosto.
+Feedback/&PartyMoneyGainedLine	Il partito guadagna {0}.
+Feedback/&FreeBrokFirst	Devi liberare Brok prima di poter riposare a lungo.
+Feedback/&AdditionalDamagePoisonFormat	Veleno!
+Feedback/&AdditionalDamagePoisonLine	{0} infligge danni da veleno aggiuntivi a {1} (+ {2}).
+Feedback/&RegenerationSuccessCaption	Rigenerare
+Feedback/&RegenerationSuccessLine	{0} rigenera i punti ferita.
+Feedback/&RegenerationFailureLine	{0} non può rigenerarsi dopo aver ricevuto {1} danni.
+Feedback/&DimLightDescription	La creatura è in penombra.
+Feedback/&MajorGateDestinationUnlocked_Title	Hai sbloccato una nuova destinazione per il teletrasporto utilizzando la rete Major Gate.
+Feedback/&AbilityScoreIncreasedValueAndMaxLine	{0} aumenta il suo punteggio {1} di {2} e il suo valore massimo di {3}.
+Feedback/&AbilityScoreIncreasedValueLine	{0} aumenta il suo punteggio {1} di {2}.
+Feedback/&AbilityScoreIncreasedMaxLine	{0} aumenta il valore massimo del punteggio {1} di {2}.
+Feedback/&ResistantToDamageLine	{0} è resistente ai danni {1} e subisce solo la metà dei danni.
+Feedback/&ResistantToDamageFormat	Resiste a {0}
+Feedback/&DamageHalvedLine	{0} consente {1} di dimezzare il danno.
+Feedback/&DamageReducedLine	{0} consente {1} di ridurre il danno di {2} punti.
+Feedback/&DamageValueLine	Uscita danni nominali: {0}
+Feedback/&VulnerableToDamageLine	{0} è vulnerabile a {1} danni e subisce danni doppi
+Feedback/&VulnerableToDamageFormat	Vulnerabile {0}
+Feedback/&RechargePowerLine	{0} ricarica la potenza di {1}
+Feedback/&SpellCastUnknownLine	{0} lancia un incantesimo
+Feedback/&SpellIdentifiedLine	{0} ha identificato l'incantesimo come {1}
+Feedback/&SpellCounteredSuccessUnknownLine	{0} contrasta l'incantesimo sconosciuto lanciato da {1}.
+Feedback/&NoRoomToConjureCreatureDescription	Non c'è spazio per evocare la creatura.
+Feedback/&AdditionalDamageBracersOfArcheryFormat	Bracciali del tiro con l'arco
+Feedback/&AdditionalDamageBracersOfArcheryLine	{0} infligge danni aggiuntivi con Bracciali del tiro con l'arco.
+Feedback/&AdditionalDamageFinisherFormat	Finisher
+Feedback/&AdditionalDamageFinisherLine	{0} infligge 1D6 danni aggiuntivi alle creature ferite.
+Feedback/&SpellComponentConsumedLine	Lanciare l'incantesimo {0} consuma l'elemento {1}.
+Feedback/&ReceivedHealingHalfFullLine	{0} è già a metà salute.
+Feedback/&AdditionalDamageDivineStrikeFormat	Colpo divino!
+Feedback/&AdditionalDamageDivineStrikeLine	{0} infligge più danni a {1} con Divine Strike (+ {2}).
+Feedback/&DamageMultiplierLine	Moltiplicatore di difficoltà: {0}
+Feedback/&BreakFreeSuccessLine	{0} si libera.
+Feedback/&BreakFreeFailureLine	{0} non riesce a liberarsi.
+Feedback/&DamageRetaliateLine	{0} si vendica a {1} con l'effetto {2}.
+Feedback/&DamageRetaliateCaption	Vendicarsi!
+Feedback/&KnockOutPreventedLine	{0} non può essere ridotto a 0 punti ferita, grazie all'effetto {1}.
+Feedback/&InstantDeathPreventedLine	{0} non può essere ucciso istantaneamente, grazie all'effetto {1}.
+Feedback/&RandomBehaviourRolledLine	{0} tira un {1} per determinare un comportamento e tira {2}:
+Feedback/&LegendaryResistanceUsedLine	{0} utilizza Legendary Resistance e cambia il risultato: {1}
+Feedback/&LegendaryResistanceUsedCaption	Resistenza leggendaria!
+Feedback/&LegendaryActionUsedLine	{0} utilizza l '{1} azione leggendaria.
+Feedback/&PartyMoneySpentLine	La festa perde {0}.
+Feedback/&IndomitableResistanceUsedLine	{0} è Indomabile e tenta di ripetere il tiro salvezza fallito.
+Feedback/&IndomitableResistanceUsedCaption	Indomabile!
+Feedback/&PowerFailureCheckedLine	{0} come {1}% di possibilità di attivare {2} e lancia {3}: {4}
+Feedback/&PowerFailureCheckedSuccessFormat	Successo!
+Feedback/&PowerFailureCheckedFailureFormat	Fallimento!
+Feedback/&PowerFailureCheckedSuccessCaption	Intervento concesso!
+Feedback/&PowerFailureCheckedFailureCaption	Intervento negato
+Feedback/&SpellCounterAttackLine	{0} utilizza {1} per contrattaccare l'incantesimo ostile.
+Feedback/&AdditionalDamagePoisonousFormat	Velenoso
+Feedback/&AdditionalDamagePoisonousLine	{0} tenta di avvelenare {1} (+ {2}).
+Feedback/&SpellMissingComponentLine	{0} manca uno dei componenti (verbale, somatico o materiale) da trasmettere {1}.
+Feedback/&GenericGadgetTitle	Oggetto
+Feedback/&Impossible_Title	Impossibile prendere questo oggetto

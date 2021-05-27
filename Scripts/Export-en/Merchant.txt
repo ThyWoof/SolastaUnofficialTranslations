@@ -16,3 +16,4 @@ Merchant/&Coparann_Atima_StoreTitle	Local Cleric of Arun
 Merchant/&CC_PriestessPakri	Priestess of Pakri
 Merchant/&CC_PriestMaraike	Priest of Maraike
 Merchant/&CC_PriestArun	Rogar Ardentfire
+Merchant/&Circe_Title	Enchantment Manuals Merchant

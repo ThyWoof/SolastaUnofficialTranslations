@@ -1,0 +1,9 @@
+RestActivity/&ArcaneRecoveryDescription	Una vez al día, cuando complete un breve descanso, puede recuperar una cantidad de espacios de hechizo gastados (máximo nivel 5) hasta la mitad de su nivel de mago, redondeado hacia arriba.
+RestActivity/&ArcaneRecoveryTitle	Recuperación arcana
+RestActivity/&AttuneItemDescription	La sintonización con un elemento accede a sus propiedades y funciones avanzadas.
+RestActivity/&AttuneItemTitle	Elemento de sintonía
+RestActivity/&LevelUpDescription	Inicie la secuencia de subida de nivel para este personaje.
+RestActivity/&LevelUpTitle	Elevar a mismo nivel
+RestActivity/&PrepareSpellsDescription	Puedes cambiar tu lista de hechizos preparados cuando termines un descanso prolongado.
+RestActivity/&PrepareSpellsTitle	Preparar hechizos
+RestActivity/&ArcaneRecoveryExecutedDescription	La activación de <b>Recuperación arcana</b> le ha permitido a {0} recuperar los siguientes espacios de hechizo:

@@ -1,0 +1,7 @@
+Voice/&Female1Title	VAZIO
+Voice/&Female2Title	VAZIO
+Voice/&Male1Title	VAZIO
+Voice/&Male2Title	VAZIO
+Voice/&Voice1Title	Voz 1
+Voice/&Voice2Title	Voz 2
+Voice/&Voice3Title	Voz 3

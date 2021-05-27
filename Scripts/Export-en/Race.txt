@@ -27,7 +27,7 @@ Race/&DwarfSurName6Title	Baerleybrew
 Race/&DwarfSurName7Title	Stoutshield
 Race/&DwarfSurNameTitle	Clan
 Race/&DwarfTitle	Dwarf
-Race/&ElfDescription	Elves are one of the most ancient dwellers on Solasta, and used to rule a powerful empire before the Cataclysm. They are naturally gifted with magic, agile, and fast. They have innate resistances and keen senses.
+Race/&ElfDescription	Elves are some of the most ancient dwellers on Solasta, and used to rule a powerful empire before the Cataclysm. They are naturally gifted with magic, agile, and fast. They have innate resistances and keen senses.
 Race/&ElfFemaleName10Title	Keavith
 Race/&ElfFemaleName11Title	Lianore
 Race/&ElfFemaleName12Title	Beriiel

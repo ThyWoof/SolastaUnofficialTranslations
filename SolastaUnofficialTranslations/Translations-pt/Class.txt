@@ -1,0 +1,14 @@
+Class/&CharacterClassSubTitle	Classe de Personagem
+Class/&CharacterRaceSubTitle	Ancestrais de Personagem
+Class/&ClericDescription	Os clérigos são os servos de sua divindade escolhida. Em troca de sua fé e serviço, eles recebem poderes milagrosos, desde que se restrinjam a seguir o credo de seu deus e realizar os rituais de sua religião.
+Class/&ClericTitle	Clérigo
+Class/&FighterDescription	Os lutadores são treinados nas artes do combate. Eles são adeptos da maioria das armas, mas geralmente optam por se especializar. Todos os lutadores podem usar armaduras, escudos e armas de longo alcance.
+Class/&FighterTitle	Lutador
+Class/&PaladinDescription	Paladinos são guerreiros de elite que fizeram juramentos sagrados inquebrantáveis ​​para combater o mal. Além de suas armas e armaduras, eles possuem poderes divinos e feitiços clericais.
+Class/&PaladinTitle	Paladino
+Class/&RangerDescription	Wanderers da selva de Solasta, rangers são sobreviventes treinados, ferozes na batalha e caçadores furtivos. Excelentes rastreadores e arqueiros, eles também têm alguma habilidade de lançar feitiços.
+Class/&RangerTitle	guarda
+Class/&RogueDescription	Rogues são versáteis em primeiro lugar. Eles usam seus talentos naturais para dominar várias habilidades e encontrar sua própria maneira de prosperar. Geralmente engenhosos, eles são conhecidos por sua astúcia e capacidade de lançar ataques furtivos mortais.
+Class/&RogueTitle	Vampiro
+Class/&WizardDescription	Os magos passam suas vidas estudando magia, aprendendo cada vez mais feitiços poderosos e maravilhosos. Apesar de sua fraqueza no combate físico, suas habilidades mágicas os tornam inimigos perigosos.
+Class/&WizardTitle	bruxo

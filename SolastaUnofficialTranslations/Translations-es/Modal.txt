@@ -1,0 +1,162 @@
+Modal/&AssertionFailedTtitle	Error de aserción
+Modal/&CampaignSelectionButtonTitle	Seleccione
+Modal/&CampaignSelectionTitle	Campaña
+Modal/&CampCaptionMultipleHoursFormat	El grupo va a acampar durante {0} horas.
+Modal/&CampCaptionSingleHourFormat	El grupo va a acampar durante una hora.
+Modal/&CancelButtonTitle	Cancelar
+Modal/&CancelPrepareDescription	Cancele cualquier cambio realizado en este panel.
+Modal/&CancelPrepareTitle	Cancelar
+Modal/&CharacterReviveMessageCancel	Cancelar
+Modal/&CharacterReviveMessageContent	Esta opción tiene un tiempo de activación prolongado y puede invalidar otras opciones basadas en el tiempo. ¿Quieres continuar?
+Modal/&CharacterReviveMessageTitle	Advertencia
+Modal/&CharacterReviveMessageValidate	Aceptar
+Modal/&CharacterReviveModalHeaderPluralTitle	Revivir a todos los personajes muertos
+Modal/&CharacterReviveModalHeaderSingularTitle	Revivir personaje muerto
+Modal/&CharacterReviveModalSubTitle	No puedes continuar la aventura con uno o más personajes muertos. Seleccione una opción.
+Modal/&CharacterReviveModalTooLateFormat	Es demasiado tarde para utilizar esta opción en {0}.
+Modal/&DefeatDescription	La fiesta no tenía forma de revivir a sus muertos: ¡se acabó el juego! Intente dar pergaminos de Revivify a los personajes que puedan usarlos.
+Modal/&DefeatTitle	Juego terminado
+Modal/&DeleteButtonTitle	Borrar
+Modal/&EquipementSelectionDescription	Seleccione sus opciones de equipo preferidas.
+Modal/&EquipementSelectionTitle	Elección de equipo
+Modal/&ErrorModalContinuePlayingTitle	Continuar jugando
+Modal/&ErrorModalCopyToClipboardTitle	Copiar al portapapeles
+Modal/&ErrorModalIgnoreErrorTitle	Ignorar este error
+Modal/&ErrorModalQuitTitle	Salir del juego
+Modal/&ErrorModalTitle	Ha ocurrido un error grave.
+Modal/&ExceptionModalTitle	Se ha producido una excepción crítica.
+Modal/&FactionRedeemCostDescription	Canjear un artículo suele ser más rentable que venderlo a un comerciante.
+Modal/&FactionRedeemInstructionsDescription	Canjear artículos con la facción "{0}" te hará ganar dinero y mejorará tus relaciones con esta facción.
+Modal/&FactionRedeemRelationDescription	Tus relaciones con esa facción mejoran
+Modal/&FactionRedeemRelationGainFormat	{0} Relación
+Modal/&FactionRedeemSelectTitle	Seleccione un artículo para canjear
+Modal/&HigherLevelFeaturesTitle	Funciones de nivel superior
+Modal/&InterruptCraftingCompleteTitle	Interrumpe cuando se ha elaborado un objeto.
+Modal/&InterruptLevelUpAvailableTitle	Interrumpe cuando un personaje puede subir de nivel.
+Modal/&InterruptLongRestCompleteTitle	Interrumpa cuando se haya completado el descanso prolongado.
+Modal/&LoadButtonTitle	Carga
+Modal/&LoadGameHeader	Carga
+Modal/&LoadGamePlaceholder	Selecciona una partida guardada.
+Modal/&LoadingProceedButtonTitle	Haga clic o presione cualquier tecla para comenzar.
+Modal/&LoadingTitle	Cargando por favor espere
+Modal/&LoadLastSaveDescription	Reanuda el juego desde tu última partida guardada
+Modal/&LoadLastSaveTitle	Reiniciar desde el último guardado
+Modal/&MonsterListingCaption	{0} se está concentrando para determinar la presencia de monstruos en el área ...
+Modal/&MonsterListingFavoredEnemyTitle	Enemigo favorecido
+Modal/&MonsterListingNotPerceivedTitle	Ninguno
+Modal/&MonsterListingPerceivedTitle	Regalo
+Modal/&NumberSelectionInstructionTitle	¿Cuantos puntos?
+Modal/&NumberSelectionValidateTitle	Validar
+Modal/&PartyWaitMinutesPluralFormat	La fiesta espera {0} minutos.
+Modal/&PartyWaitMinutesSingleFormat	La fiesta está esperando {0} minuto.
+Modal/&RequiredRestsMultipleFormat	{0} descansos largos
+Modal/&RequiredRestsNoneFormat	Ninguno
+Modal/&RequiredRestsSingleFormat	1 descanso largo
+Modal/&RequiredRestsTitle	Descansos requeridos
+Modal/&ResetDefaultsDescription	Haga clic para restablecer la configuración de viaje al valor predeterminado.
+Modal/&ResetDefaultsTitle	Restablecer predeterminados
+Modal/&SaveButtonTitle	Ahorrar
+Modal/&SaveGameHeader	Ahorrar
+Modal/&SaveGamePlaceholder	Ingresa un nombre de archivo o selecciona una partida guardada.
+Modal/&SelectCharacterMultipleTitle	Seleccione uno o más personajes.
+Modal/&SelectCharacterSingleTitle	Seleccione un personaje
+Modal/&SelectTitle	Seleccione
+Modal/&StartTravelDescription	Inicia el viaje a la ubicación seleccionada.
+Modal/&StartTravelTitle	Empiece a viajar
+Modal/&TravelDurationLessThanADayFormat	Menos de un día
+Modal/&TravelDurationMultipleFormat	{0} días
+Modal/&TravelDurationSingleFormat	1 día
+Modal/&TravelDurationTitle	Duración
+Modal/&TravelFromTitle	De
+Modal/&TravelPaceNormalTitle	Normal
+Modal/&TravelPaceTitle	Ritmo de viaje
+Modal/&TravelSettingsButtonDescriptionTitle	Haga clic para cambiar la configuración de viajar y descansar.
+Modal/&TravelSettingsCustomTitle	Personalizado
+Modal/&TravelSettingsDefaultTitle	Defecto
+Modal/&TravelSettingsTitle	Configuración de viaje
+Modal/&TravelToTitle	A
+Modal/&ValidateButtonTitle	Validar
+Modal/&LoadingShortTitle	Cargando
+Modal/&LoadingTipTitle	Consejo
+Modal/&UnitsSelectionInstructionTitle	¿Cuántas unidades toma?
+Modal/&CastSpellBeforeLongRestTitle	Lanza el hechizo {0} cuando comience el descanso prolongado.
+Modal/&ScavengerMissionsModalTitle	Expediciones de carroñeros
+Modal/&ScavengerMissionsModalDescription	Los carroñeros se dirigen a estos lugares para recolectar y traer de vuelta el botín dejado.
+Modal/&ScavengerMissionLineEncounterTitle	En algún lugar del camino
+Modal/&ScavengerMissionLineNewMissionFormat	Nuevo: {0} restantes
+Modal/&ScavengerMissionLineOngoingMissionFormat	En curso: {0} restantes
+Modal/&ScavengerMissionLineFinishedMissionDescription	Terminado
+Modal/&ScavengerMissionModalToggleTitle	Mostrar expediciones relacionadas con el encuentro
+Modal/&ScavengerLootModalTitle	Objetos recuperados durante las expediciones
+Modal/&ScavengerLootModalInstructionsDescription	Haga clic en un artículo para recuperarlo en lugar de venderlo.
+Modal/&ScavengerLootModalSellAllButton	Vender todo
+Modal/&ScavengerLootModalSellInstructionsDescription	Tu ganas:
+Modal/&DefeatStealthDescription	¡Fuiste detectado durante una etapa crítica de sigilo! Utilice el modo cauteloso y muévase con cuidado.
+Modal/&QuestBoardTitle	Misiones disponibles
+Modal/&QuestBoardDescription	Seleccione la misión que le gustaría aceptar y presione Iniciar.
+Modal/&QuestBoardStartTitle	Comienzo
+Modal/&QuestBoardStartDescription	Acepta y comienza la misión seleccionada.
+Modal/&QuestInProgressTitle	En curso
+Modal/&SolastaBackers	Patrocinadores de Solasta
+Modal/&EternalHeroesTitle	A nuestros héroes eternos
+Modal/&TeleportButtonTitle	Teletransportarse
+Modal/&TeleportButtonDescription	Teletransporta instantáneamente al grupo al interior del destino, cerca de la Puerta Mayor.
+Modal/&VictoryTitle	¡La fiesta sale victoriosa!
+Modal/&StatHitAccuracyTitle	Precisión de golpe:
+Modal/&StatHitAccuracyDescription	El porcentaje de tiradas exitosas con armas o ataques mágicos.
+Modal/&StatCriticalHitsTitle	Golpes críticos:
+Modal/&StatCriticalHitsDescription	El número de golpes críticos logrados por este personaje en las tiradas de ataque (arma y magia)
+Modal/&StatCriticalFailuresTitle	Fallos críticos:
+Modal/&StatCriticalFailuresDescription	El número de fallas críticas sufridas por este personaje en las tiradas de ataque (armas y magia)
+Modal/&StatInflictedDamageTitle	Daño infligido:
+Modal/&StatInflictedDamageDescription	El número total de puntos de daño infligidos por personajes.
+Modal/&StatSlainEnemiesTitle	Enemigos asesinados:
+Modal/&StatSlainEnemiesDescription	El número de enemigos por los que este personaje asestó el golpe final.
+Modal/&StatSustainedInjuriesTitle	Lesiones sostenidas:
+Modal/&StatSustainedInjuriesDescription	El número total de puntos de vida perdidos por este personaje.
+Modal/&StatRestoredHealthTitle	Salud restaurada:
+Modal/&StatRestoredHealthDescription	El número total de puntos de vida restaurados por este personaje.
+Modal/&StatUsedMagicAndPowersTitle	Magia y poderes usados:
+Modal/&StatUsedMagicAndPowersDescription	El número total de espacios para hechizos y cargas de poder utilizados por el personaje.
+Modal/&StatTravelledCellsTitle	Células viajadas:
+Modal/&StatTravelledCellsDescription	El número de celdas que ha ingresado el personaje, en las 3 dimensiones. Representa el "kilometraje" del personaje
+Modal/&StatKnockOutsTitle	Knockouts:
+Modal/&StatKnockOutsDescription	El número de veces que el personaje ha caído inconsciente o ha muerto.
+Modal/&StatEarnedXPTitle	XP ganado:
+Modal/&StatEarnedXPDescription	La cantidad de puntos de experiencia ganados por el personaje.
+Modal/&StatGameTimeTitle	Tiempo de juego:
+Modal/&StatGameTimeDescription	El tiempo total (incluidos los descansos) que el grupo ha pasado en el juego.
+Modal/&StatShortRestsTitle	Descansos breves:
+Modal/&StatShortRestsDescription	El número de descansos breves completados por el grupo.
+Modal/&StatLongRestsTitle	Descansos largos:
+Modal/&StatLongRestsDescription	El número de descansos largos completados por el grupo.
+Modal/&StatGameTimeFormat	{0} d {1} h {2} m {3} s
+Modal/&UpdateFileTitle	Actualizar archivo
+Modal/&UpdateFileDescription	Actualizar el archivo de carácter de este personaje, por lo que el progreso y el botín se guardan para otras aventuras. Dichos personajes no se podrán utilizar en la campaña principal de Solasta.
+Modal/&PregenCharacterCannotUpdateTitle	Personaje pregenético
+Modal/&PregenCharacterCannotUpdateDescription	Este personaje está pregenerado por el juego y no se puede actualizar.
+Modal/&ContinueTitle	Continuar
+Modal/&ContinueDescription	vuelve al menú principal
+Modal/&SelectUserLocationTitle	Selecciona una ubicación
+Modal/&UserLocationSettingsTitle	Configuración de ubicación
+Modal/&UserLocationSettingsApplyTitle	Solicitar
+Modal/&CheatsTitle	Trucos de prueba
+Modal/&IdleMonstersToggleTitle	Monstruos inactivos
+Modal/&IdleMonstersToggleDescription	Los monstruos no entablan batalla cuando te ven. {0}
+Modal/&InviciblePartyToggleTitle	Fiesta Invicible
+Modal/&InviciblePartyToggleDescription	Los personajes del grupo son invencibles en la batalla. {0}
+Modal/&RevealFogOfWarButtonTitle	Revelar niebla de guerra
+Modal/&RevealFogOfWarButtonDescription	Despeja la niebla de guerra en toda la ubicación, para que puedas ver el interior de cada habitación. {0}
+Modal/&KIllBattleEnemiesButtonTitle	Mata a los enemigos de batalla
+Modal/&KIllBattleEnemiesButtonDescription	Mata a todos los enemigos en la batalla. {0}
+Modal/&IdleMonstersOnDescription	El monstruo ahora está inactivo
+Modal/&IdleMonstersOffDescription	Los monstruos vuelven a estar activos
+Modal/&InviciblePartyOnDescription	La fiesta ahora es invencible
+Modal/&InviciblePartyOffDescription	La fiesta ya no es invencible
+Modal/&RevealFogOfWarOnDescription	La niebla de la guerra ahora se revela completamente
+Modal/&RevealFogOfWarOffDescription	La niebla de la guerra está activa de nuevo
+Modal/&MonsterFilterAllTitle	Todos los monstruos
+Modal/&FilterKeywordTitle	Filtrar
+Modal/&FilterKeywordDescription	Filtrar la lista con elementos que coincidan con la palabra clave especificada
+Modal/&ClearKeywordDescription	Borra la palabra clave seleccionada y cancela el filtrado
+Modal/&InputKeywordTitle	Inserte palabra clave:

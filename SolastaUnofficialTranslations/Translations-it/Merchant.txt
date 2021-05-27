@@ -1,0 +1,19 @@
+Merchant/&CaerCyflen_Annie_Bagmordah_Store_ScavengersTitle	Quartier generale di Scavengers
+Merchant/&CaerCyflen_Dalon_Lark_Store_EinarTitle	Contatto del Tempio di Einar
+Merchant/&CaerCyflen_Gorim_Ironsoot_StoreTitle	Magazzino per avventurieri
+Merchant/&CaerCyflen_Halman_Summer_Store_AntiquariansTitle	Contatto Antiquari
+Merchant/&CaerCyflen_Heddlon_Surespell_Store_ArcaneumTitle	Contatto arcano
+Merchant/&CaerCyflen_Hugo_Requer_StoreTitle	Magia e curiosità
+Merchant/&CaerCyflen_Joriel_Foxeye_Store_CircleOfDanantarTitle	Contatto del Circolo Danantar
+Merchant/&CaerCyflen_Karel_Martel_Store_BartenderTitle	Servizi della locanda
+Merchant/&CaerCyflen_Maddy_Greenisle_Store_ToKTitle	Contatto Torre della Conoscenza
+Merchant/&CaerCyflenWeaponsmith2Description	non utilizzare bancomat
+Merchant/&CaerCyflenWeaponsmith2Title	Armaiolo generico
+Merchant/&CaerCyflenWeaponsmithDescription	non utilizzare bancomat
+Merchant/&CaerCyflenWeaponsmithTitle	Armaiolo generico
+Merchant/&Telema_Merchant_Wanderer_TelemaTitle	Mercante errante
+Merchant/&Coparann_Atima_StoreTitle	Chierico locale di Arun
+Merchant/&CC_PriestessPakri	Sacerdotessa di Pakri
+Merchant/&CC_PriestMaraike	Sacerdote di Maraike
+Merchant/&CC_PriestArun	Rogar Ardentfire
+Merchant/&Circe_Title	Mercante di manuali di incantesimi

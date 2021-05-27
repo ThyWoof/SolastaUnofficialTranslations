@@ -1,0 +1,25 @@
+CharacterInteraction/&BanditTrackDescription	Huellas humanas, probablemente bandidos. Se ven bastante frescos.
+CharacterInteraction/&DisarmTrapDescription	Haga clic para intentar desarmar esta trampa.
+CharacterInteraction/&HardClimbDescription	Haga clic para intentar escalar.
+CharacterInteraction/&LightDescription	Haga clic para encender esta luz.
+CharacterInteraction/&LockPickChestDescription	Haz clic para intentar abrir el candado de este cofre.
+CharacterInteraction/&LockPickDoorDescription	Haga clic para intentar abrir la cerradura de esta puerta.
+CharacterInteraction/&LootContainerDescription	Haz clic para saquear este contenedor.
+CharacterInteraction/&NpcInteractionDescription	Haz clic para interactuar con este personaje.
+CharacterInteraction/&ObserveDescription	Haga clic para examinar este objeto.
+CharacterInteraction/&OpenCloseDoorDescription	Haga clic para abrir / cerrar esta puerta.
+CharacterInteraction/&PushDescription	Haga clic para empujar este objeto.
+CharacterInteraction/&StartLongRestDescription	Haga clic para iniciar un largo descanso para la fiesta.
+CharacterInteraction/&TriggerTrapDescription	Desencadenar colapso.
+CharacterInteraction/&UseDescription	Haga clic para usar este objeto.
+CharacterInteraction/&GoblinTrackDescription	Huellas ... Probablemente las de los duendes. Se ven bastante frescos.
+CharacterInteraction/&UnknownTrackDescription	Pistas frescas, probablemente las de los fanáticos.
+CharacterInteraction/&SorakTrackDescription	Huellas de reptiles ... ¿Soraks, tal vez?
+CharacterInteraction/&QuickShoppingDescription	Haga clic para abrir compras rápidas.
+CharacterInteraction/&WaitDescription	Haga clic para esperar a que salga la luna.
+CharacterInteraction/&UseScavengersDescription	Haga clic para usar el sistema Scavenger
+CharacterInteraction/&TakeScimitarDescription	Haz clic para usar la cimitarra y el escudo para esta pelea.
+CharacterInteraction/&TakeDaggersDescription	Haz clic para usar las dagas para esta pelea.
+CharacterInteraction/&TakeGreataxeDescription	Haz clic para usar el gran hacha para esta pelea.
+CharacterInteraction/&LeaveArenaDescription	Haz clic para salir de la arena y perder el duelo.
+CharacterInteraction/&PlantDocumentDescription	Documento de planta

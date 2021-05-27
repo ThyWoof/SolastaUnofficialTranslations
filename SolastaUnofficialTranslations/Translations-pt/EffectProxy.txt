@@ -1,0 +1,19 @@
+EffectProxy/&ProxyDancingLightsDescription	Mova as luzes até 12 células
+EffectProxy/&ProxyDancingLightsTitle	Luzes dançantes
+EffectProxy/&ProxyDarknessDescription	Uma área de escuridão mágica.
+EffectProxy/&ProxyDaylightTitle	Luz do dia
+EffectProxy/&ProxyFlamingSphereDescription	Mova a esfera até 6 células ou bata em um oponente
+EffectProxy/&ProxyFlamingSphereTitle	Esfera Flamejante
+EffectProxy/&ProxyFogCloudDescription	Um nevoeiro muito espesso.
+EffectProxy/&ProxyIndomitableLightTitle	Luz indomável
+EffectProxy/&ProxySleetStormDescription	Tempestade de granizo
+EffectProxy/&ProxySpiritualWeaponDescription	Mova a arma até 4 células e acerte um oponente
+EffectProxy/&ProxySpiritualWeaponTitle	Arma espiritual
+EffectProxy/&ProxyStinkingCloudDescription	Uma nuvem de gás nocivo e incapacitante.
+EffectProxy/&ProxyWallOfFireDescription	Uma parede em chamas que fere criaturas dentro ou ao lado dela.
+EffectProxy/&ProxyWindWallDescription	Uma parede de vento que causa danos, empurra criaturas e objetos para longe e dispersa neblinas e gases.
+EffectProxy/&ProxySilenceDescription	Uma área de completo silêncio.
+EffectProxy/&ProxyIceStormDescription	Tempestade de gelo
+EffectProxy/&ProxyGuardianOfFaithDescription	Guardião da fé
+EffectProxy/&ProxyCloudKillDescription	Uma névoa espessa e venenosa mortal.
+EffectProxy/&ProxyWallOfForceDescription	Conjura uma parede invisível que bloqueia movimentos e ataques.

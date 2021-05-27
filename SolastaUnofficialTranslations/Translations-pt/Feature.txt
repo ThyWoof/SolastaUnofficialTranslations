@@ -1,0 +1,697 @@
+Feature/&AbilityCheckAdvantageFormat	Vantagem em {0} testes de habilidade.
+Feature/&AbilityCheckAutomaticallyFailedFormat	Falha automaticamente em {0} testes de habilidade
+Feature/&AbilityCheckBonusFormat	{0} em {1} testes de habilidade.
+Feature/&AbilityCheckBonusWithDiceFormat	{0} {1} em {2} testes de habilidade.
+Feature/&AbilityCheckDisadvantageFormat	Desvantagem em {0} testes de habilidade.
+Feature/&AbilityScoreChoiceDescription	Escolha entre aumentar seus valores de habilidade ou ganhar um talento bônus.
+Feature/&AbilityScoreChoiceTitle	Escolha de pontuação de habilidade
+Feature/&AbilityScoreImprovementDescription	Aumente duas pontuações de habilidade de sua escolha em 1 ponto cada, ou uma pontuação única em 2 pontos.
+Feature/&AbilityScoreImprovementTitle	Pontuação de habilidade
+Feature/&AbilityScoreIncreaseAdvancedTitle	Pontuação de habilidade + habilidade + talento
+Feature/&AbilityScoreIncreaseTitle	Aumento da pontuação de habilidade
+Feature/&AcademicFeatureDescription	Você ainda tem vínculo com os Antiquários e seu relacionamento com eles já é bom.
+Feature/&AcademicFeatureTitle	Antiquário em Fuga
+Feature/&AcademicSkillsDescription	Proficiente em Arcana, Natureza e Insight.
+Feature/&AcademicSkillsTitle	Bookworm
+Feature/&AcademicToolsDescription	Proficiente com o rosário de Manacalon, supostamente útil para encantar itens.
+Feature/&AcademicToolsTitle	Feiticeiro
+Feature/&AcolyteFeatureDescription	Você começa com uma boa reputação com os clérigos de sua religião e tem descontos no templo principal da capital do Principado.
+Feature/&AcolyteFeatureTitle	Abrigo dos fiéis
+Feature/&AcolyteSkillsDescription	Proficiente em religião, natureza e percepção.
+Feature/&AcolyteSkillsTitle	Treinamento Religioso
+Feature/&AcolyteSkillsToolsDescription	Proficiente com o kit de fitoterapia.
+Feature/&AcolyteSkillsToolsTitle	Preparação de poções
+Feature/&ActionAffinityHunterGiantKillerDescription	Quando uma criatura grande ou maior dentro de uma célula de você acerta ou erra um ataque, você pode usar sua reação para atacar aquela criatura imediatamente após seu ataque, desde que você possa ver a criatura.
+Feature/&ActionAffinityHunterGiantKillerTitle	Giant Killer
+Feature/&ActionAffinityMarksmanReactionShotDescription	Quando um oponente visível a 2 células ou mais de você o ataca com uma arma de longo alcance ou um feitiço, você pode usar sua reação para dar um tiro após o ataque inicial.
+Feature/&ActionAffinityMarksmanReactionShotTitle	Tiro de reação
+Feature/&AdditionalActionHunterHordeBreakerDescription	Uma vez em cada um de seus turnos ao derrubar um oponente, você pode fazer outro ataque com a mesma arma contra uma criatura diferente.
+Feature/&AdditionalActionHunterHordeBreakerTitle	Quebrador da Horda
+Feature/&AdditionalDamageDomainOblivionStrikeOblivionDescription	+ 1d6 de dano necrótico no primeiro ataque do seu turno.
+Feature/&AdditionalDamageDomainOblivionStrikeOblivionTitle	Golpe de Esquecimento
+Feature/&AdditionalDamageHunterColossusSlayerDescription	Sua tenacidade pode desgastar o mais potente dos inimigos. Quando você atinge uma criatura com um ataque de arma, a criatura sofre 1d8 de dano extra se estiver abaixo de seu ponto de vida máximo. Você pode causar esse dano extra apenas uma vez por turno.
+Feature/&AdditionalDamageHunterColossusSlayerTitle	Colossus Slayer
+Feature/&AdditionalFallThreshold	Pode cair sem danos de {0} células.
+Feature/&AffectedSpellsFormat	Funciona com os seguintes feitiços: {0}.
+Feature/&AndLine	E
+Feature/&AristocratFeatureDescription	Pessoas da nobreza reconhecem você como um deles, o que pode ser útil em algumas situações.
+Feature/&AristocratFeatureTitle	Sangue azul
+Feature/&AristocratSkillsDescription	Proficiente em História, Persuasão e Intimidação
+Feature/&AristocratSkillsTitle	Ensino superior
+Feature/&ArmorTrainingDescription	Proficiente com {0}
+Feature/&ArmorTrainingShortDescription	{0}
+Feature/&AttackModifierAdditionalTagFormat	O ataque é {0}
+Feature/&AttackModifierAttackRollFormat	{0} para jogadas de ataque
+Feature/&AttackModifierDamageRollFormat	{0} para jogadas de dano
+Feature/&AttributeIncreaseAllDescription	+ {0} para todos os valores de habilidade
+Feature/&AttributeIncreaseAny1Description	Aumentar um valor de habilidade
+Feature/&AttributeIncreaseAnyNDescription	Aumentar {0} valores de habilidade
+Feature/&AttributeIncreaseDescription	{0} + {1}
+Feature/&AttributeModifierAdditiveDescription	{0} + {1}
+Feature/&AttributeModifierMultiplicativeDescription	{0} x {1}
+Feature/&AttributeModifierSetDescription	{0} está definido como {1}
+Feature/&AttributeSetDescription	{0} está definido como {1}
+Feature/&AuraOfCourageDescription	Você e seus aliados em um raio de 3 metros não podem se assustar enquanto estiverem conscientes. No 18º nível, o alcance passa de 30 pés.
+Feature/&AuraOfCourageTitle	Aura of Courage
+Feature/&AuraOfProtectionDescription	Concede um bônus de teste de resistência aos seus aliados próximos, igual ao seu modificador CHA (mínimo 1).
+Feature/&AuraOfProtectionTitle	Aura de proteção
+Feature/&AutoPreparedSpellsFormat	Nível {0}: {1}
+Feature/&AutoPreparedSpellsOathOfDevotionTitle	Feitiços de juramento de devoção
+Feature/&AutoPreparedSpellsOathOfMotherlandTitle	Feitiços de juramento da pátria
+Feature/&AutoPreparedSpellsOathOfTirmarTitle	Feitiços de juramento de Tirmar
+Feature/&Background01LanguagesTitle	Escolha um idioma adicional.
+Feature/&Background02LanguagesTitle	Escolha dois idiomas adicionais.
+Feature/&BackgroundLanguages	Idiomas Adicionais
+Feature/&BonusFeatDescription	Selecione um talento adicional para seu personagem.
+Feature/&BonusFeatTitle	Talento bônus
+Feature/&CampAffinityElfTranceDescription	4 horas de meditação são suficientes para descansar.
+Feature/&CampAffinityElfTranceTitle	Transe
+Feature/&CantTakeActionFormat	Não é possível agir: {0}
+Feature/&ClericArmorProficiencyTitle	Proficiências de Cleric Armor
+Feature/&ClericChannelDivinityAddDescription	+1 Channel Divinity use entre pausas.
+Feature/&ClericChannelDivinityAddTitle	Divindade do canal (aumentado)
+Feature/&ClericChannelDivinityDescription	Pode usar as ações Channel Divinity uma vez entre as pausas.
+Feature/&ClericChannelDivinityTitle	Channel Divinity
+Feature/&ClericDivineDomainsDescription	Escolha um dos domínios divinos concedidos por sua divindade.
+Feature/&ClericDivineDomainsTitle	Domínios Divinos
+Feature/&ClericSkillPointsTitle	Habilidades de clérigo
+Feature/&ClericSpellcastingTitle	Conjuração de feitiços de clérigos
+Feature/&ClericToolsDescription	Você foi treinado para escrever pergaminhos mágicos.
+Feature/&ClericToolsTitle	Escrita de rolagem
+Feature/&ClericTurnUndeadShortTitle	Turn Undead
+Feature/&ClericTurnUndeadTitle	Channel Divinity: Turn Undead
+Feature/&ClericTurnUndeadDescription	Canalize Divindade para forçar criaturas mortas-vivas dentro de 6 células que podem ver você fugir, a menos que façam um teste de resistência de Sabedoria com sucesso.
+Feature/&ClericWeaponProficiencyTitle	Proficiências com armas de clérigo
+Feature/&ConditionAttackOfOpportunityImmunityTitle	Imune a ataques de oportunidade
+Feature/&ConditionAttackOnMeAdvantageTitle	As jogadas de ataque contra esta criatura têm vantagem
+Feature/&ConditionAttackOnMeDisadvantageTitle	As jogadas de ataque contra esta criatura têm desvantagem
+Feature/&ConditionExpertClimberFormat	Superfícies de escalada difíceis são consideradas normais para você
+Feature/&ConditionFastClimberFormat	Escalar não custa movimento extra
+Feature/&ConditionImmunityFormat	Imunidade ao tipo de condição "{0}"
+Feature/&ConditionMovementAddBaseFormat	Velocidade base dupla
+Feature/&ConditionMovementAddBaseFormatSingle	Velocidade base dupla ({0})
+Feature/&ConditionMovementAdditiveModifierFormat	{0} para acelerar
+Feature/&ConditionMovementAdditiveModifierFormatSingle	{0} para acelerar ({1})
+Feature/&ConditionMovementCanMoveOnWallsFormat	Pode mover-se em paredes
+Feature/&ConditionMovementEnhancedJumpFormat	Pode saltar à distância máxima sem risco.
+Feature/&ConditionMyAttackAddDiceFormat	+ {0} {1} para jogadas de ataque
+Feature/&ConditionMyAttackAddFormat	+ {0} para jogadas de ataque
+Feature/&ConditionMyAttackAdvantageTitle	As jogadas de ataque desta criatura têm vantagem
+Feature/&ConditionMyAttackDisadvantageTitle	As jogadas de ataque desta criatura têm desvantagem
+Feature/&ConditionMyAttackSubstractDiceFormat	- {0} {1} para jogadas de ataque
+Feature/&ConditionMyAttackSubstractFormat	- {0} para jogadas de ataque
+Feature/&ConditionSavingThrowAdvantageFormat	Vantagem em testes de resistência contra ser {0}
+Feature/&ConditionSavingThrowDisadvantageFormat	Desvantagem em testes de resistência contra ser {0}
+Feature/&DamageImmunityFormat	Imunidade a {0}: todos os danos são cancelados
+Feature/&DamageResistanceFormat	Resistência a {0}: o dano é reduzido pela metade
+Feature/&DamageSavingThrowAdvantageFormat	Vantagem em testes de resistência contra {0}
+Feature/&DamageSavingThrowDisadvantageFormat	Desvantagem em testes de resistência contra {0}
+Feature/&DamageTagsIgnoringFormat	exceto para {0} ataques
+Feature/&DamageVulnerabilityFormat	Vulnerabilidade a {0}: o dano é dobrado
+Feature/&DiceGamerDescription	Proficiente com o conjunto de jogos.
+Feature/&DiceGamerTitle	Jogador de dados
+Feature/&DomainBattleBonusProficiencyDescription	Armas marciais
+Feature/&DomainBattleBonusProficiencyTitle	Proficiência de bônus
+Feature/&DomainBattleDecisiveStrikeDescription	Em um ataque bem-sucedido, canalize Divindade para adicionar 1d6 ao seu dano e atordoar seu alvo (teste de resistência nega). Aumenta em 1d6 a cada 3 níveis acima do nível 2.
+Feature/&DomainBattleDecisiveStrikeShortTitle	Golpe Decisivo
+Feature/&DomainBattleDecisiveStrikeTitle	Golpe Decisivo
+Feature/&DomainBattleDivineWrathDescription	Como uma ação, ganhe 3 HP temporários por nível de clérigo. Recuperado após um longo descanso.
+Feature/&DomainBattleDivineWrathTitle	Fortitude Divina
+Feature/&DomainBattleDomainSpellsTitle	Feitiços de domínio de batalha
+Feature/&DomainBattleHeraldOfBattleDescription	Aliados em células adjacentes ganham +1 nas jogadas de ataque, dano, CA e testes de resistência.
+Feature/&DomainBattleHeraldOfBattleTitle	Arauto da Batalha
+Feature/&DomainElementalBonusCantripDescriptionPlural	{0}
+Feature/&DomainElementalBonusCantripDescriptionSingle	{0}
+Feature/&DomainElementalColdBonusCantripTitle	Bonus Cantrip (frio)
+Feature/&DomainElementalColdPrimalHarmonyTitle	Harmonia primordial (frio)
+Feature/&DomainElementalDiscipleOfTheElementsDescription	Use sua reação para se tornar imune ao elemento do seu domínio, de modo que ele o cure em vez de feri-lo.
+Feature/&DomainElementalDiscipleOfTheElementsTitle	Acadêmico dos Elementos
+Feature/&DomainElementalDomainSpellsTitle	Feitiços de Domínio Elemental
+Feature/&DomainElementalFireBonusCantripTitle	Bonus Cantrip (Fire)
+Feature/&DomainElementalFireBurstDescription	Canalize Divindade para causar 3d8 de dano de fogo a um alvo dentro de 12 células. Um teste de Destreza bem-sucedido reduz o dano pela metade.
+Feature/&DomainElementalFireBurstShortTitle	Estouro de fogo
+Feature/&DomainElementalFireBurstTitle	Divindade do Canal: Explosão de Fogo
+Feature/&DomainElementalFirePrimalHarmonyTitle	Harmonia primordial (fogo)
+Feature/&DomainElementalIceLanceDescription	Use Channel Divinity em um alvo dentro de 12 células. O alvo deve fazer um teste de resistência de Destreza ou ser empurrado por 2 células e sofrer 2d8 de dano de frio.
+Feature/&DomainElementalIceLanceShortTitle	Ice Lance
+Feature/&DomainElementalIceLanceTitle	Channel Divinity: Ice Lance
+Feature/&DomainElementalLightningBladeDescription	Canalize a Divindade para causar 1d8 de dano elétrico a um alvo em até 12 células. Em uma falha no teste de Destreza, o alvo também fica atordoado até o final de seu próximo turno.
+Feature/&DomainElementalLightningBladeShortTitle	Lâmina Elétrica
+Feature/&DomainElementalLightningBladeTitle	Divindade do canal: lâmina de relâmpago
+Feature/&DomainElementalLightningBonusCantripTitle	Bonus Cantrip (Lightning)
+Feature/&DomainElementalLightningPrimalHarmonyTitle	Harmonia primordial (relâmpago)
+Feature/&DomainInsightDivineEyeDescription	Vantagem para detectar armadilhas, portas escondidas e objetos
+Feature/&DomainInsightDivineEyeTitle	Olho divino
+Feature/&DomainInsightDivineIntuitionDescription	Vantagem em testes de habilidade usando Arcanos, História e Natureza
+Feature/&DomainInsightDivineIntuitionTitle	Intuição Divina
+Feature/&DomainInsightForeknowledgeDescription	Canalize a Divindade para ver o futuro imediato e desviar-se melhor dos ataques do inimigo. Por 1 minuto, o primeiro ataque (exceto empurrão) feito contra você após sua vez sofre desvantagem.
+Feature/&DomainInsightForeknowledgeShortTitle	Presciência
+Feature/&DomainInsightForeknowledgeTitle	Divindade do canal: conhecimento prévio
+Feature/&DomainInsightInspiredDiplomatDescription	Você sempre sabe as probabilidades ao escolher entre as opções de diálogo que incluem um Teste de Habilidade (Persuasão, Decepção ou Intimidação).
+Feature/&DomainInsightInspiredDiplomatTitle	Diplomata inspirado
+Feature/&DomainLawCommandingPresenceDescription	Proficiente em intimidação.\nVantagem em testes de intimidação
+Feature/&DomainLawCommandingPresenceTitle	Presença de Comando
+Feature/&DomainLawDomainSpellsTitle	Feitiços do domínio da lei
+Feature/&DomainLawForceOfLawDescription	Canalize Divindade ao lançar um feitiço de ataque para impor desvantagem ao teste de resistência de seu alvo.
+Feature/&DomainLawForceOfLawShortTitle	Força da Lei
+Feature/&DomainLawForceOfLawTitle	Canal Divindade: Força da Lei
+Feature/&DomainLawHolyRetributionDescription	Quando um ataque corpo-a-corpo causa dano a você, você pode usar sua reação para Canalizar Divindade e contra-atacar usando uma arma corpo-a-corpo, adicionando (2d6 + nível de clérigo) dano psíquico.
+Feature/&DomainLawHolyRetributionShortTitle	Retribuição sagrada
+Feature/&DomainLawHolyRetributionTitle	Canal Divindade: Holy Retribution
+Feature/&DomainLawUnyieldingEnforcerDescription	Vantagem nos testes para resistir a ser empurrado ou movido por meios mágicos
+Feature/&DomainLawUnyieldingEnforcerTitle	Enforcer inflexível
+Feature/&DomainLawWordOfLawDescription	Quebre a concentração de conjuração de um inimigo
+Feature/&DomainLawWordOfLawTitle	Palavra da Lei
+Feature/&DomainLifeBlessedHealerDescription	Quando você lança um feitiço de primeiro nível ou superior que restaura pontos de vida para uma criatura diferente de você, você recupera pontos de vida iguais a (2 x nível de feitiço).
+Feature/&DomainLifeBlessedHealerTitle	Abençoado Curador
+Feature/&DomainLifeBonusProficiencyDescription	Proficiente com armadura pesada.
+Feature/&DomainLifeBonusProficiencyTitle	Proficiência de bônus
+Feature/&DomainLifeDiscipleOfLifeDescription	Ao lançar um feitiço de cura, o alvo recupera HP adicional igual a (2 x nível do feitiço).
+Feature/&DomainLifeDiscipleOfLifeTitle	Discípulo da vida
+Feature/&DomainLifeDomainSpellsTitle	Feitiços do domínio da vida
+Feature/&DomainLifePreserveLifeDescription	Restaura os pontos de vida (5 x nível de clérigo) para um ou mais aliados em 6 células, até a metade de seus pontos de vida no máximo.
+Feature/&DomainLifePreserveLifeShortTitle	Preserve a Vida
+Feature/&DomainLifePreserveLifeTitle	Channel Divinity: Preserve Life
+Feature/&DomainOblivionBonusCantripDescription	{0}
+Feature/&DomainOblivionBonusCantripTitle	Bonus Cantrip
+Feature/&DomainOblivionDomainSpellsTitle	Feitiços de domínio do esquecimento
+Feature/&DomainOblivionGateKeeperDescription	Enquanto você estiver consciente, você e seus companheiros de grupo dentro de 6 células têm vantagem nos testes de resistência à morte.
+Feature/&DomainOblivionGateKeeperTitle	Gate Keeper
+Feature/&DomainOblivionHeraldOfPainDescription	Canalize a Divindade para causar dor aos inimigos dentro de 6 células. Os inimigos que falharem em um teste de resistência de Sabedoria recebem 1d8 de dano necrótico e são envenenados.
+Feature/&DomainOblivionHeraldOfPainShortTitle	Arauto da Dor
+Feature/&DomainOblivionHeraldOfPainTitle	Channel Divinity: Herald of Pain
+Feature/&DomainOblivionPeacefulRestDescription	Durante o acampamento, reduz as chances de ser atacado e evita que seja surpreendido.
+Feature/&DomainOblivionPeacefulRestTitle	Descanso pacífico
+Feature/&DomainSpellsDescription	Em sua lista e sempre preparado:\n{0}
+Feature/&DomainSunBonusCantripDescription	Luz
+Feature/&DomainSunBonusCantripTitle	Bonus Cantrip
+Feature/&DomainSunDomainSpellsTitle	Feitiços do Domínio do Sol
+Feature/&DomainSunHeraldOfTheSunDescription	Canalize Divindade para engolfar um inimigo visível dentro de 6 células com luz radiante, causando 1d8 de dano radiante + 2 por nível de clérigo (metade do dano em um teste de resistência de Constituição bem-sucedido) e causar a condição de cego por 1 minuto (negado se o teste de resistência foi bem-sucedido).
+Feature/&DomainSunHeraldOfTheSunShortTitle	Arauto do Sol
+Feature/&DomainSunHeraldOfTheSunTitle	Canal Divindade: Arauto do Sol
+Feature/&DomainSunHolyRadianceDescription	Quando você joga Sacred Flame, seu alvo tem desvantagem no teste de resistência.
+Feature/&DomainSunHolyRadianceTitle	Holy Radiance
+Feature/&DomainSunIndomitableLightDescription	Canalize a divindade para convocar uma esfera de luz solar, que afeta criaturas sensíveis à luz e nega áreas de escuridão.
+Feature/&DomainSunIndomitableLightShortTitle	Luz indomável
+Feature/&DomainSunIndomitableLightTitle	Canal Divindade: Luz Indomável
+Feature/&DomainSunSoothingHandDescription	Cure um aliado e remova uma condição prejudicial.
+Feature/&DomainSunSoothingHandTitle	Mão Calmante
+Feature/&DwarfHillToughnessDescription	+1 ponto de vida por nível
+Feature/&DwarfHillToughnessTitle	Dwarven Toughness
+Feature/&DwarfLanguagesDescription	Comum, anão
+Feature/&DwarfLanguagesTitle	línguas
+Feature/&DwarfResilienceDescription	Vantagem do teste de resistência contra veneno\nResistência ao dano de veneno
+Feature/&DwarfResilienceTitle	Resiliência dos anões
+Feature/&DwarfSnowEnduranceDescription	+2 nos testes de resistência de Constituição.
+Feature/&DwarfSnowEnduranceTitle	Resistência do anão da neve
+Feature/&DwarfSnowWeaponTrainingDescription	Você é proficiente com todos os tipos de bestas.
+Feature/&DwarfSnowWeaponTrainingTitle	Experiência em besta
+Feature/&DwarfWeaponTrainingTitle	Treinamento de combate de anões
+Feature/&ElfFeyAncestryDescription	Salvando a vantagem de arremesso contra Charm\nImunidade ao sono mágico
+Feature/&ElfFeyAncestryTitle	Ancestral Fey
+Feature/&ElfHighCastSpellDescription	Escolha um mago pode tripular, usando Inteligência como a habilidade de lançar feitiços.
+Feature/&ElfHighCastSpellTitle	High Elf Cantrip
+Feature/&ElfKeenSensesDescription	Proficiente na habilidade de Percepção.
+Feature/&ElfKeenSensesTitle	Sentidos Aguçados
+Feature/&ElfSylvanLanguagesDescription	Comum, Élfico, Anão e Halfling
+Feature/&ElfSylvanLanguagesTitle	línguas
+Feature/&ElfSylvanSurvivalDescription	Proficiente nas habilidades de sobrevivência e atletismo.\nVantagem na sobrevivência ao caçar
+Feature/&ElfSylvanSurvivalTitle	Adaptabilidade Sylvan
+Feature/&ElfWeaponTrainingTitle	Treinamento de arma de elfo
+Feature/&Emptystring	VAZIO
+Feature/&EquipmentAffinityDoubleCarryingCapacity	A capacidade de carga é duplicada.
+Feature/&FeatGainSingleDescription	Proficiência em um feito de sua escolha
+Feature/&FeatGainSingleTitle	Talento bônus
+Feature/&FeatureSetHunterHuntersPreyDescription	Escolha uma das seguintes especialidades de caça:
+Feature/&FeatureSetHunterHuntersPreyTitle	Hunter's Prey
+Feature/&FighterActionSurgeDescription	Recupere uma ação principal imediatamente. Faça um descanso curto ou longo para recuperar essa energia.
+Feature/&FighterActionSurgeTitle	Surto de ação
+Feature/&FighterArmorProficiencyTitle	Proficiências em armadura de lutador
+Feature/&FighterExtraAttackDescription	Você pode atacar mais uma vez, por turno de combate, ao usar as ações de ataque ou empurrão.
+Feature/&FighterExtraAttackTitle	Ataque Extra
+Feature/&FighterFightingStyleDescription	Escolha um estilo de luta como especialidade.
+Feature/&FighterFightingStyleTitle	Estilo de luta
+Feature/&FighterMartialArchetypesDescription	Selecione um arquétipo marcial.
+Feature/&FighterMartialArchetypesTitle	Arquétipos marciais
+Feature/&FighterSecondWindDescription	Recupere (1d10 + nível) HP como uma ação bônus.
+Feature/&FighterSecondWindTitle	Second Wind
+Feature/&FighterSkillPointsTitle	Habilidades de lutador
+Feature/&FighterWeaponProficiencyTitle	Proficiências com armas de caça
+Feature/&FightingStyleGreatWeaponRerollDescription	{0} usa seu estilo de luta Grandes Armas para rolar novamente um {1} dado de dano de {2} para {3}.
+Feature/&GenericCastSpellDescription	Pode lançar feitiços da lista {0}
+Feature/&GenericCastSpellTitle	Feitiço
+Feature/&HalfElfAbilityScoreIncreaseDescription	Carisma +2, aumente 2 outras pontuações em 1 ponto cada.
+Feature/&HalfElfLanguagesDescription	Comum, élfico e um idioma de sua escolha
+Feature/&HalfElfLanguagesTitle	línguas
+Feature/&HalflingBraveTitle	Corajoso
+Feature/&HalflingIslandLanguagesDescription	Comum, Halfling e um idioma de sua escolha
+Feature/&HalflingIslandLanguagesTitle	línguas
+Feature/&HalflingLuckyDescription	Quando você rola 1 em uma jogada de ataque, teste de habilidade ou teste de resistência, role novamente e use a nova jogada.
+Feature/&HalflingLuckyRerollDescription	{0} é um Halfling sortudo e rola novamente uma jogada terrível {1} ​​de {2} para {3}.
+Feature/&HalflingLuckyTitle	Sortudo
+Feature/&HalflingMarshHidingTitle	Esconderijo dos halflings do pântano
+Feature/&HalflingMarshLanguagesDescription	Comum, Halfling
+Feature/&HalflingMarshLanguagesTitle	línguas
+Feature/&HalflingMarshTerrainDescription	Você é adepto de viajar em terreno pantanoso.
+Feature/&HalflingMarshTerrainTitle	Marsh Native
+Feature/&HalflingNimblenessDescription	Você pode se mover através do espaço de qualquer criatura que seja maior do que você.
+Feature/&HalflingNimblenessTitle	Agilidade Halfling
+Feature/&HalflingRopedancingDescription	Verificações de vantagem na destreza (acrobacia)
+Feature/&HalflingRopedancingTitle	Dança de corda
+Feature/&HealBackFormat	Todo o dano "{0}" recebido na verdade cura a criatura.
+Feature/&HealBackUpToFormat	Todo o dano "{0}" recebido na verdade cura a criatura até {1} pontos de vida.
+Feature/&HealingModifierNotHitPointGainDescription	Não pode ganhar nenhum ponto de vida
+Feature/&HighElfLanguagesDescription	Comum, élfico e um idioma de sua escolha
+Feature/&HighElfLanguagesTitle	línguas
+Feature/&HumanAbilityScoreChoiceDescription	Você aumenta todos os seus valores de habilidade em 1 ponto ou aumenta 2 pontos em 1 ponto cada e ganha uma habilidade e um talento bônus.
+Feature/&HumanAbilityScoreChoiceTitle	Escolha de aumento de pontuação de habilidade
+Feature/&HumanLanguagesDescription	Comum e um idioma de sua escolha.
+Feature/&HumanLanguagesTitle	línguas
+Feature/&ImmuneSpellsPluralFormat	Imune a feitiços: {0}
+Feature/&ImmuneSpellsSingleFormat	Imune ao feitiço {0}
+Feature/&LawkeeperFeatureDescription	Você obtém acesso mais fácil a informações e pessoas em cargos oficiais.
+Feature/&LawkeeperFeatureTitle	Escudo do Principado
+Feature/&LawkeeperSkillsDescription	Proficiente em Percepção e Intimidação.
+Feature/&LawkeeperSkillsMartialDescription	Proficiente com armas marciais.
+Feature/&LawkeeperSkillsMartialTitle	Executor
+Feature/&LawkeeperSkillsTitle	Detetive
+Feature/&ListSeparatorFinalOrTitle	ou
+Feature/&ListSeparatorFinalTitle	e
+Feature/&ListSeparatorTitle	,
+Feature/&LowlifeFeatureDescription	Você pode ouvir sobre missões secundárias que envolvem atividades criminosas.
+Feature/&LowlifeFeatureTitle	Rede Subterrânea
+Feature/&LowlifeSkillsDescription	Proficiente em prestidigitação, furtividade e engano.
+Feature/&LowlifeSkillsTitle	Cutpurse
+Feature/&LowlifeSkillsToolsDescription	Proficiente com ferramentas de ladrões.
+Feature/&LowlifeSkillsToolsTitle	Roubo
+Feature/&MagicAffinityTraditionLoreMasterSpellAcademicDescription	Você aprende um feitiço adicional cada vez que ganha um nível.
+Feature/&MagicAffinityTraditionLoreMasterSpellAcademicTitle	Feitiço Acadêmico
+Feature/&MagicWeapon2Description	Ataque mágico, +2 nas jogadas de ataque e dano
+Feature/&MagicWeapon3Description	Ataque mágico, +3 para jogadas de ataque e dano
+Feature/&MagicWeaponDescription	Ataque mágico, +1 nas jogadas de ataque e dano
+Feature/&MartialChampionImprovedCriticalDescription	Seus ataques com arma obtêm um acerto crítico em uma jogada de 19 ou 20.
+Feature/&MartialChampionImprovedCriticalTitle	Crítico Aprimorado
+Feature/&MartialMountainerShieldBashDescription	Vantagem nas tentativas de empurrar ao usar um escudo.
+Feature/&MartialMountainerShieldBashTitle	Escudo Swipe
+Feature/&MartialMountainerTunnelFighterDescription	Ao usar um escudo, ganhe +2 CA quando você tiver uma parede em um de seus quatro lados (sem diagonais).
+Feature/&MartialMountainerTunnelFighterTitle	Tunnel Fighter
+Feature/&MartialSpellBladeMagicWeaponDescription	Seus ataques com arma contam como mágicos contra criaturas que são resistentes ou imunes a ataques não mágicos.
+Feature/&MartialSpellBladeMagicWeaponTitle	Arma mágica
+Feature/&MartialSpellbladeSpellcastingDescription	Lance feitiços de mago e truques das escolas de conjuração, evocação, transmutação e encantamento.
+Feature/&MartialSpellbladeSpellcastingTitle	Feitiço
+Feature/&MoveBurrowDescription	Toca {0}
+Feature/&MoveClimbDescription	Suba {0}
+Feature/&MoveDescription	Velocidade base de caminhada nas células.
+Feature/&MoveFlyDescription	Voe {0}
+Feature/&MoveIncorporealDescription	Incorpóreo {0}
+Feature/&MoveSwimDescription	Nade {0}
+Feature/&MoveTitle	Mover
+Feature/&MoveWalkDescription	{0}
+Feature/&MyselfFamilyRestrictionsFormat	Se a criatura for: {0}
+Feature/&NoContentTitle	Nenhum
+Feature/&NullifiedByFormat	A menos que o invasor tenha: {0}
+Feature/&PaladinArmorProficiencyTitle	Proficiências em armadura de paladino
+Feature/&PaladinCureDiseaseDescription	Gaste 5 pontos de sua reserva de cura para curar uma doença.
+Feature/&PaladinCureDiseaseTitle	Curar doença
+Feature/&PaladinDivineSenseDescription	Revela celestiais, demônios e mortos-vivos.
+Feature/&PaladinDivineSenseTitle	Sentido Divino
+Feature/&PaladinDivineSmiteDescription	Quando você acerta uma criatura com uma arma corpo-a-corpo, você pode gastar um espaço de magia para causar 2d8 de dano radiante adicional. + 1d8 por nível de slot acima do 1º, + 1d8 ao atingir um morto-vivo ou um demônio.
+Feature/&PaladinDivineSmiteTitle	Punição Divina
+Feature/&PaladinHealingPoolDescription	Uma reserva de poder de cura - 5 pontos por nível de paladino.
+Feature/&PaladinHealingPoolTitle	Piscina de cura
+Feature/&PaladinLayonHandsDescription	Gaste pontos de sua reserva de cura para restaurar o HP perdido.
+Feature/&PaladinLayonHandsHyeronimusDescription	Restaura um grande número de HP perdidos.
+Feature/&PaladinLayonHandsTitle	Impor as mãos
+Feature/&PaladinNeutralizePoisonDescription	Gaste 5 pontos de sua reserva de cura Imposição das Mãos para neutralizar um veneno.
+Feature/&PaladinNeutralizePoisonTitle	Neutralize o veneno
+Feature/&PaladinSacredOathDescription	Selecione e faça o juramento sagrado que o une como paladino para sempre!
+Feature/&PaladinSacredOathTitle	Juramentos sagrados
+Feature/&PaladinSkillsTitle	Habilidades de paladino
+Feature/&PaladinSpellcastingTitle	Paladino Spellcasting
+Feature/&PaladinWeaponProficiencyTitle	Proficiências com armas de paladino
+Feature/&PerceptionAffinityDivinelyRevealedDescription	O tipo e a posição desta criatura são revelados.
+Feature/&PhilosopherFeatureDescription	Você coleta plantas e cria poções mais rápido do que qualquer pessoa que não se aventurou fora de uma oficina.
+Feature/&PhilosopherFeatureTitle	Fitoterapeuta
+Feature/&PhilosopherSkillsDescription	Proficiente em Medicina e Persuasão.
+Feature/&PhilosopherSkillsTitle	Médico
+Feature/&PhilosopherToolsDescription	Proficiente com kit de fitoterapia.
+Feature/&PhilosopherToolsTitle	Alquimista
+Feature/&PowerChannelDivinitySubtitle	Channel Divinity
+Feature/&PowerOathOfDevotionSacredWeaponDescription	Canalize a Divindade para abençoar uma arma. Por 1 minuto, adicione seu modificador de Carisma para acertar com aquela arma (mínimo +1). A arma também emite luz brilhante em 4 células e luz fraca em mais 4 células, e seus ataques contam como mágicos.
+Feature/&PowerOathOfDevotionSacredWeaponShortTitle	Arma Sagrada
+Feature/&PowerOathOfDevotionSacredWeaponTitle	Canal Divindade: Arma Sagrada
+Feature/&PowerOathOfDevotionTurnUnholyDescription	Canalize Divindade para forçar demônios e mortos-vivos dentro de 6 células que podem ver você fugir, a menos que façam um teste de resistência de Sabedoria com sucesso.
+Feature/&PowerOathOfDevotionTurnUnholyShortTitle	Torne o Profano
+Feature/&PowerOathOfDevotionTurnUnholyTitle	Channel Divinity: Turn the Unholy
+Feature/&PowerOathOfMotherlandFieryPresenceDescription	Canalize Divindade para oponentes cegos dentro de 12 células que falharem em um teste de Destreza. Criaturas com visão no escuro ou melhor visão no escuro têm desvantagem. A cegueira dura 1d4 turnos.
+Feature/&PowerOathOfMotherlandFieryPresenceShortTitle	Presença Fiery
+Feature/&PowerOathOfMotherlandFieryPresenceTitle	Channel Divinity: Fiery Presence
+Feature/&PowerOathOfMotherlandFieryWrathDescription	Canalize Divindade para ter como alvo uma criatura dentro de 12 células, causando dano de fogo (2d6 + nível de paladino) e incendiando o alvo. Ele pode fazer um teste de Destreza CD 10 para apagar o fogo ou sofrer 1d6 a mais de dano de fogo por turno por um minuto.
+Feature/&PowerOathOfMotherlandFieryWrathShortTitle	Fiery Wrath
+Feature/&PowerOathOfMotherlandFieryWrathTitle	Canal Divindade: Fiery Wrath
+Feature/&PowerOathOfTirmarGoldenSpeechDescription	Canalize Divindade para ganhar vantagem em testes de Persuasão e Intimidação por uma hora.
+Feature/&PowerOathOfTirmarGoldenSpeechShortTitle	Discurso de Ouro
+Feature/&PowerOathOfTirmarGoldenSpeechTitle	Channel Divinity: Golden Speech
+Feature/&PowerOathOfTirmarSmiteTheHiddenDescription	Canalize Divindade para causar 1d6 de dano radiante adicional em ataques que acertem os oponentes com mudança de forma natural ou Visão no escuro (2d6 se ambos). O efeito dura 1 minuto.
+Feature/&PowerOathOfTirmarSmiteTheHiddenShortTitle	Flagelo dos ocultos
+Feature/&PowerOathOfTirmarSmiteTheHiddenTitle	Channel Divinity: Flagge of the Hidden
+Feature/&PowerReckless_Description	Vantagem nas jogadas de ataque corpo a corpo, mas os inimigos também têm vantagem nas jogadas de ataque contra uma criatura imprudente.
+Feature/&PowerReckless_Title	Imprudente
+Feature/&PowerStandardSubtitle	Poder
+Feature/&PowerTraditionGreenmageMagicalArrowDescription	Sua flecha pode se transformar em uma videira com o impacto. O alvo deve fazer um teste de resistência de Força ou ser contido até o final de seu próximo turno. Você pode usar este recurso um número de vezes igual ao seu modificador de Inteligência (mínimo 1). Todos os usos recarregam no final de um longo descanso.
+Feature/&PowerTraditionGreenmageMagicalArrowTitle	Tiro de Emaranhamento
+Feature/&PowerTraditionShockArcanistArcaneFuryDescription	Adicione seu bônus de proficiência e bônus INT ao dano do feitiço de evocação por 1 minuto. Recarrega após um longo descanso.
+Feature/&PowerTraditionShockArcanistArcaneFuryTitle	Fúria Arcana
+Feature/&ProficiencyMarksmanToolChoiceDescription	Kit de ervas ou kit de envenenamento.
+Feature/&ProficiencyMarksmanToolChoiceTitle	Proficiências Adicionais
+Feature/&ProficiencyOathOfTirmarBonusLanguageDescription	Quando você faz o juramento de Tirmar, você adquire a língua tirmariana.
+Feature/&ProficiencyOathOfTirmarBonusLanguageTitle	Linguagem de bônus
+Feature/&RangerArchetypeDescription	Selecione um arquétipo de Ranger que o guiará em suas viagens.
+Feature/&RangerArchetypeTitle	Arquétipos de Ranger
+Feature/&RangerArmorProficiencyTitle	Proficiências com armadura de Ranger
+Feature/&RangerFavoredEnemyDescription	Ganhe vantagem em testes de habilidade para este tipo de criatura e dano adicional contra ele igual ao seu nível de conhecimento.
+Feature/&RangerFavoredEnemyTitle	Inimigo Favorecido
+Feature/&RangerNaturalExplorerByTypeDescription	Você é adepto de viver e viajar em um determinado tipo de terreno: {0}.
+Feature/&RangerNaturalExplorerByTypeTitle	Explorador Natural {0}
+Feature/&RangerNaturalExplorerDescription	Você é adepto de viver e viajar em um determinado tipo de terreno.
+Feature/&RangerNaturalExplorerTitle	Explorador Natural
+Feature/&RangerPrimevalAwarenessDescription	Detecta a presença de certos tipos de criaturas no local.
+Feature/&RangerPrimevalAwarenessTitle	Consciência Primitiva
+Feature/&RangerShadowTamerDarkSlayerDescription	Ao atacar uma criatura com visão no escuro superior com uma arma, você adiciona seu bônus de proficiência ao seu dano.
+Feature/&RangerShadowTamerDarkSlayerTitle	Dark Slayer
+Feature/&RangerShadowTamerTunnelWisdomDescription	Quando em pouca luz ou escuridão, você ganha vantagem nos testes de resistência de Destreza.
+Feature/&RangerShadowTamerTunnelWisdomTitle	Sabedoria do túnel
+Feature/&RangerSkillsTitle	Habilidades de guarda florestal
+Feature/&RangerSpellcastingTitle	Lançamento de feitiços de ranger
+Feature/&RangerWeaponProficiencyTitle	Proficiências com arma de patrulheiro
+Feature/&RitualCastingPreparedDescription	Você pode lançar um feitiço como um ritual se aquele feitiço tiver a etiqueta de ritual e você tiver o feitiço preparado.
+Feature/&RitualCastingPreparedTitle	Elenco Ritual
+Feature/&RitualCastingSpellbookDescription	Você pode lançar um feitiço como um ritual se o feitiço tiver a etiqueta de ritual e você a tiver em seu livro de feitiços. Você não precisa ter o feitiço preparado.
+Feature/&RitualCastingSpellbookTitle	Elenco Ritual
+Feature/&RogueArmorProficiencyTitle	Proficiências em Rogue Armor
+Feature/&RogueCunningActionDescription	Você pode realizar uma ação bônus em cada um de seus turnos no combate. Esta ação pode ser usada apenas para executar a ação Dash, Disengage ou Hide.
+Feature/&RogueCunningActionTitle	Ação astuta
+Feature/&RogueEvasionTitle	Evasão
+Feature/&RogueExpertiseDescription	Selecione 2 habilidades ou ferramentas proficientes para dobrar seu bônus de proficiência.
+Feature/&RogueExpertiseTitle	Perícia
+Feature/&RogueRoguishArchetypesDescription	Selecione um Arquétipo Roguish que conduzirá seus talentos em várias direções.
+Feature/&RogueRoguishArchetypesTitle	Arquétipos Roguish
+Feature/&RogueSkillPointsTitle	Rogue Skills
+Feature/&RogueSneakAttackDescription	1d6 de dano extra (+ 1d6 a cada 2 níveis) em uma criatura que você acertou com vantagem usando uma arma de alcance ou sutileza uma vez por turno. Não há necessidade de vantagem se um aliado ativo estiver próximo ao alvo.
+Feature/&RogueSneakAttackTitle	Ataque surpresa
+Feature/&RogueToolsTitle	Ferramentas Rogue
+Feature/&RogueWeaponProficiencyTitle	Proficiências com armas desonestos
+Feature/&RoguishDarkweaverBonusProficiencyDescription	Proficiente com o kit do envenenador.
+Feature/&RoguishDarkweaverBonusProficiencyTitle	Proficiência de bônus
+Feature/&RoguishDarkweaverPredatorDescription	Ao atingir um inimigo em um terreno mais baixo com uma arma de longo alcance, adicione seu bônus de proficiência ao dano.
+Feature/&RoguishDarkweaverPredatorTitle	Predator
+Feature/&RoguishDarkweaverSpiderOnWallDescription	A escalada não custa mais movimento extra e as superfícies de escalada difíceis são consideradas normais para você.
+Feature/&RoguishDarkweaverSpiderOnWallTitle	Aranha na parede
+Feature/&RoguishShadowcasterShadowDodgeDescription	Como uma ação bônus, teletransporte-se para uma célula que você pode ver dentro de 5 células. Recarrega após um descanso.
+Feature/&RoguishShadowcasterShadowDodgeTitle	Shadow Dodge
+Feature/&RoguishShadowcasterSpellcastingDescription	Lance feitiços e truques de feiticeiros das escolas de adivinhação, ilusão, necromancia e abjuração.
+Feature/&RoguishShadowcasterSpellcastingTitle	Feitiço
+Feature/&RoguishThiefFastHandsDescription	Cunning Action permite que você execute a ação Use an Object.
+Feature/&RoguishThiefFastHandsTitle	Mãos rapidas
+Feature/&RoguishThiefSecondStoryDescription	A escalada não custa mais movimento extra, as superfícies de escalada difíceis são consideradas normais para você e você pode pular distâncias mais longas.
+Feature/&RoguishThiefSecondStoryTitle	Trabalho da segunda história
+Feature/&SavingThrowAdvantageFormat	Vantagem em {0} testes de resistência
+Feature/&SavingThrowAutomaticallyFailedFormat	Falha automaticamente em {0} testes de resistência
+Feature/&SavingThrowBonusFormat	{0} em {1} testes de resistência
+Feature/&SavingThrowBonusWithDiceFormat	{0} {1} em {2} testes de resistência
+Feature/&SavingThrowDisadvantageFormat	Desvantagem em {0} testes de resistência
+Feature/&SavingThrowProficiencyDescription	{0}
+Feature/&SavingThrowProficiencyTitle	Proficiências no Saving Throw
+Feature/&SavingThrowSpecialHalfDamageFormat	Quando você tem que fazer um teste de resistência {0} para receber metade do dano de um efeito, em vez disso, você não recebe dano se tiver sucesso no teste de resistência e apenas metade do dano se falhar.
+Feature/&SellswordFeatureDescription	Vantagem ao falar com guardas, soldados e oficiais
+Feature/&SellswordFeatureTitle	Guerreiro
+Feature/&SellswordSkillsArmorDescription	Proficiente com armadura média.
+Feature/&SellswordSkillsArmorTitle	Blindado
+Feature/&SellswordSkillsDescription	Proficiente em Atletismo e Intimidação.
+Feature/&SellswordSkillsTitle	Soldado
+Feature/&SkillGainChoicesPluralDescription	Escolha {0} destas habilidades: {1}
+Feature/&SkillGainChoicesSingleDescription	Escolha uma destas habilidades: {0}
+Feature/&SkillGainDoubleDescription	Escolha quaisquer 2 habilidades.
+Feature/&SkillGainDoubleTitle	Habilidades bônus
+Feature/&SkillGainSingleDescription	Escolha qualquer habilidade
+Feature/&SkillGainSingleTitle	Habilidade bônus
+Feature/&SkillProficiencyPluralDescription	Proficiente com estas habilidades: {0}
+Feature/&SkillProficiencySingleDescription	Proficiência com esta habilidade: {0}
+Feature/&SkillProficiencyTitle	Habilidades: {0}
+Feature/&SocialAffinityAdvantageFormat	Vantagem em "{0}" verifica para organizações "{1}"
+Feature/&SocialAffinityDisadvantageFormat	Desvantagem em "{0}" verifica em relação a organizações "{1}"
+Feature/&Sorak_Saboteur_Immunity_Description	Este tipo de Sorr-Akkath parece capaz de ignorar sua sensibilidade à luz.
+Feature/&Sorak_Saboteur_Immunity_Title	Imune à sensibilidade à luz
+Feature/&SorakCallOfTheNight_Description	Recupere 2d8 pontos de vida instantaneamente
+Feature/&SorakCallOfTheNight_Title	Chamada da noite
+Feature/&SorakCursedBreath_Description	Remova uma condição benéfica de um inimigo.
+Feature/&SorakCursedBreath_Title	Respiração Amaldiçoada
+Feature/&SorakDoomLaughter_Condition_Description	Vulnerável a veneno e danos perfurantes até o final do próximo turno.
+Feature/&SorakDoomLaughter_Condition_Title	Condenado
+Feature/&SorakDoomLaughter_Description	Amaldiçoe todos os inimigos em células vizinhas para sofrer mais danos.
+Feature/&SorakDoomLaughter_Title	Riso da desgraça
+Feature/&SorakShadowEscape_Description	Teleporte até 5 células de distância.
+Feature/&SorakShadowEscape_Title	Shadow Escape
+Feature/&SorakShadowMurder_Condition_Description	Invisível e pronto para realizar um ataque mortal.
+Feature/&SorakShadowMurder_Condition_Title	Assassinato Sombrio
+Feature/&SorakShadowMurder_Description	Use Shadow Murder.
+Feature/&SorakShadowMurder_Title	Assassinato Sombrio
+Feature/&SorakShriek_Description	Um grito aterrorizante que infunde medo nos corações dos homens.
+Feature/&SorakShriek_Title	Grito
+Feature/&SorakTouchOfDarkness_Description	Um toque deste Sorak causa danos necróticos!
+Feature/&SorakTouchOfDarkness_Title	Toque de escuridão
+Feature/&SorakTranceOfSorrtarr_Condition_Description	Imune à sensibilidade à luz.
+Feature/&SorakTranceOfSorrtarr_Condition_Title	Trance of Sorr-Tarr
+Feature/&SorakTranceOfSorrtarr_Description	Use Trance of Sorr-Tarr.
+Feature/&SorakTranceOfSorrtarr_Title	Trance of Sorr-Tarr
+Feature/&SpellPowerDescription	Pode lançar o {0} feitiço {1}
+Feature/&SpyFeatureDescription	Você já viu espionagem suficiente para reconhecer um colega espião ao ver um.\nVocê pode se comunicar secretamente com outros espiões.
+Feature/&SpyFeatureTitle	Tradecraft
+Feature/&SpyLanguageDescription	Você aprendeu vários códigos usados ​​por organizações de inteligência nos Reinos do Leste e é capaz de decifrar a maioria deles.
+Feature/&SpyLanguageTitle	Spy Cypher
+Feature/&SpySkillsDescription	Proficiente em Furtividade e Engano.
+Feature/&SpySkillsTitle	Spycraft
+Feature/&SpySkillsToolsDescription	Proficiente com a natureza e o kit de envenenador.
+Feature/&SpySkillsToolsTitle	Diplomacia Rough
+Feature/&SylvanMoveSpeedDescription	Sua velocidade base de caminhada é de 7 células.
+Feature/&SylvanMoveSpeedTitle	Sylvan Swiftness
+Feature/&ToolProficiencyPluralDescription	Proficiente com estas ferramentas: {0}
+Feature/&ToolProficiencyPluralShortDescription	{0}
+Feature/&ToolProficiencySingleDescription	Proficiência com esta ferramenta: {0}
+Feature/&ToolProficiencySingleShortDescription	{0}
+Feature/&ToolProficiencyTitle	Ferramentas: {0}
+Feature/&TraditionGreenmageGreenMagicDescription	Os feitiços da lista de Magia Verde são considerados feitiços de mago para você: {0}
+Feature/&TraditionGreenmageGreenMagicTitle	Magia Verde
+Feature/&TraditionGreenmageWardenOfTheForestDescription	Proficiência: armadura leve\n\nProficiência: Shortbow\nEstilo de luta: tiro com arco\n\nExplorador natural: você se beneficia das mesmas vantagens que os Rangers quando está em um ambiente de floresta.
+Feature/&TraditionGreenmageWardenOfTheForestTitle	Guardião da floresta
+Feature/&TraditionLoremasterKeenMindDescription	Vantagem nas verificações de habilidade de Arcana, História e Investigação\nVantagem de copiar pergaminhos para o seu livro de feitiços\nOs custos e tempos de fabricação de pergaminhos e poções são reduzidos pela metade
+Feature/&TraditionLoremasterKeenMindTitle	Mente aguçada
+Feature/&TraditionPotentCantripDescription	VAZIO
+Feature/&TraditionPotentCantripTitle	VAZIO
+Feature/&TraditionSavantDescription	Quando você seleciona esta escola no 2º nível, o ouro e o tempo necessários para copiar um feitiço da escola {0} em seu livro de feitiços são reduzidos pela metade. Além disso, você gasta metade do tempo normal para criar poções, pergaminhos ou outros itens.
+Feature/&TraditionSavantTitle	{0} Savant
+Feature/&TraditionSavantVoyelDescription	Começando quando você seleciona esta escola no 2º nível, o ouro e o tempo que você deve gastar para copiar {0} feitiços em seu livro de feitiços é reduzido pela metade.
+Feature/&TraditionShockArcanistArcaneWarfareDescription	Ao lançar feitiços da lista de Guerra, eles contam como sendo lançados em um nível de slot superior ao que você realmente usa: {0}.
+Feature/&TraditionShockArcanistArcaneWarfareTitle	Guerra Arcana
+Feature/&UncannyDodgeDescription	Quando um atacante que você pode ver o atinge com um ataque, você pode usar sua reação para reduzir pela metade o dano do ataque.
+Feature/&UncannyDodgeTitle	Esquiva Sobrenatural
+Feature/&VisionBlindsightDescription	TBD
+Feature/&VisionBlindsightTitle	Visão às Cegas
+Feature/&VisionDarkvisionDescription	Veja normalmente com pouca luz e na escuridão natural como se estivesse com pouca luz.
+Feature/&VisionDarkvisionTitle	Visão no escuro
+Feature/&VisionDetectInvisibilityDescription	A criatura pode ver criaturas e objetos invisíveis.
+Feature/&VisionDetectInvisibilityTitle	Veja invisibilidade
+Feature/&VisionNormalVisionDescription	A visão é normal e sujeita às condições de iluminação padrão.
+Feature/&VisionNormalVisionTitle	Visão normal
+Feature/&VisionSuperiorDarkvisionDescription	Dentro do intervalo especificado, uma criatura com visão no escuro superior pode ver perfeitamente em todas as condições de iluminação.
+Feature/&VisionSuperiorDarkvisionTitle	Visão no escuro superior
+Feature/&VisionTremorsenseDescription	A criatura pode sentir vibrações.
+Feature/&VisionTremorsenseTitle	Tremorsense
+Feature/&VisionTruesightTitle	Truesight
+Feature/&WarListSpellFormat	Lista de guerra: {0}
+Feature/&WeaponTrainingDescription	Proficiente com {0}.
+Feature/&WeaponTrainingShortDescription	{0}
+Feature/&WizardArcaneTraditionsDescription	Concede a você especialização com um certo tipo de magia.
+Feature/&WizardArcaneTraditionsTitle	Tradições arcanas
+Feature/&WizardSkillPointsTitle	Habilidades de feiticeiro
+Feature/&WizardSpellcastingTitle	Feiticeiro de feitiço
+Feature/&WizardToolsDescription	Você foi treinado para escrever pergaminhos mágicos e usar equipamentos encantadores.
+Feature/&WizardToolsTitle	Artesanato mágico
+Feature/&WizardWeaponProficiencyTitle	Proficiências com arma de mago
+Feature/&CombatAffinityPackTacticsTitle	Pack Tactics
+Feature/&CombatAffinityPackTacticsDescription	Uma criatura com Táticas de Pacote tem vantagem em uma jogada de ataque contra uma criatura se pelo menos um aliado estiver a menos de 1,5 m da criatura e o aliado não estiver incapacitado.
+Feature/&AttributeModifierACPlus1Description	+1 para AC.
+Feature/&SavingThrowModifierRingOfProtectionPlusOneDescription	+1 em todos os testes de resistência.
+Feature/&AdditionalDamagePoisonTitle	Envenenado
+Feature/&PowerFunctionApplyPoisonDescription	Aplique este veneno em uma arma alvo.
+Feature/&PowerFunctionApplyPoisonTitle	Aplicar
+Feature/&RegenerationLapseFormat	Gere novamente {0} pontos de vida a cada {1}.
+Feature/&RegenerationChildOfDarknessTitle	Regeneração
+Feature/&RegenerationChildOfDarknessDescription	Soraks regenera a vida quando na penumbra ou escuridão.
+Feature/&RegenerationDefilerTitle	Regeneração
+Feature/&RegenerationDefilerDescription	Os profanadores regeneram 10 HP por rodada quando na escuridão total.
+Feature/&Cutthroat_Finisher_Title	Finalizador
+Feature/&Cutthroat_Predator_Title	Predator
+Feature/&Cutthroat_Predator_Description	Cutthroats causam 2 pontos de dano de modo ao atacar alvos à distância em terrenos mais baixos.
+Feature/&AttributeModifierBracersDefenseDescription	+2 na CA quando não estiver usando armadura ou escudo.
+Feature/&VisionTruesightDescription	Esta criatura pode ver na escuridão normal e mágica, e pode ver através da invisibilidade e ilusões.
+Feature/&PowerFunctionManualStudyTitle	Estudar
+Feature/&MinimalBaseSpeedFormat	Velocidade mínima: {0}
+Feature/&MinimalBaseSpeedFormatSingle	Velocidade mínima: {0} ({1})
+Feature/&EncumbranceImmunityFormat	Não afetado por penalidades de ônus.
+Feature/&HeavyArmorImmunityFormat	Não afetado por penalidades de armadura pesada.
+Feature/&CharacterPresentationBeltOfDwarvenKindDescription	50% de chance de deixar crescer a barba.
+Feature/&AttributeModifierBeltOfDwarvenkindDescription	+2 para CON.
+Feature/&ProficiencyBeltOfDwarvenKindDescription	Pode falar, ler e escrever em anões.
+Feature/&DeflectMissileDescription	Pode usar uma reação para reduzir o dano de um míssil que se aproxima.
+Feature/&DeflectMissileTitle	Desviar míssil
+Feature/&PowerFunctionDustDisappearanceTitle	Lançar
+Feature/&PowerFunctionDustDisappearanceDescription	Jogue a poeira no ar para tornar todas as criaturas dentro de 2 células invisíveis por alguns minutos.
+Feature/&EscapingPerceptionSuffix	ao avistar o portador
+Feature/&ResistingShoveSuffix	ao empurrar o portador
+Feature/&ConditionAffinityCloakOfArachnidaDescription	Não pode ser restringido por teias.
+Feature/&MovementAffinityCloakOfArachnidaDescription	Pode mover-se ao longo de paredes.
+Feature/&SavingThrowAffinityGemNecromancyTitle	+2 para testes de resistência contra feitiços de Necromancia
+Feature/&SavingThrowAffinityGemAbjurationTitle	+2 para testes de resistência contra feitiços de abjuração
+Feature/&SavingThrowAffinityGemEvocationTitle	+2 para testes de resistência contra feitiços de evocação
+Feature/&SavingThrowAffinityGemIllusionTitle	+2 para testes de resistência contra feitiços de ilusão
+Feature/&SavingThrowAffinityGemConjurationTitle	+2 para testes de resistência contra feitiços de Conjuração
+Feature/&SavingThrowAffinityGemEnchantmentTitle	+2 para testes de resistência contra feitiços de encantamento
+Feature/&SavingThrowAffinityGemDivinationTitle	+2 para testes de resistência contra feitiços de Adivinhação
+Feature/&SavingThrowAffinityGemTransmutationTitle	+2 para testes de resistência contra feitiços de transmutação
+Feature/&SavingThrowAffinityCrownOfTheMagisterTitle	+1 nos testes de resistência
+Feature/&AbilityCheckAffinityCrownOfTheMagisterTitle	+2 para verificações de Intimidação e Persuasão
+Feature/&StoneOfGoodLuckAbilityCheckAffinity_Description	+1 para testes de habilidade.
+Feature/&RingOfAllWordsDescription	Proficiência em todos os idiomas.
+Feature/&AttributeModifierACPlus2Description	+2 para AC.
+Feature/&PowerFunctionApplyOilOfSharpnessDescription	Aplique este óleo em uma arma alvo.
+Feature/&MantleOfSpellResistance_Function_Description	Vantagem em testes de resistência contra feitiços
+Feature/&HalflingBraveDescription	Vantagem em testes de resistência contra o medo
+Feature/&PowerWinterWolfBreathTitle	Respiração Fria
+Feature/&PowerWinterWolfBreathDescription	Um vento gelado soprado pelo Lobo do Inverno que causa dano de frio.
+Feature/&SavingThrowRestrictedSchoolFormat	{0} feitiços
+Feature/&Fire_Osprey_Blast_Title	Explosão
+Feature/&Fire_Osprey_Blast_Description	O Fire Osprey emite uma rajada de fogo que danifica todas as células ao redor.
+Feature/&AttributeModifierACPlus3Description	+3 para AC
+Feature/&MagicAffinityBattleMagicTitle	Battle Magic
+Feature/&MagicAffinityBattleMagicDescription	Pode lançar feitiços com um componente somático sem uma mão livre, desde que uma arma ou escudo esteja sendo empunhado.
+Feature/&Cutthroat_Finisher_Description	Uma vez por turno, Cutthroats causam 1D6 de dano adicional a oponentes já feridos.
+Feature/&AttackModifierAttackRollIncreasedDescription	A jogada de ataque é aumentada.
+Feature/&AttackModifierDamageRollIncreasedDescription	A rolagem de dano é aumentada.
+Feature/&ConditionAutoCriticalFormat	Todos os ataques recebidos são acertos críticos.
+Feature/&SavingThrowByAbilityScoreBonus	[habilidade] em {0} testes de resistência
+Feature/&DomainBattleExtraAttackTitle	Scholar of Battle
+Feature/&AdditionalDamageDomainLifeDivineStrikeDescription	+ 1D8 de dano radiante em ataques com armas, uma vez por turno.
+Feature/&AdditionalDamageDomainLifeDivineStrikeTitle	Golpe Divino
+Feature/&DomainElementalHeraldOfTheElementsFireShortTitle	Call Upon Fire
+Feature/&DomainElementalHeraldOfTheElementsFireTitle	Arauto dos Elementos:\nCall Upon Fire
+Feature/&DomainElementalHeraldOfTheElementsColdDescription	O alvo sofre dano de frio e deve ser bem-sucedido em um teste de resistência de STR ou ser contido até o final de seu próximo turno. Pode ser usado um número de vezes igual ao seu bônus WIS até um longo descanso.
+Feature/&DomainElementalHeraldOfTheElementsColdShortTitle	Call Upon Cold
+Feature/&DomainElementalHeraldOfTheElementsColdTitle	Arauto dos Elementos:\nCall Upon Cold
+Feature/&DomainElementalHeraldOfTheElementsThunderDescription	A criatura na área deve ter sucesso com um teste de CON ou sofrer dano de raio e ser contida até o final de seu próximo turno. Pode ser usado um número de vezes igual ao seu bônus WIS até um longo descanso.
+Feature/&DomainElementalHeraldOfTheElementsThunderShortTitle	Call Upon Thunder
+Feature/&DomainElementalHeraldOfTheElementsThunderTitle	Arauto dos Elementos:\nCall Upon Thunder
+Feature/&DomainInsightDivineLoreDescription	Você conhece todas as línguas, escritas e faladas. Além disso, você pode identificar um item mágico uma vez em cada descanso prolongado.
+Feature/&DomainInsightDivineLoreTitle	Conhecimento Divino
+Feature/&DomainInsightDivineLoreIdentifyDescription	Revela as propriedades e funções mágicas de um item.
+Feature/&DomainInsightDivineLoreIdentifyTitle	Identificação Divina
+Feature/&DomainInsightDomainSpellsTitle	Feitiços de Domínio do Insight
+Feature/&DomainOblivionMarkOfFateDescription	Marque uma criatura que você vê para que receba dano adicional de cada ataque.
+Feature/&DomainOblivionMarkOfFateTitle	Marca do Destino
+Feature/&DomainLawAnathemaDescription	Restringe uma criatura e inflige dano de força a cada turno até que tenha sucesso com um teste de resistência WIS ou 1 minuto tenha passado.
+Feature/&DomainLawAnathemaTitle	Anátema
+Feature/&PowerOathOfMotherlandVolcanicAuraDescription	Criaturas amigáveis ​​na aura ganham resistência ao fogo e +1 na CA.
+Feature/&PowerOathOfMotherlandVolcanicAuraTitle	Aura Vulcânica
+Feature/&PowerOathOfDevotionAuraDevotionDescription	Criaturas amigáveis ​​na aura não podem ser encantadas enquanto você está consciente.
+Feature/&PowerOathOfDevotionAuraDevotionTitle	Aura de Devoção
+Feature/&PowerOathOfTirmarAuraTruthDescription	Criaturas amigáveis ​​na aura ganham visão no escuro superior e +2 percepção.
+Feature/&PowerOathOfTirmarAuraTruthTitle	Aura da verdade
+Feature/&FeatureSetHunterDefensiveTacticsDescription	Escolha uma das seguintes opções:
+Feature/&FeatureSetHunterDefensiveTacticsTitle	Táticas de Defesa
+Feature/&HunterEscapeTheHordeDescription	Ataques de oportunidade contra você são feitos com desvantagem.
+Feature/&tHunterEscapeTheHordeTitle	Escapar da horda
+Feature/&HunterMultiattackDefenseDescription	Quando uma criatura acerta você com um ataque, você ganha +4 de bônus na CA contra todos os ataques subsequentes feitos por aquela criatura pelo resto do turno.
+Feature/&HunterMultiattackDefenseTitle	Defesa Multiataque
+Feature/&HunterSteelWillDescription	Vantagem em testes de resistência contra o medo
+Feature/&HunterSteelWillTitle	Vontade de aço
+Feature/&ShadowTamerRopeGrappleDescription	Mire em uma criatura e tente puxá-la se ela falhar em um concurso de STR.
+Feature/&ShadowTamerRopeGrappleTitle	Garra de corda
+Feature/&ShadowTamerKnowDarknessDescription	Enquanto na penumbra ou sem luz, você tem vantagem em furtividade, verificações de investigação de percepção e ganho de tremorsense.
+Feature/&ShadowTamerKnowDarknessTitle	Conheça as Trevas
+Feature/&MarksmanRecyclerDescription	Você pode criar flechas sempre que fizer um descanso curto ou longo.
+Feature/&MarksmanRecyclerTitle	Reciclador
+Feature/&MarksmanStepbackDescription	Quando você está dentro do alcance corpo a corpo de uma criatura inimiga, você pode usar sua ação bônus para mover uma célula sem provocar ataques de oportunidade e ganhar vantagem em seu próximo ataque com uma arma de longo alcance neste turno.
+Feature/&MarksmanStepbackTitle	Recuar
+Feature/&MoutaineerCloseQuartersDescription	Como uma ação bônus, você pode forçar uma troca de posições com um inimigo dentro do alcance corpo-a-corpo realizando um desafio STR vs STR ou DEX, assim como para empurrar. Você não está aberto a ataques de oportunidade ao fazer isso. Se for bem-sucedido, você tem a vantagem de atacar esta criatura até o final do seu turno.
+Feature/&MoutaineerCloseQuartersTitle	Close Quarters
+Feature/&ChampionRemarkableAthleteDescription	Adicione metade do seu bônus de proficiência (arredondado para cima) a qualquer teste de Força, Destreza ou Constituição que você fizer que ainda não use seu bônus de proficiência. Além disso, sua distância de salto e habilidades de escalada também aumentam.
+Feature/&ChampionRemarkableAthleteTitle	Atleta Notável
+Feature/&SpellbladeIntoTheFrayDescription	Você pode usar qualquer arma corpo-a-corpo com a qual seja proficiente como foco de lançamento de feitiços para seus feitiços de mago, e pode executar seus componentes somáticos com a arma em vez de com a mão. Além disso, estar próximo a uma criatura hostil não impõe desvantagem em suas jogadas de ataque de feitiço à distância.
+Feature/&SpellbladeIntoTheFrayTitle	Into the Fray
+Feature/&Smith_Title	Smithing
+Feature/&Smith_Description	Você é treinado para criar munição básica com as ferramentas do ferreiro: flechas e parafusos.
+Feature/&PowerVeil_Title	Dark Veil
+Feature/&PowerVeil_Description	Um véu de escuridão e desespero cobre uma área ao redor do Defiler. Todas as criaturas, exceto os profanadores e sua ninhada, têm desvantagem nos ataques.
+Feature/&Power_Grimblade_Soulscape_Title	Soulscape
+Feature/&DomainElementalHeraldOfTheElementsFireDescription	O alvo sofre dano de fogo e deve passar em um teste de resistência de STR ou ser empurrado. Pode ser usado um número de vezes igual ao seu bônus WIS até um longo descanso.
+Feature/&PowerBloodFealty_Title	Sangue Fealty
+Feature/&PowerBloodFealty_Description	Um Defiler pode drenar o poder vital da ninhada que ele criou.
+Feature/&RogueEvasionDescription	Quando você está sujeito a uma área de efeito que permite que você faça um teste de resistência de Destreza para receber apenas metade do dano, você não recebe dano se tiver sucesso no teste de resistência, e apenas metade do dano se falhar.
+Feature/&SorakImmunity_MindEffects_Title	Mente das trevas
+Feature/&SorakImmunity_MindEffects_Description	Sorr-Akkath tem uma mente de pura escuridão. Protegidos pelos dons de seu deus, eles estão alheios às tentativas de encantar e dominar.
+Feature/&ShockArcanistWarcastingTitle	Warcasting
+Feature/&ShockArcanistWarcastingDescription	Depois de se esforçar para lidar com a reação de choque arcana, você se torna proficiente em testes de resistência de Constituição.
+Feature/&ShockArcanistArcaneShockTitle	Choque Arcano
+Feature/&ShockArcanistArcaneShockDescription	Você sobrecarrega seu mana e fica restringido até o final do seu turno. No entanto, quando você lança um feitiço de ataque, seus dados de dano estão sempre acima da média. Em troca, você faz um teste de resistência de CON CD 14 e sofre 2d6 de dano psíquico se falhar.
+Feature/&GreenMageLeafScalesTitle	Escamas de Folha
+Feature/&GreenMageLeafScalesDescription	Quando um atacante que você pode ver o atinge com um ataque à distância ou feitiço, você pode usar sua reação para reduzir pela metade o dano do ataque contra você.
+Feature/&LoreMasterArcaneLoreTitle	Conhecimento Arcano
+Feature/&LoreMasterArcaneLoreDescription	Você pode adicionar seu bônus de proficiência ao número de feitiços que pode memorizar. Você também aprende duas dicas adicionais da lista do Wizard.
+Feature/&SpellBladeSpellTyrantTitle	Feitiço Tirano
+Feature/&SpellBladeSpellTyrantDescription	Escolha uma criatura e mova-a uma célula em qualquer direção se falhar em um teste de resistência de STR.
+Feature/&ChampionAdditionalFightingStyleTitle	Estilo de luta adicional
+Feature/&ChampionAdditionalFightingStyleDescription	Escolha uma nova opção de estilo de luta.
+Feature/&MountaineerShieldChargeTitle	Empurrão de escudo
+Feature/&MountaineerShieldChargeDescription	Desde que empunhe um escudo, você pode empurrar um oponente como uma ação bônus.
+Feature/&IndomitableResistanceTitle	Indomável
+Feature/&IndomitableResistanceDescription	Você pode rolar novamente um teste de resistência que falhou. Se você fizer isso, deverá usar o novo teste e não poderá usar esse recurso novamente até terminar um longo descanso.
+Feature/&PowerRangerHideInPlainSightTitle	Esconder-se à vista de todos
+Feature/&PowerRangerHideInPlainSightDescription	Você pode passar 1 minuto criando camuflagem para si mesmo. Uma vez camuflado, você ganha +10 DEX (Furtividade) enquanto está encostado em uma parede. Você tem que reiniciar a camuflagem toda vez que você descansar ou mudar para outro local.
+Feature/&PowerClericDivineInterventionTitle	Intervenção divina
+Feature/&PowerClericDivineInterventionDescription	Você tenta solicitar a ajuda de sua divindade, com uma chance de sucesso de 1% por nível de clérigo.
+Feature/&ThiefSupremeSneakTitle	Supreme Sneak
+Feature/&ThiefSupremeSneakDescription	Você tem vantagem em testes de habilidade DEX (Furtividade).
+Feature/&ClericTurnUndeadAdvancedTitle	Turn Undead (Destruir)
+Feature/&ClericTurnUndeadAdvancedDescription	Canalize Divindade para forçar criaturas mortas-vivas dentro de 6 células que podem ver você fugir, a menos que façam um teste de resistência de Sabedoria com sucesso.\nCriaturas mortas-vivas com uma taxa de desafio de {0} ou inferior que falham no teste de resistência são, em vez disso, destruídas.
+Feature/&ShadowRetributionTitle	Shadow Retribution
+Feature/&ShadowRetributionDescription	Se você for alvo de um feitiço de dano, quer ele o cause ou não, você pode lançar um feitiço de fogo em reação ao lançador.
+Feature/&DarkweaverPoisonousTitle	Venenoso
+Feature/&DarkweaverPoisonousDescription	Quando você acerta com uma arma corpo-a-corpo e causa pelo menos 1 ponto de dano, seu alvo deve fazer um teste de resistência de CON CD 13 ou ele será envenenado por uma hora e receberá 2d6 de dano adicional.
+Feature/&PowerRemorazSwallowTitle	Engolir
+Feature/&PowerRemorazSwallowDescription	O Remorhaz pode engolir uma criatura que agarrou com sucesso e infligirá dano de ácido a cada turno, a menos que receba dano suficiente para forçá-lo a regurgitar.
+Feature/&PowerDragonBreath_Poison_Title	Respiração Venenosa
+Feature/&PowerDragonBreath_Poison_Description	Este dragão pode respirar um cone de veneno devastador.
+Feature/&DragonFrightfulPresence_Title	Presença assustadora
+Feature/&DragonFrightfulPresence_Description	Os dragões são tão poderosos que sua presença pode aterrorizar aqueles que não têm coragem.
+Feature/&DragonWingAttack_Title	Ataque de asa
+Feature/&DragonWingAttack_Description	Os dragões podem bater suas asas para produzir vento suficiente para impelir a maioria dos humanóides para longe e derrubá-los.
+Feature/&PowerDragonBreath_Fire_Title	Respiração de fogo
+Feature/&PowerDragonBreath_Fire_Description	Este dragão pode respirar um cone de fogo devastador.
+Feature/&PowerDragonBreath_Acid_Title	Respiração ácida
+Feature/&PowerDragonBreath_Acid_Description	Este dragão pode respirar um cone de ácido devastador.
+Feature/&DefilerShadowEscape_Title	Misty Form
+Feature/&DefilerShadowEscape_Description	Os profanadores são capazes de se transformar em névoa e se teletransportar quase à vontade.
+Feature/&HeartOfFireTitle	Coração de fogo
+Feature/&HeartOfDescriptionTitle	Arrok tornou-se um com o vulcão. Ficar ao lado dele causa Dano de Fogo.
+Feature/&LaetharParalyzingGaze_Title	Olhar paralisante
+Feature/&LaetharParalyzingGaze_Description	O olhar do imperador paralisa os fracos.
+Feature/&LaetharShadowEscape_Title	Movimento fantasmagórico
+Feature/&LaetharShadowEscape_Description	Laethar é capaz de se transformar em névoa e se teletransportar quase à vontade.
+Feature/&SpiderQueenEatFriends_Title	Canibalismo
+Feature/&SpiderQueenEatFriends_Description	A rainha da aranha come um de seus filhotes para recuperar HP.
+Feature/&SpiderQueenPoisonCloud_Title	Nuvem venenosa
+Feature/&SpiderQueenPoisonCloud_Description	A rainha-aranha ejeta uma saraivada de pequenas pontas envenenadas ao redor de seu corpo.
+Feature/&Power_Phase_Spider_Teleport_Title	Ethereal Jaunt
+Feature/&Power_Phase_Spider_Teleport_Description	As aranhas de fase podem mudar de plano à vontade.
+Feature/&CriticalHitImmunityTitle	Imunidade a ataques críticos
+Feature/&CriticalHitImmunityDescription	Acertos críticos são considerados acertos normais para a criatura.

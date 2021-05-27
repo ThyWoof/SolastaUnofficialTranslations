@@ -1,3 +1,4 @@
 VisualMood/&CryptTitle	Crypt
 VisualMood/&InfernoTitle	Inferno
 VisualMood/&StrangeTitle	Strange
+VisualMood/&ClearOutdoorTitle	Clear Weather

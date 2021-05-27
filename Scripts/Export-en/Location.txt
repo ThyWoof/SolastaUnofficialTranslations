@@ -14,7 +14,7 @@ Location/&SouthCryptTitle	South Crypt
 Location/&TirmarianTower_Description	Above the outpost of Caer Lem stands an ancient Tirmarian Tower, smashed into the mountain's flank. It was brought here during the Cataclysm, along with everything inside.
 Location/&TirmarianTower_Title	Tirmarian Tower
 Location/&Tower_Of_Magic_Description	The survivors of Caer Lem told you that the Sorr-Akkaths attacked after they had discovered a ruin in the Badlands. Following their directions, you have traveled to this location, hoping to find traces of the legendary monsters.
-Location/&Tower_Of_Magic_Title	Tower of Magic
+Location/&Tower_Of_Magic_Title	Manacalon Ruin
 Location/&Tutorial_Tavern_Scene_Description	Adventurers gather at the Gravekeep's Cask to answer a call from the Legacy Council, which is recruiting new deputies for its operations inside and outside the Principality.
 Location/&Tutorial_Tavern_Scene_Title	The Gathering
 Location/&Encounter_Hamlet_Title	Hamlet
@@ -27,3 +27,7 @@ Location/&CradleOfFire_Necropolis_Title	Sentharyllian Necropolis
 Location/&CradleOfFire_Necropolis_Description	Deep in the volcano is the sunken city of Sentharyllian and its necropolis, home of the deceased Imperials who inhabited it.
 Location/&NPEmbassy_Title	New Empire Embassy
 Location/&NPEmbassy_Description	This embassy is nearby the Legacy Council, in Caer Cyflen.
+Location/&Hickory_Description	This is a well-known site in the Principality, where ruins of the Manacalon Empire serve as landmarks for travelers.
+Location/&OrcHideout_Title	Silent Whisper Outpost
+Location/&OrcHideout_Description	Bitterroot mentioned this location was an ancient, pre-Cataclysm Silent Whisper outpost. It might have changed a lot, but you might be able to find some archeological items of great value for some factions.
+Location/&UnknownCamp_Title	Camp

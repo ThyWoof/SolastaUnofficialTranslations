@@ -2,7 +2,7 @@ Message/&AbortCreationDescription	Do you want to cancel character creation?
 Message/&AbortCreationTitle	Canceling Character Creation
 Message/&AbortLevelUpDescription	Are you sure you want to cancel the character level-up process?
 Message/&AbortLevelUpTitle	Canceling Character Level Up
-Message/&AmountGainedFormat	{0} gains {1}
+Message/&AmountGainedFormat	
 Message/&AttunementLostDescription	The item "{0}" is no longer attuned.
 Message/&AttunementLostTitle	Attunement Lost
 Message/&AttunementRemovalDescription	Are you sure you want to remove attunement to this item?
@@ -71,14 +71,17 @@ Message/&RestartRequiredTitle	Restart Required
 Message/&ScrollScribeAlreadyInSpellbookDescription	The {0} spell is already in this spellbook
 Message/&ScrollScribeAlreadyInSpellbookTitle	Already in Spellbook
 Message/&MandatoryDestinationFormat	You have to travel to "{0}"
-Message/&CharacterCannotMove	{0} cannot move at all
+Message/&CharacterCannotMove	{0} cannot move at all.
 Message/&OverrideCustomDifficultyTitle	Override Custom Settings
 Message/&OverrideCustomDifficultyDescription	This will revert all custom settings you may have tuned in the Game Settings menu. Do you wish to continue?
 Message/&SteamInitFailedDescription	Could not connect to the Steam client. Please ensure that you launch the game via Steam. A Steam Client restart may be required. The game will now exit.
 Message/&SteamInitFailedTitle	Steam Failed to Initialize
 Message/&NativeCrashDetectedTitle	Game Not Exited Properly
-Message/&NativeCrashDetectedDescription	The game was not exited properly. If you are seeing this message for the first time, we recommend that you to lower the graphics settings and report this to our team in the forum.
-Message/&EndEarlyAccessDescription2	You have reached the end of the Early Access content. The main story cannot be played further but you can still travel around, collect stuff and complete optional quests.
+Message/&NativeCrashDetectedDescription	The game was not exited properly. If you are seeing this message for the first time, we recommend that you lower the graphics settings and report this to our team in the forum.
+Message/&EndEarlyAccessDescription2	You have reached the end of the Early Access. The main story cannot be played any further, but you can travel around, collect stuff, and complete optional quests.
+Message/&TravelAbortedDescription	Travel aborted. The party will stop at the next location.
+Message/&CharactersNotUpdatedTitle	Update Character Files
+Message/&CharactersNotUpdatedDescription	Some character files have not been updated. Are you sure you wish to continue?
 Message/&UserLocationDeleteConfirmationTitle	Location Deletion
 Message/&UserLocationDeleteConfirmationDescription	Are you sure you want to delete this user location?
 Message/&UserLocationOverwriteConfirmationTitle	Location Overwrite

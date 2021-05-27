@@ -1,0 +1,27 @@
+BodyColor/&EyesBlackTitle	Negro
+BodyColor/&EyesBlueTitle	Azul
+BodyColor/&EyesBrownTitle	marrón
+BodyColor/&EyesGoldenTitle	dorado
+BodyColor/&EyesGreenTitle	Verde
+BodyColor/&EyesHazelTitle	Color avellana
+BodyColor/&EyesLavenderTitle	Lavanda
+BodyColor/&EyesRedTitle	rojo
+BodyColor/&EyesSilverTitle	Plata
+BodyColor/&HairBlackTitle	Negro
+BodyColor/&HairBlondTitle	Rubio
+BodyColor/&HairBlueTitle	Azul
+BodyColor/&HairBrownTitle	marrón
+BodyColor/&HairCopperTitle	Cobre
+BodyColor/&HairOliveTitle	Aceituna
+BodyColor/&HairRedTitle	rojo
+BodyColor/&HairRoseTitle	Rosa
+BodyColor/&HairSandyBrownTitle	Sandy Brown
+BodyColor/&HairSilverTitle	Plata
+BodyColor/&HairWhiteTitle	blanco
+BodyColor/&SkinAlabasterBlueTitle	Azul alabastro
+BodyColor/&SkinBronzeTitle	Bronce
+BodyColor/&SkinCopperishTitle	Cobreño
+BodyColor/&SkinFairTitle	Justo
+BodyColor/&SkinObsidianTitle	Obsidiana
+BodyColor/&SkinPaleTitle	Pálido
+BodyColor/&SkinTanTitle	Broncearse

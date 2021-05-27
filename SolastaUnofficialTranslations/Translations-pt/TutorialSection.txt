@@ -1,0 +1,4 @@
+TutorialSection/&BasicsTitle	Fundamentos
+TutorialSection/&CombatTitle	Combate
+TutorialSection/&ExplorationTitle	Exploração
+TutorialSection/&InventoryTitle	Inventário

@@ -65,3 +65,89 @@ Gadget/&ParameterSavingThrowDCTitle	Saving Throw DC
 Gadget/&ParameterSavingThrowDCDescription	The difficulty class for the saving throw
 Gadget/&ParameterAddDiceTitle	Additional Dice
 Gadget/&ParameterAddDiceDescription	Increase the number of dice for this effect
+Gadget/&FallingChandelierTitle	Falling Chandelier
+Gadget/&FallingChandelierDescription	A hanging chandelier which can be damaged and cause fall damage
+Gadget/&GrateTitle	Grate
+Gadget/&GrateDescription	A metallic fence containing a collapsing metallic door
+Gadget/&InvisiblePlateTitle	Invisible Plate
+Gadget/&InvisiblePlateDescription	A visible plate which activates other gadgets when stepped on
+Gadget/&LorePlaqueTitle	Lore Plaque
+Gadget/&LorePlaqueDescription	A mural plaque used to provide lore to the player
+Gadget/&ManaLampTitle	Mana Lamp
+Gadget/&ManaLampDescription	An interactive lamp which becomes lit when targeted by magical spells
+Gadget/&PrisonDoorTitle	Prison Door
+Gadget/&PrisonDoorDescription	A metallic door closing/opening the access to a detention area
+Gadget/&ActivatorButtonTitle	Button Activator
+Gadget/&ActivatorButtonDescription	A button which can be used to activate other gadgets
+Gadget/&ActivatorAreaTitle	Area Activator
+Gadget/&ActivatorAreaDescription	Entering this area activates other gadgets
+Gadget/&ActivatorPlateTitle	Plate Activator
+Gadget/&ActivatorPlateDescription	A plate which activates other gadgets when stepped on
+Gadget/&ActivatorTimedTitle	Timed Activator
+Gadget/&ActivatorTimedDescription	An invisible gadget which activates other gadgets at regular timed intervals
+Gadget/&WoodenDoorTitle	Wooden Door
+Gadget/&WoodenDoorDescription	A plain door
+Gadget/&ManaLampWallTitle	Mana Lamp (wall)
+Gadget/&ParameterTargetGadgetsTitle	Target Gadgets
+Gadget/&ParameterTargetGadgetsDescription	The gadgets which will be triggered by this gadget's activation / deactivation
+Gadget/&ParameterSymetricalTitle	Symetrical
+Gadget/&ParameterSymetricalDescription	Can the activator be played back and forth, for example to open / close a door?
+Gadget/&ParameterOperationTitle	Operation
+Gadget/&ParameterOperationDescription	The type of operation performed on the target gadgets
+Gadget/&ParameterOperationActivateTitle	Activate
+Gadget/&ParameterOperationActivateDescription	Activate other gadgets (example : open a door)
+Gadget/&ParameterOperationDeactivateTitle	Deactivate
+Gadget/&ParameterOperationDeactivateDescription	Deactivate other gadgets (example: close a door)
+Gadget/&ParameterOperationActivateSymetricalTitle	Activate Symetrical
+Gadget/&ParameterOperationActivateSymetricalDescription	Activate & deactivate back and forth (example: open & close a door)
+Gadget/&ParameterOperationEnableTitle	Enable
+Gadget/&ParameterOperationEnableDescription	Enabled an activator, so that it can activate other gadgets
+Gadget/&ParameterOperationDisableTitle	Disable
+Gadget/&ParameterOperationDisableDescription	Disables an activator which will no longer activate other gadgets (example: disable a timed activator)
+Gadget/&ParameterOperationEnableSymetricalTitle	Enable Symetrical
+Gadget/&ParameterOperationEnableSymetricalDescription	Enables & disables back and forth (example: a button could enable & disable a timed activator)
+Gadget/&LavaBulbTitle	Lava Bulb
+Gadget/&MechanismTitle	Mechanism
+Gadget/&TorchPikeTitle	Torch Pike
+Gadget/&ParameterParam_HardLockedTitle	Hard Locked
+Gadget/&ParameterParam_HardLockedDescription	This gadget cannot be opened by normal means, an remote activator is required to open it
+Gadget/&ParameterParam_DefaultAsLitTitle	Lit
+Gadget/&ParameterParam_DefaultAsLitDescription	Determines if this gadget is lit by default or unlit if the option is checked off.
+Gadget/&ParameterParam_DefaultAsOpenedTitle	Opened
+Gadget/&ParameterParam_DefaultAsOpenedDescription	Determines if this gadget is opened by default
+Gadget/&MonsterHTitle	Monster H
+Gadget/&MonsterHDescription	Generates one huge monster at the gadget position
+Gadget/&MonsterGTitle	Monster G
+Gadget/&MonsterGDescription	Generates one gargantuan monster at the gadget position
+Gadget/&ParameterAutoSpawnTitle	Auto Spawn
+Gadget/&ParameterAutoSpawnDescription	When this option is off, spawning the monster requires a remote activator, instead of the proximity of heroes
+Gadget/&ParameterLoreFormatTitle	Lore Format
+Gadget/&ParameterLoreFormatDescription	The form in which lore information is presented to the user
+Gadget/&ParameterLoreFormatMainCharacterTitle	Main Character
+Gadget/&ParameterLoreFormatMainCharacterDescription	The content is displayed as banter over the head of the first conscious character in the party
+Gadget/&ParameterLoreFormatRandomCharacterTitle	Random Character
+Gadget/&ParameterLoreFormatRandomCharacterDescription	The content is displayed as banter over the head of a random conscious party member and disappears after the duration
+Gadget/&ParameterLoreFormatGadgetFeedbackTitle	Gadget Feedback
+Gadget/&ParameterLoreFormatGadgetFeedbackDescription	The content is displayed at the triggering gadget's position
+Gadget/&ParameterLoreFormatTopHeaderTitle	Top Header
+Gadget/&ParameterLoreFormatTopHeaderDescription	The content appears at the top of the screen in large-character font and disappears after the duration
+Gadget/&ParameterLoreFormatTimedPanelTitle	Timed Panel
+Gadget/&ParameterLoreFormatTimedPanelDescription	The content is displayed on a panel at the bottom of the screen and disappears after the duration
+Gadget/&ParameterLoreFormatModalPanelTitle	Modal Panel
+Gadget/&ParameterLoreFormatModalPanelDescription	The content is displayed on a panel in the center of the screen, which remains visible until the user has acknowledged it
+Gadget/&PushBlockTitle	Pushable Block
+Gadget/&PushBlockDescription	A block that can be pushed one cell by a character
+Gadget/&FallingStalactiteTitle	Falling Stalactite
+Gadget/&FallingStalactiteDescription	A hanging stalactite that can be damaged and cause fall damage
+Gadget/&ParameterParam_DisplayOnceTitle	Display Once
+Gadget/&ParameterParam_DisplayOnceDescription	If this option is checked, the lore information is displayed only once when the gadget is triggered
+Gadget/&ActivatorEntryTitle	Entry Activator
+Gadget/&ActivatorEntryDescription	An activator that is triggered when the location is entered. Since this gadget does not react to character positions or interactions, it can be placed anywhere in a room
+Gadget/&ParameterParam_EntryOnceTitle	Entry Once
+Gadget/&ParameterParam_EntryOnceDescription	If this option is checked, the lore information is displayed only once when the gadget is triggered
+Gadget/&LoreActivatedTitle	Activated Lore
+Gadget/&LoreActivatedDescription	This gadget will display lore when triggered by an activator gadget (e.g. an Entry Activator). It can be placed in any free space as it is invisible and non-interactive
+Gadget/&ParameterParam_DefaultAsActivatedTitle	Activated
+Gadget/&ParameterParam_DefaultAsActivatedDescription	Determines if this activator is activated by default
+Gadget/&ParameterKeyItemTitle	Key Item
+Gadget/&ParameterKeyItemDescription	The object is opened automatically if the party is carrying this item

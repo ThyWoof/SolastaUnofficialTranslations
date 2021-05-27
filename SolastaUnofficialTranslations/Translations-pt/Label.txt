@@ -1,0 +1,8 @@
+Label/&CampfireLocationRestDescription	VAZIO
+Label/&CampfireLocationRestTitle	VAZIO
+Label/&CampfireResumeTravelRestDescription	VAZIO
+Label/&CampfireResumeTravelRestTitle	VAZIO
+Label/&EnterLocationDescription	Faça a festa entrar neste local.
+Label/&EnterLocationTitle	Entrar
+Label/&TravelToLocationDescription	Prepare-se para viajar para este local.
+Label/&TravelToLocationTitle	Viajar por

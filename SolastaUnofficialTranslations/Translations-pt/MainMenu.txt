@@ -1,0 +1,81 @@
+MainMenu/&ChangeCampaignDescription	Clique para abrir uma seleção de aventuras.
+MainMenu/&ChangeCampaignTitle	Mudança de campanha
+MainMenu/&ChangeCharacterSlotDescription	Clique para selecionar um personagem diferente.
+MainMenu/&ChangeCharacterSlotTitle	Mudar
+MainMenu/&ContinueTitle	Prosseguir
+MainMenu/&DeleteCharacterDescription	Clique para deletar este personagem do pool.
+MainMenu/&EmptySlotTitle	Vazio
+MainMenu/&ExportPdfDescription	Exporta o caractere selecionado para um arquivo pdf para impressão
+MainMenu/&ExportPdfTitle	Exportar PDF
+MainMenu/&InspectCharacterDescription	Abra o inventário do personagem e a ficha de personagem.
+MainMenu/&InspectCharacterTitle	Inspecionar
+MainMenu/&LevelUpCharacterDescription	Inicia a sequência de subida de nível do personagem. Algumas campanhas exigem ou proíbem personagens de níveis superiores a 1.
+MainMenu/&LevelUpCharacterTitle	Upar
+MainMenu/&LicenseDescription	Exibe as informações da licença deste jogo.
+MainMenu/&LicenseTitle	Licença
+MainMenu/&LoadGameDescription	Carregue um jogo salvo anteriormente.
+MainMenu/&LoadGameTitle	Carregar jogo
+MainMenu/&ManageCharactersDescription	Crie / veja / edite seu conjunto de personagens.
+MainMenu/&ManageCharactersTitle	Personagens
+MainMenu/&NewAdventureDescription	Lance um novo jogo com um grupo de aventureiros.
+MainMenu/&NewAdventureTitle	Nova aventura
+MainMenu/&NewCharacterDescription	Crie um novo personagem e escolha ancestralidade, classe, experiência, etc.
+MainMenu/&NewCharacterTitle	Novo personagem
+MainMenu/&PredefinedPartyTitle	Parte Predefinida
+MainMenu/&PrivacyDescription	Gerenciar suas configurações de privacidade.
+MainMenu/&PrivacyTitle	Privacidade
+MainMenu/&QuitDescription	Saia do jogo e volte para a área de trabalho.
+MainMenu/&QuitTitle	Desistir
+MainMenu/&SaveDateHeader	Salvar data
+MainMenu/&SelectCharacterSlotDescription	Selecione um personagem do pool de personagens.
+MainMenu/&SelectCharacterSlotTitle	Selecione
+MainMenu/&SettingsDescription	Ajuste as configurações do aplicativo.
+MainMenu/&SettingsTitle	Definições
+MainMenu/&StartGameDescription	Lance a campanha com os personagens selecionados.
+MainMenu/&StartGameTitle	Começar o jogo
+MainMenu/&StartingLevelRange	{0} - {1}
+MainMenu/&StartingLevelTitle	Nível inicial:
+MainMenu/&CharacterSourceTogglePregenDescription	Exibe apenas personagens pré-gerados pelo jogo.
+MainMenu/&CharacterSourceTogglePregenTitle	Pregen
+MainMenu/&CharacterSourceTogglePersonalDescription	Exibe apenas personagens criados pessoalmente.
+MainMenu/&CharacterSourceTogglePersonalTitle	Pessoal
+MainMenu/&CharacterSourceToggleAllDescription	Exibir todos os personagens.
+MainMenu/&CharacterSourceToggleAllTitle	Tudo
+MainMenu/&CharacterSortAlphaneticalTitle	Nome
+MainMenu/&CharacterSortCharacterLevelTitle	Nível
+MainMenu/&CharacterSortCharacterClassTitle	Aula
+MainMenu/&CharacterSortCharacterAncestryTitle	Ancestralidade
+MainMenu/&DifficultySettingCustomizationLabel	As opções detalhadas podem ser personalizadas no menu Configurações do jogo.
+MainMenu/&CreditsTitle	Créditos do jogo
+MainMenu/&CreditsDescription	Exibe os créditos do jogo de Solasta: Crown of the Magister.
+MainMenu/&UserLocationsTitle	Criador de calabouços
+MainMenu/&UserLocationsDescription	Selecione masmorras e locais criados pela comunidade para editar ou jogar, ou crie os seus próprios
+MainMenu/&UserLocationsBrowserTitle	Localizações do usuário
+MainMenu/&UserLocationsSortTitleTitle	Título
+MainMenu/&UserLocationsSortLevelTitle	Nível
+MainMenu/&UserLocationsSortSizeTitle	Tamanho
+MainMenu/&UserLocationsSortEnvironmentTitle	Meio Ambiente
+MainMenu/&UserLocationsSortOperationalTitle	Preparar
+MainMenu/&UserLocationsSortOperationalYesTitle	sim
+MainMenu/&UserLocationsSortOperationalNoTitle	Não
+MainMenu/&UserLocationsNewTitle	Nova localização
+MainMenu/&UserLocationsNewDescription	Cria uma nova localização do usuário
+MainMenu/&UserLocationsEditTitle	Editar
+MainMenu/&UserLocationsEditDescription	Edita a localização do usuário selecionado
+MainMenu/&UserLocationsDeleteTitle	Excluir
+MainMenu/&UserLocationsDeleteDescription	Exclui a localização do usuário selecionado
+MainMenu/&UserLocationsPlayTitle	Playtest
+MainMenu/&UserLocationsPlayDescription	Inicie rapidamente o local selecionado com um grupo predefinido
+MainMenu/&UserLocationHeaderTitle	Localização do usuário
+MainMenu/&UserLocationChangeButtonTitle	Mudar
+MainMenu/&DungeonMakerBetaTitle	Beta
+MainMenu/&UserLocationsSortAuthorTitle	Autor
+MainMenu/&UserLocationSizeFormat	{0} x {1}
+MainMenu/&UserLocationsBrowseFilesTitle	Procurar arquivos
+MainMenu/&UserLocationsBrowseFilesDescription	Abre a pasta do sistema que contém os arquivos JSON do local do usuário
+MainMenu/&UserLocationsPublishTitle	Publicar
+MainMenu/&UserLocationsPublishDescription	Abre a interface para publicar um local online
+MainMenu/&UserLocationsPlayLocationTitle	Jogar
+MainMenu/&UserLocationsPlayLocationDescription	Prepare um jogo com este local e selecione um grupo de personagens
+MainMenu/&UserLocationsBrowseWorkshopTitle	Navegar na oficina
+MainMenu/&UserLocationsBrowseWorkshopDescription	Abre o workshop para navegar por locais feitos por outros jogadores

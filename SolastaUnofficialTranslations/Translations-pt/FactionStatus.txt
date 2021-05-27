@@ -1,0 +1,21 @@
+FactionStatus/&AllianceDescription	A facção irá ajudá-lo ativamente.
+FactionStatus/&AllianceTitle	Aliança
+FactionStatus/&AnimosityDescription	Esta facção tentará frustrá-lo.
+FactionStatus/&AnimosityTitle	Antipatia
+FactionStatus/&AttacksOnSightDescription	Ataques à vista.
+FactionStatus/&BrotherhoodDescription	Você é importante e influente na facção.
+FactionStatus/&BrotherhoodTitle	fraternidade
+FactionStatus/&HatredDescription	A facção tentará matá-lo.
+FactionStatus/&HatredTitle	Ódio
+FactionStatus/&IndifferenceDescription	A facção não se importa com você.
+FactionStatus/&IndifferenceTitle	Indiferença
+FactionStatus/&JoinsAllyInBattleDescription	Se junta a você na batalha.
+FactionStatus/&JoinsEnemiesDescription	Junte-se a seus inimigos na batalha.
+FactionStatus/&LivingLegendDescription	Você é um membro importante da facção e uma parte de sua história.
+FactionStatus/&LivingLegendTitle	Lenda viva
+FactionStatus/&MerchantOverchargeFormat	Sobrecarga do comerciante: {0}%.
+FactionStatus/&MerchantOverchargeFormatTrade	{0}: sobrecarga {1}%
+FactionStatus/&MerchantRebateFormat	Desconto do comerciante: {0}%.
+FactionStatus/&MerchantRebateFormatTrade	{0}: desconto {1}%
+FactionStatus/&SympathyDescription	A facção vai mostrar a você favor.
+FactionStatus/&SympathyTitle	Simpatia

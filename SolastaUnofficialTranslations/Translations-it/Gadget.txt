@@ -1,0 +1,153 @@
+Gadget/&CampfireTitle	Falò
+Gadget/&CampfireDescription	Un falò interattivo utilizzato per iniziare un lungo riposo per la festa
+Gadget/&ChestTitle	Il petto
+Gadget/&ChestDescription	Un contenitore per il bottino
+Gadget/&DoubleDoorTitle	Doppia porta
+Gadget/&DoubleDoorDescription	Una semplice porta da aprire
+Gadget/&EntranceTitle	Ingresso
+Gadget/&EntranceDescription	Il punto di partenza della festa
+Gadget/&ExitTitle	Uscita
+Gadget/&ExitDescription	Un punto di uscita per la festa. Può portare a un'altra posizione dell'utente
+Gadget/&HiddenDoorTitle	Porta nascosta
+Gadget/&HiddenDoorDescription	Una porta che richiede un controllo della percezione per essere individuata
+Gadget/&InteractiveTorchTitle	Torcia interattiva
+Gadget/&InteractiveTorchDescription	Una torcia da parete che può essere accesa / spenta dinamicamente
+Gadget/&LoreAreaTitle	Area del sapere
+Gadget/&LoreAreaDescription	Entrando in quest'area verrà visualizzato un testo
+Gadget/&MonsterMTitle	Monster M
+Gadget/&MonsterMDescription	Genera un mostro medio (o più piccolo) nella posizione del gadget
+Gadget/&MonsterLTitle	Monster L
+Gadget/&MonsterLDescription	Genera un grande mostro nella posizione del gadget
+Gadget/&MonsterMMultipleTitle	Monster Multi M
+Gadget/&MonsterMMultipleDescription	Genera un numero di mostri medi (o più piccoli) nella posizione del gadget
+Gadget/&TrapTitle	Trappola
+Gadget/&TrapDescription	Una trappola che si attiva calpestando la superficie che occupa
+Gadget/&VirtualLoreTitle	Lore virtuale
+Gadget/&VirtualLoreDescription	Un'interazione che mostra un testo della tradizione, che può essere posizionato su qualsiasi oggetto di scena
+Gadget/&VirtualLootTitle	Bottino virtuale
+Gadget/&VirtualLootDescription	Un'interazione di bottino per scopi generici, che può essere posizionata su qualsiasi sostegno per simulare un contenitore
+Gadget/&ParameterExplicitItemsTitle	Articoli espliciti
+Gadget/&ParameterLootPackTitle	Pacchetto bottino
+Gadget/&ParameterItemListTitle	Elenco degli elementi
+Gadget/&ParameterParam_LockedTitle	Bloccato
+Gadget/&ParameterUnlock_DCTitle	Sblocca DC
+Gadget/&ParameterParam_TrappedTitle	Intrappolato
+Gadget/&ParameterPerception_DCTitle	Percezione DC
+Gadget/&ParameterDisarm_DCTitle	Disarmare DC
+Gadget/&ParameterReveal_DCTitle	Rivela CD
+Gadget/&ParameterTrapEffectTitle	Effetto trappola
+Gadget/&ParameterEntranceIndexTitle	Indice di ingresso
+Gadget/&ParameterDestinationLocationTitle	Posizione di destinazione
+Gadget/&ParameterCreatureTitle	Creatura
+Gadget/&ParameterQuantityTitle	Quantità
+Gadget/&ParameterPerceptionDCTitle	Percezione DC
+Gadget/&ParameterSpeechTitle	Discorso
+Gadget/&ParameterEncounterGroupTitle	Gruppo di incontri
+Gadget/&ParameterGroupIndexTitle	Indice di gruppo
+Gadget/&ParameterExplicitItemsDescription	Determina se il contenuto sarà un pacchetto bottino predefinito o un elenco esplicito di elementi
+Gadget/&ParameterLootPackDescription	Un elenco predefinito di elementi, alcuni dei quali verranno spostati in modo casuale
+Gadget/&ParameterItemListDescription	Specificare un elenco esplicito di elementi che verranno generati nel contenitore
+Gadget/&ParameterParam_LockedDescription	Determina se questo gadget è bloccato
+Gadget/&ParameterUnlock_DCDescription	La classe di difficoltà per sbloccare questo gadget
+Gadget/&ParameterParam_TrappedDescription	Determina se questo gadget è bloccato
+Gadget/&ParameterPerception_DCDescription	La classe di difficoltà per individuare la trappola su questo gadget
+Gadget/&ParameterDisarm_DCDescription	La classe di difficoltà per disarmare la trappola su questo gadget
+Gadget/&ParameterReveal_DCDescription	La classe di difficoltà per rivelare questo gadget
+Gadget/&ParameterTrapEffectDescription	Il tipo di effetto che colpisce le creature colpite quando questa trappola viene attivata
+Gadget/&ParameterEntranceIndexDescription	Una posizione può essere inserita da diversi punti di ingresso. Questo indice viene utilizzato per specificare l'ingresso a cui conduce un gadget di uscita
+Gadget/&ParameterDestinationLocationDescription	Posizione di destinazione
+Gadget/&ParameterCreatureDescription	Il tipo di creatura generata
+Gadget/&ParameterQuantityDescription	Il numero di creature
+Gadget/&ParameterSpeechDescription	Il testo visualizzato durante l'interazione con questo gadget
+Gadget/&ParameterEncounterGroupDescription	Seleziona questo per rendere la creatura generata parte di un gruppo di incontri, innescando battaglie insieme
+Gadget/&ParameterGroupIndexDescription	Le creature con un indice di gruppo identico (qualsiasi numero scelto) apparterranno allo stesso gruppo di incontri
+Gadget/&ParameterSavingThrowDCTitle	CD di tiro salvezza
+Gadget/&ParameterSavingThrowDCDescription	La classe di difficoltà per il tiro salvezza
+Gadget/&ParameterAddDiceTitle	Dadi aggiuntivi
+Gadget/&ParameterAddDiceDescription	Aumenta il numero di dadi per questo effetto
+Gadget/&FallingChandelierTitle	Lampadario che cade
+Gadget/&FallingChandelierDescription	Un lampadario a sospensione che può essere danneggiato e causare danni da caduta
+Gadget/&GrateTitle	Grattugiare
+Gadget/&GrateDescription	Una recinzione metallica contenente una porta metallica che crolla
+Gadget/&InvisiblePlateTitle	Piatto invisibile
+Gadget/&InvisiblePlateDescription	Una piastra visibile che attiva altri gadget quando calpestati
+Gadget/&LorePlaqueTitle	Targa della tradizione
+Gadget/&LorePlaqueDescription	Una targa murale usata per fornire informazioni al giocatore
+Gadget/&ManaLampTitle	Lampada Mana
+Gadget/&ManaLampDescription	Una lampada interattiva che si accende quando bersagliata da incantesimi magici
+Gadget/&PrisonDoorTitle	Porta della prigione
+Gadget/&PrisonDoorDescription	Una porta metallica che chiude / apre l'accesso a un'area di detenzione
+Gadget/&ActivatorButtonTitle	Pulsante attivatore
+Gadget/&ActivatorButtonDescription	Un pulsante che può essere utilizzato per attivare altri gadget
+Gadget/&ActivatorAreaTitle	Attivatore di area
+Gadget/&ActivatorAreaDescription	Entrando in quest'area si attivano altri gadget
+Gadget/&ActivatorPlateTitle	Attivatore della piastra
+Gadget/&ActivatorPlateDescription	Un piatto che attiva altri gadget quando calpestato
+Gadget/&ActivatorTimedTitle	Attivatore temporizzato
+Gadget/&ActivatorTimedDescription	Un gadget invisibile che attiva altri gadget a intervalli regolari
+Gadget/&WoodenDoorTitle	Porta di legno
+Gadget/&WoodenDoorDescription	Una porta semplice
+Gadget/&ManaLampWallTitle	Lampada Mana (parete)
+Gadget/&ParameterTargetGadgetsTitle	Gadget di destinazione
+Gadget/&ParameterTargetGadgetsDescription	I gadget che verranno attivati ​​dall'attivazione / disattivazione di questo gadget
+Gadget/&ParameterSymetricalTitle	Symetrical
+Gadget/&ParameterSymetricalDescription	L'attivatore può essere riprodotto avanti e indietro, ad esempio per aprire / chiudere una porta?
+Gadget/&ParameterOperationTitle	Operazione
+Gadget/&ParameterOperationDescription	Il tipo di operazione eseguita sui gadget di destinazione
+Gadget/&ParameterOperationActivateTitle	Attivare
+Gadget/&ParameterOperationActivateDescription	Attiva altri gadget (esempio: apri una porta)
+Gadget/&ParameterOperationDeactivateTitle	Disattivare
+Gadget/&ParameterOperationDeactivateDescription	Disattiva altri gadget (esempio: chiudi una porta)
+Gadget/&ParameterOperationActivateSymetricalTitle	Attiva Symetrical
+Gadget/&ParameterOperationActivateSymetricalDescription	Attiva e disattiva avanti e indietro (esempio: apri e chiudi una porta)
+Gadget/&ParameterOperationEnableTitle	Abilitare
+Gadget/&ParameterOperationEnableDescription	Abilitato un attivatore, in modo che possa attivare altri gadget
+Gadget/&ParameterOperationDisableTitle	disattivare
+Gadget/&ParameterOperationDisableDescription	Disabilita un attivatore che non attiverà più altri gadget (esempio: disabilita un attivatore temporizzato)
+Gadget/&ParameterOperationEnableSymetricalTitle	Abilita simmetrico
+Gadget/&ParameterOperationEnableSymetricalDescription	Abilita e disabilita avanti e indietro (esempio: un pulsante potrebbe abilitare e disabilitare un attivatore temporizzato)
+Gadget/&LavaBulbTitle	Lava Bulb
+Gadget/&MechanismTitle	Meccanismo
+Gadget/&TorchPikeTitle	Torch Pike
+Gadget/&ParameterParam_HardLockedTitle	Hard Locked
+Gadget/&ParameterParam_HardLockedDescription	Questo gadget non può essere aperto con mezzi normali, è necessario un attivatore remoto per aprirlo
+Gadget/&ParameterParam_DefaultAsLitTitle	Illuminato
+Gadget/&ParameterParam_DefaultAsLitDescription	Determina se questo gadget è acceso per impostazione predefinita o spento se l'opzione è deselezionata.
+Gadget/&ParameterParam_DefaultAsOpenedTitle	Ha aperto
+Gadget/&ParameterParam_DefaultAsOpenedDescription	Determina se questo gadget è aperto per impostazione predefinita
+Gadget/&MonsterHTitle	Monster H
+Gadget/&MonsterHDescription	Genera un enorme mostro nella posizione del gadget
+Gadget/&MonsterGTitle	Monster G
+Gadget/&MonsterGDescription	Genera un mostro gigantesco nella posizione del gadget
+Gadget/&ParameterAutoSpawnTitle	Generazione automatica
+Gadget/&ParameterAutoSpawnDescription	Quando questa opzione è disattivata, la generazione del mostro richiede un attivatore remoto, invece della vicinanza degli eroi
+Gadget/&ParameterLoreFormatTitle	Formato della tradizione
+Gadget/&ParameterLoreFormatDescription	La forma in cui le informazioni sul lore vengono presentate all'utente
+Gadget/&ParameterLoreFormatMainCharacterTitle	Personaggio principale
+Gadget/&ParameterLoreFormatMainCharacterDescription	Il contenuto viene visualizzato come uno scherzo sulla testa del primo personaggio cosciente della festa
+Gadget/&ParameterLoreFormatRandomCharacterTitle	Carattere casuale
+Gadget/&ParameterLoreFormatRandomCharacterDescription	Il contenuto viene visualizzato come battute sulla testa di un membro cosciente casuale del gruppo e scompare dopo la durata
+Gadget/&ParameterLoreFormatGadgetFeedbackTitle	Feedback sui gadget
+Gadget/&ParameterLoreFormatGadgetFeedbackDescription	Il contenuto viene visualizzato nella posizione del gadget di attivazione
+Gadget/&ParameterLoreFormatTopHeaderTitle	Intestazione superiore
+Gadget/&ParameterLoreFormatTopHeaderDescription	Il contenuto viene visualizzato nella parte superiore dello schermo con caratteri grandi e scompare dopo la durata
+Gadget/&ParameterLoreFormatTimedPanelTitle	Pannello temporizzato
+Gadget/&ParameterLoreFormatTimedPanelDescription	Il contenuto viene visualizzato su un pannello nella parte inferiore dello schermo e scompare dopo la durata
+Gadget/&ParameterLoreFormatModalPanelTitle	Pannello modale
+Gadget/&ParameterLoreFormatModalPanelDescription	Il contenuto viene visualizzato su un pannello al centro dello schermo, che rimane visibile fino a quando l'utente non lo ha riconosciuto
+Gadget/&PushBlockTitle	Blocco spingere
+Gadget/&PushBlockDescription	Un blocco che può essere spinto di una cella da un personaggio
+Gadget/&FallingStalactiteTitle	Stalattite che cade
+Gadget/&FallingStalactiteDescription	Una stalattite sospesa che può essere danneggiata e causare danni da caduta
+Gadget/&ParameterParam_DisplayOnceTitle	Visualizza una volta
+Gadget/&ParameterParam_DisplayOnceDescription	Se questa opzione è selezionata, le informazioni sul lore vengono visualizzate solo una volta quando il gadget viene attivato
+Gadget/&ActivatorEntryTitle	Attivatore di ingresso
+Gadget/&ActivatorEntryDescription	Un attivatore che viene attivato quando viene inserita la posizione. Poiché questo gadget non reagisce alle posizioni o alle interazioni dei personaggi, può essere posizionato ovunque in una stanza
+Gadget/&ParameterParam_EntryOnceTitle	Entrata una volta
+Gadget/&ParameterParam_EntryOnceDescription	Se questa opzione è selezionata, le informazioni sul lore vengono visualizzate solo una volta quando il gadget viene attivato
+Gadget/&LoreActivatedTitle	Lore attivato
+Gadget/&LoreActivatedDescription	Questo gadget mostrerà la storia quando viene attivato da un gadget attivatore (ad esempio un attivatore di ingresso). Può essere posizionato in qualsiasi spazio libero poiché è invisibile e non interattivo
+Gadget/&ParameterParam_DefaultAsActivatedTitle	Attivato
+Gadget/&ParameterParam_DefaultAsActivatedDescription	Determina se questo attivatore è attivato per impostazione predefinita
+Gadget/&ParameterKeyItemTitle	Elemento chiave
+Gadget/&ParameterKeyItemDescription	L'oggetto viene aperto automaticamente se la parte sta trasportando questo oggetto

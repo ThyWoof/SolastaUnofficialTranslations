@@ -1,0 +1,4 @@
+VisualMood/&CryptTitle	Cripta
+VisualMood/&InfernoTitle	Inferno
+VisualMood/&StrangeTitle	Estranho
+VisualMood/&ClearOutdoorTitle	Tempo limpo

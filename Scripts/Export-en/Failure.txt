@@ -8,7 +8,7 @@ Failure/&FailureFlagCannotCastLightCantrip	You cannot cast the light cantrip.
 Failure/&FailureFlagCannotRestTooOften	You cannot take a long rest twice in the same day.
 Failure/&FailureFlagCannotScribeScrolls	This character cannot scribe scrolls into a spellbook.
 Failure/&FailureFlagCannotUseAnyPower	You cannot use any powers at this time.
-Failure/&FailureFlagCannotUseScroll	Characters of your class cannot use scrolls.
+Failure/&FailureFlagCannotUseScroll	
 Failure/&FailureFlagConditionNotMatching	The target does not have the right condition.
 Failure/&FailureFlagDeadTarget	You cannot target a dead character.
 Failure/&FailureFlagDocumentUnknownLanguage	No one in the party is proficient with this language.
@@ -69,13 +69,20 @@ Failure/&FailureFlagRestNotPermitted	This type of rest is not authorized right n
 Failure/&FailureFlagOutOfPerceptionRange	This target is too far away to be perceived.
 Failure/&FailureFlagPartyCannotCastSpell	No party member can cast this spell or has it prepared.
 Failure/&FailureFlagProxyNeedsCasterVision	The caster needs to perceive the target.
-Failure/&FailureFlagVerbalComponentCannotSpeak	Unable to speak and perform verbal spell components
-Failure/&FailureFlagSomaticComponentRestrained	Restrained and unable to perform somatic spell components
-Failure/&FailureFlagSomaticComponentHandsFull	No free hand to perform somatic spell components
-Failure/&FailureFlagMaterialComponentMissingFocus	Must wield/wear a Spell Focus or Component Pouch
-Failure/&FailureFlagMaterialComponentMissingSpecific	Missing a(n) "{0}" item with a value of at least {1}
+Failure/&FailureFlagVerbalComponentCannotSpeak	Unable to speak and perform verbal spell components.
+Failure/&FailureFlagSomaticComponentRestrained	Restrained and unable to perform somatic spell components.
+Failure/&FailureFlagSomaticComponentHandsFull	No free hand to perform somatic spell components.
+Failure/&FailureFlagMaterialComponentMissingFocus	Must wield/wear a Spell Focus or Component Pouch.
+Failure/&FailureFlagMaterialComponentMissingSpecific	Missing a(n) "{0}" item with a value of at least {1}.
 Failure/&FailureFlagFunctionRequiresIdentification	You must identify this item to use it.
 Failure/&FailureFlagFunctionNotInCombat	Cannot use this function in combat.
+Failure/&FailureFlagNoValidRemainingPages	None of this character's spellbooks has any room left for the {0} pages required for the {1} spell.
+Failure/&FailureFlagAllSpellbooksAlreadyScribed	All the spellbooks carried by this character already contain the {0} spell.
+Failure/&FailureFlagRecipeAlreadyKnown	You already know this crafting option.
+Failure/&FailureFlagNoRecipeWithTool	You do not know any crafting options that use this tool.
+Failure/&FailureTeleportNoPortalAtOrigin	The current party location does not have a Major Gate.
+Failure/&FailureTeleportNoPortalAtDestination	The destination location has a Major Gate.
+Failure/&FailureFlagDeityMarkAreadyPresent	The mark of this character's deity is only present on this item
 Failure/&FailureFlagMissingUserLocation	You must select a user location
 Failure/&FailureLocationMustHaveEntrance	The location must have an entrance
 Failure/&FailureLocationMustContainOneRoom	The location must contain at least one room
@@ -95,3 +102,6 @@ Failure/&FailureFlagCopyrightInfringementDescription	The description of the loca
 Failure/&FailureFlagCopyrightInfringementLoreGadget	The "{0}" gadget uses the copyrighted term "{1}"
 Failure/&FailureFlagMustMoveToRotate	This object is not square. You must move it to rotate it
 Failure/&FailureFlagMustSaveToPlaytest	You must save your location before you can playtest it
+Failure/&EditorCannotSelectSourceGadget	Cannot select the source gadget
+Failure/&FailureFlagOnlyInBattle	Only in battle
+Failure/&FailureLocationMustHaveEntranceIndex0	The location must have one of its entrances with entrance index 0

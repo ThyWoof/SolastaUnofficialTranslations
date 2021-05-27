@@ -1,7 +1,7 @@
-TerrainType/&ArcticDescription	Areas of snow or permafrost are considered arctic terrain. 
+TerrainType/&ArcticDescription	Areas of snow or permafrost are considered arctic terrain. Beware, this Terrain Type is not used in the Crown of the Magister campaign.
 TerrainType/&ArcticTitle	Arctic
 TerrainType/&BadlandsDescription	Most areas covering the former inner provinces of the Manacalon Empire, now a wild mix of various terrain types with chaotic manifestations of post-Cataclysm magic, are considered Badlands terrain.
-TerrainType/&CoastDescription	Areas containing a coastline are considered coast terrain.
+TerrainType/&CoastDescription	Areas containing a coastline are considered coast terrain. Beware, this Terrain Type is not used in the Crown of the Magister campaign.
 TerrainType/&CoastTitle	Coast
 TerrainType/&DablandsTitle	Badlands
 TerrainType/&DesertDescription	Arid areas with little or no rain and minimal vegetation are considered desert terrain.

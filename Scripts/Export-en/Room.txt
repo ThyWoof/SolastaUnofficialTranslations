@@ -4,3 +4,8 @@ Room/&Hallway_12CTitle	Hallway
 Room/&Line_12CTitle	Line
 Room/&Room_Big_24CTitle	Big Room
 Room/&Room_Small_24CTitle	Small Room
+Room/&Line_24CTitle	Corridor
+Room/&Turn_12CTitle	Turn
+Room/&Room_Big_48CTitle	Huge Room
+Room/&Clearing_Large_24CTitle	Large Clearing
+Room/&Clearing_Small_12CTitle	Small Clearing

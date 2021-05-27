@@ -1,7 +1,7 @@
-Label/&CampfireLocationRestDescription	Interact with this item to start a long rest.
-Label/&CampfireLocationRestTitle	Long Rest
-Label/&CampfireResumeTravelRestDescription	Return to the world map and resume your rest.
-Label/&CampfireResumeTravelRestTitle	Resume Rest
+Label/&CampfireLocationRestDescription	
+Label/&CampfireLocationRestTitle	
+Label/&CampfireResumeTravelRestDescription	
+Label/&CampfireResumeTravelRestTitle	
 Label/&EnterLocationDescription	Have the party enter this location.
 Label/&EnterLocationTitle	Enter
 Label/&TravelToLocationDescription	Prepare to travel to this location.

@@ -7,7 +7,7 @@ Tooltip/&AdvancementDurationHours_1_8_24	Duration increases from 1 to 8, then 24
 Tooltip/&AdvancementDurationMinutes_1_10_480_144_Infinite	Duration increases from 1 minute to 10, to 8 hours, to 24 hours, to infinite
 Tooltip/&AdvancementGainAdditionalDiceMultipleFormat	{0} dice 
 Tooltip/&AdvancementGainAdditionalDiceSingleFormat	{0} die 
-Tooltip/&AdvancementGainAdditionalHPFormat	{0} maximum and current hit points
+Tooltip/&AdvancementGainAdditionalHPFormat	{0} max hit points
 Tooltip/&AdvancementGainAdditionalItemBonusFormat	{0} item bonus (max {1})
 Tooltip/&AdvancementGainAdditionalSpellLevelMultipleFormat	{0} spell levels 
 Tooltip/&AdvancementGainAdditionalSpellLevelSingleFormat	{0} spell level 
@@ -209,7 +209,7 @@ Tooltip/&OutOfDarkvisionRangeFormat	(Out of Darkvision range)
 Tooltip/&TagPerishableTitle	Perishable
 Tooltip/&TagAbilityScoreIncreaseTitle	Ability Increase
 Tooltip/&TrendMonsterAttackFormat	{0} attack
-Tooltip/&ToHitBonusTrendTitle	To Hit Bonus: {0}
+Tooltip/&ToHitBonusTrendTitle	
 Tooltip/&DamageBonusTrendTitle	Damage Bonus: {0}
 Tooltip/&TrendBaseTitle	Base
 Tooltip/&AttackRollAdditiveTrendsFormat	Attack roll modifier: {0}
@@ -217,7 +217,7 @@ Tooltip/&SavingThrowAdditiveTrendsFormat	Saving throw modifier: {0}
 Tooltip/&AbilityCheckAdditiveTrendsFormat	Ability check modifier: {0}
 Tooltip/&TrendCoverFormat	Cover
 Tooltip/&SaveVersionWarningDescription	This save is from an earlier version of the game and you may encounter compatibility issues.
-Tooltip/&TrendKnownSpellFormat	{0} is a known spell
+Tooltip/&TrendKnownSpellFormat	{0} is a known spell.
 Tooltip/&InvalidComponentRequirementTitle	Missing Spell Components
 Tooltip/&TagIvoryTitle	Ivory
 Tooltip/&TagPearlTitle	Pearl
@@ -233,8 +233,18 @@ Tooltip/&TrendDifficultyFormat	Difficulty Modifier
 Tooltip/&TagInDimLightOrDarknessTitle	Low Light
 Tooltip/&RecurrentEffectTitle	Recurrent Effect:
 Tooltip/&FeatPrerequisiteArmorProficiencyFormat	Requires proficiency: {0}
+Tooltip/&TagKillTitle	Instant Kill
+Tooltip/&TagLightUpTitle	Light Up
+Tooltip/&CampaignNodePortalDescription	A Major Gate allows you to teleport to or from this location.
+Tooltip/&UnusedInSolastaDescription	Although part of the ruleset and valid for roleplaying purposes, this element is not used in the Crown of the Magister main campaign.
+Tooltip/&TagOrcTitle	Orc
+Tooltip/&PowerUsesAbilityScorePlusFixed	1 + CHA bonus
+Tooltip/&DeityMarkFormat	This item bears the symbol of {0}
 Tooltip/&LootPackContentTitle	Loot Pack Content:
 Tooltip/&TrapEffectsTitle	Trap Effects
 Tooltip/&EnvironmentEffectsTitle	Environment Effects
 Tooltip/&RandomItemSingleTitle	Random Item - 
 Tooltip/&RandomItemPluralTitle	Random Items - 
+Tooltip/&EditorFilterLightsDescription	Show / hide light sources
+Tooltip/&EditorFilterActivatorLinksDescription	Show / hide activator links
+Tooltip/&EditorFilterShortcutsDescription	Show/hide keyboard shortcuts

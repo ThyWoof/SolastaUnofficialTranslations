@@ -141,7 +141,7 @@ Feedback/&ItemUsedLine	{0} uses the {1} item
 Feedback/&ItemUsedSpellCastLine	{0} uses the {1} item and casts the {2} spell
 Feedback/&LongRestCompletedLine	Long rest completed. Units of food consumed: {0}
 Feedback/&MagicalHitPointsPoolRolledLine	{0} rolls a pool of {1} hit points for {2}
-Feedback/&MoneyGainedLine	{0} gains {1}
+Feedback/&MoneyGainedLine	
 Feedback/&NeedFlamingTagFormat	Need a flaming item
 Feedback/&ObservationFailedFormat	Observation failed
 Feedback/&ObservationSuccessfulFormat	Observation successful
@@ -197,9 +197,9 @@ Feedback/&SpellDissipatedFormat	Dispelled!
 Feedback/&SpellDissipatedOnTargetFailureLine	{0} fails to dispel the effect of the {1} spell on {2}
 Feedback/&SpellDissipatedOnTargetSuccessLine	{0} dispels the effect of the {1} spell on {2}
 Feedback/&SpellDissipatedSuccessLine	{0} dispels the effect of the {1} spell
-Feedback/&SpellScribedFailure	Failure
+Feedback/&SpellScribedFailure	
 Feedback/&SpellScribedLine	{0} tries to copy the {1} spell into a spellbook {2}
-Feedback/&SpellScribedSuccess	Success
+Feedback/&SpellScribedSuccess	
 Feedback/&SpellSlotsRecoveredLine	{0} recovers spell slots: {1}
 Feedback/&SuccessOddsLine	Success Odds: {0}
 Feedback/&TrackDetectedFormat	Tracks spotted
@@ -236,16 +236,16 @@ Feedback/&VulnerableToDamageFormat	Vulnerable {0}
 Feedback/&RechargePowerLine	{0} recharges the power of {1}
 Feedback/&SpellCastUnknownLine	{0} casts a spell
 Feedback/&SpellIdentifiedLine	{0} has identified the spell as {1}
-Feedback/&SpellCounteredSuccessUnknownLine	{0} counters the unknown spell cast by {1}
-Feedback/&NoRoomToConjureCreatureDescription	No room to conjure the creature
+Feedback/&SpellCounteredSuccessUnknownLine	{0} counters the unknown spell cast by {1}.
+Feedback/&NoRoomToConjureCreatureDescription	No room to conjure the creature.
 Feedback/&AdditionalDamageBracersOfArcheryFormat	Bracers of Archery
-Feedback/&AdditionalDamageBracersOfArcheryLine	{0} deals additional damage with Bracers of Archery
+Feedback/&AdditionalDamageBracersOfArcheryLine	{0} deals additional damage with Bracers of Archery.
 Feedback/&AdditionalDamageFinisherFormat	Finisher
-Feedback/&AdditionalDamageFinisherLine	{0} deals an additional 1D6 damage to wounded creatures
-Feedback/&SpellComponentConsumedLine	Casting the {0} spell consumes the {1} item
-Feedback/&ReceivedHealingHalfFullLine	{0} is already at half-full health
+Feedback/&AdditionalDamageFinisherLine	{0} deals an additional 1D6 damage to wounded creatures.
+Feedback/&SpellComponentConsumedLine	Casting the {0} spell consumes the {1} item.
+Feedback/&ReceivedHealingHalfFullLine	{0} is already at half health.
 Feedback/&AdditionalDamageDivineStrikeFormat	Divine Strike!
-Feedback/&AdditionalDamageDivineStrikeLine	{0} deals more damage to {1} with Divine Strike (+{2})
+Feedback/&AdditionalDamageDivineStrikeLine	{0} deals more damage to {1} with Divine Strike (+{2}).
 Feedback/&DamageMultiplierLine	Difficulty multiplier: {0}
 Feedback/&BreakFreeSuccessLine	{0} breaks free.
 Feedback/&BreakFreeFailureLine	{0} fails to break free.
@@ -258,3 +258,16 @@ Feedback/&LegendaryResistanceUsedLine	{0} uses Legendary Resistance and changes 
 Feedback/&LegendaryResistanceUsedCaption	Legendary Resistance!
 Feedback/&LegendaryActionUsedLine	{0} uses the {1} Legendary Action.
 Feedback/&PartyMoneySpentLine	The party loses {0}.
+Feedback/&IndomitableResistanceUsedLine	{0} is Indomitable and attempts to reroll the failed saving throw.
+Feedback/&IndomitableResistanceUsedCaption	Indomitable!
+Feedback/&PowerFailureCheckedLine	{0} as {1}% chance to activate {2} and rolls {3}: {4}
+Feedback/&PowerFailureCheckedSuccessFormat	Success!
+Feedback/&PowerFailureCheckedFailureFormat	Failure!
+Feedback/&PowerFailureCheckedSuccessCaption	Intervention Granted!
+Feedback/&PowerFailureCheckedFailureCaption	Intervention Denied
+Feedback/&SpellCounterAttackLine	{0} uses {1} to counterattack the hostile spell.
+Feedback/&AdditionalDamagePoisonousFormat	Poisonous
+Feedback/&AdditionalDamagePoisonousLine	{0} attemps to poison {1} (+{2}).
+Feedback/&SpellMissingComponentLine	{0} is missing one of the components (Verbal, Somatic, or Material) to cast {1}.
+Feedback/&GenericGadgetTitle	Object
+Feedback/&Impossible_Title	Impossible to take this item

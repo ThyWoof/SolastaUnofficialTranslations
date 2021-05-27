@@ -34,7 +34,7 @@ Equipment/&Armor_HideTitle	Hide
 Equipment/&Armor_LeatherDescription	The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
 Equipment/&Armor_LeatherTitle	Leather
 Equipment/&Armor_Noble_ClothesDescription	Fine clothes of costly fabrics, decorated with gold or silver embroidery.
-Equipment/&Armor_Noble_ClothesTitle	Noble Garb
+Equipment/&Armor_Noble_ClothesTitle	Noble Clothes
 Equipment/&Armor_PaddedDescription	Padded armor consists of quilted layers of cloth and batting.
 Equipment/&Armor_PaddedTitle	Padded
 Equipment/&Armor_PlateDescription	Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
@@ -218,7 +218,7 @@ Equipment/&EmptyVialDescription	Needed to craft poisons or antitoxin.
 Equipment/&EmptyVialTitle	Empty Vial
 Equipment/&Enchanted_BattleAxe_of_Acuteness_Description	This enchanted weapon was forged using the ancient knowledge of Manacalon's master smiths.
 Equipment/&Enchanted_BattleAxe_of_Acuteness_Title	Battleaxe of Acuteness
-Equipment/&Enchanted_BattleAxe_of_Sharpness_Description	This enchanted weapon was forged using the ancient knowledge of Manacalon's master smiths.
+Equipment/&Enchanted_BattleAxe_of_Sharpness_Description	The masterful effort of Elgador Keenspirit, Magesmith of the Arcaneum.
 Equipment/&Enchanted_BattleAxe_of_Sharpness_Title	Battleaxe of Sharpness
 Equipment/&Enchanted_BattleAxe_Punisher_Description	This enchanted weapon was forged using the ancient knowledge of Manacalon's master smiths. The combination of the best metal and a Slavestone gave this axe incredible piercing power. 
 Equipment/&Enchanted_BattleAxe_Punisher_Title	Punisher Battleaxe
@@ -266,7 +266,7 @@ Equipment/&Enchanted_LeatherArmor_Of_Survival_Title	Leather Armor of Survival
 Equipment/&Enchanted_Longbow_Lightbringer_Title	Lightbringer Longbow
 Equipment/&Enchanted_Longbow_Lightning_Description	This enchanted weapon was created using the ancient knowledge of Colthannin's master bowyers. It was designed by Galar Stormforge, the first dwarven smith to harness the power of the storm in a weapon - to devastating effect!
 Equipment/&Enchanted_Longbow_Lightning_Title	Stormbow
-Equipment/&Enchanted_Longbow_Of_Accuracy_Description	This enchanted weapon was created using the ancient knowledge of Manacalon's master bowyers.
+Equipment/&Enchanted_Longbow_Of_Accuracy_Description	This enchanted weapon was created using the ancient knowledge of Colthannin's master bowyers.
 Equipment/&Enchanted_Longbow_Of_Accuracy_Title	Longbow of Accuracy
 Equipment/&Enchanted_Longsword_Dragonblade_Title	Dragonblade
 Equipment/&Enchanted_Longsword_Frostburn_Title	Frostburn Longsword
@@ -431,7 +431,7 @@ Equipment/&Ingredient_Primed_Halfplate_Description	Enchanted by a Manacalon mast
 Equipment/&Ingredient_Primed_Halfplate_Title	Primed Half Plate
 Equipment/&Ingredient_Primed_LeatherArmor_Description	Enchanted by a Manacalon craftmaster, this armor is made of tarrasque leather. It only needs a catalyst to unlock its potential.
 Equipment/&Ingredient_Primed_LeatherArmor_Title	Primed Leather Armor
-Equipment/&Ingredient_Primed_Longbow_Description	Enchanted by a Manacalon master bowyer, this weapon is made of magical woods and alloys. It only needs a catalyst to unlock its potential.
+Equipment/&Ingredient_Primed_Longbow_Description	Enchanted by a Colthannin master bowyer, this weapon is made of magical woods and alloys. It only needs a catalyst to unlock its potential.
 Equipment/&Ingredient_Primed_Longbow_Title	Primed Longbow
 Equipment/&Ingredient_Primed_Longsword_Description	Enchanted by a Manacalon master smith, this weapon is made of a magical alloy. It only needs a catalyst to unlock its potential.
 Equipment/&Ingredient_Primed_Longsword_Title	Primed Longsword
@@ -445,7 +445,7 @@ Equipment/&Ingredient_Primed_ScaleMail_Description	Enchanted by a Manacalon mast
 Equipment/&Ingredient_Primed_ScaleMail_Title	Primed Scale Mail
 Equipment/&Ingredient_Primed_Scimitar_Description	Enchanted by a Manacalon master smith, this weapon is made of a magical alloy. It only needs a catalyst to unlock its potential.
 Equipment/&Ingredient_Primed_Scimitar_Title	Primed Scimitar
-Equipment/&Ingredient_Primed_Shortbow_Description	Enchanted by a Manacalon master bowyer, this weapon is made of magical woods and alloys. It only needs a catalyst to unlock its potential.
+Equipment/&Ingredient_Primed_Shortbow_Description	Enchanted by a Colthannin master bowyer, this weapon is made of magical woods and alloys. It only needs a catalyst to unlock its potential.
 Equipment/&Ingredient_Primed_Shortbow_Title	Primed Shortbow
 Equipment/&Ingredient_Primed_Shortsword_Description	Enchanted by a Manacalon master smith, this weapon is made of a magical alloy. It only needs a catalyst to unlock its potential.
 Equipment/&Ingredient_Primed_Shortsword_Title	Primed Shortsword
@@ -595,8 +595,8 @@ Equipment/&PriestPackTitle	Priest's Pack
 Equipment/&QuarterstaffTypeTitle	Quarterstaff
 Equipment/&RapierTypeTitle	Rapier
 Equipment/&ReachTitle	Reach
-Equipment/&RingDetectInvisibleDescription	[Temp]This ring reveals invisible creatures up to 12 cells away.
-Equipment/&RingDetectInvisibleTitle	[Temp]Ring of Detect Invisible
+Equipment/&RingDetectInvisibleDescription	This ring reveals invisible creatures up to 12 cells away.
+Equipment/&RingDetectInvisibleTitle	Ring of Detect Invisible
 Equipment/&RingOfProtection_plus_one_Description	A beautifully crafted silver ring bearing a shield design.
 Equipment/&ScaleArmorPlus+1_Title	Scale Armor +1
 Equipment/&ScaleArmorPlus1_Description	This armor was used by scouts in the Manacalon army. It probably belonged to a noble soldier and is imbued with magic, providing additional defense.
@@ -614,7 +614,7 @@ Equipment/&ScrollBlessDescription	When you use this scroll, you cast the Bless s
 Equipment/&ScrollBlessTitle	Scroll of Bless
 Equipment/&ScrollBurningHandsDescription	When you use this scroll, you cast the burning hands spell.
 Equipment/&ScrollBurningHandsTitle	Scroll of Burning Hands
-Equipment/&ScrollColorSprayDescription	When you use this scroll, you cast the Color Spray spell.
+Equipment/&ScrollColorSprayDescription	When you use this scroll, you cast the spell Color Spray.
 Equipment/&ScrollColorSprayTitle	Scroll of Color Spray
 Equipment/&ScrollCureWoundsDescription	When you use this scroll, you cast the Cure Wounds spell.
 Equipment/&ScrollCureWoundsTitle	Scroll of Cure Wounds
@@ -622,7 +622,7 @@ Equipment/&ScrollExpeditiousRetreatDescription	When you use this scroll, you cas
 Equipment/&ScrollExpeditiousRetreatTitle	Scroll of Expeditious Retreat
 Equipment/&ScrollFireballDescription	When you use this scroll, you cast the Fireball spell.
 Equipment/&ScrollFireballTitle	Scroll of Fireball
-Equipment/&ScrollFogCloudDescription	When you use this scroll, you cast the Fog Cloud spell.
+Equipment/&ScrollFogCloudDescription	When you use this scroll, you cast the spell Fog Cloud.
 Equipment/&ScrollFogCloudTitle	Scroll of Fog Cloud
 Equipment/&ScrollGreaseDescription	When you use this scroll, you cast the Grease spell.
 Equipment/&ScrollGreaseTitle	Scroll of Grease
@@ -667,7 +667,7 @@ Equipment/&Shield_plus_1_Description	A light and sturdy magical shield, used by 
 Equipment/&Shield_plus_1_Title	Shield +1
 Equipment/&Shield_plus_1_Unidentified_Description	This metal shield is of magnificent workmanship, with mystical runes on its surface.
 Equipment/&Shield_plus_1_Unidentified_Title	Magnificent Shield
-Equipment/&Shield_plus_2_Description	A powerful magical shield forged by Edvan Danantar for a lord of the Principality of Masgarth.
+Equipment/&Shield_plus_2_Description	A powerful magical shield used by the Tirmarian Golden Cavalry at the time of the Cataclysm.
 Equipment/&Shield_plus_2_Title	Shield +2
 Equipment/&ShieldCategoryDescription	A shield is made of wood or metal and is carried in one hand. You can only benefit from one shield at a time.
 Equipment/&ShieldCategoryTitle	Shield
@@ -751,6 +751,19 @@ Equipment/&WeaponTagThrownTitle	Thrown
 Equipment/&WeaponTagTwoHandedTitle	Two-Handed
 Equipment/&WeaponTagVersatileTitle	Versatile
 Equipment/&WhipTypeTitle	Whip
+Equipment/&Kickstarter_Item_Golden_Key_Description	A golden key of incredible complexity, crafted by the clockmasters of the Manacalon Empire.
+Equipment/&Kickstarter_Item_Golden_Key_Title	Golden Key
+Equipment/&Kickstarter_Item_Letter_Content	ORDER OF CONFISCATION\nAs punishment for repeated disregard of the regulations of the Iron Legion, and notably Order V.I, His Lordship Ceynnian Brightspell has ordered as follows:\n1. All of your distinctive equipment pertaining to the Iron Legion is confiscated until further notice. Your duties will be continued with standard infantry equipment.\n2. Your pay from the Iron Legion for this month shall be forfeited.\n\nCaptain Alsiweyr Highcloud
+Equipment/&Kickstarter_Item_Letter_Description	An old letter dating from Imperial times, sealed with red wax.
+Equipment/&kickstarter_item_Letter_Title	Letter
+Equipment/&kickstarter_item_Notebook_Description	A notebook, covered in finely-tooled leather and probably imbued with protective magic. It contains handwritten notes from a citizen of the ancient Manacalon Empire, and might contain valuable information about the pre-Cataclysm era.
+Equipment/&kickstarter_item_Notebook_Title	Notebook
+Equipment/&kickstarter_item_Spider_Symbol_Content	Shak Agul Zog Khorak Kolzil
+Equipment/&kickstarter_item_Spider_Symbol_Description	A small, bone plaque bearing a crudely-painted spider symbol. Probably crafted by orcs.
+Equipment/&kickstarter_item_Spider_Symbol_Title	Orc Plaque
+Equipment/&kickstarter_item_Testament_Content	I, Brandil Sharpleaf, being of sound mind and body, do hereby bequeath the entirety of my worldly possessions to Lady Elyria Greenblade if death should find me during the upcoming battles against the human invaders. To my wife and children, I…\n\nThe rest of the letter is missing.
+Equipment/&kickstarter_item_Testament_Description	An old, slightly tattered letter
+Equipment/&kickstarter_item_Testament_Title	Testament
 Equipment/&ContainerHarvestable_Angry_Bush_Title	Angry Bush
 Equipment/&ContainerHarvestable_Angry_Bush_Description	A small bush found on the Eastern Kingdoms and the Badlands that produces Angry Violets.
 Equipment/&ContainerHarvestable_MagnesiumDeposit_Title	Magnesium Deposit
@@ -860,7 +873,7 @@ Equipment/&Abjuration_DragonsWar_Description	An ancient book.
 Equipment/&Abjuration_DragonsWar_Content01	The dragons saw how the elves were changing the world, bringing beauty to blasted volcanic wastes, and living green to barren fields of rock. They had never seen beauty before, nor heard music; their language was devoid of poetry, and their magic was brutal and without wonder.
 Equipment/&Abjuration_DragonsWar_Content02	The dragons fell in love with the elves, as all do who see them. They longed to possess them, for dragons are avaricious by nature. With sweet words and trickery they enslaved a few of the fair people, but most elves were not taken in by the dragons' flattery, and prepared to resist them.
 Equipment/&Abjuration_DragonsWar_Content03	Great battles were fought, blade against flame, and magic against magic. Mountains were leveled, and land sank to make the Inner Sea. The tunnels where the dwarves hid in fear were flooded. It was in that bloody crucible that our people's mastery of magic was forged, and the elven race united under the first Emperor Ilmathir Ellanion.
-Equipment/&Abjuration_DragonsWar_Content04	The war against the dragons lasted for three generations before the warrior Empress Cythaeriel Ellanion, the Lady of the Bright Blade, led the elves to…
+Equipment/&Abjuration_DragonsWar_Content04	The war against the dragons lasted for three generations before the Warrior Empress Cythaeriel Ellanion, the Lady of the Bright Blade, led the elves to…
 Equipment/&Evocation_Plaque1_Title	Stone Inscription
 Equipment/&Evocation_Plaque1_Description	An inscribed stone plaque.
 Equipment/&Evocation_Plaque1_Content01	In memory of the Emperor Laethar Aerlinn, first of his name, who reigned from the year 1773 until 2117 and oversaw the glorious expansion of the Empire, subjugating the rebel elves of the forests, the dwarves of the western mountains, and the halflings. Hero of the Forest of Flames, where he slew more than a hundred rebels with his own hand. Treacherously slain by rebel arrows during the advance on Colthannin. And to his Queen Saefinala and his son Prince Kealin, both treacherously murdered on the orders of the usurper and false Emperor Rithian Thirion, who seized the throne.
@@ -1131,7 +1144,7 @@ Equipment/&CloakOfArachnida_Description	The masters of the Darkweavers' Guild we
 Equipment/&CloakOfArachnida_Unidentified_Title	Beautiful Cloak
 Equipment/&CloakOfArachnida_Unidentified_Description	A rich cloak embroidered with silvery threads.
 Equipment/&ChimeOfOpening_Title	Chime of Opening
-Equipment/&ChimeOfOpening_Function_Description	
+Equipment/&ChimeOfOpening_Function_Description	Use to cast the Knock spell and open a chest or door. After ten uses, the item is destroyed.
 Equipment/&ChimeOfOpening_Unidentified_Title	Silver Chime
 Equipment/&ChimeOfOpening_Unidentified_Description	A nice silver chime with minuscule elvish runes engraved on it.
 Equipment/&BracersOfArcheryDescription	A favorite of Colthannin border patrols. 
@@ -1176,7 +1189,7 @@ Equipment/&RingOfResistance_Poison_Description	A Manacalon master of Abjuration 
 Equipment/&RingOfResistance_Unidentified_Description	A magnificent ring with a cloudy shape on its bezel.
 Equipment/&RingOfResistance_Unidentified_Title	Superb Ring
 Equipment/&GauntletsOfOgrePower_Function_Description	Your Strength score is 19 while you are wearing these gauntlets. It has no effect on you if your Strength score is already 19 or higher.
-Equipment/&GiantStrengthHill_Function_Description	Your Strength score is 19 while you are wearing this belt. It has no effect on you if your Strength score is already 19 or higher.
+Equipment/&GiantStrengthHill_Function_Description	Your Strength score is 21 while you are wearing this belt. It has no effect on you if your Strength score is already 21 or higher.
 Equipment/&GiantStrengthFire_Function_Description	Your Strength score is 25 while you are wearing this belt. It has no effect on you if your Strength score is already 25 or higher.
 Equipment/&GiantStrengthStone_Function_Description	Your Strength score is 23 while you are wearing this belt. It has no effect on you if your Strength score is already 23 or higher.
 Equipment/&HeadbandOfIntellect_Function_Description	Your Intelligence score is 19 while you are wearing this headband. It has no effect on you if your Intelligence score is already 19 or higher.
@@ -1209,7 +1222,7 @@ Equipment/&Document_Relic_Order_Description	This request was placed by a Iron Le
 Equipment/&Document_Relic_Craftlist_Title	This was apparently a document given to people who wanted to order a magical item from the Master of Abjuration. The costs seem ridiculously cheap, but that was probably because such items were very easy to make for the Manacalon masters of magic.
 Equipment/&Document_Relic_Craftlist_Description	Warden Longsword: 
 Equipment/&Document_Relic_ElvenWarsBook_Title	The Elven Wars
-Equipment/&Document_Relic_ElvenWarsBook_Description	A History book by the First Loremaster of the Manacalon Arcaneum. Very valuable.
+Equipment/&Document_Relic_ElvenWarsBook_Description	A history book by the First Loremaster of the Manacalon Arcaneum. Very valuable.
 Equipment/&Ingredient_Enchant_SpiderQueen_Venom_Title	Spider Queen Venom
 Equipment/&Ingredient_Enchant_SpiderQueen_Venom_Description	TBC
 Equipment/&Ingredient_FireSpiderVenomGland_Title	Fire Spider Poison Gland
@@ -1283,7 +1296,7 @@ Equipment/&ArcaneFocus_Bracers_Description	These large bracers contain fast-acce
 Equipment/&ArcaneFocus_Circlet_Title	Arcane Circlet
 Equipment/&ArcaneFocus_Circlet_Description	This circlet is simply a spellcasting focus with a mounted gem on a nice-looking circlet. Not a very modest piece of equipment, but practical: you just need to touch your brow when casting.
 Equipment/&HolySymbolAmulet_Belt_Title	Holy Symbol Belt Buckle
-Equipment/&HolySymbolAmulet_Belt_Description	This practical holy symbol is fixed to a solid leather belt. A Cleric or Paladin can easily access it for casting, even if one's posture is not as classy as holding it in your enemy's face. Exists in various versions to accommodate all religions on Solasta.
+Equipment/&HolySymbolAmulet_Belt_Description	This practical holy symbol is affixed to a solid leather belt. A Cleric or Paladin can easily access it for casting, even if the posture is not as classy as holding it in your enemy's face. Exists in various versions to accommodate all religions on Solasta.
 Equipment/&HolySymbolAmulet_Cape_Title	Holy Symbol Cape
 Equipment/&HolySymbolAmulet_Cape_Description	You can wrap yourself in this nice-looking cape to cast spells, which tends to make you look like a mighty overlord showing off, but the practical aspect makes it worth it. It can be quickly embroidered with the symbol of your deity by your favorite merchant or cleric.
 Equipment/&HolySymbolAmulet_Crown_Title	Holy Symbol Crown
@@ -1303,7 +1316,7 @@ Equipment/&ContainerHarvestable_FoodCrate_Description	This container is regularl
 Equipment/&Poison_ArunsLight_Title	Arun's Light
 Equipment/&Poison_MaraikesTorpor_Title	Maraike's Torpor
 Equipment/&Poison_MaraikesTorpor_Description	A chemical poison that causes the poisoned condition.
-Equipment/&Poison_QueenSpiderBlood_Title	Queen Spider's blood
+Equipment/&Poison_QueenSpiderBlood_Title	Queen Spider's Blood
 Equipment/&Poison_QueenSpiderBlood_Description	A legendary poison that deals enormous damage.
 Equipment/&Poisoned_Arrow_Title	Poisoned Arrow
 Equipment/&Poisoned_Arrow_MaraikesTorpor_Description	These projectiles have a small pocket of poison attached to their tip, so that they will deal the effect of poison on a successful hit. These particular arrows use Maraike's Torpor.
@@ -1332,7 +1345,7 @@ Equipment/&Legendary_Document_Content02	Arun rose, he was higher than others, th
 Equipment/&Legendary_Document_Content03	Then Arun stood aside, desiring above all balance between the gods.
 Equipment/&Legendary_Document_Content04	Pakri had been watching the whole time. She took a more central role to bring balance to mankind.
 Equipment/&Legendary_Document_Content05	The dark days came and men prayed for a strong god to protect them against the Sorr-Akkath. Arivad ascended as the new leader of the gods.
-Equipment/&Legendary_Document_Content06	Sorr-Tarr corrupted Arivad, causing the schism. Arivad split in two entities: Einar was born, clean of all corruption. Arivad remained forever tainted. They were four no longer, but five.
+Equipment/&Legendary_Document_Content06	Sorr-Tarr corrupted Arivad, causing the schism. Arivad split into two entities: Einar was born, clean of all corruption. Arivad remained forever tainted. They were four no longer, but five.
 Equipment/&Tirmarian_GreataxeTypeTitle	Sandraven Holy Axe
 Equipment/&BoltStuff_Title	Projectile Parts
 Equipment/&BoltStuff_Description	A pack of heads and tails to make bolts or arrows from using smith's tools.
@@ -1348,11 +1361,11 @@ Equipment/&Aristocrat_AdriasJournal_Description	A personal journal with most of 
 Equipment/&SpoonOfDiscord_Title	Spoon of Discord
 Equipment/&SpoonOfDiscord_Description	A strange artifact which belonged to an even stranger cult. That, or you got bamboozled by the merchant who sold it to you.
 Equipment/&OneRing_Title	One Ring
-Equipment/&OneRing_Description	Wearing this ring makes you terribly uncomfortable, and you feel like you’re being watched. That being said, it somehow seems to make you stealthier.
+Equipment/&OneRing_Description	Wearing this ring makes you terribly uncomfortable, and you feel like you're being watched. That being said, it somehow seems to make you stealthier. It was created for Silent Whisper spies and assassins. 
 Equipment/&SixLeaguesBoots_Title	Six Leagues Boots
-Equipment/&SixLeaguesBoots_Description	It might not make you the fastest being alive, but it does put some pep in your step!
+Equipment/&SixLeaguesBoots_Description	It might not make you the fastest being alive, but it does put some pep in your step! Crafted by Lily Longstrider for her forays outside Olme Fen. 
 Equipment/&Sellsword_Background_Quest_FarmhouseKey_Title	House Key
-Equipment/&Sellsword_Background_Quest_FarmhouseKey_Description	This key opens a small house near Coparann.
+Equipment/&Sellsword_Background_Quest_FarmhouseKey_Description	This key opens a small house in the Vale of Coparann.
 Equipment/&Sellsword_Background_Quest_Document_01_Title	Letter from Mildred
 Equipment/&Sellsword_Background_Quest_Document_01_Description	Annie gave you this letter. It's from Mildred, the innkeeper of Coparann.
 Equipment/&Sellsword_Background_Quest_Document_02_Title	Letter from Your Parents
@@ -1369,10 +1382,10 @@ Equipment/&Sigil_Ring_Necromancy_Title	Sigil Ring of Necromancy
 Equipment/&Sigil_Ring_Necromancy_Description	A gift from Master Mardracht for convincing him to redeem his gem of Necromancy. Sigil rings are a clear sign of draconic favor: they can only be given freely. None have been seen since the Fall of Manacalon.
 Equipment/&PickupQuest_Item_HiddenBlade_Title	Sorr-Akkath Blade
 Equipment/&PickupQuest_Item_HiddenBlade_Description	This broken blade you discovered near the camp might have belonged to a Sorr-Akkath. It looks like no weapon you've ever seen before, and it is covered in black paint, so it doesn't shine when illuminated. There are words written on it in a language not spoken on Solasta.
-Equipment/&PickupQuest_Item_PaintedHide_Title	Painted Hide
+Equipment/&PickupQuest_Item_PaintedHide_Title	Painted Hide
 Equipment/&PickupQuest_Item_PaintedHide_Description	This rolled-up hide is daubed with strange-looking symbols, probably goblin writing.
 Equipment/&PickupQuest_Item_ChroniclesOfTheInquisition_Title	Chronicles of the Inquisition
-Equipment/&PickupQuest_Item_ChroniclesOfTheInquisition_Description	This very old book from Tirmar tells the story of how the inquisition led the fight against the Sorr-Akkath.
+Equipment/&PickupQuest_Item_ChroniclesOfTheInquisition_Description	This very old book from Tirmar tells the story of how the Inquisition led the fight against the Sorr-Akkath.
 Equipment/&PickupQuest_Item_CrownNotes_Title	Ancient Inscriptions
 Equipment/&PickupQuest_Item_CrownNotes_Description	Notes taken from the pedestal where you found the Crown.
 Equipment/&PickupQuest_Item_ImperialInsignia_Title	Insignia of the First Legion
@@ -1465,7 +1478,7 @@ Equipment/&HolyWater_Description	A small vial you can toss to an undead or fiend
 Equipment/&Document_Lowlife_Note_Title	Handwritten Note
 Equipment/&Document_Lowlife_Note_Description	A note found on the attackers who assaulted you as you exited the Temple of Misaye. 
 Equipment/&Document_Lowlife_Note_Content	We found out that this Priest of Misaye - Nel - has the magical sword I was talking about. This bunch of Council deputies seem to be after it, too, so maybe they will get their hands on it. If that happens, you know what to do.
-Equipment/&Dwarvenbread_Description	This bread is so tough to chew that simply carrying it fills you with determination. And fortitude. And toothache.
+Equipment/&Dwarvenbread_Description	This bread is so tough to chew that simply carrying it in your Utility Slot fills you with determination. And fortitude. And toothache.
 Equipment/&Dwarvenbread_Title	Dwarven Bread
 Equipment/&EarlyBird_Title	Early Bird
 Equipment/&EarlyBird_Description	They say the early bird gets the worm, but this early bird also helps you start punching before everyone else. 
@@ -1550,8 +1563,8 @@ Equipment/&ScrollFearTitle	Scroll of Fear
 Equipment/&ScrollFearDescription	When you use this scroll, you cast the spell Fear.
 Equipment/&ScrollHypnoticPatternTitle	Scroll of Hypnotic Pattern
 Equipment/&ScrollHypnoticPatternDescription	When you use this scroll, you cast the spell Hypnotic Pattern.
-Equipment/&ScrollProtectionFromEnergyTitle	Scroll of Protection From Energy
-Equipment/&ScrollProtectionFromEnergyDescription	When you use this scroll, you cast the spell Protection From Energy.
+Equipment/&ScrollProtectionFromEnergyTitle	Scroll of Protection from Energy
+Equipment/&ScrollProtectionFromEnergyDescription	When you use this scroll, you cast the spell Protection from Energy.
 Equipment/&ScrollRemoveCurseTitle	Scroll of Remove Curse
 Equipment/&ScrollRemoveCurseDescription	When you use this scroll, you cast the spell Remove Curse.
 Equipment/&ScrollVampiricTouchTitle	Scroll of Vampiric Touch
@@ -1582,8 +1595,8 @@ Equipment/&ScrollMirrorImageTitle	Scroll of Mirror Image
 Equipment/&ScrollMirrorImageDescription	When you use this scroll, you cast the spell Mirror Image.
 Equipment/&ScrollMistyStepTitle	Scroll of Misty Step
 Equipment/&ScrollMistyStepDescription	When you use this scroll, you cast the spell Misty Step.
-Equipment/&ScrollRayOfEnfeeblementTitle	Scroll of Ray Of Enfeeblement
-Equipment/&ScrollRayOfEnfeeblementDescription	When you use this scroll, you cast the spell Ray Of Enfeeblement.
+Equipment/&ScrollRayOfEnfeeblementTitle	Scroll of Ray of Enfeeblement
+Equipment/&ScrollRayOfEnfeeblementDescription	When you use this scroll, you cast the spell Ray of Enfeeblement.
 Equipment/&ScrollSeeInvisibilityTitle	Scroll of See Invisibility
 Equipment/&ScrollSeeInvisibilityDescription	When you use this scroll, you cast the spell See Invisibility.
 Equipment/&ScrollShatterTitle	Scroll of Shatter
@@ -1602,12 +1615,12 @@ Equipment/&ScrollCharmPersonTitle	Scroll of Charm Person
 Equipment/&ScrollCharmPersonDescription	When you use this scroll, you cast the spell Charm Person.
 Equipment/&ScrollComprehendLanguagesTitle	Scroll of Comprehend Languages
 Equipment/&ScrollComprehendLanguagesDescription	When you use this scroll, you cast the spell Comprehend Languages.
-Equipment/&ScrollDetectEvilAndGoodTitle	Scroll of Detect Evil And Good
+Equipment/&ScrollDetectEvilAndGoodTitle	Scroll of Detect Evil and Good
 Equipment/&ScrollDetectEvilAndGoodDescription	When you use this scroll, you cast the spell Detect Evil And Good.
 Equipment/&ScrollDetectMagicTitle	Scroll of Detect Magic
 Equipment/&ScrollDetectMagicDescription	When you use this scroll, you cast the spell Detect Magic.
-Equipment/&ScrollDetectionPoisonAndDiseaseTitle	Scroll of Detection Poison And Disease
-Equipment/&ScrollDetectionPoisonAndDiseaseDescription	When you use this scroll, you cast the spell Detection Poison And Disease.
+Equipment/&ScrollDetectionPoisonAndDiseaseTitle	Scroll of Detect Poison and Disease
+Equipment/&ScrollDetectionPoisonAndDiseaseDescription	When you use this scroll, you cast the spell Detect Poison and Disease.
 Equipment/&ScrollFaerieFireTitle	Scroll of Faerie Fire
 Equipment/&ScrollFaerieFireDescription	When you use this scroll, you cast the spell Faerie Fire.
 Equipment/&ScrollFeatherFallTitle	Scroll of Feather Fall
@@ -1617,8 +1630,8 @@ Equipment/&ScrollInflictWoundsDescription	When you use this scroll, you cast the
 Equipment/&ScrollShieldTitle	Scroll of Shield
 Equipment/&ScrollShieldDescription	When you use this scroll, you cast the spell Shield.
 Equipment/&LeatherArmorPlus+2_Title	Leather Armor +2
-Equipment/&ChainmailPlus1_Unidentified_Title	Magnificient Chainmail
-Equipment/&ChainmailPlus1_Unidentified_Description	This finely crafter chainmail is light and extremely sturdy, and probably magical.
+Equipment/&ChainmailPlus1_Unidentified_Title	Magnificent Chainmail
+Equipment/&ChainmailPlus1_Unidentified_Description	This finely crafted chainmail is light and extremely sturdy, and probably magical.
 Equipment/&Poison_BrimstoneFangPoisonedArrow_Title	Brimstone Fang Poisoned Arrow
 Equipment/&Poison_BrimstoneFangPoisonedBolt_Title	Brimstone Fang Poisoned Bolt
 Equipment/&Poison_TigerFangPoisonedArrow_Title	Tiger Fang Poisoned Arrow
@@ -1639,10 +1652,124 @@ Equipment/&Poison_GhoulsCaressPoisonedArrow_Title	Ghoul's Caress Poisoned Arrow
 Equipment/&Poison_GhoulsCaressPoisonedBolt_Title	Ghoul's Caress Poisoned Bolt
 Equipment/&Poison_MaraikesTorpor_Arrow_Title	Torpor Poisoned Arrow
 Equipment/&Poison_MaraikesTorpor_Bolt_Title	Torpor Poisoned Bolt
-Equipment/&Poison_Basic_Arrow_Title	Basically Poisoned Arrow
-Equipment/&Poison_Basic_Bolt_Title	Basically Poisoned Bolt
+Equipment/&Poison_Basic_Arrow_Title	Basic Poisoned Arrow
+Equipment/&Poison_Basic_Bolt_Title	Basic Poisoned Bolt
 Equipment/&Poison_Queen_Arrow_Title	Queen's Blood Poisoned Arrow
 Equipment/&Poison_Queen_Bolt_Title	Queen's Blood Poisoned Bolt
 Equipment/&CraftingManual_x5_Title	Crafting 5 x {0}
-Equipment/&ClothLightbringers_unidentified_Title	Tirmarian outfit
+Equipment/&ClothLightbringers_unidentified_Title	Tirmarian Outfit
 Equipment/&ClothLightbringers_unidentified_Description	This finely decorated outfit bears typical Tirmarian symbols.
+Equipment/&Halman_Document_Title	Encrypted Letter
+Equipment/&Halman_Document_Description	This document uses a cipher to conceal its content.
+Equipment/&Halman_Document_Content	Everything is going according to plan. Now, drive these adventurers far away from the city. Tell them you heard of a coven in Earcorn. Power to the One!
+Equipment/&Halman_Document_ConspirationTitle	List of Prospects
+Equipment/&Halman_Document_ConspirationDescription	This document is a list of people from the city that the cultists of Arivad hope to enlist, with an evaluation of their chances of success. It also contains a list of those who already joined the cult.
+Equipment/&TempleKey_Title	Temple Key
+Equipment/&TempleKey_Description	Beric Sunblaze gave you this key. It opens all the doors in the Temple of Einar.
+Equipment/&PickupQuest_Item_Aquila_Title	Imperial Aquila
+Equipment/&PickupQuest_Item_Aquila_Description	This decoration was part of a Manacalon battle standard. It's in bad shape but scholars might find it interesting enough.
+Equipment/&PickupQuest_Item_Cypher_Title	Silent Whisper Cipher Disk
+Equipment/&PickupQuest_Item_Cypher_Description	This ancient item was used by the intelligence service of the Manacalon Empire. With the right skill, a spy could use this mechanical device to encrypt or decrypt a written message without using magic.
+Equipment/&Flaming_Arrow_Title	Flaming Arrow
+Equipment/&Corrosive_Arrow_Title	Corrosive Arrow
+Equipment/&Flash_Arrow_Title	Flash Arrow
+Equipment/&Flaming_Bolt_Title	Flaming Bolt
+Equipment/&Corrosive_Bolt_Title	Corrosive Bolt
+Equipment/&Flash_Bolt_Title	Flash Bolt
+Equipment/&AlchemicalProjectile_Description	This projectile uses an alchemical flask for additional damage.
+Equipment/&Flaming_Arrow_CraftingRecipe_Title	Craft 5 Flaming Arrows
+Equipment/&Corrosive_Arrow_CraftingRecipe_Title	Craft 5 Corrosive Arrows
+Equipment/&Flash_Arrow_CraftingRecipe_Title	Craft 5 Flash Arrows
+Equipment/&Flaming_Bolt_CraftingRecipe_Title	Craft 5 Flaming Bolts
+Equipment/&Corrosive_Bolt_CraftingRecipe_Title	Craft 5 Corrosive Bolts
+Equipment/&Flash_Bolt_CraftingRecipe_Title	Craft 5 Flash Bolts
+Equipment/&ContainerHarvestable_LavaStone_Title	Lava Stones
+Equipment/&ContainerHarvestable_LavaStone_Description	These primordial stones are only found where extreme heat has melted rare stones with magic.
+Equipment/&Quarterstaff_plus_2_Description	This magical quarterstaff has been enchanted by sylvan wizards using a blood gem.
+Equipment/&Quarterstaff_plus_one_TypeTitle	Quarterstaff +1
+Equipment/&Quarterstaff_plus_one_Description	This beautiful quarterstaff was crafted by wizards of an old and almost forgotten tradition: the Stonemages.
+Equipment/&Dagger_plus_two_Description	This elegant curvy dagger is a great magical weapon crafted by an old tradition of wizards known as Court Mages.
+Equipment/&ShortbowPlus_2_TypeDescription	A classic weapon from the workshops of Defineth Sharpsight, a renowned sylvan elf enchanter.
+Equipment/&LongbowPlusoneTypeDescription	A hunting weapon whose design is the trademark of Defineth Sharpsight, the famous sylvan elf enchanter.
+Equipment/&Morningstar_plus_two_Description	A weapon typical of the Tirmarian clerics who fought alongside the Solastan troops at the Battle of the Rift!
+Equipment/&Longsword_plus_2_Description	A trademark weapon from the workshops of Elgador Keenspirit, Magesmith of the Arcaneum. Probably from the Manacalon Expansion era.
+Equipment/&Adrasteia_Letter_Title	Adrasteia's Plea
+Equipment/&Adrasteia_Letter_Description	You found this letter in a backpack after leaving Adrasteia. She must have used her magic; she couldn't have written this with her claws!
+Equipment/&Adrasteia_Letter_Content0	Friends, as you must remember, I asked for your help to cleanse the surroundings of my tower of this undead creature you call a defiler. My modest divination powers taught me that the creature's name is Razan Holarant. It has established his home in the underground tunnels beneath the ruins outside. 
+Equipment/&Adrasteia_Letter_Content1	Yet, you may be able to draw him out of hiding, though only at night, if you open a tomb inside one of the old buildings. Apparently, he brought the remnants of his deceased wife and children to rest there. It would appear the creature might have had a soul, after all, although I understand he sacrificed his family for eternal life.
+Equipment/&Adrasteia_Letter_Content2	Such a crime cannot remain unpunished. Therefore, as ruler of this land, I hereby grant you license to put an end to the very existence of this foulness in my name.
+Equipment/&Adrasteia_Letter_Content3	Yours truly, Adrasteia Epimeles Aspis
+Equipment/&Razan_Letter_Title	Strange Letter
+Equipment/&Razan_Letter_Description	This short letter was probably written for one of the deceased in the coffin, though its contents are disturbing and do not look like a typical farewell letter to the dead.
+Equipment/&Razan_Letter_Content0	My love, I have a new daughter. Her name is Estalla. Of course, she doesn't have your blood, but she has mine. Unlike you, she will be by my side forever. Rest in peace in your new home.\n\nRazan
+Equipment/&Estalla_Letter_Title	Farewell Letter
+Equipment/&Estalla_Letter_Description	This was probably written by the young defiler you just destroyed.
+Equipment/&Estalla_Letter_Content0	Farewell, old friend. Never again shall you warm my skin and soothe my sadness. Today, I embrace the night. Today, I enter eternity. I reject the gods and their power, I become one with darkness.\n\nEstalla Mertvykh\nBorn 1005 A.C.\nReborn 1024 A.C.
+Equipment/&Slippers_Title	Slippers of Spider Climbing
+Equipment/&Slippers_Description	These magical slippers have a very shady origin. Probably made by some crazy Manacalon wizard to walk the walls of his manor in a cozy fashion.
+Equipment/&BattleAxe_plus_1_Title	Battleaxe +1
+Equipment/&BattleAxe_plus_1_Description	A typical dwarven weapon, probably crafted by the smiths of the Snow Alliance.
+Equipment/&PickupQuest_Item_LavaForest_Title	Dwarven Hammer
+Equipment/&PickupQuest_Item_LavaForest_Description	This looks like a Dwarven Thrower, but it seems to be protected by some kind of powerful spell, and it is just as though no one is able to yield its magic. Maybe you're just not worthy.
+Equipment/&Item_Tome_Conjuration_Title	Tome of All Things
+Equipment/&Item_Tome_Conjuration_Description	Incredible as it might be, carrying this book in your Utility Slot makes you all-powerful. Why would anyone leave this here?
+Equipment/&ElvenThinblade_plus_one_Unidentified_Title	Elven Shortsword
+Equipment/&ElvenThinblade_plus_one_Unidentified_Description	This fine, elegant shortsword is a masterpiece of ancient Manacalon smithing. It is so light and sharp that it might be magical.
+Equipment/&ElvenThinblade_plus_one_TypeTitle	Elven Thinblade
+Equipment/&ElvenThinblade_plus_one_Description	These rare weapons were all crafted by the hand of Defineth Sharpsight himself. They were prized by master spies of the Silent Whisper, for they ally the qualities of finesse and light blades with unmatched sharpness.
+Equipment/&Shortsword_plus_two_TypeTitle	Shortsword +2
+Equipment/&Shortsword_plus_two_Description	A typical blade design from Elgador Keenspirit, Magesmith of the Arcaneum.
+Equipment/&Scimitar_plus_one_Unidentified_Title	Superb Scimitar
+Equipment/&Scimitar_plus_one_Unidentified_Description	This elegant scimitar is clearly the work of a master smith, and may even be magical.
+Equipment/&Scimitar_plus_one_Title	Scimitar +1
+Equipment/&Scimitar_plus_one_Description	This weapon was forged on Tirmar and was the trademark of the spies of the Inquisition during the dark ages.
+Equipment/&Rapier_plus_two_TypeTitle	Rapier +2
+Equipment/&Rapier_plus_two_Description	A masterpiece from Griff Blackheart, renowned for his deadly rapiers.
+Equipment/&Longbow_plus_2_Title	Longbow +2
+Equipment/&Longbow_plus_2_Description	Defineth Sharpsight, the famous sylvan elf enchanter who designed many various bows, created this bow for only one, grim purpose: to kill his cousins, the elves of the Manacalon Empire.
+Equipment/&Mace_plus_two_Title	Mace +2
+Equipment/&Mace_plus_two_Description	This weapon was typically wielded by veterans of the Golden Cavalry for devastating effect on the frontlines.
+Equipment/&Greataxe_plus_01_Title	Greataxe +1
+Equipment/&Greataxe_plus_01_Description	A typical dwarven weapon, probably crafted by the smiths of the Snow Alliance.
+Equipment/&Greataxe_plus_01_unidentified_Title	Superb Greataxe
+Equipment/&Greataxe_plus_01_unidentified_Description	A finely decorated greataxe with runic engravings.
+Equipment/&Greataxe_plus_2_Title	Greataxe +2
+Equipment/&BattleAxe_plus_2_Title	A masterpiece by Galar Stormforge, forged in the fires of the northern mountains and soaked in the eternal snows.
+Equipment/&Handaxe_plus_01_Description	A typical weapon forged by the dwarven smiths of the Snow Alliance.
+Equipment/&Warhammer_plus_02_Title	Warhammer +2
+Equipment/&Warhammer_plus_02_Description	A light and beautifully crafted warhammer, made by Galar Stormforge, as a prototype for a more powerful weapon.
+Equipment/&Warhammer_plus_01_Description	A typical weapon forged by the dwarven smiths of the Snow Alliance.
+Equipment/&Shortsword_plus_1_Description	Though it follows the style of Defineth Sharpsight, this is obviously a copy and not a product of the master smith. Still, it's a very good magical weapon.
+Equipment/&Rapier_plus_1_Description	A beautifully crafted blade, very popular on the ships that sail around the Southern Islands.
+Equipment/&TomeOfAllThingsFunction_Description	While you are carrying the Tome of All Things in your Utility Slot, all your ability scores equal 20.
+Equipment/&FunctionCommandFear_Description	Command one target to flee in terror.
+Equipment/&FunctionConeFear_Description	Cause all enemies in a 12-cell-long cone to flee in terror.
+Equipment/&ItemFlagQuestDescription	This item is necessary for the completion of a quest and cannot be dropped or sold.
+Equipment/&ItemFlagPrimedDescription	Prepared by a Manacalon enchanter, this item can be crafted into a magical version using a Manacalon Rosary and the appropriate ingredient.
+Equipment/&ItemFlagIngredientDescription	This item contains magical potential and can be used to craft a magical item, provided it is primed.
+Equipment/&ItemFlag_Flash_Description	Deals 1d6 radiant damage.
+Equipment/&ItemFlag_Corrosive_Description	Deals 1d6 acid damage.
+Equipment/&ItemFlag_Flaming_Description	Deals 1d6 fire damage.
+Equipment/&ItemFlagPoison_1D4_Description	Deals 1d4 poison damage.
+Equipment/&ItemFlagPoison_1D8_Description	Deals 1d8 poison damage.
+Equipment/&ItemFlagPoison_1D6_Description	Deals 1d6 poison damage.
+Equipment/&ItemFlagPoison_2D4_Description	Deals 2d4 poison damage.
+Equipment/&ItemFlagPoison_2D8_Description	Deals 2d8 poison damage.
+Equipment/&ItemFlagPoison_3D6_Description	Deals 3d6 poison damage.
+Equipment/&ItemFlagPoison_3D8_Description	Deals 3d8 poison damage.
+Equipment/&ItemFlagPoison_Poisoned_Description	Causes the poisoned condition.
+Equipment/&ItemFlagPoison_Paralyzed_Description	Causes the paralyzed condition.
+Equipment/&ItemFlagPoison_Restrained_Description	Causes the restrained condition.
+Equipment/&ItemFlagPoison_Overtime_Description	Deals damage over time.
+Equipment/&ItemFlagPoison_Blinded_Description	Causes the blinded condition.
+Equipment/&EncryptedSpellbook_Title	Encrypted Spellbook
+Equipment/&EncryptedSpellbook_Description	A mysterious spellbook written in some obscure code. Maybe experts from the Circle of Danantar could use it.
+Equipment/&ContainerTrunkTitle	Trunk
+Equipment/&EarlyBird_Function_Title	Increased Initiative
+Equipment/&EarlyBird_Function_Description	Increases your initiative by 2 when worn around the neck.
+Equipment/&StandardBrassKeyTitle	Brass Key
+Equipment/&StandardSilverKeyTitle	Silver Key
+Equipment/&StandardGoldKeyTitle	Gold Key
+Equipment/&StandardIronKeyTitle	Iron Key
+Equipment/&StandardDragonKeyTitle	Dragon Key
+Equipment/&StandardKeyDescription	A key meant to open a locked door or container

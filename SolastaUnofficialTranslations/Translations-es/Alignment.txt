@@ -1,0 +1,30 @@
+Alignment/&ChaoticEvilDescription	Las criaturas caóticas malvadas (CE) actúan con violencia arbitraria, estimuladas por su codicia, odio o sed de sangre. Los demonios, dragones rojos y orcos son un mal caótico.
+Alignment/&ChaoticEvilTitle	Mal caótico
+Alignment/&ChaoticEvilTitleShort	CE
+Alignment/&ChaoticGoodDescription	Las criaturas caóticas buenas (CG) actúan según las indicaciones de su conciencia, con poca consideración por lo que los demás esperan. Los dragones de cobre, muchos elfos y unicornios son buenos caóticos.
+Alignment/&ChaoticGoodTitle	Bien caotico
+Alignment/&ChaoticGoodTitleShort	CG
+Alignment/&ChaoticNeutralDescription	Las criaturas caóticas neutrales (CN) siguen sus caprichos, manteniendo su libertad personal por encima de todo. Muchos bárbaros y pícaros, y algunos bardos, son caóticos neutrales.
+Alignment/&ChaoticNeutralTitle	Neutral caótico
+Alignment/&ChaoticNeutralTitleShort	CN
+Alignment/&LawfulEvilDescription	Las criaturas legales malvadas (LE) toman metódicamente lo que quieren, dentro de los límites de un código de tradición, lealtad u orden. Los diablos, dragones azules y hobgoblins son el mal legal.
+Alignment/&LawfulEvilTitle	Legalmente malvado
+Alignment/&LawfulEvilTitleShort	LE
+Alignment/&LawfulGoodDescription	Se puede contar con que las criaturas legales buenas (LG) harán lo correcto como lo espera la sociedad. Los dragones de oro, los paladines y la mayoría de los enanos son legítimos.
+Alignment/&LawfulGoodTitle	Permitido por la ley
+Alignment/&LawfulGoodTitleShort	LG
+Alignment/&LawfulNeutralDescription	Los individuos legítimos neutrales (LN) actúan de acuerdo con la ley, la tradición o los códigos personales. Muchos monjes y algunos magos son legítimos neutrales.
+Alignment/&LawfulNeutralTitle	Legal Neutral
+Alignment/&LawfulNeutralTitleShort	LN
+Alignment/&NeutralDescription	Neutral (N) es la alineación de aquellos que prefieren mantenerse alejados de las cuestiones morales y no tomar partido, haciendo lo que parece mejor en ese momento. La gente lagarto, la mayoría de los druidas y muchos humanos son neutrales.
+Alignment/&NeutralEvilDescription	El mal neutral (NE) es la alineación de aquellos que hacen lo que pueden salirse con la suya, sin compasión ni escrúpulos. Muchos drow, algunos gigantes de las nubes y yugoloths son malvados neutrales.
+Alignment/&NeutralEvilTitle	Neutral Evil
+Alignment/&NeutralEvilTitleShort	nordeste
+Alignment/&NeutralGoodDescription	Las personas neutrales buenas (NG) hacen lo mejor que pueden para ayudar a otros de acuerdo con sus necesidades. Muchos celestiales, algunos gigantes de las nubes y la mayoría de los gnomos son buenos neutrales
+Alignment/&NeutralGoodTitle	Buen neutral
+Alignment/&NeutralGoodTitleShort	NG
+Alignment/&NeutralTitle	Neutral
+Alignment/&NeutralTitleShort	norte
+Alignment/&UnalignedDescription	La mayoría de las criaturas que carecen de la capacidad para el pensamiento racional no tienen alineaciones… no están alineadas. Una criatura así es incapaz de hacer una elección moral o ética y actúa de acuerdo con su naturaleza bestial. Los tiburones son depredadores salvajes, por ejemplo, pero no son malvados; no tienen alineación.
+Alignment/&UnalignedTitle	No alineado
+Alignment/&UnalignedTitleShort	Naciones Unidas

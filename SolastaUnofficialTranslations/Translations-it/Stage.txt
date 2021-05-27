@@ -1,0 +1,207 @@
+Stage/&AbilityScoreIncreaseRemainingFormat	Punti rimanenti: {0} / {1}
+Stage/&AbilityScoreIncreaseTitle	Aumento del punteggio abilità
+Stage/&AbilityScoresAssignmentDragTitle	Trascina e rilascia i tuoi tiri sulle celle del punteggio di caratteristica,\no ottimizzali per la tua classe di personaggi.
+Stage/&AbilityScoresAssignmentEditTitle	Modifica i tuoi punteggi di abilità dalla tua riserva di punti.
+Stage/&AbilityScoresAssignmentEditUnlimitedTitle	Modifica i tuoi punteggi di abilità come desideri
+Stage/&AbilityScoresAvailableValuesTitle	I tuoi punteggi disponibili.
+Stage/&AbilityScoresBonusFromRaceTitle	Da Ancestry
+Stage/&AbilityScoresCurrentTitle	Punteggi abilità attuali
+Stage/&AbilityScoresDecreaseCannotDescription	Non puoi più abbassare questo valore.
+Stage/&AbilityScoresDecreaseDescription	Abbassa questo punteggio di abilità.
+Stage/&AbilityScoresFreeEditionDescription	Ricrea accuratamente un personaggio esistente.
+Stage/&AbilityScoresFreeEditionTitle	Modifica gratuita
+Stage/&AbilityScoresIncreaseCannotDescription	Nessun ulteriore aumento possibile.
+Stage/&AbilityScoresIncreaseCapitalDescription	Aumenta questo punteggio di caratteristica al costo di {0} punto / i.
+Stage/&AbilityScoresIncreaseFreeDescription	Aumenta questo punteggio di caratteristica (gratuito).
+Stage/&AbilityScoresMethodPointsTitle	Punto Acquista
+Stage/&AbilityScoresMethodRollTitle	Rotoli di dadi
+Stage/&AbilityScoresMethodTitle	Scegli un sistema di generazione di abilità e definisci le statistiche del tuo personaggio.
+Stage/&AbilityScoresOptimizeDescription	Ottimizza le assegnazioni dei punteggi di abilità per la classe di personaggi selezionata.
+Stage/&AbilityScoresOptimizeTitle	Ottimizzare
+Stage/&AbilityScoresPointsCapitalInfiniteTitle	Punti illimitati
+Stage/&AbilityScoresPointsCapitalTitle	Pool di punti
+Stage/&AbilityScoresPredeterminedDescription	Rilancia 6 punteggi di caratteristica, usando 4d6 e mantenendo i tre tiri migliori.
+Stage/&AbilityScoresPredeterminedTitle	Array standard
+Stage/&AbilityScoresRemainingPointsDescription	Hai ancora tanti punti da spendere.
+Stage/&AbilityScoresRemainingPointsTitle	Rimanente
+Stage/&AbilityScoresRerollDescription	Rilancia 6 punteggi di caratteristica, usando 4d6 e mantenendo i tre tiri migliori.
+Stage/&AbilityScoresRerollTitle	Ritira i dadi
+Stage/&AbilityScoresResetDescription	Reimposta tutte le assegnazioni dei punteggi di caratteristica.
+Stage/&AbilityScoresResetTitle	Ripristina
+Stage/&AbilityScoresStageDescription	Genera i sei punteggi di caratteristica principali del personaggio.
+Stage/&AbilityScoresStageFailNotAllAssignedDescription	Devi assegnare tutti e 6 i punteggi di caratteristica sul lato sinistro dello schermo.
+Stage/&AbilityScoresStageFailRemainingPointsDescription	Devi spendere tutti i tuoi punti prima di poter procedere.
+Stage/&AbilityScoresStageFailSpendAllLevelUpPointsDescription	Devi spendere tutti i punti abilità per salire di livello.
+Stage/&AbilityScoresStageFailSpendAllRacePointsDescription	Devi spendere tutti i punti abilità dell'ascendenza scelta.
+Stage/&AbilityScoresStageTitle	Capacità\nPunteggi
+Stage/&AbilityTipDescription	Come "{0}", i tuoi punteggi di caratteristica più importanti sono {1}, {2} e {3}.
+Stage/&AbilityTipTitle	Mancia
+Stage/&AllSpellsFormat	In qualità di membro della classe "{0}", hai accesso a tutti gli incantesimi (eccetto trucchetti) del tuo elenco di incantesimi.\n\nUn'altra interfaccia ti permetterà di scegliere gli incantesimi per prepararti alla giornata.
+Stage/&AtHigherLevelsDescription	Mostra le funzionalità concesse a livelli più alti.
+Stage/&AtHigherLevelsTitle	A livelli più alti
+Stage/&BackgroundAlignmentTitle	Scegli un allineamento:
+Stage/&BackgroundChose2FlagsTitle	Bandiere della personalità (scegli 2)
+Stage/&BackgroundEquipmentTitle	Attrezzatura di sfondo
+Stage/&BackgroundFeaturesTitle	Funzionalità in background
+Stage/&BackgroundPredefinedFlagsTitle	Flag di proprietà fisse
+Stage/&BackgroundSelectionStageDescription	Questa fase crea uno sfondo per il personaggio.
+Stage/&BackgroundSelectionStageMissingAlignmentDescription	È necessario selezionare un allineamento.
+Stage/&BackgroundSelectionStageMissingAlignmentFlagsDescription	Devi scegliere due bandiere di personalità aggiuntive sul tabellone etico (Legge / Caos / Bene / Male).
+Stage/&BackgroundSelectionStageMissingBackgroundFlagsDescription	Devi scegliere le bandiere della personalità per lo sfondo selezionato.
+Stage/&BackgroundSelectionStageNoneSelectedDescription	Devi selezionare uno sfondo.
+Stage/&BackgroundSelectionStageTitle	sfondo
+Stage/&CantripLearnPluralTitle	Seleziona {0} trucchetti per imparare.
+Stage/&CantripLearnSingleTitle	Seleziona un trucchetto per imparare.
+Stage/&ChangeEquipementDescription	Fare clic per scegliere tra diverse configurazioni di apparecchiature.
+Stage/&ChangeEquipementTitle	Modifica attrezzatura
+Stage/&ClassAdvancementStageDescription	Questa fase ti consente di aumentare di livello una classe o di aggiungere una nuova classe.
+Stage/&ClassAdvancementStageTitle	Classe\nAvanzamento
+Stage/&ClassEquipmentTitle	Attrezzatura di classe
+Stage/&ClassFeaturesTitle	Privilegi di classe
+Stage/&ClassSelectionStageDescription	Questa fase ti consente di scegliere i privilegi di classe per il tuo personaggio.
+Stage/&ClassSelectionStageNoneSelectedDescription	Devi selezionare una classe.
+Stage/&ClassSelectionStageTitle	Classe
+Stage/&DeitySelectionDeityChoiceTitle	Seleziona una divinità
+Stage/&DeitySelectionDomainChoiceTitle	Seleziona un dominio divino
+Stage/&DeitySelectionSelectedDeityDomainsHeader	Domini divini
+Stage/&DeitySelectionSelectedDeityHeader	Divinità
+Stage/&DeitySelectionSelectedDomainFeaturesTitle	Caratteristiche del dominio
+Stage/&DeitySelectionSelectedDomainHeader	Dominio
+Stage/&DeitySelectionStageDescription	Questa fase ti consente di scegliere quale divinità seguire il personaggio e selezionare i benefici della tua fede.
+Stage/&DeitySelectionStageNoDeitySelectedDescription	Devi selezionare una divinità.
+Stage/&DeitySelectionStageNoDomainSelectedDescription	Devi selezionare un dominio divino.
+Stage/&DeitySelectionStageTitle	Divinità
+Stage/&FightingStyleEffectsHeaderTitle	Effetti di stile
+Stage/&FightingStyleSelectedFightingStyleHeader	Stile di combattimento
+Stage/&FightingStyleSelectionStageDescription	Questa fase ti consente di scegliere uno stile di combattimento per il personaggio.
+Stage/&FightingStyleSelectionStageNoFightingStyleSelectedDescription	Devi selezionare uno stile di combattimento.
+Stage/&FightingStyleSelectionStageTitle	Combattimento\nStile
+Stage/&FightingStyleSelectionTitle	Seleziona Stile di combattimento
+Stage/&HigherLevelFeaturesTitle	Funzionalità di livello superiore
+Stage/&HitPointsGainFormatPlural	Hai guadagnato {0} punti ferita\n\nHai guadagnato un dado per colpire in più
+Stage/&HitPointsGainFormatSingle	Hai guadagnato {0} punto ferita\n\nHai ottenuto un dado per colpo in più
+Stage/&HitPointsGainTitle	Punti ferita
+Stage/&IdentityAdditionalBackstoryHeader	Backstory aggiuntivo
+Stage/&IdentityAdditionalBackstoryTemporaryInput	<Inserisci qui la tua storia passata>
+Stage/&IdentityDefinitionDescription	Questa fase sviluppa il background del personaggio.
+Stage/&IdentityDefinitionStageFailDuplicateName	Un altro personaggio sta già usando quel nome.
+Stage/&IdentityDefinitionStageFailEmptyName	Devi inserire un nome.
+Stage/&IdentityDefinitionTitle	Identità
+Stage/&IdentityFirstNameTitle	Nome di battesimo
+Stage/&IdentityLastNameTitle	Cognome
+Stage/&IdentityModifiersHeader	Modificatori
+Stage/&IdentityMorphotypeBeardShapeHeader	Forma della barba
+Stage/&IdentityMorphotypeBodyDecorationHeader	Decorazione del corpo
+Stage/&IdentityMorphotypeEyeColorHeader	Colore degli occhi
+Stage/&IdentityMorphotypeFaceAndSkinHeader	Viso e pelle
+Stage/&IdentityMorphotypeFaceShapeHeader	Viso
+Stage/&IdentityMorphotypeHairColorHeader	Colore dei capelli
+Stage/&IdentityMorphotypeHairShapeHeader	Forma dei capelli
+Stage/&IdentityMorphotypeMusculatureHeader	Fisico
+Stage/&IdentityMorphotypeOriginHeader	Origine
+Stage/&IdentityMorphotypeSkinHeader	Il tono della pelle
+Stage/&IdentityRandomRollDescription	Crea un nome casuale basato sull'ascendenza del personaggio.
+Stage/&IdentityRandomRollTitle	Casuale
+Stage/&IdentityVoiceTitle	Voce
+Stage/&LevelGainsCantripSelectionMultiple	{0} cantrip da selezionare
+Stage/&LevelGainsCantripSelectionSingle	Un trucchetto da selezionare
+Stage/&LevelGainsSaveDcFormat	Save DC è aumentato a {0}
+Stage/&LevelGainsSpellAttackFormat	L'attacco dell'incantesimo è aumentato a {0}
+Stage/&LevelGainsSpellSelectionMultiple	{0} incantesimi da selezionare
+Stage/&LevelGainsSpellSelectionSingle	Un incantesimo da selezionare
+Stage/&LevelGainsSpellSlotsTile	Slot incantesimo:
+Stage/&LevelGainsStageDescription	Questa fase elenca ciò che hai guadagnato dal tuo nuovo livello.
+Stage/&LevelGainsStageTitle	Guadagni di livello
+Stage/&LevelUpCaptionTitle	{0} è ora un livello {1} {2}
+Stage/&LevelUpHeader	Sali di livello!
+Stage/&NeedADeityDescription	Devi scegliere una divinità.
+Stage/&ProficiencyAutoSelectButtonDescription	Lascia che sia il computer a fare le scelte per ora.
+Stage/&ProficiencyAutoSelectButtonTitle	Auto
+Stage/&ProficiencyBonusGainFormat	Aumentato a {0}\nColpisce tutti gli attacchi, i tiri salvezza, le prove di abilità e strumenti e la CD degli incantesimi.
+Stage/&ProficiencyBonusGainTitle	Bonus di competenza
+Stage/&ProficiencyEditButtonDescription	Torna alla fase di competenza e apporta le modifiche.
+Stage/&ProficiencyEditButtonTitle	Modificare
+Stage/&ProficiencyEffectsDescription	La competenza in un tiro salvezza, abilità, strumento o arma ti consente di aggiungere il tuo bonus di competenza alla corrispondente prova di caratteristica. La competenza in talenti, lingue e armature ti consente di usarli. La competenza in abilità e strumenti raddoppia il bonus di competenza.
+Stage/&ProficiencyExpertiseChoicesPluralFormat	Scegli {0} abilità addestrate o {1} per diventare esperto in (doppia competenza)
+Stage/&ProficiencyExpertiseChoicesSingleFormat	Scegli {0} abilità addestrate o {1} per diventare esperto in (doppia competenza)
+Stage/&ProficiencyFeatChoicesPluralFormat	Scegli {0} talenti
+Stage/&ProficiencyFeatChoicesSingleFormat	Scegli {0} feat
+Stage/&ProficiencyIntroductionCreationDescription	I tuoi antenati, la tua classe e il tuo background ti consentono di scegliere le competenze in abilità, strumenti, imprese e lingue.
+Stage/&ProficiencyIntroductionLevelUpDescription	Raggiungere un livello ti dà nuove competenze tra cui scegliere.
+Stage/&ProficiencyLanguageChoicesPluralFormat	Scegli {0} lingue
+Stage/&ProficiencyLanguageChoicesSingleFormat	Scegli la {0} lingua
+Stage/&ProficiencyResetAllButtonDescription	Ripristina tutti i punti competenza assegnati.
+Stage/&ProficiencyResetAllButtonTitle	Resetta tutto
+Stage/&ProficiencyResetButtonDescription	Reimposta i punti competenza assegnati per questo passaggio.
+Stage/&ProficiencyResetButtonTitle	Ripristina
+Stage/&ProficiencySelectionStageDescription	Questa fase sceglie le competenze del personaggio: abilità, competenze, lingue e altro.
+Stage/&ProficiencySelectionStageFailSpendAllPointsDescription	Devi spendere tutti i tuoi punti competenza prima di procedere.
+Stage/&ProficiencySelectionStageTitle	Competenze
+Stage/&ProficiencySkillChoicesPluralFormat	Scegli {0} abilità
+Stage/&ProficiencySkillChoicesPluralListFormat	Scegli {0} abilità da {1}
+Stage/&ProficiencySkillChoicesSingleFormat	Scegli {0} abilità
+Stage/&ProficiencySkillChoicesSingleListFormat	Scegli {0} abilità da {1}
+Stage/&ProficiencyToolTypeChoicesPluralFormat	Scegli {0} strumenti
+Stage/&ProficiencyToolTypeChoicesPluralListFormat	Scegli {0} strumenti tra {1}
+Stage/&ProficiencyToolTypeChoicesSingleFormat	Scegli lo strumento {0}
+Stage/&ProficiencyToolTypeChoicesSingleListFormat	Scegli {0} strumento tra {1}
+Stage/&RaceSelectionStageDescription	Questa fase determina l'ascendenza del personaggio e le sue caratteristiche.
+Stage/&RaceSelectionStageNoneSelectedDescription	Devi selezionare un'ascendenza.
+Stage/&RaceSelectionStageTitle	Ascendenza
+Stage/&RaceSubraceCountDescription	{0} di {1} lignaggi
+Stage/&SexFemaleTitle	Femmina
+Stage/&SexMaleTitle	Maschio
+Stage/&SpellLearnPluralTitle	Seleziona {0} incantesimi da imparare.
+Stage/&SpellLearnSingleTitle	Seleziona un incantesimo da imparare.
+Stage/&SpellScribePluralTitle	Seleziona {0} incantesimi da scrivere nel tuo libro degli incantesimi.
+Stage/&SpellScribeSingleTitle	Seleziona un incantesimo da scrivere nel tuo libro degli incantesimi.
+Stage/&SpellSelectionStageDescription	Questa fase ti consente di scegliere gli incantesimi del personaggio.
+Stage/&SpellSelectionStageFailLearnSpellsDescription	Devi imparare tutti i tuoi incantesimi prima di procedere.
+Stage/&SpellSelectionStageTitle	Incantesimi
+Stage/&SubclassSelectionStageDomainTitle	Divine\nDominio
+Stage/&SubclassSelectionStageMartialDescription	Questa fase sceglie un archetipo marziale per il personaggio.
+Stage/&SubclassSelectionStageMartialFeatures	Caratteristiche dell'archetipo marziale
+Stage/&SubclassSelectionStageMartialHeader	Seleziona Archetipo marziale
+Stage/&SubclassSelectionStageMartialNoneDescription	Devi selezionare un archetipo marziale.
+Stage/&SubclassSelectionStageMartialTitle	marziale\nArchetipo
+Stage/&SubclassSelectionStageOathDescription	Questa fase sceglie il sacro giuramento del personaggio.
+Stage/&SubclassSelectionStageOathFeatures	Caratteristiche del giuramento sacro
+Stage/&SubclassSelectionStageOathHeader	Seleziona Sacred Oath
+Stage/&SubclassSelectionStageOathNoneDescription	Devi scegliere un giuramento sacro.
+Stage/&SubclassSelectionStageOathTitle	Sacro\nGiuramento
+Stage/&SubclassSelectionStageRangerDescription	Questa fase seleziona l'archetipo del ranger del personaggio.
+Stage/&SubclassSelectionStageRangerFeatures	Caratteristiche dell'archetipo dei ranger
+Stage/&SubclassSelectionStageRangerHeader	Seleziona Archetipo Ranger
+Stage/&SubclassSelectionStageRangerNoneDescription	Devi selezionare un archetipo di ranger.
+Stage/&SubclassSelectionStageRangerTitle	Ranger\nArchetipo
+Stage/&SubclassSelectionStageRoguishDescription	Questa fase seleziona l'archetipo birichino del personaggio.
+Stage/&SubclassSelectionStageRoguishFeatures	Caratteristiche dell'archetipo malvagio
+Stage/&SubclassSelectionStageRoguishHeader	Seleziona un Archetipo Ladro
+Stage/&SubclassSelectionStageRoguishNoneDescription	Devi selezionare un archetipo birichino.
+Stage/&SubclassSelectionStageRoguishTitle	Roguish\nArchetipo
+Stage/&SubclassSelectionStageSubclassDescription	Questa fase seleziona la sottoclasse del personaggio.
+Stage/&SubclassSelectionStageSubclassFeatures	Caratteristiche delle sottoclassi
+Stage/&SubclassSelectionStageSubclassHeader	Seleziona sottoclasse
+Stage/&SubclassSelectionStageSubclassTitle	Sottoclasse
+Stage/&SubclassSelectionStageTraditionDescription	Questa fase seleziona la tradizione arcana del personaggio.
+Stage/&SubclassSelectionStageTraditionFeatures	Caratteristiche della tradizione arcana
+Stage/&SubclassSelectionStageTraditionHeader	Seleziona Arcane Tradition
+Stage/&SubclassSelectionStageTraditionNoneDescription	Devi selezionare una tradizione arcana.
+Stage/&SubclassSelectionStageTraditionTitle	Arcano\nTradizione
+Stage/&UnlockedClassFeaturesTitle	Privilegi di classe sbloccati
+Stage/&UnlockedRaceFeaturesTitle	Funzioni ancestrali sbloccate
+Stage/&SpellIntroductionCreationDescription	Seleziona nuovi incantesimi o trucchetti da imparare.
+Stage/&SpellSelectionHeaderTitle	Seleziona Incantesimi
+Stage/&AbilityScoresStageFailMinimalStrengthDescription	Un personaggio deve avere una forza minima di {0} per iniziare l'avventura.
+Stage/&IdentityMorphotypeAgeHeader	Età
+Stage/&IdentityPronounTitle	Pronome
+Stage/&PronounMaleTitle	Lui
+Stage/&PronounFemaleTitle	Lei
+Stage/&PronounNonBinaryTitle	Essi
+Stage/&BackgroundPersonalityFlagsTitle	Bandiere della personalità di sfondo (scegli due)
+Stage/&AlignementPersonalityFlagsTitle	Bandiere di personalità aggiuntive (scegli due)
+Stage/&AlignementLawAxisTitle	Legge
+Stage/&AlignementChaosAxisTitle	Caos
+Stage/&AlignementGoodAxisTitle	Buona
+Stage/&AlignementEvilAxisTitle	il male
+Stage/&SpellSelectionStageFailNotEnoughPagesDescription	Nessuno dei tuoi libri degli incantesimi contiene abbastanza spazio per scrivere questi incantesimi. Devi acquisire un nuovo libro degli incantesimi per completare la sequenza di aumento di livello.

@@ -85,3 +85,10 @@ Reaction/&AlterAttackPowerDescription	{0} is attacking {1}! You can use {2} to i
 Reaction/&AlterAttackPowerReactDescription	Click to use {0} and block the attack.
 Reaction/&AlterAttackPowerReactTitle	Block
 Reaction/&AlterAttackPowerTitle	Prevent incoming attack.
+Reaction/&IndomitableResistanceReactTitle	Reroll
+Reaction/&IndomitableResistanceReactDescription	Reroll to try and succeed on the saving throw.
+Reaction/&IndomitableResistanceTitle	Indomitable
+Reaction/&IndomitableResistanceDescription	{0} has failed a saving throw against {1} but can attempt to reroll it.
+Reaction/&ShadowRetributionReactTitle	Cast Cantrip
+Reaction/&ShadowRetributionReactDescription	Cast the cantrip spell on the hostile spellcaster.
+Reaction/&ShadowRetributionDescription	{0} is targeted by a hostile spell of {1} and can counterattack with the {2} spell.

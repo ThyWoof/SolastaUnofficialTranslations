@@ -47,7 +47,7 @@ MainMenu/&CharacterSortCharacterClassTitle	Class
 MainMenu/&CharacterSortCharacterAncestryTitle	Ancestry
 MainMenu/&DifficultySettingCustomizationLabel	Detailed options can be customized in the Game Settings menu.
 MainMenu/&CreditsTitle	Game Credits
-MainMenu/&CreditsDescription	Display the game credits of Solasta: Crown of the Magister
+MainMenu/&CreditsDescription	Display the game credits of Solasta: Crown of the Magister.
 MainMenu/&UserLocationsTitle	Dungeon Maker
 MainMenu/&UserLocationsDescription	Select dungeons & locations created by the community to edit or play, or create your own
 MainMenu/&UserLocationsBrowserTitle	User Locations
@@ -77,3 +77,5 @@ MainMenu/&UserLocationsPublishTitle	Publish
 MainMenu/&UserLocationsPublishDescription	Opens the interface to publish a location online
 MainMenu/&UserLocationsPlayLocationTitle	Play
 MainMenu/&UserLocationsPlayLocationDescription	Set up a game with this location and select a party of characters
+MainMenu/&UserLocationsBrowseWorkshopTitle	Browse Workshop
+MainMenu/&UserLocationsBrowseWorkshopDescription	Opens the workshop to browse locations made by other players

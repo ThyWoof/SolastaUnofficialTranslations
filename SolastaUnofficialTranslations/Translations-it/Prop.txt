@@ -1,0 +1,115 @@
+Prop/&CandelabraTitle	Candelabri
+Prop/&CandelabraDescription	Un candelabro decorativo
+Prop/&ColumnATitle	Colonna A
+Prop/&ColumnADescription	Una colonna decorativa
+Prop/&ColumnBTitle	Colonna B
+Prop/&ColumnBDescription	Una colonna decorativa
+Prop/&FireBasinTitle	Bacino del fuoco
+Prop/&FireBasinDescription	Un bacino ardente, che illumina l'ambiente circostante
+Prop/&BenchTitle	Panchina
+Prop/&BenchDescription	Una panca decorativa
+Prop/&GuardrailsATitle	Guardrails
+Prop/&GuardrailsADescription	Un muretto che può essere utilizzato come copertura pesante
+Prop/&DebrisATitle	Detriti
+Prop/&DebrisADescription	Un mucchio di pietre che impedisce il movimento
+Prop/&GuardrailsBrokenATitle	Guardrail rotto A
+Prop/&GuardrailsBrokenADescription	Un muretto corto, rotto e basso che può essere usato come copertura pesante
+Prop/&GuardrailsBrokenBTitle	Guardrail rotto B
+Prop/&GuardrailsBrokenBDescription	Un muro lungo, rotto e basso che può essere usato come copertura pesante
+Prop/&GuardrailsLinkTitle	Guardrail Link
+Prop/&GuardrailsLinkDescription	Un pilastro del muro basso
+Prop/&GuardrailsStraightATitle	Guardrail dritto A
+Prop/&GuardrailsStraightADescription	Una parete bassa e bassa che può essere utilizzata come copertura pesante
+Prop/&GuardrailsStraightBTitle	Guardrail dritto B
+Prop/&GuardrailsStraightBDescription	Un muro lungo e basso che può essere utilizzato come copertura pesante
+Prop/&MausoleumTitle	Mausoleo
+Prop/&MausoleumDescription	Un monumento funerario inaccessibile
+Prop/&StatueTitle	Statua
+Prop/&StatueDescription	Una statua decorativa
+Prop/&TombATitle	Tomba A
+Prop/&TombADescription	Una tomba in cui si può entrare
+Prop/&TombBTitle	Tomba B
+Prop/&TombBDescription	Un movimento decorativo per bloccare le tombe
+Prop/&TombCTitle	Tomba C
+Prop/&VaseTitle	Vaso
+Prop/&VaseDescription	Un vaso funebre decorativo
+Prop/&WallBlockerATitle	Wall Blocker
+Prop/&WallBlockerADescription	Un ampio muro per bloccare un passaggio
+Prop/&WallBlockerBTitle	Wall Blocker
+Prop/&WallBlockerBDescription	Un ampio muro per bloccare un passaggio
+Prop/&WallChainTitle	Catena
+Prop/&WallChainDescription	Un pezzo di metallo era appeso al muro
+Prop/&WallCrawl	Muro con buco di scansione
+Prop/&WallCrawlDescription	Un ampio muro con un buco attraverso cui strisciare
+Prop/&WallTorchTitle	Torcia da muro
+Prop/&WallTorchDescription	Una torcia sempre accesa che può essere posizionata su una parete
+Prop/&BlockTitle	Bloccare
+Prop/&BlockDescription	Una struttura solida che può essere utilizzata per dividere una stanza in sotto-compartimenti
+Prop/&AltarTitle	Altare
+Prop/&AltarDescription	Una struttura votiva utilizzata per pregare una divinità
+Prop/&AlchemyTableTitle	Tavolo Alchemy
+Prop/&ArmorStandTitle	Supporto per armatura
+Prop/&BannerTitle	Banner
+Prop/&BarrelsTitle	Barili
+Prop/&BarrelStackTitle	Stack di barile
+Prop/&BedTitle	Letto
+Prop/&BirdCageTitle	gabbia per uccelli
+Prop/&BookShelfTitle	Scaffale
+Prop/&BookStackTitle	Pila di libri
+Prop/&CabinetTitle	Consiglio dei ministri
+Prop/&CarpetTitle	Tappeto
+Prop/&ChairTitle	Sedia
+Prop/&CorpseTitle	Cadavere
+Prop/&CouchTitle	Divano
+Prop/&CrateTitle	Crate
+Prop/&CrateStackTitle	Crate Stack
+Prop/&CushionsTitle	Cuscini
+Prop/&FakeDoorTitle	Porta falsa
+Prop/&FakeDoorDescription	Una finta porta usata per rappresentare l'uscita / ingresso di un dungeon. Da utilizzare in combinazione con un gadget di uscita / ingresso
+Prop/&FakeStairsTitle	Scale finte
+Prop/&FakeStairsDescription	Finte scale utilizzate per rappresentare l'uscita / ingresso di un dungeon. Da utilizzare in combinazione con un gadget di uscita / ingresso
+Prop/&FireplaceTitle	Camino
+Prop/&GlobeTitle	Globo
+Prop/&GreenHouseTitle	Serra
+Prop/&HarpTitle	Arpa
+Prop/&MirrorTitle	Specchio
+Prop/&PaintingTitle	Pittura
+Prop/&PlantTitle	pianta
+Prop/&PrisonFenceTitle	Recinzione della prigione
+Prop/&ShelvesTitle	Ripiani
+Prop/&StillTitle	Ancora
+Prop/&StoolTitle	Sgabello
+Prop/&StoveTitle	Stufa
+Prop/&TableTitle	tavolo
+Prop/&TelescopeTitle	Telescopio
+Prop/&TreasurePedestalTitle	Piedistallo del tesoro
+Prop/&WindowTitle	Finestra
+Prop/&WorkTableTitle	Tavolo da lavoro
+Prop/&WallSimpleTitle	Muro libero
+Prop/&WallThinTitle	Muro sottile
+Prop/&ReadingDeskTitle	Scrivania da lettura
+Prop/&SpinningWheelTitle	Ruota girevole
+Prop/&DeskTitle	Scrivania
+Prop/&SpiderWebsTitle	Ragnatele
+Prop/&BasketTitle	Cestino
+Prop/&BedrollTitle	Sacco a pelo
+Prop/&BraseroTitle	Braciere
+Prop/&CageTitle	Gabbia
+Prop/&CartTitle	Carrello
+Prop/&CocoonTitle	Bozzolo
+Prop/&HutTitle	Capanna
+Prop/&LavaBasinTitle	Bacino di lava
+Prop/&MarketBoothTitle	Stand del mercato
+Prop/&MushroomsTitle	Funghi
+Prop/&RocksTitle	Rocce
+Prop/&SkinsTitle	Pelli
+Prop/&SpiderEggsTitle	Uova di ragno
+Prop/&RockTitle	Roccia
+Prop/&StalagmiteTitle	Stalagmite
+Prop/&StoneTitle	Pietra
+Prop/&StrawTitle	Cannuccia
+Prop/&StructureTitle	Struttura
+Prop/&TotemTitle	Totem
+Prop/&WoodenPlatformTitle	Piattaforma in legno
+Prop/&FakeStairsUpTitle	Scale finte (su)
+Prop/&FakeStairsDownTitle	Scale finte (giù)

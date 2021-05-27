@@ -1,0 +1,33 @@
+Location/&Bone_Keep_Scene_Description	La Corona ti ha condotto in questa terra desolata, dove un'oscura fortezza sorge in mezzo ai boschi. Esplora l'area e cerca una delle gemme della Corona.
+Location/&Bone_Keep_Scene_Title	Bone Keep
+Location/&Caer_Cyflen_Description	La magnifica capitale del Principato di Masgarth, Caer Cyflen era una delle principali città dell'Impero di Manacalon prima del Cataclisma. Ora è il cuore di uno dei giovani regni orientali.
+Location/&Caer_Cyflen_Title	Caer Cyflen
+Location/&Caer_Lem_Description	La tua prima missione per il Legacy Council è raggiungere l'avamposto di Caer Lem nelle Marche e scoprire perché il suo comandante della guarnigione, il capitano Henrik, ha smesso di inviare rapporti.
+Location/&Caer_Lem_Title	Caer Lem
+Location/&DangerRoomDescription	Una sala prove per i level designer
+Location/&DangerRoomTitle	Stanza del pericolo
+Location/&OrcStrongholdDescription	Una tomba umida e ammuffita, che forse contiene ricchezze ma offre certamente una sfida mortale.
+Location/&OrcStrongholdTitle	Roccaforte degli Orchi
+Location/&Ruins_Telema_Title	Rovine di Telema
+Location/&SouthCryptDescription	Una tomba umida e ammuffita, che forse contiene ricchezze ma offre certamente una sfida mortale.
+Location/&SouthCryptTitle	Cripta del sud
+Location/&TirmarianTower_Description	Sopra l'avamposto di Caer Lem si trova un'antica Torre Tirmarian, fracassata nel fianco della montagna. È stato portato qui durante il Cataclisma, insieme a tutto ciò che contiene.
+Location/&TirmarianTower_Title	Torre Tirmarian
+Location/&Tower_Of_Magic_Description	I sopravvissuti di Caer Lem ti hanno detto che i Sorr-Akkath hanno attaccato dopo aver scoperto una rovina nelle Badlands. Seguendo le loro indicazioni, ti sei recato in questo luogo, sperando di trovare tracce dei mostri leggendari.
+Location/&Tower_Of_Magic_Title	Rovina di Manacalon
+Location/&Tutorial_Tavern_Scene_Description	Gli avventurieri si radunano al Gravekeep's Cask per rispondere a una chiamata del Legacy Council, che sta reclutando nuovi deputati per le sue operazioni all'interno e all'esterno del Principato.
+Location/&Tutorial_Tavern_Scene_Title	La raccolta
+Location/&Encounter_Hamlet_Title	Frazione
+Location/&Encounter_Hamlet_Description	Un piccolo borgo a lato della strada, come tanti altri nel Principato di Masgarth.
+Location/&Encounter_Crossroads_Title	Incrocio stradale
+Location/&Encounter_Crossroads_Description	Un luogo apparentemente tranquillo lungo le strade del Principato.
+Location/&CradleOfFire_Scene_Description	La Corona ti ha condotto in questa terra desolata, dove un'oscura fortezza sorge in mezzo ai boschi. Esplora l'area e cerca una delle gemme della Corona.
+Location/&CradleOfFire_Scene_Title	Culla del fuoco
+Location/&CradleOfFire_Necropolis_Title	Necropoli di Sentharyllian
+Location/&CradleOfFire_Necropolis_Description	Nel profondo del vulcano si trova la città sommersa di Sentharyllian e la sua necropoli, dimora degli Imperiali defunti che l'hanno abitata.
+Location/&NPEmbassy_Title	Nuova ambasciata dell'Impero
+Location/&NPEmbassy_Description	Questa ambasciata si trova vicino al Legacy Council, a Caer Cyflen.
+Location/&Hickory_Description	Questo è un sito ben noto nel Principato, dove le rovine dell'Impero Manacalon fungono da punti di riferimento per i viaggiatori.
+Location/&OrcHideout_Title	Silent Whisper Outpost
+Location/&OrcHideout_Description	Bitterroot ha detto che questo luogo era un antico avamposto di Silent Whisper pre-Cataclisma. Potrebbe essere cambiato molto, ma potresti trovare alcuni oggetti archeologici di grande valore per alcune fazioni.
+Location/&UnknownCamp_Title	Campo

@@ -13,10 +13,10 @@ Screen/&AddCharacterTitle	Add Character
 Screen/&AddNewClassTitle	Add New Class
 Screen/&AnswerChoiceTitle	Select an Answer
 Screen/&AscendDescription	Elevate the horizontal plane by one cell.
-Screen/&AttackCaptionBonusDescription	This equipped weapon is used for your bonus attack.
-Screen/&AttackCaptionBonusTitle	bonus
-Screen/&AttackCaptionMainDescription	This equipped weapon is used for your main attack.
-Screen/&AttackCaptionMainTitle	main
+Screen/&AttackCaptionBonusDescription	
+Screen/&AttackCaptionBonusTitle	
+Screen/&AttackCaptionMainDescription	
+Screen/&AttackCaptionMainTitle	
 Screen/&AttackDamageDescription	The damage this attack causes on a successful hit.
 Screen/&AttackDamageTitle	dmg
 Screen/&AttackRollFooterTitle	Attack
@@ -362,7 +362,7 @@ Screen/&ProficiencyArmorCategoryDescription	You are proficient with this categor
 Screen/&ProficiencyArmorTypeDescription	You are proficient with this specific type of armor, and can wear it.
 Screen/&ProficiencyBonusTitle	Proficiency \nBonus
 Screen/&ProficiencyLanguageDescription	You are proficient at speaking this language.
-Screen/&ProficiencyMarkerDoubleSkillDescription	You are an expert (double proficiency) with {0}({1}) skill checks.
+Screen/&ProficiencyMarkerDoubleSkillDescription	You are an expert (double proficiency) with {0} ({1}) skill checks.
 Screen/&ProficiencyMarkerDoubleToolDescription	You are an expert (double proficiency) at using this kind of tool.
 Screen/&ProficiencyMarkerSavingThrowDescription	You are proficient with {0} saving throws.
 Screen/&ProficiencyMarkerSingleSkillDescription	You are proficient with {0}({1}) skill checks.
@@ -561,10 +561,10 @@ Screen/&TravelJournalDescription	Opens the travel journal to display the events 
 Screen/&TravelJournalTitle	Travel Journal
 Screen/&TravelResumeDescription	Resumes the current journey.
 Screen/&TravelResumeTitle	Resume
-Screen/&TreasuryPoolDescription	Pool all characters' cash into this character's inventory. Useful when buying an expensive item from a merchant.
-Screen/&TreasuryPoolTitle	Pool
-Screen/&TreasuryShareDescription	Divide the party's total wealth evenly among the characters.
-Screen/&TreasuryShareTitle	Share
+Screen/&TreasuryPoolDescription	
+Screen/&TreasuryPoolTitle	
+Screen/&TreasuryShareDescription	
+Screen/&TreasuryShareTitle	
 Screen/&TreasuryTitle	Personal Wealth
 Screen/&TutorialTitleFormat	Tutorial: {0}
 Screen/&TutorialUnderstoodDescription	Close this panel if you have understood.
@@ -585,7 +585,7 @@ Screen/&GroupLeaderDescription	Not used anymore
 Screen/&JournalBestiaryChallengeTitle	Challenge
 Screen/&InventoryMagicalUnidentifiedDescription	This item has magical properties that require Identify (spell or merchant) to be fully revealed
 Screen/&MerchantDetectMagicNothingNewDescription	No new magical items have been detected
-Screen/&ReviewGameDescription	Thank you for playing Solasta! Click here to leave us a review. Much love!
+Screen/&ReviewGameDescription	Thank you for playing Solasta! Click here to open the interface and leave us a review. Much love!
 Screen/&ReviewGameTitle	Review the Game
 Screen/&DashModeDescriptionMainLabelTitle	Your movement range is now increased, at the cost of your main action. Clicking inside your normal range will not use the dash and will preserve your main action.
 Screen/&DashModeDescriptionBonusLabelTitle	Your movement range is now increased, at the cost of your bonus action. Clicking inside your normal range will not use the dash and preserve your bonus action.
@@ -612,7 +612,23 @@ Screen/&BreakFreeModeAcrobaticsDescription	Roll a DEX (Acrobatics) ability check
 Screen/&ColorCalibrationInstructionsDescription	Adjust the brightness and contrast until both lines of the five sigils are visible, with the left-most sigil barely visible.
 Screen/&LegendaryActionTitle	Legendary Action
 Screen/&EditorLocationVisualMoodTitle	Visual Mood
-Screen/&JournalBestiaryPowersTitle	Powers
+Screen/&JournalBestiaryPowersTitle	Special Features
+Screen/&CraftDescription	Open the crafting interface.
+Screen/&CraftTitle	Craft
+Screen/&AttunementRemoveDescription	Remove the attunement on this item so that the character can attune to other items.
+Screen/&NewQuestContentDescription	The quest log has been updated
+Screen/&NewBestiaryContentDescription	The bestiary has been updated
+Screen/&InventoryCannotDropPersonalSpellbookDescription	You cannot drop a personal spellbook out of your party inventory.
+Screen/&InventoryCannotTransferPersonalSpellbookDescription	You cannot transfer a personal spellbook to another character.
+Screen/&InventoryCannotSellPersonalSpellbookDescription	You cannot sell your personal spellbook.
+Screen/&PreferredCantripNoneTitle	None
+Screen/&PreferredCantripNoneDescription	No cantrip is selected, so the first valid attack cantrip will be used.
+Screen/&PreferredCantripTitle	Preferred Cantrip
+Screen/&PreferredCantripDescription	Allows you to select your preferred attack cantrip for the Ready Cantrip action. If this cantrip is not usable when the readied action is triggered (out of range, for example), then another valid cantrip will be selected.
+Screen/&AbortTravelButtonTitle	Abort Travel at Next Location
+Screen/&AbortTravelButtonDescription	Instead of traveling to the final destination, the party will stop at the next location so that you can plot an alternate route.
+Screen/&MarkDeityTitle	Mark Deity
+Screen/&MarkDeityDescription	Paint or carve your deity symbol on this item, so that it can be used as a material component for spells, and even remove the free hand requirement for somatic spells with a material component.
 Screen/&EditorSaveTitle	Save
 Screen/&EditorUndoTitle	Undo
 Screen/&EditorCategoryLocationTitle	Location
@@ -662,7 +678,7 @@ Screen/&EditorSettingsDescription	Edit the user location's settings (name, descr
 Screen/&EditorSaveDescription	Save this user location to disk ({0})
 Screen/&EditorUndoDescription	Undo the last modification ({0})
 Screen/&EditorPrevisTitle	Preview
-Screen/&EditorPrevisDescription	Previsualize the location rendering in a special window (coming soon)
+Screen/&EditorPrevisDescription	Previsualize the location rendering in a separate window (coming soon)
 Screen/&MoveShortcutFormat	Move ({0})
 Screen/&RotateShortcutFormat	Rotate ({0})
 Screen/&CopyShortcutFormat	Copy ({0})
@@ -674,8 +690,35 @@ Screen/&EditorCategoryGadgetTitle	Gadgets
 Screen/&EditorCaptionPositionTitle	Position
 Screen/&EditorCaptionCopyButtonTitle	Duplicate
 Screen/&EditorCaptionCopyButtonDescription	Duplicates the selected element
-Screen/&EditorCaptionPositionFormat	X: {0}, Y: {0}
 Screen/&BackDungeonMakerTitle	Dungeon Maker
 Screen/&BackDungeonMakerDescription	Opens the Dungeon Maker to resume editing this location
 Screen/&EditorLocationSwitchDescription	Click to switch to this user location
 Screen/&EditorLocationAuthorVersionTitle	Version
+Screen/&UserLocationsPublishButtonDescription	Publish your location on Steam Workshop
+Screen/&UserLocationsPublishingWorshopLegalLabel	By submitting this item, you agree to the workshop terms of service.
+Screen/&UserLocationsPublishingWorshopLegalLinkLabel	Read the terms of service here.
+Screen/&UserLocationsPublishedItemLinkLabel	Browse the published item.
+Screen/&UserLocationsPublishHeaderTitle	Publish Location
+Screen/&UserLocationsPublishingLabel	Location publishing started. Please wait.
+Screen/&UserLocationsPublishWaitingLabel	New location will be published.
+Screen/&UserLocationsUpdateWaitingLabel	Existing location will be updated.
+Screen/&UserLocationsPublishingFailedLabel	Could not publish location.
+Screen/&UserLocationsPublishingFailedReasonLabelFormat	Could not publish new location.\nError {0}.
+Screen/&UserLocationsUpdatingFailedReasonLabelFormat	Could not update existing location's data.\nError {0}.
+Screen/&UserLocationsItemPublishedLabelFormat	User location was created on the workshop. Updating location's content. Please wait.
+Screen/&UserLocationsItemUpdatedLabelFormat	User location published properly. Congratulations!
+Screen/&CheatsButtonTitle	Cheats
+Screen/&CheatsButtonDescription	Opens the Dungeon Maker playtest cheats. {0}
+Screen/&EditorFoldAllButtonTitle	Fold All
+Screen/&EditorFoldAllButtonDescription	Collapse all folders of this library
+Screen/&EditorUnfoldAllButtonTitle	Unfold All
+Screen/&EditorUnfoldAllButtonDescription	Open all folders of this library
+Screen/&EditorCustomDimensionsTitle	Custom Dimensions
+Screen/&EditorCustomDimensionsDescription	This gadget can be set with custom dimensions. Select your preferred valued
+Screen/&EditorCustomDimensionsWidthTitle	Width
+Screen/&EditorCustomDimensionsHeightTitle	Height
+Screen/&KnudgeNorthShortcutFormat	Nudge North ({0})
+Screen/&KnudgeEastShortcutFormat	Nudge East ({0})
+Screen/&KnudgeSouthShortcutFormat	Nudge South ({0})
+Screen/&KnudgeWestShortcutFormat	Nudge West ({0})
+Screen/&EditorCaptionPositionFormat	X: {0}, Y: {1}

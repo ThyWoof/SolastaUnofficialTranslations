@@ -78,9 +78,9 @@ Feature/&ClericSkillPointsTitle	Cleric Skills
 Feature/&ClericSpellcastingTitle	Cleric Spellcasting
 Feature/&ClericToolsDescription	You have been trained to scribe magic scrolls.
 Feature/&ClericToolsTitle	Scroll Scribing
-Feature/&ClericTurnUndeadDescription	Channel Divinity to force undead creatures within 6 cells who can see you to flee, unless they make a successful Wisdom saving throw.
 Feature/&ClericTurnUndeadShortTitle	Turn Undead
 Feature/&ClericTurnUndeadTitle	Channel Divinity: Turn Undead
+Feature/&ClericTurnUndeadDescription	Channel Divinity to force undead creatures within 6 cells who can see you to flee, unless they make a successful Wisdom saving throw.
 Feature/&ClericWeaponProficiencyTitle	Cleric Weapon Proficiencies
 Feature/&ConditionAttackOfOpportunityImmunityTitle	Immune to opportunity attacks
 Feature/&ConditionAttackOnMeAdvantageTitle	Attack rolls against this creature have advantage
@@ -352,7 +352,7 @@ Feature/&PowerOathOfMotherlandFieryWrathTitle	Channel Divinity: Fiery Wrath
 Feature/&PowerOathOfTirmarGoldenSpeechDescription	Channel Divinity to gain advantage on Persuasion and Intimidation checks for one hour.
 Feature/&PowerOathOfTirmarGoldenSpeechShortTitle	Golden Speech
 Feature/&PowerOathOfTirmarGoldenSpeechTitle	Channel Divinity: Golden Speech
-Feature/&PowerOathOfTirmarSmiteTheHiddenDescription	Channel Divinity to deal 1d8 additional radiant damage on attacks which hit opponents with either natural shapeshifting or Darkvision (2d8 if both). The effect lasts for 10 minutes.
+Feature/&PowerOathOfTirmarSmiteTheHiddenDescription	Channel Divinity to deal 1d6 additional radiant damage on attacks which hit opponents with either natural shapeshifting or Darkvision (2d6 if both). The effect lasts for 1 minutes.
 Feature/&PowerOathOfTirmarSmiteTheHiddenShortTitle	Scourge of the Hidden
 Feature/&PowerOathOfTirmarSmiteTheHiddenTitle	Channel Divinity: Scourge of the Hidden
 Feature/&PowerReckless_Description	Advantage on melee attack rolls, but enemies also have advantage on attack rolls against a reckless creature.
@@ -456,9 +456,9 @@ Feature/&SorakShadowMurder_Condition_Description	Invisible and ready to perform 
 Feature/&SorakShadowMurder_Condition_Title	Shadow Murder
 Feature/&SorakShadowMurder_Description	Use Shadow Murder.
 Feature/&SorakShadowMurder_Title	Shadow Murder
-Feature/&SorakShriek_Description	Frighten an enemy you can touch.
+Feature/&SorakShriek_Description	A terrifying shriek that strikes fear into the hearts of men.
 Feature/&SorakShriek_Title	Shriek
-Feature/&SorakTouchOfDarkness_Description	A melee attack that causes 2d10 necrotic damage.
+Feature/&SorakTouchOfDarkness_Description	A touch of this Sorak causes necrotic damage!
 Feature/&SorakTouchOfDarkness_Title	Touch of Darkness
 Feature/&SorakTranceOfSorrtarr_Condition_Description	Immune to Light Sensitivity.
 Feature/&SorakTranceOfSorrtarr_Condition_Title	Trance of Sorr-Tarr
@@ -486,8 +486,8 @@ Feature/&TraditionGreenmageWardenOfTheForestDescription	Proficiency: Light armor
 Feature/&TraditionGreenmageWardenOfTheForestTitle	Warden of the Forest
 Feature/&TraditionLoremasterKeenMindDescription	Advantage on Arcana, History, and Investigation ability checks\nAdvantage to copy scrolls to your spellbook\nScroll and potion crafting costs and times are halved
 Feature/&TraditionLoremasterKeenMindTitle	Keen Mind
-Feature/&TraditionPotentCantripDescription	Starting at 6th level, your damaging cantrips even affect creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, it still takes half the cantrip's damage (if any), but it suffers no other effects. 
-Feature/&TraditionPotentCantripTitle	Potent Cantrip
+Feature/&TraditionPotentCantripDescription	
+Feature/&TraditionPotentCantripTitle	
 Feature/&TraditionSavantDescription	When you select this school at 2nd level, the gold and time required to copy a spell of the {0} school into your spellbook are halved. In addition, you spend half the normal time to craft potions, scrolls, or other items.
 Feature/&TraditionSavantTitle	{0} Savant
 Feature/&TraditionSavantVoyelDescription	Beginning when you select this school at 2nd level, the gold and time you must spend to copy {0} spells into your spellbook is halved.
@@ -572,25 +572,25 @@ Feature/&PowerWinterWolfBreathDescription	A freezing wind blown by the Winter Wo
 Feature/&SavingThrowRestrictedSchoolFormat	{0} spells
 Feature/&Fire_Osprey_Blast_Title	Blast
 Feature/&Fire_Osprey_Blast_Description	The Fire Osprey emits a fire blast that damages all surrounding cells.
-Feature/&AttributeModifierACPlus3Description	+3 to AC.
+Feature/&AttributeModifierACPlus3Description	+3 to AC
 Feature/&MagicAffinityBattleMagicTitle	Battle Magic
 Feature/&MagicAffinityBattleMagicDescription	Can cast spells with a somatic component without a free hand, provided a weapon or shield is being wielded.
 Feature/&Cutthroat_Finisher_Description	Once per turn, Cutthroats deal an additional 1D6 damage to already wounded opponents.
 Feature/&AttackModifierAttackRollIncreasedDescription	Attack roll is increased.
 Feature/&AttackModifierDamageRollIncreasedDescription	Damage roll is increased.
-Feature/&ConditionAutoCriticalFormat	All attacks received are critical hits
+Feature/&ConditionAutoCriticalFormat	All attacks received are critical hits.
 Feature/&SavingThrowByAbilityScoreBonus	[ability] on {0} saving throws
 Feature/&DomainBattleExtraAttackTitle	Scholar of Battle
 Feature/&AdditionalDamageDomainLifeDivineStrikeDescription	+1D8 radiant damage on weapon attacks, once per turn.
 Feature/&AdditionalDamageDomainLifeDivineStrikeTitle	Divine Strike
 Feature/&DomainElementalHeraldOfTheElementsFireShortTitle	Call Upon Fire
-Feature/&DomainElementalHeraldOfTheElementsFireTitle	Herald of the Elements: Call Upon Fire
+Feature/&DomainElementalHeraldOfTheElementsFireTitle	Herald of the Elements: \nCall Upon Fire
 Feature/&DomainElementalHeraldOfTheElementsColdDescription	The target suffers cold damage and must succeed with a STR save or become restrained until the end of its next turn. Can be used a number of times equal to your WIS bonus until a long rest.
 Feature/&DomainElementalHeraldOfTheElementsColdShortTitle	Call Upon Cold
-Feature/&DomainElementalHeraldOfTheElementsColdTitle	Herald of the Elements: Call Upon Cold
+Feature/&DomainElementalHeraldOfTheElementsColdTitle	Herald of the Elements: \nCall Upon Cold
 Feature/&DomainElementalHeraldOfTheElementsThunderDescription	The creature in the area must succeed with a CON save or suffer lightning damage and become restrained until the end of their next turn. Can be used a number of times equal to your WIS bonus until a long rest.
 Feature/&DomainElementalHeraldOfTheElementsThunderShortTitle	Call Upon Thunder
-Feature/&DomainElementalHeraldOfTheElementsThunderTitle	Herald of the Elements: Call Upon Thunder
+Feature/&DomainElementalHeraldOfTheElementsThunderTitle	Herald of the Elements: \nCall Upon Thunder
 Feature/&DomainInsightDivineLoreDescription	You know all languages, written and spoken. In addition, you can identify a magical item once per long rest.
 Feature/&DomainInsightDivineLoreTitle	Divine Lore
 Feature/&DomainInsightDivineLoreIdentifyDescription	Reveals the magic properties and functions of an item.
@@ -638,4 +638,60 @@ Feature/&PowerBloodFealty_Title	Blood Fealty
 Feature/&PowerBloodFealty_Description	A Defiler can drain the life power of the brood it created.
 Feature/&RogueEvasionDescription	When you are subjected to an area of effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 Feature/&SorakImmunity_MindEffects_Title	Mind of Darkness
-Feature/&SorakImmunity_MindEffects_Description	Sorr-Akkath have a mind of pure darkness, protected by the gifts of their god, they are oblivious to attempts to charm and domination.
+Feature/&SorakImmunity_MindEffects_Description	Sorr-Akkath have a mind of pure darkness. Protected by the gifts of their god, they are oblivious to attempts to charm and dominate.
+Feature/&ShockArcanistWarcastingTitle	Warcasting
+Feature/&ShockArcanistWarcastingDescription	Having pushed yourself to cope with arcane shock backlash, you become proficient with Constitution saving throws.
+Feature/&ShockArcanistArcaneShockTitle	Arcane Shock
+Feature/&ShockArcanistArcaneShockDescription	You overcharge your mana and become restrained until the end of your turn. However, when you cast an attack spell, your damage dice are always above average. In return, you make a CON saving throw DC 14 and take 2d6 psychic damage if you fail.
+Feature/&GreenMageLeafScalesTitle	Leaf Scales
+Feature/&GreenMageLeafScalesDescription	When an attacker that you can see hits you with a ranged attack or spell, you can use your reaction to halve the attack's damage against you.
+Feature/&LoreMasterArcaneLoreTitle	Arcane Lore
+Feature/&LoreMasterArcaneLoreDescription	You can add your Proficiency Bonus to the number of spells you can memorize. You also learn two additional cantrips from the Wizard's list.
+Feature/&SpellBladeSpellTyrantTitle	Spell Tyrant
+Feature/&SpellBladeSpellTyrantDescription	Target a creature and move it one cell in any direction if it fails a STR save.
+Feature/&ChampionAdditionalFightingStyleTitle	Additional Fighting Style
+Feature/&ChampionAdditionalFightingStyleDescription	Choose a new fighting style option.
+Feature/&MountaineerShieldChargeTitle	Shield Push
+Feature/&MountaineerShieldChargeDescription	Provided you wield a shield, you can shove an opponent as a bonus action.
+Feature/&IndomitableResistanceTitle	Indomitable
+Feature/&IndomitableResistanceDescription	You can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
+Feature/&PowerRangerHideInPlainSightTitle	Hide in Plain Sight
+Feature/&PowerRangerHideInPlainSightDescription	You can spend 1 minute creating camouflage for yourself. Once camouflaged, you gain +10 DEX (Stealth) while you are standing against a wall. You have to restart the camouflage every time you rest or move to another location.
+Feature/&PowerClericDivineInterventionTitle	Divine Intervention
+Feature/&PowerClericDivineInterventionDescription	You attempt to request the help of your deity, with a success chance of 1% per cleric level.
+Feature/&ThiefSupremeSneakTitle	Supreme Sneak
+Feature/&ThiefSupremeSneakDescription	You have advantage on DEX (Stealth) ability checks.
+Feature/&ClericTurnUndeadAdvancedTitle	Turn Undead (Destroy)
+Feature/&ClericTurnUndeadAdvancedDescription	Channel Divinity to force undead creatures within 6 cells who can see you to flee, unless they make a successful Wisdom saving throw.\nUndead creatures with a challenge rating of {0} or lower that fail the saving throw are instead destroyed.
+Feature/&ShadowRetributionTitle	Shadow Retribution
+Feature/&ShadowRetributionDescription	If you are targeted by a damaging spell, whether it damages you or not, you can cast a cantrip in reaction on the caster.
+Feature/&DarkweaverPoisonousTitle	Poisonous
+Feature/&DarkweaverPoisonousDescription	When you hit with a melee weapon and deal at least 1 point of damage, your target must make a CON save DC 13 or they will be poisoned for one hour and take an additional 2d6 damage.
+Feature/&PowerRemorazSwallowTitle	Swallow
+Feature/&PowerRemorazSwallowDescription	The Remorhaz can swallow a creature it has successfully grappled, and will inflict acid damage every turn, unless it receives enough damage to force it to regurgitate.
+Feature/&PowerDragonBreath_Poison_Title	Poison Breath
+Feature/&PowerDragonBreath_Poison_Description	This dragon can breathe a devastating cone of poison.
+Feature/&DragonFrightfulPresence_Title	Frightful Presence
+Feature/&DragonFrightfulPresence_Description	Dragons are so powerful that their very presence can terrorize those who lack courage.
+Feature/&DragonWingAttack_Title	Wing Attack
+Feature/&DragonWingAttack_Description	Dragons can flap their wings to produce enough wind to propel most humanoids away and knock them prone.
+Feature/&PowerDragonBreath_Fire_Title	Fire Breath
+Feature/&PowerDragonBreath_Fire_Description	This dragon can breathe a devastating cone of fire.
+Feature/&PowerDragonBreath_Acid_Title	Acid Breath
+Feature/&PowerDragonBreath_Acid_Description	This dragon can breathe a devastating cone of acid.
+Feature/&DefilerShadowEscape_Title	Misty Form
+Feature/&DefilerShadowEscape_Description	Defilers are able to turn into mist and teleport almost at will.
+Feature/&HeartOfFireTitle	Heart of Fire
+Feature/&HeartOfDescriptionTitle	Arrok has become one with the volcano. Standing beside him deals Fire Damage.
+Feature/&LaetharParalyzingGaze_Title	Paralyzing Gaze
+Feature/&LaetharParalyzingGaze_Description	The gaze of the emperor paralyzes the weak.
+Feature/&LaetharShadowEscape_Title	Ghostly move
+Feature/&LaetharShadowEscape_Description	Laethar is able to turn into mist and teleport almost at will.
+Feature/&SpiderQueenEatFriends_Title	Cannibalism
+Feature/&SpiderQueenEatFriends_Description	The spider queen eats one of her spiderlings to recover HP.
+Feature/&SpiderQueenPoisonCloud_Title	Poison Cloud
+Feature/&SpiderQueenPoisonCloud_Description	The spider queen ejects a volley of small poisoned spikes all around her body.
+Feature/&Power_Phase_Spider_Teleport_Title	Ethereal Jaunt
+Feature/&Power_Phase_Spider_Teleport_Description	Phase spiders can change planes at will.
+Feature/&CriticalHitImmunityTitle	Critical Hit Immunity
+Feature/&CriticalHitImmunityDescription	Critical hits are considered normal hits for the creature.

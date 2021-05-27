@@ -1,0 +1,115 @@
+Prop/&CandelabraTitle	Candelabro
+Prop/&CandelabraDescription	Um candelabro decorativo
+Prop/&ColumnATitle	Coluna A
+Prop/&ColumnADescription	Uma coluna decorativa
+Prop/&ColumnBTitle	Coluna B
+Prop/&ColumnBDescription	Uma coluna decorativa
+Prop/&FireBasinTitle	Fire Basin
+Prop/&FireBasinDescription	Uma bacia em chamas, iluminando seus arredores
+Prop/&BenchTitle	Banco
+Prop/&BenchDescription	Um banco decorativo
+Prop/&GuardrailsATitle	Guardrails
+Prop/&GuardrailsADescription	Uma parede baixa que pode ser usada como uma cobertura pesada
+Prop/&DebrisATitle	Destroços
+Prop/&DebrisADescription	Um monte de pedra impedindo o movimento
+Prop/&GuardrailsBrokenATitle	Guarda-corpo A Quebrado
+Prop/&GuardrailsBrokenADescription	Um muro baixo, curto e quebrado que pode ser usado como cobertura pesada
+Prop/&GuardrailsBrokenBTitle	Guarda-corpo B quebrado
+Prop/&GuardrailsBrokenBDescription	Uma parede longa, quebrada e baixa que pode ser usada como cobertura pesada
+Prop/&GuardrailsLinkTitle	Guardrail Link
+Prop/&GuardrailsLinkDescription	Um pilar de parede baixa
+Prop/&GuardrailsStraightATitle	Guarda-corpo A reto
+Prop/&GuardrailsStraightADescription	Uma parede curta e baixa que pode ser usada como cobertura pesada
+Prop/&GuardrailsStraightBTitle	Guarda-corpo reto B
+Prop/&GuardrailsStraightBDescription	Uma parede longa e baixa que pode ser usada como cobertura pesada
+Prop/&MausoleumTitle	Mausoléu
+Prop/&MausoleumDescription	Um monumento funerário inacessível
+Prop/&StatueTitle	Estátua
+Prop/&StatueDescription	Uma estátua decorativa
+Prop/&TombATitle	Tumba A
+Prop/&TombADescription	Uma tumba que pode ser acessada
+Prop/&TombBTitle	Tumba B
+Prop/&TombBDescription	Um movimento de bloqueio de tumba decorativa
+Prop/&TombCTitle	Tumba C
+Prop/&VaseTitle	Vaso
+Prop/&VaseDescription	Um vaso funerário decorativo
+Prop/&WallBlockerATitle	Bloqueador de parede
+Prop/&WallBlockerADescription	Uma parede larga para bloquear uma passagem
+Prop/&WallBlockerBTitle	Bloqueador de parede
+Prop/&WallBlockerBDescription	Uma parede larga para bloquear uma passagem
+Prop/&WallChainTitle	Cadeia
+Prop/&WallChainDescription	Um pedaço de metal pendurado na parede
+Prop/&WallCrawl	Parede com orifício de rastejamento
+Prop/&WallCrawlDescription	Uma parede larga com um buraco para rastejar
+Prop/&WallTorchTitle	Tocha de parede
+Prop/&WallTorchDescription	Uma tocha sempre acesa que pode ser colocada na parede
+Prop/&BlockTitle	Quadra
+Prop/&BlockDescription	Uma estrutura sólida que pode ser usada para dividir uma sala em subcompartimentos
+Prop/&AltarTitle	Altar
+Prop/&AltarDescription	Uma estrutura votiva usada para orar a uma divindade
+Prop/&AlchemyTableTitle	Mesa de Alquimia
+Prop/&ArmorStandTitle	Armor Stand
+Prop/&BannerTitle	Bandeira
+Prop/&BarrelsTitle	Barris
+Prop/&BarrelStackTitle	Pilha de barris
+Prop/&BedTitle	Cama
+Prop/&BirdCageTitle	Gaiola
+Prop/&BookShelfTitle	Estante
+Prop/&BookStackTitle	Pilha de livros
+Prop/&CabinetTitle	Gabinete
+Prop/&CarpetTitle	Tapete
+Prop/&ChairTitle	Cadeira
+Prop/&CorpseTitle	Cadáver
+Prop/&CouchTitle	Sofá
+Prop/&CrateTitle	Caixote
+Prop/&CrateStackTitle	Pilha de caixotes
+Prop/&CushionsTitle	Almofadas
+Prop/&FakeDoorTitle	Porta Falsa
+Prop/&FakeDoorDescription	Uma porta falsa usada para representar a saída / entrada da masmorra. Para uso em combinação com um dispositivo de saída / entrada
+Prop/&FakeStairsTitle	Fake Stairs
+Prop/&FakeStairsDescription	Escadas falsas usadas para representar a saída / entrada da masmorra. Para uso em combinação com um dispositivo de saída / entrada
+Prop/&FireplaceTitle	Lareira
+Prop/&GlobeTitle	Globo
+Prop/&GreenHouseTitle	Estufa
+Prop/&HarpTitle	Harpa
+Prop/&MirrorTitle	Espelho
+Prop/&PaintingTitle	Pintura
+Prop/&PlantTitle	Plantar
+Prop/&PrisonFenceTitle	Cerca da Prisão
+Prop/&ShelvesTitle	Prateleiras
+Prop/&StillTitle	Ainda
+Prop/&StoolTitle	Banqueta
+Prop/&StoveTitle	Forno
+Prop/&TableTitle	Mesa
+Prop/&TelescopeTitle	Telescópio
+Prop/&TreasurePedestalTitle	Pedestal de tesouro
+Prop/&WindowTitle	Janela
+Prop/&WorkTableTitle	Mesa de trabalho
+Prop/&WallSimpleTitle	Parede Livre
+Prop/&WallThinTitle	Parede fina
+Prop/&ReadingDeskTitle	Mesa de Leitura
+Prop/&SpinningWheelTitle	Roda giratória
+Prop/&DeskTitle	Escrivaninha
+Prop/&SpiderWebsTitle	Teia de aranha
+Prop/&BasketTitle	Cesta
+Prop/&BedrollTitle	Saco de dormir
+Prop/&BraseroTitle	Braseiro
+Prop/&CageTitle	Jaula
+Prop/&CartTitle	Carrinho
+Prop/&CocoonTitle	Casulo
+Prop/&HutTitle	cabana
+Prop/&LavaBasinTitle	Bacia de lava
+Prop/&MarketBoothTitle	Mercado Estande
+Prop/&MushroomsTitle	Cogumelos
+Prop/&RocksTitle	Rochas
+Prop/&SkinsTitle	Peles
+Prop/&SpiderEggsTitle	Ovos de aranha
+Prop/&RockTitle	Pedra
+Prop/&StalagmiteTitle	Estalagmite
+Prop/&StoneTitle	Pedra
+Prop/&StrawTitle	Canudo
+Prop/&StructureTitle	Estrutura
+Prop/&TotemTitle	Totem
+Prop/&WoodenPlatformTitle	Plataforma De Madeira
+Prop/&FakeStairsUpTitle	Escadas falsas (para cima)
+Prop/&FakeStairsDownTitle	Escadas falsas (para baixo)

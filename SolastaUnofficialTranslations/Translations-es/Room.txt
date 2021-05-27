@@ -1,0 +1,11 @@
+Room/&Corner_12CTitle	Esquina
+Room/&Crossroad_12CTitle	Cruce de caminos
+Room/&Hallway_12CTitle	Vestíbulo
+Room/&Line_12CTitle	Línea
+Room/&Room_Big_24CTitle	Habitación grande
+Room/&Room_Small_24CTitle	Habitación pequeña
+Room/&Line_24CTitle	Corredor
+Room/&Turn_12CTitle	Turno
+Room/&Room_Big_48CTitle	Habitación enorme
+Room/&Clearing_Large_24CTitle	Gran compensación
+Room/&Clearing_Small_12CTitle	Pequeña compensación

@@ -1,0 +1,10 @@
+Condition/&ChildOfDarkness_Title	Figlio delle tenebre
+Condition/&ChildOfDarkness_Description	Questo Sorak è più potente e si rigenera nell'oscurità.
+Condition/&ChildOfDarkness_ACGain_Title	Gli sorak ottengono CA aggiuntiva quando sono in penombra o nell'oscurità.
+Condition/&ChildOfDarkness_AdditionalDamage2_Title	Questa creatura guadagna +2 danni quando è in penombra
+Condition/&ChildOfDarkness_AdditionalDamage3_Title	Questa creatura guadagna +3 danni quando è in penombra
+Condition/&ChildOfDarkness2_Title	Apostolo delle tenebre
+Condition/&ChildOfDarkness2_Description	Questo Sorak è più potente e si rigenera in penombra, e ancora di più nell'oscurità.
+Condition/&ChildOfDarkness3_Title	Profeta delle tenebre
+Condition/&ChildOfDarkness3_Description	Questo Sorak è più potente e si rigenera in penombra, e ancora di più nell'oscurità.
+Condition/&ChildOfDarkness0_Description	Questo Sorak è più potente e si rigenera nell'oscurità.

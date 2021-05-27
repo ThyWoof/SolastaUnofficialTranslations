@@ -4,8 +4,8 @@ LocationType/&Forest ruinDescription	In the middle of the forest, you come acros
 LocationType/&Forest ruinTitle	Forest Ruin
 LocationType/&FortressDescription	A fortified structure built for defensive purposes.
 LocationType/&FortressTitle	Fortress
-LocationType/&ManacalonOracleDescription	You come across a ruined oracle, a kind of temple where Manacalon plebeians worshipped the masters of magic.
-LocationType/&ManacalonOracleTitle	Manacalon Ruin
+LocationType/&ManacalonOracleDescription	You come across an ancient oracle, a kind of temple where Manacalon plebeians worshipped the masters of magic.
+LocationType/&ManacalonOracleTitle	Manacalon Oracle
 LocationType/&ManacalonPrisonDescription	You come across a ruined underground structure, a jail where the elves of the Manacalon Empire kept their prisoners.
 LocationType/&ManacalonPrisonTitle	Manacalon Prison
 LocationType/&RuinDescription	The remnants of an ancient structure, full of mystery and opportunity.

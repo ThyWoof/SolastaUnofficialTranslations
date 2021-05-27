@@ -46,7 +46,7 @@ Stage/&BackgroundFeaturesTitle	Background Features
 Stage/&BackgroundPredefinedFlagsTitle	Fixed Property Flags
 Stage/&BackgroundSelectionStageDescription	This stage creates a background for the character.
 Stage/&BackgroundSelectionStageMissingAlignmentDescription	You must select an alignment.
-Stage/&BackgroundSelectionStageMissingAlignmentFlagsDescription	You must choose personality flags for your selected alignment.
+Stage/&BackgroundSelectionStageMissingAlignmentFlagsDescription	You must choose two additional personality flags on the ethical board (Law/Chaos/Good/Evil).
 Stage/&BackgroundSelectionStageMissingBackgroundFlagsDescription	You must choose personality flags for your selected background.
 Stage/&BackgroundSelectionStageNoneSelectedDescription	You must select a background.
 Stage/&BackgroundSelectionStageTitle	Background
@@ -174,7 +174,7 @@ Stage/&SubclassSelectionStageRangerFeatures	Ranger Archetype Features
 Stage/&SubclassSelectionStageRangerHeader	Select Ranger Archetype
 Stage/&SubclassSelectionStageRangerNoneDescription	You must select a ranger archetype.
 Stage/&SubclassSelectionStageRangerTitle	Ranger\nArchetype
-Stage/&SubclassSelectionStageRoguishDescription	This stages selects the character's roguish archetype.
+Stage/&SubclassSelectionStageRoguishDescription	This stage selects the character's roguish archetype.
 Stage/&SubclassSelectionStageRoguishFeatures	Roguish Archetype Features
 Stage/&SubclassSelectionStageRoguishHeader	Select a Roguish Archetype
 Stage/&SubclassSelectionStageRoguishNoneDescription	You must select a roguish archetype.
@@ -194,3 +194,14 @@ Stage/&SpellIntroductionCreationDescription	Select new spells or cantrips to lea
 Stage/&SpellSelectionHeaderTitle	Select Spells
 Stage/&AbilityScoresStageFailMinimalStrengthDescription	A character must have a minimum strength of {0} to start adventuring.
 Stage/&IdentityMorphotypeAgeHeader	Age
+Stage/&IdentityPronounTitle	Pronoun
+Stage/&PronounMaleTitle	He
+Stage/&PronounFemaleTitle	She
+Stage/&PronounNonBinaryTitle	They
+Stage/&BackgroundPersonalityFlagsTitle	Background Personality Flags (choose two)
+Stage/&AlignementPersonalityFlagsTitle	Additional Personality Flags (choose two)
+Stage/&AlignementLawAxisTitle	Law
+Stage/&AlignementChaosAxisTitle	Chaos
+Stage/&AlignementGoodAxisTitle	Good
+Stage/&AlignementEvilAxisTitle	Evil
+Stage/&SpellSelectionStageFailNotEnoughPagesDescription	None of your spellbooks contains enough room to scribe these spells. You must acquire a new spellbook to complete the level up sequence.

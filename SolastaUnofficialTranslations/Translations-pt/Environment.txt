@@ -1,0 +1,14 @@
+Environment/&CatacombsTitle	Catacumbas
+Environment/&CatacombsDescription	Uma rede subterrânea de tumbas e criptas
+Environment/&NecropolisTitle	Necrópole
+Environment/&NecropolisDescription	Um domínio subterrâneo dos mortos
+Environment/&SewersTitle	Esgotos
+Environment/&SewersDescription	Uma coleção de túneis de esgoto e drenagem
+Environment/&StrongholdTitle	Fortaleza
+Environment/&StrongholdDescription	O interior de um castelo de pedra
+Environment/&ElvenPalaceTitle	Elven Palace
+Environment/&ElvenPalaceDescription	Um luxuoso vestígio do reino de Manacalon
+Environment/&LavaCavesTitle	Cavernas de lava
+Environment/&LavaCavesDescription	Uma rede subterrânea de cavernas habitadas por criaturas tribais
+Environment/&WoodlandTitle	Woodland
+Environment/&WoodlandDescription	Navegue por uma série de clareiras dentro de uma floresta temperada

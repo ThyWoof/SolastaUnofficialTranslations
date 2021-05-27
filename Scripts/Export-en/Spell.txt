@@ -98,7 +98,7 @@ Spell/&FlamingSphereDescription	Summons a movable, burning sphere.
 Spell/&FlamingSphereTitle	Flaming Sphere
 Spell/&FlyDescription	An ally you touch gains the ability to fly for a limited time.
 Spell/&FlyTitle	Fly
-Spell/&FogCloudDescription	Generate a sphere of thick fog for a limited time.
+Spell/&FogCloudDescription	Generate a sphere of thick fog for a limited time. Creatures inside it cannot attack those on the outside.
 Spell/&FogCloudTitle	Fog Cloud
 Spell/&GlyphOfWardingDescription	Creates a fixed magical trap.
 Spell/&GlyphOfWardingTitle	Glyph of Warding
@@ -236,7 +236,7 @@ Spell/&VampiricTouchDescription	Grants you a life-draining melee attack for one 
 Spell/&VampiricTouchTitle	Vampiric Touch
 Spell/&WallOfFireDescription	Create a burning wall that injures creatures in or next to it.
 Spell/&WallOfFireLineTitle	Wall of Fire (line)
-Spell/&WallOfFireRingTitle	Wall of Fire (ring)
+Spell/&WallOfFireRingTitle	
 Spell/&WallOfFireTitle	Wall of Fire
 Spell/&WaterBreathingDescription	Grants up to ten creatures the ability to breathe underwater.
 Spell/&WaterBreathingTitle	Water Breathing
@@ -247,10 +247,10 @@ Spell/&WindWallTitle	Wind Wall
 Spell/&AnnoyingBeeTitle	Annoying Bee
 Spell/&AnnoyingBeeDescription	The target sees an illusional bee harassing them and has disadvantage on concentration checks until the start of their next turn.
 Spell/&GreaseTitle	Grease
-Spell/&GreaseDescription	Cover an area of 2 x 2 cells with grease. Creatures tying to cross it may fall prone.
+Spell/&GreaseDescription	Cover an area of 2 x 2 cells with grease. Creatures trying to cross it may fall prone.
 Spell/&GoodberryTitle	Goodberry
 Spell/&DetectPoisonAndDiseaseTitle	Detect Poison and Disease
-Spell/&DetectPoisonAndDiseaseDescription	TMP For the duration you sense the presence and location of poisonous creatures and diseases within 30 feet of you.
+Spell/&DetectPoisonAndDiseaseDescription	You sense the presence and location of poisonous creatures and diseases within 6 cells of you.
 Spell/&ComprehendLanguagesTitle	Comprehend Languages
 Spell/&ComprehendLanguagesDescription	For the duration of the spell, you understand the literal meaning of any spoken words that you hear.
 Spell/&AnimalFriendshipTitle	Animal Friendship
@@ -258,22 +258,22 @@ Spell/&AnimalFriendshipDescription	Choose a beast that you can see within the sp
 Spell/&PurifyFoodTitle	Purify Food
 Spell/&PurifyFoodDescription	All non-magical food within a sphere 5 feet in radius is purified and rendered free of poison and disease.
 Spell/&EntangleTitle	Entangle
-Spell/&EntangleDescription	Temp
+Spell/&EntangleDescription	Enemies in a four-cell square area are restrained if they fail an STR saving throw
 Spell/&CommandTitle	Command
-Spell/&CommandTitleDescription	Temp
+Spell/&CommandTitleDescription	You speak one word to command a creature to perform a simple action
 Spell/&CommandApproachTitle	Approach
-Spell/&CommandApproachDescription	Temp
+Spell/&CommandApproachDescription	The target moves toward you by the shortest and most direct route
 Spell/&CommandDropTitle	Drop
-Spell/&CommandDropDescription	Temp
+Spell/&CommandDropDescription	The target drops what it is holding and ends its turn
 Spell/&CommandFleeTitle	Flee
-Spell/&CommandFleeDescription	Temp
+Spell/&CommandFleeDescription	The target spends its turn running away
 Spell/&CommandGrovelTitle	Grovel
-Spell/&CommandGrovelDescription	Temp
+Spell/&CommandGrovelDescription	The target falls prone and ends its turn
 Spell/&CommandHaltTitle	Halt
-Spell/&CommandHaltDescription	Temp
+Spell/&CommandHaltDescription	The target doesn't move and doesn't take actions
 Spell/&CalmEmotionsTitle	Calm Emotions
 Spell/&CalmEmotionsOnAllyTitle	Calm Ally
-Spell/&CalmEmotionsOnAllyDescription	Stops one of more creatures from being charmed or frightened.
+Spell/&CalmEmotionsOnAllyDescription	Stops one or more creatures from being charmed or frightened.
 Spell/&CalmEmotionsOnEnemyTitle	Calm Enemy
 Spell/&AlarmTitle	Alarm
 Spell/&AlarmDescription	Magically detects roaming monsters when camping on the road.
@@ -288,17 +288,17 @@ Spell/&Floating DiskDescription	Temp
 Spell/&Purify FoodTitle	Purify Food
 Spell/&Purify FoodDescription	Temp
 Spell/&SilenceTitle	Silence
-Spell/&SilenceDescription	Temp
+Spell/&SilenceDescription	Creates a sphere four cells in radius, inside which sound cannot exist. Stops thunder damage and prevents spellcasting using verbal components.
 Spell/&WardingBondTitle	Warding Bond
 Spell/&WardingBondDescription	Temp
-Spell/&ConditionRestrictedInsideMagicCircleTitle	Restricted inside Magic Circle
-Spell/&ConditionProtectedInsideMagicCircleTitle	Protected inside Magic Circle
+Spell/&ConditionRestrictedInsideMagicCircleTitle	Restricted Inside Magic Circle
+Spell/&ConditionProtectedInsideMagicCircleTitle	Protected Inside Magic Circle
 Spell/&Shine_Title	Shine
 Spell/&Shine_Description	An enemy you can see becomes luminous for a while.
 Spell/&Sparkle_Title	Sparkle
 Spell/&Sparkle_Description	Target up to three objects that can be illuminated and light them up immediately.
 Spell/&GoodberryDescription	Creates 10 berries infused with magic. Eating a berry restores 1 hit point and provides sustenance for a long rest. Berries vanish after a long rest.
-Spell/&ColorSprayDescription	Spray a spray that briefly blinds your enemies.
+Spell/&ColorSprayDescription	Spray a luminous crone that briefly blinds your enemies.
 Spell/&ConjureAnimalsDescription	Summon spirits in the form of beasts to help you in battle
 Spell/&ConjureAnimalsFourBeastsDescription	4 medium beasts are conjured
 Spell/&ConjureAnimalsFourBeastsTitle	Conjure 4 Beasts
@@ -322,11 +322,11 @@ Spell/&ConfusionDescription	Creates confusion and erratic behavior in a creature
 Spell/&ConjureMinorElementalsTitle	Conjure Minor Elementals
 Spell/&ConjureMinorElementalsDescription	Conjure elemental creatures under your command, which are dismissed when the spell ends or is broken.
 Spell/&ConjureMinorElementalsOneTitle	Conjure 1 Elemental
-Spell/&ConjureMinorElementalsOneDescription	1 elemental is conjured (CR 1/2).
+Spell/&ConjureMinorElementalsOneDescription	1 elemental is conjured (CR 2).
 Spell/&ConjureMinorElementalsTwoTitle	Conjure 2 Elementals
-Spell/&ConjureMinorElementalsTwoDescription	2 elementals are conjured (CR 1).
+Spell/&ConjureMinorElementalsTwoDescription	2 elementals are conjured (CR 2).
 Spell/&ConjureMinorElementalsFourTitle	Conjure 4 Elementals
-Spell/&ConjureMinorElementalsFourDescription	4 elementals are conjured (CR 2).
+Spell/&ConjureMinorElementalsFourDescription	4 elementals are conjured (CR 1/2).
 Spell/&DeathWardTitle	Death Ward
 Spell/&DeathWardDescription	Protects the creature once against instant death or being reduced to 0 hit points.
 Spell/&DimensionDoorTitle	Dimension Door
@@ -351,8 +351,8 @@ Spell/&PhantasmalKillerTitle	Phantasmal Killer
 Spell/&PhantasmalKillerDescription	Causes psychic damage to the target creature with each turn, unless a saving throw is successful or the effect ends.
 Spell/&StoneskinTitle	Stoneskin
 Spell/&StoneskinDescription	Grants resistance to non-magical bludgeoning, slashing, and piercing damage.
-Spell/&WallOfFireRingInnerTitle	Wall of Fire (ring/inner)
-Spell/&WallOfFireRingOuterTitle	Wall of Fire (ring/outer)
+Spell/&WallOfFireRingInnerTitle	Wall of Fire (Ring/Inner)
+Spell/&WallOfFireRingOuterTitle	Wall of Fire (Ring/Outer)
 Spell/&SleepDescription	Put a number of creatures to sleep for a limited time.
 Spell/&CloudKillTitle	Cloudkill
 Spell/&CloudKillDescription	Creates an obscuring and poisonous cloud. The cloud moves every round.
@@ -395,5 +395,8 @@ Spell/&WallOfForceTitle	Wall of Force
 Spell/&WallOfForceDescription	Conjures an invisible wall that blocks movement and attacks.
 Spell/&MindTwistTitle	Mind Twist
 Spell/&MindTwistDescription	Causes massive psychic damage to hostile creatures around you, and incapacitates them if they fail their INT saving throw.
-Spell/&CalmEmotionsDescription	Stops one of more creatures from being charmed or frightened.
-Spell/&CalmEmotionsOnEnemyDescription	Stops one of more creatures from being charmed or frightened.
+Spell/&CalmEmotionsDescription	Stops allies from being charmed or frightened, or makes enemies indifferent.
+Spell/&CalmEmotionsOnEnemyDescription	Makes enemies indifferent to your allies unless they are wounded.
+Spell/&Spell_Flameblade_Title	Flame Blade
+Spell/&Spell_Flameblade_Description	Evokes a fiery blade for ten minutes that you can wield in battle.
+Spell/&GustOfWindDescription	A line of strong wind blasts from you in the direction of your choice for the spell's duration.

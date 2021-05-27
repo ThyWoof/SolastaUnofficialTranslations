@@ -49,7 +49,7 @@ Narration/&TextOnlyNPCSpeech_ArwinMerton08	That crown's a trouble magnet, I can 
 Narration/&TextOnlyNPCSpeech_ArwinMerton09	Still alive? Good. There's more cleaning up to do.
 Narration/&TextOnlyNPCSpeech_ArwinMerton10	I'm better, sure. Doesn't mean I can't have a couple of beers…
 Narration/&TextOnlyNPCSpeech_ArwinMerton11	Well, I handled some unfinished business… feels good. I'm celebrating.
-Narration/&TextOnlyNPCSpeech_ArwinMerton12	If you're looking for a sharp blade… I’m your man.
+Narration/&TextOnlyNPCSpeech_ArwinMerton12	If you're looking for a sharp blade… I'm your man.
 Narration/&TextOnlyNPCSpeech_ArwinMerton13	Any time, friends… I mean, any time after I finish this beer.
 Narration/&TextOnlyNPCSpeech_CaravanMerchant01	I'm busy. Go see Galar.
 Narration/&TextOnlyNPCSpeech_CaravanMerchant02	We're packing - sorry!
@@ -148,11 +148,11 @@ Narration/&Banter_Cyflen_01	Nice gardens.
 Narration/&Banter_Cyflen_02	This place is magnificent.
 Narration/&Banter_Cyflen_03	I never thought I'd get so close to the embassies.
 Narration/&Banter_Cyflen_04	That's a view!
-Narration/&LoreTrailer01	Before the Cataclysm, there were no Gods on Solasta.
+Narration/&LoreTrailer01	Before the Cataclysm, there were no gods on Solasta.
 Narration/&LoreTrailer02	No humans, either.
-Narration/&LoreTrailer03	Then the rift opened.
-Narration/&LoreTrailer04	Some say it was a magical accident... 
-Narration/&LoreTrailer05	...or the work of an evil god.
+Narration/&LoreTrailer03	Then the Rift opened.
+Narration/&LoreTrailer04	Some say it was a magical accident… 
+Narration/&LoreTrailer05	…or the work of an evil god.
 Narration/&LoreTrailer06	No one knows for sure.
 Narration/&LoreTrailer07	The Cataclysm destroyed the old High Elf empire
 Narration/&LoreTrailer08	- Manacalon, they called it -
@@ -162,33 +162,33 @@ Narration/&LoreTrailer11	But something is happening, deep in those Badlands.
 Narration/&LoreTrailer12	Whatever it is,
 Narration/&LoreTrailer13	it can't be good.
 Narration/&TelemaArrivingTitle	Entering Telema
-Narration/&Telema_1_Entrance_Fighter	So these are the ruins of Telema?
+Narration/&Telema_1_Entrance_Fighter	So, these are the ruins of Telema?
 Narration/&Telema_2_Entrance_Wizard	Just as the chronicles describe them!
 Narration/&Telema_3_Entrance_Wizard	Imagine the wonders that await us inside!
-Narration/&Telema_4_Entrance_Cleric	Don't forget... we're here to help the Scavengers.
+Narration/&Telema_4_Entrance_Cleric	Don't forget… we're here to help the Scavengers.
 Narration/&Telema_5_Entrance_Rogue	And get rich, right?
 Narration/&Telema_6_Entrance_Rogue	Help the Scavengers and get rich.
 Narration/&Telema_7_Entrance_Fighter	You're all heart, aren't you?
 Narration/&Telema_8_Entrance_Cleric	That must be their camp over there.
 Narration/&Telema_9_Entrance_Cleric	Come on, let's go.
-Narration/&TelemaMeetingScavsTitle	The Scavengers Camp
+Narration/&TelemaMeetingScavsTitle	The Scavengers' Camp
 Narration/&Telema_10_MeetingScavs_Lena	Who goes there?
 Narration/&Telema_11_MeetingScavs_Fighter	Friends!
 Narration/&Telema_12_MeetingScavs_Cleric	Runnel sent us.
 Narration/&Telema_13_MeetingScavs_Dek	Where is he?
-Narration/&Telema_14_MeetingScavs_Cleric	Resting... he was in pretty bad shape, but he'll be okay.
+Narration/&Telema_14_MeetingScavs_Cleric	Resting… he was in pretty bad shape, but he'll be okay.
 Narration/&Telema_15_MeetingScavs_Cleric	He said you need help.
-Narration/&Telema_16_MeetingScavs_Dek	We did. If only you'd come sooner... .
+Narration/&Telema_16_MeetingScavs_Dek	We did. If only you'd come sooner…
 Narration/&Telema_17_MeetingScavs_Choice	What happened?
 Narration/&Telema_18_MeetingScavs_Answer	We came as soon as we could. What happened?
-Narration/&Telema_19_MeetingScavs_Lena	We know... and thanks.
+Narration/&Telema_19_MeetingScavs_Lena	We know… and thanks.
 Narration/&Telema_20_MeetingScavs_Lena	Dek here is upset, that's all.
 Narration/&Telema_21_MeetingScavs_Dek	I can speak for myself, thank you!
 Narration/&Telema_22_MeetingScavs_Lena	He thinks we should have left with Runnel.
 Narration/&Telema_23_MeetingScavs_Dek	Instead of waiting here for the orcs to kill us?
 Narration/&Telema_24_MeetingScavs_Dek	Absolutely, I think we should have left!
 Narration/&Telema_25_MeetingScavs_Choice	We're here now.
-Narration/&Telema_26_MeetingScavs_Answer	Well we're here now. How can we help?
+Narration/&Telema_26_MeetingScavs_Answer	Well, we're here now. How can we help?
 Narration/&Telema_27_MeetingScavs_Lena	Never mind Dek.
 Narration/&Telema_28_MeetingScavs_Lena	He's upset, that's all.
 Narration/&Telema_29_MeetingScavs_Dek	I can speak for myself, thank you!
@@ -202,45 +202,45 @@ Narration/&Telema_36_MeetingScavs_Lena	Never mind Dek.
 Narration/&Telema_37_MeetingScavs_Lena	He's upset, that's all.
 Narration/&Telema_38_MeetingScavs_Dek	Upset? Why should I be upset? We're just waiting to die, that's all!
 Narration/&Telema_39_MeetingScavs_Lena	We can't leave Hector in there.
-Narration/&Telema_40_MeetingScavs_Dek	He's dead, Lena... dead! It's too late!
+Narration/&Telema_40_MeetingScavs_Dek	He's dead, Lena… dead! It's too late!
 Narration/&Telema_41_MeetingScavs_Lena	You don't know that!
 Narration/&Telema_42_MeetingScavs_Choice	Calm down.
 Narration/&Telema_43_MeetingScavs_Answer	Calm down, now. This won't help.
 Narration/&Telema_44_MeetingScavs_Choice	We'll help you.
-Narration/&Telema_45_MeetingScavs_Answer	It's all right... we're here to help you.
+Narration/&Telema_45_MeetingScavs_Answer	It's all right… we're here to help you.
 Narration/&Telema_46_MeetingScavs_Choice	Amazing.
-Narration/&Telema_47_MeetingScavs_Answer	Why don't you just kill each other and save the orcs some trouble?
+Narration/&Telema_47_MeetingScavs_Answer	Why don't you just kill each other and save the orcs the trouble?
 Narration/&Telema_48_MeetingScavs_Rogue	What's our help worth to you, anyway?
 Narration/&Telema_49_MeetingScavs_Fighter	Stop it!
-Narration/&Telema_50_MeetingScavs_Lena	Alright.
+Narration/&Telema_50_MeetingScavs_Lena	All right.
 Narration/&Telema_51_MeetingScavs_Lena	What did Runnel tell you?
-Narration/&Telema_52_MeetingScavs_Fighter	Just that his team needed help... nothing else.
+Narration/&Telema_52_MeetingScavs_Fighter	Just that his team needed help… nothing else.
 Narration/&Telema_53_MeetingScavs_Lena	We were scavenging in the ruins, and -
 Narration/&Telema_54_MeetingScavs_Dek	Orcs! There's a whole tribe in there!
 Narration/&Telema_55_MeetingScavs_Lena	It was just a raiding party.
-Narration/&Telema_56_MeetingScavs_Lena	We fought them off... 
-Narration/&Telema_57_MeetingScavs_Lena	... but they killed some of our people and dragged Hector off.
+Narration/&Telema_56_MeetingScavs_Lena	We fought them off… 
+Narration/&Telema_57_MeetingScavs_Lena	…but they killed some of our people and dragged Hector off.
 Narration/&Telema_58_MeetingScavs_Dek	And we've just been waiting here for them to come and finish the job.
 Narration/&Telema_59_MeetingScavs_Fighter	They haven't done that yet, though.
-Narration/&Telema_60_MeetingScavs_Rogue	Well, you're right about your friend... 
-Narration/&Telema_61_MeetingScavs_Rogue	... he must be dead by now.
+Narration/&Telema_60_MeetingScavs_Rogue	Well, you're right about your friend… 
+Narration/&Telema_61_MeetingScavs_Rogue	…he must be dead by now.
 Narration/&Telema_62_MeetingScavs_Cleric	We don't know that. There is always hope.
 Narration/&Telema_63_MeetingScavs_Rogue	Hope? Those orcs had him for dinner the first night.
-Narration/&Telema_64_MeetingScavs_Wizard	I don't know... they took him alive, after all... .
-Narration/&Telema_65_MeetingScavs_Rogue	So they wanted to keep him fresh... orcs are orcs!
+Narration/&Telema_64_MeetingScavs_Wizard	I don't know… they took him alive, after all…
+Narration/&Telema_65_MeetingScavs_Rogue	So they wanted to keep him fresh… orcs are orcs!
 Narration/&Telema_66_MeetingScavs_Fighter	Ignore them. So, we just need to go in and find Hector?
-Narration/&Telema_67_MeetingScavs_Dek	Yeah... good luck with that!
+Narration/&Telema_67_MeetingScavs_Dek	Yeah… good luck with that!
 Narration/&Telema_68_MeetingScavs_Cleric	Why is he so angry?
 Narration/&Telema_69_MeetingScavs_Lena	He and Hector don't exactly get along.
-Narration/&Telema_70_MeetingScavs_Lena	But he's one of our crew... 
-Narration/&Telema_71_MeetingScavs_Lena	... and I won't leave anyone behind.
+Narration/&Telema_70_MeetingScavs_Lena	But he's one of our crew… 
+Narration/&Telema_71_MeetingScavs_Lena	…and I won't leave anyone behind.
 Narration/&Telema_72_MeetingScavs_Cleric	We gave our word to your leaders.
 Narration/&Telema_73_MeetingScavs_Cleric	We will get Hector back.
 Narration/&Telema_74_MeetingScavs_Lena	Thanks.
 Narration/&Telema_75_MeetingScavs_Lena	Do you need food?
 Narration/&Telema_76_MeetingScavs_Fighter	You think we'll be away for that long?
-Narration/&Telema_77_MeetingScavs_Lena	You can never be too careful... 
-Narration/&Telema_78_MeetingScavs_Lena	... that's the law of the Badlands.
+Narration/&Telema_77_MeetingScavs_Lena	You can never be too careful… 
+Narration/&Telema_78_MeetingScavs_Lena	…that's the law of the Badlands.
 Narration/&Telema_79_MeetingScavs_Lena	We can spare some if you need it.
 Narration/&Telema_80_MeetingScavs_Lena	We have more than we need for just the two of us.
 Narration/&Telema_81_MeetingScavs_Dek	Are you serious?
@@ -261,8 +261,8 @@ Narration/&Telema_95_MeetingScavs_Fightercheckfailed	Shut up.
 Narration/&Telema_96_MeetingScavs_Fighter	We should get moving and find your friend.
 Narration/&Telema_97_MeetingScavs_Lena	Thanks!
 Narration/&Telema_98_MeetingScavs_Lena	And good luck!
-Narration/&Telema_99_MeetingScavs_ChoicePersuasion	You're right... keep your food.
-Narration/&Telema_100_MeetingScavs_AnswerPersuasion	You're right... keep it. We'll survive.
+Narration/&Telema_99_MeetingScavs_ChoicePersuasion	You're right… keep your food.
+Narration/&Telema_100_MeetingScavs_AnswerPersuasion	You're right… keep it. We'll survive.
 Narration/&Telema_101_MeetingScavs_Cleric	We'll be back in no time.
 Narration/&Telema_102_MeetingScavs_Cleric	If not, you'll have enough to eat.
 Narration/&Telema_103_MeetingScavs_Dekchecksuccess	Don't look at me.
@@ -289,24 +289,24 @@ Narration/&Telema_122_Room01_BasRelief_Wizard	It's a scene from the Imperial con
 Narration/&Telema_123_Room01_BasRelief_Cleric	When the Empire ruled the lands of the Snow Alliance.
 Narration/&Telema_124_Room01_BasRelief_Cleric	I can't pretend to feel nostalgic about those times.
 Narration/&Telema_125_Room01_BasRelief_Wizard	Nostalgic? That was more than a thousand years ago!
-Narration/&Telema_126_Room01_BasRelief_Cleric	The old Empire was built on slavery and racism.
+Narration/&Telema_126_Room01_BasRelief_Cleric	The Old Empire was built on slavery and racism.
 Narration/&Telema_127_Room01_BasRelief_Rogue	Thanks for the (yawn) history lesson.
-Narration/&Telema_128_Room01_BasRelief_Rogue	Now... does this look valuable to you?
+Narration/&Telema_128_Room01_BasRelief_Rogue	Now… does this look valuable to you?
 Narration/&Telema_129_Room01_BasRelief_Wizard	All history is valuable, my friend.
 Narration/&Telema_130_Room01_BasRelief_Rogue	Tell that to my purse.
 Narration/&Telema_131_Room01_BasRelief_Fighter	Anyway, this doesn't help Hector, so let's move out.
-Narration/&TelemaChestTitle	Too good to be True
+Narration/&TelemaChestTitle	Too Good to Be True
 Narration/&Telema_132_Room01_Chest_Fighter	Well, that's interesting.
 Narration/&Telema_133_Room01_Chest_Rogue	You don't say! Look at that!
 Narration/&Telema_134_Room01_Chest_Fighter	I'd be careful if I were you.
 Narration/&Telema_135_Room01_Chest_Fighter	It looks too good to be true.
-Narration/&Telema_136_Room01_Chest_Rogue	That's right. You can't be too careful... 
-Narration/&Telema_137_Room01_Chest_Rogue	... that's the law of the Badlands.
+Narration/&Telema_136_Room01_Chest_Rogue	That's right. You can't be too careful… 
+Narration/&Telema_137_Room01_Chest_Rogue	…that's the law of the Badlands.
 Narration/&TelemaStatueTitle	Memory of the Past
-Narration/&Telema_138_Room01_Statue_Rogue	Try not to stare... you're making that statue uncomfortable.
-Narration/&Telema_139_Room01_Statue_Wizard	But it's... can you read this?
-Narration/&Telema_140_Room01_Statue_Rogue	Never had the benefit of an Imperial indoctrin... I mean, education.
-Narration/&Telema_141_Room01_Statue_Cleric	That's emperor Gildean the Third.
+Narration/&Telema_138_Room01_Statue_Rogue	Try not to stare… you're making that statue uncomfortable.
+Narration/&Telema_139_Room01_Statue_Wizard	But it's… can you read this?
+Narration/&Telema_140_Room01_Statue_Rogue	Never had the benefit of an Imperial indoctrin… I mean, education.
+Narration/&Telema_141_Room01_Statue_Cleric	That's Emperor Gildean the Third.
 Narration/&Telema_142_Room01_Statue_Rogue	How do you know?
 Narration/&Telema_143_Room01_Statue_Cleric	It's written here.
 Narration/&Telema_144_Room01_Statue_Cleric	For those who can read it.
@@ -338,17 +338,17 @@ Narration/&TelemaBackFromReconTitle	Meeting the Locals
 Narration/&Telema_168_OrcCamp_BackFromRecon_Rogue	The orcs are here.
 Narration/&Telema_169_OrcCamp_BackFromRecon_Rogue	Looks like we can sneak around.
 Narration/&Telema_170_OrcCamp_BackFromRecon_Fighter	Even me?
-Narration/&Telema_171_OrcCamp_BackFromRecon_Rogue	Ehh... probably.
+Narration/&Telema_171_OrcCamp_BackFromRecon_Rogue	Ehh… probably.
 Narration/&Telema_172_OrcCamp_BackFromRecon_Cleric	Did you see Hector?
 Narration/&Telema_173_OrcCamp_BackFromRecon_Rogue	Not a trace.
-Narration/&Telema_174_OrcCamp_BackFromRecon_Fighter	We should attack... we have the element of surprise.
+Narration/&Telema_174_OrcCamp_BackFromRecon_Fighter	We should attack… we have the element of surprise.
 Narration/&Telema_175_OrcCamp_BackFromRecon_Cleric	But what if Hector's down there too?
 Narration/&Telema_176_OrcCamp_BackFromRecon_Wizard	I hear some orc tribes can be bartered with.
 Narration/&Telema_177_OrcCamp_BackFromRecon_Rogue	Not these orcs.
-Narration/&TelemaOrcCampExitTitle	Disappointment...
+Narration/&TelemaOrcCampExitTitle	Disappointment…
 Narration/&Telema_178_OrcCamp_exit_Fighter	So, no Hector?
 Narration/&Telema_179_OrcCamp_exit_Wizard	It doesn't make any sense.
-Narration/&Telema_180_OrcCamp_exit_Cleric	Maybe he's further down.
+Narration/&Telema_180_OrcCamp_exit_Cleric	Maybe he's farther down.
 Narration/&Telema_181_OrcCamp_exit_Fighter	All right, let's keep looking.
 Narration/&TelemaVerticalEntranceTitle	Lighting the Darkness
 Narration/&Telema_182_Vertical_entrance_Fighter	I don't like this.
@@ -360,40 +360,40 @@ Narration/&Telema_187_Vertical_entrance_Wizard	Maybe we can use it to light up t
 Narration/&TelemaVerticalExitTitle	No Way Back
 Narration/&Telema_188_Vertical_exit_Rogue	Damn it! Now we're stuck!
 Narration/&Telema_189_Vertical_exit_Fighter	Do you think the orcs would bring Hector farther in than this?
-Narration/&Telema_190_Vertical_exit_Wizard	Not the orcs, no... 
-Narration/&Telema_191_Vertical_exit_Wizard	... but something else... maybe.
-Narration/&Telema_192_Vertical_exit_Fighter	We've come this far... let's find him.
+Narration/&Telema_190_Vertical_exit_Wizard	Not the orcs, no… 
+Narration/&Telema_191_Vertical_exit_Wizard	…but something else… maybe.
+Narration/&Telema_192_Vertical_exit_Fighter	We've come this far… let's find him.
 Narration/&Telema_193_Vertical_exit_Rogue	I'm starting to think we might need that food after all.
 Narration/&TelemaShaftEntranceTitle	Unexpected Denizens
-Narration/&Telema_194_Shaft_entrance_Cleric	What is this... an amphitheater?
+Narration/&Telema_194_Shaft_entrance_Cleric	What is this… an amphitheater?
 Narration/&Telema_195_Shaft_entrance_Wizard	A very special one.
-Narration/&Telema_196_Shaft_entrance_Rogue	Not room for much of a crowd... .
+Narration/&Telema_196_Shaft_entrance_Rogue	Not room for much of a crowd…
 Narration/&Telema_197_Shaft_entrance_Wizard	Students of magic. The Masters taught spells here.
 Narration/&Telema_198_Shaft_entrance_Fighter	Do spiders like magic shows?
 Narration/&Telema_199_Shaft_entrance_Fighter	Because I see a lot of webs.
 Narration/&Telema_200_Shaft_entrance_Wizard	Deep spiders. We will have to be careful.
-Narration/&Telema_201_Shaft_entrance_Fighter	Deep spiders?
+Narration/&Telema_201_Shaft_entrance_Fighter	Deep Spiders?
 Narration/&Telema_202_Shaft_entrance_Cleric	Very large and aggressive, but sensitive to light.
 Narration/&Telema_203_Shaft_entrance_Rogue	Just how large is very large?
-Narration/&Telema_204_Shaft_entrance_Wizard	Just keep your lights ready... .
-Narration/&Telema_205_Shaft_entrance_Wizard	... and your oil handy.
+Narration/&Telema_204_Shaft_entrance_Wizard	Just keep your lights ready…
+Narration/&Telema_205_Shaft_entrance_Wizard	…and your oil handy.
 Narration/&Telema_206_Shaft_entrance_Wizard	The more light we have, the fewer spiders we'll face.
 Narration/&Telema_207_Shaft_entrance_Fighter	We don't have a choice here. The only way out is up.
-Narration/&TelemaShaftUpperTitle	A way out?
+Narration/&TelemaShaftUpperTitle	A Way Out?
 Narration/&Telema_208_Shaft_upper_Fighter	How many are there?
 Narration/&Telema_209_Shaft_upper_Rogue	You don't want to know.
 Narration/&Telema_210_Shaft_upper_Cleric	Try pushing this down!
 Narration/&Telema_211_Shaft_upper_Cleric	I feel a weakness here.
-Narration/&TelemaShaftCollapsedTitle	Escape... to Hector!
+Narration/&TelemaShaftCollapsedTitle	Escape… to Hector!
 Narration/&Telema_212_Shaft_collapsed_Wizard	Well done!
 Narration/&Telema_213_Shaft_collapsed_Rogue	You sure they're dead?
 Narration/&Telema_214_Shaft_collapsed_Fighter	Well, they're not coming back.
 Narration/&Telema_215_Shaft_collapsed_Rogue	Good.
 Narration/&Telema_216_Shaft_collapsed_Cleric	My friends, I believe I have found Hector.
-Narration/&Telema_217_Rescue_Hector	By all the gods at once... thank you!
+Narration/&Telema_217_Rescue_Hector	By all the gods at once… thank you!
 Narration/&Telema_218_Rescue_Fighter	Are you Hector?
 Narration/&Telema_219_Rescue_Hector	Yes! And you?
-Narration/&Telema_220_Rescue_Fighter	The boss sent us. Ronnel went for help.
+Narration/&Telema_220_Rescue_Fighter	The boss sent us. Runnel went for help.
 Narration/&Telema_221_Rescue_Hector	Runnel! So he survived?
 Narration/&Telema_222_Rescue_Cleric	Barely, but yes.
 Narration/&Telema_223_Rescue_Cleric	He's safely back in town.
@@ -401,13 +401,13 @@ Narration/&Telema_224_Rescue_Rogue	So, did the spiders take you?
 Narration/&Telema_225_Rescue_Hector	The orcs did, after their raid.
 Narration/&Telema_226_Rescue_Hector	They kept me for a while.
 Narration/&Telema_227_Rescue_Hector	I was wondering why.
-Narration/&Telema_228_Rescue_Hector	I finally got the answer when they... 
-Narration/&Telema_229_Rescue_Hector	... well, they sacrificied me.
+Narration/&Telema_228_Rescue_Hector	I finally got the answer when they… 
+Narration/&Telema_229_Rescue_Hector	…well, they sacrificed me.
 Narration/&Telema_230_Rescue_Fighter	What?
 Narration/&Telema_231_Rescue_Hector	They feed the spiders. So they don't get eaten themselves.
 Narration/&Telema_232_Rescue_Hector	They leave captives at the top of the amphitheater.
 Narration/&Telema_233_Rescue_Rogue	Oh, that one?
-Narration/&Telema_234_Rescue_Rogue	We kind of... destroyed it.
+Narration/&Telema_234_Rescue_Rogue	We kind of… destroyed it.
 Narration/&Telema_235_Rescue_Fighter	The spider nest, too.
 Narration/&Telema_236_Rescue_Hector	Interesting.
 Narration/&Telema_237_Rescue_Hector	I'm not sure how the orcs will react to that.
@@ -423,36 +423,36 @@ Narration/&Telema_246_Rescue_Hector	Me? I'm just another Scavenger, really.
 Narration/&Telema_247_Rescue_Hector	I make a living bringing old stuff out of the Badlands.
 Narration/&Telema_248_Rescue_Choice	What about Lena and Dek?
 Narration/&Telema_249_Rescue_Answer	Do you know Lena and Dek? They seem like quite a pair!
-Narration/&Telema_250_Rescue_Hector	Oh, those two... always fighting over something.
+Narration/&Telema_250_Rescue_Hector	Oh, those two… always fighting over something.
 Narration/&Telema_251_Rescue_Hector	But you couldn't separate them if you wanted to.
 Narration/&Telema_252_Rescue_Fighter	They seemed pretty much at each other's throats.
-Narration/&Telema_253_Rescue_Hector	Yeah, like I said... always fighting.
+Narration/&Telema_253_Rescue_Hector	Yeah, like I said… always fighting.
 Narration/&Telema_254_Rescue_Hector	But in battle, always back to back.
-Narration/&Telema_255_Rescue_Rogue	Aww... that's so sweet.
+Narration/&Telema_255_Rescue_Rogue	Aww… that's so sweet.
 Narration/&Telema_256_Rescue_Choice	Did you find anything good in here?
 Narration/&Telema_257_Rescue_Answer	Did you find anything good in the ruins?
-Narration/&Telema_258_Rescue_Hector	No, not much. You've seen the state of the place... 
-Narration/&Telema_259_Rescue_Hector	... but there was something.
+Narration/&Telema_258_Rescue_Hector	No, not much. You've seen the state of the place… 
+Narration/&Telema_259_Rescue_Hector	…but there was something.
 Narration/&Telema_260_Rescue_Hector	Didn't have time to use it.
 Narration/&Telema_261_Rescue_Fighter	What is it?
 Narration/&Telema_262_Rescue_Rogue	A key?
 Narration/&Telema_263_Rescue_Hector	I think it opens the door in the ruins.
-Narration/&Telema_264_Rescue_Rogue	Oh, yeah... that door.
+Narration/&Telema_264_Rescue_Rogue	Oh, yeah… that door.
 Narration/&Telema_265_Rescue_Hector	At least, I hope it does.
 Narration/&Telema_266_Rescue_Hector	Not much else, though. I think the orcs got it all.
 Narration/&Telema_267_Rescue_Choice	You're a cleric of Einar?
 Narration/&Telema_268_Rescue_Answer	You're wearing the flaming sword.
-Narration/&Telema_269_Rescue_Hector	And I can see you're from the order of the Beacon.
+Narration/&Telema_269_Rescue_Hector	And I can see you're from the Order of the Beacon.
 Narration/&Telema_270_Rescue_Cleric	Are you a priest, Hector?
 Narration/&Telema_271_Rescue_Hector	Just a humble follower.
 Narration/&Telema_272_Rescue_Hector	This was given to me by one of your brothers.
-Narration/&Telema_273_Rescue_Hector	We fought together... he felt like he owed me.
+Narration/&Telema_273_Rescue_Hector	We fought together… he felt like he owed me.
 Narration/&Telema_274_Rescue_Hector	And he gave me this.
 Narration/&Telema_275_After_Rest_Fighter	I think we're all ready to go.
 Narration/&Telema_276_After_Rest_Wizard	Indeed.
 Narration/&Telema_277_After_Rest_Cleric	I think we're close to the surface.
 Narration/&Telema_278_After_Rest_Cleric	I can feel it.
-Narration/&Telema_279_After_Rest_Fighter	All right... let's move.
+Narration/&Telema_279_After_Rest_Fighter	All right… let's move.
 Narration/&Telema_280_Ambush_Fighter	Orcs! Over there!
 Narration/&Telema_281_Ambush_Rogue	It's an ambush!
 Narration/&Telema_282_Ambush_Fighter	Time to fight!
@@ -460,18 +460,18 @@ Narration/&Telema_283_WayBack_Fighter	Hey! Take a look at this.
 Narration/&Telema_284_WayBack_Cleric	The stone is carved.
 Narration/&Telema_285_WayBack_Fighter	Are we back near the ruins?
 Narration/&Telema_286_WayBack_Cleric	It looks fragile, let's try pushing it.
-Narration/&Telema_287_WayBack_Fighter	Well done... we're back in the ruins!
+Narration/&Telema_287_WayBack_Fighter	Well done… we're back in the ruins!
 Narration/&Telema_288_WayBack_Rogue	So, do you still have that key?
 Narration/&Telema_289_WayBack_Hector	Sure.
 Narration/&Telema_290_WayBack_Hector	Take it.
 Narration/&Telema_291_Magic_Door_Wizard	Amazing!
-Narration/&Telema_292_Magic_Door_Wizard	This room hasn't been opened in a millenium!
-Narration/&Telema_293_Magic_Door_Cleric	Those books are falling into pieces.
+Narration/&Telema_292_Magic_Door_Wizard	This room hasn't been opened in a millennium!
+Narration/&Telema_293_Magic_Door_Cleric	Those books are falling to pieces.
 Narration/&Telema_294_Magic_Door_Wizard	Not this one!
 Narration/&Telema_295_Magic_Door_Cleric	Look around for other valuables.
 Narration/&Telema_296_Magic_Door_Rogue	Already doing it!
 Narration/&Telema_297_Exit_Temple_Lena	Hey! Here they are!
-Narration/&Telema_298_Exit_Temple_Dek	I'll be damned... they're alive!
+Narration/&Telema_298_Exit_Temple_Dek	I'll be damned… they're alive!
 Narration/&Telema_299_Exit_Temple_Fighter	We told you we'd find him.
 Narration/&Telema_300_Exit_Temple_Lena	Hector?
 Narration/&Telema_301_Exit_Temple_Dek	Lena, wait!
@@ -1706,7 +1706,7 @@ Narration/&TowerOfMagicAfterKillingImps_2_Starter_Default	Worthy foes, indeed.
 Narration/&TowerOfMagicAfterKillingImps_3_Partner_Formal	Thankfully, we prevailed.
 Narration/&TowerOfMagicAfterKillingImps_4_Partner_Slang	Got every one of those ugly bastards.
 Narration/&TowerOfMagicAfterKillingImps_5_Partner_Normal	They bleed just like we do.
-Narration/&TowerOfMagicAfterKillingImps_6_Pragmatic_Default	Now just need one of their frickin' heads.
+Narration/&TowerOfMagicAfterKillingImps_6_Pragmatic_Default	Now we just need one of their bloody heads.
 Narration/&TowerOfMagicFindingTheCrown_1_Commentator_Default	Would you look at this?
 Narration/&TowerOfMagicFindingTheCrown_2_Starter_Default	A crown of some kind?
 Narration/&TowerOfMagicFindingTheCrown_3_Partner_Default	They seemed to keep their distance from it.
@@ -2221,8 +2221,6 @@ Narration/&Council4_4_Authority_Normal	We're stuck, my lord.
 Narration/&Council4_5_Authority_Formal	My lord, I'm afraid the situation is less than ideal.
 Narration/&Council4_6_Authority_Slang	It's not good news, my Lord.
 Narration/&Council4_7_Faisech_NPC	Meaning what, exactly?
-Narration/&Council4_8_Any_Default	We have six gems, but we can't seem to find the others.
-Narration/&Council4_9_Gormsdottir_NPC	Two gems missing?
 Narration/&Council4_10_Faisech_NPC	Perhaps they've been destroyed.
 Narration/&Council4_11_Keenmind_NPC	We tested the first one - it can't be done!
 Narration/&Council4_12_Danantar_NPC	They must be magically concealed.
@@ -2232,9 +2230,9 @@ Narration/&Council4_15_Gormsdottir_NPC	After all, they attacked you more than on
 Narration/&Council4_16_Faisech_NPC	If you can't find the gems, why keep the Crown out there?
 Narration/&Council4_17_Faisech_NPC	It will keep attracting the Soraks.
 Narration/&Council4_18_Danantar_NPC	The attunement, remember?
-Narration/&Council4_19_Faisech_NPC	I'm sorry, senior deputies, but despite the attunement...
-Narration/&Council4_20_Faisech_NPC	...I believe the Crown should be secured...
-Narration/&Council4_21_Faisech_NPC	...and secured by more than four adventurers who spend their nights camped in the Badlands!
+Narration/&Council4_19_Faisech_NPC	I'm sorry, senior deputies, but despite the attunement…
+Narration/&Council4_20_Faisech_NPC	…I believe the Crown should be secured…
+Narration/&Council4_21_Faisech_NPC	…and secured by more than four adventurers who spend their nights camped in the Badlands!
 Narration/&Council4_22_Sunblaze_NPC	We can't do that to them! They have served the Council faithfully!
 Narration/&Council4_23_Faisech_NPC	Don't be naive! We are facing a major threat!
 Narration/&Council4_24_Faisech_NPC	You understand the meaning of sacrifice, and so should they!
@@ -2242,15 +2240,15 @@ Narration/&Council4_25_Authority_Normal	We have searched the Badlands for these 
 Narration/&Council4_26_Crownbearer_Normal	We trusted you to keep your word and leave us the Crown.
 Narration/&Council4_27_Danantar_NPC	If I may, I think we need more time to consider the situation.
 Narration/&Council4_28_Faisech_NPC	More time? How much time?
-Narration/&Council4_29_Danantar_NPC	Maybe just...give it a night.
+Narration/&Council4_29_Danantar_NPC	Maybe just… give it a night.
 Narration/&Council4_30_Gormsdottir_NPC	I could use the day to consult with my people.
 Narration/&Council4_31_Keenmind_NPC	So could I.
 Narration/&Council4_32_Danantar_NPC	Fine, then! Anyone against?
 Narration/&Council4_33_LeiraKean_NPC	Thank you, Lord Danantar.
-Narration/&Council4_34_LeiraKean_NPC	The Legacy Council is now ajdourned!
+Narration/&Council4_34_LeiraKean_NPC	The Legacy Council is now adjourned!
 Narration/&Council4_35_Selfpres_Normal	I have a bad feeling about this.
 Narration/&Council4_36_Crownbearer_Normal	I knew it! They'll take the Crown, and never mind what that does to me!
-Narration/&Council4_37_Crownbearer_Slang	Typical! Sat there on their pretty chairs...doesn't matter if I die!
+Narration/&Council4_37_Crownbearer_Slang	Typical! Sat there on their pretty chairs… doesn't matter if I die!
 Narration/&Council4_38_Authority_Normal	This is wrong.
 Narration/&Council4_39_Selfpres_Normal	We could run.
 Narration/&Council4_40_Authority_Normal	What's the point? We know what's at stake.
@@ -2263,14 +2261,14 @@ Narration/&Council4_46_Highclass_Formal	Master Surespell.
 Narration/&Council4_47_Any_Normal	Clear skies, Heddlon.
 Narration/&Council4_48_HeddlonSurespell_NPC	I would advise you to avoid the Palace Residence tonight.
 Narration/&Council4_49_Crownbearer_Normal	What? Why?
-Narration/&Council4_50_HeddlonSurespell_NPC	I'm not at liberty to say...just trust me.
+Narration/&Council4_50_HeddlonSurespell_NPC	I'm not at liberty to say… just trust me.
 Narration/&Council4_51_HeddlonSurespell_NPC	You have your lodgings at the Gravekeep's Cask. You should spend the night there.
 Narration/&Council4_52_Selfpres_Normal	What kind of advice is that?
-Narration/&Council4_53_Selfpres_Formal	You must realize your suggestion is...unusual. Suspicious, even.
+Narration/&Council4_53_Selfpres_Formal	You must realize your suggestion is… unusual. Suspicious, even.
 Narration/&Council4_54_Selfpres_Slang	Are you crazy? Or are you up to something?
 Narration/&Council4_55_Nosy_Normal	Are you really working for the Arcaneum? 
 Narration/&Council4_56_HeddlonSurespell_NPC	Why else would I be here?
-Narration/&Council4_57_Mean_Normal	This elf is...
+Narration/&Council4_57_Mean_Normal	This elf is…
 Narration/&Council4_58_Lawful_Normal	What do you think?
 Narration/&Council4_59_Pragmatic_Normal	It sounds like a warning.
 Narration/&Council4_60_Selfpres_Normal	Or a threat!
@@ -2310,7 +2308,7 @@ Narration/&NightAttack2_7_HeddlonSurespell_NPC	Call it a hunch.
 Narration/&NightAttack2_8_Any_Slang	A great, steaming pile of hunch. Got a bridge to sell, too?
 Narration/&NightAttack2_9_Any_Normal	Oh, really?
 Narration/&NightAttack2_10_Any_Formal	You can't expect us to believe that?
-Narration/&NightAttack2_11_HeddlonSurespell_NPC	Oh, I have friends who...gather information.
+Narration/&NightAttack2_11_HeddlonSurespell_NPC	Oh, I have friends who… gather information.
 Narration/&NightAttack2_12_HeddlonSurespell_NPC	The threat felt credible. I thought it wise to share.
 Narration/&NightAttack2_13_Cynical_Normal	It felt real enough to us, too.
 Narration/&NightAttack2_14_Cynical_Formal	Real enough to leave a scar, that much is certain.
@@ -2326,7 +2324,7 @@ Narration/&NightAttack4_1_HeddlonSurespell_NPC	Ah, here you are.
 Narration/&NightAttack4_2_Any_Normal	Are you surprised?
 Narration/&NightAttack4_3_Any_Formal	Do you find our visit surprising, Master Surespell?
 Narration/&NightAttack4_4_Any_Slang	That's right. Surprised?
-Narration/&NightAttack4_3_HeddlonSurespell_NPC	Not at all, since you followed my...advice.
+Narration/&NightAttack4_3_HeddlonSurespell_NPC	Not at all, since you followed my… advice.
 Narration/&NightAttack4_4_Any_Default	How do you know that?
 Narration/&NightAttack4_5_HeddlonSurespell_NPC	You're here, alive and unwounded.
 Narration/&NightAttack4_6_HeddlonSurespell_NPC	I heard there was some disturbance at the residence.
@@ -2341,19 +2339,19 @@ Narration/&NightAttack3_7_Cynical_Formal	Eh. We could have handled a burglar or 
 Narration/&NightAttack3_8_Cynical_Normal	No doubt we would have seen the villains off, had we been there.
 Narration/&NightAttack3_9_CaptainIronshell_NPC	They were more than simple burglars, to infiltrate the palace undetected.
 Narration/&NightAttack3_10_Nosy_Default	Who, then?
-Narration/&NightAttack3_11_CaptainIronshell_NPC	I can't say for sure but...
-Narration/&NightAttack3_12_CaptainIronshell_NPC	Some are saying...Sorr-Akkath.
-Narration/&NightAttack3_13_Selfpres_Formal	That's a worrying prospect, captain.
+Narration/&NightAttack3_11_CaptainIronshell_NPC	I can't say for sure but…
+Narration/&NightAttack3_12_CaptainIronshell_NPC	Some are saying… Sorr-Akkath.
+Narration/&NightAttack3_13_Selfpres_Formal	That's a worrying prospect, Captain.
 Narration/&NightAttack3_14_Selfpres_Slang	So much for palace security, then. Thanks a lot!
 Narration/&NightAttack3_15_Selfpres_Normal	We were supposed to be safe there, remember?
 Narration/&NightAttack3_16_CaptainIronshell_NPC	I'm well aware. We have put further magical security measures in place.
 Narration/&NightAttack3_17_Friendly_Default	Good to know.
-Narration/&NightAttack3_18_Friendly_Normal	Thanks for the heads-up, captain.
-Narration/&NightAttack3_19_Friendly_Formal	Thank you for keeping us informed, captain.
+Narration/&NightAttack3_18_Friendly_Normal	Thanks for the heads-up, Captain.
+Narration/&NightAttack3_19_Friendly_Formal	Thank you for keeping us informed, Captain.
 Narration/&NightAttack3_20_CaptainIronshell_NPC	You are most welcome.
 Narration/&NightAttack3_21_CaptainIronshell_NPC	Good day to you, senior deputies.
 Narration/&NightAttack3_22_Nosy_Normal	So he told the truth, that Heddlon.
-Narration/&NightAttack3_23_Nosy_Formal	It appears, Heddlon Surespell was right.
+Narration/&NightAttack3_23_Nosy_Formal	It appears Heddlon Surespell was right.
 Narration/&NightAttack3_24_Pragmatic_Default	He knew, but how?
 Narration/&NightAttack3_25_Selfpres_Normal	He's a spy, or something similar.
 Narration/&NightAttack3_26_Selfpres_Formal	I'm pretty sure he's Imperial Intelligence.
@@ -2370,18 +2368,18 @@ Narration/&Council5_1_LeiraKean_NPC	Honorable delegates, please be seated!
 Narration/&Council5_2_LeiraKean_NPC	The Legacy Council is now in session!
 Narration/&Council5_3_LeiraKean_NPC	Chancellor Gormsdottir has the floor.
 Narration/&Council5_4_Gormsdottir_NPC	Thank you, Protector.
-Narration/&Council5_5_Gormsdottir_NPC	Honourable Council members, we've seen Soraks in the palace - and their god Sorr-Tarr has other followers, too. 
-Narration/&Council5_6_Gormsdottir_NPC	It's clear the Crown is not safe. The Antiquarians' Guild moves that the Crown be taken to a place of safety.
-Narration/&Council5_7_Gormsdottir_NPC	While the deputies search for the remaining gems…
-Narration/&Council5_8_Gormsdottir_NPC	..the Council will study the Crown and decide how it may best be used.
-Narration/&Council5_9_Gormsdottir_NPC	The Guild proposes that the Council vote on this matter immediately.
+Narration/&Council5_5_Gormsdottir_NPC	Honorable Council members, we at the Guild of Antiquarians have come to an agreement…
+Narration/&Council5_6_Gormsdottir_NPC	…regarding the quest for the gems of the Crown of the Magister.
+Narration/&Council5_7_Gormsdottir_NPC	We believe that the Crown should be secured, and therefore surrendered by its current owners…
+Narration/&Council5_8_Gormsdottir_NPC	…in exchange for a generous payment…
+Narration/&Council5_9_Gormsdottir_NPC	…raised by all parties in the Council.
 Narration/&Council5_10_Crownbearer_Default	You can't!
 Narration/&Council5_11_LeiraKean_NPC	You will wait for your turn to speak, senior deputy!
 Narration/&Council5_12_Crownbearer_Default	We searched the Badlands for these gems, and now you're just taking the Crown away from us?
 Narration/&Council5_13_LeiraKean_NPC	Order!
 Narration/&Council5_14_Danantar_NPC	We are all well aware of your reservations, and we understand them.
-Narration/&Council5_15_Danantar_NPC	Yet, from what I heard, all parties have agreed that you should comply...
-Narration/&Council5_16_Danantar_NPC	...for the security of all.
+Narration/&Council5_15_Danantar_NPC	Yet, from what I heard, all parties have agreed that you should comply…
+Narration/&Council5_16_Danantar_NPC	…for the security of all.
 Narration/&Council5_17_Crownbearer_Default	Security? You talk of security?
 Narration/&Council5_18_Crownbearer_Default	What security? Just last night, Soraks attacked our quarters in the residence!
 Narration/&Council5_19_Faisech_NPC	What?
@@ -2395,7 +2393,7 @@ Narration/&Council5_26_Danantar_NPC	Where are your paladins?
 Narration/&Council5_27_Sunblaze_NPC	Where are your wizards and their divination spells?
 Narration/&Council5_28_LeiraKean_NPC	Stop it!
 Narration/&Council5_29_LeiraKean_NPC	None of this is helping!
-Narration/&Council5_30_LeiraKean_NPC	Lord Sunblaze, you're supposed to be neutral, here!
+Narration/&Council5_30_LeiraKean_NPC	Lord Sunblaze, you're supposed to be neutral here!
 Narration/&Council5_31_LeiraKean_NPC	Someone must introduce a formal request.
 Narration/&Council5_32_Danantar_NPC	Right. Apologies.
 Narration/&Council5_33_Danantar_NPC	You're right, let's vote. Only senior members, please.
@@ -2403,13 +2401,13 @@ Narration/&Council5_34_Danantar_NPC	Those for securing the Crown, say aye.
 Narration/&Council5_35_Gormsdottir_Default	Aye.
 Narration/&Council5_36_Faisech_NPC	Aye.
 Narration/&Council5_37_Danantar_NPC	Aye.
-Narration/&Council5_38_Keenmind_Default	...nay.
+Narration/&Council5_38_Keenmind_Default	…nay.
 Narration/&Council5_39_Sunblaze_NPC	Nay.
 Narration/&Council5_40_Danantar_NPC	Well, we have a majority.
-Narration/&Council5_41_Sunblaze_NPC	Well help you with the...attunement issue.
+Narration/&Council5_41_Sunblaze_NPC	We'll help you with the… attunement issue.
 Narration/&Council5_42_Faisech_NPC	Wait! Who's going to take the Crown, and where?
-Narration/&Council5_43_Danantar_NPC	Well, the most secure location would be...
-Narration/&Council5_44_Danantar_NPC	...the temple of Einar, of course. The Hearth.
+Narration/&Council5_43_Danantar_NPC	Well, the most secure location would be…
+Narration/&Council5_44_Danantar_NPC	…the temple of Einar, of course. The Hearth.
 Narration/&Council5_45_Faisech_NPC	Of course - right here in Caer Cyflen!
 Narration/&Council5_46_Faisech_NPC	Neutral ground, of course, but still the Principality of Masgarth is the center of Solasta!
 Narration/&Council5_47_Danantar_NPC	Do you have a better idea, Dean Faisech?
@@ -2421,7 +2419,7 @@ Narration/&Council5_52_LeiraKean_NPC	Remember the dignity of your positions, my 
 Narration/&Council5_53_LeiraKean_NPC	Senior deputies - if you please? The Council has spoken.
 Narration/&Council5_54_Choice_Pragmatic_WRITTEN	This is a mistake.
 Narration/&Council5_55_Choice_Mean_WRITTEN	You're all stupid!
-Narration/&Council5_56_Choice_Lawful_WRITTEN	We must obey the council...
+Narration/&Council5_56_Choice_Lawful_WRITTEN	We must obey the Council…
 Narration/&Council5_57_Choice_Selfpres_WRITTEN	Someone here is a traitor!
 Narration/&Council5_58_Choice_Pragmatic_Default	This is a mistake. We are bound to the Crown.
 Narration/&Council5_59_LeiraKean_NPC	You are sworn deputies. You must comply.
@@ -2441,18 +2439,18 @@ Narration/&Council5_72_HalmanSummer_NPC	I'm truly sorry. But, I have some inform
 Narration/&Council5_73_Selfpres_Default	I doubt it.
 Narration/&Council5_74_HalmanSummer_NPC	It's about the secret cult of Arivad.
 Narration/&Council5_75_Nosy_Default	What?
-Narration/&Council5_76_HalmanSummer_NPC	I admit, this is second-hand intelligence, but still...
+Narration/&Council5_76_HalmanSummer_NPC	I admit, this is second-hand intelligence, but still…
 Narration/&Council5_77_Authority_Default	Speak up.
-Narration/&Council5_78_HalmanSummer_NPC	One of my people saw a man with a tattoo...
+Narration/&Council5_78_HalmanSummer_NPC	One of my people saw a man with a tattoo…
 Narration/&Council5_79_Selfpres_Default	The letter A?
-Narration/&Council5_80_HalmanSummer_NPC	Yes. He followed the man all day, and to gathering that night...
-Narration/&Council5_81_HalmanSummer_NPC	...in a remote village to the South.
+Narration/&Council5_80_HalmanSummer_NPC	Yes. He followed the man all day, and to a gathering that night…
+Narration/&Council5_81_HalmanSummer_NPC	…in a remote village to the south.
 Narration/&Council5_82_Authority_Default	What village?
-Narration/&Council5_83_HalmanSummer_NPC	It's called Earcorn. Very small...
-Narration/&Council5_84_HalmanSummer_NPC	...but you'll find it easily on any local map.
+Narration/&Council5_83_HalmanSummer_NPC	It's called Earcorn. Very small…
+Narration/&Council5_84_HalmanSummer_NPC	…but you'll find it easily on any local map.
 Narration/&Council5_85_Friendly_Default	Thank you, Halman.
 Narration/&Council5_86_HalmanSummer_NPC	You're welcome. Someone must take care of these cultists.
-Narration/&Council5_87_HalmanSummer_NPC	And the Council...well, you know.
+Narration/&Council5_87_HalmanSummer_NPC	And the Council… well, you know.
 Narration/&Council5_88_Pragmatic_Default	Yes, we do.
 Narration/&Council5_After_1_BericSunblaze_NPC	I'm so sorry.
 Narration/&Council5_After_2_Friendly_Default	Why? You didn't betray us.
@@ -2476,7 +2474,7 @@ Narration/&Council5_After_19_BericSunblaze_NPC	Interesting. So the attunement is
 Narration/&Council5_After_20_Friendly_Any	Keep the Crown safe, Marshal, will you, please?
 Narration/&Council5_After_21_BericSunblaze_NPC	You have my word.
 Narration/&MertonAfterCouncil5_1_Merton_NPC	Hey, you!
-Narration/&MertonAfterCouncil5_2_Cynical_Default	Not drowning in your beer, today, Arwin?
+Narration/&MertonAfterCouncil5_2_Cynical_Default	Not drowning in your beer today, Arwin?
 Narration/&MertonAfterCouncil5_3_Merton_NPC	No, wait!
 Narration/&MertonAfterCouncil5_4_Merton_NPC	They took the Crown from you?
 Narration/&MertonAfterCouncil5_5_Selfpres_Default	How do you know that?
@@ -2497,13 +2495,13 @@ Narration/&MertonAfterCouncil5_19_Merton_NPC	What's wrong with you?
 Narration/&MertonAfterCouncil5_20_Merton_NPC	Haven't you seen enough?
 Narration/&MertonAfterCouncil5_21_Merton_NPC	Didn't you see what they can do? 
 Narration/&MertonAfterCouncil5_22_Merton_NPC	To people?
-Narration/&MertonAfterCouncil5_23_Merton_NPC	At first I thought you were just another bunch of brainless Council lackeys...
-Narration/&MertonAfterCouncil5_24_Merton_NPC	...but you've seen their ways.
-Narration/&MertonAfterCouncil5_25_Merton_NPC	At Coparran, and plenty other places, I'm sure.
+Narration/&MertonAfterCouncil5_23_Merton_NPC	At first I thought you were just another bunch of brainless Council lackeys…
+Narration/&MertonAfterCouncil5_24_Merton_NPC	…but you've seen their ways.
+Narration/&MertonAfterCouncil5_25_Merton_NPC	At Coparann, and plenty other places, I'm sure.
 Narration/&MertonAfterCouncil5_26_Merton_NPC	The way they get into people's heads.
 Narration/&MertonAfterCouncil5_27_Merton_NPC	I've watched the people of Caer Cyflen for ten years.
-Narration/&MertonAfterCouncil5_28_Merton_NPC	I've felt a change - slow, subtle...
-Narration/&MertonAfterCouncil5_29_Merton_NPC	...until now. It's getting stronger!
+Narration/&MertonAfterCouncil5_28_Merton_NPC	I've felt a change - slow, subtle…
+Narration/&MertonAfterCouncil5_29_Merton_NPC	…until now. It's getting stronger!
 Narration/&MertonAfterCouncil5_30_Merton_NPC	I can't let them win.
 Narration/&MertonAfterCouncil5_31_Cynical_Default	So what? You're ready to become a hero again?
 Narration/&MertonAfterCouncil5_32_Merton_NPC	I can still fight.
@@ -2523,12 +2521,12 @@ Narration/&FightingCultists_1_1_Authority_Default	This is it? Earcorn!
 Narration/&FightingCultists_1_2_Merton_NPC	Look, a farm! And another! High adventure - I love it!
 Narration/&FightingCultists_1_3_Cynical_Normal	This doesn't exactly feel like the headquarters for a massive invasion.
 Narration/&FightingCultists_1_4_Cynical_Slang	Some headquarters. Dark cults used to be better.
-Narration/&FightingCultists_1_5_Cynical_Formal	Not exactly how  I imagined the lair of evil Sorr-Akkath worshippers.
+Narration/&FightingCultists_1_5_Cynical_Formal	Not exactly how I imagined the lair of evil Sorr-Akkath worshippers.
 Narration/&FightingCultists_1_6_Pragmatic_Default	But it could be hiding a small group of infiltrators.
 Narration/&FightingCultists_1_7_Pragmatic_Default	Still, a good cover for cunning infiltrators.
 Narration/&FightingCultists_1_8_Pragmatic_Normal	Let's look around for anything suspicious.
 Narration/&FightingCultists_1_9_Pragmatic_Formal	Let us examine the area in search of clues.
-Narration/&FightingCultists_1_10_Cynical_Default	No tavern? That's suspicious, for a start.
+Narration/&FightingCultists_1_10_Cynical_Default	No tavern? That's suspicious for a start.
 Narration/&FightingCultists_1_11_Merton_NPC	That was my line!
 Narration/&FightingCultists_1_12_Authority_Slang	Shut up! We're trying to be stealthy!
 Narration/&FightingCultists_1_13_Authority_Normal	You'd better be quiet if you don't want us to be spotted.
@@ -2568,8 +2566,8 @@ Narration/&ReturnToCC_Bartender_1_Any_Slang	Hey, Karel! Seen Carran around?
 Narration/&ReturnToCC_Bartender_1_Any_Formal	Greetings, master Martel. Have you seen lord Carran recently?
 Narration/&ReturnToCC_Bartender_2_KarelMartel_NPC	Not since the conscription.
 Narration/&ReturnToCC_Bartender_3_Any_Default	Conscription? Is that what's happening?
-Narration/&ReturnToCC_Bartender_4_KarelMartel_NPC	I know, it's been in the air, but now...
-Narration/&ReturnToCC_Bartender_5_KarelMartel_NPC	...rumors has it that Gallivan's armies are massing at the eastern border.
+Narration/&ReturnToCC_Bartender_4_KarelMartel_NPC	I know, it's been in the air, but now…
+Narration/&ReturnToCC_Bartender_5_KarelMartel_NPC	…rumors has it that Gallivan's armies are massing at the eastern border.
 Narration/&ReturnToCC_Bartender_6_Any_Default	Gallivan? Why?
 Narration/&ReturnToCC_Bartender_7_KarelMartel_NPC	Ask your friends on the Council. They were supposed to keep the peace.
 Narration/&ReturnToCC_Robar1_Any_Default	Robar? You've been drafted?
@@ -2583,7 +2581,7 @@ Narration/&ReturnToCC_Robar8_Any_NPC	If you say so.
 Narration/&ReturnToCC_Robar9_Any_NPC	Be safe, Robar.
 Narration/&ReturnToCC_Robar10_Sellsword_Default	To the bitter end, brother.
 Narration/&ReturnToCC_Robar11_Robar_Default	To the bitter end.
-Narration/&ReturnToCC_Robar12_Robar_Default	You too.
+Narration/&ReturnToCC_Robar12_Robar_Default	You, too.
 Narration/&ReturnToCC_Beryl1_Any_NPC	Beryl? What's going on?
 Narration/&ReturnToCC_Beryl1_Highclass_Default	Lady Stonebeard, what is happening?
 Narration/&ReturnToCC_Beryl2_Beryl_NPC	You still here? I suppose we owe this mess to you?
@@ -2617,22 +2615,22 @@ Narration/&ReturnToCC_HalmanDaliat14_Lawful_Default	The intelligence service of 
 Narration/&ReturnToCC_HalmanDaliat15_Daliat_NPC	Nicer than 'spies.'
 Narration/&ReturnToCC_HalmanDaliat16_Authority_Default	So, what's in there?
 Narration/&ReturnToCC_HalmanDaliat17_HeddlonSurespell_NPC	Nothing and no one, I'm afraid.
-Narration/&ReturnToCC_HalmanDaliat18_HeddlonSurespell_NPC	I was looking for your...acquaintance, Halman Summer.
+Narration/&ReturnToCC_HalmanDaliat18_HeddlonSurespell_NPC	I was looking for your… acquaintance, Halman Summer.
 Narration/&ReturnToCC_HalmanDaliat19_Violent_Default	Oh, him?
 Narration/&ReturnToCC_HalmanDaliat20_Violent_Default	We were looking for him, too.
 Narration/&ReturnToCC_HalmanDaliat21_HeddlonSurespell_NPC	I'm afraid he's gone.
 Narration/&ReturnToCC_HalmanDaliat22_Pragmatic_Default	Isn't everybody leaving?
 Narration/&ReturnToCC_HalmanDaliat23_HeddlonSurespell_NPC	The Antiquarians and the other Snow Alliance people are pulling out.
 Narration/&ReturnToCC_HalmanDaliat24_HeddlonSurespell_NPC	The Antiquarians are still packing up, though.
-Narration/&ReturnToCC_HalmanDaliat25_Pragmatic_Default	He sent after a lead...
-Narration/&ReturnToCC_HalmanDaliat26_Selfpres_Default	...or rather, into a trap.
+Narration/&ReturnToCC_HalmanDaliat25_Pragmatic_Default	He sent after a lead…
+Narration/&ReturnToCC_HalmanDaliat26_Selfpres_Default	…or rather, into a trap.
 Narration/&ReturnToCC_HalmanDaliat27_HeddlonSurespell_NPC	I'm not surprised.
-Narration/&ReturnToCC_HalmanDaliat28_HeddlonSurespell_NPC	We had eyes on him, but...we lost him.
+Narration/&ReturnToCC_HalmanDaliat28_HeddlonSurespell_NPC	We had eyes on him, but… we lost him.
 Narration/&ReturnToCC_HalmanDaliat29_Selfpres_Default	Is he that good?
 Narration/&ReturnToCC_HalmanDaliat30_HeddlonSurespell_NPC	Or he had help. Magical.
 Narration/&ReturnToCC_HalmanDaliat31_Selfpres_NPC	Soraks?
 Narration/&ReturnToCC_HalmanDaliat32_HeddlonSurespell_NPC	Who knows?
-Narration/&ReturnToCC_HalmanDaliat33_Pragmatic_NPC	What triggered all this ?
+Narration/&ReturnToCC_HalmanDaliat33_Pragmatic_NPC	What triggered all this?
 Narration/&ReturnToCC_HalmanDaliat34_HeddlonSurespell_NPC	You should really get to the Council.
 Narration/&ReturnToCC_HalmanDaliat35_HeddlonSurespell_NPC	They'll tell you everything.
 Narration/&ReturnToCC_Carran_1_Carran_NPC	In Maraike's name! You're here!
@@ -2640,9 +2638,9 @@ Narration/&ReturnToCC_Carran_2_Any_Default	What is happening?
 Narration/&ReturnToCC_Carran_3_Carran_NPC	The whole delegation from the Tower of Knowledge - they were poisoned!
 Narration/&ReturnToCC_Carran_4_Nosy_Default	Poisoned? How many died?
 Narration/&ReturnToCC_Carran_5_Carran_NPC	All of them, thirty-something, but that's not the point.
-Narration/&ReturnToCC_Carran_6_Carran_NPC	After Dean Faisech accused the Council of...favoritism toward the Principality...
-Narration/&ReturnToCC_Carran_7_Carran_NPC	...for keeping the Crown in Caer Cyflen.
-Narration/&ReturnToCC_Carran_8_Pragmatic_Default	At the temple of Einar, which is not affiliated with the Principality.
+Narration/&ReturnToCC_Carran_6_Carran_NPC	After Dean Faisech accused the Council of… favoritism toward the Principality…
+Narration/&ReturnToCC_Carran_7_Carran_NPC	…for keeping the Crown in Caer Cyflen.
+Narration/&ReturnToCC_Carran_8_Pragmatic_Default	At the Temple of Einar, which is not affiliated with the Principality.
 Narration/&ReturnToCC_Carran_9_Carran_NPC	I know that, of course.
 Narration/&ReturnToCC_Carran_10_Carran_NPC	Yet, soon after, we all ate at the same table, but the Tower delegates died in their sleep.
 Narration/&ReturnToCC_Carran_11_Carran_NPC	Of course, Gallivan took it as an attack by the Principality.
@@ -2655,14 +2653,14 @@ Narration/&ReturnToCC_Carran_17_Cynical_Default	And it failed.
 Narration/&ReturnToCC_Carran_18_Carran_NPC	We're not at war yet.
 Narration/&ReturnToCC_Carran_19_Pragmatic_Default	But Gallivan's massing troops at the border.
 Narration/&ReturnToCC_Carran_20_Carran_NPC	Bad news really does travel fast.
-Narration/&ReturnToCC_Carran_21_Carran_NPC	Anyway, pressure is growing for the Princess to...intervene.
+Narration/&ReturnToCC_Carran_21_Carran_NPC	Anyway, pressure is growing for the Princess to… intervene.
 Narration/&ReturnToCC_Carran_22_Cynical_Default	Her? How?
-Narration/&ReturnToCC_Carran_23_Carran_NPC	Not as member of the Council. As head of state.
-Narration/&ReturnToCC_Carran_24_Carran_NPC	But tell me, where were you now that your quest is...well...
+Narration/&ReturnToCC_Carran_23_Carran_NPC	Not as a member of the Council. As head of state.
+Narration/&ReturnToCC_Carran_24_Carran_NPC	But tell me, where were you now that your quest is… well…
 Narration/&ReturnToCC_Carran_25_Authority_Default	Chasing the Soraks and their pawns.
 Narration/&ReturnToCC_Carran_26_Cynical_Default	Unsuccessfully.
 Narration/&ReturnToCC_Carran_27_Violent_Default	Halman Summer might have been one of them.
-Narration/&ReturnToCC_Carran_28_Carran_NPC	What? The man was...I mean, I dined at his mansion recently...he...
+Narration/&ReturnToCC_Carran_28_Carran_NPC	What? The man was… I mean, I dined at his mansion recently… he…
 Narration/&ReturnToCC_Carran_29_Nosy_Default	Where?
 Narration/&ReturnToCC_Carran_30_Carran_NPC	Where what?
 Narration/&ReturnToCC_Carran_31_Authority_Default	A mansion? He told us he lived at the Snow Alliance embassy.
@@ -2683,18 +2681,18 @@ Narration/&ReturnToCC_CovenOfArivad10_Lawful_Default	We should obtain a warrant.
 Narration/&ReturnToCC_CovenOfArivad11_Pragmatic_Default	We're past that, don't you think?
 Narration/&ReturnToCC_CovenOfArivad12_Violent_Default	Since I intend to kill him, I believe we are.
 Narration/&ReturnToCC_CovenOfArivad13_Spy_Default	Come on - they're all preparing for war, no one's paying attention.
-Narration/&ReturnToCC_CovenOfArivadInside1_Any_Normal	This place is...insane.
+Narration/&ReturnToCC_CovenOfArivadInside1_Any_Normal	This place is… insane.
 Narration/&ReturnToCC_CovenOfArivadInside2_Any_Formal	Truly, a den of madness.
-Narration/&ReturnToCC_CovenOfArivadInside3_Religion_Maraike_Default	Holy Maraike...
-Narration/&ReturnToCC_CovenOfArivadInside4_Religion_Einar_Default	Einar protect us all...
+Narration/&ReturnToCC_CovenOfArivadInside3_Religion_Maraike_Default	Holy Maraike…
+Narration/&ReturnToCC_CovenOfArivadInside4_Religion_Einar_Default	Einar protect us all…
 Narration/&ReturnToCC_CovenOfArivadInside5_Religion_Arun_Default	In the name of Arun, this place is unthinkable!
 Narration/&ReturnToCC_CovenOfArivadInside6_Religion_Pakri_Default	Pakri be with us, we have found our enemy!
-Narration/&ReturnToCC_CovenOfArivadInside7_Lawful_Default	In the middle of Caer Cyflen! How could they. . ?
+Narration/&ReturnToCC_CovenOfArivadInside7_Lawful_Default	In the middle of Caer Cyflen! How could they…?
 Narration/&ReturnToCC_CovenOfArivadInside8_Pragmatic_Default	Dissimulation is their creed.
 Narration/&ReturnToCC_CovenOfArivadInside9_Violent_Default	This ends now. Let's kill them all!
 Narration/&ReturnToCC_CovenOfArivadInside10_Pragmatic_Default	Maybe they have the gems.
 Narration/&ReturnToCC_CovenOfArivadEnded1_Friendly_Normal	Hey - I've seen this man at the Gravekeep's Cask!
-Narration/&ReturnToCC_CovenOfArivadEnded_Friendly_Formal	I know that face! He was at the Gravekeep's cask.
+Narration/&ReturnToCC_CovenOfArivadEnded_Friendly_Formal	I know that face! He was at the Gravekeep's Cask.
 Narration/&ReturnToCC_CovenOfArivadEnded2_Pragmatic_Normal	They're all from town!
 Narration/&ReturnToCC_CovenOfArivadEnded3_EinarAuthority_Normal	Corrupted by the Soraks!
 Narration/&ReturnToCC_CovenOfArivadEnded4_Selfpres_Normal	For years, maybe. They were preparing.
@@ -2703,11 +2701,11 @@ Narration/&ReturnToCC_CovenOfArivadEnded6_Pragmatic_Normal	A lot's been burned, 
 Narration/&ReturnToCC_CovenOfArivadEnded7_Greed_Normal	No sign of the gems.
 Narration/&ReturnToCC_CovenOfArivadEnded8_Pragmatic_Normal	Look at this - a map of the Badlands.
 Narration/&ReturnToCC_CovenOfArivadEnded9_Nosy_Normal	What are these places?
-Narration/&ReturnToCC_CovenOfArivadEnded10_Pragmatic_Normal	Everywhere we've been...and some other places.
-Narration/&ReturnToCC_CovenOfArivadEnded11_Greed_Normal	The gems...all eight of them.
+Narration/&ReturnToCC_CovenOfArivadEnded10_Pragmatic_Normal	Everywhere we've been… and some other places.
+Narration/&ReturnToCC_CovenOfArivadEnded11_Greed_Normal	The gems… all eight of them.
 Narration/&ReturnToCC_CovenOfArivadEnded12_Nosy_Normal	And this?
 Narration/&ReturnToCC_CovenOfArivadEnded13_History_Normal	Probably the location of the Rift.
-Narration/&ReturnToCC_CovenOfArivadEnded14_History_Normal	It's in the Aer-Elai, the heart of Manacalon. Where the capital was.
+Narration/&ReturnToCC_CovenOfArivadEnded14_History_Normal	It's in the Aer Elai, the heart of Manacalon. Where the capital was.
 Narration/&ReturnToCC_CovenOfArivadEnded15_Nosy_Normal	And this?
 Narration/&ReturnToCC_CovenOfArivadEnded16_Pragmatic_Normal	No idea.
 Narration/&ReturnToCC_CovenOfArivadEnded17_Carver_Normal	Not a dwarf rune.
@@ -2726,23 +2724,23 @@ Narration/&ReturnToCC_Carran_2_6_Carran_NPC	Surely you exaggerate!
 Narration/&ReturnToCC_Carran_2_7_Player_Normal	Here! A list of all those under or soon to be under Sorak influence.
 Narration/&ReturnToCC_Carran_2_8_Carran_NPC	What? Where did you find this?
 Narration/&ReturnToCC_Carran_2_9_Player_Normal	Halman Summer's mansion. He was one of them!
-Narration/&ReturnToCC_Carran_2_10_Carran_NPC	I can't believe it...all this time...
+Narration/&ReturnToCC_Carran_2_10_Carran_NPC	I can't believe it… all this time…
 Narration/&ReturnToCC_Carran_2_11_Player_Normal	There's more!
-Narration/&ReturnToCC_Carran_2_12_Player_Normal	Everything suggests that the Soraks have the two missing gems.
+Narration/&ReturnToCC_Carran_2_12_Player_Normal	Everything suggests that the Soraks have the missing gems.
 Narration/&ReturnToCC_Carran_2_13_Player_Normal	They had a map showing everywhere we found gems, plus two other places.
 Narration/&ReturnToCC_Carran_2_14_Carran_NPC	Maraike's mercy!
-Narration/&ReturnToCC_Carran_2_15_Carran_NPC	We must convene the Council, but... this really isn't the best time.
+Narration/&ReturnToCC_Carran_2_15_Carran_NPC	We must convene the Council, but… this really isn't the best time.
 Narration/&ReturnToCC_Carran_2_16_Player_Normal	The Gallivan situation, I suppose?
-Narration/&ReturnToCC_Carran_2_17_Player_Slang	Gallivan, eh? How it is going?
+Narration/&ReturnToCC_Carran_2_17_Player_Slang	Gallivan, eh? How is it going?
 Narration/&ReturnToCC_Carran_2_18_Carran_NPC	All the city's clerics are working to resurrect the victims. I hope it's enough.
 Narration/&ReturnToCC_Carran_2_19_Greed_Default	More than thirty? That's a lot of diamonds. And clerics.
 Narration/&ReturnToCC_Carran_2_20_Carran_NPC	We didn't really have a choice. The Crown is going to pay.
 Narration/&ReturnToCC_Carran_2_21_Greed_Default	What?
-Narration/&ReturnToCC_Carran_2_22_Carran_NPC	The envoy from Gallivan was...adamant.
-Narration/&ReturnToCC_Carran_2_23_Carran_NPC	The Princess took command of the situation...
-Narration/&ReturnToCC_Carran_2_24_Carran_NPC	...and told him Masgarth would pay to resurrect their people.
+Narration/&ReturnToCC_Carran_2_22_Carran_NPC	The envoy from Gallivan was… adamant.
+Narration/&ReturnToCC_Carran_2_23_Carran_NPC	The Princess took command of the situation…
+Narration/&ReturnToCC_Carran_2_24_Carran_NPC	…and told him Masgarth would pay to resurrect their people.
 Narration/&ReturnToCC_Carran_2_25_Pragmatic_Default	So why the troops at the border?
-Narration/&ReturnToCC_Carran_2_26_Carran_NPC	Let's call it...an incentive.
+Narration/&ReturnToCC_Carran_2_26_Carran_NPC	Let's call it… an incentive.
 Narration/&ReturnToCC_Carran_2_27_Pragmatic_Default	Everything should be fine, then.
 Narration/&ReturnToCC_Carran_2_28_Pragmatic_Default	The Principality resurrects the poison victims, Gallivan withdraws its troops.
 Narration/&ReturnToCC_Carran_2_29_Carran_NPC	Let's hope so. We don't have any idea who's behind this.
@@ -2755,16 +2753,16 @@ Narration/&ReturnToCC_Carran_2_35_Carran_NPC	Smiles work better if you have a sw
 Narration/&ReturnToCC_Carran_2_36_Greed_Default	So you're resurrecting Faisech?
 Narration/&ReturnToCC_Carran_2_37_Greed_Default	How much is that? A thousand gold pieces?
 Narration/&ReturnToCC_Carran_2_38_Carran_NPC	I know what you're going to say. So don't.
-Narration/&ReturnToCC_Carran_2_39_Cynical_Default	And someone must pray for his soul... Imagine that!
+Narration/&ReturnToCC_Carran_2_39_Cynical_Default	And someone must pray for his soul… Imagine that!
 Narration/&ReturnToCC_Carran_2_40_Carran_NPC	Marshal Sunblaze is taking care of the senior delegates personally.
 Narration/&ReturnToCC_Carran_2_41_Selfpres_Default	Wait a minute!
 Narration/&ReturnToCC_Carran_2_42_Selfpres_Default	Where is this happening?
-Narration/&ReturnToCC_Carran_2_43_Carran_NPC	In the temple of Einar. You've been in their dispensary...
-Narration/&ReturnToCC_Carran_2_44_Carran_NPC	Wait, you don't...they died!
+Narration/&ReturnToCC_Carran_2_43_Carran_NPC	In the Temple of Einar. You've been in their dispensary…
+Narration/&ReturnToCC_Carran_2_44_Carran_NPC	Wait, you don't… they died!
 Narration/&ReturnToCC_Carran_2_45_Selfpres_Default	You think they'd stop at that?
-Narration/&ReturnToCC_Carran_2_46_Pragmatic_NPC	Thirty-something people inside the most secure place in the Principality...
-Narration/&ReturnToCC_Carran_2_47_Pragmatic_NPC	More than thirty possible traitors in the most protected temple in the Principality...
-Narration/&ReturnToCC_Carran_2_48_Violent_NPC	...close to the Crown of the Magister?
+Narration/&ReturnToCC_Carran_2_46_Pragmatic_NPC	Thirty-something people inside the most secure place in the Principality…
+Narration/&ReturnToCC_Carran_2_47_Pragmatic_NPC	More than thirty possible traitors in the most protected temple in the Principality…
+Narration/&ReturnToCC_Carran_2_48_Violent_NPC	…close to the Crown of the Magister?
 Narration/&ReturnToCC_Carran_2_49_Carran_NPC	No! No, no, no!
 Narration/&ReturnToCC_Carran_2_50_Authority_NPC	What are we waiting for?
 Narration/&ReturnToCC_Temple1_1_Authority_Default	Marshal!
@@ -2773,20 +2771,20 @@ Narration/&ReturnToCC_Temple1_3_Authority_Default	Where are the delegates?
 Narration/&ReturnToCC_Temple1_4_BericSunblaze_NPC	In the dispensary.
 Narration/&ReturnToCC_Temple1_5_BericSunblaze_NPC	What's going on?
 Narration/&ReturnToCC_Temple1_6_Friendly_Default	Are you all right?
-Narration/&ReturnToCC_Temple1_7_BericSunblaze_NPC	I just cast a resurrection spell...forgive me - it is rather draining.
+Narration/&ReturnToCC_Temple1_7_BericSunblaze_NPC	I just cast a resurrection spell… forgive me - it is rather draining.
 Narration/&ReturnToCC_Temple1_8_BericSunblaze_NPC	Wait!
 Narration/&ReturnToCC_Temple1_9_Cynical_Normal	Feeling good, dead people?
-Narration/&ReturnToCC_Temple1_10_Cynical_Formal	Alright, everyone, we know who you are.
+Narration/&ReturnToCC_Temple1_10_Cynical_Formal	All right, everyone, we know who you are.
 Narration/&ReturnToCC_Temple1_11_SorakAgent_NPC	Attack!
-Narration/&ReturnToCC_Temple2_1_BericSunblaze_NPC	By Einar...Sorak agents, in the temple!
+Narration/&ReturnToCC_Temple2_1_BericSunblaze_NPC	By Einar… Sorak agents, in the temple!
 Narration/&ReturnToCC_Temple2_2_Authority_Default	Where's the Crown?
-Narration/&ReturnToCC_Temple2_3_BericSunblaze_NPC	Take this key. I...can't run.
+Narration/&ReturnToCC_Temple2_3_BericSunblaze_NPC	Take this key. I… can't run.
 Narration/&ReturnToCC_Temple2_4_BericSunblaze_NPC	Follow the light!
 Narration/&ReturnToCC_Temple2_5_Authority_Default	Let's go!
 Narration/&ReturnToCC_Temple3_1_Authority_Default	There!
 Narration/&ReturnToCC_Temple3_2_Selfpres_Default	It's gone!
 Narration/&ReturnToCC_Temple3_3_Pragmatic_Default	Here! A secret passage?
-Narration/&ReturnToCC_Temple3_4_Selfpres_Default	In the middle of the Temple?
+Narration/&ReturnToCC_Temple3_4_Selfpres_Default	In the middle of the temple?
 Narration/&ReturnToCC_Temple3_5_Authority_Default	How did they miss that?
 Narration/&ReturnToCC_Temple3_6_Pragmatic_Default	Doesn't matter now!
 Narration/&ReturnToCC_Temple3_7_Pragmatic_Default	This is ancient - from the first centuries after the Cataclysm!
@@ -2805,49 +2803,49 @@ Narration/&ReturnToCC_Temple9_Merton_NPC	Come on! Fight!
 Narration/&ReturnToCC_Temple5_1_Any_Default	Look!
 Narration/&ReturnToCC_Temple5_2_Any_Default	The Princess?
 Narration/&ReturnToCC_Temple5_3_Merton_NPC	Ha, ha, ha! Come on, old lady - time to show off!
-Narration/&ReturnToCC_Temple5_4_Princess_NPC	One day, Arwin Merton...
+Narration/&ReturnToCC_Temple5_4_Princess_NPC	One day, Arwin Merton…
 Narration/&ReturnToCC_Teleporter1_Princess_NPC	Don't look at me like that.
-Narration/&ReturnToCC_Teleporter2_Any_Default	Your royal highness...
-Narration/&ReturnToCC_Teleporter3_Princess_NPC	...thank you is what you're looking for.
+Narration/&ReturnToCC_Teleporter2_Any_Default	Your Royal Highness…
+Narration/&ReturnToCC_Teleporter3_Princess_NPC	…thank you is what you're looking for.
 Narration/&ReturnToCC_Teleporter4_Any_Default	Thank you.
 Narration/&ReturnToCC_Teleporter5_Pragmatic_Default	They took the Crown.
-Narration/&ReturnToCC_Teleporter6_Princess_NPC	Is this...evil god coming?
+Narration/&ReturnToCC_Teleporter6_Princess_NPC	Is this… evil god coming?
 Narration/&ReturnToCC_Teleporter7_Authority_Default	I suppose that's their plan.
 Narration/&ReturnToCC_Teleporter8_Pragmatic_Default	Can we follow them? 
-Narration/&ReturnToCC_Teleporter9_Selfpres_Default	There's no way to know where they're gone.
+Narration/&ReturnToCC_Teleporter9_Selfpres_Default	There's no way to know where they've gone.
 Narration/&ReturnToCC_Teleporter10_Selfpres_Default	There are so many gates.
 Narration/&ReturnToCC_Teleporter11_Pragmatic_Default	Close to the Rift, right? Where it all began?
 Narration/&ReturnToCC_Teleporter12_Authority_Default	No one knows exactly where the Rift was.
-Narration/&ReturnToCC_Teleporter13_Merton_NPC	In the Aer-Elai, near the capital of Manacalon - but it's a vast area!
+Narration/&ReturnToCC_Teleporter13_Merton_NPC	In the Aer Elai, near the capital of Manacalon - but it's a vast area!
 Narration/&ReturnToCC_Teleporter14_Pragmatic_Default	They must have scouted it and found a teleporter nearby.
 Narration/&ReturnToCC_Teleporter15_Selfpres_Default	So we're doomed?
 Narration/&ReturnToCC_Teleporter16_Authority_Default	What's going on?
 Narration/&ReturnToCC_Teleporter17_Merton_NPC	We're under attack!
 Narration/&ReturnToCC_Teleporter18_Merton_NPC	Sleeper agents! Everywhere in the city!
 Narration/&ReturnToCC_Teleporter19_Princess_Default	Are they so powerful, the Sorr-Akkath?
-Narration/&ReturnToCC_Teleporter20_History_Default	Your royal highness...
+Narration/&ReturnToCC_Teleporter20_History_Default	Your Royal Highness…
 Narration/&ReturnToCC_Teleporter21_History_Default	We found this in Halman Summer's chambers, magically concealed.
 Narration/&ReturnToCC_Teleporter22_History_Default	Do you have any ideas?
-Narration/&ReturnToCC_Teleporter23_Princess_NPC	This is the Sunset Peak, south of Aer-Elai. 
-Narration/&ReturnToCC_Teleporter24_Princess_NPC	I recognize this tower...or what's left of it.
+Narration/&ReturnToCC_Teleporter23_Princess_NPC	This is Sunset Peak, south of Aer Elai. 
+Narration/&ReturnToCC_Teleporter24_Princess_NPC	I recognize this tower… or what's left of it.
 Narration/&ReturnToCC_Teleporter25_Princess_NPC	There is a gate not too far away.
 Narration/&ReturnToCC_Teleporter26_Princess_NPC	But who knows how the place looks like now?
-Narration/&ReturnToCC_Teleporter27_Authority_Default	We're running out of time! If there is a chance to stop them...
+Narration/&ReturnToCC_Teleporter27_Authority_Default	We're running out of time! If there is a chance to stop them…
 Narration/&ReturnToCC_Teleporter28_Violent_Default	They don't stand a chance against you!
 Narration/&ReturnToCC_Teleporter29_Princess_NPC	Alas, I cannot go into the Badlands.
 Narration/&ReturnToCC_Teleporter30_Nosy_Default	What? Why?
 Narration/&ReturnToCC_Teleporter31_Princess_NPC	Long story short: it would kill me faster than any dark god.
 Narration/&ReturnToCC_Teleporter32_Princess_NPC	There's no time to explain - you have to trust me.
 Narration/&ReturnToCC_Teleporter33_Princess_NPC	Only you can save Solasta now.
-Narration/&ReturnToCC_Teleporter34_Selfpres_Default	Us? What about all your...heroes, and all?
+Narration/&ReturnToCC_Teleporter34_Selfpres_Default	Us? What about all your… heroes, and all?
 Narration/&ReturnToCC_Teleporter35_Princess_NPC	Marshal Sunblaze is weakened from casting Resurrection spells, and so are most of his clerics.
-Narration/&ReturnToCC_Teleporter36_Pragmatic_Default	Oh...they planned this as well, didn't they?
+Narration/&ReturnToCC_Teleporter36_Pragmatic_Default	Oh… they planned this as well, didn't they?
 Narration/&ReturnToCC_Teleporter37_Princess_NPC	All my best fighters and spellblades are on the border.
 Narration/&ReturnToCC_Teleporter38_Princess_NPC	Protector Kean is not what she used to be.
 Narration/&ReturnToCC_Teleporter39_Authority_Default	Merton? You coming?
 Narration/&ReturnToCC_Teleporter40_Princess_NPC	He's staying with me. Caer Cyflen is on fire, its streets full of Sorak pawns on a murder spree.
 Narration/&ReturnToCC_Teleporter41_Princess_NPC	The Crown needs you. I felt it, from the beginning.
-Narration/&ReturnToCC_Teleporter42_Princess_NPC	Kaisenax's spirit calls for you to save him from the darkness.
+Narration/&ReturnToCC_Teleporter42_Princess_NPC	Kaseinax's spirit calls for you to save him from the darkness.
 Narration/&ReturnToCC_Teleporter43_Nosy_Default	The Magister? You knew him?
 Narration/&ReturnToCC_Teleporter44_Princess_NPC	You're too curious for your own good.
 Narration/&ReturnToCC_Teleporter45_Authority_Default	So, Merton's staying.
@@ -2872,9 +2870,9 @@ Narration/&ReturnToCC_Teleporter63_Princess_NPC	You really should start admittin
 Narration/&ReturnToCC_Teleporter64_Princess_NPC	Rest now. Time will wait for you, I promise.
 Narration/&ReturnToCC_Teleporter65_Princess_NPC	I will speak the words that will activate the gate for Sunset Peak.
 Narration/&ReturnToCC_Teleporter66_Princess_NPC	When you are ready, step onto the gate, and fulfill your destiny.
-Narration/&ReturnToCC_TimeLapse1_Nosy_Default	Did she just...stop time?
+Narration/&ReturnToCC_TimeLapse1_Nosy_Default	Did she just… stop time?
 Narration/&ReturnToCC_TimeLapse2_Acolyte_Default	This is unnatural.
-Narration/&ReturnToCC_TimeLapse3_Selfpres_Default	I wont' be able to sleep now.
+Narration/&ReturnToCC_TimeLapse3_Selfpres_Default	I won't be able to sleep now.
 Narration/&ReturnToCC_TimeLapse4_Authority_Default	You know what's at stake. 
 Narration/&ReturnToCC_TimeLapse5_Authority_Default	We'll need to be ready for anything.
 Narration/&Mertonswife1_Bitterroot_NPC	Damned Soraks right under our noses, eh?
@@ -2922,7 +2920,7 @@ Narration/&Mertonswife41_Agree_NPC	Fine, what's the message?
 Narration/&Mertonswife42_Choice_Refuse	Sorry. We have more important things to do.
 Narration/&Mertonswife43_Choice_Accept	As you wish.
 Narration/&Mertonswife44_Biterroot_NPC	Tell him he still owes me a child, and I'm waiting. Here, in Coparann.
-Narration/&Mertonswife45_Any_Normal	Alright... we'll tell him that.
+Narration/&Mertonswife45_Any_Normal	All right... we'll tell him that.
 Narration/&Mertonswife46_Any_Formal	Fine, we'll take your message to him.
 Narration/&Mertonswife47_Biterroot_NPC	Thank you. Here's the blade. And the map.
 Narration/&Mertonswife48_Friendly_Normal	Farewell, Bitterroot.
@@ -2931,39 +2929,39 @@ Narration/&Mertonswife2_2_Merton_NPC	Arwin? We're friends now?
 Narration/&Mertonswife2_3_Merton_NPC	I'll keep calling you kid, I think.
 Narration/&Mertonswife2_4_Any_Normal	Whatever.
 Narration/&Mertonswife2_5_Any_Formal	Suit yourself.
-Narration/&Mertonswife2_6_Any_Normal	We've been to Coparran - ring a bell?
-Narration/&Mertonswife2_7_Any_Formal	I suppose you know the name Coparran.
+Narration/&Mertonswife2_6_Any_Normal	We've been to Coparann - ring a bell?
+Narration/&Mertonswife2_7_Any_Formal	I suppose you know the name Coparann.
 Narration/&Mertonswife2_8_Merton_NPC	You bet.
-Narration/&Mertonswife2_9_Any_Normal	Apparently you are indebted to someone there.
+Narration/&Mertonswife2_9_Any_Normal	Apparently, you are indebted to someone there.
 Narration/&Mertonswife2_10_Any_Normal	An elf ranger. She calls herself Bitterroot.
 Narration/&Mertonswife2_11_Merton_NPC	Really?
 Narration/&Mertonswife2_12_Any_Normal	Something to do with her mood, maybe.
-Narration/&Mertonswife2_13_Any_Normal	She said you owe her...a child.
+Narration/&Mertonswife2_13_Any_Normal	She said you owe her… a child.
 Narration/&Mertonswife2_14_Merton_NPC	She's crazy.
 Narration/&Mertonswife2_15_Any_Normal	We just said we'd bring the message. She's still waiting.
-Narration/&Mertonswife2_16_Merton_NPC	Yeah...thanks for the message.
+Narration/&Mertonswife2_16_Merton_NPC	Yeah… thanks for the message.
 Narration/&Mertonswife2_17_Any_Normal	Want to tell us what this is about?
 Narration/&Mertonswife2_18_Any_Formal	Maybe you would like to share a story with us?
 Narration/&Mertonswife2_19_Merton_NPC	No. I don't.
 Narration/&Mertonswife2_20_Any_Normal	You didn't take her child away from her?
 Narration/&Mertonswife2_21_Merton_NPC	You're out of line. I'd step back if I were you.
-Narration/&Mertonswife2_22_Any_Normal	Alright. It's none of our business.
+Narration/&Mertonswife2_22_Any_Normal	All right. It's none of our business.
 Narration/&Mertonswife2_23_Any_Normal	She gave us this for you.
 Narration/&Mertonswife2_24_Merton_NPC	What?
 Narration/&Mertonswife2_25_Merton_NPC	I don't believe it!
-Narration/&Mertonswife2_26_Merton_NPC	She went back for it...
+Narration/&Mertonswife2_26_Merton_NPC	She went back for it…
 Narration/&Mertonswife2_27_Any_Normal	Feel more like talking now?
 Narration/&Mertonswife2_28_Merton_NPC	Get out!
 Narration/&LegendaryQuest_1_Merton_NPC	Hello again! I hear you're the terror of the Badlands.
 Narration/&LegendaryQuest_2_Any_Default	We're getting by.
 Narration/&LegendaryQuest_3_Any_Default	Did you hear about a lost god?
 Narration/&LegendaryQuest_4_Merton_NPC	Sure - if you're ready to die!
-Narration/&LegendaryQuest_5_Any_Default	We're not green any more, Merton.
+Narration/&LegendaryQuest_5_Any_Default	We're not green anymore, Merton.
 Narration/&LegendaryQuest_6_Merton_NPC	Fine, but the Lost God? That is the stuff of legend.
 Narration/&LegendaryQuest_7_Merton_NPC	I've met a lot of people who wanted to find that temple.
 Narration/&LegendaryQuest_8_Merton_NPC	At first I tried to help. No one ever came back.
 Narration/&LegendaryQuest_9_Merton_NPC	So I decided to stop talking about it.
-Narration/&LegendaryQuest_10_Merton_NPC	I felt...well...
+Narration/&LegendaryQuest_10_Merton_NPC	I felt… well…
 Narration/&LegendaryQuest_11_Any_Default	Responsible for their deaths?
 Narration/&LegendaryQuest_12_Merton_NPC	Responsible? No - they paid for their folly.
 Narration/&LegendaryQuest_13_Merton_NPC	I just grew tired of repeating the same warning over and over.
@@ -2975,19 +2973,19 @@ Narration/&LegendaryQuest_18_Merton_NPC	All right - the temple is real. I've see
 Narration/&LegendaryQuest_19_Any_Default	You have?
 Narration/&LegendaryQuest_20_Merton_NPC	It was about fifteen years ago, but yes. I did.
 Narration/&LegendaryQuest_21_Any_Default	And you didn't raid it?
-Narration/&LegendaryQuest_22_Merton_NPC	Well, ten of us found the place...
-Narration/&LegendaryQuest_23_Merton_NPC	...when I was the only one left, I came home.
+Narration/&LegendaryQuest_22_Merton_NPC	Well, ten of us found the place…
+Narration/&LegendaryQuest_23_Merton_NPC	…when I was the only one left, I came home.
 Narration/&LegendaryQuest_24_Any_Default	The other nine died?
 Narration/&LegendaryQuest_25_Merton_NPC	Slaughtered. All of them.
 Narration/&LegendaryQuest_26_Merton_NPC	Still interested?
 Narration/&LegendaryQuest_27_Any_Default	You think we're not strong enough?
-Narration/&LegendaryQuest_28_Merton_NPC	I don't know. You're the mighty Sorak killers, after all...
-Narration/&LegendaryQuest_29_Merton_NPC	...maybe with me...you'd have a chance.
+Narration/&LegendaryQuest_28_Merton_NPC	I don't know. You're the mighty Sorak killers, after all…
+Narration/&LegendaryQuest_29_Merton_NPC	…maybe with me… you'd have a chance.
 Narration/&LegendaryQuest_30_Any_Default	You'd come with us?
 Narration/&LegendaryQuest_31_Merton_NPC	I wouldn't let anyone raid that temple without me.
 Narration/&LegendaryQuest_32_Merton_NPC	You'd never find it, for a start.
 Narration/&LegendaryQuest_33_Any_Default	Are you after the treasure?
-Narration/&LegendaryQuest_34_Merton_NPC	Who says there's a treasure?
+Narration/&LegendaryQuest_34_Merton_NPC	Who says there's any treasure?
 Narration/&LegendaryQuest_35_Merton_NPC	There's a monster - I know that.
 Narration/&LegendaryQuest_36_Any_NPC	What is it?
 Narration/&LegendaryQuest_37_Merton_NPC	That, I don't know.
@@ -3002,7 +3000,7 @@ Narration/&LegendaryQuest_2_3_Friendly_Normal	Did you change your mind?
 Narration/&LegendaryQuest_2_4_Merton_NPC	No, no. I'm ready!
 Narration/&LegendaryQuest_2_5_Merton_NPC	Let's go!
 Narration/&LegendaryQuest_2_6_Lawful_Normal	Hey, we're supposed to go together, remember?
-Narration/&LegendaryQuest_2_7_Merton_NPC	Yeah, about that. I have to go to Coparran first.
+Narration/&LegendaryQuest_2_7_Merton_NPC	Yeah, about that. I have to go to Coparann first.
 Narration/&LegendaryQuest_2_8_Cynical_Normal	Oh - unfinished business, maybe?
 Narration/&LegendaryQuest_2_9_Merton_NPC	You know exactly what business.
 Narration/&LegendaryQuest_2_10_Authority_Normal	So how about the quest?
@@ -3033,8 +3031,8 @@ Narration/&LegendaryQuest_4_5_Religion_Pakri_Normal	Pakri will clear our minds.
 Narration/&LegendaryQuest_4_6_Religion_Arun_Normal	Arun will guide our hearts.
 Narration/&LegendaryQuest_4_7_Sellsword_Normal	No pain, no gain.
 Narration/&LegendaryQuest_4_8_Selpres_Normal	Thanks for the encouragement.
-Narration/&LegendaryQuest_4_9_Merton_NPC	Just saying...
-Narration/&LegendaryQuest_5_1_Selfpres_Normal	We did it !
+Narration/&LegendaryQuest_4_9_Merton_NPC	Just saying…
+Narration/&LegendaryQuest_5_1_Selfpres_Normal	We did it!
 Narration/&LegendaryQuest_5_2_Merton_NPC	Yeah, we did!
 Narration/&LegendaryQuest_5_3_Merton_NPC	There's still the big one, in there!
 Narration/&LegendaryQuest_5_4_Pragmatic_Normal	Sure. It's not over yet.
@@ -3049,12 +3047,12 @@ Narration/&LegendaryQuest_5_12_History_Normal	Arivad was fierce and just on Tirm
 Narration/&LegendaryQuest_5_13_History_Normal	Before he was corrupted. 
 Narration/&LegendaryQuest_5_14_History_Normal	His good side became Einar.
 Narration/&LegendaryQuest_5_15_History_Normal	His bad side was absorbed by Sorr-Tarr and they became one.
-Narration/&LegendaryQuest_5_16_Einar_Normal	The name of Arivad is cursed. This place is...evil.
+Narration/&LegendaryQuest_5_16_Einar_Normal	The name of Arivad is cursed. This place is… evil.
 Narration/&LegendaryQuest_5_17_History_Normal	This is just stone, transported here from Tirmar.
-Narration/&LegendaryQuest_5_18_History_Normal	Whatever took place within these walls happened a millenium ago.
+Narration/&LegendaryQuest_5_18_History_Normal	Whatever took place within these walls happened a millennium ago.
 Narration/&LegendaryQuest_5_19_Einar_Normal	Such evil never fully disappears.
 Narration/&LegendaryQuest_5_20_Lawful_Normal	Well, then - let's clean the place up!
-Narration/&LegendaryQuest_6_1_Merton_NPC	Well, I must say...
+Narration/&LegendaryQuest_6_1_Merton_NPC	Well, I must say…
 Narration/&LegendaryQuest_6_2_Merton_NPC	You're the best team I ever had.
 Narration/&LegendaryQuest_6_3_Friendly_Normal	Thanks!
 Narration/&LegendaryQuest_6_4_Friendly_Formal	From a living legend like you, that's a great compliment.
@@ -3063,15 +3061,15 @@ Narration/&LegendaryQuest_6_6_Any_Normal	You're leaving?
 Narration/&LegendaryQuest_6_7_Merton_NPC	I told you. This is it for me - killing that remorhaz, climbing those stairs.
 Narration/&LegendaryQuest_6_8_Merton_NPC	I need to tell someone. I'll see you back at Caer Cyflen.
 Narration/&LegendaryQuest_6_9_Selfpres_Normal	Mysterious.
-Narration/&LegendaryQuest_6_10_Pragmatic_Normal	Crazy but...a damn good ranger.
+Narration/&LegendaryQuest_6_10_Pragmatic_Normal	Crazy but… a damn good ranger.
 Narration/&LegendaryQuest_6_11_Nosy_Normal	He's going back to that Bitterroot woman.
 Narration/&LegendaryQuest_6_12_Lawful_Normal	That's none of our business. 
-Narration/&LegendaryQuest_6_13_Greed_Normal	Indeed. That chest on the other hand...
-Narration/&TheAerElai1_Nosy_Default	Look at that...
-Narration/&TheAerElai2_Nosy_Default	...the heart of the Badlands, almost the epicenter of the Cataclysm.
-Narration/&TheAerElai3_Selfpres_Default	This is a there's nothing left of the old Empire.
+Narration/&LegendaryQuest_6_13_Greed_Normal	Indeed. That chest on the other hand…
+Narration/&TheAerElai1_Nosy_Default	Look at that…
+Narration/&TheAerElai2_Nosy_Default	…the heart of the Badlands, almost the epicenter of the Cataclysm.
+Narration/&TheAerElai3_Selfpres_Default	There's nothing left of the Old Empire.
 Narration/&TheAerElai4_Authority_Default	All right, people - we're not here for the view.
-Narration/&TheAerElai5_Arcana_Default	This wind...it's not natural.
+Narration/&TheAerElai5_Arcana_Default	This wind… it's not natural.
 Narration/&TheAerElai6_Arcana_Default	It's a mana wind. We can't use magic to get across.
 Narration/&TheAerElai7_Cynical_Default	So, falling would be a bad idea, then.
 Narration/&TheAerElai8_Lawful_Default	We've been through worse.
@@ -3079,12 +3077,12 @@ Narration/&TheAerElai9_Selfpres_Default	Watch out!
 Narration/&TheAerElai10_Nosy_Default	What kind of creature lives in a place like this?
 Narration/&TheAerElai11_Nature_Default	You got it: fire spiders.
 Narration/&TheAerElai12_Selfpres_Default	Over there! Soraks!
-Narration/&TheAerElai13_Einar_Default	They don't need to hide, here.
+Narration/&TheAerElai13_Einar_Default	They don't need to hide here.
 Narration/&TheAerElai14_Pragmatic_Default	They're not paying attention. What are they doing?
 Narration/&TheAerElai15_Cynical_Default	Dropping gigantic bones into lava?
 Narration/&TheAerElai16_Pragmatic_Default	Why?
-Narration/&TheAerElai17_Nature_Default	They're not just any bones...
-Narration/&TheAerElai18_Nature_Default	...those are dragon bones!
+Narration/&TheAerElai17_Nature_Default	They're not just any bones…
+Narration/&TheAerElai18_Nature_Default	…those are dragon bones!
 Narration/&TheAerElai19_Pragmatic_Default	How many dragons died here?
 Narration/&TheAerElai20_Arcana_Default	Remember what the Princess said. The place is deadly to them.
 Narration/&TheAerElai21_Authority_Default	There's no other way - we need to get up there!
@@ -3100,20 +3098,20 @@ Narration/&TheAerElai30_Pragmatic_Default	Dragons? All of them?
 Narration/&TheAerElai31_Arcana_Default	The Master of Abjuration was no exception. They were all dragons.
 Narration/&TheAerElai32_Arcana_Default	Even the Magister.
 Narration/&TheAerElai33_Arcana_Default	And his bones are among those.
-Narration/&TheAerElai34_Pragmatic_Default	I thought I felt something, but...
+Narration/&TheAerElai34_Pragmatic_Default	I thought I felt something, but…
 Narration/&TheAerElai35_Cynical_Default	Definitely.
 Narration/&TheAerElai36_Authority_Default	We need to search the bones.
 Narration/&TheAerElai37_Any_Default	Here!
 Narration/&TheAerElai38_Any2_Default	A tooth?
-Narration/&TheAerElai39_Any3_Default	It calls to me...
-Narration/&TheAerElai40_Magister_NPC	Let me...touch my Crown...
+Narration/&TheAerElai39_Any3_Default	It calls to me…
+Narration/&TheAerElai40_Magister_NPC	Let me… touch my Crown…
 Narration/&TheAerElai41_Any_Default	Did you hear that?
 Narration/&TheAerElai42_Any2_Default	I did.
 Narration/&TheAerElai43_Any3_Default	He wants to touch the Crown.
 Narration/&TheAerElai44_Any4_Default	The tooth? Just one little tooth?
 Narration/&TheAerElai45_Any3_Default	That's why the Soraks want to destroy the bones.
 Narration/&TheAerElai46_Any2_Default	What will happen if we succeed?
-Narration/&TheAerElai47_Magister_NPC	Let me...touch my Crown...
+Narration/&TheAerElai47_Magister_NPC	Let me… touch my Crown…
 Narration/&TheAerElai48_Authority_Default	There's only one way to find out.
 Narration/&TheAerElai49_Selfpres_Default	This place never ends!
 Narration/&TheAerElai50_Any2_Default	This is the way - I can hear the Crown!
@@ -3148,7 +3146,7 @@ Narration/&TheAerElai78_Any3_Default	What?
 Narration/&TheAerElai79_Any4_Default	The Rift, it's open!
 Narration/&TheAerElai80_Any3_Default	No! 
 Narration/&TheAerElai81_Magister_NPC	HOLD.
-Narration/&TheAerElai82_Any_Default	I though that was it!
+Narration/&TheAerElai82_Any_Default	I thought that was it!
 Narration/&TheAerElai83_Any2_Default	He said hold! We need to hold!
 Narration/&TheAerElai84_Any_Default	Against a whole army?
 Narration/&TheAerElai85_Any3_Default	Look!
@@ -3232,7 +3230,7 @@ Narration/&ScavengersCoparann_4_Milan_NPC	We used to have adventurers raiding ar
 Narration/&ScavengersCoparann_5_Any_Default	One?
 Narration/&ScavengersCoparann_6_Milan_NPC	She's around somewhere. You might run into her.
 Narration/&ScavengersCoparann_7_Any_Default	We did find an interesting place, though - an old Tirmarian monastery.
-Narration/&ScavengersCoparann_8_Milan_NPC	Oh, really?
+Narration/&ScavengersCoparann_8_Milan_NPC	Yeah?
 Narration/&ScavengersCoparann_9_Milan_NPC	Tell me where. We'll take care of it.
 Narration/&PriestessOfPakri1_Priestess_NPC	The law provides, adventurers!
 Narration/&PriestessOfPakri2_Pakri_Default	Pakri preserve us!
@@ -3362,11 +3360,11 @@ Narration/&BackgroundQuest_Acolyte_Monastery_03_Default	That someone ruined thei
 Narration/&BackgroundQuest_Acolyte_Monastery_04_Default	Maybe it was just the cataclysm.
 Narration/&BackgroundQuest_Acolyte_Monastery_05_Default	There's a small chest, here.
 Narration/&BackgroundQuest_Acolyte_Mission_1_Acolyte_Default	Clear skies, Chaplain Lark! You wanted to see me? 
-Narration/&BackgroundQuest_Acolyte_Mission_2_DalonLark_NPC	Clear skies! Yes, thanks for coming so quickly!
+Narration/&BackgroundQuest_Acolyte_Mission_2_DalonLark_NPC	Clear skies! Yes, thank you for coming so fast.
 Narration/&BackgroundQuest_Acolyte_Mission_3_DalonLark_NPC	Remember that monastery near Coparann?
 Narration/&BackgroundQuest_Acolyte_Mission_4_Acolyte_Default	The Tirmarian ruins? Of course.
 Narration/&BackgroundQuest_Acolyte_Mission_5_DalonLark_NPC	There was a cemetery there.
-Narration/&BackgroundQuest_Acolyte_Mission_6_Acolyte_Default	Chaplain Ardentfire, Priest of Arun, would like to talk to you about it.
+Narration/&BackgroundQuest_Acolyte_Mission_6_Acolyte_Default	Chaplain Ardentfire, Priest of Arun, would like to meet you about it.
 Narration/&BackgroundQuest_Acolyte_Mission_7_DalonLark_NPC	I shall go to him right away! Clear skies! 
 Narration/&BackgroundQuest_Acolyte_Mission_8_Acolyte_Default	Even if I don't pray to Arun, I'm happy to be of service.
 Narration/&BackgroundQuest_Acolyte_Mission_9_DalonLark_NPC	Clear skies! Einar guards you all! 
@@ -3380,7 +3378,7 @@ Narration/&BackgroundQuest_Acolyte_Rogar_7_Acolyte_Default	And?
 Narration/&BackgroundQuest_Acolyte_Rogar_8_Rogar_NPC	Emtan Darwaz ruled this monastery…
 Narration/&BackgroundQuest_Acolyte_Rogar_9_Rogar_NPC	He was a renowned prelate on Tirmar.
 Narration/&BackgroundQuest_Acolyte_Rogar_10_Rogar_NPC	The heads of the Church searched for him for years.
-Narration/&BackgroundQuest_Acolyte_Rogar_11_Rogar_NPC	Then he was thought to be lost, either left on the home world…
+Narration/&BackgroundQuest_Acolyte_Rogar_11_Rogar_NPC	Then he was considered to be lost, either left on the home world…
 Narration/&BackgroundQuest_Acolyte_Rogar_12_Rogar_NPC	…or killed in the Cataclysm.
 Narration/&BackgroundQuest_Acolyte_Rogar_13_Rogar_NPC	Now, we know he was alive - he buried his brothers and family in the Badlands!
 Narration/&BackgroundQuest_Acolyte_Rogar_14_Acolyte_Default	A sad tale, for sure.
@@ -3389,13 +3387,13 @@ Narration/&BackgroundQuest_Acolyte_Rogar_16_Rogar_NPC	I prayed for his soul, and
 Narration/&BackgroundQuest_Acolyte_Rogar_17_Acolyte_Default	A sign?
 Narration/&BackgroundQuest_Acolyte_Rogar_18_Rogar_NPC	Chaplain Darwaz' soul never joined Arun. It is trapped.
 Narration/&BackgroundQuest_Acolyte_Rogar_19_Rogar_NPC	He might have cursed his own symbol.
-Narration/&BackgroundQuest_Acolyte_Rogar_20_Rogar_NPC	The souls of his brothers also wander, somewhere in this land.
-Narration/&BackgroundQuest_Acolyte_Rogar_21_Rogar_NPC	Someone must go and cleanse their remains with holy water.
+Narration/&BackgroundQuest_Acolyte_Rogar_20_Rogar_NPC	The souls of his brothers too, wander, somewhere in this land.
+Narration/&BackgroundQuest_Acolyte_Rogar_21_Rogar_NPC	Someone needs to go and cleanse their remains with holy water.
 Narration/&BackgroundQuest_Acolyte_Rogar_22_Acolyte_Default	Will that suffice?
-Narration/&BackgroundQuest_Acolyte_Rogar_23_Rogar_NPC	Not if Emtan is indeed cursed - his soul will be too angry.
+Narration/&BackgroundQuest_Acolyte_Rogar_23_Rogar_NPC	Not if Emtan is indeed cursed, his soul will be too angry.
 Narration/&BackgroundQuest_Acolyte_Rogar_24_Rogar_NPC	Then you'll need to reason with him. I imbued his symbol with Arun's magic - use it as proof.
 Narration/&BackgroundQuest_Acolyte_Rogar_25_Acolyte_Default	And if he doesn't listen to reason? 
-Narration/&BackgroundQuest_Acolyte_Rogar_26_Rogar_NPC	Then - and only then - you will have to destroy him. 
+Narration/&BackgroundQuest_Acolyte_Rogar_26_Rogar_NPC	Then - and only then - should you destroy him. 
 Narration/&BackgroundQuest_Acolyte_Rogar_27_Acolyte_Default	We will do what is necessary.
 Narration/&BackgroundQuest_Acolyte_Rogar_28_Rogar_NPC	May Arun's fire warm your heart! 
 Narration/&BackgroundQuest_Acolyte_Rogar_29_Acolyte_Default	Clear skies!
@@ -3416,13 +3414,13 @@ Narration/&BackgroundQuest_Acolyte_MeetEmtan_3_Emtan_NPC	There are no gods in th
 Narration/&BackgroundQuest_Acolyte_MeetEmtan_4_Acolyte_Default	Do you truly believe that? 
 Narration/&BackgroundQuest_Acolyte_MeetEmtan_5_Emtan_NPC	Of course! Otherwise, they would have answered us in our hour of need! 
 Narration/&BackgroundQuest_Acolyte_MeetEmtan_5_Acolyte_Default	Did they not? 
-Narration/&BackgroundQuest_Acolyte_MeetEmtan_5b_Emtan_NPC	I prayed and no answer came!
+Narration/&BackgroundQuest_Acolyte_MeetEmtan_5b_Emtan_NPC	I prayed and never got an answer!
 Narration/&BackgroundQuest_Acolyte_MeetEmtan_6a_Acolyte_Default	Yes, it did!
 Narration/&BackgroundQuest_Acolyte_MeetEmtan_7a_Emtan_NPC	Liar!
 Narration/&BackgroundQuest_Acolyte_MeetEmtan_8a_Acolyte_Default	Did you not have water and the means to grow food?
 Narration/&BackgroundQuest_Acolyte_MeetEmtan_9a_Emtan_NPC	Barely!
 Narration/&BackgroundQuest_Acolyte_MeetEmtan_8b_Acolyte_Default	Were monsters not kept at bay from your valley?
-Narration/&BackgroundQuest_Acolyte_MeetEmtan_9b_Emtan_NPC	We heard them roaming around at night! 
+Narration/&BackgroundQuest_Acolyte_MeetEmtan_9b_Emtan_NPC	We heard them roam at night! 
 Narration/&BackgroundQuest_Acolyte_MeetEmtan_8c_Acolyte_Default	Weren't you spared the worst of the mana collapse?
 Narration/&BackgroundQuest_Acolyte_MeetEmtan_9c_Emtan_NPC	What?
 Narration/&BackgroundQuest_Acolyte_MeetEmtan_10_Acolyte_Default	And yet you survived how many years here? 
@@ -3458,7 +3456,7 @@ Narration/&Optional_Spy_Quest14_Anyother_Default	Look, if this is going to be a 
 Narration/&Optional_Spy_Quest15_Anyother_Default	I agree.
 Narration/&Optional_Spy_Quest16_Spy_Default	All right, then I'll need to see someone at the Gallivan embassy.
 Narration/&Optional_Spy_Quest17_Guard_NPC	Who goes there?
-Narration/&Optional_Spy_Quest18_Spy_Default	I'd like to see ambassador Crawley.
+Narration/&Optional_Spy_Quest18_Spy_Default	I'd like to see Ambassador Crawley.
 Narration/&Optional_Spy_Quest19_Guard_NPC	Council business?
 Narration/&Optional_Spy_Quest20_Spy_Default	Inaudible
 Narration/&Optional_Spy_Quest21_Guard_NPC	Follow me.
@@ -3624,7 +3622,7 @@ Narration/&Optional_Sellsword_Quest_Confrontation_4_AcademicOrElse_Normal	Is tha
 Narration/&Optional_Sellsword_Quest_Confrontation_5_AllanMiller_NPC	It's my job. An archive needs to be clear and legible!
 Narration/&Optional_Sellsword_Quest_Confrontation_6_Sellsword_Slang	Right - so your agents don't misunderstand your orders. Traitor!
 Narration/&Optional_Sellsword_Quest_Confrontation_7_AllanMiller_NPC	Ah, you're too smart for you own good.
-Narration/&Background_Sellsword_End_1_Ceannard_NPC	Ah - I was expecting you.
+Narration/&Background_Sellsword_End_1_Ceannard_NPC	Ah - I expected you.
 Narration/&Background_Sellsword_End_2_Sellsword_Default	Ceannard. 
 Narration/&Background_Sellsword_End_3_Ceannard_NPC	You know the truth. I hope you can forgive me.
 Narration/&Background_Sellsword_End_4_Ceannard_NPC	To think the Soraks were already here…
@@ -3633,7 +3631,7 @@ Narration/&Background_Sellsword_End_6_Sellsword_Default	It's in the past.
 Narration/&Background_Sellsword_End_7_Sellsword_Default	Though I'd like you to restore my family's name.
 Narration/&Background_Sellsword_End_8_Ceannard_NPC	The paperwork is under way.
 Narration/&Background_Sellsword_End_9_Ceannard_NPC	Their names will be on a memorial I intend to build.
-Narration/&Background_Sellsword_End_10_Sellsword_Default	Thank you.
+Narration/&Background_Sellsword_End_10_Sellsword_Default	Great thanks.
 Narration/&Background_Sellsword_End_11_Ceannard_NPC	Clear skies, my friends.
 Narration/&Optional_Academic_Quest_Start1_Bagmordah_NPC	Ah, there you are! Clear skies, my friends!
 Narration/&Optional_Academic_Quest_Start2_Bagmordah_NPC	Someone came to see you.
@@ -3941,7 +3939,7 @@ Narration/&Optional_Lawkeeper_Quest_Drunk79_Lawkeeper_Default	Why did you pick t
 Narration/&Optional_Lawkeeper_Quest_Drunk80_Drunk_NPC	Oh, this one? 
 Narration/&Optional_Lawkeeper_Quest_Drunk81_Drunk_NPC	Let me think. 
 Narration/&Optional_Lawkeeper_Quest_Drunk82_Drunk_NPC	This is for her Royal Highness, going through Captain Ironshell directly.
-Narration/&Optional_Lawkeeper_Quest_Drunk83_Drunk_NPC	I'm sure the Princess will appreciate you rummaging around her personal stuff.
+Narration/&Optional_Lawkeeper_Quest_Drunk83_Drunk_NPC	I'm sure the Princess will appreciate you rummaging through her personal stuff.
 Narration/&Optional_Lawkeeper_Quest_Drunk84_Drunk_NPC	As everyone knows, everything for her personal use is tax free.
 Narration/&Optional_Lawkeeper_Quest_Drunk85_Cynical_Default	I knew that.
 Narration/&Optional_Lawkeeper_Quest_Drunk86_Drunk_NPC	Ask the Captain. Go right ahead.
@@ -4055,7 +4053,7 @@ Narration/&Optional_Aristocrat_Quest_Ending27_Aristocrat_ChoiceE	I'll give Lyria
 Narration/&Optional_Aristocrat_Quest_Ending28_Aristocrat_ChoiceF	I'll give Drew the inheritance.
 Narration/&Optional_Aristocrat_Quest_Ending29_Aristocrat_ChoiceG	I'll give Adria the inheritance.
 Narration/&Optional_Aristocrat_Quest_Ending30_Lyria_NPC	Excellent!
-Narration/&Optional_Aristocrat_Quest_Ending31_Drew_NPC	By all the gods...
+Narration/&Optional_Aristocrat_Quest_Ending31_Drew_NPC	By all the gods…
 Narration/&Optional_Aristocrat_Quest_Ending32_Drew_NPC	Yes!
 Narration/&Optional_Aristocrat_Quest_Ending33_Lyria_NPC	What? Why?
 Narration/&Optional_Aristocrat_Quest_Ending34_Adria_NPC	Thank you! I'll share with you both, you know it.
@@ -4340,7 +4338,7 @@ Narration/&NecromancyQuest06_32_Mardracht_NPC	The very existence of Solasta must
 Narration/&NecromancyQuest06_33_Mardracht_NPC_Persuasion_25_Failure	Give me the Crown!
 Narration/&NecromancyQuest06_33_Mardracht_NPC_Persuasion_25_Failure2	This is no task for the likes of you!
 Narration/&NecromancyQuest06_34_Mardracht_NPC	I must find the other Masters! Give me the Crown!
-Narration/&NecromancyQuest06_35_Persuader_Normal	But… ?
+Narration/&NecromancyQuest06_35_Persuader_Normal	But…?
 Narration/&NecromancyQuest06_36_Mardracht_NPC	NOW!
 Narration/&NecromancyQuest06_37_Mardracht_NPC	This is what you came for.
 Narration/&NecromancyQuest06_38_Mardracht_NPC	Take it - and leave me alone!
@@ -4443,6 +4441,21 @@ Narration/&Necromancy_Observable_15_WeirdSigil5_Any_Default	It doesn't work? I w
 Narration/&Necromancy_Observable_15_WeirdSigil6_Any_Default	Don't. Just don't.
 Narration/&Necromancy_Observable_15_WeirdSigil7_Any_Default	Perhaps he made a *spelling* mistake!
 Narration/&Necromancy_Observable_15_WeirdSigil8_Any_Default	I hate you.
+Narration/&AbjurationObservable_Tombstone_01	Shallan Darwaz 2003 2015
+Narration/&AbjurationObservable_Tombstone_02	Arell Darwaz 1985 2012
+Narration/&AbjurationObservable_Tombstone_03	Raeghal Ylmaz 1995 2011
+Narration/&AbjurationObservable_Tombstone_04	Marduk Kaytor 1940 2012
+Narration/&AbjurationObservable_Tombstone_05	Rahel Isfran 1964 2014
+Narration/&AbjurationObservable_Tombstone_06	Elmar Emael 1980 2014
+Narration/&AbjurationObservable_Tombstone_07	Heysan Olfaz 1990 2014
+Narration/&AbjurationObservable_Tombstone_08	Giulay Olfaz 1950 2014
+Narration/&AbjurationObservable_Tombstone_09	Abail Ylmaz 1954 2011
+Narration/&AbjurationObservable_Tombstone_10	Elia Isfran 1999 2013
+Narration/&AbjurationObservable_Tombstone_11	Selin Kaytor 1945 2012
+Narration/&AbjurationObservable_Tombstone_12	Meran Olfaz 2010 2012
+Narration/&AbjurationObservable_Tombstone_13	Ethem Oezdegan 1990 2014
+Narration/&AbjurationObservable_Tombstone_14	Laila Oezdegan 1995 2014
+Narration/&AbjurationObservable_Tombstone_15	Emtan Darwaz 1980 - 
 Narration/&AbjurationQuest_Kythaela_1_Starter_Default	Only Solastan building in the neighborhood - that must be it! 
 Narration/&AbjurationQuest_Kythaela_2_Pragmatism_Default	Better be sure!
 Narration/&AbjurationQuest_Kythaela_3_Kythaela_NPC	Who art thou?
@@ -4990,9 +5003,9 @@ Narration/&AbjurationQuest_Kythaela_Gear_4_Kythaela_NPC	I… don't know. There i
 Narration/&AbjurationQuest_Kythaela_Gear_5_SarcasticOrElse_Normal	Is that another place?
 Narration/&AbjurationQuest_Kythaela_Gear_6_Kythaela_NPC	I… I'm not sure! I feel the pull returning!
 Narration/&AbjurationQuest_Kythaela_Gear_7_InsightOrElse_Normal	I guess we'll soon be on the road again, then.
-Narration/&AbjurationQuest_Kythaela_Gear_8_SarcasticOrElse_Normal	Visit exotic lands, meet interesting monsters, and kill them! 
+Narration/&AbjurationQuest_Kythaela_Gear_8_SarcasticOrElse_Normal	More monsters to kill… fantastic…
 Narration/&AbjurationQuest_Kythaela_Gear_9_PerceptionHighest_Normal	What about that door? Another secret from Imperial times?
-Narration/&AbjurationQuest_Kythaela_CoparannGateroom_1_ArcanaHighest_Normal	A Major Gate!
+Narration/&AbjurationQuest_Kythaela_CoparannGateroom_1_ArcanaHighest_Normal	A Major Gate! Captain Ironshell was right.
 Narration/&AbjurationQuest_Kythaela_CoparannGateroom_2_Sarcastic_Normal	About the cleanliness of the rooms in the Residence?
 Narration/&AbjurationQuest_Kythaela_CoparannGateroom_3_ArcanaHighest_Normal	About functional Gates, you dimwit!
 Narration/&AbjurationQuest_Kythaela_CoparannGateroom_4_Sarcastic_Normal	This dusty old room?   
@@ -5021,7 +5034,7 @@ Narration/&CradleOfFire_Arriving_5_Pragmatic_Default	We're deep in the Badlands,
 Narration/&CradleOfFire_Arriving_6_Selfpres_Default	You never know. Remember the Gem of Abjuration? 
 Narration/&CradleOfFire_Arriving_7_Selfpres_Default	The Crown's signal was just a decoy to find Kythaela.
 Narration/&CradleOfFire_Arriving_8_Default_Default	Look, is that an orc totem?
-Narration/&CradleOfFire_FindingKebra_9_Default_Default	An orc...woman?
+Narration/&CradleOfFire_FindingKebra_9_Default_Default	An orc… woman?
 Narration/&CradleOfFire_FindingKebra_10_Kill_CHOICE	Let's kill her!
 Narration/&CradleOfFire_FindingKebra_11_Save_CHOICE	We could save her.
 Narration/&CradleOfFire_FindingKebra_12_Leave_CHOICE	Let's move on.
@@ -5037,28 +5050,28 @@ Narration/&CradleOfFire_FindingKebra_21_Speak_Default	What's the risk, here? She
 Narration/&CradleOfFire_FindingKebra_22_Arcana_Default	She's a shaman. She could cast a spell on us.
 Narration/&CradleOfFire_FindingKebra_23_Pragmatic_Default	Maybe she knows something about the gem.
 Narration/&CradleOfFire_FindingKebra_24_Nosy_Default	To be honest, I'd like to know what happened here. Who killed all those orcs?
-Narration/&CradleOfFire_FindingKebra_25_Kebra_NPC	You...healed me?
+Narration/&CradleOfFire_FindingKebra_25_Kebra_NPC	You… healed me?
 Narration/&CradleOfFire_FindingKebra_26_Kebra_NPC	Why not kill me?
 Narration/&CradleOfFire_FindingKebra_27_Neutral_Choice	What happened?
 Narration/&CradleOfFire_FindingKebra_28_Friendly_CHOICE	Who are you?
 Narration/&CradleOfFire_FindingKebra_29_Pragmatic_CHOICE	Have you heard of a magic gem?
-Narration/&CradleOfFire_FindingKebra_30_Orcishspeaker_CHOICE	Trust us (in orcish)
+Narration/&CradleOfFire_FindingKebra_30_Orcishspeaker_CHOICE	Trust us. (in orcish)
 Narration/&CradleOfFire_FindingKebra_31_Pragmatic_Default	We'd like to know what happened here.
 Narration/&CradleOfFire_FindingKebra_32_Friendly_Default	What's your name?
-Narration/&CradleOfFire_FindingKebra_33_Kebra_NPC	Name is Kebra...
-Narration/&CradleOfFire_FindingKebra_34_Kebra_NPC	...shaman of Suncloud tribe.
+Narration/&CradleOfFire_FindingKebra_33_Kebra_NPC	Name is Kebra…
+Narration/&CradleOfFire_FindingKebra_34_Kebra_NPC	…shaman of Suncloud tribe.
 Narration/&CradleOfFire_FindingKebra_35_Pragmatic_Default	We're looking for a magic gem. Know anything about that?
 Narration/&CradleOfFire_FindingKebra_36_Kebra_NPC	Magic gem?
 Narration/&CradleOfFire_FindingKebra_37_Kebra_NPC	I heard stories of magic stones.
 Narration/&CradleOfFire_FindingKebra_38_Kebra_NPC	Old stories, orc never found any.
-Narration/&CradleOfFire_FindingKebra_39_Orcishspeaker_Default	nyark ami anda.
+Narration/&CradleOfFire_FindingKebra_39_Orcishspeaker_Default	Nyark ami anda.
 Narration/&CradleOfFire_FindingKebra_40_Kebra_NPC	A nyark who speaks orc!
 Narration/&CradleOfFire_FindingKebra_41_Kebra_NPC	Kebra like to know your story.
 Narration/&CradleOfFire_FindingKebra_42_Kebra_NPC	But this is not time for that.
 Narration/&CradleOfFire_FindingKebra_43_Kebra_NPC	My people. All dead.
 Narration/&CradleOfFire_FindingKebra_44_Kebra_NPC	Arrok did that.
 Narration/&CradleOfFire_FindingKebra_45_Kebra_NPC	Arrok is Redscar tribe shaman, powerful.
-Narration/&CradleOfFire_FindingKebra_46_Kebra_NPC	But so powerful... I not know.
+Narration/&CradleOfFire_FindingKebra_46_Kebra_NPC	But so powerful… I not know.
 Narration/&CradleOfFire_FindingKebra_47_Pragmatic_Default	Other orcs did this?
 Narration/&CradleOfFire_FindingKebra_48_Kebra_NPC	Many tribes in the Cradle of Fire, always fighting.
 Narration/&CradleOfFire_FindingKebra_49_Kebra_NPC	Arrok always ambitious.
@@ -5070,8 +5083,8 @@ Narration/&CradleOfFire_FindingKebra_54_Pragmatic_Default	New power? You said Ar
 Narration/&CradleOfFire_FindingKebra_55_Kebra_NPC	Orc name for volcano.
 Narration/&CradleOfFire_FindingKebra_56_Kebra_NPC	Down there, the fire was born.
 Narration/&CradleOfFire_FindingKebra_57_Kebra_NPC	Arrok came to Suncloud, told our chieftain Brok to bend the knee.
-Narration/&CradleOfFire_FindingKebra_58_Kebra_NPC	Brok said no. Arrok burned... everyone. Took Brok prisoner.
-Narration/&CradleOfFire_FindingKebra_59_Kebra_NPC	Huge balls of fire from his hands. Many-many flames.
+Narration/&CradleOfFire_FindingKebra_58_Kebra_NPC	Brok said no. Arrok burned… everyone. Took Brok prisoner.
+Narration/&CradleOfFire_FindingKebra_59_Kebra_NPC	Huge balls of fire from his hands. Many, many flames.
 Narration/&CradleOfFire_FindingKebra_60_Kebra_NPC	Never seen orc shaman so powerful.
 Narration/&CradleOfFire_FindingKebra_61_Kebra_NPC	Arrok said he found power in Cradle of Fire, heart of mountain.
 Narration/&CradleOfFire_FindingKebra_62_Pragmatic_Default	Are you thinking what I'm thinking?
@@ -5093,12 +5106,12 @@ Narration/&CradleOfFire_Entrance_7_Stealthy_Default	Or sneak around.
 Narration/&CradleOfFire_Entrance_1_Arbal_NPC	Kebra.
 Narration/&CradleOfFire_Entrance_2_Arbal_NPC	Good you not dead.
 Narration/&CradleOfFire_Entrance_5_Cynical_CHOICE	Nice to meet you too.
-Narration/&CradleOfFire_Entrance_6_Orcishspeaker_CHOICE	We're friends, strong Arbal (in orcish)
+Narration/&CradleOfFire_Entrance_6_Orcishspeaker_CHOICE	We're friends, strong Arbal. (in orcish)
 Narration/&CradleOfFire_Entrance_7_Pragmatic_CHOICE	Is there any way we can get in?
 Narration/&CradleOfFire_Entrance_8_Intimidation_CHOICE	Move away or you die.
 Narration/&CradleOfFire_Entrance_9_Cynical_Default	Nice to meet you too, Arbal.
 Narration/&CradleOfFire_Entrance_11_Cynical_Default	Please yourself.
-Narration/&CradleOfFire_Entrance_12_Intimidation_Default	You should step step away before we kill you.
+Narration/&CradleOfFire_Entrance_12_Intimidation_Default	You should step away before we kill you.
 Narration/&CradleOfFire_Entrance_14_Orcishspeaker_Default	Nyark ami anda, Karko Arbal.
 Narration/&CradleOfFire_Entrance_16_Pragmatic_Default	Is there any way we can get in?
 Narration/&CradleOfFire_Entrance_17_Arbal_NPC	To kill orcs inside? Think not.
@@ -5120,11 +5133,11 @@ Narration/&CradleOfFire_Entrance_30_Cynical_Default	Such poetic names! I'm quite
 Narration/&CradleOfFire_Entrance_30_Friendly_Default	Brok alive? After fighting Arrok?
 Narration/&CradleOfFire_Entrance_31_Arbal_NPC	Brok not want to die. Plenty tough.
 Narration/&CradleOfFire_Entrance_32_Arbal_NPC	Arrok put him on display in market.
-Narration/&CradleOfFire_Entrance_33_Default_Default	So if we could free him, Suncloud would...not be dead anymore?
+Narration/&CradleOfFire_Entrance_33_Default_Default	So if we could free him, Suncloud would… not be dead anymore?
 Narration/&CradleOfFire_Entrance_34_Arbal_NPC	Two-orc tribe? Ha! Plenty strong, that tribe! Ha, ha!
 Narration/&CradleOfFire_Entrance_35_Persuasion_CHOICE	Let's go and free this Brok.
 Narration/&CradleOfFire_Entrance_36_Deception_CHOICE	Brok owes us. We want to get paid!
-Narration/&CradleOfFire_Entrance_37_Orcish_CHOICE	We'll save Brok (in orcish)
+Narration/&CradleOfFire_Entrance_37_Orcish_CHOICE	We'll save Brok. (in orcish)
 Narration/&CradleOfFire_Entrance_38_Persuasion_Default	So, can we go free Brok?
 Narration/&CradleOfFire_Entrance_39_Deception_Default	Brok owes us some gold. We just want him to pay.
 Narration/&CradleOfFire_Entrance_40_Orcish_Default	Nyark liber Brok vantu?
@@ -5146,7 +5159,7 @@ Narration/&CradleOfFire_SavedBrok_2_Kebra_NPC	Alive. These nyarks helped me, Bro
 Narration/&CradleOfFire_SavedBrok_3_Brok_NPC	Why? Nyarks hate orcs.
 Narration/&CradleOfFire_SavedBrok_4_Kebra_NPC	They want Arrok. His power.
 Narration/&CradleOfFire_SavedBrok_5_Brok_NPC	Orcs and nyarks not friends.
-Narration/&CradleOfFire_SavedBrok_6_Brok_NPC	But Arrok... he bring doom to Cradle of Fire. All tribes.
+Narration/&CradleOfFire_SavedBrok_6_Brok_NPC	But Arrok… he bring doom to Cradle of Fire. All tribes.
 Narration/&CradleOfFire_SavedBrok_7_Nosy_CHOICE	Tell us about Arrok.
 Narration/&CradleOfFire_SavedBrok_8_Selfpres_CHOICE	How did one orc destroy your tribe?
 Narration/&CradleOfFire_SavedBrok_9_Pragmatic_CHOICE	Can you help us get to Arrok?
@@ -5162,7 +5175,7 @@ Narration/&CradleOfFire_SavedBrok_18_Pragmatic_Default	We'd like to meet this Ar
 Narration/&CradleOfFire_SavedBrok_19_Brok_NPC	Help kill Arrok. Yes.
 Narration/&CradleOfFire_SavedBrok_20_Brok_NPC	Arrok behind Redscar Gate, in sunken city.
 Narration/&CradleOfFire_SavedBrok_21_Brok_NPC	Arrok and Redscar hard to fight. Need all tribes together.
-Narration/&CradleOfFire_SavedBrok_22_Nosy_CHOICE	What is this Sunken City?
+Narration/&CradleOfFire_SavedBrok_22_Nosy_CHOICE	What is this sunken city?
 Narration/&CradleOfFire_SavedBrok_23_Selfpres_CHOICE	Can't we just kill him?
 Narration/&CradleOfFire_SavedBrok_24_Pragmatic_CHOICE	So, what's your idea?
 Narration/&CradleOfFire_SavedBrok_25_Pragmatic_Default	What do you mean, need all tribes?
@@ -5181,25 +5194,25 @@ Narration/&CradleOfFire_SavedBrok_37_Brok_NPC	Maybe Brok leader instead of Arrok
 Narration/&CradleOfFire_SavedBrok_38_Brok_NPC	If you help, tribes follow Brok.
 Narration/&CradleOfFire_SavedBrok_39_Cynical_Default	Help you become the new big man in the volcano? You're smart.
 Narration/&CradleOfFire_SavedBrok_40_Brok_NPC	Go. Tell other tribe leaders, Brok say all tribes fight Arrok together.
-Narration/&CradleOfFire_SavedBrok_41_Cynical_Default	Making friends with hordes of orcs...  what could possibly go wrong?
+Narration/&CradleOfFire_SavedBrok_41_Cynical_Default	Making friends with hordes of orcs… what could possibly go wrong?
 Narration/&CradleOfFire_SavedBrok_42_Authority_Default	If we must, we will.
 Narration/&CradleOfFire_SavedBrok_43_Pragmatic_Default	So it's deeper into the caves?
-Narration/&CradleOfFire_SavedBrok_44_Joker_Default	Heart of the mountain... sounds charming. I'm in!
+Narration/&CradleOfFire_SavedBrok_44_Joker_Default	Heart of the mountain… sounds charming. I'm in!
 Narration/&CradleOfFire_SavedBrok_45_Carver_Default	I like caves.
 Narration/&CradleOfFire_Bloodspear_1_Nosy_Default	What's the flag?
 Narration/&CradleOfFire_Bloodspear_2_Kebra_NPC	Bloodspear. Warriors.
 Narration/&CradleOfFire_Bloodspear_3_History_Default	Aren't all orcs warriors?
 Narration/&CradleOfFire_Bloodspear_4_Brok_NPC	Bloodspear chief Edrof. A champion.
-Narration/&CradleOfFire_Bloodspear_5_Pragmatic_Default	So what's the plan?
+Narration/&CradleOfFire_Bloodspear_5_Pragmatic_Default	So, what's the plan?
 Narration/&CradleOfFire_Bloodspear_6_Brok_NPC	Edrof respect only strength.
 Narration/&CradleOfFire_Bloodspear_7_Brok_NPC	He supported Arrok the powerful. 
 Narration/&CradleOfFire_Bloodspear_8_Brok_NPC	You defeat him in arena, I turn Bloodspear against Arrok.
 Narration/&CradleOfFire_Bloodspear_9_Pragmatic_Default	You mean take control of his tribe?
 Narration/&CradleOfFire_Bloodspear_10_Brok_NPC	Who else? Even without Edrof, Bloodspear never follow nyarks.
-Narration/&CradleOfFire_Bloodspear_11_Joker_Default	Nyarks. That's us, just so you know. Probably means piece of...
-Narration/&CradleOfFire_Bloodspear_12_Orcish_Default	...It means non-orcs, that's all.
+Narration/&CradleOfFire_Bloodspear_11_Joker_Default	Nyarks. That's us, just so you know. Probably means piece of…
+Narration/&CradleOfFire_Bloodspear_12_Orcish_Default	…It means non-orcs, that's all.
 Narration/&CradleOfFire_Bloodspear_13_Joker_Default	You speak orcish?
-Narration/&CradleOfFire_Bloodspear_14_Orcish_Default	Enough to know non-orc from piece of...
+Narration/&CradleOfFire_Bloodspear_14_Orcish_Default	Enough to know non-orc from piece of…
 Narration/&CradleOfFire_Bloodspear_15_Joker_Default	Really? Oh, please, what's the word? I must know!
 Narration/&CradleOfFire_Bloodspear_16_Orcish_Default	Stop it. Just stop.
 Narration/&CradleOfFire_BloodspearMeeting_1_Edrof_NPC	Brok alive? Why nyarks?
@@ -5237,24 +5250,24 @@ Narration/&CradleOfFire_BloodspearBeaten_18_Choice2_Default	Seriously, can't we 
 Narration/&CradleOfFire_BloodspearBeaten_19_Brok_NPC	Arrok has many warriors. We need all tribes.
 Narration/&CradleOfFire_BloodspearBeaten_20_Brok_NPC	But if you not trust Brok, go find Arrok and see.
 Narration/&CradleOfFire_BloodspearBeaten_21_Choice3_Default	Fine, let's go.
-Narration/&CradleOfFire_Bladefang_1_Default_Default	This place is…different.
+Narration/&CradleOfFire_Bladefang_1_Default_Default	This place is… different.
 Narration/&CradleOfFire_Bladefang_2_history_Default	Half Manacalon, half orc, all crazy.
 Narration/&CradleOfFire_Bladefang_3_Violent_Default	Another tribe we need to make friends with?
-Narration/&CradleOfFire_Bladefang_4_acolyte_Default	Converting them seems unlikely, so...
+Narration/&CradleOfFire_Bladefang_4_acolyte_Default	Converting them seems unlikely, so…
 Narration/&CradleOfFire_Bladefang_5_Kebra_NPC	Bladefang is tribe of faithful.
 Narration/&CradleOfFire_Bladefang_6_Kebra_NPC	They worship relics of times before.
 Narration/&CradleOfFire_Bladefang_7_Default_Default	Meaning… before the Cataclysm?
-Narration/&CradleOfFire_Bladefang_8_History_Default	I don't think the Manacalons  would be friendly with orcs.
+Narration/&CradleOfFire_Bladefang_8_History_Default	I don't think the Manacalons would be friendly with orcs.
 Narration/&CradleOfFire_Bladefang_9_Carver_Default	They weren't even friendly with their own mothers.
 Narration/&CradleOfFire_Bladefang_10_Kebra_NPC	Bladefang shaman build cult with relics. Treats old stones like holy.
-Narration/&CradleOfFire_Bladefang_11_Cynical_Default	Just like the antiquarians. We should introduce them to Halman Summer.
+Narration/&CradleOfFire_Bladefang_11_Cynical_Default	Just like the Antiquarians. We should introduce them to Halman Summer.
 Narration/&CradleOfFire_Bladefang_12_Pragmatic_Default	So what's the trick this time?
-Narration/&CradleOfFire_Bladefang_13_Kebra_NPC	The crown. It will impress.
-Narration/&CradleOfFire_Bladefang_14_Selfpres_Default	What do you know about our crown?
+Narration/&CradleOfFire_Bladefang_13_Kebra_NPC	The Crown. It will impress.
+Narration/&CradleOfFire_Bladefang_14_Selfpres_Default	What do you know about our Crown?
 Narration/&CradleOfFire_Bladefang_15_Kebra_NPC	Ancient power. Feel it. Very strong.
 Narration/&CradleOfFire_Bladefang_16_Nosy_Default	You can feel its power?
-Narration/&CradleOfFire_Bladefang_17_Kebra_NPC	Orc shamans can detect magic like you...
-Narration/&CradleOfFire_Bladefang_18_Pragmatic_Default	Of course...
+Narration/&CradleOfFire_Bladefang_17_Kebra_NPC	Orc shamans can detect magic like you…
+Narration/&CradleOfFire_Bladefang_18_Pragmatic_Default	Of course…
 Narration/&CradleOfFire_Bladefang_19_Kebra_NPC	I know shaman wants something found.
 Narration/&CradleOfFire_Bladefang_20_Any_Default	Fine, let's go.
 Narration/&CradleOfFire_BladefangMeeting_1_Radulf_NPC	Stop, Kebra!
@@ -5271,14 +5284,14 @@ Narration/&CradleOfFire_BladefangMeeting_11_Kebra_NPC	Nyarks have stones of powe
 Narration/&CradleOfFire_BladefangMeeting_12_Radulf_NPC	Bladefang not follow Brok - yet.
 Narration/&CradleOfFire_BladefangMeeting_13_Radulf_NPC	Nyarks prove power first.
 Narration/&CradleOfFire_BladefangMeeting_14_Radulf_NPC	Bring back the holy axe of the ancients.
-Narration/&CradleOfFire_BladefangMeeting_15_Kebra_NPC	Can't ask that! Kralshe-renn's have holy axe in lair.
-Narration/&CradleOfFire_BladefangMeeting_16_Radulf_NPC	If nyarks have power to defeat Arrok...
-Narration/&CradleOfFire_BladefangMeeting_17_Radulf_NPC	...then nyarks can kill Kralshe-renn.
-Narration/&CradleOfFire_BladefangMeeting_18_Orcish_Default	Kralshe-renn means 'old queen'
+Narration/&CradleOfFire_BladefangMeeting_15_Kebra_NPC	Can't ask that! Kralshe-Renn has holy axe in lair.
+Narration/&CradleOfFire_BladefangMeeting_16_Radulf_NPC	If nyarks have power to defeat Arrok…
+Narration/&CradleOfFire_BladefangMeeting_17_Radulf_NPC	…then nyarks can kill Kralshe-Renn.
+Narration/&CradleOfFire_BladefangMeeting_18_Orcish_Default	Kralshe-Renn means 'Old Queen'
 Narration/&CradleOfFire_BladefangMeeting_19_Cynical_Default	Everything's about old stuff around here, isn't it?
 Narration/&CradleOfFire_BladefangMeeting_20_Radulf_NPC	Also, beware of gaks.
 Narration/&CradleOfFire_BladefangMeeting_21_Default_Default	The what?
-Narration/&CradleOfFire_BladefangMeeting_22_Orcish_Default	That means...skin...less?
+Narration/&CradleOfFire_BladefangMeeting_22_Orcish_Default	That means… skin…less?
 Narration/&CradleOfFire_BladefangMeeting_23_Violent_Default	Skinless? Wait? Soraks? They're here, too?
 Narration/&CradleOfFire_BladefangMeeting_24_Selfpres_Default	No surprise there. They're after the gems too, remember?
 Narration/&CradleOfFire_BladefangMeeting_25_Pragmatic_Default	Can they impersonate orcs?
@@ -5289,15 +5302,15 @@ Narration/&CradleOfFire_BladefangMeeting_29_Radulf_NPC	Praise be.
 Narration/&CradleOfFire_BladefangMeeting_30_Cynical_Default	He sounds like Beric Sunblaze.
 Narration/&CradleOfFire_BladefangMeeting_31_Einar_Default	Don't.
 Narration/&CradleOfFire_BladefangMeeting_32_Cynical_Default	It was a compliment.
-Narration/&CradleOfFire_BladefangQuest_1_Choice1_WRITTEN	Who's the old queen?
+Narration/&CradleOfFire_BladefangQuest_1_Choice1_WRITTEN	Who's the Old Queen?
 Narration/&CradleOfFire_BladefangQuest_2_Choice2_WRITTEN	What's the holy axe?
 Narration/&CradleOfFire_BladefangQuest_3_Choice3_WRITTEN	Let's go.
-Narration/&CradleOfFire_BladefangQuest_4_Choice1_Default	So, who's this old queen?
+Narration/&CradleOfFire_BladefangQuest_4_Choice1_Default	So, who's this Old Queen?
 Narration/&CradleOfFire_BladefangQuest_5_Kebra_NPC	Monster. Strong. Hates light.
 Narration/&CradleOfFire_BladefangQuest_6_Selfpres_Default	What kind of monster?
 Narration/&CradleOfFire_BladefangQuest_7_Kebra_NPC	Do not know. Plenty go after holy axe, no one comes back to tell.
-Narration/&CradleOfFire_BladefangQuest_8_Selfpres_Default	Encouraging...
-Narration/&CradleOfFire_BladefangQuest_9_Selfpres_Default	About this so-called holy axe...what is it?
+Narration/&CradleOfFire_BladefangQuest_8_Selfpres_Default	Encouraging…
+Narration/&CradleOfFire_BladefangQuest_9_Selfpres_Default	About this so-called holy axe… what is it?
 Narration/&CradleOfFire_BladefangQuest_10_Kebra_NPC	Holy axe was of ancestor of orcs, legend says, brought from the Endless Range.
 Narration/&CradleOfFire_BladefangQuest_11_ChoiceA_WRITTEN	Ancestors?
 Narration/&CradleOfFire_BladefangQuest_12_ChoiceB_WRITTEN	Endless Range?
@@ -5311,9 +5324,9 @@ Narration/&CradleOfFire_BladefangQuest_19_Default_Default	Orcs were Tirmarian?
 Narration/&CradleOfFire_BladefangQuest_20_History_Default	No.
 Narration/&CradleOfFire_BladefangQuest_21_Any_Default	We don't have time for historical debates.
 Narration/&CradleOfFire_BladefangQuest_22_ChoiceC_Default	We know enough.
-Narration/&CradleOfFire_BladefangQuest_23_Choice3_Default	Let's find this old queen, then.
+Narration/&CradleOfFire_BladefangQuest_23_Choice3_Default	Let's find this Old Queen, then.
 Narration/&CradleOfFire_OldQueen_01_1_Default_NPC	Webs?
-Narration/&CradleOfFire_OldQueen_01_2_Selfpres_NPC	Oh, no? That's what the old queen is? Another spider?
+Narration/&CradleOfFire_OldQueen_01_2_Selfpres_NPC	Oh, no? That's what the Old Queen is? Another spider?
 Narration/&CradleOfFire_OldQueen_01_3_Violent_Default	We can deal with a spider.
 Narration/&CradleOfFire_OldQueen_01_4_Default_Default	Even two.
 Narration/&CradleOfFire_OldQueen_01_5_Violent_Default	But a very, very big deep spider.
@@ -5326,9 +5339,9 @@ Narration/&CradleOfFire_OldQueen_02_4_Default_Default	And it has anti-light magi
 Narration/&CradleOfFire_OldQueen_02_5_Selfpres_Default	This is insane! Let's go back!
 Narration/&CradleOfFire_OldQueen_02_6_Selfpres_Default	I'd rather kill all the orcs in that damned volcano than walk down this spider pit in the pitch dark.
 Narration/&CradleOfFire_OldQueen_02_7_Pragmatic_Default	There has to be a way.
-Narration/&CradleOfFire_OldQueen_03_1_Cynical_Default	I promise, I'll never scoff again at 'anything is possible in the Badlands'.
+Narration/&CradleOfFire_OldQueen_03_1_Cynical_Default	I promise I'll never scoff at 'anything is possible in the Badlands' again.
 Narration/&CradleOfFire_OldQueen_03_2_Pragmatic_Default	At least we got it.
-Narration/&CradleOfFire_OldQueen_03_3_Pragmatic_Default	Hopefully that means another orc tribe behind us.
+Narration/&CradleOfFire_OldQueen_03_3_Pragmatic_Default	Hopefully, that means another orc tribe behind us.
 Narration/&CradleOfFire_OldQueen_03_4_Greed_Default	You really want to give up this axe?
 Narration/&CradleOfFire_OldQueen_03_5_Greed_Default	Look at it? it's a masterpiece!
 Narration/&CradleOfFire_OldQueen_03_6_Nosy_Default	Tirmarian smiths were just as good as the elves of Manacalon!
@@ -5336,16 +5349,16 @@ Narration/&CradleOfFire_OldQueen_03_7_Nosy_Default	This axe is fantastic!
 Narration/&CradleOfFire_OldQueen_03_8_Greed_Default	I say we keep it.
 Narration/&CradleOfFire_OldQueen_03_9_Authority_Default	The gem's more important - and to get that, we need to give the axe to Bladefang.
 Narration/&CradleOfFire_OldQueen_04_1_Radulf_NPC	Brok is back with nyarks?
-Narration/&CradleOfFire_OldQueen_04_2_Radulf_NPC	Have the...
+Narration/&CradleOfFire_OldQueen_04_2_Radulf_NPC	Have the…
 Narration/&CradleOfFire_OldQueen_04_3_WRITTEN_Pragmatic	Here, your axe.
 Narration/&CradleOfFire_OldQueen_04_4_WRITTEN_Greed	We'll keep it.
 Narration/&CradleOfFire_OldQueen_04_5_Pragmatic_Default	Here it is, your holy axe.
 Narration/&CradleOfFire_OldQueen_04_6_Radulf_NPC	I knew it was real!
-Narration/&CradleOfFire_OldQueen_04_7_Radulf_NPC	It is magnificient.
+Narration/&CradleOfFire_OldQueen_04_7_Radulf_NPC	It is magnificent.
 Narration/&CradleOfFire_OldQueen_04_8_Cynical_Default	Nice vocabulary.
 Narration/&CradleOfFire_OldQueen_04_9_Radulf_NPC	You made Bladefang more powerful than ever!
 Narration/&CradleOfFire_OldQueen_04_10_Radulf_NPC	We follow you against Arrok!
-Narration/&CradleOfFire_OldQueen_04_11_Greed_Default	It was too hard to get it, it's ours, now.
+Narration/&CradleOfFire_OldQueen_04_11_Greed_Default	It was too hard to get it, it's ours now.
 Narration/&CradleOfFire_OldQueen_04_12_Radulf_NPC	But axe is orc inheritance.
 Narration/&CradleOfFire_OldQueen_04_13_Greed_Default	It's Tirmarian, not orc.
 Narration/&CradleOfFire_OldQueen_04_14_Radulf_NPC	Pah! Should know better than trust nyarks!
@@ -5353,9 +5366,9 @@ Narration/&CradleOfFire_OldQueen_04_15_Radulf_NPC	Leave Bladefang. Now.
 Narration/&CradleOfFire_SandRaven_1_Default_Default	Look at that! Another library!
 Narration/&CradleOfFire_SandRaven_2_Default2_Default	It looks very like the tower where we found the Crown.
 Narration/&CradleOfFire_SandRaven_3_History_Default	But it's makeshift, not Manacalon.
-Narration/&CradleOfFire_SandRaven_4_Kebra_NPC	Home of Sandraven, and shaman Urka.
+Narration/&CradleOfFire_SandRaven_4_Kebra_NPC	Home of Sandraven, and Shaman Urka.
 Narration/&CradleOfFire_SandRaven_5_Nosy_WRITTEN	Why the Manacalon style?
-Narration/&CradleOfFire_SandRaven_6_Pragmatic_WRITTEN	Tell us about Sandraven tribe.
+Narration/&CradleOfFire_SandRaven_6_Pragmatic_WRITTEN	Tell us about the Sandraven tribe.
 Narration/&CradleOfFire_SandRaven_7_Authority_WRITTEN	Let's go.
 Narration/&CradleOfFire_SandRaven_8_Nosy_Default	Why is this place made of Manacalon remnants?
 Narration/&CradleOfFire_SandRaven_9_Kebra_NPC	Urka very wise shaman.
@@ -5369,7 +5382,7 @@ Narration/&CradleOfFire_SandRaven_16_Kebra_NPC	But his tribe can fight, useful f
 Narration/&CradleOfFire_SandRaven_17_Authority_Default	Let's do this. I think they've seen us, anyway.
 Narration/&CradleOfFire_SandRaven_18_Urka_NPC	Kebra?
 Narration/&CradleOfFire_SandRaven_19_Urka_NPC	I thought you were dead.
-Narration/&CradleOfFire_SandRaven_20_Urka_NPC	Who are your nyark... friends?
+Narration/&CradleOfFire_SandRaven_20_Urka_NPC	Who are your nyark… friends?
 Narration/&CradleOfFire_SandRaven_21_Kebra_NPC	They help me and Brok. We gather all tribes against Arrok.
 Narration/&CradleOfFire_SandRaven_22_Urka_NPC	Oh, Arrok.
 Narration/&CradleOfFire_SandRaven_23_Authority_Default	Urka, eh?
@@ -5379,10 +5392,10 @@ Narration/&CradleOfFire_SandRaven_26_Urka_NPC	Hmmm. First, bring me the key to t
 Narration/&CradleOfFire_SandRaven_27_Authority_Default	What's that?
 Narration/&CradleOfFire_SandRaven_28_Urka_NPC	Down in the Cradle of Fire is a Manacalon city called Sentharyllian.
 Narration/&CradleOfFire_SandRaven_29_Urka_NPC	It melted into the mountain, since the Great Collapse.
-Narration/&CradleOfFire_SandRaven_30_Urka_NPC	But Arrok... he found it first.
+Narration/&CradleOfFire_SandRaven_30_Urka_NPC	But Arrok… he found it first.
 Narration/&CradleOfFire_SandRaven_31_Urka_NPC	Found his stone of power there.
-Narration/&CradleOfFire_SandRaven_32_Urka_NPC	Now, no one can enter, unless...
-Narration/&CradleOfFire_SandRaven_33_Urka_NPC	...unless you go through the necropolis.
+Narration/&CradleOfFire_SandRaven_32_Urka_NPC	Now, no one can enter, unless…
+Narration/&CradleOfFire_SandRaven_33_Urka_NPC	…unless you go through the Necropolis.
 Narration/&CradleOfFire_SandRaven_34_Urka_NPC	Find the Emperor's key.
 Narration/&CradleOfFire_SandRaven_35_Urka_NPC	Bring it back to me, and my tribe will support Suncloud.
 Narration/&CradleOfFire_SandRaven_36_Choice1_WRITTEN	It's a deal!
@@ -5396,13 +5409,13 @@ Narration/&CradleOfFire_SandRaven_43_Urka_NPC	It is said that the Emperor was bu
 Narration/&CradleOfFire_SandRaven_44_Urka_NPC	So find his tomb and bring me the key.
 Narration/&CradleOfFire_SandRaven_45_Choice2_Default	Why do you want that key if Arrok is already inside the city?
 Narration/&CradleOfFire_SandRaven_46_Urka_NPC	Arrok only found a part of the city.
-Narration/&CradleOfFire_SandRaven_47_Urka_NPC	The key will open many more rooms... to me.
+Narration/&CradleOfFire_SandRaven_47_Urka_NPC	The key will open many more rooms… to me.
 Narration/&CradleOfFire_SandRaven_48_Choice1_Default	All right, we'll bring you the key.
-Narration/&CradleOfFire_Necropolis_Entrance_1_Default_Default	I think that's the necropolis.
+Narration/&CradleOfFire_Necropolis_Entrance_1_Default_Default	I think that's the Necropolis.
 Narration/&CradleOfFire_Necropolis_Entrance_2_Selfpres_Default	Orcs don't go there? I really can't see why.
 Narration/&CradleOfFire_Necropolis_Entrance_3_Authority_Default	Let's go find this key.
 Narration/&CradleOfFire_Necropolis_Hall_1_Default_Default	That's a change of mood.
-Narration/&CradleOfFire_Necropolis_Hall_2_Nosy_Default	Fantastic! It's like travelling back in time, a thousand years!
+Narration/&CradleOfFire_Necropolis_Hall_2_Nosy_Default	Fantastic! It's like traveling back in time a thousand years!
 Narration/&CradleOfFire_Necropolis_Hall_3_Selfpres_Default	Well, it still stinks of sulfur.
 Narration/&CradleOfFire_Necropolis_Map_1_Default_Default	So far, this looks more like a museum than a crypt.
 Narration/&CradleOfFire_Necropolis_Map_2_History_Default	Manacalon custom. The tombs of the powerful have a hall of honor before the burial chamber.
@@ -5414,10 +5427,10 @@ Narration/&CradleOfFire_Necropolis_Map_7_Pragmatic_Default	Maybe it's buried, li
 Narration/&CradleOfFire_Necropolis_Map_8_Authority_Default	Let's put that on our map - maybe someday we can go check it out.
 Narration/&CradleOfFire_Necropolis_Statue01_1_History_Default	We have our answer - this isn't just any tomb.
 Narration/&CradleOfFire_Necropolis_Statue01_2_Cynical_Default	Yeah, it's a damned Imperial slaver's tomb.
-Narration/&CradleOfFire_Necropolis_Statue01_3_Lawful_Default	We know...
+Narration/&CradleOfFire_Necropolis_Statue01_3_Lawful_Default	We know…
 Narration/&CradleOfFire_Necropolis_Statue01_4_History_Default	This one was Laethar Aerlinn, first of his name.
 Narration/&CradleOfFire_Necropolis_Statue01_5_Pragmatic_Default	In the middle of the Badlands, and not in the capital city? That's weird.
-Narration/&CradleOfFire_Necropolis_Statue01_6_History_Default	It might have been displaced during the Cataclysm, and sunk down here. 
+Narration/&CradleOfFire_Necropolis_Statue01_6_History_Default	It might have been displaced during the Cataclysm and sunk down here. 
 Narration/&CradleOfFire_Necropolis_Statue01_7_Lawful_Default	I would have expected something bigger, fancier.
 Narration/&CradleOfFire_Necropolis_Statue01_8_Cynical_Default	Maybe he was a modest Emperor - if such a thing's possible.
 Narration/&CradleOfFire_Necropolis_Statue01_9_Authority_Default	We still need to find an entrance to the city. Let's go!
@@ -5429,15 +5442,15 @@ Narration/&CradleOfFire_Necropolis_Statue03_1_History_Default	Queen Saefinala, d
 Narration/&CradleOfFire_Necropolis_Statue03_2_Cynical_Default	Cute.
 Narration/&CradleOfFire_Necropolis_Statue03_3_Lawful_Default	Show some respect.
 Narration/&CradleOfFire_Necropolis_Statue03_4_Carver_Default	Slavers, the whole lot of them.
-Narration/&CradleOfFire_Necropolis_EmperorGhost_1_Ghost_NPC	Who dares disturb the eternal rest of the Emperor Laethar?
+Narration/&CradleOfFire_Necropolis_EmperorGhost_1_Ghost_NPC	Who dares disturb the eternal rest of Emperor Laethar?
 Narration/&CradleOfFire_Necropolis_EmperorGhost_2_Default_WRITTENONLY	We mean no disrespect.
 Narration/&CradleOfFire_Necropolis_EmperorGhost_3_Deception_WRITTENONLY	We got lost.
 Narration/&CradleOfFire_Necropolis_EmperorGhost_4_Persuasion_WRITTENONLY	We're clearing your city of orcs.
 Narration/&CradleOfFire_Necropolis_EmperorGhost_5_Intimidation_WRITTENONLY	We go where we like.
-Narration/&CradleOfFire_Necropolis_EmperorGhost_6_Intimidation_Answer01	This isn't your world any more - we can go wherever we like!
+Narration/&CradleOfFire_Necropolis_EmperorGhost_6_Intimidation_Answer01	This isn't your world anymore - we can go wherever we like!
 Narration/&CradleOfFire_Necropolis_EmperorGhost_7_Ghost_NPC	Fool!
 Narration/&CradleOfFire_Necropolis_EmperorGhost_8_Ghost_NPC	Your souls will never leave this tomb!
-Narration/&CradleOfFire_Necropolis_EmperorGhost_9_Persuasion_Answer02	You city is infested by orcs. We're here to clean it up.
+Narration/&CradleOfFire_Necropolis_EmperorGhost_9_Persuasion_Answer02	Your city is infested with orcs. We're here to clean it up.
 Narration/&CradleOfFire_Necropolis_EmperorGhost_10_Ghost_NPC	What are orcs?
 Narration/&CradleOfFire_Necropolis_EmperorGhost_11_Cynical_Default	Smart move!
 Narration/&CradleOfFire_Necropolis_EmperorGhost_12_Persuasion_Default	Evil monsters. They're desecrating your city.
@@ -5446,15 +5459,15 @@ Narration/&CradleOfFire_Necropolis_EmperorGhost_14_Ghost_NPC	Lies of a tomb robb
 Narration/&CradleOfFire_Necropolis_EmperorGhost_15_Default_Answer04	We mean no disrespect.
 Narration/&CradleOfFire_Necropolis_EmperorGhost_16_Ghost_NPC	Then what do you mean?
 Narration/&CradleOfFire_Necropolis_EmperorGhost_17_Ghost_NPC	Monsters, you say? 
-Narration/&CradleOfFire_Necropolis_EmperorGhost_18_Ghost_NPC	Clearly you are runaway slaves. You will be punished!
+Narration/&CradleOfFire_Necropolis_EmperorGhost_18_Ghost_NPC	Clearly, you are runaway slaves. You will be punished!
 Narration/&CradleOfFire_Necropolis_EmperorGhost_19_Violent_Slang	I've had enough of this. Let's kill this loser - again!
 Narration/&CradleOfFire_Necropolis_EmperorGhost_20_Violent_Normal	Enough of this! Let's wipe this slaver's ghost from Solasta!
-Narration/&CradleOfFire_Necropolis_EmperorGhost_21_Persuasion_Default	We call them orcs, they're like... dwarves, but worse.
+Narration/&CradleOfFire_Necropolis_EmperorGhost_21_Persuasion_Default	We call them orcs, they're like… dwarves, but worse.
 Narration/&CradleOfFire_Necropolis_EmperorGhost_22_Ghost_NPC	Really?
 Narration/&CradleOfFire_Necropolis_EmperorGhost_23_Ghost_NPC	Then you are on a sacred mission.
-Narration/&CradleOfFire_Necropolis_EmperorGhost_24_Ghost_NPC	Monsters must not defile a city of Emperors.
+Narration/&CradleOfFire_Necropolis_EmperorGhost_24_Ghost_NPC	Monsters must not defile a city of the Emperors.
 Narration/&CradleOfFire_Necropolis_EmperorGhost_25_Ghost_NPC	Leave this holy tomb and do what you must.
-Narration/&CradleOfFire_Necropolis_EmperorGhost_26_Ghost_NPC	There is minor gate by the tapestry of the Aer-Elai. Use it to reach the inner city.
+Narration/&CradleOfFire_Necropolis_EmperorGhost_26_Ghost_NPC	There is Minor Gate by the tapestry of the Aer Elai. Use it to reach the inner city.
 Narration/&CradleOfFire_Necropolis_EmperorGhost_27_Persuasion_Default	Thank you, your Imperial Majesty.
 Narration/&CradleOfFire_Necropolis_AfterGhost_1_Pragmatic_Default	Did you see that?
 Narration/&CradleOfFire_Necropolis_AfterGhost_2_Cynical_Default	The ghost? Yes, we did.
@@ -5473,14 +5486,14 @@ Narration/&CradleOfFire_Necropolis_GhostReturn_5_Ghost_NPC	Liars! Traitors!
 Narration/&CradleOfFire_Necropolis_UrkaReveals_1_Authority_Default	Urka!
 Narration/&CradleOfFire_Necropolis_UrkaReveals_2_Urka_NPC	I must say, I am impressed.
 Narration/&CradleOfFire_Necropolis_UrkaReveals_3_Selfpres_Default	You followed us?
-Narration/&CradleOfFire_Necropolis_UrkaReveals_4_Urka_NPC	So you don't have bring the key back to me.
+Narration/&CradleOfFire_Necropolis_UrkaReveals_4_Urka_NPC	So you don't have to bring the key back to me.
 Narration/&CradleOfFire_Necropolis_UrkaReveals_5_Selfpres_Default	You really want that key, don't you?
 Narration/&CradleOfFire_Necropolis_UrkaReveals_6_Urka_NPC	Actually, I wanted the ghost to weaken you.
-Narration/&CradleOfFire_Necropolis_UrkaReveals_7_Urka_NPC	Make it easier to take that crown from you.
-Narration/&CradleOfFire_Necropolis_UrkaKilled_1_Kebra_NPC	Urka? How? I know him since...child.
+Narration/&CradleOfFire_Necropolis_UrkaReveals_7_Urka_NPC	Make it easier to take that Crown from you.
+Narration/&CradleOfFire_Necropolis_UrkaKilled_1_Kebra_NPC	Urka? How? I know him since… child.
 Narration/&CradleOfFire_Necropolis_UrkaKilled_2_Lawful_Default	The Soraks - the gaks - they got to him, I guess.
 Narration/&CradleOfFire_Necropolis_UrkaKilled_3_Kebra_NPC	But, all these orcs, too?
-Narration/&CradleOfFire_Necropolis_UrkaKilled_4_History_Default	The Soraks took over a whole world, back on Tirmar.
+Narration/&CradleOfFire_Necropolis_UrkaKilled_4_History_Default	The Soraks took over a whole world back on Tirmar.
 Narration/&CradleOfFire_Necropolis_UrkaKilled_5_Kebra_NPC	The Crown? It can stop them?
 Narration/&CradleOfFire_Necropolis_UrkaKilled_6_Authority_Default	We think so - hope so.
 Narration/&CradleOfFire_Necropolis_UrkaKilled_7_Kebra_NPC	You need Arrok's stone, for real.
@@ -5499,13 +5512,13 @@ Narration/&CradleOfFire_NearRedScarGate_12_Default_Player	What is that?
 Narration/&CradleOfFire_NearRedScarGate_13_Brok_NPC	Redscar gate. Arrok's fortress.
 Narration/&CradleOfFire_NearRedScarGate_14_Violence_Player	Can't we just kill the guards and go in?
 Narration/&CradleOfFire_NearRedScarGate_15_Brok_NPC	Door is magic. 
-Narration/&CradleOfFire_NearRedScarGate_16_Brok_NPC	But Arrok will open, if challenged.
+Narration/&CradleOfFire_NearRedScarGate_16_Brok_NPC	But Arrok will open if challenged.
 Narration/&CradleOfFire_NearRedScarGate_17_Brok_NPC	We need the tribes.
 Narration/&CradleOfFire_InsideCity_1_History_NPC	Can't get used to these Minor Gates. To think they had these everywhere!
 Narration/&CradleOfFire_InsideCity_2_Pragmatic_Default	Now's not the time for Manacalon nostalgia.
 Narration/&CradleOfFire_InsideCity_3_Kebra_NPC	Look!
-Narration/&CradleOfFire_InsideCity_4_Authority_Default	Is that...?
-Narration/&CradleOfFire_InsideCity_5_Kebra_NPC	Arrok! Alone!
+Narration/&CradleOfFire_InsideCity_4_Authority_Default	Is that…?
+Narration/&CradleOfFire_InsideCity_5_Kebra_NPC	Arrok!
 Narration/&CradleOfFire_InsideCity_6_Cynical_Default	That did the trick, eh?
 Narration/&CradleOfFire_InsideCity_7_Selfpres_Default	What are these burned corpses everywhere?
 Narration/&CradleOfFire_InsideCity_8_Kebra_NPC	Orcs. Didn't please Arrok, I suppose.
@@ -5515,15 +5528,15 @@ Narration/&CradleOfFire_InsideCity_11_Violent_NPC	I reckon we can take him - we 
 Narration/&CradleOfFire_InsideCity_12_Kebra_NPC	Arrok still very powerful.
 Narration/&CradleOfFire_InsideCity_13_Violent_NPC	Sure. So we need to take him down fast.
 Narration/&CradleOfFire_InsideCity_14_Selfpres_NPC	We can still backtrack and follow the plan.
-Narration/&CradleOfFire_FaceArrok_1_Cynical_Default	Uh huh.
-Narration/&CradleOfFire_FaceArrok_2_Arrok_NPC	Ah, Kebra of Suncloud...
-Narration/&CradleOfFire_FaceArrok_3_Arrok_NPC	...you walk with nyarks? Shame on you.
+Narration/&CradleOfFire_FaceArrok_1_Cynical_Default	Uh-huh.
+Narration/&CradleOfFire_FaceArrok_2_Arrok_NPC	Ah, Kebra of Suncloud…
+Narration/&CradleOfFire_FaceArrok_3_Arrok_NPC	…you walk with nyarks? Shame on you.
 Narration/&CradleOfFire_FaceArrok_4_Authority_Default	You're finished, Arrok. Give us the stone!
-Narration/&CradleOfFire_FaceArrok_5_Arrok_NPC	Funny nyark. No, you, give me yours.
+Narration/&CradleOfFire_FaceArrok_5_Arrok_NPC	Funny nyark. No, you give me yours.
 Narration/&CradleOfFire_FaceArrok_6_Authority_Default	You're alone. Looks like you killed your tribe all by yourself.
 Narration/&CradleOfFire_FaceArrok_7_Arrok_NPC	Useless worms.
 Narration/&CradleOfFire_FaceArrok_8_Arrok_NPC	Arrok needs no orcs. Arrok is fire! Arrok is volcano!
-Narration/&CradleOfFire_FaceArrok_9_Selfpres_Default	What the...
+Narration/&CradleOfFire_FaceArrok_9_Selfpres_Default	What the…
 Narration/&CradleOfFire_TribesUnite_1_Authority_Default	Brok!
 Narration/&CradleOfFire_TribesUnite_2_Authority_Default	Where are the guards?
 Narration/&CradleOfFire_TribesUnite_3_Brok_NPC	Surrendered.
@@ -5533,23 +5546,23 @@ Narration/&CradleOfFire_TribesUnite_6_Cynical_Default	No big speech, then?
 Narration/&CradleOfFire_TribesUnite_7_Brok_NPC	No, but door still closed.
 Narration/&CradleOfFire_TribesUnite_8_Crownbearer_Default	Do you see that?
 Narration/&CradleOfFire_TribesUnite_9_Cynical_Default	The door?
-Narration/&CradleOfFire_TribesUnite_10_Crownbearer_Default	No, there is a... power.
-Narration/&CradleOfFire_TribesUnite_11_Crownbearer_Default	I think, though... with the Crown...we might be able to enter.
+Narration/&CradleOfFire_TribesUnite_10_Crownbearer_Default	No, there is a… power.
+Narration/&CradleOfFire_TribesUnite_11_Crownbearer_Default	I think, though… with the Crown… we might be able to enter.
 Narration/&CradleOfFire_TribesUnite_12_Selfpres_Default	It's a trap. Arrok wants us in there alone.
 Narration/&CradleOfFire_TribesUnite_13_Pragmatic_Default	Do we have a choice?
-Narration/&CradleOfFire_TribesUnite_14_Default_Default	There's always the necropolis.
+Narration/&CradleOfFire_TribesUnite_14_Default_Default	There's always the Necropolis.
 Narration/&CradleOfFire_ArrokDefeated_1_Nosy_Default	Is that gem more powerful than the others?
-Narration/&CradleOfFire_ArrokDefeated_2_Arcane_Default	Orc shamans wield a very peculiar type of magic...
-Narration/&CradleOfFire_ArrokDefeated_3_Arcane_Default	...the gem must have been some sort of catalyst.
+Narration/&CradleOfFire_ArrokDefeated_2_Arcane_Default	Orc shamans wield a very peculiar type of magic…
+Narration/&CradleOfFire_ArrokDefeated_3_Arcane_Default	…the gem must have been some sort of catalyst.
 Narration/&CradleOfFire_ArrokDefeated_4_Pragmatic_Default	Well, we have it now. Let's move before this place blows up!
 Narration/&CradleOfFire_Ending_1_Selfpres_Default	That was close!
-Narration/&CradleOfFire_Ending_2_Friendly_Default	What do you think happened to...
-Narration/&CradleOfFire_Ending_3_Friendly_NPC	...our orc friends?
+Narration/&CradleOfFire_Ending_2_Friendly_Default	What do you think happened to…
+Narration/&CradleOfFire_Ending_3_Friendly_NPC	…our orc friends?
 Narration/&CradleOfFire_Ending_4_Selfish_Default	You mean yours. They're no friends of mine.
-Narration/&CradleOfFire_Ending_5_Violent_Default	Burned dead... who cares?
+Narration/&CradleOfFire_Ending_5_Violent_Default	Burned dead… who cares?
 Narration/&CradleOfFire_Ending_6_Friendly_Default	They seem more civilized than I expected.
 Narration/&CradleOfFire_Ending_7_Violent_Default	Next time we run into some, you can tell them that.
-Narration/&CradleOfFire_Ending_8_Authority_Default	All right  let's get out of here. It's not safe!
+Narration/&CradleOfFire_Ending_8_Authority_Default	All right, let's get out of here. It's not safe!
 Narration/&Conjuration_Entrance_1_Crownbearer_Default	This is it, I think! It's just behind this wall of vegetation!
 Narration/&Conjuration_Entrance_2_CynicOrElse_Default	You think? That's comforting. And how do we get through? 
 Narration/&Conjuration_Entrance_3_AthleticProficientOrRangerOrElse_Default	Just hack and slash, rinse and repeat, until we're through! 
@@ -5561,38 +5574,38 @@ Narration/&Conjuration_Entrance_6_FollowerMaraikeOrElse_Default	It's Maraike's w
 Narration/&Conjuration_Jungle_1_CynicOrElse_Default	I think my arm's about to drop off from all this hacking!
 Narration/&Conjuration_Jungle_2_SellswordorElse_Slang	Chop, don't talk!
 Narration/&Conjuration_Jungle_3_AthleticProficientOrRangerOrElse_Default	Come on, guys! It's just another hedge! 
-Narration/&Conjuration_Jungle_4_LowestSTRorElse_Default	Last bloody hedge I intend to cut through in my life time! 
+Narration/&Conjuration_Jungle_4_LowestSTRorElse_Default	Last freakin' hedge I intend to cut through in my lifetime! 
 Narration/&Conjuration_Jungle_5_RogueOrFollowerMaraikeOrElse_Default	Misaye's laughing!
 Narration/&Conjuration_Lava_1_LowestSTRorElse_Default	Such a wonderful coincidence to get a sauna after all the physical exertion!
 Narration/&Conjuration_Lava_2_SellswordorElse_Slang	Stop moaning - it was just a nice warm-up!
 Narration/&Conjuration_Lava_3_AthleticProficientOrRangerOrElse_Default	I have dealt with worse! Not often, though!
 Narration/&Conjuration_Lava_4_CynicOrElse_Default	Hard to believe! 
-Narration/&Conjuration_Lava_5_AthleticProficientOrRangerOrElse_Default	Einar strike me if I lie!
+Narration/&Conjuration_Lava_5_AthleticProficientOrRangerOrElse_Default	Einar strike down me if I lie!
 Narration/&Conjuration_Interrogation_1_SpyOrElse_Default	Now, my friend - it's time for a little chat.
 Narration/&Conjuration_Interrogation_2_Sorak_Prisoner_NPC	I'll give you nothing! Sorr-Tarr will protect me from your torture!
-Narration/&Conjuration_Interrogation_3_PaladinEinarOrSpyOrElse_Default	He isn't here, Two-Face - but Iam!
-Narration/&Conjuration_Interrogation_4_Sorak_Prisoner_NPC	This place will be your death, too! It is cursed! Its magic is twisted!
+Narration/&Conjuration_Interrogation_3_PaladinEinarOrSpyOrElse_Default	He isn't here, Two-Face - but I am!
+Narration/&Conjuration_Interrogation_4_Sorak_Prisoner_NPC	This place will be the death of you, too! It is cursed! Its magic is twisted!
 Narration/&Conjuration_Interrogation_5a_PaladinEinarOrSpyOrElse_Default	This place? How did you get here? 
 Narration/&Conjuration_Interrogation_5a_Written_PaladinEinarOrSpyOrElse_Default	How did you come to this place? 
 Narration/&Conjuration_Interrogation_6a_Sorak_Prisoner_NPC	We were sent by our chosen one! 
 Narration/&Conjuration_Interrogation_7a_PaladinEinarOrSpyOrElse_Default	An acolyte of Sorr-Tarr…
 Narration/&Conjuration_Interrogation_6a1_Sorak_Prisoner_NPC	Blessed be his name.
 Narration/&Conjuration_Interrogation_7a1_PaladinEinarOrSpyOrElse_Default	How did he locate the place? 
-Narration/&Conjuration_Interrogation_7a2_Intimidation_DC20_Default	Ever heard of the Inquisition ? Talk to us now!
+Narration/&Conjuration_Interrogation_7a2_Intimidation_DC20_Default	Ever heard of the Inquisition? Talk to us now!
 Narration/&Conjuration_Interrogation_8a1_Sorak_Prisoner_Intimidation_Success_NPC	The chosen one worked some magic. 
 Narration/&Conjuration_Interrogation_8a2_Sorak_Prisoner_Intimidation_Failure_NPC	The Inquisition? Pah! Nothing you can do to me can beat the horrors of this place!
 Narration/&Conjuration_Interrogation_5b_PaladinEinarOrSpyOrElse_Default	This place is cursed? 
 Narration/&Conjuration_Interrogation_5b_written_PaladinEinarOrSpyOrElse_Default	What curse? 
 Narration/&Conjuration_Interrogation_6b_Sorak_Prisoner_NPC	Don't you have eyes? Didn't you see the fate of my brethren?
 Narration/&Conjuration_Interrogation_7b_PaladinEinarOrSpyOrElse_Default	Won't lose sleep over it! What is cursed? 
-Narration/&Conjuration_Interrogation_8b_Sorak_Prisoner_NPC	This very place! Everything seemed peaceful, and then...
+Narration/&Conjuration_Interrogation_8b_Sorak_Prisoner_NPC	This very place! Everything seemed peaceful, and then…
 Narration/&Conjuration_Interrogation_9b_PaladinEinarOrSpyOrElse_Default	Who said what? 
 Narration/&Conjuration_Interrogation_10b_Sorak_Prisoner_NPC	The voice! It said we would all die!
 Narration/&Conjuration_Interrogation_11b_Sorak_Prisoner_NPC	Because I know we will all die here! It said so! 
 Narration/&Conjuration_Interrogation_12_PaladinEinarOrSpyOrElse_Default	Disturbing claims! 
 Narration/&Conjuration_Interrogation_13_SpyOrCautious_Default	Sure, all these dead Soraks, and no trace of what killed them…
 Narration/&Conjuration_Interrogation_14_SpyOrCautious_Default	…but we saw dead Soraks everywhere…
-Narration/&Conjuration_Interrogation_15_SpyOrCautious_Default	... and not one single enemy body near them! 
+Narration/&Conjuration_Interrogation_15_SpyOrCautious_Default	…and not one single enemy body among them! 
 Narration/&Conjuration_Interrogation_16_Lawkeeper_Default	They could have taken their dead, just like the Soraks do.
 Narration/&Conjuration_Interrogation_17_PaladinEinarOrSpyOrElse_Default	And what do we do with our friend here? 
 Narration/&Conjuration_Interrogation_18_PaladinEinarOrSpyOrElse_Default	He is a Sorak pawn - there is only one thing to do! 
@@ -5606,32 +5619,33 @@ Narration/&Conjuration_Treasure_Beast_2_Sellsword_Slang	Perhaps - but those ches
 Narration/&Conjuration_Treasure_Beast_3_LawkeeperOrElse_Default	But are we entitled to it? 
 Narration/&Conjuration_Treasure_Beast_4_Sellsword_Slang	What do you mean? 
 Narration/&Conjuration_Treasure_Beast_5_LawkeeperOrElse_Default	So far, we haven't met a living soul in this labyrinth!
-Narration/&Conjuration_Treasure_Beast_6_CynicOrElse_Default	And your point?
+Narration/&Conjuration_Treasure_Beast_6_CynicOrElse_Default	And your point being?
 Narration/&Conjuration_Treasure_Beast_7_LawkeeperOrElse_Default	That we would be stealing from the owner!
-Narration/&Conjuration_Treasure_Beast_8_SellswordOrGreed_Default	Naah - spoils of war!
+Narration/&Conjuration_Treasure_Beast_8_SellswordOrGreed_Default	Naaah - spoils of war!
 Narration/&Conjuration_Treasure_Beast_9_LawkeeperOrElse_Default	But we want his help, remember - stealing makes a bad impression, usually.
-Narration/&Conjuration_Treasure_Beast_10_SellswordOrGreed_Default	Can we just take a peek first. We don't have to take anything. 
-Narration/&Conjuration_Treasure_Beast_11_SellswordOrGreed_Default	Oooops… Sorry? 
+Narration/&Conjuration_Treasure_Beast_10_SellswordOrGreed_Default	Can we just take a peek first? We don't have to take anything. 
+Narration/&Conjuration_Treasure_Beast_11_SellswordOrGreed_Default	Just a look, right? 
 Narration/&Conjuration_Treasure_Beast_12_LawkeeperOrElse_Default	All right, but don't make me regret it! 
+Narration/&Conjuration_Treasure_Beast_13_SellswordOrGreed_Default	Oooops… Sorry? 
 Narration/&Conjuration_Beast_1_Beast_NPC	And so the thieves come to meet their doom!
 Narration/&Conjuration_Beast_2_DiplomatOrSpyOrElse_Formal	There are no thieves here! 
 Narration/&Conjuration_Beast_3_Beast_NPC	Do you deny helping yourselves to the riches outside this room?
 Narration/&Conjuration_Beast_4_DiplomatOrSpyOrElse_Formal	We were looking for clues and then we were attacked…
 Narration/&Conjuration_Beast_5_DiplomatOrSpyOrElse_Default	…by some constructs that really, really wanted to kill us!
 Narration/&Conjuration_Beast_6_Beast_NPC	Hah! The constructs wouldn't have attacked…
-Narration/&Conjuration_Beast_7_Beast_NPC	... if you had just looked! 
+Narration/&Conjuration_Beast_7_Beast_NPC	…if you had just looked! 
 Narration/&Conjuration_Beast_8a_SellswordOrGreed_Default	Had to make sure they weren't fake!
 Narration/&Conjuration_Beast_8b_LawkeeperOrAltruist_Default	We didn't even have a chance to put them back! 
-Narration/&Conjuration_Beast_9_Beast_NPC	You stole! Otherwise there would have been no fight! 
+Narration/&Conjuration_Beast_9_Beast_NPC	You stole! Otherwise, there would have been no fight! 
 Narration/&Conjuration_Beast_10_Beast_NPC	And there is only one punishment for theft!
 Narration/&Conjuration_Beast_11_Beast_NPC	Death!
 Narration/&Conjuration_BeastEnding_1_SellswordOrGreed_Slang	This is my kind of fight!
-Narration/&Conjuration_BeastEnding_2_Crownbearer_Default	Well, I can relate to that, but I also wonder... 
+Narration/&Conjuration_BeastEnding_2_Crownbearer_Default	Well, I can relate to that, but I also wonder… 
 Narration/&Conjuration_BeastEnding_3_DiplomatOrSpyOrElse_Default	Wonder about what?
 Narration/&Conjuration_BeastEnding_4_Crownbearer_Default	Why all of this? Why the traps, why the fights?
 Narration/&Conjuration_BeastEnding_5_NosyOElse_Default	Not to forget the how! 
 Narration/&Conjuration_BeastEnding_6_Crownbearer_Default	This gem fragment… resonates with the Crown but…
-Narration/&Conjuration_BeastEnding_7_NosyOElse_Default	Apparently the gem was split… to protect it, maybe? 
+Narration/&Conjuration_BeastEnding_7_NosyOElse_Default	Apparently, the gem was split… to protect it, maybe? 
 Narration/&Conjuration_BeastEnding_8_Crownbearer_Default	That would explain the traps and monsters.
 Narration/&Conjuration_BeastEnding_9_NosyOElse_Default	It's one way to make sure this gem is safe! 
 Narration/&Conjuration_BeastEnding_10_Self_PreservationOrElse_Default	But what does it mean?
@@ -5640,13 +5654,13 @@ Narration/&Conjuration_BeastEnding_11_Cynic_Default	Someone who doesn't like vis
 Narration/&Conjuration_ShiftingMaze_1_HighestPerceptionOrElse_Normal	What was that? Where are we? 
 Narration/&Conjuration_ShiftingMaze_2_SelfPreservationOrSelfishness_Normal	You had to step on it! 
 Narration/&Conjuration_ShiftingMaze_3_SelfPreservationOrSelfishness_Normal	Find us a way back! 
-Narration/&Conjuration_ShiftingMaze_4_NosyOrElse_Formal	My friend, we will have to think this through!
-Narration/&Conjuration_ShiftingMaze_5_CynicOrElse_Normal	And watch where you put your hands in the future.
-Narration/&Conjuration_ShiftingMaze_6_SellswordOrGreed_Normal	How was I supposed to know? 
-Narration/&Conjuration_ShiftingMaze_7_NosyOrElse_Normal	Perhaps if you thought before you acted?
-Narration/&Conjuration_ShiftingMaze_8_SellswordOrGreed_Normal	So I can die of old age and boredom…
-Narration/&Conjuration_ShiftingMaze_9_SellswordOrGreed_Normal	…while we wait for you to finish pondering all the...
-Narration/&Conjuration_ShiftingMaze_10_SellswordOrGreed_Formal	...theoretical and practical implications of everything we do?
+Narration/&Conjuration_ShiftingMaze_4_NosyOrElse_Formal	Friends, we'll have to think this through! We're a team.
+Narration/&Conjuration_ShiftingMaze_5_CynicOrElse_Normal	And watch where you put your hands in future.
+Narration/&Conjuration_ShiftingMaze_6_SellswordOrGreed_Normal	Don't you loot everything you find?
+Narration/&Conjuration_ShiftingMaze_7_NosyOrElse_Normal	I'm not a Scavenger, mind you.
+Narration/&Conjuration_ShiftingMaze_8_SellswordOrGreed_Normal	Stop it!
+Narration/&Conjuration_ShiftingMaze_9_SellswordOrGreed_Normal	…while we wait for you to finish pondering all the…
+Narration/&Conjuration_ShiftingMaze_10_SellswordOrGreed_Formal	…theoretical and practical implications of everything we do?
 Narration/&Conjuration_ShiftingMaze_11_NosyOrElse_Normal	Nothing wrong with using one's brain, my musclebound friend!
 Narration/&Conjuration_ShiftingMaze_12_CrownbearerOrAuthority_Normal	Enough! Let's find a way out of this trap…
 Narration/&Conjuration_ShiftingMaze_13_CrownbearerOrAuthority_Normal	By brawn or brains, I don't care which!
@@ -5667,12 +5681,12 @@ Narration/&Conjuration_TeleportingCircle2_7_RogueOrHighestPerception_Normal	Did 
 Narration/&Conjuration_Coward_1_HighestPerceptionOrElse_Normal	Interesting light, that. Very bright.
 Narration/&Conjuration_Coward_2_nosyOrElse_Normal	Wonder what it's about?
 Narration/&Conjuration_Coward_3_HighestPerceptionOrElse_Normal	Only one way to find out! Come on!
-Narration/&Conjuration_Coward_4_Arcana_DC20_Failure_Normal	Looks like a will-o'-wisp to me! 
+Narration/&Conjuration_Coward_4_Arcana_DC20_Failure_Normal	Looks like a will-o'-the-wisp to me! 
 Narration/&Conjuration_Coward_5_Arcana_DC20_Success_Normal	How fascinating! A new wonder to behold! 
-Narration/&Conjuration_Coward_6_RogueOrElse_Normal	Not so fast! There were enough traps till now to…
-Narration/&Conjuration_Coward_7_RogueOrElse_Normal	...make me really nervous!
+Narration/&Conjuration_Coward_6_RogueOrElse_Normal	Not so fast! There have been enough traps so far to…
+Narration/&Conjuration_Coward_7_RogueOrElse_Normal	…make me really nervous!
 Narration/&Conjuration_Coward_8_SelfPreservationOrElse_Normal	You and me both, my friend! 
-Narration/&Conjuration_Coward_9_Crownbearer_Normal	Let's tread carefully then! 
+Narration/&Conjuration_Coward_9_Crownbearer_Normal	Let's tread carefully, then! 
 Narration/&Conjuration_Coward_10_RogueOrAcolyte_Normal	Today is Misaye's birthday! 
 Narration/&Conjuration_Coward_11_ClericOrWorshipMaraike_Normal	Maraike's will be done! 
 Narration/&Conjuration_Coward_12_SelfPreservationOrElse_Normal	Next time, pray harder for a miracle! 
@@ -5686,14 +5700,14 @@ Narration/&Conjuration_MansionArrival_7_Self_PreservationOrElse_Normal	This mano
 Narration/&Conjuration_MansionArrival_8_HighestPerception_Normal	Story of my life!
 Narration/&Conjuration_MansionArrival_9_CynicOrElse_Normal	Weird gets us money and fame! 
 Narration/&Conjuration_MansionArrival_10_AcolytOrElse_Normal	Do you really have to be so… greedy?
-Narration/&Conjuration_MansionArrival_11_CynicOrElse_Normal	Not greedy, practical! We do things…
+Narration/&Conjuration_MansionArrival_11_CynicOrElse_Normal	Not greedy; practical! We do things…
 Narration/&Conjuration_MansionArrival_12_CynicOrElse_Normal	…that no one in their right minds would attempt…
 Narration/&Conjuration_MansionArrival_13_CynicOrElse_Normal	…and we don't do it for nothing!
 Narration/&Conjuration_MansionArrival_14_HelpfulnessOrFriendliness_Normal	Speak for yourself! A good deed is a good deed!
 Narration/&Conjuration_MansionArrival_15_CynicOrElse_Normal	Then let's get in there and see what kind of weirdness we find!
-Narration/&Conjuration_CastleEntrance_1_Butler_NPC	Good day to you.  I am Gerard, the butler.
+Narration/&Conjuration_CastleEntrance_1_Butler_NPC	Good day to you. My name is Eldorath Smooth-Tongue, the master's housekeeper.
 Narration/&Conjuration_CastleEntrance_2a_1_Butler_ifPlayersLooted_NPC	I see you have purloined some of my master's property…
-Narration/&Conjuration_CastleEntrance_2a_2_Butler_ifPlayersLooted_NPC	…might I suggest you put those trinkets back to where they belong? 
+Narration/&Conjuration_CastleEntrance_2a_2_Butler_ifPlayersLooted_NPC	…might I suggest you put those trinkets back where they belong? 
 Narration/&Conjuration_CastleEntrance_2b_1_Butler_ifPlayersNoLoot_NPC	Welcome.
 Narration/&Conjuration_CastleEntrance_2b_2_Butler_ifPlayersNoLoot_NPC	Please come with me.
 Narration/&Conjuration_CastleEntrance_3_CrownbearerOrDiplomatOrElse_Normal	Clear skies to you! Where are you taking us?
@@ -5705,20 +5719,20 @@ Narration/&Conjuration_CastleEntrance_8_Butler_NPC	…please don't abuse it.
 Narration/&Conjuration_CastleEntrance_9a_DiplomatOrElse_Formal	We are grateful for your hospitality.
 Narration/&Conjuration_CastleEntrance_9a_written_DiplomatOrElse_Formal	Hospitality? 
 Narration/&Conjuration_CastleEntrance_10a_Butler_NPC	We aim to please. The household has certain standards, after all.
-Narration/&Conjuration_CastleEntrance_11a_Butler_NPC	We have not seen guests of your... quality for some time.
+Narration/&Conjuration_CastleEntrance_11a_Butler_NPC	We have not seen guests of your… quality for some time.
 Narration/&Conjuration_CastleEntrance_12a_DiplomatOrElse_Formal	Some time? How long, exactly? 
 Narration/&Conjuration_CastleEntrance_13a_Butler_NPC	Well, it must be… forgive me, the date eludes me for the moment.
-Narration/&Conjuration_CastleEntrance_14a_DiplomatOrElse_Formal	Do you remember some… prominent guest? 
-Narration/&Conjuration_CastleEntrance_15a_Butler_NPC	You were there, Master Kaisenax!
+Narration/&Conjuration_CastleEntrance_14a_DiplomatOrElse_Formal	Do you remember any… prominent guests? 
+Narration/&Conjuration_CastleEntrance_15a_Butler_NPC	You were there, Master Kaseinax!
 Narration/&Conjuration_CastleEntrance_16a_Crownbearer_Normal	Me? 
 Narration/&Conjuration_CastleEntrance_17a_Butler_NPC	I remember it distinctly. Though your form was somewhat different.
 Narration/&Conjuration_CastleEntrance_9b_DiplomatOrElse_Formal	We would never dream of abusing your hospitality!
-Narration/&Conjuration_CastleEntrance_9b_written_DiplomatOrElse_Formal	Someine abused your hospitality in the past?
-Narration/&Conjuration_CastleEntrance_10b_Butler_NPC	Yes, believe it or not, some…creatures can be…
-Narration/&Conjuration_CastleEntrance_11b_Butler_NPC	...insufferably rude!
+Narration/&Conjuration_CastleEntrance_9b_written_DiplomatOrElse_Formal	Someone abused your hospitality in the past?
+Narration/&Conjuration_CastleEntrance_10b_Butler_NPC	Yes, believe it or not, some… creatures can be…
+Narration/&Conjuration_CastleEntrance_11b_Butler_NPC	…insufferably rude!
 Narration/&Conjuration_CastleEntrance_12b_DiplomatOrElse_Formal	True nobility is reflected in the character!
 Narration/&Conjuration_CastleEntrance_13h_Butler_NPC	Quite so! Not, of course, that I thought for a second…
-Narration/&Conjuration_CastleEntrance_14b_Butler_NPC	...that you would be capable of such discourtesy.
+Narration/&Conjuration_CastleEntrance_14b_Butler_NPC	…that you would be capable of such discourtesy.
 Narration/&Conjuration_CastleEntrance_15b_DiplomatOrElse_Formal	Of course not! And yet, customs being different everywhere…
 Narration/&Conjuration_CastleEntrance_16b_DiplomatOrElse_Formal	…might I ask what would be considered rude here? 
 Narration/&Conjuration_CastleEntrance_17b_Butler_NPC	Well, my expectations don't exceed those of the Imperial court!
@@ -5727,7 +5741,7 @@ Narration/&Conjuration_CastleEntrance_19b_Butler_NPC	Preferably not. Not that it
 Narration/&Conjuration_CastleEntrance_20b_DiplomatOrElse_Formal	Really? 
 Narration/&Conjuration_CastleEntrance_21b_Butler_NPC	I have seen worse, I'm sorry to say!
 Narration/&Conjuration_CastleEntrance_22b_Butler_NPC	But now, please follow me. One mustn't keep the master waiting! 
-Narration/&ConjurationQuest_Master_1_Master_NPC	Well met strangers!
+Narration/&ConjurationQuest_Master_1_Master_NPC	Well met, strangers!
 Narration/&ConjurationQuest_Master_2_Master_IfplayersStole_NPC	Ah, my little thieving visitors.
 Narration/&ConjurationQuest_Master_3_DiplomatOrSpyOrElse_Formal	Clear skies to you, master.
 Narration/&ConjurationQuest_Master_4_Master_NPC	Clear skies? An ironic greeting, considering my plight! 
@@ -5740,18 +5754,18 @@ Narration/&ConjurationQuest_Master_10_Master_NPC	Call me master.
 Narration/&ConjurationQuest_Master_11_DiplomatOrSpyOrElse_Normal	Master of Conjuration!
 Narration/&ConjurationQuest_Master_12_Master_NPC	Yes, the Master of Conjuration! Exactly! 
 Narration/&ConjurationQuest_Master_13_Crownbearer_Formal	Greetings, old friend!
-Narration/&ConjurationQuest_Master_14_AnyButCrownbearer_Normal	What do you call him that?
-Narration/&ConjurationQuest_Master_15_Crownbearer_Normal	The crown…told me so.
-Narration/&ConjurationQuest_Master_16_Master_NPC	Ah, the crown…
-Narration/&ConjurationQuest_Master_17_Master_NPC	…thank you for coming to my rescue, 
+Narration/&ConjurationQuest_Master_14_AnyButCrownbearer_Normal	Why do you call him that?
+Narration/&ConjurationQuest_Master_15_Crownbearer_Normal	The Crown… told me to.
+Narration/&ConjurationQuest_Master_16_Master_NPC	Ah, the Crown…
+Narration/&ConjurationQuest_Master_17_Master_NPC	…thank you for coming to my rescue. 
 Narration/&ConjurationQuest_Master_18_Master_NPC	My mind was shattered since the Cataclysm.
 Narration/&ConjurationQuest_Master_19_Master_NPC	The vanishing of mana left me broken.
-Narration/&ConjurationQuest_Master_20_AcademicianOrAcolyte_Normal	Mana was gone ? 
-Narration/&ConjurationQuest_Master_21_Master_NPC	Of course, after the closing of the rift!
-Narration/&ConjurationQuest_Master_22_Master_NPC	That's why I and by siblings were killed or crippled.
-Narration/&ConjurationQuest_Master_23_Master_NPC	Kaisenax, and us, the masters, along with these deities…
-Narration/&ConjurationQuest_Master_24_Master_NPC	…we poured everything we had to close and seal that rift! 
-Narration/&ConjurationQuest_Master_25_AcademicianOrAcolyte_Normal	So the Cataclysm is…your fault? 
+Narration/&ConjurationQuest_Master_20_AcademicianOrAcolyte_Normal	Mana was gone? 
+Narration/&ConjurationQuest_Master_21_Master_NPC	Of course, after the closing of the Rift!
+Narration/&ConjurationQuest_Master_22_Master_NPC	That's why my siblings and I were killed or crippled.
+Narration/&ConjurationQuest_Master_23_Master_NPC	Kaseinax, and we, the masters, along with these deities…
+Narration/&ConjurationQuest_Master_24_Master_NPC	…we poured everything we had into closing and seal that Rift! 
+Narration/&ConjurationQuest_Master_25_AcademicianOrAcolyte_Normal	So the Cataclysm is… your fault? 
 Narration/&ConjurationQuest_Master_26_Master_NPC	It was the price to pay to stop the threat.
 Narration/&ConjurationQuest_Master_27_Master_NPC	The Sorr-Akkath were and still are a menace to Solasta.
 Narration/&ConjurationQuest_Master_28_AcademicianOrAcolyte_Normal	And so you took a gamble? 
@@ -5764,8 +5778,8 @@ Narration/&ConjurationQuest_Master_34_AcademicianOrAcolyte_Normal	Who knows how 
 Narration/&ConjurationQuest_Master_35_Master_NPC	Ah! Because you believe that Manacalon was an elven empire!
 Narration/&ConjurationQuest_Master_36_Master_NPC	Enough about the past! 
 Narration/&ConjurationQuest_Master_37_Master_NPC	Now I get that you want my gem.
-Narration/&ConjurationQuest_Master_38_Master_NPC	But even with his crown, you're not my Magister!
-Narration/&ConjurationQuest_Master_39_Master_NPC	So if you want it…
+Narration/&ConjurationQuest_Master_38_Master_NPC	But even with his Crown, you're not my Magister!
+Narration/&ConjurationQuest_Master_39_Master_NPC	So, if you want it…
 Narration/&ConjurationQuest_Master_40_Master_NPC	…you'll have to pry it from my dead claws!
 Narration/&Banter_ToM_07	Kill them!
 Narration/&Banter_ToM_08	Intruders!
@@ -5826,7 +5840,7 @@ Narration/&Banter_Abjuration_WizardTower_Observable_06	That elf looks so militar
 Narration/&Banter_Abjuration_WizardTower_Observable_07	Lore about the hall
 Narration/&Banter_Abjuration_PuzzleLight_01	It doesn't do anything. Maybe we're missing something.
 Narration/&Banter_Abjuration_PuzzleLight_02	We've dealt with this before.
-Narration/&Banter_Abjuration_PuzzleLight_03	We should come back at the night.
+Narration/&Banter_Abjuration_PuzzleLight_03	We should come back at night.
 Narration/&Banter_Abjuration_WizardTower_Environment_09	A spectacular place, isn't it?
 Narration/&Banter_Abjuration_WizardTower_Environment_10	Are they… ghosts?
 Narration/&Banter_Abjuration_WizardTower_Environment_11	What other wonders does this place contain?
@@ -5835,16 +5849,16 @@ Narration/&Banter_Abjuration_WizardTower_Kythaela_02	We're close now, I can feel
 Narration/&Banter_Abjuration_WizardTower_Environment_13_A	This magic goes far beyond our knowledge.
 Narration/&Banter_Abjuration_WizardTower_Environment_13_B	We can't go through here. It's too dangerous.
 Narration/&Banter_Abjuration_WizardTower_Observable_09	Unbelievable, an intact copy of the History of the Elven Wars by the First Loremaster of the Arcaneum!
-Narration/&Banter_Abjuration_WizardTower_Observable_10	This harp - look at the grain of this wood, the patina… it hasn’t aged a day, seems anachronistic… And a 48-stringer!
-Narration/&Banter_Abjuration_WizardTower_Observable_11	Knowing Manacalon, it could be anything! And I bet we don’t have enough mana to make it work!
+Narration/&Banter_Abjuration_WizardTower_Observable_10	This harp - look at the grain of this wood, the patina… it hasn't aged a day, seems anachronistic… And a 48-stringer!
+Narration/&Banter_Abjuration_WizardTower_Observable_11	Knowing Manacalon, it could be anything! And I bet we don't have enough mana to make it work!
 Narration/&Banter_Abjuration_Monastery_07	It looks like a pattern that needs to be reproduced in some way…
 Narration/&Banter_Abjuration_Monastery_08	This is a poem in elvish… about the moonlight?
 Narration/&Banter_Abjuration_Monastery_09	Maybe this only works at night!
 Narration/&NecromancySubQuest101_19_Nope_Formal	We'll see what we can do.
 Narration/&NecromancySubQuest101_18_Nope_WRITTEN	We can't promise anything.
 Narration/&NecromancySubQuest101_18_Sure_WRITTEN	Sure, we'll do it.
-Narration/&Banter_Abjuration_WizardTower_Environment_13	What is that?
-Narration/&Banter_Abjuration_WizardTower_Environment_14	Sorry for the inconvenience.
+Narration/&Banter_Abjuration_WizardTower_Environment_13	
+Narration/&Banter_Abjuration_WizardTower_Environment_14	
 Narration/&Banter_Abjuration_WizardTower_Observable_12	Laboratory. ENTRY STRICTLY PROHIBITED.
 Narration/&Banter_Abjuration_WizardTower_Observable_13	Library
 Narration/&Banter_Abjuration_WizardTower_Observable_14	Salon
@@ -5860,7 +5874,7 @@ Narration/&Banter_Abjuration_WizardTower_Observable_16	"Principles of Architectu
 Narration/&Banter_Abjuration_WizardTower_Observable_17	This is… Eiradir Fairmind, the justicar, as he presents the first codex of imperial law to the Court!
 Narration/&Banter_Conjuration_LavaRiver_01	Wait? Have you ever seen this kind of plant?
 Narration/&Banter_Conjuration_LavaRiver_02	The gem must be in this forest. One last effort and it will be ours.
-Narration/&Banter_Conjuration_LavaRiver_03	I knew it, we shouldn’t have touched that sticky equipment.
+Narration/&Banter_Conjuration_LavaRiver_03	I knew it, we shouldn't have touched that sticky equipment.
 Narration/&CradleOfFire_Entrance_3_Arbal_NPC	Who your nyark friends?
 Narration/&CradleOfFire_Entrance_4_Arbal_NPC	Eh, nyark speaks! Kebra teach them?
 Narration/&CradleOfFire_Entrance_10_Arbal_NPC	Before Arrok, Arbal would kill nyarks.
@@ -5871,7 +5885,7 @@ Narration/&Banter_Conjuration_TheID_01	What was that? Where are we?
 Narration/&Banter_Conjuration_TheID_Gate_00	Go back to where you came from, you insignificant beings. You are not worthy to enter.
 Narration/&Banter_Conjuration_TheID_Gate_01	I laugh at the emptiness of your actions.
 Narration/&Banter_Conjuration_TheID_Gate_02	Play the wise, you fools. Go ahead.
-Narration/&Banter_Conjuration_TheID_DarkCave_1	Let's stay together. We can't see anything in those caves.
+Narration/&Banter_Conjuration_TheID_DarkCave_1	Let's stay together. These caves are dark and full of terrors.
 Narration/&Banter_Conjuration_TheID_DarkCave_2	Do you remember where we come from?
 Narration/&Banter_Conjuration_TheID_Greed_1	It's too easy… 
 Narration/&Banter_Conjuration_TheClearing_01	The gem, we found it!
@@ -5927,8 +5941,7 @@ Narration/&TowerOfMagicFindingTheCrown_TakeCrown_02	Who are you talking to? Wait
 Narration/&TowerOfMagicFindingTheCrown_TakeCrown_03	Are you crazy? Why did you put it on?
 Narration/&TowerOfMagicFindingTheCrown_TakeCrown_04	We have no idea what it does, whether it's evil, or anything!
 Narration/&TowerOfMagicFindingTheCrown_TakeCrown_05	What? I… Oh. I… It… I just… kind of… had to.
-Narration/&TowerOfMagicFindingTheCrown_TakeCrown_06	It's gotta be cursed! 
-Narration/&TowerOfMagicFindingTheCrown_TakeCrown_07	We're supposed to share the loot, by the way.
+Narration/&TowerOfMagicFindingTheCrown_TakeCrown_06	We're supposed to share the loot, by the way.
 Narration/&TowerOfMagicFindingTheCrown_TakeCrown_08	Forget it, let's get out of here.
 Narration/&NecromancyQuest01_39b_Fighter_Default	Are they all undead in there?
 Narration/&NecromancyQuest01_41_Default	Undead? What other abominations are in there?
@@ -5991,7 +6004,7 @@ Narration/&InTemple_Added_6_Beric_AkilWingate_NPC	Now this, is the A of Arivad.
 Narration/&InTemple_Added_7_Player_Default	Can you enlighten us?
 Narration/&InTemple_Added_8_Player_Default	Between the myth and what we've seen, it's confusing.
 Narration/&InTemple_Added_9_Beric_AkilWingate_NPC	Of course.
-Narration/&InTemple_Added_10_Beric_AkilWingate_NPC	We, paladins and clerics of Einar, are the guardians of these memories.
+Narration/&InTemple_Added_10_Beric_AkilWingate_NPC	We paladins and clerics of Einar are the guardians of these memories.
 Narration/&InTemple_Added_11_Beric_AkilWingate_NPC	Our ancestors fought the war against the Sorr-Akkath.
 Narration/&InTemple_Added_12_Beric_AkilWingate_NPC	Their god, Sorr-Tarr, gave them dark powers of treachery, mind reading, and shapechanging.
 Narration/&InTemple_Added_13_Beric_AkilWingate_NPC	They infiltrated the human society, corrupted the hearts of men.
@@ -6001,7 +6014,7 @@ Narration/&InTemple_Added_16_Beric_AkilWingate_NPC	He corrupted even Arivad, god
 Narration/&InTemple_Added_17_Beric_AkilWingate_NPC	The gods themselves decided to run away from Tirmar.
 Narration/&InTemple_Added_18_Beric_AkilWingate_NPC	They opened the rift for the humans to escape, to Solasta.
 Narration/&InTemple_Added_19_Beric_AkilWingate_NPC	Many of them didn't make it. It was a tragedy.
-Narration/&InTemple_Added_20_Beric_AkilWingate_NPC	At the site of the rift, thousands of Sorak tried to cross.
+Narration/&InTemple_Added_20_Beric_AkilWingate_NPC	At the site of the rift, thousands of Soraks tried to cross.
 Narration/&InTemple_Added_21_Beric_AkilWingate_NPC	Sorr-Tarr himself tried.
 Narration/&InTemple_Added_22_Beric_AkilWingate_NPC	The rift was closed, in a gigantic blast.
 Narration/&InTemple_Added_23_Beric_AkilWingate_NPC	Our kings and heroes, Manacalon's masters of magic, were all wiped out.
@@ -6012,7 +6025,7 @@ Narration/&InTemple_Added_27_Beric_AkilWingate_NPC	…it was paramount to stay v
 Narration/&InTemple_Added_28_Beric_AkilWingate_NPC	The memory of what Soraks were, what they could do.
 Narration/&InTemple_Added_29_Beric_AkilWingate_NPC	So that, if one day, they were to return.
 Narration/&InTemple_Added_30_Beric_AkilWingate_NPC	We'd be ready.
-Narration/&InTemple_Added_31_Beric_AkilWingate_NPC	I'm sorry to say, after a thousands years, only few of us remain.
+Narration/&InTemple_Added_31_Beric_AkilWingate_NPC	I'm sorry to say, after a thousand years, only few of us remain.
 Narration/&InTemple_Added_32_Beric_AkilWingate_NPC	Most people believe Soraks are a mere legend, now.
 Narration/&InTemple_Added_33_Beric_AkilWingate_NPC	But you brought us proof.
 Narration/&InTemple_Added_34_Beric_AkilWingate_NPC	The Soraks are not extinct.
@@ -6020,7 +6033,7 @@ Narration/&InTemple_Added_35_NO_AUDIO	Are there different Soraks?
 Narration/&InTemple_Added_36_Player_Default	We fought different ones, do you know more?
 Narration/&InTemple_Added_37_Beric_AkilWingate_NPC	The bulk of their army are foot soldiers, with poisoned spines.
 Narration/&InTemple_Added_38_Beric_AkilWingate_NPC	They breed a cast of albino priests, able to cast spells.
-Narration/&InTemple_Added_39_Beric_AkilWingate_NPC	Some of their are deadly assassins, invisible, venomous.
+Narration/&InTemple_Added_39_Beric_AkilWingate_NPC	Some of them are deadly assassins - invisible, venomous.
 Narration/&InTemple_Added_40_Beric_AkilWingate_NPC	Others are giant brutes.
 Narration/&InTemple_Added_41_Beric_AkilWingate_NPC	The scriptures talk of elite warriors, anti-paladins.
 Narration/&InTemple_Added_42_Beric_AkilWingate_NPC	The Shikkath.
@@ -6033,7 +6046,7 @@ Narration/&InTemple_Added_48_Beric_AkilWingate_NPC	Upon death, they would return
 Narration/&InTemple_Added_49_NO_AUDIO	Why do people follow them?
 Narration/&InTemple_Added_50_Player_Default	How do they get people to worship them?
 Narration/&InTemple_Added_51_Beric_AkilWingate_NPC	They get into people's minds…
-Narration/&InTemple_Added_52_Beric_AkilWingate_NPC	…learn their darkest secrets, they fears, their shameful desires.
+Narration/&InTemple_Added_52_Beric_AkilWingate_NPC	…learn their darkest secrets, their fears, their shameful desires.
 Narration/&InTemple_Added_53_Beric_AkilWingate_NPC	With that, they can blackmail, corrupt, and finally recruit.
 Narration/&InTemple_Added_54_Beric_AkilWingate_NPC	It's much easier for them than to duplicate, and very efficient.
 Narration/&InTemple_Added_55_Player_Default	Well, that's all very scary, but thanks, it's going to help us.
@@ -6080,18 +6093,17 @@ Narration/&CarranTalk_11_WRITTEN_B3	Ask for details about the Scavengers.
 Narration/&CarranTalk_12_WRITTEN_ChangeTopics	Change the general topic.
 Narration/&CarranTalk_13_Player_Default	Can you explain again the Legacy Council's purpose?
 Narration/&CarranTalk_14_Carran_NPC	Really? Right.
-Narration/&CarranTalk_15_Carran_NPC	The Council was founded to ease tensions among the Eastern Kingdoms.
-Narration/&CarranTalk_16_Carran_NPC	The position of the Copperhead Road puts the Principality in a strategic position…
-Narration/&CarranTalk_17_Carran_NPC	…to exploit the ancient knowledge and treasures that come out of the Badlands.
-Narration/&CarranTalk_18_Carran_NPC	The Council makes sure everyone has equal access, so no one's tempted to invade.
+Narration/&CarranTalk_15_Carran_NPC	The position of the Copperhead Road puts the Principality in a strategic position…
+Narration/&CarranTalk_16_Carran_NPC	…to exploit the ancient knowledge and treasures that come out of the Badlands.
+Narration/&CarranTalk_17_Carran_NPC	The Council makes sure everyone has equal access, so no one's tempted to invade.
 Narration/&CarranTalk_19_Player_Default	Why are you recruiting adventurers?
-Narration/&CarranTalk_20_Carran_NPC	To scout the Badlands and the Marches that surround them…
-Narration/&CarranTalk_21_Carran_NPC	…and bring back whatever can be recovered. Antiquities, magical lore, anything.
-Narration/&CarranTalk_22_Carran_NPC	Then the Council makes sure everyone gets a chance to study it.
-Narration/&CarranTalk_23_Carran_NPC	We want people who will swear allegiance to the Council, and not to one nation.
-Narration/&CarranTalk_24_Carran_NPC	It's a… fresh idea. I'm afraid it hasn't had much success so far.
-Narration/&CarranTalk_25_Carran_NPC	Captain Merran is a great example for beginners.
-Narration/&CarranTalk_26_Carran_NPC	But the events in Caer Lem… well, we lost almost all of our people there.
+Narration/&CarranTalk_18_Carran_NPC	To scout the Badlands and the Marches that surround them…
+Narration/&CarranTalk_20_Carran_NPC	…and bring back whatever can be recovered. Antiquities, magical lore, anything.
+Narration/&CarranTalk_21_Carran_NPC	Then the Council makes sure everyone gets a chance to study it.
+Narration/&CarranTalk_22_Carran_NPC	We want people who will swear allegiance to the Council, and not to one nation.
+Narration/&CarranTalk_23_Carran_NPC	It's a… fresh idea. I'm afraid it hasn't had much success so far.
+Narration/&CarranTalk_24_Carran_NPC	Captain Merran is a great example for beginners.
+Narration/&CarranTalk_25_Carran_NPC	But the events in Caer Lem… well, we lost almost all of our people there.
 Narration/&CarranTalk_27_Carran_NPC	Captain Henrik's demise sends the wrong message.
 Narration/&CarranTalk_28_Carran_NPC	Lord Stonebeard, an influential member of the Snow Alliance is also very…
 Narration/&CarranTalk_29_Carran_NPC	…doubtful about the whole concept.
@@ -6129,60 +6141,60 @@ Narration/&Conjuration_Interrogation_14b_Sorak_Prisoner_NPC	After each death, it
 Narration/&Conjuration_GardenShed_1_HighestPerceptionOrElse_Default	Freeze, Soraks! 
 Narration/&Conjuration_GardenShed_2_Sellsword_Slang	Time to show them who we are! 
 Narration/&Conjuration_GardenShed_3_HighestPerceptionOrElse_Default	They haven't seen us yet! No need to rush!
-Narration/&Conjuration_GardenShed_4_Sellsword_Slang	It comes to the same thing in the end!
+Narration/&Conjuration_GardenShed_4_Sellsword_Slang	It comes down to the same thing in the end!
 Narration/&Conjuration_GardenShed_5_HighestPerceptionOrElse_Default	Look - they've gone into that shed! 
 Narration/&Conjuration_GardenShed_6_SpyOrHighestperception_Default	It's pretty small for so many Soraks. Tunnel entrance?
 Narration/&Conjuration_GardenShed_8_NotHighestInt_Default	No reason to wait, they're gone.
 Narration/&Conjuration_GardenShed_9_HighestWisorElse_Default	What if they come out?
 Narration/&Conjuration_GardenShed_8_HighestPerceptionOrElse_Default	We'll kill them.
 Narration/&Conjuration_SorakFight1_Starter_Default	What just happened?!
-Narration/&Conjuration_SorakFight2_Cynical_Default	A gem…right?
+Narration/&Conjuration_SorakFight2_Cynical_Default	A gem… right?
 Narration/&Conjuration_SorakFight3_Cynical_Default	Just like that.
 Narration/&Conjuration_SorakFight4_Selfpres_Default	Did you hear that? 
 Narration/&Conjuration_SorakFight5_Sellsword_Default	The sound of killing.
-Narration/&Conjuration_SorakFight6_Starter_Default	The soraks.
+Narration/&Conjuration_SorakFight6_Starter_Default	The Soraks.
 Narration/&Conjuration_SorakFight7_Selfpres_Default	That was fast.
 Narration/&Conjuration_SorakFight8_Sellsword_Default	You afraid?
 Narration/&Conjuration_SorakFight9_Selfpres_Default	Of course not.
-Narration/&Banter_Conjuration_TheID_TheBeast_02	A comfortable golden mattress
+Narration/&Banter_Conjuration_TheID_TheBeast_02	A comfortable golden mattress.
 Narration/&Banter_Conjuration_TheID_TheSuperEgo_03	Another one of these platforms!
-Narration/&Banter_Conjuration_TheEgo_01	All these movements make me dizzy
-Narration/&Banter_Conjuration_TheEgo_02	Be careful, it may be dangerous
-Narration/&Banter_Conjuration_TheEgo_03	What is the tormented mind that built this place?
-Narration/&Banter_Conjuration_TheEgo_04	Have we been killed and sent to the afterlife? I don't know what to think.
+Narration/&Banter_Conjuration_TheEgo_01	All this movement is making me dizzy.
+Narration/&Banter_Conjuration_TheEgo_02	Be careful, it could be dangerous.
+Narration/&Banter_Conjuration_TheEgo_03	What kind of tormented mind built this place?
+Narration/&Banter_Conjuration_TheEgo_04	Have we been killed and sent to the afterlife? I don't know what to make of it.
 Narration/&Banter_Conjuration_TheEgo_05	Rotate, again and again.
 Narration/&Banter_Conjuration_TheSuperEgo_Slave_Escape_A_1	Just open the door!
-Narration/&Banter_Conjuration_TheSuperEgo_Slave_Escape_A_2	I promise I will be good! 
+Narration/&Banter_Conjuration_TheSuperEgo_Slave_Escape_A_2	I promise I'll be good! 
 Narration/&Banter_Conjuration_TheSuperEgo_Slave_Escape_B_1	You can't leave! 
 Narration/&Banter_Conjuration_TheSuperEgo_Slave_Escape_B_2	None of us can leave!
 Narration/&Banter_Conjuration_TheSuperEgo_Servant_Treasure_Room_1	The Master sees all!
 Narration/&Banter_Conjuration_TheSuperEgo_Servant_Treasure_Room_2	Don't do it! 
-Narration/&Banter_Conjuration_TheSuperEgo_Servant_Treasure_Room_if_Stolen_1	Fools! The redeemers won't stay hungry long!
+Narration/&Banter_Conjuration_TheSuperEgo_Servant_Treasure_Room_if_Stolen_1	Fools! The Redeemers won't stay hungry long!
 Narration/&Banter_Conjuration_TheSuperEgo_Servant_Treasure_Room_if_Stolen_2	Pray for mercy! But don't expect it! 
 Narration/&Banter_Conjuration_TheSuperEgo_Servant_Help_1	So tired, so hungry, and the day is still young!
 Narration/&Banter_Conjuration_TheSuperEgo_Servant_Help_2	Thank you, kind stranger! 
-Narration/&TextOnlyNPCSpeech_BloodSpear_Tribe_05	Edrof strong chief !
-Narration/&TextOnlyNPCSpeech_BloodSpear_Edrof_01	Edrof Chief ! Bloodspear no alliance with Nyarks !
-Narration/&TextOnlyNPCSpeech_SandRaven_Guard_01	Urka chief ! Nyarks go see Urka.
-Narration/&TextOnlyNPCSpeech_SandRaven_Guard_02	SandRaven mighty tribe !
-Narration/&TextOnlyNPCSpeech_SandRaven_Guard_03	Nyark see ghost ?
-Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_01	SandRaven strong !
-Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_02	Kebra strong. Kebra control Nyarks !
-Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_03	SandRaven want trade with Nyarks
-Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_04	Necropolis behind Redscar gate. 
-Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_05	Volcano good heat !
-Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_06	Nyarks like volcano ?
-Narration/&TextOnlyNPCSpeech_SandRaven_Urka_01	Nyarks got the Key ?
+Narration/&TextOnlyNPCSpeech_BloodSpear_Tribe_05	Edrof strong chief!
+Narration/&TextOnlyNPCSpeech_BloodSpear_Edrof_01	Edrof chief! Bloodspear no alliance with nyarks!
+Narration/&TextOnlyNPCSpeech_SandRaven_Guard_01	Urka chief! Nyarks go see Urka.
+Narration/&TextOnlyNPCSpeech_SandRaven_Guard_02	Sandraven mighty tribe!
+Narration/&TextOnlyNPCSpeech_SandRaven_Guard_03	Nyark see ghost?
+Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_01	Sandraven strong!
+Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_02	Kebra strong. Kebra control nyarks!
+Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_03	Sandraven want trade with nyarks.
+Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_04	Necropolis behind Redscar Gate. 
+Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_05	Volcano good heat!
+Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_06	Nyarks like volcano?
+Narration/&TextOnlyNPCSpeech_SandRaven_Urka_01	Nyarks got the Key?
 Narration/&EndingCinematic_01	It was done.
 Narration/&EndingCinematic_02	Never again would so many gods unite their forces to create a passage through the worlds.
-Narration/&EndingCinematic_03	Sorr-Tarr would remain on Tirmar, until the end of times.
+Narration/&EndingCinematic_03	Sorr-Tarr would remain on Tirmar until the end of time.
 Narration/&EndingCinematic_04	But his children of darkness had set foot on Solasta.
 Narration/&EndingCinematic_05	And planted the seeds of evil.
 Narration/&EndingCinematic_06	Deeper than anyone could have imagined.
 Narration/&TextOnlyNPCSpeech_Bone_Yard_01	Nothing here.
-Narration/&TextOnlyNPCSpeech_Bone_Yard_02	Got it !
-Narration/&TextOnlyNPCSpeech_Bone_Yard_03	No teeth in here.
-Narration/&TextOnlyNPCSpeech_Bone_Yard_04	Nothing there, let's move the the next bone pile.
+Narration/&TextOnlyNPCSpeech_Bone_Yard_02	Got it!
+Narration/&TextOnlyNPCSpeech_Bone_Yard_03	Just bones…
+Narration/&TextOnlyNPCSpeech_Bone_Yard_04	Nothing here. Let's move to the next pile of bones.
 Narration/&NPC_Banter1_Guard_Mirabelle_Bye	Safe travels, adventurers!
 Narration/&NPC_Banter2_Guard_Mirabelle_Bye	Stay in the light, citizens!
 Narration/&NPC_Banter3_Guard_Mirabelle_Bye	Einar guide you, deputies!
@@ -6201,16 +6213,16 @@ Narration/&NPC_Banter3_Guard_MarkJane_Bye	Einar guide you, deputies!
 Narration/&NPC_Banter4_Guard_MarkJane_Bye	Strike true, friends!
 Narration/&NPC_Banter5_Guard_MarkJane_Return	Welcome home, deputies!
 Narration/&NPC_Banter6_Guard_MarkJane_Return	Good to see you, deputies!
-Narration/&NPC_Banter1_Orc_MarkJane_talk	Urka chief ! Nyarks go see Urka.
-Narration/&NPC_Banter2_Orc_MarkJane_talk	SandRaven mighty tribe !
-Narration/&NPC_Banter3_Orc_MarkJane_talk	Nyark see ghost ?
-Narration/&NPC_Banter4_Orc_MarkJane_talk	SandRaven strong !
-Narration/&NPC_Banter5_Orc_MarkJane_talk	Kebra strong. Kebra control Nyarks !
-Narration/&NPC_Banter6_Orc_MarkJane_talk	SandRaven want trade with Nyarks
-Narration/&NPC_Banter7_Orc_MarkJane_talk	Necropolis behind Redscar gate. 
-Narration/&NPC_Banter8_Orc_MarkJane_talk	Volcano good heat !
-Narration/&NPC_Banter9_Orc_MarkJane_talk	Nyarks like volcano ?
-Narration/&NPC_Banter10_Orc_MarkJane_talk	Nyarks got the Key ?
+Narration/&NPC_Banter1_Orc_MarkJane_talk	Urka chief! Nyarks go see Urka.
+Narration/&NPC_Banter2_Orc_MarkJane_talk	Sandraven mighty tribe!
+Narration/&NPC_Banter3_Orc_MarkJane_talk	Nyark see ghost?
+Narration/&NPC_Banter4_Orc_MarkJane_talk	Sandraven strong!
+Narration/&NPC_Banter5_Orc_MarkJane_talk	Kebra strong. Kebra control nyarks!
+Narration/&NPC_Banter6_Orc_MarkJane_talk	Sandraven want trade with nyarks.
+Narration/&NPC_Banter7_Orc_MarkJane_talk	Necropolis behind Redscar Gate. 
+Narration/&NPC_Banter8_Orc_MarkJane_talk	Volcano good heat!
+Narration/&NPC_Banter9_Orc_MarkJane_talk	Nyarks like volcano?
+Narration/&NPC_Banter10_Orc_MarkJane_talk	Nyarks got the Key?
 Narration/&NPC_Banter11_Orc_MarkJane_talk	Brok is new chief.
 Narration/&NPC_Banter12_Orc_MarkJane_talk	Nyark killed Edrof in arena.
 Narration/&NPC_Banter13_Orc_MarkJane_talk	Nyark strong.
@@ -6219,17 +6231,17 @@ Narration/&NPC_Banter15_Orc_MarkJane_talk	Brok alive?
 Narration/&NPC_Banter16_Orc_MarkJane_talk	Kebra survive Arrok's fire.
 Narration/&NPC_Banter17_Orc_MarkJane_talk	Kralshe-Renn is dead?
 Narration/&NPC_Banter18_Orc_MarkJane_talk	Necropolis full of elf ghosts.
-Narration/&NPC_Banter19_Orc_MarkJane_talk	You fight redeemer?
-Narration/&NPC_Banter1_Orc_AkilWingate_talk	Urka chief ! Nyarks go see Urka.
-Narration/&NPC_Banter2_Orc_AkilWingate_talk	SandRaven mighty tribe !
-Narration/&NPC_Banter3_Orc_AkilWingate_talk	Nyark see ghost ?
-Narration/&NPC_Banter4_Orc_AkilWingate_talk	SandRaven strong !
-Narration/&NPC_Banter5_Orc_AkilWingate_talk	Kebra strong. Kebra control Nyarks !
-Narration/&NPC_Banter6_Orc_AkilWingate_talk	SandRaven want trade with Nyarks
-Narration/&NPC_Banter7_Orc_AkilWingate_talk	Necropolis behind Redscar gate. 
-Narration/&NPC_Banter8_Orc_AkilWingate_talk	Volcano good heat !
-Narration/&NPC_Banter9_Orc_AkilWingate_talk	Nyarks like volcano ?
-Narration/&NPC_Banter10_Orc_AkilWingate_talk	Nyarks got the Key ?
+Narration/&NPC_Banter19_Orc_MarkJane_talk	You fight Redeemer?
+Narration/&NPC_Banter1_Orc_AkilWingate_talk	Urka chief! Nyarks go see Urka.
+Narration/&NPC_Banter2_Orc_AkilWingate_talk	Sandraven mighty tribe!
+Narration/&NPC_Banter3_Orc_AkilWingate_talk	Nyark see ghost?
+Narration/&NPC_Banter4_Orc_AkilWingate_talk	Sandraven strong!
+Narration/&NPC_Banter5_Orc_AkilWingate_talk	Kebra strong. Kebra control nyarks!
+Narration/&NPC_Banter6_Orc_AkilWingate_talk	Sandraven want trade with nyarks.
+Narration/&NPC_Banter7_Orc_AkilWingate_talk	Necropolis behind Redscar Gate. 
+Narration/&NPC_Banter8_Orc_AkilWingate_talk	Volcano good heat!
+Narration/&NPC_Banter9_Orc_AkilWingate_talk	Nyarks like volcano?
+Narration/&NPC_Banter10_Orc_AkilWingate_talk	Nyarks got the Key?
 Narration/&NPC_Banter11_Orc_AkilWingate_talk	Brok is new chief.
 Narration/&NPC_Banter12_Orc_AkilWingate_talk	Nyark killed Edrof in arena.
 Narration/&NPC_Banter13_Orc_AkilWingate_talk	Nyark strong.
@@ -6238,17 +6250,17 @@ Narration/&NPC_Banter15_Orc_AkilWingate_talk	Brok alive?
 Narration/&NPC_Banter16_Orc_AkilWingate_talk	Kebra survive Arrok's fire.
 Narration/&NPC_Banter17_Orc_AkilWingate_talk	Kralshe-Renn is dead?
 Narration/&NPC_Banter18_Orc_AkilWingate_talk	Necropolis full of elf ghosts.
-Narration/&NPC_Banter19_Orc_AkilWingate_talk	You fight redeemer?
-Narration/&NPC_Banter1_Orc_Mirabelle_talk	Urka chief ! Nyarks go see Urka.
-Narration/&NPC_Banter2_Orc_Mirabelle_talk	SandRaven mighty tribe !
-Narration/&NPC_Banter3_Orc_Mirabelle_talk	Nyark see ghost ?
-Narration/&NPC_Banter4_Orc_Mirabelle_talk	SandRaven strong !
-Narration/&NPC_Banter5_Orc_Mirabelle_talk	Kebra strong. Kebra control Nyarks !
-Narration/&NPC_Banter6_Orc_Mirabelle_talk	SandRaven want trade with Nyarks
-Narration/&NPC_Banter7_Orc_Mirabelle_talk	Necropolis behind Redscar gate. 
-Narration/&NPC_Banter8_Orc_Mirabelle_talk	Volcano good heat !
-Narration/&NPC_Banter9_Orc_Mirabelle_talk	Nyarks like volcano ?
-Narration/&NPC_Banter10_Orc_Mirabelle_talk	Nyarks got the Key ?
+Narration/&NPC_Banter19_Orc_AkilWingate_talk	You fight Redeemer?
+Narration/&NPC_Banter1_Orc_Mirabelle_talk	Urka chief! Nyarks go see Urka.
+Narration/&NPC_Banter2_Orc_Mirabelle_talk	Sandraven mighty tribe!
+Narration/&NPC_Banter3_Orc_Mirabelle_talk	Nyark see ghost?
+Narration/&NPC_Banter4_Orc_Mirabelle_talk	Sandraven strong!
+Narration/&NPC_Banter5_Orc_Mirabelle_talk	Kebra strong. Kebra control nyarks!
+Narration/&NPC_Banter6_Orc_Mirabelle_talk	Sandraven want trade with nyarks.
+Narration/&NPC_Banter7_Orc_Mirabelle_talk	Necropolis behind Redscar Gate. 
+Narration/&NPC_Banter8_Orc_Mirabelle_talk	Volcano good heat!
+Narration/&NPC_Banter9_Orc_Mirabelle_talk	Nyarks like volcano?
+Narration/&NPC_Banter10_Orc_Mirabelle_talk	Nyarks got the Key?
 Narration/&NPC_Banter11_Orc_Mirabelle_talk	Brok is new chief.
 Narration/&NPC_Banter12_Orc_Mirabelle_talk	Nyark killed Edrof in arena.
 Narration/&NPC_Banter13_Orc_Mirabelle_talk	Nyark strong.
@@ -6257,23 +6269,26 @@ Narration/&NPC_Banter15_Orc_Mirabelle_talk	Brok alive?
 Narration/&NPC_Banter16_Orc_Mirabelle_talk	Kebra survive Arrok's fire.
 Narration/&NPC_Banter17_Orc_Mirabelle_talk	Kralshe-Renn is dead?
 Narration/&NPC_Banter18_Orc_Mirabelle_talk	Necropolis full of elf ghosts.
-Narration/&NPC_Banter19_Orc_Mirabelle_talk	You fight redeemer?
-Narration/&PhilosopherBackgroundQuest_TheCoven_2_Illoreth_NPC	Yes. Here, take those masks! Keep them on at all times!
-Narration/&PhilosopherBackgroundQuest_TheCoven2_6_Guard_NPC	But who are these others? 
+Narration/&NPC_Banter19_Orc_Mirabelle_talk	You fight Redeemer?
+Narration/&PhilosopherBackgroundQuest_TheCoven_2_Illoreth_NPC	Yes.
+Narration/&PhilosopherBackgroundQuest_TheCoven2_6_Guard_NPC	But why the other ones?
 Narration/&ConjurationQuest_Servants_1_HighestPerception_Normal	Is it me or is this place truly spotless?
 Narration/&ConjurationQuest_Servants_2_HighestPerception_Normal	Must be the spectral servants.
 Narration/&ConjurationQuest_Servants_3_NosyOrElse_Formal	Everything is shiny!
 Narration/&ConjurationQuest_Servants_4_CynicOrElse_Formal	First time I've seen you fascinated by cleaning!
 Narration/&ConjurationQuest_Servants_5_NosyOrElse_Normal	Even the most mundane tasks can be…
-Narration/&ConjurationQuest_Servants_6_NosyOrElse_Normal	...the expression of true nobility…
-Narration/&ConjurationQuest_Servants_7_NosyOrElse_Normal	...when done to the fullest!
-Narration/&ConjurationQuest_Servants_8_CynicOrElse_Normal	I shall remind you at next camp…
-Narration/&ConjurationQuest_Servants_9_CynicOrElse_Normal	...when the dishes come up! 
-Narration/&ConjurationQuest_Servants_10_Crownbearer_Normal	Indeed those servants would come in handy.
+Narration/&ConjurationQuest_Servants_6_NosyOrElse_Normal	…the expression of true nobility…
+Narration/&ConjurationQuest_Servants_7_NosyOrElse_Normal	…when done to the fullest!
+Narration/&ConjurationQuest_Servants_8_CynicOrElse_Normal	I shall remind you at the next camp…
+Narration/&ConjurationQuest_Servants_9_CynicOrElse_Normal	…when the dishes come up! 
+Narration/&ConjurationQuest_Servants_10_Crownbearer_Normal	Indeed, those servants would come in handy.
 Narration/&ConjurationQuest_Servants_11_CynicOrElse_Normal	For you Highness's Household? 
-Narration/&ConjurationQuest_Servants_12_Crownbearer_Normal	Alright, stop your sillyness.
-Narration/&ConjurationQuest_Servants_13_Crownbearer_Normal	There is imperial magic active around here…
+Narration/&ConjurationQuest_Servants_12_Crownbearer_Normal	All right, stop your silliness.
+Narration/&ConjurationQuest_Servants_13_Crownbearer_Normal	There is Imperial magic active around here…
 Narration/&ConjurationQuest_Servants_14_Crownbearer_Normal	…the gem is close, I feel it.
-Narration/&ConjurationQuest_Servants_15_HighestPerception_Normal	And I can't help feeling I am watched
-Narration/&ConjurationQuest_Servants_16_SelfPreservationOrElse_Normal	Let's tread carefully there! 
+Narration/&ConjurationQuest_Servants_15_HighestPerception_Normal	And I can't help feeling like I'm watched.
+Narration/&ConjurationQuest_Servants_16_SelfPreservationOrElse_Normal	Let's tread carefully here! 
 Narration/&ConjurationQuest_Servants_17_CynicOrElse_Normal	Famous last words! 
+Narration/&TextOnlyNPCSpeech_Lowlife_Thug01	Get the sword!
+Narration/&Council4_8_Any_Default	We have six gems, but we can't seem to find the others.
+Narration/&Council4_9_Gormsdottir_NPC	Two gems missing?

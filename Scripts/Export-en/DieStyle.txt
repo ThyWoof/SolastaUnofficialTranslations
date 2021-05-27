@@ -4,3 +4,7 @@ DieStyle/&DieStyleIvoryTitle	Ivory
 DieStyle/&DieStyleRubyTitle	Ruby
 DieStyle/&DieStyleStandardTitle	Standard
 DieStyle/&DieStyleYellowTitle	Yellow
+DieStyle/&DieStyleGoldSupporterTitle	Gold
+DieStyle/&DieStyleSilverSupporterTitle	Silver
+DieStyle/&DieStyleBronzeSupporterTitle	Bronze
+DieStyle/&DieStyleDiamondSupporterTitle	Diamond

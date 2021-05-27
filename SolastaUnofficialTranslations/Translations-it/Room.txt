@@ -1,0 +1,11 @@
+Room/&Corner_12CTitle	Angolo
+Room/&Crossroad_12CTitle	Crossroad
+Room/&Hallway_12CTitle	Corridoio
+Room/&Line_12CTitle	Linea
+Room/&Room_Big_24CTitle	Grande stanza
+Room/&Room_Small_24CTitle	Stanza piccola
+Room/&Line_24CTitle	Corridoio
+Room/&Turn_12CTitle	Turn
+Room/&Room_Big_48CTitle	Stanza enorme
+Room/&Clearing_Large_24CTitle	Ampia compensazione
+Room/&Clearing_Small_12CTitle	Piccolo schiarimento

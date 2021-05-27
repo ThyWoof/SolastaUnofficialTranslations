@@ -7,4 +7,4 @@ Condition/&ChildOfDarkness2_Title	Apostle of Darkness
 Condition/&ChildOfDarkness2_Description	This Sorak is more powerful and regenerates in dim light, and even more so in darkness.
 Condition/&ChildOfDarkness3_Title	Prophet of Darkness
 Condition/&ChildOfDarkness3_Description	This Sorak is more powerful and regenerates in dim light, and even more so in darkness.
-Condition/&ChildOfDarkness0_Description	This Sorak is more powerful and regenerates in Darkness.
+Condition/&ChildOfDarkness0_Description	This Sorak is more powerful and regenerates in darkness.

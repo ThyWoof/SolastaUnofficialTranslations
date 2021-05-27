@@ -1,0 +1,22 @@
+Language/&CommonDescription	La lingua standard parlata su Solasta è una forma degradata dell'Alto Elfico Imperiale, infusa con frammenti di lingua tirmarian. È un'eredità della storia di Solasta.
+Language/&CommonTitle	Comune
+Language/&DwarvishDescription	Un'antica lingua solastana, preservata dai nani che vivevano al di fuori del dominio imperiale, è sopravvissuta al cataclisma.
+Language/&DwarvishTitle	Nanesco
+Language/&ElvishDescription	Un'antica lingua solastana, condivisa da elfi alti ed elfi silvestri, ma parlata principalmente da questi ultimi.
+Language/&ElvishTitle	Elfico
+Language/&GiantDescription	La lingua parlata dalla maggior parte degli umanoidi di grandi dimensioni, come i veri giganti o esseri inferiori come gli orchi.
+Language/&GiantTitle	Gigante
+Language/&GoblinDescription	Il rozzo dialetto dei goblin è persino più semplice degli orchi.
+Language/&GoblinTitle	Goblin
+Language/&HalflingDescription	L'antica lingua degli Halfling, originata prima della divisione tra i popoli delle Paludi e delle Isole.
+Language/&HalflingTitle	Halfling
+Language/&OrcDescription	La lingua parlata dagli orchi e dai loro fratelli.
+Language/&OrcTitle	Orchi
+Language/&ReptilianDescription	La lingua parlata dai Sorr-Akkath e dai loro fratelli.
+Language/&ReptilianTitle	Rettiliano
+Language/&SpyCodeDescription	Questo libro di vari codici e cifrari ti permette di leggere la maggior parte dei messaggi codificati.
+Language/&SpyCodeTitle	Codebook della spia
+Language/&TerranDescription	Un dialetto della lingua primordiale parlata dalle creature del Piano Elementale della Terra o da quelle altrimenti legate alla Terra in qualche modo.
+Language/&TerranTitle	Terran
+Language/&TirmarianDescription	Una lingua antica, originata da Tirmar, il mondo perduto degli umani. È stato protetto e trasmesso sin dal Cataclisma.
+Language/&TirmarianTitle	Vecchio Tirmarian

@@ -57,8 +57,8 @@ Setting/&GroupedMonsterInitiativesDescription	When rolling for initiative, all m
 Setting/&GroupedMonsterInitiativesTitle	Grouped Monster Initiatives
 Setting/&HealingStyleDescription	Die style used for healing effects.
 Setting/&HealingStyleTitle	Healing Style
-Setting/&MainD20StyleDescription	Die style for main d20.
-Setting/&MainD20StyleTitle	Main d20 Style
+Setting/&MainD20StyleDescription	
+Setting/&MainD20StyleTitle	
 Setting/&MainTitle	Settings
 Setting/&MasterEnabledDescription	All audio on/off.
 Setting/&MasterEnabledTitle	Master Enabled
@@ -120,8 +120,8 @@ Setting/&RollInitiativeDieDescription	Show/hide die when the game rolls for init
 Setting/&RollInitiativeDieTitle	Show Initiative Die
 Setting/&RollSavingThrowDieDescription	Show/hide die when a saving throw is rolled.
 Setting/&RollSavingThrowDieTitle	Show Saving Throw Die
-Setting/&SecondaryD20StyleDescription	Die style for second d20 used in rolls with advantage/disadvantage.
-Setting/&SecondaryD20StyleTitle	Second d20 Style
+Setting/&SecondaryD20StyleDescription	
+Setting/&SecondaryD20StyleTitle	
 Setting/&ShowHelmetInPortraitDescription	Check this to show/hide helmets in character portraits.
 Setting/&ShowHelmetInPortraitTitle	Show Helmet in Portrait
 Setting/&TargetFramerateDescription	Allows you to limit the framerate to a given number of frames per second, limiting computation cost/overheating.
@@ -240,17 +240,17 @@ Setting/&DiceVisibilityTitle	Dice Visibility
 Setting/&DiceStyleTitle	Dice Style
 Setting/&PartyD20StyleDescription	Die style for party d20 rolls
 Setting/&PartyD20StyleTitle	Party d20 Style
-Setting/&PartySecondaryD20StyleDescription	Die style for the party’s second die when rolling with advantage or disadvantage
+Setting/&PartySecondaryD20StyleDescription	Die style for the party's second die when rolling with advantage or disadvantage
 Setting/&PartySecondaryD20StyleTitle	Party Adv./Disadv. d20 Style
 Setting/&EnemyD20StyleDescription	Die style for enemy d20 rolls
 Setting/&EnemyD20StyleTitle	Enemy d20 Style
-Setting/&EnemySecondaryD20StyleDescription	Die style for the enemy's second dice when rolling with advantage or disadvantage
+Setting/&EnemySecondaryD20StyleDescription	Die style for the enemy's second die when rolling with advantage or disadvantage
 Setting/&EnemySecondaryD20StyleTitle	Enemy Adv./Disadv. d20 Style
 Setting/&ToggleKeyboardDescription	Allows you to customize the keyboard mapping of game commands
 Setting/&ToggleKeyboardTitle	Keyboard
 Setting/&GeneralHeaderTitle	General
 Setting/&CancelTitle	Cancel
-Setting/&PlayPauseTitle	Play/Pause
+Setting/&PlayPauseTitle	Play/Pause/Speed Up Battle Turn
 Setting/&QuickSaveTitle	Quick Save
 Setting/&QuickLoadTitle	Quick Load
 Setting/&ToggleMapTitle	Toggle Map
@@ -293,29 +293,29 @@ Setting/&DisplayHeaderTitle	Display
 Setting/&GameplayHeaderTitle	Gameplay
 Setting/&CameraHeaderTitle	Camera
 Setting/&SpellComponentsHeaderTitle	Spell Components
-Setting/&VerbalComponentDescription	Determines how you simulate the requirements for spells with a verbal component
+Setting/&VerbalComponentDescription	Determines how you simulate the requirements for spells with a verbal component.
 Setting/&VerbalComponentTitle	Verbal Components
-Setting/&VerbalComponentDisabledDescription	Heroes do not require the ability to speak to cast spells with a verbal component
+Setting/&VerbalComponentDisabledDescription	Heroes do not require the ability to speak to cast spells with a verbal component.
 Setting/&VerbalComponentDisabledTitle	Disabled
-Setting/&VerbalComponentFullDescription	Heroes must be able to speak to cast spells with a verbal component
+Setting/&VerbalComponentFullDescription	Heroes must be able to speak to cast spells with a verbal component.
 Setting/&VerbalComponentFullTitle	Full
-Setting/&SomaticComponentDescription	Determines how you simulate the requirements for spells with a somatic component
+Setting/&SomaticComponentDescription	Determines how you simulate the requirements for spells with a somatic component.
 Setting/&SomaticComponentTitle	Somatic Components
-Setting/&SomaticComponentDisabledDescription	Heroes do not require the ability to speak to cast spells with a verbal component
+Setting/&SomaticComponentDisabledDescription	Heroes do not require the ability to speak to cast spells with a verbal component.
 Setting/&SomaticComponentDisabledTitle	Disabled
-Setting/&SomaticComponentBasicDescription	Characters cannot cast a spell with a somatic component if they are restrained
-Setting/&SomaticComponentBasicTitle	Basic
+Setting/&SomaticComponentBasicDescription	
+Setting/&SomaticComponentBasicTitle	
 Setting/&SomaticComponentFullTitle	Full
-Setting/&MaterialComponentDescription	Determines how you simulate the requirements for spells with a material component
+Setting/&MaterialComponentDescription	Determines how you simulate the requirements for spells with a material component.
 Setting/&MaterialComponentTitle	Material Components
-Setting/&MaterialComponentDisabledDescription	No material components are required
+Setting/&MaterialComponentDisabledDescription	No material components are required.
 Setting/&MaterialComponentDisabledTitle	Disabled
-Setting/&MaterialComponentBasicDescription	Spells with a material component require a spell focus or component pouch
+Setting/&MaterialComponentBasicDescription	Spells with a material component require a spell focus or component pouch.
 Setting/&MaterialComponentBasicTitle	Basic
-Setting/&MaterialComponentFullDescription	Spells with a mundane material component require a spell focus or component pouch. Spells with a specific component require it
+Setting/&MaterialComponentFullDescription	Spells with a mundane material component require a spell focus or component pouch. Spells with a specific component require it.
 Setting/&MaterialComponentFullTitle	Full
 Setting/&OtherHeaderTitle	Other
-Setting/&DifficultySettingsHeaderTitle	Difficulty Settings
+Setting/&DifficultySettingsHeaderTitle	Difficulty Settings - can be changed during play
 Setting/&DifficultyPresetTitle	Difficulty
 Setting/&DifficultyPresetDescription	Choose from a list of difficulty presets.
 Setting/&DifficultyPresetPreset1Title	Story Mode
@@ -361,7 +361,7 @@ Setting/&CompanionsRestDescription	Critical NPCs and companions fully recover du
 Setting/&NoFoodNeededTitle	No Food Required
 Setting/&NoFoodNeededDescription	Characters can take a long rest even if they have no food.
 Setting/&MaxHpOnHitDiceTitle	Max Health on Hit Dice
-Setting/&MaxHpOnHitDiceDescription	Using a hit die during a short rests grants the maximum amount of health back.
+Setting/&MaxHpOnHitDiceDescription	Using a hit die during a short rest grants the maximum amount of health back.
 Setting/&MaxHpOnLevelUpTitle	Max Health on Level Up
 Setting/&MaxHpOnLevelUpDescription	Increase the health of a character by the maximum value upon leveling up.
 Setting/&InventorySettingsHeaderTitle	Inventory
@@ -370,12 +370,12 @@ Setting/&EncumbranceRuleTypeDescription	Choose which encumbrance rule to play wi
 Setting/&EncumbranceRuleTypeDefaultTitle	Tabletop
 Setting/&EncumbranceRuleTypeDefaultDescription	Your characters can carry up to 15x STR.
 Setting/&EncumbranceRuleTypeVariantTitle	Solasta (Variant)
-Setting/&EncumbranceRuleTypeVariantDescription	Your characters can carry up to 15x STR, but will be encumbered above 5x STR and heavily encumbered above 10x STR.
+Setting/&EncumbranceRuleTypeVariantDescription	Your characters can carry up to 15x STR, but will be encumbered above 5x STR, and heavily encumbered above 10x STR.
 Setting/&EncumbranceRuleTypeEasyTitle	Simplified
 Setting/&EncumbranceRuleTypeEasyDescription	Your characters can carry up to 150x STR.
 Setting/&SpellcastingSettingsHeaderTitle	Spellcasting
 Setting/&NeverLoseConcentrationOnSpellsTitle	Never Lose Concentration
-Setting/&NeverLoseConcentrationOnSpellsDescription	A caster concentrating on a spell will not need a constitution saving throw when damaged.
+Setting/&NeverLoseConcentrationOnSpellsDescription	A caster concentrating on a spell will not need a Constitution saving throw when damaged.
 Setting/&ScrollsCanBeUsedByAnyCharacterTitle	Universal Scrolls
 Setting/&ScrollsCanBeUsedByAnyCharacterDescription	Any character can use a scroll, even though the spell is not on their spell list.
 Setting/&RandomnessSettingsHeaderTitle	Dice Rolls
@@ -409,4 +409,20 @@ Setting/&SomaticComponentFullDescription	Characters must have a free hand.
 Setting/&QualityHeaderTitle	Quality
 Setting/&ColorCalibrationHeaderTitle	Color Calibration
 Setting/&FasterTravelOnWorldMapTitle	Faster Travel on World Map
-Setting/&FasterTravelOnWorldMapDescription	Increase the travel speed when travelling on the World Map.
+Setting/&FasterTravelOnWorldMapDescription	Increase the travel speed when traveling on the World Map.
+Setting/&ScrollSensitivityDescription	Sets the speed for scrolling areas with the mouse wheel.
+Setting/&ScrollSensitivityTitle	Scroll Sensitivity
+Setting/&ShadowsTitle	Shadows
+Setting/&ShadowsDescription	Enable or disable shadows.
+Setting/&SubtitlesHeaderTitle	Subtitles
+Setting/&SubtitlesEnabledDescription	Enable/disable subtitles during cutscenes.
+Setting/&SubtitlesEnabledTitle	Enabled
+Setting/&SubtitlesDisplaySpeakerNameDescription	Display the name of the speaking character during cutscenes.
+Setting/&SubtitlesDisplaySpeakerNameTitle	Display Speaker Name
+Setting/&SubtitlesBlackBackgroundDescription	Display a black background behind subtitles.
+Setting/&SubtitlesBlackBackgroundTitle	Black Background
+Setting/&AllowAttuningUnknownItemsTitle	Allow Attuning Unknown Items
+Setting/&AllowAttuningUnknownItemsDescription	A character will be able to attune to a magic item even if its magical properties are unknown.
+Setting/&MoveCameraWithScreenBordersTitle	Move Camera with Screen Borders
+Setting/&SpellbookPagesConstraintTitle	Spellbook Page Limitation
+Setting/&SpellbookPagesConstraintDescription	When the option is activated, spellbooks can only contain spells fitting their pages limit (usually 100 pages). Each scribed spell (either from level up or scroll) takes a number of pages equal to its level in the spellbook. A wizard may have to purchase another spellbook before the end of the Solasta campaign, or be prevented from leveling up.

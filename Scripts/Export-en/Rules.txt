@@ -1,7 +1,7 @@
 Rules/&AbilityAndSkillFormat	{0} ({1})
 Rules/&AbilityCheckFormat	{0} d20{1}
 Rules/&AbilityCheckVersusDcFormat	{0} d20{1} vs DC {2}
-Rules/&AbilityScoreBonusFormat	+ ability bonus
+Rules/&AbilityScoreBonusFormat	+ Ability Bonus
 Rules/&ActivationTypeActionTitle	Action
 Rules/&ActivationTypeBonusActionTitle	Bonus act.
 Rules/&ActivationTypeHours1Title	1 hour
@@ -167,7 +167,6 @@ Rules/&ConditionHeavilyEncumberedTitle	Heavily Encumbered
 Rules/&ConditionHeavilyObscuredTitle	Heavily Obscured
 Rules/&ConditionHeraldOfBattleDescription	+1 to AC; +1 to attack and damage; +1 to all saving throws.
 Rules/&ConditionHeraldOfBattleTitle	Blessed by Herald of Battle
-Rules/&ConditionHeroismDescription	Additional temporary hit points.
 Rules/&ConditionHeroismTitle	Heroism
 Rules/&ConditionHighlightedDescription	Creature cannot benefit from invisibility, attackers have advantage.
 Rules/&ConditionHighlightedTitle	Highlighted
@@ -457,7 +456,7 @@ Rules/&ConditionRestrictedInsideMagicCircleDescription	Temp
 Rules/&ConditionProtectedInsideMagicCircleDescription	Temp
 Rules/&ConditionComprehendLanguagesTitle	Comprehending Languages
 Rules/&ConditionComprehendLanguagesDescription	Can read and speak any language.
-Rules/&ConditionStaffOfMetisTitle	Staff of Metis
+Rules/&ConditionStaffOfMetisTitle	Elemental Resistance
 Rules/&ConditionStaffOfMetisDescription	Resistance to Cold, Fire, and Lightning damage.
 Rules/&ConditionFlying6Description	The target creature gains a flying speed of 6 cells per move action.
 Rules/&AlterationFormAbilityScoreIncreaseValueFormat	Increases {0} score by {1}.
@@ -475,13 +474,13 @@ Rules/&ConditionCloakOfDisplacementTitle	Displaced
 Rules/&ConditionHeavilyObscuredDescription	Creature's vision is heavily obscured; disadvantage on attack rolls; attack rolls against creature have disadvantage.
 Rules/&ConditionConjuredCreatureDescription	This creature has been conjured by a magical effect
 Rules/&ConditionConjuredCreatureTitle	Conjured Creature
-Rules/&ConditionBleedingDescription	The creatures takes 1D6 necrotic damage at the beginning of its turn
+Rules/&ConditionBleedingDescription	The creatures takes 1D6 necrotic damage at the beginning of its turn.
 Rules/&ConditionBleedingTitle	Doomblade Cut
-Rules/&ConditionSilencedDescription	The creature does not emit any sound and cannot speak or cast spells with a verbal component
+Rules/&ConditionSilencedDescription	The creature does not emit any sound and cannot speak or cast spells with a verbal component.
 Rules/&ConditionProtectedFromEvilDescription	Aberrations, celestials, elementals, feys, fiends, and undead have disadvantage to attack the target, and cannot charm, frighten, or possess it. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
 Rules/&ConditionMarkedByFateDescription	Receives additional damage when hit.
 Rules/&ConditionMarkedByFateTitle	Mark of Fate
-Rules/&ConditionStepbackDescription	Advantage to the next attack with a bow this turn.
+Rules/&ConditionStepbackDescription	Advantage on the next attack with a bow this turn.
 Rules/&ConditionStepbackTitle	Step Back Advantage
 Rules/&ConditionInvisibleGreaterDescription	Cannot be seen without magic; the creature has advantage on attacks; attackers have disadvantage. The creature remains invisible even when attacking and casting spells.
 Rules/&ConditionInvisibleGreaterTitle	Invisible (Greater)
@@ -520,17 +519,33 @@ Rules/&ConditionDispellingEvilAndGoodDescription	Celestial, elementals, feys, fi
 Rules/&ConditionMindControlledDescription	The creature is joining the controlling caster.
 Rules/&ConditionMindDominatedDescription	The creature's actions are totally controlled by the caster.
 Rules/&ConditionMindDominatedTitle	Mind Dominated
-Rules/&ConditionOnAcidTitle	Burning from acid
-Rules/&ConditionPheromonedTitle	Pheromone stink
-Rules/&ConditionPheromonedDescription	-3 to CHARISMA Ability Checks for six hours.
-Rules/&ConditionOnAcidDescription	Take 1D3 Acid Damage at the end of your turn for 3 turns.
+Rules/&ConditionOnAcidTitle	Burned by Acid
+Rules/&ConditionPheromonedTitle	Pheromone Stink
+Rules/&ConditionPheromonedDescription	-3 to Charisma ability checks.
+Rules/&ConditionOnAcidDescription	Take 1d3 acid damage at the end of your turn for 3 turns.
 Rules/&ActivationTypePermanentTitle	Permanent
 Rules/&MonsterSpellcastingTitle	Spellcasting
-Rules/&MonsterSpellcastingDescription	The creature has the ability to cast spells
+Rules/&MonsterSpellcastingDescription	The creature has the ability to cast spells.
 Rules/&ConditionCalmedByCalmEmotionsEnemyTitle	Calmed Enemy
-Rules/&ConditionCalmedByCalmEmotionsEnemyDescription	The creature is indifferent towards enemies unless wounded
+Rules/&ConditionCalmedByCalmEmotionsEnemyDescription	The creature is indifferent towards enemies unless it is wounded.
 Rules/&ConditionCalmedByCalmEmotionsAllyTitle	Calmed Ally
-Rules/&ConditionCalmedByCalmEmotionsAllyDescription	The creature cannot be charmed or frightened
+Rules/&ConditionCalmedByCalmEmotionsAllyDescription	The creature cannot be charmed or frightened.
+Rules/&ConditionArcaneShockedTitle	Arcane Shocked
+Rules/&ConditionArcaneShockedDescription	Your attack spells dice deal at least average damage.
+Rules/&ConditionHidingInPlainSightTitle	Hiding in Plain Sight
+Rules/&ConditionHidingInPlainSightDescription	+10 DEX (Stealth) while you are standing against a wall.
+Rules/&KillFormAlwaysFormat	Target creature is killed.
+Rules/&KillFormUnderChallengeRatingFormat	Target creature is killed if its challenge rating is {0} or lower.
+Rules/&KillFormUnderHitPointsFormat	Target creature is killed if its remaining hit points are equal to {0} or lower.
+Rules/&ConditionSwallowedTitle	Swallowed
+Rules/&ConditionSwallowedRemorhazDescription	Cannot act and takes 6d6 acid damage each turn. A single attack of 30 damage can force the swallower to regurgitate.
+Rules/&AlterationFormLightUpFormat	Ignites light sources.
+Rules/&ConditionOnFire_Elemental_Title	On fire (Fire Elemental)
+Rules/&ConditionOnFire_Spider_Title	On fire (Fire Spider)
+Rules/&ConditionOnFire_Osprey_Title	On fire (Fire Osprey)
+Rules/&ReviveFormFormat	Revives a dead character
+Rules/&ConditionHeroismDescription	Cannot be frightened
+Rules/&RateD6_56FormatTitle	on 5 or 6 on 1d6
 Rules/&OrientationNorthTitle	North
 Rules/&OrientationEastTitle	East
 Rules/&OrientationSouthTitle	South

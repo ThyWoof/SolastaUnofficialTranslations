@@ -140,3 +140,74 @@ Encounter/&SpectralHunterTitle	Spectral Hunter
 Encounter/&SpectralHunterDescription	An undead hunter and his undead pet wolf.
 Encounter/&TigerDrakesTitle	Tiger Drakes
 Encounter/&TigerDrakesDescription	Huge flying snakes resembling small dragons.
+Encounter/&CR10_YoungRemorhazes_Title	Remorhazes
+Encounter/&CR12_Redeemers_x3_Title	Group of Redeemers
+Encounter/&CR15_Redeemers_x1_x2_Title	Zealot and Pilgrims
+Encounter/&CR9_Minor_Fire_Elementals_Title	Minor Fire Elementals
+Encounter/&CR14_Fire_Elementals_Title	Fire Elementals
+Encounter/&CR18_Major_Fire_Elementals_Title	Major Fire Elementals
+Encounter/&CR6_Minor_Air_Elementals_Title	Minor Air Elementals
+Encounter/&CR12_Air_Elementals_Title	Air Elementals
+Encounter/&CR7_Young_Black_Dragon_Title	Young Black Dragon
+Encounter/&CR10_PoisonousPests_Title	Poisonous Pests
+Encounter/&CR20_CrimsonSpiders_x4_Title	Crimson Spiders
+Encounter/&CR16_Major_Earth_Elementals_Title	Major Earth Elementals
+Encounter/&CR15_Elementals_x3_Title	Elemental Trio
+Encounter/&CR10_Skeleton_Enforcers_x2_x2_Title	Skeletal Enforcers
+Encounter/&CR17_Skeleton_Sorcerer_x1_x2x_2_Title	Skeletal Sorcerer and Escort
+Encounter/&CR22_Skeletal_Devastators_x1_x2_x3_Title	Skeletal Devastators
+Encounter/&CR10_CrimsonSpiders_x2_Title	Crimson Spider Couple
+Encounter/&CR5_Goblin_Cutthroats_Title	Goblin Cutthroats
+Encounter/&CR8_Goblin_Ravagers_Title	Goblin Ravagers
+Encounter/&CR11_OrcGrimblade_x1_x2_x1_Title	Orc Grimblade Raider
+Encounter/&CR9_Orc_Hunters_Title	Orc Hunting Party
+Encounter/&CR10_Wraiths_Title	Wandering Wraiths
+Encounter/&CR12_Necromancer_Gang_Title	Necromancer Gang
+Encounter/&CR13_Brood_Couple_Title	Wandering Brood Couple
+Encounter/&CR21_Brood_Horde_Title	Wandering Brood Horde
+Encounter/&CR10_YoungRemorhazes_Description	A couple of young remorhazes… still deadly!
+Encounter/&CR12_Redeemers_x3_Description	A trio of deadly giant insects looking for their next meal.
+Encounter/&CR15_Redeemers_x1_x2_Description	A gigantic zealot and two lesser redeemers looking for magic to feed upon.
+Encounter/&CR9_Minor_Fire_Elementals_Description	Small fiery elementals born from some chaotic Badlands magic.
+Encounter/&CR14_Fire_Elementals_Description	Fiery elementals born from some chaotic Badlands magic.
+Encounter/&CR18_Major_Fire_Elementals_Description	Very powerful fiery elementals born from some chaotic Badlands magic.
+Encounter/&CR6_Minor_Air_Elementals_Description	Small air elementals born from some chaotic Badlands magic.
+Encounter/&CR12_Air_Elementals_Description	Air elementals born from some chaotic Badlands magic.
+Encounter/&CR7_Young_Black_Dragon_Description	This degenerate dragon was born in the Badlands. Now it's looking to kill something.
+Encounter/&CR10_PoisonousPests_Description	A group of venomous Badlands creatures.
+Encounter/&CR20_CrimsonSpiders_x4_Description	A group of giant spiders born in the acidic underground lakes of the Badlands.
+Encounter/&CR16_Major_Earth_Elementals_Description	Small elementals born underground in the chaotic Badlands.
+Encounter/&CR15_Elementals_x3_Description	Earth elementals born underground in the chaotic Badlands.
+Encounter/&CR10_Skeleton_Enforcers_x2_x2_Description	A group of powerful skeletons summoned by an experienced necromancer.
+Encounter/&CR5_Goblin_Cutthroats_Description	A band of goblin assassins with a hunger for blood.
+Encounter/&CR8_Goblin_Ravagers_Description	A large group of experienced goblins on a path for blood.
+Encounter/&CR11_OrcGrimblade_x1_x2_x1_Description	An orc raiding party led by a powerful orc grimblade.
+Encounter/&CR9_Orc_Hunters_Description	A couple of orc beastmasters and their pets looking for easy prey.
+Encounter/&CR10_Wraiths_Description	A band of deadly wandering Badlands wraiths looking for souls to torment.
+Encounter/&CR12_Necromancer_Gang_Description	A powerful necromancer and his summoned creatures, looking for a challenge.
+Encounter/&CR13_Brood_Couple_Description	Wandering broods in search of blood.
+Encounter/&CR14_Arctic_Monsters_x3x1_Title	Arctic Monsters
+Encounter/&CR9_Arctic_Pack_x3_Title	Arctic Pack
+Encounter/&CR6_Arctic_Duo_x2_Title	Arctic Duo
+Encounter/&CR16_Undead_Pack_x4_Title	Undead Pack
+Encounter/&CR6_Wraith_Master_x1x4_Title	Wraith Master
+Encounter/&CR16_Wraith_Hunters_x3x2_Title	Wraith Hunters
+Encounter/&CR4_Undead_Knight_x1x2x2_Title	Undead Knight
+Encounter/&CR8_Undead_Knight_x1x1x4_Title	Undead Huntsman
+Encounter/&CR8_Undead_hunt_pack_x3_Title	Undead Pack
+Encounter/&CR2_Wind_Snakes_x4_Title	Wind Snakes
+Encounter/&CR6_Flying_Snakes_x6_Title	Flying Snakes
+Encounter/&CR4_Skarn_Ghouls_x2_Title	Snark Ghouls
+Encounter/&CR7_Grimblade_Title	Grimblade
+Encounter/&CR8_Tamed_Minotaur_Title	Tamed Minotaur
+Encounter/&CR14_Arctic_Monsters_x3x1_Description	A terrifying young remorhaz with a bunch of arctic predators scavenging after him.
+Encounter/&CR9_Arctic_Pack_x3_Description	A small pack of winter wolves on the hunt.
+Encounter/&CR6_Arctic_Duo_x2_Description	A couple of Winter Wolves on the hunt.
+Encounter/&CR16_Undead_Pack_x4_Description	Undead wolves behaving like they're still alive and hunting.
+Encounter/&CR6_Wraith_Master_x1x4_Description	An undead hunter and his pet.
+Encounter/&CR16_Wraith_Hunters_x3x2_Description	A powerful band of undead warriors.
+Encounter/&CR2_Wind_Snakes_x4_Description	Small air elementals that like to kill.
+Encounter/&CR6_Flying_Snakes_x6_Description	Various flying and poisonous reptilians.
+Encounter/&CR4_Skarn_Ghouls_x2_Description	Small earth elementals in a bad mood.
+Encounter/&CR7_Grimblade_Description	A deadly orc assassin and his escort.
+Encounter/&CR8_Tamed_Minotaur_Description	A band of goblins who tamed a powerful minotaur.

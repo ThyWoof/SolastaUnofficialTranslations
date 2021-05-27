@@ -92,3 +92,5 @@ Travel/&StandardCampActivity18Title	{0} cleans their shoes.
 Travel/&StandardCampActivity19Title	{0} takes a short time alone to think.
 Travel/&StandardCampActivity20Title	{0} plays a game of skill with stones.
 Travel/&StandardCampActivity21Title	{0} unfolds a bedroll to set up a nice sleeping spot.
+Travel/&TravelEventEncounterOther1Title	Weak monsters run away as they see the party approaching.
+Travel/&TravelEventEncounterOther2Title	An encounter! The monsters are frightened by the party and scurry away.

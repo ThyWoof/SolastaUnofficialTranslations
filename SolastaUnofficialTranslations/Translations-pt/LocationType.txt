@@ -1,0 +1,20 @@
+LocationType/&CaveDescription	Uma estrutura subterrânea que pode conter riquezas e perigos inesperados.
+LocationType/&CaveTitle	Caverna
+LocationType/&Forest ruinDescription	No meio da floresta, você se depara com uma pequena ruína dos tempos antigos.
+LocationType/&Forest ruinTitle	Ruína da Floresta
+LocationType/&FortressDescription	Uma estrutura fortificada construída para fins defensivos.
+LocationType/&FortressTitle	Fortaleza
+LocationType/&ManacalonOracleDescription	Você se depara com um antigo oráculo, uma espécie de templo onde os plebeus de Manacalon veneravam os mestres da magia.
+LocationType/&ManacalonOracleTitle	Oráculo de Manacalon
+LocationType/&ManacalonPrisonDescription	Você se depara com uma estrutura subterrânea em ruínas, uma prisão onde os elfos do Império Manacalon mantinham seus prisioneiros.
+LocationType/&ManacalonPrisonTitle	Prisão de Manacalon
+LocationType/&RuinDescription	Os restos de uma estrutura antiga, cheia de mistério e oportunidades.
+LocationType/&RuinTitle	Ruína
+LocationType/&TownDescription	Local bem instalado, com serviços básicos.
+LocationType/&TownTitle	Cidade
+LocationType/&UnknownDescription	O tipo deste local é desconhecido.
+LocationType/&UnknownTitle	Desconhecido
+LocationType/&ManacalonOracleKnownTitle	O Oraculo
+LocationType/&ManacalonOracleKnownDescription	Em uma margem do rio, há um edifício em ruínas de Manacalon que Kythaela chamou de Oráculo.
+LocationType/&ManacalonPrisonKnownTitle	As masmorras
+LocationType/&ManacalonPrisonKnownDescription	Aparentemente, esta era uma prisão imperial. Kythaela disse que datava da Guerra dos Elfos.

@@ -1,0 +1,14 @@
+Environment/&CatacombsTitle	Catacombe
+Environment/&CatacombsDescription	Una rete sotterranea di tombe e cripte
+Environment/&NecropolisTitle	Necropoli
+Environment/&NecropolisDescription	Un dominio sotterraneo dei morti
+Environment/&SewersTitle	Fogne
+Environment/&SewersDescription	Una raccolta di tunnel fognari e drenaggio
+Environment/&StrongholdTitle	Roccaforte
+Environment/&StrongholdDescription	L'interno di un castello in pietra
+Environment/&ElvenPalaceTitle	Palazzo degli Elfi
+Environment/&ElvenPalaceDescription	Una lussuosa vestigia del regno di Manacalon
+Environment/&LavaCavesTitle	Grotte di lava
+Environment/&LavaCavesDescription	Una rete sotterranea di grotte abitate da creature tribali
+Environment/&WoodlandTitle	Bosco
+Environment/&WoodlandDescription	Naviga attraverso una serie di radure all'interno di una foresta temperata

@@ -1,0 +1,94 @@
+Reaction/&AlterAttackSpellDescription	{0} sta attaccando {1}! Puoi lanciare {2} per bloccare l'attacco.
+Reaction/&AlterAttackSpellReactDescription	Fai clic per lanciare {0} e bloccare l'attacco.
+Reaction/&AlterAttackSpellReactTitle	Lanciare un incantesimo
+Reaction/&AlterAttackSpellTitle	Prevenire l'attacco in arrivo.
+Reaction/&BlockAttackDescription	{0} sta attaccando {1}! Puoi reagire per imporre uno svantaggio al nemico.
+Reaction/&BlockAttackReactDescription	Fare clic per bloccare il personaggio attaccante e imporre uno svantaggio. Questo utilizza la tua reazione fino al tuo prossimo turno.
+Reaction/&BlockAttackReactTitle	Bloccare
+Reaction/&BlockAttackTitle	Attacco ad Ally
+Reaction/&CastFallPreventionSpellDescriptionPlural	{0} stanno per cadere pericolosamente! Puoi lanciare {1} per prevenire danni.
+Reaction/&CastFallPreventionSpellDescriptionSingle	{0} sta per cadere pericolosamente! Puoi lanciare {1} per prevenire danni.
+Reaction/&CastFallPreventionSpellReactDescription	Fai clic per lanciare l'incantesimo {0} e prevenire i danni da caduta.
+Reaction/&CastFallPreventionSpellReactTitle	Lanciare un incantesimo
+Reaction/&CastFallPreventionSpellTitle	Caduta dolorosa
+Reaction/&CastImmunityToSpellDescription	{0} sta trasmettendo {3} su {1}! Puoi lanciare {2} per neutralizzare la magia.
+Reaction/&CastImmunityToSpellReactDescription	Fai clic per lanciare {0} e contrastare l'attacco magico.
+Reaction/&CastImmunityToSpellReactTitle	Lanciare un incantesimo
+Reaction/&CastImmunityToSpellTitle	Attacco magico in arrivo
+Reaction/&ChooseAReactionTitle	Scegli una reazione
+Reaction/&ChooseAnOptionTitle	Scegliere un'opzione
+Reaction/&CounterAttackWithPowerDescription	{0} ha raggiunto {1}! Puoi contrattaccare con {2}.
+Reaction/&CounterAttackWithPowerReactDescription	Fai clic per utilizzare {0} e contrattaccare.
+Reaction/&CounterAttackWithPowerReactTitle	Sciopero
+Reaction/&CounterAttackWithPowerTitle	Attacco nemico
+Reaction/&CounterSpellDescription	{0} sta lanciando un incantesimo! Puoi reagire per contrastare l'incantesimo.
+Reaction/&CounterSpellReactDescription	Fai clic per lanciare controincantesimo e contrastare l'incantesimo nemico.
+Reaction/&CounterSpellReactTitle	Counter
+Reaction/&CounterSpellTitle	Incantesimo ostile
+Reaction/&GiantKillerDescription	{0}, una {2} creatura, ha attaccato {1}, che può utilizzare una reazione per contrattaccare
+Reaction/&GiantKillerReactDescription	Clicca per contrattaccare. Questo utilizza la tua reazione fino al tuo prossimo turno.
+Reaction/&GiantKillerReactTitle	attacco
+Reaction/&GiantKillerTitle	Giant Killer
+Reaction/&MainTitle	Reagire a
+Reaction/&OpportunityAttackDescription	{0} sta lasciando un'area minacciata da uno o più personaggi.
+Reaction/&OpportunityAttackReactDescription	Fai clic per attaccare il personaggio / creatura in ritirata. Questo utilizza la tua reazione fino al tuo prossimo turno.
+Reaction/&OpportunityAttackReactTitle	attacco
+Reaction/&OpportunityAttackTitle	Attacco di opportunità
+Reaction/&PassDescription	Non reagisci a questo evento, salvando la tua reazione per dopo.
+Reaction/&PassTitle	Passaggio
+Reaction/&ReactionShotDescription	{0} ha attaccato {1}, che può utilizzare una reazione per contrattaccare con un attacco a distanza.
+Reaction/&ReactionShotReactDescription	Clicca per contrattaccare. Questo utilizza la tua reazione fino al tuo prossimo turno.
+Reaction/&ReactionShotReactTitle	attacco
+Reaction/&ReactionShotTitle	Colpo di reazione
+Reaction/&SecondsTitle	sec
+Reaction/&SpendPowerPowerDomainBattleDecisiveStrikeDescription	{0} può colpire con danni aggiuntivi usando Channel Divinity.
+Reaction/&SpendPowerPowerDomainBattleDecisiveStrikeReactDescription	Fai clic per aumentare i danni usando Channel Divinity: Decisive Strike.
+Reaction/&SpendPowerPowerDomainBattleDecisiveStrikeReactTitle	Sciopero
+Reaction/&SpendPowerPowerDomainBattleDecisiveStrikeTitle	Attacco riuscito
+Reaction/&SpendPowerPowerTraditionGreenmageMagicalArrowDescription	{0} può tentare di intrappolare il bersaglio utilizzando una freccia magica.
+Reaction/&SpendPowerPowerTraditionGreenmageMagicalArrowReactDescription	Fare clic per tentare di intrappolare il bersaglio.
+Reaction/&SpendPowerPowerTraditionGreenmageMagicalArrowReactTitle	Intrecciare
+Reaction/&SpendPowerPowerTraditionGreenmageMagicalArrowTitle	Attacco riuscito
+Reaction/&SpendSpellSlotDivineSmiteDescription	{0} può colpire il suo bersaglio con danni aggiuntivi spendendo uno slot incantesimo.
+Reaction/&SpendSpellSlotDivineSmiteReactDescription	Fai clic per spendere uno slot incantesimo e aumentare i danni al bersaglio.
+Reaction/&SpendSpellSlotDivineSmiteReactTitle	Punire
+Reaction/&SpendSpellSlotDivineSmiteTitle	Punizione divina
+Reaction/&SubitemSelectCounterspellDescription	Seleziona un livello di slot da spendere per lanciare controincantesimo
+Reaction/&SubitemSelectCounterspellTitle	Livello slot
+Reaction/&SubitemSelectDivineSmiteDescription	Seleziona un livello di slot da consumare per il tuo Divine Smite
+Reaction/&SubitemSelectDivineSmiteTitle	Livello slot
+Reaction/&SubitemSelectFeatherFallDescription	Seleziona un livello di slot da spendere per lanciare Feather Fall
+Reaction/&SubitemSelectFeatherFallTitle	Livello slot
+Reaction/&SubitemSelectShieldDescription	Seleziona un livello di slot da spendere per lanciare lo scudo
+Reaction/&SubitemSelectShieldTitle	Livello slot
+Reaction/&UncannyDodgeDescription	{0} sta attaccando {1}, che può reagire per dimezzare il danno in arrivo.
+Reaction/&UncannyDodgeReactDescription	Fai clic per utilizzare la tua reazione e dimezzare il danno dell'attacco.
+Reaction/&UncannyDodgeReactTitle	Dimezzare
+Reaction/&UncannyDodgeTitle	Uncanny Dodge
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsColdDescription	{0} può diventare temporaneamente immune al freddo e recuperare alcuni punti ferita.
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsColdReactDescription	Fai clic per diventare immune al freddo e recuperare i punti ferita.
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsColdReactTitle	Abbraccio
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsColdTitle	Studioso degli elementi (freddo)
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsFireDescription	{0} può diventare temporaneamente immune al fuoco e recuperare alcuni punti ferita.
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsFireReactDescription	Fai clic per diventare immune al fuoco e recuperare i punti ferita.
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsFireReactTitle	Abbraccio
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsFireTitle	Studioso degli elementi (fuoco)
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsLightningDescription	{0} può diventare temporaneamente immune ai fulmini e recuperare alcuni punti ferita.
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsLightningReactDescription	Fai clic per diventare immune ai fulmini e recuperare i punti ferita.
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsLightningReactTitle	Abbraccio
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsLightningTitle	Studioso degli elementi (fulmine)
+Reaction/&DeflectMissileDescription	{0} sta attaccando {1}, che può reagire per ridurre il danno in arrivo di 1D10 + modificatore DEX.
+Reaction/&DeflectMissileReactDescription	Fai clic per utilizzare la tua reazione e ridurre il danno dell'attacco.
+Reaction/&DeflectMissileReactTitle	Deviare
+Reaction/&DeflectMissileTitle	Attacco missilistico
+Reaction/&AlterAttackPowerDescription	{0} sta attaccando {1}! Puoi usare {2} per aumentare la classe di armatura del difensore fino alla fine del turno dell'attaccante.
+Reaction/&AlterAttackPowerReactDescription	Fai clic per utilizzare {0} e bloccare l'attacco.
+Reaction/&AlterAttackPowerReactTitle	Bloccare
+Reaction/&AlterAttackPowerTitle	Prevenire l'attacco in arrivo.
+Reaction/&IndomitableResistanceReactTitle	Reroll
+Reaction/&IndomitableResistanceReactDescription	Ripeti il ​​tiro per tentare di superare il tiro salvezza.
+Reaction/&IndomitableResistanceTitle	Indomabile
+Reaction/&IndomitableResistanceDescription	{0} ha fallito un tiro salvezza contro {1} ma può tentare di rilanciarlo.
+Reaction/&ShadowRetributionReactTitle	Cast Cantrip
+Reaction/&ShadowRetributionReactDescription	Lancia l'incantesimo Trucchetto sull'incantatore ostile.
+Reaction/&ShadowRetributionDescription	{0} è bersaglio di un incantesimo ostile di {1} e può contrattaccare con l'incantesimo {2}.

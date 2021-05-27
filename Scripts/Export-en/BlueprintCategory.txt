@@ -13,3 +13,7 @@ BlueprintCategory/&OrnamentsTitle	Ornaments
 BlueprintCategory/&RestingTitle	Resting
 BlueprintCategory/&StructureTitle	Structures
 BlueprintCategory/&TrapsTitle	Traps
+BlueprintCategory/&ActivatorsTitle	Activators
+BlueprintCategory/&PartitionsTitle	Partitions
+BlueprintCategory/&AdventuringTitle	Adventuring
+BlueprintCategory/&BlockersTitle	Blockers

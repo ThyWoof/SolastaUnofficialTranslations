@@ -12,7 +12,7 @@ EffectProxy/&ProxySpiritualWeaponTitle	Spiritual Weapon
 EffectProxy/&ProxyStinkingCloudDescription	A cloud of incapacitating, noxious gas.
 EffectProxy/&ProxyWallOfFireDescription	A burning wall that injures creatures in or next to it.
 EffectProxy/&ProxyWindWallDescription	A wall of wind that causes damage, pushes creatures and objects away, and disperses fogs and gases.
-EffectProxy/&ProxySilenceDescription	An area of complete silence
+EffectProxy/&ProxySilenceDescription	An area of complete silence.
 EffectProxy/&ProxyIceStormDescription	Ice Storm
 EffectProxy/&ProxyGuardianOfFaithDescription	Guardian of Faith
 EffectProxy/&ProxyCloudKillDescription	A thick and deadly poisonous fog.

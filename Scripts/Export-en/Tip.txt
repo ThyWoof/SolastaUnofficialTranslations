@@ -11,7 +11,7 @@ Tip/&LoadingTip10	Wizard spell scrolls are destroyed after casting. Wizards can 
 Tip/&LoadingTip13	Some creatures are afraid of light and can even be hurt by it, allowing you to use light as a weapon.
 Tip/&LoadingTip14	To perform a long rest, you must find a suitable place: either an inn such as the Gravekeep's Cask, or a campfire when exploring.
 Tip/&LoadingTip15	In each turn of battle, a character has a main action and a bonus action. The main action is used to move or attack, for instance, while bonus actions are granted by specific class features, spells, or powers.
-Tip/&LoadingTip16	Each player character can use a reaction once per turn. This allows them to interrupt someone else's action, for instance, to perform an opportunity attack.
+Tip/&LoadingTip16	Reactions allow them to interrupt someone else's action, for instance, to perform an opportunity attack. Each character can make one reaction, and recover it at the start of their next turn.
 Tip/&LoadingTip17	Some characters or monsters can attack more than once per turn, and can move between attacks.
 Tip/&LoadingTip18	Shoving can push an enemy one cell away or put them down until they get up. Enemies can shove, too.
 Tip/&LoadingTip19	Dodging is a powerful defense even if it uses your main action: enemies have disadvantage on hitting you for the remainder of your turn.
@@ -37,7 +37,7 @@ Tip/&LoadingTip39	When bringing back items from the Badlands, choose which facti
 Tip/&LoadingTip40	Disengage can be used as a main action, allowing you to move outside the enemies' range without risking opportunity attacks.
 Tip/&LoadingTip41	When an enemy is in a neighboring cell, you are engaged. If you move away from that enemy, you risk suffering an opportunity attack.
 Tip/&LoadingTip42	Rogues can use sneak attack to increase their damage when they attack an enemy that is in a cell next to an ally, unless they have disadvantage on their attack roll.
-Tip/&LoadingTip43	Wielding two Light weapons allows you to perform a second attack with your bonus actions. Both weapons need the Light tag.
+Tip/&LoadingTip43	Wielding two light weapons allows you to perform a second attack with your bonus actions. Both weapons need the Light tag.
 Tip/&LoadingTip44	Wielding a finesse weapon allows you to use Dexterity as the main ability score for the attack, if it is better than Strength. Check for the Finesse tag.
 Tip/&LoadingTip45	A weapon with the Versatile tag can be used with one or two hands. If you leave the second hand slot empty, you'll deal more damage with such a weapon. Example: a longsword.
 Tip/&LoadingTip47	To level up, your characters need to take a long rest. They will gain their new power when waking up.
@@ -45,3 +45,4 @@ Tip/&LoadingTip12	At the edge of your light sources, the environment is in dim l
 Tip/&LoadingTip11	Lighting is a crucial element of the game; characters without Darkvision will attack an unlit foe with disadvantage. Use torches and light spells to illuminate your environment.
 Tip/&LoadingTip46	To split a stack of items, drag and drop the stack onto an empty cell while holding down the CTRL key. This will take one unit from the stack.
 Tip/&LoadingTip24	Levitation spells and artifacts allow you to float up or down instead of climbing. You can also force an enemy to float in mid-air instead of rushing toward you if its size is medium or smaller.
+Tip/&LoadingTip48	You can change the difficulty settings of the game on the fly at any time.

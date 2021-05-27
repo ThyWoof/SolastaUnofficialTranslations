@@ -47,6 +47,7 @@ Caption/&TargetsMustPerceiveCasterCaption	Targets must perceive the source of th
 Caption/&PositionMustBePerceivedCaption	The position is not perceived.
 Caption/&TargetRequiredSizeCaption	Target size must be: {0}
 Caption/&InviteOptionalAllyCaption	Touch an optional ally to bring along.
+Caption/&TelekinesisSelectDirection	Select a direction in which to move this creature.
 Caption/&EditorNewPropPlacementCaption	Select a valid position to place this new prop\nHold "Shift" to place multiple props of this type
 Caption/&EditorExistingPropPlacementCaption	Select a new position for this prop
 Caption/&EditorNewGadgetPlacementCaption	Select a valid position to place this new gadget\nHold "Shift" to place multiple gadgets of this type
@@ -64,3 +65,6 @@ Caption/&GadgetParametersNoneTitle	<Empty>
 Caption/&EditorNewRoomPlacementCaption	Select a valid position to place this new room\nHold "Shift" to place multiple rooms of this type
 Caption/&EditorExistingRoomPlacementCaption	Select a new position for this room
 Caption/&GadgetParametersLocationSelectorDescription	Click to select a destination location from a list
+Caption/&GadgetListAddTitle	Add Gadget
+Caption/&GadgetListAddDescription	Allows you to click and a select a target gadget
+Caption/&EditorSelectTargetGadgetDescription	Select a target gadget

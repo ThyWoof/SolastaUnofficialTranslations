@@ -1,0 +1,6 @@
+Status/&ConcentrationFormat	{0} si sta concentrando per mantenere l'incantesimo "{1}".
+Status/&ConcentrationStopDescription	Fare clic per interrompere la concentrazione.
+Status/&HealthStatusFormat	Salute: {0}
+Status/&ReadiedCantripAttackFormat	{0} è pronto per utilizzare un attacco cantrip se si presenta l'opportunità.
+Status/&ReadiedMeleeAttackFormat	{0} è pronto per utilizzare un attacco in mischia se si presenta l'opportunità.
+Status/&ReadiedRangedAttackFormat	{0} è pronto per utilizzare un attacco a distanza se se ne presenta l'opportunità.

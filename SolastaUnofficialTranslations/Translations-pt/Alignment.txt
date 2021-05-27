@@ -1,0 +1,30 @@
+Alignment/&ChaoticEvilDescription	Criaturas do mal caótico (CE) agem com violência arbitrária, estimuladas por sua ganância, ódio ou sede de sangue. Demônios, dragões vermelhos e orcs são o mal caótico.
+Alignment/&ChaoticEvilTitle	Mal caótico
+Alignment/&ChaoticEvilTitleShort	CE
+Alignment/&ChaoticGoodDescription	Criaturas boas caóticas (CG) agem de acordo com as instruções de sua consciência, com pouca consideração pelo que os outros esperam. Dragões de cobre, muitos elfos e unicórnios são caóticos e bons.
+Alignment/&ChaoticGoodTitle	Caótico Bom
+Alignment/&ChaoticGoodTitleShort	CG
+Alignment/&ChaoticNeutralDescription	Criaturas neutras caóticas (CN) seguem seus caprichos, mantendo sua liberdade pessoal acima de tudo. Muitos bárbaros e ladinos, e alguns bardos, são caóticos e neutros.
+Alignment/&ChaoticNeutralTitle	Neutro caótico
+Alignment/&ChaoticNeutralTitleShort	CN
+Alignment/&LawfulEvilDescription	Criaturas lícitas e malignas (LE) tomam metodicamente o que desejam, dentro dos limites de um código de tradição, lealdade ou ordem. Diabos, dragões azuis e hobgoblins são o mal legal.
+Alignment/&LawfulEvilTitle	Mal legal
+Alignment/&LawfulEvilTitleShort	LE
+Alignment/&LawfulGoodDescription	Pode-se esperar que as criaturas leais e boas (LG) façam a coisa certa conforme o esperado pela sociedade. Dragões de ouro, paladinos e a maioria dos anões são leal e bons.
+Alignment/&LawfulGoodTitle	Bem legal
+Alignment/&LawfulGoodTitleShort	LG
+Alignment/&LawfulNeutralDescription	Indivíduos legítimos neutros (LN) agem de acordo com a lei, tradição ou códigos pessoais. Muitos monges e alguns magos são lealmente neutros.
+Alignment/&LawfulNeutralTitle	Legalmente neutro
+Alignment/&LawfulNeutralTitleShort	LN
+Alignment/&NeutralDescription	Neutro (N) é o alinhamento de quem prefere se afastar de questões morais e não tomar partido, fazendo o que parece melhor na hora. O povo lagarto, a maioria dos druidas e muitos humanos são neutros.
+Alignment/&NeutralEvilDescription	Mal neutro (NE) é o alinhamento daqueles que fazem tudo o que podem, sem compaixão ou escrúpulos. Muitos drows, alguns gigantes das nuvens e yugoloths são neutros e malignos.
+Alignment/&NeutralEvilTitle	Mal Neutro
+Alignment/&NeutralEvilTitleShort	NE
+Alignment/&NeutralGoodDescription	Pessoas neutras e boas (NG) fazem o melhor que podem para ajudar os outros de acordo com suas necessidades. Muitos seres celestiais, alguns gigantes das nuvens e a maioria dos gnomos são neutros e bons
+Alignment/&NeutralGoodTitle	Neutro Bom
+Alignment/&NeutralGoodTitleShort	NG
+Alignment/&NeutralTitle	Neutro
+Alignment/&NeutralTitleShort	N
+Alignment/&UnalignedDescription	A maioria das criaturas que não possuem a capacidade de pensamento racional não tem alinhamentos ... elas não são alinhadas. Tal criatura é incapaz de fazer uma escolha moral ou ética e age de acordo com sua natureza bestial. Os tubarões são predadores selvagens, por exemplo, mas não são maus; eles não têm alinhamento.
+Alignment/&UnalignedTitle	Desalinhado
+Alignment/&UnalignedTitleShort	UN

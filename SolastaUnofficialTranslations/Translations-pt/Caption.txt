@@ -1,0 +1,70 @@
+Caption/&JumpFromCaption	Selecione um ponto de onde saltar.
+Caption/&JumpToCaption	Selecione um local para o qual saltar.
+Caption/&LandingPositionCaption	Selecione um lugar para subir.
+Caption/&LevitateDestinationCaption	Selecione um destino de levitação para o seu alvo.
+Caption/&OutOfRangeCaption	Você está fora de alcance!
+Caption/&ProxyActionTitle	Controle de efeito mágico
+Caption/&ProxyAttackCaption	Selecione um alvo para atacar com o efeito mágico.
+Caption/&ProxyMoveAndAttackCaption	Selecione o destino para mover o efeito mágico ou um alvo para atacar.
+Caption/&ProxyMoveCaption	Selecione um destino para mover o efeito mágico.
+Caption/&SelectPositionMultipleCaption	Selecione {0} posições
+Caption/&SelectPositionSingleCaption	Selecione uma posição
+Caption/&ShapeConeDirectionCaption	Selecione uma direção para o cone de efeito.
+Caption/&ShapeCubePositionCaption	Selecione uma posição para o cubo de efeito.
+Caption/&ShapeCylinderPositionCaption	Selecione uma posição para o cilindro de efeito.
+Caption/&ShapeLineDirectionCaption	Selecione uma direção para a linha de efeito.
+Caption/&ShapeSpherePositionCaption	Selecione uma posição para a esfera de efeito.
+Caption/&ShapeWallLineExtremityCaption	Selecione um final para o efeito de parede.
+Caption/&ShapeWallLineInvalid	A linha de efeito não pode ser colocada aqui.
+Caption/&ShapeWallLineOriginCaption	Selecione uma origem para o efeito de parede.
+Caption/&ShapeWallLineOutOfLengthCaption	A linha de efeito é muito longa!
+Caption/&ShapeWallRingPositionCaption	Selecione uma posição para o círculo de efeito.
+Caption/&ShoveSelectDestinationCaption	Empurrar a criatura para trás ou derrubá-la?
+Caption/&ShoveSelectTargetCaption	Selecione um alvo para empurrar.
+Caption/&ShoveTargetCannotPushAwayCaption	Não há espaço para afastar o alvo.
+Caption/&ShoveTargetImmuneCaption	O alvo é imune a empurrões.
+Caption/&ShoveTargetOutOfReachCaption	O alvo está fora de alcance.
+Caption/&ShoveTargetProneCaption	Você não pode empurrar um alvo caído!
+Caption/&ShoveTargetTooBigCaption	O alvo é muito grande para esta criatura empurrar
+Caption/&TargetAwakenDescription	Clique para despertar este personagem adormecido.
+Caption/&TargetFilteringAllyCreature	Criatura Aliada
+Caption/&TargetFilteringCreature	Criatura
+Caption/&TargetFilteringEffectProxy	Efeito mágico
+Caption/&TargetFilteringEnemyCreature	Criatura Inimiga
+Caption/&TargetFilteringGadget	Objeto
+Caption/&TargetMultipleCaption	Selecione {1} destinos ({0}).\n\n<#B0B0B0>Você pode selecionar cada alvo várias vezes.</color>
+Caption/&TargetMultipleUniqueCaption	Selecione {1} destinos ({0}).\n<#B0B0B0>Você pode selecionar cada alvo apenas uma vez.</color>
+Caption/&TargetProximityMultipleCaption	<#B0B0B0>Os destinos devem estar dentro de {0} células um do outro.</color>
+Caption/&TargetProximitySingleCaption	<#B0B0B0>Os alvos devem estar próximos um do outro.</color>
+Caption/&TargetRequiredConditionCaption	<#B0B0B0>O destino deve ser "{0}."</color>
+Caption/&TargetRequiredCreatureTypeCaption	<#B0B0B0>Os alvos devem ser {0}
+Caption/&TargetRequiredUnarmoredCaption	<#B0B0B0> Os alvos devem estar sem armadura.
+Caption/&TargetShareUniqueCaption	Selecione qualquer número de alvos ({0}) para compartilhar o efeito ({1}).\n\n<#B0B0B0> Você pode selecionar cada alvo apenas uma vez.</color>
+Caption/&TargetSingleCaption	Selecione um alvo ({0}).\n
+Caption/&TargetStabilizeDescription	Clique para tentar estabilizar este personagem moribundo, com um teste de habilidade WIS (Medicina).
+Caption/&CannotBePlacedOnCharacterCaption	Você não pode lançar este feitiço diretamente em um personagem.
+Caption/&TargetsMustPerceiveCasterCaption	Os alvos devem perceber a origem do efeito.
+Caption/&PositionMustBePerceivedCaption	A posição não é percebida.
+Caption/&TargetRequiredSizeCaption	O tamanho do destino deve ser: {0}
+Caption/&InviteOptionalAllyCaption	Toque em um aliado opcional para trazer consigo.
+Caption/&TelekinesisSelectDirection	Selecione uma direção na qual mover esta criatura.
+Caption/&EditorNewPropPlacementCaption	Selecione uma posição válida para colocar este novo suporte\nSegure "Shift" para colocar vários acessórios deste tipo
+Caption/&EditorExistingPropPlacementCaption	Selecione uma nova posição para este adereço
+Caption/&EditorNewGadgetPlacementCaption	Selecione uma posição válida para colocar este novo gadget\nSegure "Shift" para colocar vários gadgets deste tipo
+Caption/&EditorExistingGadgetPlacementCaption	Selecione uma nova posição para este gadget
+Caption/&EditorSelectedRoomCaption	Sala selecionada: {0}
+Caption/&EditorSelectedPropCaption	Proposta selecionada: {0}
+Caption/&EditorSelectedGadgetCaption	Gadget selecionado: {0}
+Caption/&GadgetParametersHeaderTitle	Parâmetros do gadget:
+Caption/&GadgetParametersSelectorTitle	Selecione
+Caption/&GadgetParametersSelectorDescription	Clique para selecionar um elemento correspondente (monstro, item, pacote de saque) no banco de dados
+Caption/&GadgetParametersAddTitle	Adicionar Elemento
+Caption/&GadgetParametersAddDescription	Adicione um elemento correspondente (monstro, item, pacote de saque) à lista
+Caption/&GadgetParametersRemoveDescription	Remova o elemento selecionado
+Caption/&GadgetParametersNoneTitle	<Vazio>
+Caption/&EditorNewRoomPlacementCaption	Selecione uma posição válida para colocar esta nova sala\nSegure "Shift" para colocar várias salas deste tipo
+Caption/&EditorExistingRoomPlacementCaption	Selecione uma nova posição para esta sala
+Caption/&GadgetParametersLocationSelectorDescription	Clique para selecionar um local de destino em uma lista
+Caption/&GadgetListAddTitle	Adicionar Gadget
+Caption/&GadgetListAddDescription	Permite que você clique e selecione um gadget de destino
+Caption/&EditorSelectTargetGadgetDescription	Selecione um gadget de destino

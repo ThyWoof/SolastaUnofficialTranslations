@@ -1,0 +1,142 @@
+Credits/&GameTechnicalVisionTitle	Gioco e visione tecnica
+Credits/&ArtTeamTitle	Art Team
+Credits/&ArtDirectorTitle	Direttore artistico
+Credits/&Lead3DArtistTitle	Capo artista 3D
+Credits/&LeadAnimatorTitle	Animatore capo
+Credits/&3DCharacterArtistFemaleTitle	Artista del personaggio 3D
+Credits/&3DEnvironmentArtistTitle	Artista dell'ambiente 3D
+Credits/&VisualEffectsArtistFemaleTitle	Artista degli effetti visivi
+Credits/&ConceptArtistTitle	Concept Artist
+Credits/&DesignTeamTitle	Team di design
+Credits/&GameplayDirectorTitle	Direttore del gioco
+Credits/&SeniorLevelDesignerTitle	Designer di livello senior
+Credits/&SeniorTechLevelDesignerTitle	Progettista di livello tecnico senior
+Credits/&LevelDesignerTitle	Level Designer
+Credits/&LevelBuilderTitle	Level Builder
+Credits/&CutsceneDirectionTitle	Cutscene Artist
+Credits/&NarrationTeamTitle	Team di narrazione
+Credits/&UniverseStorylineTitle	Universo e trama
+Credits/&NarrationDirection	Direzione della narrazione
+Credits/&ProductionTeamTitle	Squadra di produzione
+Credits/&ProducerFemaleTitle	Produttore
+Credits/&QALeadFemaleTitle	Responsabile QA
+Credits/&AutotestTitle	Auto test
+Credits/&TechnicalTeamTitle	Team tecnico
+Credits/&TechLeadTitle	Capo ingegnere
+Credits/&GraphicsProgrammerTitle	Ingegnere di rendering
+Credits/&UIRuleserProgrammerTitle	Ingegnere interfaccia utente / set di regole
+Credits/&ToolsProgrammerTitle	Strumenti e ingegnere di gioco
+Credits/&MarktingTeamTitle	Team di marketing
+Credits/&MarketingDirectorTitle	Direttore marketing
+Credits/&LeadCommunityDeveloperTitle	Lead Community Developer
+Credits/&AdministrationTeamTitle	Amministrazione
+Credits/&AdministrativeAndFinancialManagerFemaleTitle	Responsabile amministrativo e finanziario
+Credits/&BoardMemberTitle	Membro di bordo
+Credits/&ExternalPartnersTitle	Partner esterni
+Credits/&ExternalPartnersConceptTitle	Concept Artist aggiuntivo
+Credits/&EnvironmentConceptArtistTitle	Artista di concetto di ambiente e arte chiave
+Credits/&CharacterConceptArtistTitle	Character Concept Artist
+Credits/&UIConceptArtistTitle	Artista dell'interfaccia utente e del mercato
+Credits/&ExternalQAName	Quantic Lab
+Credits/&ExternalQACEOTitle	CEO e fondatore
+Credits/&ExternalQAHeadBusiness	Responsabile dello sviluppo aziendale
+Credits/&ExternalQABusinessDev	Associato per lo sviluppo aziendale
+Credits/&ExternalQATechDirector	Direttore tecnico
+Credits/&ExternalQAQADirector	Direttore QA
+Credits/&ExternalQAQAManager	Responsabili del controllo qualità
+Credits/&ExternalQAQALeadTester	Responsabili del controllo qualità
+Credits/&ExternalQAQATesters	QA tester
+Credits/&ExternalQAIT	Responsabili dell'infrastruttura IT
+Credits/&ExternalQACompatLead	Lead Tester di compatibilità e prestazioni
+Credits/&ExternalQACompatTester	Tester di compatibilità e prestazioni
+Credits/&SeniorWriterTitle	Scrittore senior
+Credits/&ExternalCommTeam	Partner di comunicazione
+Credits/&ExternalCommReberbName	Reverb Inc.
+Credits/&ExternalCommReberbGeneralManager	Direttore generale
+Credits/&ExternalCommReberbSnrPRManager	Sr PR Manager
+Credits/&ExternalCommReberbMktManager	Marketing Manager
+Credits/&ExternalCommReberbInfluencersPR	Influencer / Pubbliche relazioni
+Credits/&ExternalCommReberbOnlineMediamanager	Online Media Manager
+Credits/&ExternalCommMinuitName	MinuitDouze
+Credits/&ExternalCommMinuitCoFounder	Co-fondatore / Direttore associato
+Credits/&ExternalCommMinuitPRConsultant	Consulente PR
+Credits/&ExternalCommDeadGoodPRName	Dead Good PR
+Credits/&ExternalCommDeadGoodPRDirector	Direttore e proprietario
+Credits/&ExternalCommDeadGoodPRAccountManager	Account Manager
+Credits/&ExternalCommDeadGoodPRDigitalCreatives	Responsabile creatività digitali
+Credits/&ExternalCommFireName	fuoco senza fumo
+Credits/&ExternalCommFireStudioHead	Studio Head
+Credits/&ExternalCommFireSnrProd	Produttore senior
+Credits/&ExternalCommFireClientDirector	Direttore del cliente
+Credits/&ExternalCommBobbyName	Bobby Prod
+Credits/&ExternalCommBobbyOwner	Proprietario e produttore
+Credits/&ExternalCommBobbyProductionManager	Manager di produzione
+Credits/&ExternalCommREZName	REZ Creative
+Credits/&ExternalCommREZDirector	Direttore creativo e produttore
+Credits/&ExternalCommBarbesName	Barbès Prod
+Credits/&ExternalCommBarbesCoFounder	Cofondatore
+Credits/&ExternalCommSeptimeName	Septime Création
+Credits/&ExternalCommSeptimeCEO	Amministratore delegato
+Credits/&ExternalCommSeptimeProducer	Responsabile del progetto
+Credits/&ExternalCommSeptimeBackDev	Lead back-end e front-end Dev
+Credits/&CNCAcknowledgementTitle	Avec le soutien du FAJV, fondi cofinancé par le Centre National du Cinéma et de l'immagine animée et le Ministère de l'Economie et des Finances
+Credits/&ExternalProdSweetAName	Arsenico dolce
+Credits/&ExternalProdSweetABusinessManager	Direttore aziendale
+Credits/&ExternalProdSweetALeadArtist	Artista principale
+Credits/&External3DProdTeam	Partner d'arte 3D
+Credits/&ExternalAnimProdTeam	Partner di animazione
+Credits/&ExternalProdLeikirName	Leikir
+Credits/&ExternalProdOriginalForceName	Original Force LTD
+Credits/&ExternalProdAnimator	Animatore
+Credits/&ExternalProdGameCoName	Gamecostudios Team
+Credits/&ExternalProdBusinessDev	Sviluppo aziendale
+Credits/&ExternalProdProjectManager	Responsabile del progetto
+Credits/&ExternalProdArtLead	Art Lead
+Credits/&ExternalProdProjectLead	Responsabile del progetto
+Credits/&ExternalProdQualityCheck	Controllo di qualità
+Credits/&ExternalProdKeyArt	Artista chiave di GamecoStudios
+Credits/&ExternalProdCharacterArtLead	Capo artistico del personaggio
+Credits/&ExternalG4FProdName	G4F Prod
+Credits/&ExternalG4FRecordsName	Record G4F
+Credits/&ExternalG4FVoicesName	Localizzazione G4F (voci)
+Credits/&ExternalLeadSound	Lead Sound Designer
+Credits/&ExternalSoundDesigner	Designer del suono
+Credits/&ExternalCFO	CFO
+Credits/&ExternalCOO	COO
+Credits/&ExternalComposer	Compositore di musica
+Credits/&ExternalLegal	Legale
+Credits/&ExternalContentManager	Gestore di contenuti
+Credits/&ExternalMasterRecordEngineer	Ingegnere di mastering e registrazione
+Credits/&ExternalRecordEngineer	Ingegnere di registrazione
+Credits/&ExternalCopyist	Copista
+Credits/&ExternalMusicians	Musicisti
+Credits/&ExternalVoiceDirector	Direttore vocale e editor di dialoghi
+Credits/&ExternalPMSoundEditor	Project Management e Sound Editor
+Credits/&ExternalSoundEditor	Editori del suono
+Credits/&ExternalHerosActor	Hero Voice
+Credits/&ExternalNPCActor	Voce NPC
+Credits/&ExternalRealityzName	Realityz Team
+Credits/&LeadLDLB	Lead Level Design e Level Build
+Credits/&LDLB	Level Design e Level Build
+Credits/&ToolsGameplayProgrammerTitle	Strumenti e ingegnere di gioco
+Credits/&ExternalStudioCreative	Direttore Creativo dello Studio
+Credits/&ExternalUIUX	Partner UI / UX
+Credits/&ExternalFigsName	Fichi
+Credits/&ExternalUIUXJob	Design UX / UI di
+Credits/&ExternalPlaytestBy	Playtest e rapporti di
+Credits/&ExternalSkillooName	Skilloo
+Credits/&TATeamName	Team di avventure tattiche
+Credits/&SpecialThanks	Ringraziamenti speciali
+Credits/&ExternalTech	Partner tecnici
+Credits/&ExternalKnightsName	Cavalieri dell'Unità
+Credits/&ExternalUnityDev	Unity Developer
+Credits/&ExternalLoca	Partner di localizzazione
+Credits/&ExternalAltaName	Gruppo Altagram
+Credits/&ExternalAltaLQA	Cavo di prova LQA
+Credits/&ExternalAltaLingCoord	Coordinatore linguistico
+Credits/&Baby	Solastan Baby
+Credits/&Pets	Solastan Pets
+Credits/&PetsNote	Grazie per tutto il caffè versato sulle tastiere e le intrusioni nelle videochiamate
+Credits/&ExternalQAPartners	Partner QA
+Credits/&ExternalCSPartners	Partner del filmato 2D
+Credits/&ExternalSound	Partner audio

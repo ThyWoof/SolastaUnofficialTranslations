@@ -87,7 +87,7 @@ NPC/&NPC_Maid_Title	Maid
 NPC/&NPC_CoparannGuardSorakAgentTitle	Corrupted Guard
 NPC/&NPC_Gromnir_SorakTitle	Sorak Infiltrator
 NPC/&NPC_Spectral_Servant_Title	Spectral Servant
-NPC/NPC_Bitterroot_Title	Bitterroot
+NPC/&NPC_Bitterroot_Title	Bitterroot
 NPC/&NPC_Dackin_Title	Master Dackin
 NPC/&NPC_Adria_Title	Adria
 NPC/&NPC_Lyria_Title	Lyria
@@ -99,7 +99,7 @@ NPC/&NPC_SpeakRavensworth_Description	Speak to enter the residence.
 NPC/&NPC_Edrof_Title	Edrof
 NPC/&NPC_Radulf_Title	Radulf
 NPC/&NPC_Urka_Title	Urka
-NPC/&NPC_Galaefin	Galaefin
+NPC/&NPC_Galaefin	Master Galeafin
 NPC/&NPC_GalaefinsButler	Butler
 NPC/&NPC_Illoreth	Illoreth
 NPC/&NPC_Stig_Title	Stig
@@ -121,5 +121,15 @@ NPC/&NPC_Priest_Of_MisayeDescription	Priest of Misaye
 NPC/&NPC_Scavenger_TOM_Title	Ramin Blake
 NPC/&NPC_Council_Trooper_Title	Legacy Council Trooper
 NPC/&GunnarElderen_Title	Gunnar Elderen
-NPC/&NPC_Galaefin_Plaque_Title	Master Galaefin, philosopher, peer of the kingdom.
+NPC/&NPC_Galaefin_Plaque_Title	Master Galeafin, philosopher and peer of the kingdom.
 NPC/&AllanMiller_Title	Allan Miller
+NPC/&NPC_Backer_Ron_Title	Ron
+NPC/&NPC_Backer_Zhoron_Title	Zhoron
+NPC/&NPC_Estalla_Title	Estalla Mertvykh
+NPC/&NPC_Rogrok_Title	Rogrok
+NPC/&NPC_Rogrok_Description	A chieftain who decided to stop fighting with an axe to become a merchant.
+NPC/&NPC_Circe_Title	Circe Gerardoirin
+NPC/&NPC_Circe_Description	This mischievous lady moved here to explore and find all the books she could.
+NPC/&NPC_Mogo_Title	Mogo the Poor
+NPC/&NPC_Laethar_Title	Emperor Laethar
+NPC/&NPC_Magister_Title	Kaseinax

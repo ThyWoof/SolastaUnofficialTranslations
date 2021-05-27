@@ -1,0 +1,11 @@
+Room/&Corner_12CTitle	Canto
+Room/&Crossroad_12CTitle	Cruzamento
+Room/&Hallway_12CTitle	Corredor
+Room/&Line_12CTitle	Linha
+Room/&Room_Big_24CTitle	Quarto grande
+Room/&Room_Small_24CTitle	Quarto pequeno
+Room/&Line_24CTitle	Corredor
+Room/&Turn_12CTitle	Vez
+Room/&Room_Big_48CTitle	Quarto enorme
+Room/&Clearing_Large_24CTitle	Clareira Grande
+Room/&Clearing_Small_12CTitle	Clareira pequena

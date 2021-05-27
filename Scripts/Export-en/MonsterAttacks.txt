@@ -24,6 +24,8 @@ MonsterAttacks/&Attack_AcidBite	Acid Bite
 MonsterAttacks/&Attack_Freeze_Title	Freeze
 MonsterAttacks/&Attack_Fire_Title	Touch
 MonsterAttacks/&Attack_ShockingAntenna_Title	Shocking Antenna
-MonsterAttacks/&Attack_ShockingAntenna_Description	Zealots can transmit a powerful electrical discharge with their antenna.
+MonsterAttacks/&Attack_ShockingAntenna_Description	Zealots can transmit a powerful electrical discharge with their antennae.
 MonsterAttacks/&Attack_PheromoneSpray_Title	Pheromone Spray
-MonsterAttacks/&Attack_PheromoneSpray_Description	Pilgrims can spray a target with a pheromone that makes allies frenzied and burn the skin.
+MonsterAttacks/&Attack_PheromoneSpray_Description	Pilgrims can spray a target with a pheromone that burns the skin and makes its allies frenzied.
+MonsterAttacks/&Attack_Tail_Title	Tail
+MonsterAttacks/&AttackNecroticBite_Title	Necrotic Bite

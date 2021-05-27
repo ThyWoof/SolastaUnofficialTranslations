@@ -1,0 +1,200 @@
+Monster/&Acolyte_Description	Um clérigo errante em busca de glória e batalha.
+Monster/&Acolyte_Title	Acólito
+Monster/&Archmage_Description	Um mago malvado que procurou um local isolado para realizar experimentos indizíveis sem interferência.
+Monster/&Archmage_Title	Arquimago
+Monster/&Badlands Hunter_Description	Um ranger errante em busca de glória e batalha.
+Monster/&Badlands Hunter_Title	Badlands Hunter
+Monster/&BanditCaptain_Description	Um bandido experiente, muito mais habilidoso que seus seguidores.
+Monster/&BanditCaptain_Title	Capitão bandido
+Monster/&Berserker_Description	Vindos de terras bárbaras, os berserkers se reúnem em grupos de guerra para lutar.
+Monster/&Berserker_Title	Berserker
+Monster/&BroodOfBloodDescription	Gerado por um Profanador, esta é uma criatura sanguinária.
+Monster/&BroodOfBloodTitle	Raça de sangue
+Monster/&BroodOfDreadDescription	Gerado por um Profanador, esta é uma criatura sanguinária.
+Monster/&BroodOfDreadTitle	Ninhada de medo
+Monster/&BroodOfFleshDescription	Gerado por um Profanador, esta é uma criatura sanguinária.
+Monster/&BroodOfFleshTitle	Ninhada de Carne
+Monster/&CultFanatic_Description	Parte da liderança de uma seita, esses fanáticos usam seu dogma e carisma para influenciar e atacar os fracos.
+Monster/&CultFanatic_Title	Fanático de culto
+Monster/&Darkweaver_Description	Um ladino errante em busca de glória e batalha.
+Monster/&Darkweaver_Title	Darkweaver
+Monster/&DireWolf_Description	Um lobo particularmente grande.
+Monster/&DireWolf_Title	Dire Wolf
+Monster/&EagleMatriarchDescription	Uma grande águia encontrada nas Marcas.
+Monster/&EagleMatriarchTitle	Águia matriarca
+Monster/&FireSpider_Description	Uma aranha gigante fundida com um pequeno elemental de fogo pela influência mágica estranha de Badlands.
+Monster/&FireSpider_Title	Aranha de fogo
+Monster/&FlyingSnakeDescription	Uma cobra alada encontrada em Badlands.
+Monster/&FlyingSnakeTitle	Brimstone Viper
+Monster/&GargoyleDescription	[TEMP] TBD
+Monster/&GargoyleTitle	Gárgula
+Monster/&Generic_ShockArcanist_Description	Um poderoso mago de batalha em busca de um desafio.
+Monster/&Generic_ShockArcanist_Title	Arcanista de choque
+Monster/&Generic_Warlord_Description	Um lutador muito experiente e poderoso que reuniu seguidores e conquistou territórios.
+Monster/&Generic_Warlord_Title	Senhor da guerra
+Monster/&GhastDescription	Um tipo mais poderoso de carniçal, conhecido por seu fedor terrível.
+Monster/&GhastTitle	Badlands Ghast
+Monster/&Ghost_Description	Uma criatura morta-viva poderosa e etérea.
+Monster/&Ghost_Title	Spectral Avenger
+Monster/&GhostWolf_Description	Um lobo morto criado pelo poder necromântico.
+Monster/&GhostWolf_Title	Lobo fantasma
+Monster/&GhoulDescription	Uma criatura morta-viva voraz, constantemente procurando carne para comer.
+Monster/&GhoulTitle	canibal
+Monster/&GiantEagle_Description	Uma águia gigante, corrompida pelos fluxos mágicos de Badlands.
+Monster/&GiantEagle_Title	Badlands Eagle
+Monster/&GiantSpiderDescription	Aranhas muito grandes, elas vivem nas profundezas de Badlands e são sensíveis à luz.
+Monster/&GiantSpiderTitle	Deep Spider
+Monster/&GoblinDescription	Uma criaturinha malvada e esverdeada.
+Monster/&GoblinShaman_Description	Um goblin com poderes quase clericais.
+Monster/&GoblinShamanTitle	Goblin Shaman
+Monster/&GoblinSkirmisherDescription	Um arqueiro goblin.
+Monster/&GoblinSkirmisherTitle	Escaramuçador de Goblin
+Monster/&GoblinTitle	Goblin
+Monster/&Guard_Description	Um soldado de baixa patente, usado para realizar tarefas de segurança mundanas.
+Monster/&Guard_Title	Guarda
+Monster/&Highpriest_Description	Um clérigo poderoso vagando pela terra para espalhar sua fé com palavras suaves e atos duros.
+Monster/&Highpriest_Title	Sumo sacerdote
+Monster/&MinotaurDescription	TBD
+Monster/&MinotaurTitle	Minotauro
+Monster/&MummyDescription	Uma poderosa criatura morta-viva, preservada para a vida após a morte.
+Monster/&MummyTitle	Mamãe
+Monster/&Necromancer_Description	Um feiticeiro malvado especializado em necromancia.
+Monster/&Necromancer_Title	Necromante
+Monster/&OgreDescription	Ogros são enormes e poderosos, mas estúpidos. Eles vivem para matar, catar comida e prazeres simples.
+Monster/&OgreTitle	Ogro
+Monster/&OgreZombie_Description	Um ogro que foi criado pelo poder necromântico.
+Monster/&OgreZombie_Title	Ogre Zombie
+Monster/&OrcArcherDescription	Orcs têm arqueiros entre suas tropas. Apesar de sua eficácia, eles são vistos como covardes e geralmente são guerreiros de segunda categoria.
+Monster/&OrcArcherTitle	Orc Archer
+Monster/&OrcBerserkerDescription	Berserkers são guerreiros enlouquecidos que ignoram todos os perigos enquanto estão em seu transe de batalha. Rápidos e violentos, eles não sentem dor ou medo.
+Monster/&OrcBerserkerTitle	Orc Berserker
+Monster/&OrcChieftainDescription	Chieftains são os orcs mais fortes que sobreviveram a batalhas e desafios de outros orcs para conquistar uma posição de poder.
+Monster/&OrcChieftainTitle	Orc Chieftain
+Monster/&OrcDescription	Orcs são guerreiros tribais brutais, conhecidos por seus hábitos bárbaros. Eles vivem atacando e saqueando.
+Monster/&OrcShaman_Description	A coisa mais próxima que os orcs têm de um clérigo, com alguns poderes místicos.
+Monster/&OrcShaman_Title	Orc Shaman
+Monster/&OrcTitle	Orc
+Monster/&PhaseSpider_Description	Uma aranha monstruosa capaz de viajar livremente de e para o plano etéreo.
+Monster/&PhaseSpider_Title	Phase Spider
+Monster/&PoisonousSnakeDescription	[TEMP] TBD
+Monster/&PoisonousSnakeTitle	Cobra venenosa
+Monster/&Priest_Description	Um padre perverso lidera uma seita religiosa conduzindo ritos depravados nas sombras de uma sociedade respeitável.
+Monster/&Priest_Title	Sacerdote malvado
+Monster/&Scout_Description	Os batedores são caçadores e rastreadores habilidosos que oferecem seus serviços mediante o pagamento de uma taxa.
+Monster/&Scout_Title	Batedor
+Monster/&SkeletonArcherDescription	Esqueletos são animados por magia negra. Eles costumavam ser criaturas vivas, mas agora são conchas vazias de ódio, surgidas de tumbas ou campos de batalha e do desejo pela vida ... para matar.
+Monster/&SkeletonArcherTitle	Arqueiro Esqueleto
+Monster/&SkeletonDescription	Esqueletos são animados por magia negra. Eles costumavam ser criaturas vivas, mas agora são conchas vazias de ódio, surgidas de tumbas ou campos de batalha e do desejo pela vida ... para matar.
+Monster/&SkeletonEnforcer_Description	Uma poderosa criatura morta-viva armada com um machado e um escudo.
+Monster/&SkeletonEnforcer_Title	Skeletal Enforcer
+Monster/&SkeletonKnight_Description	Uma poderosa criatura morta-viva, criada ao levantar um cavaleiro morto.
+Monster/&SkeletonKnight_Title	Cavaleiro Esquelético
+Monster/&SkeletonSorcerer_Description	Uma poderosa criatura morta-viva com poderes necromânticos.
+Monster/&SkeletonSorcerer_Title	Feiticeiro esquelético
+Monster/&SkeletonTitle	Esqueleto
+Monster/&SorakAbominationDescription	Um tipo muito grande de Sorr-Akkath, muito mais forte e mortal do que seus camaradas menores e aparentemente menos inteligente.
+Monster/&SorakAbominationTitle	Abominação Sorr-Akkath
+Monster/&SorakAcolyteOfSorr-TarrDescription	Esses feiticeiros parecem ser clérigos de Sorr-Tarr.
+Monster/&SorakAcolyteOfSorr-TarrTitle	Sorr-Akkath Acólito de Sorr-Tarr
+Monster/&SorakAntipaladinDescription	Um poderoso lutador blindado, com resistências superiores e habilidades mágicas.
+Monster/&SorakAntipaladinTitle	Sorr-Akkath Shikkath
+Monster/&SorakAssassinDescription	Um assassino mortal que se esconde nas sombras.
+Monster/&SorakAssassinTitle	Sorr-Akkath Assassin
+Monster/&SorakGruntDescription	Um lutador básico de Sorr-Akkath, agressivo e implacável.
+Monster/&SorakGruntTitle	Guerreiro Sorr-Akkath
+Monster/&SorakSaboteurDescription	Um lutador de apoio, rápido, astuto e cruel.
+Monster/&SorakSaboteurTitle	Sabotador Sorr-Akkath
+Monster/&SorakSkirmisherDescription	Um lutador de ataque à distância de Sorr-Akkath.
+Monster/&SorakSkirmisherTitle	Escaramuçador de Sorr-Akkath
+Monster/&SpectralSpiderDescription	Aranhas Dead Badlands de alguma forma se transformaram em mortos-vivos.
+Monster/&SpectralSpiderTitle	Aranha Espectral
+Monster/&SpiderDescription	Maior do que sua aranha doméstica normal, esta criatura é bastante perigosa.
+Monster/&SpiderTitle	Badlands Spider
+Monster/&Spy_Description	Um bandido sem lei treinado para espionar e matar para senhores ricos.
+Monster/&Spy_Title	Espião
+Monster/&Thug_Description	Os bandidos são executores implacáveis, hábeis na intimidação e na violência. Eles trabalham por dinheiro e têm poucos escrúpulos.
+Monster/&Thug_Title	Bandido
+Monster/&TigerDrake_Description	Uma grande cobra voadora com um terrível veneno nas presas.
+Monster/&TigerDrake_Title	Tiger Drake
+Monster/&TutoAlphaWolfDescription	Um lobo adulto, parecendo particularmente agressivo.
+Monster/&TutoAlphaWolfTitle	Lobo Cinzento
+Monster/&TutoWolfDescription	Um lobo errante, magro e fraco, mas faminto.
+Monster/&TutoWolfTitle	Lobo faminto
+Monster/&VeteranDescription	Os veteranos são lutadores profissionais que pegam em armas por dinheiro ou em defesa de algo que valorizam ou em que acreditam. Eles incluem soldados aposentados e mercenários que nunca serviram aos interesses de ninguém além dos seus.
+Monster/&VeteranTitle	Veterano
+Monster/&WightDescription	Um Wight
+Monster/&WightTitle	Wight
+Monster/&WinterWolf_Description	Um grande lobo ártico com um ataque de respiração fria.
+Monster/&WinterWolf_Title	Lobo do inverno
+Monster/&WolfDescription	Uma fera típica das pastagens e florestas de Solasta.
+Monster/&WolfTitle	Lobo
+Monster/&WorkerDescription	Um humano trabalhando em Badlands, de afiliação desconhecida.
+Monster/&WorkerTitle	Humano Desconhecido
+Monster/&ZombieDescription	Uma criatura morta-viva voraz, constantemente procurando carne para comer.
+Monster/&ZombieTitle	Zumbi
+Monster/&Werewolf_Title	Lobisomem
+Monster/&Werewolf_Description	Um metamorfo em forma humana, ele retém alguns de seus poderes não naturais, incluindo uma resistência fantástica a armas não prateadas.
+Monster/&ConjuredBeast_Title	Besta Conjurada
+Monster/&ConjuredBeast_Description	Esta criatura foi conjurada.
+Monster/&Redscar_Orc_Grunt_Title	Redscar Orc
+Monster/&Redscar_Orc_Grunt_Description	Um dos peões de Arrok, este orc foi abençoado com o poder do fogo.
+Monster/&Redscar_Orc_Beastmaster_Title	Orc Beastmaster
+Monster/&Redscar_Orc_Beastmaster_Description	Um orc evasivo, menos conflituoso do que a maioria, que usa suas feras domesticadas para lutar por ele.
+Monster/&GoblinCutthroatTitle	Goblin Cutthroat
+Monster/&GoblinCutthroatDescription	Um goblin veterano que se tornou um assassino habilidoso.
+Monster/&Veteran_Agent_Description	Este mercenário veterano parece habitado por uma fúria fanática.
+Monster/&Veteran_Agent_Title	Atacante misterioso
+Monster/&Darkweaver_Agent_Description	Este Darkweaver parece habitado por uma fúria fanática.
+Monster/&Darkweaver_Agent_Title	Atacante misterioso
+Monster/&CaravanMerchant_Title	Comerciante Viajante
+Monster/&SpiderQueenTitle	Rainha Aranha
+Monster/&SpiderQueenDescription	Uma aranha gigantesca que deve ter vivido séculos no escuro.
+Monster/&FireOsprey_Title	Osprey de fogo
+Monster/&FireOsprey_Description	Um elemental de fogo em forma de morcego, encontrado apenas nas profundezas de Badlands.
+Monster/&OrcMerchantTitle	Orc Merchant
+Monster/&FireElemental_Title	Fire Elemental
+Monster/&SkeletonMarksman_Title	Atirador Esquelético
+Monster/&SkeletonMarksman_Description	Um poderoso esqueleto de arqueiro que atira flechas mágicas imbuídas de magia necrótica.
+Monster/&Wraith_Title	Badlands Wraith
+Monster/&Wraith_Description	Um morto-vivo incorpóreo que pode drenar sua vida e odeia a luz.
+Monster/&MinorFireElemental_Title	Bufão de fogo
+Monster/&MinorFireElemental_Description	Um pequeno elemental de fogo que gosta de queimar coisas.
+Monster/&Orc_Grimblade_Title	Orc Grimblade
+Monster/&Orc_Grimblade_Description	Um orc furtivo treinado para usar as sombras para apunhalar seus inimigos pelas costas.
+Monster/&CrimsonSpider_Title	Aranha carmesim
+Monster/&CrimsonSpider_Description	Uma aranha gigante dos lagos ácidos subterrâneos de Badlands.
+Monster/&AirElemental_Title	Elemental do Ar
+Monster/&AirElemental_Description	Uma criatura de pedra volumosa animada por forças elementais mágicas.
+Monster/&FireElemental_Description	Uma criatura de puro fogo, animada por forças elementais mágicas.
+Monster/&EarthElemental_Title	Earth Elemental
+Monster/&WindSnake_Title	Serpente do Vento
+Monster/&WindSnake_Description	Um pequeno elemental do ar que pode congelar você até a morte.
+Monster/&SkarnGhoul_Title	Skarn Ghoul
+Monster/&SkarnGhoul_Description	Um pequeno elemental de terra feito de rocha skarn que pode bater com os pés até doer.
+Monster/&Redeemer_PilgrimTitle	Peregrino
+Monster/&Redeemer_PilgrimDescription	Um grande inseto que faz parte da espécie Redentor, sua picada é ácida e pode espalhar feromônios que provocam um frenesi entre suas fileiras.
+Monster/&Redeemer_ZealotTitle	Fanático
+Monster/&Redeemer_ZealotDescription	Inseto muito grande, membro da espécie Redentor, com capacidade de atacar com choques elétricos.
+Monster/&Highpriest_Infiltrator_Title	Sacerdote de Arivad
+Monster/&CubeOfLightTitle	Cubo de luz
+Monster/&CubeOfLightDescription	Uma estranha criatura de luz e magia de origem desconhecida.
+Monster/&GreenDragon_Title	Dragão Verde
+Monster/&GreenDragon_Description	Este dragão parece ser o mestre da conjuração do antigo Arcaneum Imperial!
+Monster/&Remorhaz_Title	Remorhaz
+Monster/&Remorhaz_Description	Um inseto monstruoso capaz de engolir um aventureiro inteiro!
+Monster/&Sorak_Tshar_Boss_Title	Sorr-Akkath Tshar
+Monster/&Sorak_Tshar_Boss_Description	O líder dos Soraks em Solasta, um antigo e poderoso Acólito de Sorr-Tarr.
+Monster/&Divine_Avatar_01_Title	Avatar Divino
+Monster/&Divine_Avatar_01_Description	Uma criatura poderosa enviada por uma divindade para apoiar um crente em necessidade.
+Monster/&BlackDragon_Title	Dragão negro
+Monster/&BlackDragon_Description	Parece que este Dragão Negro é na verdade Mardracht, o Mestre da Necromancia de Manacalon Arcaneum!
+Monster/&Spiderling_Title	Spiderlings
+Monster/&Spiderling_Description	Descendência da Velha Rainha. Ela os ama tanto que os come de vez em quando.
+Monster/&YoungRemorhaz_Title	Jovem remorhaz
+Monster/&YoungRemorhaz_Description	Os descendentes do predador do ápice são monstrinhos aterrorizantes.
+Monster/&BlackYoungDragon_Title	Jovem dragão negro
+Monster/&BlackYoungDragon_Description	Um dragão menor, degenerado pela magia caótica do ermo.
+Monster/&GreenYoungDragon_Title	Jovem dragão verde
+Monster/&GreenYoungDragon_Description	Um dragão menor, degenerado pela magia caótica do ermo.
+Monster/&GoldDragon_Title	Dragão de Ouro
+Monster/&GoldDragon_Description	Parece que este Dragão de Ouro é, na verdade, Adrastia, o Mestre da Abjuração de Manacalon Arcaneum!

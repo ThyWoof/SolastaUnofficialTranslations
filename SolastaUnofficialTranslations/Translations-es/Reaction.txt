@@ -1,0 +1,94 @@
+Reaction/&AlterAttackSpellDescription	¡{0} está atacando a {1}! Puedes lanzar {2} para bloquear el ataque.
+Reaction/&AlterAttackSpellReactDescription	Haz clic para lanzar {0} y bloquear el ataque.
+Reaction/&AlterAttackSpellReactTitle	Lanzar hechizo
+Reaction/&AlterAttackSpellTitle	Evita el ataque entrante.
+Reaction/&BlockAttackDescription	¡{0} está atacando a {1}! Puedes reaccionar para imponer desventajas al enemigo.
+Reaction/&BlockAttackReactDescription	Haz clic para bloquear al personaje atacante e imponer desventaja. Esto usa tu reacción hasta tu próximo turno.
+Reaction/&BlockAttackReactTitle	Cuadra
+Reaction/&BlockAttackTitle	Ataque a Ally
+Reaction/&CastFallPreventionSpellDescriptionPlural	{0} están a punto de caer peligrosamente. Puedes lanzar {1} para evitar cualquier daño.
+Reaction/&CastFallPreventionSpellDescriptionSingle	{0} está a punto de caer peligrosamente. Puedes lanzar {1} para evitar cualquier daño.
+Reaction/&CastFallPreventionSpellReactDescription	Haz clic para lanzar el hechizo {0} y evitar daños por caída.
+Reaction/&CastFallPreventionSpellReactTitle	Lanzar hechizo
+Reaction/&CastFallPreventionSpellTitle	Caída dolorosa
+Reaction/&CastImmunityToSpellDescription	¡{0} está transmitiendo {3} en {1}! Puedes lanzar {2} para contrarrestar el hechizo.
+Reaction/&CastImmunityToSpellReactDescription	Haz clic para lanzar {0} y contrarrestar el ataque del hechizo.
+Reaction/&CastImmunityToSpellReactTitle	Lanzar hechizo
+Reaction/&CastImmunityToSpellTitle	Ataque de hechizo entrante
+Reaction/&ChooseAReactionTitle	Elige una reacción
+Reaction/&ChooseAnOptionTitle	Elige una opcion
+Reaction/&CounterAttackWithPowerDescription	¡{0} ha llegado a {1}! Puedes contraatacar con {2}.
+Reaction/&CounterAttackWithPowerReactDescription	Haga clic para usar {0} y contraataque.
+Reaction/&CounterAttackWithPowerReactTitle	Huelga
+Reaction/&CounterAttackWithPowerTitle	Ataque enemigo
+Reaction/&CounterSpellDescription	¡{0} está lanzando un hechizo! Puedes reaccionar para contrarrestar el hechizo.
+Reaction/&CounterSpellReactDescription	Haz clic para lanzar un contrahechizo y contrarrestar el hechizo enemigo.
+Reaction/&CounterSpellReactTitle	Encimera
+Reaction/&CounterSpellTitle	Lanzamiento de hechizos hostiles
+Reaction/&GiantKillerDescription	{0}, una {2} criatura, ha atacado a {1}, que puede usar una reacción para contraatacar.
+Reaction/&GiantKillerReactDescription	Haz clic para contraatacar. Esto usa tu reacción hasta tu próximo turno.
+Reaction/&GiantKillerReactTitle	Ataque
+Reaction/&GiantKillerTitle	Asesino gigante
+Reaction/&MainTitle	Reaccionando a
+Reaction/&OpportunityAttackDescription	{0} abandona un área amenazada por uno o más personajes.
+Reaction/&OpportunityAttackReactDescription	Haz clic para atacar al personaje / criatura en retirada. Esto usa tu reacción hasta tu próximo turno.
+Reaction/&OpportunityAttackReactTitle	Ataque
+Reaction/&OpportunityAttackTitle	Ataque de oportunidad
+Reaction/&PassDescription	No reacciona a este evento, guardando su reacción para más adelante.
+Reaction/&PassTitle	Aprobar
+Reaction/&ReactionShotDescription	{0} ha atacado a {1}, quien puede usar una reacción para contraatacar con un ataque a distancia.
+Reaction/&ReactionShotReactDescription	Haz clic para contraatacar. Esto usa tu reacción hasta tu próximo turno.
+Reaction/&ReactionShotReactTitle	Ataque
+Reaction/&ReactionShotTitle	Tiro de reacción
+Reaction/&SecondsTitle	segundo
+Reaction/&SpendPowerPowerDomainBattleDecisiveStrikeDescription	{0} puede atacar con daño adicional usando Canalizar divinidad.
+Reaction/&SpendPowerPowerDomainBattleDecisiveStrikeReactDescription	Haz clic para aumentar el daño usando Canalizar Divinidad: Golpe decisivo.
+Reaction/&SpendPowerPowerDomainBattleDecisiveStrikeReactTitle	Huelga
+Reaction/&SpendPowerPowerDomainBattleDecisiveStrikeTitle	Ataque exitoso
+Reaction/&SpendPowerPowerTraditionGreenmageMagicalArrowDescription	{0} puede intentar enredar al objetivo gastando un uso de Flecha mágica.
+Reaction/&SpendPowerPowerTraditionGreenmageMagicalArrowReactDescription	Haga clic para intentar enredar al objetivo.
+Reaction/&SpendPowerPowerTraditionGreenmageMagicalArrowReactTitle	Enredar
+Reaction/&SpendPowerPowerTraditionGreenmageMagicalArrowTitle	Ataque exitoso
+Reaction/&SpendSpellSlotDivineSmiteDescription	{0} puede golpear a su objetivo con daño adicional gastando un espacio de hechizo.
+Reaction/&SpendSpellSlotDivineSmiteReactDescription	Haga clic para gastar un espacio de hechizo y aumentar el daño al objetivo.
+Reaction/&SpendSpellSlotDivineSmiteReactTitle	Herir
+Reaction/&SpendSpellSlotDivineSmiteTitle	Castigo divino
+Reaction/&SubitemSelectCounterspellDescription	Selecciona un nivel de espacio para gastar para lanzar un contrahechizo
+Reaction/&SubitemSelectCounterspellTitle	Nivel de ranura
+Reaction/&SubitemSelectDivineSmiteDescription	Seleccione un nivel de ranura para consumir para su Divine Smite
+Reaction/&SubitemSelectDivineSmiteTitle	Nivel de ranura
+Reaction/&SubitemSelectFeatherFallDescription	Selecciona un nivel de ranura para gastar para lanzar Feather Fall
+Reaction/&SubitemSelectFeatherFallTitle	Nivel de ranura
+Reaction/&SubitemSelectShieldDescription	Seleccione un nivel de ranura para gastar para lanzar escudo
+Reaction/&SubitemSelectShieldTitle	Nivel de ranura
+Reaction/&UncannyDodgeDescription	{0} está atacando a {1}, quien puede reaccionar para reducir a la mitad el daño recibido.
+Reaction/&UncannyDodgeReactDescription	Haz clic para usar tu reacción y reducir a la mitad el daño del ataque.
+Reaction/&UncannyDodgeReactTitle	Reducir en la mitad
+Reaction/&UncannyDodgeTitle	Esquiva asombrosa
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsColdDescription	{0} puede volverse temporalmente inmune al frío y recuperar algunos puntos de golpe.
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsColdReactDescription	Haga clic para volverse inmune al frío y recuperar puntos de vida.
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsColdReactTitle	Abarcar
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsColdTitle	Erudito de los elementos (frío)
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsFireDescription	{0} puede volverse temporalmente inmune al fuego y recuperar algunos puntos de golpe.
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsFireReactDescription	Haga clic para volverse inmune al fuego y recuperar puntos de golpe.
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsFireReactTitle	Abarcar
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsFireTitle	Erudito de los elementos (fuego)
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsLightningDescription	{0} puede volverse temporalmente inmune a los rayos y recuperar algunos puntos de golpe.
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsLightningReactDescription	Haga clic para volverse inmune a los rayos y recuperar puntos de golpe.
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsLightningReactTitle	Abarcar
+Reaction/&UsePowerDomainElementalDiscipleOfTheElementsLightningTitle	Erudito de los elementos (Rayo)
+Reaction/&DeflectMissileDescription	{0} está atacando a {1}, quien puede reaccionar para reducir el daño recibido en 1D10 + modificador DEX.
+Reaction/&DeflectMissileReactDescription	Haz clic para usar tu reacción y reducir el daño del ataque.
+Reaction/&DeflectMissileReactTitle	Cambiar
+Reaction/&DeflectMissileTitle	Ataque con misiles
+Reaction/&AlterAttackPowerDescription	¡{0} está atacando a {1}! Puedes usar {2} para aumentar la clase de armadura del defensor hasta el final del turno del atacante.
+Reaction/&AlterAttackPowerReactDescription	Haga clic para usar {0} y bloquear el ataque.
+Reaction/&AlterAttackPowerReactTitle	Cuadra
+Reaction/&AlterAttackPowerTitle	Evita el ataque entrante.
+Reaction/&IndomitableResistanceReactTitle	Reroll
+Reaction/&IndomitableResistanceReactDescription	Vuelve a tirar para intentar tener éxito en la tirada de salvación.
+Reaction/&IndomitableResistanceTitle	Indomable
+Reaction/&IndomitableResistanceDescription	{0} ha fallado una tirada de salvación contra {1} pero puede intentar volver a tirarla.
+Reaction/&ShadowRetributionReactTitle	Lanzar Cantrip
+Reaction/&ShadowRetributionReactDescription	Lanza el hechizo cantrip sobre el lanzador de hechizos hostil.
+Reaction/&ShadowRetributionDescription	{0} es el objetivo de un hechizo hostil de {1} y puede contraatacar con el hechizo {2}.

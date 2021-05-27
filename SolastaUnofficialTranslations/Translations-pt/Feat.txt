@@ -1,0 +1,66 @@
+Feat/&AcuteSensesDescription	VAZIO
+Feat/&AcuteSensesTitle	VAZIO
+Feat/&AlertDescription	Treinado para manter alto conhecimento em todas as situações, você ganha os seguintes benefícios:
+Feat/&AlertTitle	Vigilância
+Feat/&ArmorMasterDescription	Você é um especialista no uso de armadura em batalha. Você ganha +1 AC adicional de qualquer armadura que usar.
+Feat/&ArmorMasterTitle	Mestre de Armadura
+Feat/&Creed_Of_ArunTitle	Credo de Arun
+Feat/&Creed_Of_EinarTitle	Credo de Einar
+Feat/&Creed_Of_MaraikeTitle	Credo de Maraike
+Feat/&Creed_Of_MisayeTitle	Credo de Misaye
+Feat/&Creed_Of_PakriTitle	Credo de Pakri
+Feat/&Creed_Of_SolastaTitle	Credo de Solasta
+Feat/&EnduringBodyDescription	Aumente sua Constituição em 1 (máximo de 20) e seus pontos de vida aumentam em +1 adicional cada vez que você ganha um nível.
+Feat/&EnduringBodyTitle	Corpo Duradouro
+Feat/&FlawlessConcentrationDescription	Você é treinado para manter sua concentração nas condições mais extremas.\nSe você sofrer até 10 pontos de dano, não precisa fazer um teste de resistência de Constituição para manter a concentração.\nAcima desse valor, você tem vantagem ao rolar o teste de resistência.
+Feat/&FlawlessConcentrationTitle	Concentração perfeita
+Feat/&FocusedSleeperDescription	Você está acostumado a descansar muito apenas com um pouco de sono. Aumente sua Constituição em 1 (máximo 20) e você só precisa de quatro horas de sono por noite.
+Feat/&FocusedSleeperTitle	Dorminhoco Focado
+Feat/&HardToKillTitle	Dificil de matar
+Feat/&HaulerTitle	Hauler
+Feat/&LockbreakerDescription	Você passou muito tempo estudando fechaduras - como fabricá-las e como separá-las. Você ganha proficiência com ferramentas de ladrões ou dobra sua proficiência existente se já for proficiente. Você tem vantagem ao usar ferramentas de ladrões para arrombar fechaduras.
+Feat/&LockbreakerTitle	Disjuntor de bloqueio
+Feat/&LocksmithDescription	Não deve ser exibido
+Feat/&LocksmithTitle	Não deve ser exibido
+Feat/&ManipulatorTitle	Manipulador
+Feat/&MasterAlchemistDescription	Você dominou a arte de fazer poções. Você precisa da metade do tempo normal para criar uma poção e seu bônus de proficiência é dobrado ao fazer o teste para determinar se sua produção progride.\nVocê tem conhecimento especializado de todas as poções e pode identificá-las automaticamente.
+Feat/&MasterAlchemistTitle	Mestre Alquimista
+Feat/&MasterEnchanterDescription	Você dominou a arte de itens encantados. Você gasta metade do tempo normal para encantar um item e seu bônus de proficiência é dobrado ao realizar o teste para determinar se o seu artesanato progride
+Feat/&MasterEnchanterTitle	Mestre Feiticeiro
+Feat/&MightOfTheIronLegionDescription	+1 STR até um máximo de 20\nVocê ganha proficiência com Armadura Pesada.\nVocê ganha proficiência com Espadas Longas, Espadas Grandes e Machados de Guerra.
+Feat/&MightOfTheIronLegionTitle	Poder da Legião de Ferro
+Feat/&RobustDescription	Robusto e resistente, você aumenta sua pontuação de Constituição em 1 (máximo de 20) e quando usar um dado de vida para recuperar pontos de vida, role duas vezes e pegue o valor mais alto.
+Feat/&RobustTitle	Robusto
+Feat/&SylvanArcherDescription	VAZIO
+Feat/&SylvanArcherTitle	VAZIO
+Feat/&Creed_Of_EinarDescription	+1 STR até um máximo de 20\nProficiência em salvamentos de STR, se ainda não for proficiente; +1 caso contrário
+Feat/&Creed_Of_MaraikeDescription	+1 WIS até um máximo de 20\nA proficiência em WIS economiza, se ainda não for proficiente; +1 caso contrário
+Feat/&Creed_Of_MisayeDescription	+1 DEX até um máximo de 20\nProficiência em defesas DEX, se ainda não for proficiente; +1 caso contrário
+Feat/&Creed_Of_PakriDescription	+1 INT até um máximo de 20\nProficiência em INT economiza, se ainda não for proficiente; +1 caso contrário
+Feat/&Creed_Of_SolastaDescription	+1 CHA até um máximo de 20\nProficiência em economia de CHA, se ainda não for proficiente; +1 caso contrário
+Feat/&PowerfulCantripTitle	Cantrip poderoso
+Feat/&PowerfulCantripDescription	Quando uma criatura tem sucesso em um teste de resistência contra seu cantrip ou evita seu cantrip, a criatura sofre metade do dano, mas não sofre nenhum efeito adicional do cantrip.
+Feat/&UncannyAccuracyDescription	+1 DEX até um máximo de 20\nVocê ignora a cobertura de meio e três quartos com seus ataques à distância.
+Feat/&UncannyAccuracyTitle	Uncanny Accuracy
+Feat/&HardToKillDescription	+1 CON até um máximo de 20\nVocê tem vantagem nos testes de resistência à morte. Se você obtiver sucesso três vezes, você não só fica estabilizado, mas recupera um dado de acerto imediatamente. Em um teste crítico, você recupera dois dados de vida.
+Feat/&HaulerDescription	Você é treinado para carregar cargas pesadas. Aumente sua Força em 1 (máx. 20) e sua capacidade de carga será duplicada.
+Feat/&ManipulatorDescription	Você ganha proficiência em Intimidação, Persuasão e Engano. Se você já era proficiente, ganha experiência na habilidade correspondente.
+Feat/&EagerForBattleDescription	+1 DEX até um máximo de 20\nVocê tem vantagem em seus testes de iniciativa.
+Feat/&EagerForBattleTitle	Ansioso para a batalha
+Feat/&SturdinessOfTheTundraDescription	+1 CON até um máximo de 20\nVocê ganha proficiência com Armadura Média.\nVocê ganha proficiência com Warhammers e Bestas Leves e Pesadas.
+Feat/&SturdinessOfTheTundraTitle	Robustez da Tundra
+Feat/&DiscretionOfTheCoedymwarthDescription	+1 DEX até um máximo de 20\nVocê ganha proficiência com Armadura leve.\nVocê ganha proficiência com Espadas Curtas, Arcos Curtos e Arcos Longos.
+Feat/&DiscretionOfTheCoedymwarthTitle	Discrição do Coedymwarth
+Feat/&AmbidextrousDescription	+1 para DEX até um máximo de 20\nVocê pode lutar usando duas armas, mesmo que as armas corpo a corpo de uma mão não sejam leves.
+Feat/&AmbidextrousTitle	Ambidestro
+Feat/&RaiseShieldDescription	Quando você está prestes a ser atingido por um ataque à distância enquanto empunha um escudo, você pode usar sua reação para obter +3 CA até o final do turno do atacante. Você também ganha proficiência com escudos.
+Feat/&RaiseShieldTitle	Levantar escudo
+Feat/&TwinBladeDescription	Quando você está prestes a ser atingido por um ataque corpo a corpo enquanto empunha duas vezes (não espada + escudo), você pode usar sua reação para obter +3 CA até o final do turno do atacante.
+Feat/&TwinBladeTitle	Lâmina dupla
+Feat/&TakeAimDescription	Você pode usar sua ação de bônus para mirar. Até o final do seu turno, seus ataques com armas de longo alcance não têm desvantagem ou vantagem, não importando as condições.
+Feat/&TakeAimTitle	Mirar
+Feat/&RushToBattleDescription	Você pode usar sua ação bônus para aumentar sua velocidade de movimento em 3 células até o final do seu turno e obter -2 em sua CA, até o início do seu próximo turno.
+Feat/&RushToBattleTitle	Corra para a batalha
+Feat/&FollowUpStrikeDescription	Quando você usa a ação de Ataque com uma arma de duas mãos, você pode usar uma ação bônus para fazer um ataque corpo a corpo rápido para acompanhar, causando um dano adicional adicional de 1d4 + FOR do mesmo tipo.
+Feat/&FollowUpStrikeTitle	Greve de Acompanhamento
+Feat/&Creed_Of_ArunDescription	+1 para DEX até um máximo de 20\nVocê pode lutar usando duas armas, mesmo que as armas corpo a corpo de uma mão não sejam leves.

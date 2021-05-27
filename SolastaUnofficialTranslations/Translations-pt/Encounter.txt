@@ -1,0 +1,213 @@
+Encounter/&Abjuration_Caravan_EncounterDescription	Você encontrou uma caravana, uma coisa rara nestas terras desoladas.
+Encounter/&Abjuration_Caravan_EncounterTitle	Encontro Inesperado
+Encounter/&Abjuration_Ruins01_EncounterDescription	Enquanto você viajava por Badlands em direção a Coparann, Kythaela pediu que você parasse perto de uma velha ruína ...
+Encounter/&Abjuration_Ruins01_EncounterTitle	Cinzas de Manacalon
+Encounter/&Abjuration_Ruins02_EncounterDescription	Kythaela parou novamente e pediu para entrar no que parecia ser uma antiga prisão Imperial.
+Encounter/&Abjuration_Ruins02_EncounterTitle	Masmorras de Manacalon
+Encounter/&BadlandsSpidersEncounterDescription	Você deve ter vagado perto de um ninho: um punhado desses monstrinhos quer você morto.
+Encounter/&BadlandsSpidersEncounterTitle	Badlands Spiders
+Encounter/&BanditsEncounterDescription	Ladrões em busca de presas fáceis - de preferência ricos.
+Encounter/&BanditsEncounterTitle	Bandidos
+Encounter/&CrownAttunementEncounterDescription	Seu grupo é forçado a parar para um breve descanso não planejado. Algo está errado.
+Encounter/&CrownAttunementEncounterTitle	Uma noite turbulenta
+Encounter/&DeepSpidersEncounterTitle	Deep Spiders
+Encounter/&EagleNestEncounterDescription	Você vagou muito perto de um ninho! As águias lutarão até a morte para proteger seus filhotes!
+Encounter/&EagleNestEncounterTitle	Eagle Nest
+Encounter/&FlyingSnakesEncounterDescription	Um bando de cobras voadoras que querem que você fique longe de seus ovos.
+Encounter/&FlyingSnakesEncounterTitle	Brimstone Vipers
+Encounter/&GoblinCrusadersDescription	Um goblin xamã e seus seguidores em busca de glória.
+Encounter/&GoblinCrusadersTitle	Goblin Crusade
+Encounter/&GoblinhuntingpartyEncounterDescription	Goblins caçam com seus lobos domesticados.
+Encounter/&GoblinhuntingpartyEncounterTitle	Goblin Hunting Party
+Encounter/&GoblinWarPartyDescription	Um bando de escaramuçadores goblins procurando encrenca.
+Encounter/&GoblinWarPartyTitle	Goblin War Party
+Encounter/&OrcMaraudersTitle	Orc Marauders
+Encounter/&OrcRaidersDescription	Um chefe orc liderando um bando de guerreiros em busca de cicatrizes e glória.
+Encounter/&OrcRaidersTitle	Orc Raiders
+Encounter/&WinterWolfpackEncounterDescription	Um terrível lobo de inverno, à caça com alguns lobos normais.
+Encounter/&WinterWolfpackEncounterTitle	Winter Wolf e Pack
+Encounter/&WolfpackEncounterDescription	Uma matilha de lobos vorazes, desesperados por uma morte.
+Encounter/&WolfpackEncounterTitle	Alcateia
+Encounter/&DeepSpidersEncounterDescription	Um enorme grupo de aranhas profundas procurando alimentar seus filhotes.
+Encounter/&DeathGangTitle	Gangue da morte
+Encounter/&DeathGangDescription	Esqueletos errantes, escaparam de alguma tumba profanada.
+Encounter/&DeathSquadTitle	Esquadrão da morte
+Encounter/&RoamingFanaticsTitle	Fanáticos por roaming
+Encounter/&RoamingFanaticsDescription	Dois acólitos liderados por um líder carismático.
+Encounter/&ApprenticeNecromancerTitle	Necromante Aprendiz
+Encounter/&ApprenticeNecromancerDescription	Um estudante de magia com um monte de suas criações apodrecidas.
+Encounter/&SpiesOnTheRunTitle	Espiões em fuga
+Encounter/&SpiesOnTheRunDescription	Alguns espiões tentando escapar da inteligência inimiga ... a todo custo.
+Encounter/&GlorySeekerTitle	Glory Seeker
+Encounter/&GlorySeekerDescription	Um soldado veterano vagando pelas estradas em busca da morte no campo de batalha.
+Encounter/&BerserkerBrothersTitle	Irmãos Berserker
+Encounter/&BerserkerBrothersDescription	Lutadores com ideias semelhantes em busca de sangue. De preferência o seu.
+Encounter/&StainedHunterTitle	Caçador manchado
+Encounter/&StainedHunterDescription	Um andarilho solitário de Badlands que foi corrompido por magia caótica.
+Encounter/&HungryWolvesTitle	Lobos Famintos
+Encounter/&HungryWolvesDescription	Uma pequena matilha de lobos, faminta e enfraquecida.
+Encounter/&GoblinScoutsTitle	Batedores Goblin
+Encounter/&GoblinScoutsDescription	Um pequeno grupo de goblins com seu lobo de estimação.
+Encounter/&LoneOgreTitle	Lone Ogre
+Encounter/&LoneOgreDescription	Um ogro errante, provavelmente perdido e definitivamente procurando por algo - ou alguém - para comer.
+Encounter/&OrcBandTitle	Orc Band
+Encounter/&OrcBandDescription	Um pequeno bando de orcs procurando algo para matar.
+Encounter/&RoamingUndeadsTitle	Morto-vivo em roaming
+Encounter/&RoamingUndeadsDescription	Um grupo de mortos-vivos, vagando e procurando acabar com algumas vidas.
+Encounter/&EvilEvangelistsTitle	Evangelistas do Mal
+Encounter/&EvilEvangelistsDescription	Um clérigo e seus capangas vagando pela terra para espalhar seu culto maligno.
+Encounter/&GhoulCoupleTitle	Ghouls
+Encounter/&GhoulCoupleDescription	Um bando de ghouls com fome perversa.
+Encounter/&GiantEaglesTitle	Águias Gigantes
+Encounter/&GiantEaglesDescription	Duas águias gigantes que parecem ameaçadas pela sua presença.
+Encounter/&WolfSquadTitle	Goblin Wolfsquad
+Encounter/&WolfSquadDescription	Um grupo de goblins liderado por um mestre das feras e seu lobo terrível.
+Encounter/&EscapedMinotaurTitle	Minotauro Fugido
+Encounter/&EscapedMinotaurDescription	Uma criatura rara em Solasta, esta aberração guardiã está em uma matança.
+Encounter/&LoneWightTitle	Wight
+Encounter/&LoneWightDescription	Uma criatura solitária vagando em busca de alguém para matar.
+Encounter/&ScoutingPartyTitle	Batedor e lobo
+Encounter/&ScoutingPartyDescription	Um batedor sorrateiro e seu animal de estimação lobo.
+Encounter/&DireWolfPackTitle	Pacote Dire Wolf
+Encounter/&DireWolfPackDescription	Um Dire Wolf e seu bando de caçadores regulares.
+Encounter/&DireWolfPack2Title	Lobos terríveis
+Encounter/&DireWolfPack2Description	Uma matilha de lobos terríveis.
+Encounter/&FanaticDuoTitle	Duo Fanático
+Encounter/&FanaticDuoDescription	Um casal de fanáticos a caminho de uma peregrinação brutal.
+Encounter/&MisayeEvangelistsTitle	Evangelistas Misaye
+Encounter/&MisayeEvangelistsDescription	Um grupo de seguidores fanáticos de Misaye que têm suas próprias interpretações do credo de sua divindade.
+Encounter/&OgreZombiesTitle	Ogre Zombies
+Encounter/&OgreZombiesDescription	Um grupo de ogros mortos transformados em versões piores de seu antigo eu.
+Encounter/&OrcPartyTitle	Orc War Party
+Encounter/&OrcPartyDescription	Um bando de orcs procurando por cicatrizes e glória.
+Encounter/&WightEscortTitle	Wight Squad
+Encounter/&WightEscortDescription	Um wight e seus soldados em uma caça aos vivos.
+Encounter/&BeastmasterTitle	Ragged Beastmaster
+Encounter/&BeastmasterDescription	Um homem enlouquecido e seus companheiros lobos famintos.
+Encounter/&GhastsTitle	Ghasts
+Encounter/&GhastsDescription	Um bando de fantasmas procurando almas para colher e corpos para devorar.
+Encounter/&GhoulPackTitle	Pacote Ghoul
+Encounter/&GhoulPackDescription	Um fantasma e seus carniçais procurando almas para colher e corpos para devorar.
+Encounter/&WolfShamanTitle	Wolf Shaman
+Encounter/&WolfShamanDescription	Um goblin xamã e seu lobo terrível de estimação.
+Encounter/&OgreBandTitle	Ogre Band
+Encounter/&OgreBandDescription	Um grupo de ogros furiosos.
+Encounter/&LeatherskinsTitle	Peles de couro
+Encounter/&LeatherskinsDescription	Um grupo heteróclita de goblins acompanhados por um lobo terrível e um ogro.
+Encounter/&CultFanaticsTitle	Fanáticos de culto
+Encounter/&CultFanaticsDescription	Um bando de fanáticos enlouquecidos que acreditam mais em espadas do que em palavras.
+Encounter/&WinterWolfPackTitle	Matilha de lobos de inverno
+Encounter/&WinterWolfPackDescription	Uma matilha liderada por um lobo de inverno monstruoso.
+Encounter/&ZombiePartyTitle	Zumbis
+Encounter/&ZombiePartyDescription	Simplificando, um bando de zumbis errantes em busca de carne viva.
+Encounter/&SlaversTitle	Escravistas
+Encounter/&SlaversDescription	Fanáticos procurando uma presa para escravizar.
+Encounter/&NecromancerTitle	Esquadrão Necromante
+Encounter/&NecromancerDescription	Um necromante e suas criações no caminho de guerra.
+Encounter/&Leatherskins2Title	Peles de couro
+Encounter/&Leatherskins2Description	Um bando de orcs liderados por um ogro.
+Encounter/&FireNestTitle	Fire Nest
+Encounter/&FireNestDescription	Um bando de aranhas de fogo vagando para fora de sua zona de conforto.
+Encounter/&WarlordTitle	Senhor da guerra
+Encounter/&WarlordDescription	Um poderoso senhor da guerra e seu capelão em busca de uma batalha gloriosa.
+Encounter/&ImperialsTitle	Outlaws imperiais
+Encounter/&ImperialsDescription	Combatentes do Novo Império que decidiram assumir a responsabilidade de aplicar as leis do Velho Império.
+Encounter/&MinotaursTitle	Minotauros
+Encounter/&MinotaursDescription	Minotauros errantes em busca de liberdade e derramamento de sangue.
+Encounter/&ShadowPartyTitle	Shadow Party
+Encounter/&ShadowPartyDescription	Um grupo de indivíduos sorrateiros com grandes habilidades e lâminas afiadas.
+Encounter/&FallenBeastmasterTitle	Stained Beastmaster
+Encounter/&FallenBeastmasterDescription	Um ranger que passou muito tempo em Badlands e se tornou mais um monstro.
+Encounter/&SharpshootersTitle	Esquadrão de atiradores
+Encounter/&SharpshootersDescription	Um bando de arqueiros mortais procurando aprimorar suas habilidades em alvos vivos.
+Encounter/&ApostatesTitle	Apóstatas
+Encounter/&ApostatesDescription	Um bando de cruzados cuja fé foi perdida depois que a deles foi corrompida por magia maligna.
+Encounter/&OrcConquerorTitle	Orc Conquerors
+Encounter/&OrcConquerorDescription	Outro grupo de warchiefs orcs tentando se tornar reis de Badlands.
+Encounter/&BattleMageTitle	Mago de batalha
+Encounter/&BattleMageDescription	Um poderoso mago e sua escolta, procurando inimigos para queimar até as cinzas.
+Encounter/&WarlordsTitle	Fomentadores de guerra
+Encounter/&WarlordsDescription	Lutadores poderosos que procuram algo para matar para se tornarem ainda mais experientes.
+Encounter/&CultLeaderTitle	Líder do culto
+Encounter/&CultLeaderDescription	Um clérigo poderoso com sua escolta pessoal, em uma missão assassina.
+Encounter/&SpectralSpidersTitle	Spectral Spiders
+Encounter/&SpectralSpidersDescription	Um grupo de aranhas gigantes mortas-vivas.
+Encounter/&PhaseSpiderTitle	Phase Spider
+Encounter/&PhaseSpiderDescription	Uma aranha enorme e desagradável que se teletransporta.
+Encounter/&PhaseSpidersTitle	Aranhas de fase
+Encounter/&PhaseSpidersDescription	Um bando de aranhas enormes e desagradáveis ​​que se teletransportam.
+Encounter/&SpectralHunterTitle	Spectral Hunter
+Encounter/&SpectralHunterDescription	Um caçador morto-vivo e seu lobo de estimação morto-vivo.
+Encounter/&TigerDrakesTitle	Tiger Drakes
+Encounter/&TigerDrakesDescription	Enormes cobras voadoras que se assemelham a pequenos dragões.
+Encounter/&CR10_YoungRemorhazes_Title	Remorhazes
+Encounter/&CR12_Redeemers_x3_Title	Grupo de resgatadores
+Encounter/&CR15_Redeemers_x1_x2_Title	Zelota e peregrinos
+Encounter/&CR9_Minor_Fire_Elementals_Title	Elementais do Fogo Menor
+Encounter/&CR14_Fire_Elementals_Title	Fire Elementals
+Encounter/&CR18_Major_Fire_Elementals_Title	Principais Fire Elementals
+Encounter/&CR6_Minor_Air_Elementals_Title	Elementais do Ar Menor
+Encounter/&CR12_Air_Elementals_Title	Elementais do Ar
+Encounter/&CR7_Young_Black_Dragon_Title	Jovem dragão negro
+Encounter/&CR10_PoisonousPests_Title	Pragas venenosas
+Encounter/&CR20_CrimsonSpiders_x4_Title	Aranhas Carmesins
+Encounter/&CR16_Major_Earth_Elementals_Title	Principais Elementais da Terra
+Encounter/&CR15_Elementals_x3_Title	Trio Elemental
+Encounter/&CR10_Skeleton_Enforcers_x2_x2_Title	Enforcers esqueléticos
+Encounter/&CR17_Skeleton_Sorcerer_x1_x2x_2_Title	Feiticeiro Esquelético e Escolta
+Encounter/&CR22_Skeletal_Devastators_x1_x2_x3_Title	Devastadores Esqueléticos
+Encounter/&CR10_CrimsonSpiders_x2_Title	Casal de aranha carmesim
+Encounter/&CR5_Goblin_Cutthroats_Title	Goblin Cutthroats
+Encounter/&CR8_Goblin_Ravagers_Title	Goblin Ravagers
+Encounter/&CR11_OrcGrimblade_x1_x2_x1_Title	Orc Grimblade Raider
+Encounter/&CR9_Orc_Hunters_Title	Festa de caça aos orcs
+Encounter/&CR10_Wraiths_Title	Wraiths errantes
+Encounter/&CR12_Necromancer_Gang_Title	Gang Necromancer
+Encounter/&CR13_Brood_Couple_Title	Casal de ninhada errante
+Encounter/&CR21_Brood_Horde_Title	Horda de Prole Errante
+Encounter/&CR10_YoungRemorhazes_Description	Um casal de jovens remorhazes ... ainda mortal!
+Encounter/&CR12_Redeemers_x3_Description	Um trio de insetos gigantes mortais procurando sua próxima refeição.
+Encounter/&CR15_Redeemers_x1_x2_Description	Um fanático gigante e dois redentores menores em busca de magia para se alimentar.
+Encounter/&CR9_Minor_Fire_Elementals_Description	Pequenos elementais de fogo nascidos de alguma magia caótica de Badlands.
+Encounter/&CR14_Fire_Elementals_Description	Elementais de fogo nascidos de alguma magia caótica de Badlands.
+Encounter/&CR18_Major_Fire_Elementals_Description	Elementais de fogo muito poderosos nascidos de alguma magia caótica de Badlands.
+Encounter/&CR6_Minor_Air_Elementals_Description	Pequenos elementais do ar nascidos de alguma magia caótica de Badlands.
+Encounter/&CR12_Air_Elementals_Description	Elementais do ar nascidos de alguma magia caótica de Badlands.
+Encounter/&CR7_Young_Black_Dragon_Description	Este dragão degenerado nasceu em Badlands. Agora está tentando matar algo.
+Encounter/&CR10_PoisonousPests_Description	Um grupo de criaturas venenosas de Badlands.
+Encounter/&CR20_CrimsonSpiders_x4_Description	Um grupo de aranhas gigantes nascidas nos lagos subterrâneos ácidos de Badlands.
+Encounter/&CR16_Major_Earth_Elementals_Description	Pequenos elementais nascidos no subsolo nas caóticas Badlands.
+Encounter/&CR15_Elementals_x3_Description	Elementais da Terra nascidos no subsolo nas caóticas Badlands.
+Encounter/&CR10_Skeleton_Enforcers_x2_x2_Description	Um grupo de poderosos esqueletos convocados por um necromante experiente.
+Encounter/&CR5_Goblin_Cutthroats_Description	Um bando de assassinos goblins com fome de sangue.
+Encounter/&CR8_Goblin_Ravagers_Description	Um grande grupo de goblins experientes em busca de sangue.
+Encounter/&CR11_OrcGrimblade_x1_x2_x1_Description	Um grupo de invasores orcs liderado por um poderoso orc grimblade.
+Encounter/&CR9_Orc_Hunters_Description	Um casal de mestres-feras orcs e seus animais de estimação procurando uma presa fácil.
+Encounter/&CR10_Wraiths_Description	Um bando de espectros errantes mortais de Badlands à procura de almas para atormentar.
+Encounter/&CR12_Necromancer_Gang_Description	Um poderoso necromante e suas criaturas convocadas em busca de um desafio.
+Encounter/&CR13_Brood_Couple_Description	Ninhadas errantes em busca de sangue.
+Encounter/&CR14_Arctic_Monsters_x3x1_Title	Arctic Monsters
+Encounter/&CR9_Arctic_Pack_x3_Title	Pacote Ártico
+Encounter/&CR6_Arctic_Duo_x2_Title	Arctic Duo
+Encounter/&CR16_Undead_Pack_x4_Title	Pacote de mortos-vivos
+Encounter/&CR6_Wraith_Master_x1x4_Title	Mestre Wraith
+Encounter/&CR16_Wraith_Hunters_x3x2_Title	Wraith Hunters
+Encounter/&CR4_Undead_Knight_x1x2x2_Title	Cavaleiro Morto-Vivo
+Encounter/&CR8_Undead_Knight_x1x1x4_Title	Undead Huntsman
+Encounter/&CR8_Undead_hunt_pack_x3_Title	Pacote de mortos-vivos
+Encounter/&CR2_Wind_Snakes_x4_Title	Serpentes do Vento
+Encounter/&CR6_Flying_Snakes_x6_Title	Cobras voadoras
+Encounter/&CR4_Skarn_Ghouls_x2_Title	Snark Ghouls
+Encounter/&CR7_Grimblade_Title	Grimblade
+Encounter/&CR8_Tamed_Minotaur_Title	Minotauro domesticado
+Encounter/&CR14_Arctic_Monsters_x3x1_Description	Um jovem remorhaz aterrorizante com um bando de predadores árticos correndo atrás dele.
+Encounter/&CR9_Arctic_Pack_x3_Description	Uma pequena matilha de lobos de inverno à caça.
+Encounter/&CR6_Arctic_Duo_x2_Description	Um casal de Winter Wolves à caça.
+Encounter/&CR16_Undead_Pack_x4_Description	Lobos mortos-vivos se comportando como se ainda estivessem vivos e caçando.
+Encounter/&CR6_Wraith_Master_x1x4_Description	Um caçador de mortos-vivos e seu animal de estimação.
+Encounter/&CR16_Wraith_Hunters_x3x2_Description	Um poderoso bando de guerreiros mortos-vivos.
+Encounter/&CR2_Wind_Snakes_x4_Description	Pequenos elementais do ar que gostam de matar.
+Encounter/&CR6_Flying_Snakes_x6_Description	Vários reptilianos voadores e venenosos.
+Encounter/&CR4_Skarn_Ghouls_x2_Description	Pequenos elementais da terra de mau humor.
+Encounter/&CR7_Grimblade_Description	Um assassino orc mortal e sua escolta.
+Encounter/&CR8_Tamed_Minotaur_Description	Um bando de goblins que domesticou um poderoso minotauro.

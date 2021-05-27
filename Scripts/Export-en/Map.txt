@@ -59,7 +59,7 @@ Map/&Location_CapitalCity_UnchartedTitle	Should not be displayed
 Map/&Location_CapitalCity_UnvisitedDescription	Should not be displayed
 Map/&Location_CapitalCity_UnvisitedTitle	Should not be displayed
 Map/&Location_TowerOfMagic_Description	You have learned that this old tower was probably the home of a powerful Manacalon wizard… maybe even a Master of the Arcaneum. In a hidden room, you found a mysterious Crown guarded by a group of Soraks.
-Map/&Location_TowerOfMagic_Title	Tower of Magic
+Map/&Location_TowerOfMagic_Title	Manacalon Ruin
 Map/&Location_TowerOfMagic_UnchartedDescription	According to the survivors at Caer Lem, this is where their scouts were exploring before the Soraks attacked. Perhaps you will find some trace here of these legendary Tirmarian monsters.
 Map/&Location_TowerOfMagic_UnchartedTitle	Possible Sorak Base
 Map/&Location_TowerOfMagic_UnvisitedDescription	An ancient tower from Imperial times.
@@ -94,7 +94,7 @@ Map/&Location_CradleOfFire_UnvisitedTitle	Volcano
 Map/&Location_Generic_Door_Title	Locked Door
 Map/&Location_Generic_Long_Rest_Area_Title	Long Rest Safe Area
 Map/&Location_Generic_Trap_Title	Armed Trap
-Map/&Location_Illusion_Description	The master of Illusion has created himself an invisible shelter...TBC
+Map/&Location_Illusion_Description	The Master of Illusion has created himself an invisible shelter… TBC
 Map/&Location_Illusion_Title	The Invisible Fortress
 Map/&Location_Illusion_UnchartedDescription	The Crown is responding strongly. Perhaps one of its gems is nearby!
 Map/&Location_Illusion_UnchartedTitle	Possible Gem Location
@@ -123,11 +123,11 @@ Map/&Location_WizardTower_Hall_Title	Hall
 Map/&Location_WizardTower_MastersChamber_Title	Master's Chamber
 Map/&Location_Generic_Mechanism_Title	Mechanism
 Map/&Location_AbjurationWizardTower_Description	Kythaela finally led you to this place, a Manacalon wizard tower, apparently perfectly preserved and protected by magic, while its surroundings were ravaged by the Cataclysm.
-Map/&Location_AbjurationWizardTower_Title	Wizard's Tower
+Map/&Location_AbjurationWizardTower_Title	Fortress of the Shield
 Map/&Location_AbjurationWizardTower_UnchartedDescription	Should not be displayed
 Map/&Location_AbjurationWizardTower_UnchartedTitle	Should not be displayed
 Map/&Location_AbjurationWizardTower_UnvisitedDescription	Kythaela is now certain to know where the master is. Hopefully, this will lead you to another Crown gem.
-Map/&Location_AbjurationWizardTower_UnvisitedTitle	Master's Tower
+Map/&Location_AbjurationWizardTower_UnvisitedTitle	Master's Fortress
 Map/&Location_WizardTower_LandingPad_Title	Platform
 Map/&Location_LavaForest_Forest_Title	Forest
 Map/&Location_LavaForest_Clearing_Title	Shed
@@ -150,7 +150,7 @@ Map/&Location_CradleOfFire_Necropolis	Necropolis
 Map/&Location_CradleOfFire_To_Crossroads	To the Crossroads
 Map/&Location_CradleOfFire_Burrows	Burrows
 Map/&Location_RodricHideout_Title	Hideout
-Map/&Location_RodricHideout_Description	This is the place where Rodric is hiding.
+Map/&Location_RodricHideout_Description	Rodric and his minions were hiding in this ancient section of Caer Cyflen's sewers.
 Map/&Location_TimarianTower_Title	Tirmarian Tower
 Map/&Location_TimarianTower_Description	What a strange place.
 Map/&Location_Earcorn_Description	A small farming village not far from Caer Cyflen.
@@ -167,13 +167,13 @@ Map/&Location_MindOfTheMaster_VisitedDescription	This was the hiding place of th
 Map/&Location_MindOfTheMaster_VisitedTitle	Lava Forest
 Map/&Location_TheSuperEgo_TheBridge_Title	Bridge
 Map/&Location_TheSuperEgo_TheHall_Title	Entrance
-Map/&Location_TheSuperEgo_TheLandingPad_Title	Landing Pad
+Map/&Location_TheSuperEgo_TheLandingPad_Title	Platform
 Map/&Location_TheSuperEgo_TheMastersRoom_Title	Master's Room
 Map/&Location_TempleOfMisaye_Title	Temple of Misaye
 Map/&Location_CradleOfFire_RedscarGateHall	Redscar Gate Hall
 Map/&Location_CradleOfFire_NecropolisHall	Necropolis Hall
 Map/&Location_Farmhouse_Title	Farmhouse
-Map/&Location_Farmhouse_Description	A farmhouse in the vale of Coparann which belongs to your family.
+Map/&Location_Farmhouse_Description	A farmhouse in the Vale of Coparann which belongs to your family.
 Map/&Location_ImperialOutpostDescription	You passed by these ruins when traveling to Coparann with Kythaela.
 Map/&Location_ImperialOutpostTitle	Imperial Outpost Ruins
 Map/&Location_HalmanSummersHouse_Title	Halman Summer's House
@@ -192,3 +192,32 @@ Map/&Location_CCyflen_Temple_Misaye_Title	Secret Temple of Misaye
 Map/&Location_Spy_SmallFort_Title	Spy Outpost
 Map/&Location_Spy_SmallFort_Description	Daliat indicated that this place was a fortified hideout where Silent Whisper traitors were hiding. 
 Map/&Location_ScavengerCamp_Title	Scavenger Camp
+Map/&Location_CCyflen_PhilosopherHouse_Title	Galeafin's House
+Map/&Location_Legendary_UnvisitedTitle	Caer Elis
+Map/&Location_Legendary_UnvisitedDescription	This is where the temple of the Lost God is supposed to be, according to Arwin Merton, but only he knows the way through the mist.
+Map/&Location_Legendary_visitedDescription	This is where you found the temple of the Lost God and vanquished the Remorhaz that was guarding its secrets.
+Map/&Location_Legendary_Camp_Title	Caer Elis Camp
+Map/&Location_Legendary_Temple_Title	Temple of the Lost God
+Map/&Location_Legendary_CliffAccess_Title	Cliffs
+Map/&Location_CovenOfArivad_Description	You followed Illoreth to this place, hoping to catch some Arivad cultists in the middle of their wrongdoings.
+Map/&Location_Gallivan_Embassy_Title	Gallivan Embassy
+Map/&Location_Galaefin_House_Title	Master Galaefin's Office
+Map/&Location_Canyon_Title	Canyon
+Map/&Location_Canyon_Description	A sandy canyon in a desolate land.
+Map/&Location_Swamp_Title	Swamp
+Map/&Location_Swamp_Description	A gloomy and stinky swamp in the middle of the Badlands.
+Map/&Location_ElvenRuins_Title	Elven Ruins
+Map/&Location_ElvenRuins_Description	A ruined building that was part of an elven city.
+Map/&Location_Waterfall_Title	Waterfall
+Map/&Location_Waterfall_Description	A refreshing landscape, a flowing river, and roaming monsters.
+Map/&Location_TempleOfEinar_Title	Temple of Einar
+Map/&Location_Cemetery_Title	Cemetery
+Map/&Location_Cemetery_Description	An old cemetery in the middle of the path… probably haunted.
+Map/&Location_TheMindoftheMaster_Ego_Title	The Ego
+Map/&Location_TheMindoftheMaster_SuperEgo_Title	The Superego
+Map/&Location_TheMindoftheMaster_ID_Title	The Id
+Map/&Location_TheMindoftheMaster_Description	A mysterious place of magic and… irrationality!
+Map/&Location_Desert_Title	Arid Hill
+Map/&Location_Desert_Description	Another dead hill in the Badlands, scorched by an unforgiving sun.
+Map/&Location_Marsh_Title	Marsh
+Map/&Location_Marsh_Description	A lonely hunting cabin in the middle of a grim marsh.
