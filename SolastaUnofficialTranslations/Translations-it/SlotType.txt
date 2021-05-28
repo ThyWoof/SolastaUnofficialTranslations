@@ -1,7 +1,7 @@
 SlotType/&AmmunitionSlotDescription	Puoi conservare le munizioni per le armi a distanza qui.
 SlotType/&AmmunitionSlotTitle	Munizioni
 SlotType/&BackSlotDescription	Puoi equipaggiare zaini, scudi o allacciare armi di grandi dimensioni qui.
-SlotType/&BackSlotTitle	Indietro
+SlotType/&BackSlotTitle	Schiena
 SlotType/&BeltSlotDescription	Puoi equipaggiare cinture o cinture qui.
 SlotType/&BeltSlotTitle	Cintura
 SlotType/&ContainerSlotDescription	Puoi conservare qualsiasi oggetto qui.
@@ -19,7 +19,7 @@ SlotType/&MainHandSlotTitle	Mano principale
 SlotType/&NeckSlotDescription	Puoi equipaggiare collane e amuleti qui.
 SlotType/&NeckSlotTitle	Collo
 SlotType/&OffHandSlotDescription	Puoi equipaggiare armi secondarie qui. Se la mano principale è già equipaggiata con un'arma a due mani, questo slot è disabilitato.
-SlotType/&OffHandSlotTitle	Fuori mano
+SlotType/&OffHandSlotTitle	Mano secondaria
 SlotType/&PersonalStorageSlotDescription	Puoi riporre oggetti nello zaino, ecc., Purché non superi il peso massimo del contenitore.
 SlotType/&PersonalStorageSlotTitle	Archiviazione personale
 SlotType/&SmallContainerSlotDescription	Puoi conservare piccoli oggetti qui.

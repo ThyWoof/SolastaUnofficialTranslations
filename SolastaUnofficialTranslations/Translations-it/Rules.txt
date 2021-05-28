@@ -45,7 +45,7 @@ Rules/&ConditionBackFromTheDeadTitle	Di ritorno dalla morte
 Rules/&ConditionBanedDescription	-1d4 agli attacchi, -1d4 ai tiri salvezza.
 Rules/&ConditionBanedTitle	Banestruck
 Rules/&ConditionBarkskinDescription	La Classe Armatura della creatura diventa almeno 16.
-Rules/&ConditionBarkskinTitle	Barkskin
+Rules/&ConditionBarkskinTitle	Pelle Coriacea
 Rules/&ConditionBeaconOfHopeDescription	Vantaggio su Saggezza e tiri salvezza contro la morte; la guarigione ripristina il massimo dei punti ferita possibili
 Rules/&ConditionBeaconOfHopeTitle	Faro di speranza
 Rules/&ConditionBearsEnduranceDescription	Vantaggio sui tiri salvezza su Costituzione.

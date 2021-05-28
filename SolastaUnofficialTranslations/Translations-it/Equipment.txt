@@ -608,8 +608,8 @@ Equipment/&ScrollAcidArrowDescription	Quando usi questa pergamena, lanci l'incan
 Equipment/&ScrollAcidArrowTitle	Pergamenta di Freccia Acida
 Equipment/&ScrollBaneDescription	Quando usi questa pergamena, lanci l'incantesimo Anatema.
 Equipment/&ScrollBaneTitle	Pergamena di Anatema
-Equipment/&ScrollBarkskinDescription	Quando usi questa pergamena, lanci l'incantesimo Barkskin.
-Equipment/&ScrollBarkskinTitle	Pergamena di Barkskin
+Equipment/&ScrollBarkskinDescription	Quando usi questa pergamena, lanci l'incantesimo Pelle Coriacea.
+Equipment/&ScrollBarkskinTitle	Pergamena di Pelle Coriacea
 Equipment/&ScrollBlessDescription	Quando usi questa pergamena, lanci l'incantesimo Benedizione.
 Equipment/&ScrollBlessTitle	Pergamena della benedizione
 Equipment/&ScrollBurningHandsDescription	Quando usi questa pergamena, lanci l'incantesimo delle mani ardenti.

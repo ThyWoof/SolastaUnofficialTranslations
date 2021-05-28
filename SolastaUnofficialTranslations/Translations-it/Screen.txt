@@ -66,7 +66,7 @@ Screen/&ClassHitDiceTitle	Dadi Vita
 Screen/&ClassOrMarkerTitle	O
 Screen/&ClassSelectionTitle	Seleziona una classe
 Screen/&ClearFiltersTitle	Cancella filtri
-Screen/&CloseTitle	Vicino
+Screen/&CloseTitle	Successivo
 Screen/&CompletedQuestsListTitle	Missioni completate
 Screen/&ConfigurationHeaderTitle	Configurazione degli articoli equipaggiati
 Screen/&ContainerSpaceDescription	Gli oggetti occupano una quantità di spazio e i contenitori (zaini, buste) possono contenere solo oggetti fino a un limite di spazio.
@@ -311,9 +311,9 @@ Screen/&NewClassSelectionTitle	Oppure fai clic per aggiungere una nuova classe a
 Screen/&NewGameScreenTitle	Nuovo gioco
 Screen/&NewRecipeTitle	Nuova opzione di creazione!
 Screen/&NextClassFeaturesTitle	Privilegi di classe successiva
-Screen/&NextPageTitle	Il prossimo
+Screen/&NextPageTitle	Avanti
 Screen/&NextTutorialStepDescription	Visualizza il passaggio successivo del tutorial.
-Screen/&NextTutorialStepTitle	Il prossimo
+Screen/&NextTutorialStepTitle	Avanti
 Screen/&NoContainerTitle	Questo personaggio non è equipaggiato con alcuno zaino o oggetto contenitore nello slot "Indietro".
 Screen/&NoCraftingOptionsTitle	Il tuo gruppo non ha ancora opzioni di creazione.
 Screen/&OpenGamingLicenseButtonDescription	Visualizza la licenza completa del gioco aperto e il documento di riferimento del sistema
@@ -586,7 +586,7 @@ Screen/&JournalBestiaryChallengeTitle	Sfida
 Screen/&InventoryMagicalUnidentifiedDescription	Questo oggetto ha proprietà magiche che richiedono l'identificazione (incantesimo o mercante) per essere completamente rivelato
 Screen/&MerchantDetectMagicNothingNewDescription	Non sono stati rilevati nuovi oggetti magici
 Screen/&ReviewGameDescription	Grazie per aver giocato a Solasta! Clicca qui per aprire l'interfaccia e lasciare una recensione. Tanto amore!
-Screen/&ReviewGameTitle	Rivedi il gioco
+Screen/&ReviewGameTitle	Recensisci il gioco
 Screen/&DashModeDescriptionMainLabelTitle	Il tuo raggio di movimento è ora aumentato, al costo della tua azione principale. Fare clic all'interno del normale intervallo non utilizzerà il trattino e manterrà la tua azione principale.
 Screen/&DashModeDescriptionBonusLabelTitle	Il tuo raggio di movimento è ora aumentato, al costo della tua azione bonus. Fare clic all'interno del normale raggio d'azione non utilizzerà il trattino e manterrà la tua azione bonus.
 Screen/&DashModeTitle	Dashing
