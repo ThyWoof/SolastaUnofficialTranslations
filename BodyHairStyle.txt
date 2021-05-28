@@ -1,0 +1,5 @@
+BodyHairStyle/&Hairstyle_A	Pixie Cut
+BodyHairStyle/&Hairstyle_B	medio
+BodyHairStyle/&Hairstyle_C	Corto
+BodyHairStyle/&Hairstyle_D	Bun
+BodyHairStyle/&Hairstyle_E	Crown Braid

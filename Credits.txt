@@ -1,0 +1,36 @@
+Credits/&GameTechnicalVisionTitle	Gioco e visione tecnica
+Credits/&ArtTeamTitle	Art Team
+Credits/&ArtDirectorTitle	Direttore artistico
+Credits/&Lead3DArtistTitle	Capo artista 3D
+Credits/&LeadAnimatorTitle	Capo artista 3D
+Credits/&3DCharacterArtistFemaleTitle	Artista del personaggio 3D
+Credits/&3DEnvironmentArtistTitle	Artista dell'ambiente 3D
+Credits/&VisualEffectsArtistFemaleTitle	Artista degli effetti visivi
+Credits/&ConceptArtistTitle	Concept Artist
+Credits/&DesignTeamTitle	Team di design
+Credits/&GameplayDirectorTitle	Direttore del gioco
+Credits/&SeniorLevelDesignerTitle	Designer di livello senior
+Credits/&LevelDesignerTitle	Level Designer
+Credits/&LevelBuilderTitle	Level Builder
+Credits/&CutsceneDirectionTitle	Direzione del filmato
+Credits/&UniverseStorylineTitle	Universo e trama
+Credits/&ProductionTeamTitle	Squadra di produzione
+Credits/&ProducerFemaleTitle	Produttore
+Credits/&QALeadFemaleTitle	Responsabile QA
+Credits/&AutotestTitle	Auto test
+Credits/&TechnicalTeamTitle	Team tecnico
+Credits/&TechLeadTitle	Capo tecnico
+Credits/&GraphicsProgrammerTitle	Programmatore grafico
+Credits/&UIRuleserProgrammerTitle	Programmatore interfaccia utente / set di regole
+Credits/&ToolsProgrammerTitle	Programmatore di strumenti
+Credits/&MarktingTeamTitle	Team di marketing
+Credits/&MarketingDirectorTitle	Direttore marketing
+Credits/&LeadCommunityDeveloperTitle	Lead Community Developer
+Credits/&AdministrationTeamTitle	Amministrazione
+Credits/&AdministrativeAndFinancialManagerFemaleTitle	Responsabile amministrativo e finanziario
+Credits/&BoardMemberTitle	Membro di bordo
+Credits/&ExternalPartnersTitle	Partner esterni
+Credits/&EnvironmentConceptArtistTitle	Artista del concetto di ambiente
+Credits/&CharacterConceptArtistTitle	Character Concept Artist
+Credits/&SeniorWriterTitle	Scrittore senior
+Credits/&CNCAcknowledgementTitle	Avec le soutien du FAJV, fondi cofinanziati dal Centre National du Cinéma et de l'immagine animée et le Ministère de l'Economie et des Finances
