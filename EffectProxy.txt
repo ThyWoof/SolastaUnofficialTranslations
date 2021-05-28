@@ -1,0 +1,19 @@
+EffectProxy/&ProxyDancingLightsDescription	Sposta le luci fino a 12 Caselle
+EffectProxy/&ProxyDancingLightsTitle	Luci danzanti
+EffectProxy/&ProxyDarknessDescription	Un'area di magica oscurità.
+EffectProxy/&ProxyDaylightTitle	Luce diurna
+EffectProxy/&ProxyFlamingSphereDescription	Sposta la sfera fino a 6 caselle o sbattila contro un avversario
+EffectProxy/&ProxyFlamingSphereTitle	Sfera fiammeggiante
+EffectProxy/&ProxyFogCloudDescription	Una nebbia molto fitta.
+EffectProxy/&ProxyIndomitableLightTitle	Luce indomabile
+EffectProxy/&ProxySleetStormDescription	Tempesta di nevischio
+EffectProxy/&ProxySpiritualWeaponDescription	Sposta l'arma fino a 4 Caselle e colpisci un avversario
+EffectProxy/&ProxySpiritualWeaponTitle	Arma spirituale
+EffectProxy/&ProxyStinkingCloudDescription	Una nuvola di gas nocivo e inabilitante.
+EffectProxy/&ProxyWallOfFireDescription	Un muro in fiamme che ferisce le creature dentro o accanto ad esso.
+EffectProxy/&ProxyWindWallDescription	Un muro di vento che provoca danni, allontana creature e oggetti e disperde nebbie e gas.
+EffectProxy/&ProxySilenceDescription	Un'area di completo silenzio
+EffectProxy/&ProxyIceStormDescription	Tempesta di ghiaccio
+EffectProxy/&ProxyGuardianOfFaithDescription	Guardiano della fede
+EffectProxy/&ProxyCloudKillDescription	Una nebbia velenosa densa e mortale.
+EffectProxy/&ProxyWallOfForceDescription	Evoca un muro invisibile che blocca il movimento e gli attacchi.
