@@ -1,11 +1,11 @@
 BlueprintCategory/&BarrierTitle	Barriere
 BlueprintCategory/&EmptyRoomsTitle	Stanze vuote
-BlueprintCategory/&EncounterTitle	Incontri
+BlueprintCategory/&EncounterTitle	Incontrare
 BlueprintCategory/&FurnishedRoomsTitle	Camere arredate
 BlueprintCategory/&FurnitureTitle	Mobilio
 BlueprintCategory/&LightingTitle	Illuminazione
 BlueprintCategory/&LootTitle	Bottino
-BlueprintCategory/&LoreTitle	Sroia
+BlueprintCategory/&LoreTitle	Lore
 BlueprintCategory/&NavigationTitle	Navigazione
 BlueprintCategory/&ObstacleTitle	Ostacoli
 BlueprintCategory/&OpeningsTitle	Aperture
@@ -13,3 +13,7 @@ BlueprintCategory/&OrnamentsTitle	Ornamenti
 BlueprintCategory/&RestingTitle	Riposo
 BlueprintCategory/&StructureTitle	Strutture
 BlueprintCategory/&TrapsTitle	Trappole
+BlueprintCategory/&ActivatorsTitle	Attivatori
+BlueprintCategory/&PartitionsTitle	Partizioni
+BlueprintCategory/&AdventuringTitle	Avventura
+BlueprintCategory/&BlockersTitle	Bloccanti
