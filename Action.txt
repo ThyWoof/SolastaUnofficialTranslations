@@ -18,7 +18,7 @@ Action/&ActionTypeBonusUnavailableSingleDescription	Hai usato la tua azione bonu
 Action/&ActionTypeFreeOnceAvailableMultipleDescription	Questa azione gratuita è disponibile!
 Action/&ActionTypeFreeOnceAvailableSingleDescription	La tua azione gratuita è disponibile!
 Action/&ActionTypeFreeOnceDescription	Puoi eseguire alcune azioni gratuite durante il tuo turno, come rinfoderare un'arma o far cadere un oggetto.
-Action/&ActionTypeFreeOnceTitle	Gratuita
+Action/&ActionTypeFreeOnceTitle	Gratuito
 Action/&ActionTypeFreeOnceUnavailableMultipleDescription	Hai utilizzato questa azione gratuita.
 Action/&ActionTypeFreeOnceUnavailableSingleDescription	Hai usato la tua azione gratuita.
 Action/&ActionTypeMainAvailableMultipleDescription	Questa azione principale è disponibile!
@@ -41,14 +41,14 @@ Action/&ActionUnlockDescription	[OBSOLETO] Fare clic per sbloccare questo oggett
 Action/&AssignTargetDescription	Puoi selezionare un nuovo target per {0}.
 Action/&AssignTargetTitle	Bersaglio
 Action/&AttackCoverFullDescription	Il bersaglio ha una copertura totale dietro un ostacolo.
-Action/&AttackCoverHalfDescription	Il bersaglio ha mezza copertura ({0} CA).\n
-Action/&AttackCoverThreeQuartersDescription	L'obiettivo ha una copertura di tre quarti ({0} CA).\n
+Action/&AttackCoverHalfDescription	Il bersaglio ha mezza copertura ({0} AC).\n
+Action/&AttackCoverThreeQuartersDescription	L'obiettivo ha una copertura di tre quarti ({0} AC).\n
 Action/&AttackDescription	Attacca un bersaglio nemico con quest'arma: {0} ({1} per colpire)\n{2}
 Action/&AttackExecuteAdvantageDescription	Clicca per attaccare il bersaglio con vantaggio!
 Action/&AttackExecuteDescription	Clicca per attaccare il bersaglio!
 Action/&AttackExecuteDisadvantageDescription	Fare clic per attaccare il bersaglio con svantaggio.
 Action/&AttackIterativeDescription	Puoi attaccare {0} volte durante il tuo turno e alternare i tuoi attacchi tra le mosse.
-Action/&AttackTitle	Attacco
+Action/&AttackTitle	attacco
 Action/&BlockAttackDescription	Imponi svantaggio a un nemico che attacca un alleato vicino.
 Action/&BlockAttackTitle	Blocca l'attacco
 Action/&CastDescription	Seleziona e lancia un incantesimo.
@@ -68,16 +68,16 @@ Action/&CastSpellHigherSlotAddTargetSingleTile	Aggiungi {0} target.
 Action/&CastSpellHigherSlotAddTempHPTile	Aggiungi {0} punti ferita temporanei.
 Action/&CastSpellHigherSlotTile	Lancia incantesimi utilizzando uno slot {0} di livello.
 Action/&CastTitle	Lanciare un incantesimo
-Action/&CautiousDescription	Attiva / disattiva la modalità Furtiva. Un personaggio cauto è più furtivo e più consapevole di creature e oggetti nascosti.
-Action/&CautiousTitle	Furtivo
+Action/&CautiousDescription	Attiva / disattiva la modalità cautela. Un personaggio cauto è più furtivo e più consapevole di creature e oggetti nascosti.
+Action/&CautiousTitle	Prudente
 Action/&ClimbDescription	Arrampicati su o giù per le superfici. Anche l'arrampicata su una superficie verticale scivolosa richiede un controllo di Forza (Atletica) riuscito.
 Action/&ClimbTitle	Scalata
 Action/&CunningActionDescription	A partire dal 2 ° livello, la tua rapidità di pensiero e agilità ti consentono di muoverti e agire rapidamente. Puoi eseguire un'azione bonus in ciascuno dei tuoi turni in combattimento. Questa azione può essere utilizzata solo per eseguire l'azione Scatta o Disimpegna.
 Action/&CunningActionTitle	Astuta azione
 Action/&DashDescription	Quando esegui l'azione Scatto, guadagni movimento extra per il tuo turno corrente. L'aumento è uguale alla tua velocità, dopo aver applicato eventuali modificatori.
-Action/&DashTitle	Scatto
-Action/&DisengageDescription	Se esegui l'azione Disimpegno, il tuo movimento non provoca attacchi di opportunità per il resto del turno.
-Action/&DisengageTitle	Disimpegna
+Action/&DashTitle	Dash
+Action/&DisengageDescription	Se esegui l'azione Disinnestare, il tuo movimento non provoca attacchi di opportunità per il resto del turno.
+Action/&DisengageTitle	Disimpegnati
 Action/&DodgeDescription	Quando esegui l'azione Schivare, ti concentri interamente sull'evitare gli attacchi. Fino all'inizio del tuo prossimo turno, qualsiasi tiro per colpire effettuato contro di te ha uno svantaggio se puoi vedere l'attaccante e fai i tiri salvezza su Destrezza con vantaggio.
 Action/&DodgeTitle	Schivare
 Action/&DropProneDescription	Puoi cadere prono senza usare la tua velocità. Per muoverti mentre sei prono, devi strisciare o usare magie come il teletrasporto. Il costo dello spostamento durante la scansione è raddoppiato. Il costo di strisciare su terreni difficili, quindi, è triplicato. La caduta prona aggiunge la condizione prona: gli attacchi in mischia contro di te hanno vantaggio, gli attacchi a distanza contro di te hanno svantaggio, i tuoi stessi attacchi hanno svantaggio.
@@ -99,8 +99,8 @@ Action/&JumpTitle	Saltare
 Action/&LevitateDescription	Muovi il personaggio colpito su e giù.
 Action/&LevitateTitle	Levitate
 Action/&MoveDescription	Avanza alla tua velocità verso la destinazione specificata. Puoi interrompere il tuo movimento tra le altre azioni.
-Action/&MoveTitle	Muovi
-Action/&NeutralCreatureTitle	Creatura neutrale
+Action/&MoveTitle	Mossa
+Action/&NeutralCreatureTitle	Creatura neutra
 Action/&NeutralTargetHeaderTitle	{0} (neutro)
 Action/&PickUpDescription	Raccogli un oggetto nella posizione del personaggio.
 Action/&PickUpTitle	Raccogliere
@@ -108,7 +108,7 @@ Action/&PowerDescription	Attiva un potere o un'abilità speciale.
 Action/&PowerTitle	Usa il potere
 Action/&ReadyDescription	Ritarda un attacco fino alla fine del turno.
 Action/&ReadyTitle	Pronto
-Action/&ShoveDescription	Usa la tua Forza per spingere una creatura di una cella lontano da te o abbatterla. L'obiettivo non deve essere più grande di una taglia e deve essere alla tua portata.
+Action/&ShoveDescription	Usa la tua Forza per spingere una creatura lontano da te di una cella o abbatterla. L'obiettivo non deve essere più grande di una taglia e deve essere alla tua portata.
 Action/&ShoveTitle	Spingi
 Action/&SpellCoverHalfDescription	Il bersaglio ha mezza copertura ({0} tiro salvezza).\n
 Action/&SpellCoverThreeQuartersDescription	Il bersaglio ha tre quarti di copertura ({0} tiro salvezza).\n
