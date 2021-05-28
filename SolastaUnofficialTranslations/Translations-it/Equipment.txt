@@ -524,11 +524,11 @@ Equipment/&MaulTypeTitle	Maglio
 Equipment/&MaxRangeTitle	Gamma massima
 Equipment/&MediumArmorCategoryDescription	L'armatura media offre una protezione maggiore rispetto all'armatura leggera, ma altera maggiormente il movimento.
 Equipment/&MediumArmorCategoryTitle	Armatura media
-Equipment/&Morningstar_plus_1_Description	Una stella del mattino finemente decorata usata dalle truppe d'assalto imperiali di Manacalon, intrisa di magia.
+Equipment/&Morningstar_plus_1_Description	Una Morningstar finemente decorata usata dalle truppe d'assalto imperiali di Manacalon, intrisa di magia.
 Equipment/&Morningstar_plus_1_Title	Manacalon Morningstar +1
-Equipment/&Morningstar_plus_1_Unidentified_Description	Questa stella del mattino finemente decorata è chiaramente un'arma superiore.
+Equipment/&Morningstar_plus_1_Unidentified_Description	Questa Morningstar finemente decorata è chiaramente un'arma superiore.
 Equipment/&Morningstar_plus_1_Unidentified_Title	Magnifico Morningstar
-Equipment/&MorningstarTypeTitle	Stella del mattino
+Equipment/&MorningstarTypeTitle	Morningstar
 Equipment/&MusicalInstrumentCategoryTitle	Strumento musicale ({0})
 Equipment/&MusicalInstrumentLyreTypeDescription	Se hai competenza con un determinato strumento musicale, puoi aggiungere il tuo bonus di competenza a qualsiasi prova di abilità che effettui per suonare musica con lo strumento. Un bardo può usare uno strumento musicale come punto focale per il lancio di incantesimi. Ogni tipo di strumento musicale richiede una competenza separata.
 Equipment/&MusicalInstrumentLyreTypeTitle	Lira
@@ -677,7 +677,7 @@ Equipment/&Shortbow_plus_1_Unidentified_Description	Questo arco corto superbamen
 Equipment/&Shortbow_plus_1_Unidentified_Title	Magnifico arco corto
 Equipment/&ShortbowPlus1TypeTitle	Arco corto + 1
 Equipment/&ShortbowTypeTitle	Arco Corto
-Equipment/&ShortswordTypeTitle	Spadone
+Equipment/&ShortswordTypeTitle	Spada Corto
 Equipment/&SickleTypeTitle	Falce
 Equipment/&SimpleWeaponCategoryDescription	I tipi di armi più semplici che la maggior parte delle persone può usare con competenza, ma non tutti.
 Equipment/&SimpleWeaponCategoryTitle	Armi semplici

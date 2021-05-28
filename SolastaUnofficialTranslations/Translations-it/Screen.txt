@@ -514,7 +514,7 @@ Screen/&StageFinishButtonLevelUpDescription	Completa il processo di aumento di l
 Screen/&StageFinishButtonTitle	finire
 Screen/&StageNextButtonCreationDescription	Procedi al passaggio successivo della creazione del personaggio.
 Screen/&StageNextButtonLevelUpDescription	Procedi al passaggio di livello del personaggio successivo.
-Screen/&StageNextButtonTitle	Il prossimo
+Screen/&StageNextButtonTitle	Avanti
 Screen/&StagePreviousButtonCreationDescription	Torna al passaggio precedente di creazione del personaggio.
 Screen/&StagePreviousButtonLevelUpDescription	Torna al passaggio di livello del personaggio precedente.
 Screen/&StagePreviousButtonTitle	Precedente
@@ -568,7 +568,7 @@ Screen/&TreasuryShareTitle	VUOTO
 Screen/&TreasuryTitle	Ricchezza personale
 Screen/&TutorialTitleFormat	Tutorial: {0}
 Screen/&TutorialUnderstoodDescription	Chiudi questo pannello se hai capito.
-Screen/&TutorialUnderstoodTitle	Inteso
+Screen/&TutorialUnderstoodTitle	Capito
 Screen/&UnlockedClassFeaturesTitle	Privilegi di classe sbloccati
 Screen/&UntrackQuestTitle	Untrack Quest
 Screen/&UsablePowerPermanentTitle	Questo potere è sempre attivo.

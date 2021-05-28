@@ -77,7 +77,7 @@ Modal/&TravelSettingsTitle	Impostazioni di viaggio
 Modal/&TravelToTitle	Per
 Modal/&ValidateButtonTitle	Convalidare
 Modal/&LoadingShortTitle	Caricamento in corso
-Modal/&LoadingTipTitle	Mancia
+Modal/&LoadingTipTitle	Trucco
 Modal/&UnitsSelectionInstructionTitle	Quante unità?
 Modal/&CastSpellBeforeLongRestTitle	Lancia l'incantesimo {0} quando inizia il riposo lungo.
 Modal/&ScavengerMissionsModalTitle	Spedizioni al tesoro
