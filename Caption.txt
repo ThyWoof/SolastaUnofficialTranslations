@@ -1,6 +1,6 @@
 Caption/&JumpFromCaption	Seleziona un punto da cui saltare.
 Caption/&JumpToCaption	Seleziona un punto su cui saltare.
-Caption/&LandingPositionCaption	Seleziona un luogo su cui arrampicarti.
+Caption/&LandingPositionCaption	Seleziona un luogo in cui arrampicarti.
 Caption/&LevitateDestinationCaption	Seleziona una destinazione di levitazione per il tuo obiettivo.
 Caption/&OutOfRangeCaption	Sei fuori portata!
 Caption/&ProxyActionTitle	Controllo degli effetti magici
@@ -47,6 +47,7 @@ Caption/&TargetsMustPerceiveCasterCaption	Gli obiettivi devono percepire la font
 Caption/&PositionMustBePerceivedCaption	La posizione non viene percepita.
 Caption/&TargetRequiredSizeCaption	La dimensione target deve essere: {0}
 Caption/&InviteOptionalAllyCaption	Tocca un alleato opzionale da portare con te.
+Caption/&TelekinesisSelectDirection	Scegli una direzione in cui muovere questa creatura.
 Caption/&EditorNewPropPlacementCaption	Seleziona una posizione valida per posizionare questo nuovo sostegno\nTieni premuto "Maiusc" per posizionare più oggetti di scena di questo tipo
 Caption/&EditorExistingPropPlacementCaption	Seleziona una nuova posizione per questo sostegno
 Caption/&EditorNewGadgetPlacementCaption	Seleziona una posizione valida per posizionare questo nuovo gadget\nTieni premuto "Maiusc" per posizionare più gadget di questo tipo
@@ -64,3 +65,6 @@ Caption/&GadgetParametersNoneTitle	<Vuoto>
 Caption/&EditorNewRoomPlacementCaption	Seleziona una posizione valida per posizionare questa nuova stanza\nTieni premuto "Maiusc" per posizionare più stanze di questo tipo
 Caption/&EditorExistingRoomPlacementCaption	Seleziona una nuova posizione per questa stanza
 Caption/&GadgetParametersLocationSelectorDescription	Fare clic per selezionare una posizione di destinazione da un elenco
+Caption/&GadgetListAddTitle	Aggiungi gadget
+Caption/&GadgetListAddDescription	Consente di fare clic e di selezionare un gadget di destinazione
+Caption/&EditorSelectTargetGadgetDescription	Seleziona un gadget di destinazione
