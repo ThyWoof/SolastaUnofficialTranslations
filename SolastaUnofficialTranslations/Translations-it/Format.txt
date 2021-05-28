@@ -11,7 +11,7 @@ Format/&LevelAndClassNoSubclassFormat	lvl {0} {1}
 Format/&LevelAndExperienceFormat	Livello {0}, esperienza: {1}\n{2} più punti esperienza necessari per raggiungere il livello {3}
 Format/&LevelAndExperienceMaxedFormat	Livello {0}, esperienza: {1}\nLivello massimo raggiunto.
 Format/&LevelFormat	Livello {0}
-Format/&MaxHealthFormat	di {0} HP
+Format/&MaxHealthFormat	di {0} PF
 Format/&Rank1Title	1°
 Format/&Rank2Title	2 °
 Format/&Rank3Title	3 °

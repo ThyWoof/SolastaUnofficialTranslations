@@ -32,7 +32,7 @@ Equipment/&Armor_HalfPlateTitle	Mezza Armatura
 Equipment/&Armor_HideDescription	Questa rozza armatura è composta da spesse pellicce e pelli. È comunemente indossato da tribù barbare, umanoidi malvagi e altre persone che non hanno accesso agli strumenti e ai materiali necessari per creare armature migliori.
 Equipment/&Armor_HideTitle	Nascondere
 Equipment/&Armor_LeatherDescription	Il pettorale e le protezioni per le spalle di questa armatura sono realizzati in cuoio che è stato irrigidito per essere stato bollito nell'olio. Il resto dell'armatura è realizzato con materiali più morbidi e flessibili.
-Equipment/&Armor_LeatherTitle	Pelle
+Equipment/&Armor_LeatherTitle	Cuoio
 Equipment/&Armor_Noble_ClothesDescription	Abiti raffinati di tessuti costosi, decorati con ricami d'oro o d'argento.
 Equipment/&Armor_Noble_ClothesTitle	Vestiti nobili
 Equipment/&Armor_PaddedDescription	L'armatura imbottita è composta da strati trapuntati di stoffa e ovatta.
@@ -52,7 +52,7 @@ Equipment/&Armor_Scholar_ClothesTitle	Abbigliamento da studioso
 Equipment/&Armor_SplintDescription	Questa armatura è composta da strette strisce verticali di metallo rivettate su un supporto di pelle che viene indossato su un'imbottitura di stoffa. La cotta di maglia flessibile protegge le articolazioni.
 Equipment/&Armor_SplintTitle	Stecca
 Equipment/&Armor_StuddedLeatherDescription	Realizzata in pelle resistente ma flessibile, la pelle borchiata è rinforzata con rivetti o punte ravvicinate.
-Equipment/&Armor_StuddedLeatherTitle	Pelle borchiata
+Equipment/&Armor_StuddedLeatherTitle	Cuoio borchiata
 Equipment/&Armor_VigdisDescription	Questa cotta di maglia è un cimelio di famiglia, realizzato con la rinomata maestria dei maestri fabbri nanici della Snow Alliance.
 Equipment/&Armor_VigdisTitle	Armatura della famiglia Kaikkonen
 Equipment/&ArrowPlus1Title	Freccia +1
@@ -644,8 +644,8 @@ Equipment/&ScrollLightningBoltDescription	Quando usi questa pergamena, lanci l'i
 Equipment/&ScrollLightningBoltTitle	Pergamena del fulmine
 Equipment/&ScrollMageArmorDescription	Quando usi questa pergamena, lanci l'incantesimo Armatura del mago.
 Equipment/&ScrollMageArmorTitle	Pergamena dell'armatura del mago
-Equipment/&ScrollMagicMissileDescription	Quando usi questa pergamena, lanci l'incantesimo Missile magico.
-Equipment/&ScrollMagicMissileTitle	Pergamena del missile magico
+Equipment/&ScrollMagicMissileDescription	Quando usi questa pergamena, lanci l'incantesimo Dardo Incantato.
+Equipment/&ScrollMagicMissileTitle	Pergamena del Dardo Incantato
 Equipment/&ScrollProtectionFromEvilandGoodDescription	Quando usi questa pergamena, lanci l'incantesimo Protezione dal male e dal bene.
 Equipment/&ScrollProtectionFromEvilandGoodTitle	Pergamena di protezione dal male e dal bene
 Equipment/&ScrollRaiseDeadDescription	Quando usi questa pergamena, lanci l'incantesimo Raise Dead.

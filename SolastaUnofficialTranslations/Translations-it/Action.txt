@@ -75,7 +75,7 @@ Action/&ClimbTitle	Scalata
 Action/&CunningActionDescription	A partire dal 2 ° livello, la tua rapidità di pensiero e agilità ti consentono di muoverti e agire rapidamente. Puoi eseguire un'azione bonus in ciascuno dei tuoi turni in combattimento. Questa azione può essere utilizzata solo per eseguire l'azione Scatta o Disimpegna.
 Action/&CunningActionTitle	Astuta azione
 Action/&DashDescription	Quando esegui l'azione Scatto, guadagni movimento extra per il tuo turno corrente. L'aumento è uguale alla tua velocità, dopo aver applicato eventuali modificatori.
-Action/&DashTitle	Dash
+Action/&DashTitle	Scatto
 Action/&DisengageDescription	Se esegui l'azione Disinnestare, il tuo movimento non provoca attacchi di opportunità per il resto del turno.
 Action/&DisengageTitle	Disimpegnati
 Action/&DodgeDescription	Quando esegui l'azione Schivare, ti concentri interamente sull'evitare gli attacchi. Fino all'inizio del tuo prossimo turno, qualsiasi tiro per colpire effettuato contro di te ha uno svantaggio se puoi vedere l'attaccante e fai i tiri salvezza su Destrezza con vantaggio.
