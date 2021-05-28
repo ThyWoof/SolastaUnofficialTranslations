@@ -140,3 +140,74 @@ Encounter/&SpectralHunterTitle	Cacciatore spettrale
 Encounter/&SpectralHunterDescription	Un cacciatore di non morti e il suo lupo domestico non morto.
 Encounter/&TigerDrakesTitle	Serpenti Volanti
 Encounter/&TigerDrakesDescription	Enormi serpenti volanti che assomigliano a piccoli draghi.
+Encounter/&CR10_YoungRemorhazes_Title	Remorhazes
+Encounter/&CR12_Redeemers_x3_Title	Gruppo dei Redentori
+Encounter/&CR15_Redeemers_x1_x2_Title	Zelota e pellegrini
+Encounter/&CR9_Minor_Fire_Elementals_Title	Elementali del fuoco minori
+Encounter/&CR14_Fire_Elementals_Title	Elementali del fuoco
+Encounter/&CR18_Major_Fire_Elementals_Title	Principali Elementali del Fuoco
+Encounter/&CR6_Minor_Air_Elementals_Title	Elementali dell'Aria Minori
+Encounter/&CR12_Air_Elementals_Title	Elementali dell'Aria
+Encounter/&CR7_Young_Black_Dragon_Title	Giovane drago nero
+Encounter/&CR10_PoisonousPests_Title	Parassiti velenosi
+Encounter/&CR20_CrimsonSpiders_x4_Title	Ragni cremisi
+Encounter/&CR16_Major_Earth_Elementals_Title	Principali Elementali della Terra
+Encounter/&CR15_Elementals_x3_Title	Trio elementale
+Encounter/&CR10_Skeleton_Enforcers_x2_x2_Title	Esecutori scheletrici
+Encounter/&CR17_Skeleton_Sorcerer_x1_x2x_2_Title	Stregone scheletrico e scorta
+Encounter/&CR22_Skeletal_Devastators_x1_x2_x3_Title	Devastatori scheletrici
+Encounter/&CR10_CrimsonSpiders_x2_Title	Coppia di ragno cremisi
+Encounter/&CR5_Goblin_Cutthroats_Title	Goblin Tagliagole
+Encounter/&CR8_Goblin_Ravagers_Title	Goblin Ravagers
+Encounter/&CR11_OrcGrimblade_x1_x2_x1_Title	Orc Grimblade Raider
+Encounter/&CR9_Orc_Hunters_Title	Orc Hunting Party
+Encounter/&CR10_Wraiths_Title	Wandering Wraiths
+Encounter/&CR12_Necromancer_Gang_Title	Gang dei Negromanti
+Encounter/&CR13_Brood_Couple_Title	Coppia di nidiata errante
+Encounter/&CR21_Brood_Horde_Title	Orda della stirpe errante
+Encounter/&CR10_YoungRemorhazes_Description	Un paio di giovani remorhaz ... ancora mortali!
+Encounter/&CR12_Redeemers_x3_Description	Un trio di insetti giganti mortali che cercano il loro prossimo pasto.
+Encounter/&CR15_Redeemers_x1_x2_Description	Un gigantesco fanatico e due redentori minori in cerca di magia di cui nutrirsi.
+Encounter/&CR9_Minor_Fire_Elementals_Description	Piccoli elementali ardenti nati da qualche caotica magia di Badlands.
+Encounter/&CR14_Fire_Elementals_Description	Elementali ardenti nati da qualche caotica magia di Badlands.
+Encounter/&CR18_Major_Fire_Elementals_Description	Elementali ardenti molto potenti nati da qualche caotica magia delle Badlands.
+Encounter/&CR6_Minor_Air_Elementals_Description	Piccoli elementali dell'aria nati da qualche caotica magia delle Badlands.
+Encounter/&CR12_Air_Elementals_Description	Elementali dell'aria nati da qualche caotica magia delle Badlands.
+Encounter/&CR7_Young_Black_Dragon_Description	Questo drago degenerato è nato nelle Badlands. Ora sta cercando di uccidere qualcosa.
+Encounter/&CR10_PoisonousPests_Description	Un gruppo di creature velenose di Badlands.
+Encounter/&CR20_CrimsonSpiders_x4_Description	Un gruppo di ragni giganti nati negli acidi laghi sotterranei delle Badlands.
+Encounter/&CR16_Major_Earth_Elementals_Description	Piccoli elementali nati sottoterra nelle caotiche Badlands.
+Encounter/&CR15_Elementals_x3_Description	Elementali della Terra nati sottoterra nelle caotiche Badlands.
+Encounter/&CR10_Skeleton_Enforcers_x2_x2_Description	Un gruppo di potenti scheletri evocati da un negromante esperto.
+Encounter/&CR5_Goblin_Cutthroats_Description	Una banda di goblin assassini affamati di sangue.
+Encounter/&CR8_Goblin_Ravagers_Description	Un folto gruppo di goblin esperti sulla via del sangue.
+Encounter/&CR11_OrcGrimblade_x1_x2_x1_Description	Un gruppo di razziatori di orchi guidato da un potente grimblade di orchi.
+Encounter/&CR9_Orc_Hunters_Description	Un paio di Orchi Beastmasters e dei loro animali in cerca di facili prede.
+Encounter/&CR10_Wraiths_Description	Una banda di mortali spettri vaganti delle Badlands in cerca di anime da tormentare.
+Encounter/&CR12_Necromancer_Gang_Description	Un potente negromante e le sue creature evocate, in cerca di una sfida.
+Encounter/&CR13_Brood_Couple_Description	Nidiate vaganti in cerca di sangue.
+Encounter/&CR14_Arctic_Monsters_x3x1_Title	Mostri artici
+Encounter/&CR9_Arctic_Pack_x3_Title	Pacchetto artico
+Encounter/&CR6_Arctic_Duo_x2_Title	Arctic Duo
+Encounter/&CR16_Undead_Pack_x4_Title	Pacchetto non morti
+Encounter/&CR6_Wraith_Master_x1x4_Title	Wraith Master
+Encounter/&CR16_Wraith_Hunters_x3x2_Title	Cacciatori di Wraith
+Encounter/&CR4_Undead_Knight_x1x2x2_Title	Cavaliere non morto
+Encounter/&CR8_Undead_Knight_x1x1x4_Title	Undead Huntsman
+Encounter/&CR8_Undead_hunt_pack_x3_Title	Pacchetto non morti
+Encounter/&CR2_Wind_Snakes_x4_Title	Serpenti del vento
+Encounter/&CR6_Flying_Snakes_x6_Title	Serpenti volanti
+Encounter/&CR4_Skarn_Ghouls_x2_Title	Snark Ghouls
+Encounter/&CR7_Grimblade_Title	Grimblade
+Encounter/&CR8_Tamed_Minotaur_Title	Minotauro addomesticato
+Encounter/&CR14_Arctic_Monsters_x3x1_Description	Un terrificante giovane remorhaz con un gruppo di predatori artici che lo inseguono.
+Encounter/&CR9_Arctic_Pack_x3_Description	Un piccolo branco di lupi invernali a caccia.
+Encounter/&CR6_Arctic_Duo_x2_Description	Un paio di lupi invernali a caccia.
+Encounter/&CR16_Undead_Pack_x4_Description	Lupi non morti che si comportano come se fossero ancora vivi e cacciano.
+Encounter/&CR6_Wraith_Master_x1x4_Description	Un cacciatore di non morti e il suo animale domestico.
+Encounter/&CR16_Wraith_Hunters_x3x2_Description	Una potente banda di guerrieri non morti.
+Encounter/&CR2_Wind_Snakes_x4_Description	Piccoli elementali dell'aria che amano uccidere.
+Encounter/&CR6_Flying_Snakes_x6_Description	Vari rettili volanti e velenosi.
+Encounter/&CR4_Skarn_Ghouls_x2_Description	Piccoli elementali della terra di cattivo umore.
+Encounter/&CR7_Grimblade_Description	Un micidiale assassino di orchi e la sua scorta.
+Encounter/&CR8_Tamed_Minotaur_Description	Una banda di goblin che ha domato un potente minotauro.
