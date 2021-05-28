@@ -1,0 +1,724 @@
+Screen/&AbilityScoreBonusDescription	Il bonus a questo punteggio di caratteristica, basato sulle tue scelte attuali.
+Screen/&AbilityScoreBonusEditableDescription	Il bonus a questo valore del punteggio di abilità, che puoi regolare con i tuoi punti rimanenti.
+Screen/&AbilityScoresAssignTitle	Trascina e rilascia i tuoi tiri sulle celle del punteggio di caratteristica o assegnali automaticamente.
+Screen/&AbilityScoresEditPointsTitle	Modifica i tuoi rotoli utilizzando i punti rimanenti.
+Screen/&AbilityScoresMethodTitle	Seleziona il metodo di generazione del punteggio abilità
+Screen/&AbortCreationDescription	Annulla il processo di creazione del personaggio.
+Screen/&AbortLevelUpDescription	Annulla il processo di aumento di livello del personaggio.
+Screen/&AbortTitle	Annulla
+Screen/&ActiveQuestsFormatPlural	La tua squadra ha {0} missioni attive.
+Screen/&ActiveQuestsFormatSingle	La tua squadra ha una missione attiva.
+Screen/&AddCharacterDescription	Aggiunge un personaggio dal tuo pool di personaggi locali.
+Screen/&AddCharacterTitle	Aggiungi carattere
+Screen/&AddNewClassTitle	Aggiungi nuova classe
+Screen/&AnswerChoiceTitle	Seleziona una risposta
+Screen/&AscendDescription	Elevare il piano orizzontale di una cella.
+Screen/&AttackCaptionBonusDescription	VUOTO
+Screen/&AttackCaptionBonusTitle	VUOTO
+Screen/&AttackCaptionMainDescription	VUOTO
+Screen/&AttackCaptionMainTitle	VUOTO
+Screen/&AttackDamageDescription	Il danno che questo attacco provoca su un colpo andato a segno.
+Screen/&AttackDamageTitle	dmg
+Screen/&AttackRollFooterTitle	attacco
+Screen/&AttackToHitDescription	Il bonus aggiunto ai d20 tiri per colpire con questo attacco.
+Screen/&AttackToHitTitle	colpire
+Screen/&AttunableItemsTitle	Elementi che possono essere sintonizzati.
+Screen/&AttunableItemsWarningFormat	{0} ha raggiunto il limite di {1} elementi attivabili.
+Screen/&AttunementExecutedWarningDescription	Rimuovi la sintonizzazione con questo oggetto per sintonizzarti con un oggetto diverso.
+Screen/&AttunementExecutedWarningTitle	{0} ha raggiunto il limite di attivazione per questo periodo di riposo.
+Screen/&AttunementRemoveTitle	Rimuovere
+Screen/&AvailableSlotsDescription	Il numero di incantesimi di questo livello che puoi lanciare. Puoi usare uno di questi slot per lanciare un incantesimo di livello inferiore, che può aumentare il suo effetto.
+Screen/&AvailableSlotsTitle	Slot disponibili:
+Screen/&BackgroundFeaturesTitle	Funzionalità in background
+Screen/&BackgroundHeaderTitle	sfondo
+Screen/&BackTitle	Indietro
+Screen/&BattleIntroTitle	Inizia una battaglia!
+Screen/&BattleVictoryTitle	Vittoria!
+Screen/&BonusAttackTitle	Bonus Attack
+Screen/&CancelTitle	Annulla
+Screen/&CaptionAbortDescription	Interrompi questa azione.
+Screen/&CaptionAbortTitle	Interrompi
+Screen/&CaptionProceedDescription	Esegui la tua azione anche se è incompleta.
+Screen/&CaptionProceedTitle	Procedere
+Screen/&CastLightButtonDescription	Fare clic per lanciare un leggero trucchetto su uno degli oggetti tenuti in mano.
+Screen/&ChanelDivinityRecoveredDescription	Tutti gli usi di Channel Divinity vengono ripristinati.
+Screen/&CharacterInformationTitle	Personaggio
+Screen/&CharacterInfoTitle	Informazioni sul personaggio
+Screen/&CharacterInspectionModeBattleAvailableTitle	Il personaggio può eseguire un'azione gratuita / inventario per round di combattimento.
+Screen/&CharacterInspectionModeBattleSpentTitle	Il personaggio ha speso l'azione gratuita / inventario per questo round di combattimento.
+Screen/&CharacterInspectionModeSelectCarriedItemTitle	Seleziona un elemento qualsiasi per applicare questo effetto.
+Screen/&CharacterInspectionModeSelectEquipedItemTitle	Seleziona un oggetto equipaggiato per applicare questo effetto.
+Screen/&CharacterInspectionModeSelectMagicalUnidentifiedItemTitle	Seleziona un oggetto magico non identificato da identificare.
+Screen/&CharacterInspectionModeSelectSpellbookTitle	Seleziona un libro degli incantesimi con almeno {0} pagina / e vuota / e.
+Screen/&CharacterInspectionModeSelectWeaponNonMagicalTitle	Seleziona un'arma non magica per applicare questo effetto.
+Screen/&CharacterInspectionModeSelectWeaponTitle	Seleziona un'arma per applicare questo effetto.
+Screen/&CharacterPersonalityDescriptionTitle	La personalità di un personaggio determina come si comporterà durante le sequenze narrative. Alcune bandiere narrative forniranno variazioni ai dialoghi, mentre altre apriranno diversi rami di dialogo e più in generale il personaggio avrà un ruolo che si adatta alla sua personalità.
+Screen/&CharacterPersonalityBackgroundAlignementDescription	Durante la creazione del personaggio, lo sfondo e l'allineamento scelti aprono la selezione di specifici flag di personalità, permettendoti di personalizzare il modo in cui il tuo personaggio si comporta durante le sequenze narrative.
+Screen/&CharactersManagementTitle	Gestione dei personaggi
+Screen/&ChooseFeatureDescription	Devi selezionare un'opzione.
+Screen/&ChooseFeatureTitle	Scegliere:
+Screen/&ClassDeityDescription	La divinità che segue il tuo personaggio. Obbligatorio per alcune scelte.
+Screen/&ClassDeityTitle	Divinità
+Screen/&ClassFeaturesTitle	Privilegi di classe
+Screen/&ClassHeaderTitle	Classe
+Screen/&ClassHitDiceDescription	I dadi lanciati ad ogni livello per determinare i tuoi punti ferita e anche per recuperare i punti ferita persi.
+Screen/&ClassHitDiceTitle	Dadi Vita
+Screen/&ClassOrMarkerTitle	O
+Screen/&ClassSelectionTitle	Seleziona una classe
+Screen/&ClearFiltersTitle	Cancella filtri
+Screen/&CloseTitle	Successivo
+Screen/&CompletedQuestsListTitle	Missioni completate
+Screen/&ConfigurationHeaderTitle	Configurazione degli articoli equipaggiati
+Screen/&ContainerSpaceDescription	Gli oggetti occupano una quantità di spazio e i contenitori (zaini, buste) possono contenere solo oggetti fino a un limite di spazio.
+Screen/&ContainerWeightDescription	Gli oggetti pesano tutti qualcosa e i contenitori possono contenere solo un certo peso.
+Screen/&CraftingAbilityCheckTitle	Controllo abilità
+Screen/&CraftingAbortButtonDescription	Interrompe l'operazione di creazione. Tutti i progressi e gli ingredienti spesi vengono persi.
+Screen/&CraftingAbortButtonTitle	Interrompi creazione
+Screen/&CraftingBonusTitle	Bonus di creazione: {0}
+Screen/&CraftingDifficultyTitle	Difficoltà di creazione
+Screen/&CraftingEstimatedHoursFormat	Sono necessarie almeno {0} ora / e per creare questo oggetto.
+Screen/&CraftingIngredientsDescription	Gli ingredienti vengono consumati quando inizia la lavorazione.
+Screen/&CraftingIngredientsTitle	ingredienti
+Screen/&CraftingInProgressTitle	Il tipo di prova di abilità effettuata dal personaggio.
+Screen/&CraftingItemEffectTitle	Effetti dell'oggetto
+Screen/&CraftingNoOptionSelectedTitle	Devi selezionare una delle opzioni di creazione.
+Screen/&CraftingNoSuitableToolTypeDescription	Nessuno nel gruppo possiede {0} strumenti di tipo.
+Screen/&CraftingNoSuitableToolTypeTitle	Non nell'inventario
+Screen/&CraftingNotProficientDescription	{0} non è competente in nessuna delle seguenti: {1}.
+Screen/&CraftingNotProficientTitle	Non competente
+Screen/&CraftingOptionsTitle	Opzioni di creazione
+Screen/&CraftingRemainingHoursFormat	Sono necessarie almeno {0} ore in più per completare questa operazione di creazione.
+Screen/&CraftingRemainingSuccessesTitle	Controllo abilità rimanenti riusciti
+Screen/&CraftingRequiredSuccessesDescription	Il tempo effettivo di creazione dipende dai successi delle prove di abilità del personaggio che crea. I controlli vengono ripetuti ogni ora fino al completamento della lavorazione.
+Screen/&CraftingRequiredSuccessesTitle	Successi richiesti
+Screen/&CraftingStartButtonDescription	Avvia l'operazione di creazione e consuma gli ingredienti.
+Screen/&CraftingStartButtonTitle	Inizia a creare
+Screen/&CraftingTitle	Crafting
+Screen/&CraftingUnknownRecipeDescription	Non hai ancora imparato questa opzione di creazione.
+Screen/&CutscenePauseDescription	Mette in pausa la riproduzione del filmato (scorciatoia: Invio).
+Screen/&CutscenePlayDescription	Riprende la riproduzione del filmato (scorciatoia: Return).
+Screen/&CutsceneShutdownDescription	Chiude questo pannello di controllo e riprende la riproduzione.
+Screen/&CutsceneStepbackDescription	Torna allo stato narrativo precedente e metti in pausa la riproduzione (scorciatoia: Backspace).
+Screen/&DeathSavesFailuresTitle	Fallimenti
+Screen/&DeathSavesFormat	{0} sta morendo e deve effettuare un tiro salvezza mortale.
+Screen/&DeathSavesSuccessesTitle	Successi
+Screen/&DeathSavesTitle	Tiri salvezza della morte
+Screen/&DeathTimerFormat	{0} è morto, ma potrebbe essere rianimato dai membri del gruppo.
+Screen/&DeathTimerLargeExpirationNumberDescription	10+
+Screen/&DeathTimerReviveOptionsFormat	Opzioni di rianimazione di {0}:
+Screen/&DeathTimerUnavailableDescription	(non disponibile)
+Screen/&DeathTimerWithExpirationFormat	{0} è morto, ma potrebbe essere rianimato dai membri del gruppo.\n{1} scade tra {2} round.
+Screen/&DefaultSessionNameFormat	Il gioco di {0}
+Screen/&DescendDescription	Abbassare il piano orizzontale di una cella.
+Screen/&DestinyQuestsListTitle	Missioni del destino
+Screen/&DestinyQuestTypeTitle	Destiny Quest
+Screen/&DeviceOverchargeDescription	Aggiungi più addebiti a questo effetto.
+Screen/&DisabledSlotAutoConfigDescription	Questo slot è disabilitato poiché il suo contenuto viene determinato automaticamente.
+Screen/&DisabledSlotNoneDescription	Questo slot è disabilitato.
+Screen/&DisabledSlotTwoHandedEquipedDescription	Questo slot è disabilitato perché il suo slot accoppiato è dotato di un oggetto a due mani.
+Screen/&DismissCharacterDescription	Rimuovi questo personaggio dalla squadra.
+Screen/&DismissCharacterTitle	Respingere
+Screen/&DomainSpellDescription	Questo incantesimo di dominio è sempre considerato preparato.\nNon conta ai fini del limite di preparazione degli incantesimi.
+Screen/&DomainSpellTitle	Dominio
+Screen/&DoneTitle	Fatto
+Screen/&DropItemDescription	Lascia cadere l'oggetto a terra.
+Screen/&DropItemTitle	Far cadere
+Screen/&DungeonMasterTitle	[ToRemove] Dungeon Master
+Screen/&EffectFormRollFooterDamageTitle	Danno
+Screen/&EffectFormRollFooterHealingTitle	Guarigione
+Screen/&EncounterAvoidButtonDescription	Evita del tutto la battaglia
+Screen/&EncounterAvoidButtonTitle	Nascondere
+Screen/&EncounterCombatAwareDescription	Le creature ostili si trovano nelle vicinanze, ma {0} è riuscito a individuarle. Cosa farai?
+Screen/&EncounterCombatSurprisedDescription	Un gruppo di creature ostili è riuscito a sorprendervi!
+Screen/&EncounterCombatTitle	Incontro di combattimento
+Screen/&EncounterEventTitle	Evento di gioco
+Screen/&EncounterFightButtonDescription	Inizia la battaglia contro il gruppo nemico.
+Screen/&EncounterFightButtonTitle	Inizia la battaglia
+Screen/&EncounterHeroStatusAsleepDescription	{0} sta dormendo e non agirà finché non si sveglierà.
+Screen/&EncounterHeroStatusAsleepTitle	Addormentato
+Screen/&EncounterHeroStatusAwareDescription	{0} è a conoscenza dei nemici in avvicinamento.
+Screen/&EncounterHeroStatusAwareTitle	Consapevole
+Screen/&EncounterHeroStatusDeadDescription	{0} era morto alla fine della battaglia.
+Screen/&EncounterHeroStatusDeadTitle	Morto
+Screen/&EncounterHeroStatusHealthyDescription	{0} era in buona salute alla fine della battaglia.
+Screen/&EncounterHeroStatusHealthyTitle	Salutare
+Screen/&EncounterHeroStatusSeverelyWoundedDescription	{0} è stato gravemente ferito alla fine della battaglia.
+Screen/&EncounterHeroStatusSeverelyWoundedTitle	Gravemente ferito
+Screen/&EncounterHeroStatusSpotterDescription	{0} ha individuato i nemici in avvicinamento.
+Screen/&EncounterHeroStatusSpotterTitle	Spotter
+Screen/&EncounterHeroStatusSurprisedDescription	{0} è sorpreso e non agirà durante il primo round della battaglia.
+Screen/&EncounterHeroStatusSurprisedTitle	Sorpreso
+Screen/&EncounterHeroStatusUnconsciousDescription	{0} era privo di sensi alla fine della battaglia.
+Screen/&EncounterHeroStatusUnconsciousTitle	Inconscio
+Screen/&EncounterHeroStatusWoundedDescription	{0} è stato ferito alla fine della battaglia.
+Screen/&EncounterHeroStatusWoundedTitle	Ferito
+Screen/&EncounterProceedButtonDescription	Inizia l'interazione.
+Screen/&EncounterProceedButtonTitle	Procedere
+Screen/&EncounterSurpriseHeaderTitle	Risultati del rotolo a sorpresa
+Screen/&EncumbranceHeavyTitle	pesante
+Screen/&EncumbranceLightTitle	Leggero
+Screen/&EncumbranceNoneTitle	Nessuna
+Screen/&EncumbranceTitle	Ingombro
+Screen/&EndTurnDescription	Termina il turno di questo personaggio e passa alla prossima creatura ad agire.
+Screen/&EndTurnTitle	Fine turno
+Screen/&EquipmentConfigurationSetupTitle	Trascina gli elementi sottostanti per modificarne la configurazione.
+Screen/&EquipmentTitle	Attrezzature
+Screen/&EthnicGroupSelectionTitle	Seleziona un'origine.
+Screen/&ExamineDocumentDescription	Leggi questo documento.
+Screen/&ExamineDocumentTitle	Leggere
+Screen/&ExistingClassSelectionTitle	Seleziona una classe esistente per salire di livello.
+Screen/&ExpertiseSuffix	(esperto)
+Screen/&ExpertSkillTooltipSuffix	Sei un esperto nell'uso di questa abilità (aggiungi il tuo bonus di competenza x 2).
+Screen/&ExpertToolTypeTooltipSuffix	Sei un esperto nell'utilizzo di questo tipo di strumento (aggiungi il tuo bonus di competenza x 2).
+Screen/&ExplorationActionsTitle	Azioni dei personaggi
+Screen/&FailedQuestsListTitle	Missioni fallite
+Screen/&FeatAutoSelectButtonTitle	Auto selezione
+Screen/&FeatBackButtonTitle	Indietro di un passo
+Screen/&FeatureListingProficienciesTitle	Competenze
+Screen/&FocusCharacterDescription	Fare clic per focalizzare la visualizzazione su questo personaggio.
+Screen/&GameContentButtonDescription	Visualizza il documento che specifica quale contenuto di gioco utilizza l'SRD e quale è originale.
+Screen/&GameContentButtonTitle	Contenuto del gioco
+Screen/&GameMenuButtonDescription	Apre il menu di gioco.
+Screen/&GameMenuTitle	Menù
+Screen/&GamePausedTitle	In pausa
+Screen/&HitDiceItemStatusDeadTitle	Morto
+Screen/&HitDiceItemStatusFullHPTitle	HP completo
+Screen/&HitDiceItemStatusOutofHDTitle	Vuoto
+Screen/&HitDiceItemStatusRollTitle	Roll
+Screen/&HitDiceItemStatusUnconsciousTitle	Inconscio
+Screen/&InBattleDescription	Il tuo gruppo è attualmente impegnato in una battaglia a turni.
+Screen/&InBattleTitle	In battaglia
+Screen/&InspectDescription	Apre la schermata di visualizzazione del personaggio, dalla quale puoi accedere all'inventario, alle informazioni sul personaggio, alle competenze, agli incantesimi e alle opzioni di creazione.
+Screen/&InspectInventoryDescription	Apri la scheda dell'inventario del personaggio.
+Screen/&InspectInventoryTitle	Inventario
+Screen/&InspectionGiveItemToCharacterDescription	Fare clic per dare questo elemento a {0}.
+Screen/&InspectionSelectCharacterDescription	Fare clic per selezionare questo personaggio.
+Screen/&InspectTitle	Ispezionare
+Screen/&InventoryCannotDropQuestItemDescription	Non puoi eliminare un oggetto missione dall'inventario del tuo gruppo.
+Screen/&InventoryCannotLootAllDescription	Alcuni articoli non rientrano nel tuo inventario.
+Screen/&InventoryCannotSellQuestItemDescription	Non puoi vendere un oggetto di missione.
+Screen/&InventoryDescription	Apre la schermata dell'inventario del personaggio, dalla quale puoi anche accedere alle informazioni sul personaggio, alle competenze, agli incantesimi e alle opzioni di creazione.
+Screen/&InventoryForceEquipDescription	Questo oggetto impedisce che qualsiasi altro oggetto venga equipaggiato.
+Screen/&InventoryMaxWeightCapacityDescription	Non puoi portare così tanto peso.
+Screen/&InventorySlotAlwaysLockedDescription	Questo slot è bloccato e non può essere equipaggiato / non attrezzato.
+Screen/&InventorySlotLockedInBattleDescription	Questo slot è bloccato in battaglia.
+Screen/&InventoryTitle	Inventario
+Screen/&JournalAdventureDescription	Visualizza il registro dell'avventura, elencando tutti gli eventi che hanno avuto luogo durante la campagna.
+Screen/&JournalAdventureTitle	<#F5B486>A</color> dventure <#F5B486>L</color> og
+Screen/&JournalBattleOutcomeTitle	Vittoria
+Screen/&JournalBattleTitle	Incontrare
+Screen/&JournalBattleVersusTitle	VS
+Screen/&JournalBestiaryAttacksTitle	Attacchi
+Screen/&JournalBestiaryBackToBestiaryTitle	Torna al bestiario
+Screen/&JournalBestiaryChallengeAndXPFormat	{0} ({1} XP)
+Screen/&JournalBestiaryChallengeDescription	Il livello di gruppo medio necessario per combattere una di queste creature in una sfida equilibrata.
+Screen/&JournalBestiaryDescription	Elenca i nemici che puoi affrontare e le conoscenze che hai raccolto.
+Screen/&JournalBestiaryDifficultyTitle	Difficoltà
+Screen/&JournalBestiaryImmunitiesTitle	Immunità
+Screen/&JournalBestiaryKnowledgeTitle	Conoscenza
+Screen/&JournalBestiaryLanguagesTitle	Le lingue
+Screen/&JournalBestiaryLootOptionsTitle	Tesoro
+Screen/&JournalBestiaryMonsterIndexFormat	Creatura {0} di {1}
+Screen/&JournalBestiaryNoneTitle	Nessuna
+Screen/&JournalBestiaryProficienciesTitle	Competenze
+Screen/&JournalBestiaryResistancesTitle	Resistenze
+Screen/&JournalBestiarySavingThrowsTitle	Tiri Salvezza
+Screen/&JournalBestiarySensesTitle	Sensi
+Screen/&JournalBestiarySizeAndTypeFormat	{0} {1}
+Screen/&JournalBestiarySizeTitle	Dimensione
+Screen/&JournalBestiarySortAlphabeticalTitle	Alfabetico
+Screen/&JournalBestiarySortChallengeRatingTitle	Valutazione della sfida
+Screen/&JournalBestiarySortKnowledgeLevelTitle	Livello di conoscenza
+Screen/&JournalBestiarySortOrderTitle	Ordinamento
+Screen/&JournalBestiarySortSizeTitle	Dimensione
+Screen/&JournalBestiarySortUpdateDateTitle	Ultimo aggiornamento
+Screen/&JournalBestiaryStandardTitle	Standard
+Screen/&JournalBestiaryTitle	<#F5B486>B</color> estiary
+Screen/&JournalBestiaryTotalUnlockedTitle	Sbloccato
+Screen/&JournalBestiaryUnknownDescription	Il tuo livello di conoscenza non è sufficiente per accedere a questo tipo di informazioni.
+Screen/&JournalBestiaryUnknownTitle	Creatura sconosciuta
+Screen/&JournalBestiaryVulnerabilitiesTitle	Vulnerabilità
+Screen/&JournalCampaignStartTitle	Inizia l'avventura!
+Screen/&JournalConversationTitle	Conversazione:
+Screen/&JournalFactionIntroduction	Durante le tue avventure incontrerai persone di varie fazioni. Buone relazioni con una fazione possono portare molti vantaggi. Migliora i tuoi rapporti con una fazione facendo dei lavori per loro o promuovendone gli interessi.
+Screen/&JournalFactionProminentMembersTitle	Membri di spicco
+Screen/&JournalFactionStatusDescription	Mostra la posizione del gruppo con le varie fazioni nel Legacy Council.
+Screen/&JournalFactionStatusTitle	<#F5B486>F</color> azioni
+Screen/&JournalNewDayColorTitle	<#F5B486>D</color> ay
+Screen/&JournalNewDayTitle	Giorno
+Screen/&JournalQuestCompletedTitle	Missione completata:
+Screen/&JournalQuestFailedTitle	Missione non riuscita:
+Screen/&JournalQuestLogDescription	Elenca le missioni attive e completate, insieme ai tuoi obiettivi attuali.
+Screen/&JournalQuestLogTitle	<#F5B486>Q</color> uest <#F5B486>L</color> og
+Screen/&JournalQuestStartedTitle	Missione iniziata:
+Screen/&JournalQuestUpdatedSummaryFormat	{0} (continua)
+Screen/&JournalQuestUpdatedTitle	Missione aggiornata:
+Screen/&JournalRelationDecreasedFormat	La relazione con {1} è diminuita a {0}.
+Screen/&JournalRelationDecreasedTitle	Rapporto diminuito:
+Screen/&JournalRelationIncreasedFormat	Rapporto con {1} aumentato a {0}.
+Screen/&JournalRelationIncreasedTitle	Rapporto aumentato:
+Screen/&JournalRelationStatusChangedFormat	Lo stato è ora {0}
+Screen/&JournalTimecodeDayFormat	Giorno {0}
+Screen/&JournalTimecodeHourMinute24Format	{0}: {1}
+Screen/&JournalTimecodeHourMinuteAMFormat	{0}: {1} AM
+Screen/&JournalTimecodeHourMinutePMFormat	{0}: {1} PM
+Screen/&JournalTitle	Diario delle feste
+Screen/&JournalTravelContinuedTitle	Viaggio (continua)
+Screen/&JournalTravelTitle	Viaggio
+Screen/&JournalTutorialDescription	Ti consente di rivedere le informazioni del tutorial visualizzate in precedenza nel gioco.
+Screen/&JournalTutorialForumsAddress	https://forums.solasta-game.com/
+Screen/&JournalTutorialForumsDescription	Scopri di più su Solasta sui nostri forum.
+Screen/&JournalTutorialForumsTitle	Forum di Solasta
+Screen/&JournalTutorialSRDAddress	https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf
+Screen/&JournalTutorialSRDDescription	Leggi il sistema di regole utilizzato da Solasta.
+Screen/&JournalTutorialSRDTitle	Documento di riferimento del sistema
+Screen/&JournalTutorialTitle	<#F5B486>T</color> utorial
+Screen/&JournalTutorialWikiAddress	https://forums.solasta-game.com/
+Screen/&JournalTutorialWikiDescription	Scopri di più sull'universo Solasta e sui contenuti unici sul Wiki online\n[Prossimamente].
+Screen/&JournalTutorialWikiTitle	Solasta Wiki
+Screen/&KnownCantripsTitle	Trucchetti noti
+Screen/&KnownSpellDescription	Questo incantesimo è conosciuto o scritto in un libro degli incantesimi.
+Screen/&KnownSpellTitle	Conosciuto
+Screen/&LegalAgreeDescription	Facendo clic sul pulsante "Accetto", accetti i termini di cui sopra.
+Screen/&LegalAgreeTitle	Sono d'accordo
+Screen/&LegalDisagreeDescription	Facendo clic sul pulsante "Non accetto", non accetti i termini di cui sopra, il che significa che non puoi giocare.
+Screen/&LegalDisagreeTitle	Non sono d'accordo
+Screen/&LegalProceedDescription	Vai al passaggio successivo
+Screen/&LegalProceedTitle	Procedere
+Screen/&LevelGainsTitle	Il tuo livello aumenta
+Screen/&LoadGameDescription	Seleziona e carica una partita salvata.
+Screen/&LoadGameTitle	Carica gioco
+Screen/&LocationIntroductionActiveQuestsFormat	Missioni attive: {0}
+Screen/&LocationIntroductionHeaderTitle	Nuova sede
+Screen/&LongRestCompleteTitle	Riposo lungo completo
+Screen/&LongRestDescription	Prenditi almeno otto ore per mangiare, bere e dormire e svegliarti pronto a tutto.
+Screen/&LongRestTitle	Riposo lungo
+Screen/&LootAllDescription	Saccheggia tutto da questo contenitore che può entrare nel tuo inventario senza aumentare il tuo livello di ingombro.
+Screen/&LootAllTitle	Saccheggia tutto
+Screen/&MagicalTagDescription	Questo attacco è considerato magico e può ferire creature che resistono ad attacchi non magici.
+Screen/&MagicRevealedPluralFormat	Nuovi oggetti sono stati rivelati come magici su {0}.
+Screen/&MagicRevealedSingleFormat	Un nuovo oggetto è stato rivelato magico su {0}.
+Screen/&MainAttackTitle	Attacco principale
+Screen/&MainQuestsListTitle	Missioni principali
+Screen/&MainQuestTypeTitle	Missione principale
+Screen/&MapToggleDescription	Apri la mappa della località.
+Screen/&MerchantDetectMagicDescription	Rileva le aure magiche su tutti gli oggetti trasportati dai membri del gruppo, ma non ne rivela la funzione.
+Screen/&MerchantDetectMagicTitle	Rileva Magic
+Screen/&MerchantFactionRelationEffectDescription	La posizione del tuo gruppo con la fazione del mercante influisce su sconti e sovrapprezzi.
+Screen/&MerchantIdentifyDescription	Rivela tutto su un oggetto selezionato, incluso se è magico.
+Screen/&MerchantIdentifyTitle	Identificare
+Screen/&NewClassSelectionTitle	Oppure fai clic per aggiungere una nuova classe a questo personaggio.
+Screen/&NewGameScreenTitle	Nuovo gioco
+Screen/&NewRecipeTitle	Nuova opzione di creazione!
+Screen/&NextClassFeaturesTitle	Privilegi di classe successiva
+Screen/&NextPageTitle	Avanti
+Screen/&NextTutorialStepDescription	Visualizza il passaggio successivo del tutorial.
+Screen/&NextTutorialStepTitle	Avanti
+Screen/&NoContainerTitle	Questo personaggio non è equipaggiato con alcuno zaino o oggetto contenitore nello slot "Indietro".
+Screen/&NoCraftingOptionsTitle	Il tuo gruppo non ha ancora opzioni di creazione.
+Screen/&OpenGamingLicenseButtonDescription	Visualizza la licenza completa del gioco aperto e il documento di riferimento del sistema
+Screen/&OpenGamingLicenseButtonTitle	Apri licenza di gioco
+Screen/&OpenGamingLicenseDescription	The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc. ("Wizards"). All Rights Reserved. \n1. Definitions: \n(a) "Contributors" means the copyright and/or trademark owners who have contributed Open Game Content; \n(b) "Derivative Material" means copyrighted material including derivative works and translations (including into other computer languages), portation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c) "Distribute" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d) "Open Game Content" means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity; (e) "Product Identity" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) "Trademark" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor; (g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content; (h) "You" or "Your" means the licensee in terms of this agreement. \n2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License. \n3. Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License. \n4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content. \n5. Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License. \n6. Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder's name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute. \n7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity. \n8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content. \n9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License. \n10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute. \n11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so. \n12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected. \n13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License. \n14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. \n15. COPYRIGHT NOTICE Open Game License v 1.0a Copyright 2000, Wizards of the Coast, LLC. System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson. \nEND OF LICENSE
+Screen/&OpenGamingLicenseTitle	LICENZA DI GIOCO APERTO Versione 1.0a
+Screen/&OpentRestButtonDescription	Riposati brevemente.
+Screen/&ParticipantNameFormat	Giocatore: {0}
+Screen/&ParticipantsTitle	Partecipanti
+Screen/&PartyJournalButtonDescription	Apre la schermata del diario per accedere al registro delle avventure, alle missioni, alle voci dei mostri, alle relazioni di fazione e ad altre informazioni sui progressi del gruppo.
+Screen/&PartyJournalButtonTitle	rivista
+Screen/&PassTitle	Passaggio
+Screen/&PauseDescription	Metti in pausa il flusso del tempo.
+Screen/&PauseTitle	Pausa
+Screen/&PersonalityHeaderTitle	Personalità
+Screen/&PersonalityValueFormat	Punteggio della personalità "{0}": {1}.
+Screen/&PlanarToggleDescription	Attiva / disattiva il piano orizzontale per la selezione della destinazione del movimento.
+Screen/&PlayDescription	Riprendi lo scorrere del tempo.
+Screen/&PlayTitle	Giocare
+Screen/&PoolPointsToSpendPluralTitle	{0} / {1} punti da assegnare
+Screen/&PoolPointsToSpendSingleTitle	{0} / {1} punto da assegnare
+Screen/&PowerRemainingHealingPoolDescription	La tua riserva di punti guarigione.
+Screen/&PowerUsedAllDescription	Non hai più usi di questo potere.
+Screen/&PowerUsedNoneDescription	Non hai usato questo potere.
+Screen/&PowerUsedSomeDescription	Hai speso {0} usi di questo potere.
+Screen/&PrepareAutoDescription	Prepara automaticamente gli incantesimi in base alla loro rilevanza generale.
+Screen/&PrepareAutoTitle	Preparazione automatica
+Screen/&PrepareClearDescription	Cancella tutti gli incantesimi preparati.
+Screen/&PrepareClearTitle	Chiaro
+Screen/&PreparedSpellDescription	Questo incantesimo è stato preparato e può essere lanciato utilizzando gli slot incantesimo.
+Screen/&PreparedSpellTitle	Preparato
+Screen/&PreparePanelDescription	Puoi farlo una volta per ogni riposo lungo.
+Screen/&PreparePanelInstruction	Seleziona {0} incantesimi da preparare.
+Screen/&PreparePanelTitle	Prepara gli incantesimi
+Screen/&PrepareRevertDescription	Torna agli incantesimi che erano stati preparati prima di aprire questo pannello.
+Screen/&PrepareRevertTitle	Ripristina
+Screen/&PrepareSpellsDescription	Seleziona un diverso set di incantesimi preparati.
+Screen/&PrepareSpellsTitle	Prepara gli incantesimi
+Screen/&PrepareValidateDescription	Convalida gli incantesimi preparati che hai selezionato.
+Screen/&PrepareValidateTitle	Convalidare
+Screen/&PreviousPageTitle	Precedente
+Screen/&PreviousTutorialStepDescription	Visualizza le istruzioni del tutorial precedente.
+Screen/&PreviousTutorialStepTitle	Precedente
+Screen/&ProficienciesTitle	Competenze
+Screen/&ProficiencyArmorCategoryDescription	Sei competente con questa categoria di armature e puoi indossarla.
+Screen/&ProficiencyArmorTypeDescription	Sei esperto con questo tipo specifico di armatura e puoi indossarlo.
+Screen/&ProficiencyBonusTitle	Competenza\nBonus
+Screen/&ProficiencyLanguageDescription	Sei abile nel parlare questa lingua.
+Screen/&ProficiencyMarkerDoubleSkillDescription	Sei un esperto (doppia competenza) con {0} ({1}) controlli di abilità.
+Screen/&ProficiencyMarkerDoubleToolDescription	Sei un esperto (doppia competenza) nell'utilizzo di questo tipo di strumento.
+Screen/&ProficiencyMarkerSavingThrowDescription	Sei esperto con {0} tiri salvezza.
+Screen/&ProficiencyMarkerSingleSkillDescription	Sei esperto con i controlli di abilità {0} ({1}).
+Screen/&ProficiencyMarkerSingleToolDescription	Sei abile nell'usare questo tipo di strumento.
+Screen/&ProficiencyToggleFeatTitle	Talenti
+Screen/&ProficiencyToggleLanguageTitle	Le lingue
+Screen/&ProficiencyToggleSavingThrowTitle	Tiri Salvezza
+Screen/&ProficiencyToggleSkillTitle	Competenze
+Screen/&ProficiencyToggleToolTitle	Utensili
+Screen/&ProficiencyToggleWeaponAndArmorTitle	Armi e armature
+Screen/&ProficiencyWeaponCategoryDescription	Sei competente con questa categoria di armi, aggiungendo il tuo bonus di competenza ai tiri per colpire.
+Screen/&ProficiencyWeaponTypeDescription	Sei esperto con questo tipo specifico di arma, aggiungendo il tuo bonus di competenza ai tiri per colpire.
+Screen/&PurchaseClearAllDescription	Fare clic per cancellare tutti gli articoli acquistati.
+Screen/&PurchaseOrderTitle	Tu acquisti
+Screen/&QuestChoiceStatusTitle	Scelta:
+Screen/&QuestCompletedDescription	Missione completata
+Screen/&QuestFailedDescription	Missione non riuscita
+Screen/&QuestLogTitle	Missioni
+Screen/&QuestObjectivesTitle	Obiettivi
+Screen/&QuestOptionalStatusTitle	(opzionale)
+Screen/&QuitGameDescription	Esci dal gioco in corso e torna al menu principale.
+Screen/&QuitGameTitle	Abbandonare il gioco
+Screen/&QuitLocationDescription	Esci dalla posizione corrente e torna alla schermata della campagna.
+Screen/&QuitLocationTitle	Esci dalla posizione
+Screen/&RaceHeaderTitle	Ascendenza
+Screen/&RacialFeaturesTitle	Caratteristiche ancestrali
+Screen/&ReadyCantripAttackDescription	Usa un trucchetto d'attacco sul primo nemico che si muove nel raggio. Gli attacchi con svantaggio non innescheranno questa reazione.
+Screen/&ReadyCantripAttackTitle	Attacco cantrip
+Screen/&ReadyMeleeAttackDescription	Usa la tua arma attualmente equipaggiata per attaccare il primo nemico che si muove nel raggio di mischia.
+Screen/&ReadyMeleeAttackTitle	Attacco corpo a corpo
+Screen/&ReadyOptionsTitle	Opzioni pronte
+Screen/&ReadyRangedAttackDescription	Usa la tua arma attualmente equipaggiata per attaccare il primo nemico che si muove nel raggio d'azione. Gli attacchi con svantaggio non innescheranno questa reazione.
+Screen/&ReadyRangedAttackTitle	Attacco a distanza
+Screen/&ReadyToLevelUpLongRestDescription	Questo personaggio è pronto per salire di livello. Riposati a lungo per iniziare la sequenza di aumento di livello.
+Screen/&RemainingPointsFormat	{0} punti rimanenti
+Screen/&RepertoireHeaderFormat	{0} Incantesimi
+Screen/&RepertoirePreparedSpellsDescription	Il numero di incantesimi che hai preparato dalla tua indennità.
+Screen/&RepertoirePreparedSpellsTitle	Incantesimi preparati
+Screen/&RepertoireSpellsTitle	Incantesimi
+Screen/&RequiredFactionInvalidTitle	Relazione di fazione
+Screen/&RequiredFactionStatusFormat	Il tuo stato con la {0} fazione è {1}. Hai bisogno di {2} per acquistare questo articolo.
+Screen/&RequiresCharacterLevelDescription	Richiede il livello del personaggio {0}
+Screen/&RequiresCharacterLevelTitle	({0})
+Screen/&RequiresClassLevelDescription	Richiede il livello di classe {0}
+Screen/&RequiresClassLevelTitle	({0})
+Screen/&RestingTitle	Riposo ...
+Screen/&RestModuleHitDiceHeaderTitle	Recupero punti ferita
+Screen/&RestModuleHitDiceInstructionAfterRestLongRestTitle	Hai recuperato tutti i punti ferita e la metà dei tuoi dadi vita al massimo.
+Screen/&RestModuleHitDiceInstructionAfterRestShortRestTitle	Spendi i dadi ferita per recuperare i punti ferita.
+Screen/&RestModuleHitDiceInstructionBeforeRestLongRestTitle	Quando il resto è completo, recupera tutti i punti ferita e la metà dei tuoi dadi vita al massimo.
+Screen/&RestModuleHitDiceInstructionBeforeRestShortRestTitle	Quando il resto è completo, spendi i dadi vita per recuperare i punti ferita mancanti.
+Screen/&RestModulePostRestActivitiesAfterDescription	Seleziona azioni.
+Screen/&RestModulePostRestActivitiesBeforeDescription	Le azioni dei tuoi personaggi dopo che il resto è stato completato.
+Screen/&RestModulePostRestActivitiesHeaderTitle	Azioni di riposo post
+Screen/&RestModuleRecoveredFeaturesHeaderTitle	Funzionalità e ripristino delle capacità
+Screen/&RestModuleRecoveredFeaturesInstructionAfterRestTitle	Hai recuperato le seguenti funzionalità:
+Screen/&RestModuleRecoveredFeaturesInstructionBeforeRestTitle	Al termine del riposo, recupererai queste funzionalità:
+Screen/&RestModuleRecoveredFeaturesNoneTitle	Nessuna
+Screen/&ResumeDescription	Chiudi questo pannello e riprendi il gioco.
+Screen/&ResumeTitle	Curriculum vitae
+Screen/&ReviveCastSpellFormat	Trasmetti {0}
+Screen/&ReviveItemSpellSubtitlePluralFormat	({0} {1} slot rimanenti)
+Screen/&ReviveItemSpellSubtitleSingleFormat	({0} {1} slot rimanente)
+Screen/&ReviveItemSubtitlePluralFormat	({0} utilizzi rimanenti)
+Screen/&ReviveItemSubtitleSingleFormat	({0} utilizzo rimanente)
+Screen/&ReviveUpcastSubtitleDescription	Upcast:
+Screen/&ReviveUsePowerFormat	Usa {0}
+Screen/&RitualsListTitle	Rituali
+Screen/&RitualSpellDescription	Questo incantesimo rituale può essere lanciato senza spendere uno slot incantesimo, a condizione che impieghi 10 minuti per lanciarlo.
+Screen/&RollHitDiceButtonDescription	Tira un dado per colpire e aumenta i tuoi punti ferita attuali del risultato più il tuo bonus di Costituzione.
+Screen/&RollHitDiceButtonTitle	Roll
+Screen/&RotateCCWDescription	Ruota la vista in senso antiorario.
+Screen/&RotateCWDescription	Ruota la vista in senso orario.
+Screen/&RoundStartTitle	Round {0}
+Screen/&SaleClearAllDescription	Fare clic per cancellare tutti gli articoli venduti.
+Screen/&SaleOrderTitle	Tu vendi
+Screen/&SaveGameDescription	Salva la partita in corso.
+Screen/&SaveGameTitle	Salva il gioco
+Screen/&ScoreAutoAssignButtonTitle	Assegnazione automatica
+Screen/&ScoreMethodFreeEditionDescription	Usa questa opzione per ricreare uno dei tuoi personaggi preferiti da tavolo. Nessun imbroglio, adesso!
+Screen/&ScoreMethodFreeEditionTitle	Scelta libera
+Screen/&ScoreMethodPointSystemDescription	Definisci le tue abilità usando un sistema a punti. Iniziando ogni punteggio di caratteristica da 8, aumenti di un punto ogni abilità fino a 13, quindi ti costerà altri due punti per aumentare a 14 e altri due punti per aumentare a 15 (massimo)
+Screen/&ScoreMethodPointSystemTitle	Sistema a punti
+Screen/&ScoreMethodPredeterminedDescription	I tuoi punteggi di caratteristica sono un insieme di valori predeterminati: 15, 14, 13, 12, 10, 8
+Screen/&ScoreMethodPredeterminedTitle	Predeterminato
+Screen/&ScoreMethodRoll4d6Description	Per ognuno dei tuoi sei punteggi di caratteristica, tira 4d6 e somma i tre migliori risultati.
+Screen/&ScoreMethodRoll4d6Title	Tira 4d6
+Screen/&ScoreModifierDescription	Il bonus applicato ad azioni ed effetti basati su questo punteggio di caratteristica.
+Screen/&ScoreOptimizeForTitle	Ottimizza per:
+Screen/&ScoreOptimizeNoneDescription	Non hai selezionato una classe per cui ottimizzare.
+Screen/&ScoreOptimizeNoneTitle	Nessuna classe selezionata
+Screen/&ScoreRerollButtonTitle	Reroll
+Screen/&ScoreResetButtonTitle	Ripristina
+Screen/&ScribeScrollDescription	Copia l'incantesimo in uno dei tuoi libri degli incantesimi.
+Screen/&ScribeScrollTitle	Scriba
+Screen/&SearchByCastingTimeTitle	Tempo di lancio
+Screen/&SearchByDamageTypeTitle	Tipo di danno
+Screen/&SearchByNameTitle	Ricerca per nome
+Screen/&SearchBySchoolTitle	Scuola
+Screen/&SearchByTagsTitle	Proprietà
+Screen/&SecondaryQuestsListTitle	Missioni secondarie
+Screen/&SecondaryQuestTypeTitle	Quest secondaria
+Screen/&SelectAllCharactersDescription	Seleziona tutti i personaggi nel gruppo.
+Screen/&SelectionNoneTitle	Tutti
+Screen/&SessionInviteDescription	Invita un membro del tuo elenco di amici a partecipare a questo gioco.
+Screen/&SessionInviteTitle	Invita un amico
+Screen/&SessionModePrivateDescription	Questa sessione è multiplayer, ma è nascosta agli altri giocatori. Puoi invitare gli amici, però.
+Screen/&SessionModePrivateTitle	Privato
+Screen/&SessionModePublicDescription	Questa sessione è multiplayer ed è visibile a tutti i giocatori.
+Screen/&SessionModePublicTitle	Pubblico
+Screen/&SessionModeSingleDescription	Solo giocatore singolo.
+Screen/&SessionModeSingleTitle	Single
+Screen/&SessionModeTitle	Modalità
+Screen/&SessionNameTitle	Nome
+Screen/&SessionTitle	Sessione di gioco
+Screen/&ShortRestCompleteTitle	Riposo breve completo
+Screen/&ShortRestDescription	Prenditi un'ora di pausa per recuperare alcuni poteri e punti ferita.
+Screen/&ShortRestTitle	Piccola pausa
+Screen/&ShoveModeKnockProneDescription	Colpisci una creatura prona.
+Screen/&ShoveModeKnockProneTitle	Knock Prone
+Screen/&ShoveModePushAwayDescription	Spingi una creatura nella direzione in cui sei rivolto.
+Screen/&ShoveModePushAwayTitle	Spingere via
+Screen/&ShoveOptionsTitle	Opzioni di spinta
+Screen/&SkipButtonDescription	Salta in avanti fino alla successiva scelta della finestra di dialogo, se presente.
+Screen/&SkipButtonTitle	Salta
+Screen/&SpellAdvancementCloseDescription	Chiudi l'opzione di avanzamento degli incantesimi.
+Screen/&SpellAdvancementOpenDescription	Fai clic per lanciare questo incantesimo con uno slot incantesimo di livello superiore.
+Screen/&SpellAttackBonusDescription	Il bonus aggiunto ai tiri per colpire degli incantesimi.
+Screen/&SpellAttackBonusTitle	Bonus attacco incantesimo
+Screen/&SpellAutoSelectButtonTitle	Auto selezione
+Screen/&SpellcastingAbilityDescription	Il punteggio di caratteristica utilizzato per lanciare i tuoi incantesimi e determinarne l'efficacia.
+Screen/&SpellcastingAbilityTitle	Capacità di incantesimo
+Screen/&SpellcastingClassTitle	Classe di incantesimo
+Screen/&SpellLevelCantripShortTitle	C
+Screen/&SpellResetButtonTitle	Ripristina
+Screen/&SpellSaveDCDescription	La classe di difficoltà dei tuoi incantesimi. Maggiore è la CD, più duro sarà il tiro salvezza del bersaglio.
+Screen/&SpellSaveDCTitle	CD del salvataggio dell'incantesimo
+Screen/&SpellsGroupCantripsTitle	A Will
+Screen/&SpellsGroupSlotsTitle	Slot
+Screen/&SpellSlotInfiniteDescription	Questo tipo di incantesimo può essere utilizzato indefinitamente.
+Screen/&SpellSlotsRecoveredDescription	Tutti gli slot degli incantesimi vengono recuperati.
+Screen/&SpellSlotsRecoveredTitle	Spell Slots
+Screen/&SpellSlotsUsedAllDescription	Hai speso tutti gli slot incantesimo di questo livello.
+Screen/&SpellSlotsUsedAllLevelsDescription	Non hai slot disponibili per lanciare questo incantesimo.
+Screen/&SpellSlotsUsedNoneDescription	Non hai speso alcuno slot incantesimo di questo livello.
+Screen/&SpellSlotsUsedSomeDescription	Hai speso {0} slot incantesimo di questo livello.
+Screen/&StageFinishButtonCreationDescription	Completa il processo di creazione del personaggio.
+Screen/&StageFinishButtonLevelUpDescription	Completa il processo di aumento di livello del personaggio.
+Screen/&StageFinishButtonTitle	finire
+Screen/&StageNextButtonCreationDescription	Procedi al passaggio successivo della creazione del personaggio.
+Screen/&StageNextButtonLevelUpDescription	Procedi al passaggio di livello del personaggio successivo.
+Screen/&StageNextButtonTitle	Avanti
+Screen/&StagePreviousButtonCreationDescription	Torna al passaggio precedente di creazione del personaggio.
+Screen/&StagePreviousButtonLevelUpDescription	Torna al passaggio di livello del personaggio precedente.
+Screen/&StagePreviousButtonTitle	Precedente
+Screen/&StartGameButtonDescription	Fare clic per avviare il gioco con le opzioni selezionate.
+Screen/&StartGameButtonTitle	Inizia il gioco
+Screen/&StartLongRestTitle	Inizia il riposo lungo
+Screen/&StartShortRestTitle	Inizia breve riposo
+Screen/&SubclassFeaturesTitle	Caratteristiche
+Screen/&SubclassPreviewFormat	Visualizza le scelte di sottoclasse concesse al livello {0}.
+Screen/&SubclassPreviewHeaderFormat	Queste sottoclassi sono concesse al livello {0}.
+Screen/&SubRaceSelectionTitle	Seleziona una discendenza
+Screen/&SubRacialFeaturesTitle	Caratteristiche del lignaggio
+Screen/&SwitchConfiguration0Title	Primario
+Screen/&SwitchConfiguration1Title	Secondario
+Screen/&SwitchConfiguration2Title	Fonte di luce
+Screen/&SwitchConfigurationDescription	Fare clic per passare gli articoli equipaggiati a questa configurazione: {0}.
+Screen/&SwitchConfigurationDualItemFormat	{0} + {1}
+Screen/&SwitchConfigurationNoItemFormat	nessun oggetto tenuto
+Screen/&ToolTypeInspectionTitle	Padronanza degli strumenti
+Screen/&ToolTypeSelectionTitle	Seleziona Strumenti
+Screen/&TotalBalanceClearAllDescription	Cancella l'intera transazione.
+Screen/&TotalBalanceClearAllTitle	Cancella tutto
+Screen/&TotalBalanceConcludeDescription	Completa la transazione e paga / riscuoti gli importi appropriati.
+Screen/&TotalBalanceConcludeTitle	Concludere
+Screen/&TotalBalanceCostTitle	Voi pagate:
+Screen/&TotalBalanceGainTitle	Guadagni:
+Screen/&TotalBalanceTitle	Totale
+Screen/&TotalCostTitle	Costo totale
+Screen/&TotalRevenueTitle	Entrate totali
+Screen/&TrackedQuestDescription	Questa missione è attualmente tracciata e visualizzata nella schermata principale del gioco.
+Screen/&TrackQuestDescription	Fare clic per avviare / interrompere il monitoraggio di questa missione e seguirla nella schermata principale.
+Screen/&TrackQuestTitle	Track Quest
+Screen/&TrainedSkillTooltipSuffix	Sei addestrato a usare questa abilità (aggiungi il tuo bonus di competenza).
+Screen/&TrainedToolTypeTooltipSuffix	Sei addestrato a usare questo tipo di strumento (aggiungi il tuo bonus di competenza).
+Screen/&TravelFatigueDescription	La festa accumula fatica navigando sulla mappa del mondo. Un lungo riposo recupera i punti di fatica.
+Screen/&TravelFatigueTitle	Fatica
+Screen/&TravelFoodDescription	Quanto cibo porta la tua festa. Hai bisogno di un'unità per personaggio per riposo lungo.
+Screen/&TravelFoodMultipleFormat	{0} unità
+Screen/&TravelFoodSingleFormat	{0} unità
+Screen/&TravelFoodTitle	Cibo
+Screen/&TravelInterruptDescription	Interrompe il viaggio in corso.
+Screen/&TravelInterruptTitle	Interrompere
+Screen/&TravelJournalDescription	Apre il diario di viaggio per visualizzare gli eventi che si sono verificati durante il viaggio.
+Screen/&TravelJournalTitle	Diario di viaggio
+Screen/&TravelResumeDescription	Riprende il viaggio in corso.
+Screen/&TravelResumeTitle	Curriculum vitae
+Screen/&TreasuryPoolDescription	VUOTO
+Screen/&TreasuryPoolTitle	VUOTO
+Screen/&TreasuryShareDescription	VUOTO
+Screen/&TreasuryShareTitle	VUOTO
+Screen/&TreasuryTitle	Ricchezza personale
+Screen/&TutorialTitleFormat	Tutorial: {0}
+Screen/&TutorialUnderstoodDescription	Chiudi questo pannello se hai capito.
+Screen/&TutorialUnderstoodTitle	Inteso
+Screen/&UnlockedClassFeaturesTitle	Privilegi di classe sbloccati
+Screen/&UntrackQuestTitle	Untrack Quest
+Screen/&UsablePowerPermanentTitle	Questo potere è sempre attivo.
+Screen/&UsablePowerPermanentUnlessIncapacitatedTitle	Questo potere è sempre attivo a meno che la creatura non sia inabile.
+Screen/&UsablePowersTitle	Utilizzabile\nPoteri
+Screen/&WorldMapTitle	Mappa del mondo
+Screen/&ReorderContainerButtonDescription	Riordina i contenuti dell'inventario
+Screen/&FastTravelInterruptedDescription	Viaggio interrotto
+Screen/&DialogChoiceBackgroundDescription	Lo sfondo di questo personaggio consente una risposta specifica
+Screen/&GamePausedTopTitle	Gioco in pausa
+Screen/&GamePausedTopDescription	Premere il pulsante "Riproduci" o la barra spaziatrice per riattivare.
+Screen/&GameSettingsTitle	Impostazioni di gioco
+Screen/&GroupLeaderDescription	Non più utilizzato
+Screen/&JournalBestiaryChallengeTitle	Sfida
+Screen/&InventoryMagicalUnidentifiedDescription	Questo oggetto ha proprietà magiche che richiedono l'identificazione (incantesimo o mercante) per essere completamente rivelato
+Screen/&MerchantDetectMagicNothingNewDescription	Non sono stati rilevati nuovi oggetti magici
+Screen/&ReviewGameDescription	Grazie per aver giocato a Solasta! Clicca qui per aprire l'interfaccia e lasciare una recensione. Tanto amore!
+Screen/&ReviewGameTitle	Recensisci il gioco
+Screen/&DashModeDescriptionMainLabelTitle	Il tuo raggio di movimento è ora aumentato, al costo della tua azione principale. Fare clic all'interno del normale intervallo non utilizzerà il trattino e manterrà la tua azione principale.
+Screen/&DashModeDescriptionBonusLabelTitle	Il tuo raggio di movimento è ora aumentato, al costo della tua azione bonus. Fare clic all'interno del normale raggio d'azione non utilizzerà il trattino e manterrà la tua azione bonus.
+Screen/&DashModeTitle	Dashing
+Screen/&DataCorruptionTitle	Errore: caricamento non riuscito
+Screen/&DataCorruptionDescription	Il gioco non è stato caricato correttamente. Verifica l'integrità dei tuoi file di gioco.\nMaggiori informazioni sui nostri forum:
+Screen/&AutoLootInstructionDoubleClickDescription	Fai doppio clic su un oggetto per il bottino automatico.
+Screen/&ProximityLootInstructionDescription	Fai clic su un oggetto per saccheggiarlo nell'inventario del personaggio selezionato.
+Screen/&SplitItemTitle	Diviso
+Screen/&SplitItemDescription	Seleziona un numero di unità per questa pila di oggetti.
+Screen/&PartyTreasuryTitle	Ricchezza del partito
+Screen/&ProximityLootHeaderFormat	Saccheggio di oggetti di terra all'interno di {0} celle.
+Screen/&ReorderContainerButtonTitle	Riordina
+Screen/&PartyTeleportationDescription	Seleziona una destinazione per teletrasportare istantaneamente il tuo gruppo.
+Screen/&PartyTeleportationTitle	Teletrasporto di gruppo
+Screen/&TeleportTitle	Teletrasporto
+Screen/&NoScavengerBusinessCurrentlyTitle	Nessun affare in corso con gli Scavengers.
+Screen/&EnemyTurnTitle	Il turno del nemico
+Screen/&BreakFreeModeChoiceTitle	Seleziona come liberarti:
+Screen/&BreakFreeModeAthleticsFormat	STR (atletica leggera) {0}
+Screen/&BreakFreeModeAthleticsDescription	Tira una prova di abilità STR (atletica leggera) per liberarti.
+Screen/&BreakFreeModeAcrobaticsFormat	DEX (acrobazie) {0}
+Screen/&BreakFreeModeAcrobaticsDescription	Tira una prova di abilità DEX (Acrobatica) per liberarti.
+Screen/&ColorCalibrationInstructionsDescription	Regola la luminosità e il contrasto fino a quando entrambe le linee dei cinque sigilli sono visibili, con il sigillo più a sinistra appena visibile.
+Screen/&LegendaryActionTitle	Azione leggendaria
+Screen/&EditorLocationVisualMoodTitle	Stato d'animo visivo
+Screen/&JournalBestiaryPowersTitle	Caratteristiche speciali
+Screen/&CraftDescription	Apri l'interfaccia di creazione.
+Screen/&CraftTitle	Craft
+Screen/&AttunementRemoveDescription	Rimuovi l'attivazione su questo oggetto in modo che il personaggio possa sintonizzarsi su altri oggetti.
+Screen/&NewQuestContentDescription	Il registro delle missioni è stato aggiornato
+Screen/&NewBestiaryContentDescription	Il bestiario è stato aggiornato
+Screen/&InventoryCannotDropPersonalSpellbookDescription	Non puoi eliminare un libro degli incantesimi personale dall'inventario del tuo gruppo.
+Screen/&InventoryCannotTransferPersonalSpellbookDescription	Non puoi trasferire un libro degli incantesimi personale a un altro personaggio.
+Screen/&InventoryCannotSellPersonalSpellbookDescription	Non puoi vendere il tuo libro degli incantesimi personale.
+Screen/&PreferredCantripNoneTitle	Nessuna
+Screen/&PreferredCantripNoneDescription	Nessun trucchetto è selezionato, quindi verrà utilizzato il primo trucchetto di attacco valido.
+Screen/&PreferredCantripTitle	Cantrip preferito
+Screen/&PreferredCantripDescription	Ti permette di selezionare il tuo cantrip d'attacco preferito per l'azione Ready Cantrip. Se questo trucchetto non è utilizzabile quando viene attivata l'azione preparata (fuori intervallo, ad esempio), verrà selezionato un altro trucchetto valido.
+Screen/&AbortTravelButtonTitle	Interrompi viaggio nella posizione successiva
+Screen/&AbortTravelButtonDescription	Invece di viaggiare verso la destinazione finale, il gruppo si fermerà nella posizione successiva in modo che tu possa tracciare un percorso alternativo.
+Screen/&MarkDeityTitle	Mark Deity
+Screen/&MarkDeityDescription	Dipingi o scolpisci il tuo simbolo della divinità su questo oggetto, in modo che possa essere usato come componente materiale per gli incantesimi e persino rimuovere il requisito della mano libera per gli incantesimi somatici con una componente materiale.
+Screen/&EditorSaveTitle	Salva
+Screen/&EditorUndoTitle	Disfare
+Screen/&EditorCategoryLocationTitle	Posizione
+Screen/&EditorCategoryRoomDescription	Schemi delle stanze disponibili
+Screen/&EditorCategoryPropDescription	Schemi degli oggetti disponibili
+Screen/&EditorCategoryGadgetDescription	Cianografie gadget disponibili
+Screen/&EditorLocationTitleTitle	Titolo
+Screen/&EditorLocationDescriptionTitle	Descrizione
+Screen/&EditorLocationAuthorTitle	Autore
+Screen/&EditorLocationMinCharLevelTitle	Min. Livello del personaggio
+Screen/&EditorLocationMaxCharLevelTitle	Max. Livello del personaggio
+Screen/&EditorLocationEnvironmentTitle	Ambiente
+Screen/&EditorLocationSizeTitle	Dimensione
+Screen/&EditorLocationSizeSmallTitle	Piccolo
+Screen/&EditorLocationSizeMediumTitle	medio
+Screen/&EditorLocationSizeLargeTitle	Grande
+Screen/&EditorLocationMusicTitle	Musica ambientale
+Screen/&EditorCaptionXTitle	X
+Screen/&EditorCaptionYTitle	Y
+Screen/&EditorCaptionOrientationTitle	Orientamento
+Screen/&EditorCaptionCancelButtonTitle	Annulla
+Screen/&EditorCaptionCancelButtonDescription	Annulla la selezione dell'elemento corrente
+Screen/&EditorCaptionMoveButtonTitle	Mossa
+Screen/&EditorCaptionMoveButtonDescription	Sposta questo elemento trascinando il mouse
+Screen/&EditorCaptionRotateButtonTitle	Ruotare
+Screen/&EditorCaptionRotateButtonDescription	Ruota l'elemento selezionato di 90 ° in senso orario
+Screen/&EditorCaptionDeleteButtonTitle	Elimina
+Screen/&EditorCaptionDeleteButtonDescription	Elimina l'elemento selezionato
+Screen/&MonsterSelectionTitle	Seleziona una creatura
+Screen/&MonsterSortAlphabeticalTitle	Nome
+Screen/&MonsterSortAlphabeticalDescription	Ordina per nome del mostro
+Screen/&MonsterSortCRTitle	Sfida
+Screen/&MonsterSortCRDescription	Ordina per livello di sfida dei mostri
+Screen/&ItemSortAlphabeticalTitle	Nome
+Screen/&ItemSortAlphabeticalDescription	Ordina per nome elemento
+Screen/&ItemSortValueTitle	Costo
+Screen/&ItemSortValueDescription	Ordina per costo articolo
+Screen/&LootPackSelectionTitle	Seleziona un pacchetto bottino
+Screen/&ItemSelectionTitle	Seleziona un oggetto
+Screen/&TrapEffectSelectionTitle	Seleziona un effetto trappola
+Screen/&LocationSavedDescription	Contenuto salvato
+Screen/&ClearElementTitle	Chiaro
+Screen/&ClearElementDescription	Cancella la voce di database selezionata
+Screen/&FeatureUnavailableTitle	Non disponibile, presto disponibile
+Screen/&EditorSettingsTitle	impostazioni
+Screen/&EditorSettingsDescription	Modifica le impostazioni della posizione dell'utente (nome, descrizione, ecc.)
+Screen/&EditorSaveDescription	Salva questa posizione utente su disco ({0})
+Screen/&EditorUndoDescription	Annulla l'ultima modifica ({0})
+Screen/&EditorPrevisTitle	Anteprima
+Screen/&EditorPrevisDescription	Prevualizza il rendering della posizione in una finestra separata (disponibile a breve)
+Screen/&MoveShortcutFormat	Sposta ({0})
+Screen/&RotateShortcutFormat	Ruota ({0})
+Screen/&CopyShortcutFormat	Copia ({0})
+Screen/&DeleteShortcutFormat	Elimina ({0})
+Screen/&EditorLibraryTitle	Biblioteca
+Screen/&EditorCategoryRoomTitle	Camere
+Screen/&EditorCategoryPropTitle	Puntelli
+Screen/&EditorCategoryGadgetTitle	Gadget
+Screen/&EditorCaptionPositionTitle	Posizione
+Screen/&EditorCaptionCopyButtonTitle	Duplicare
+Screen/&EditorCaptionCopyButtonDescription	Duplica l'elemento selezionato
+Screen/&BackDungeonMakerTitle	Dungeon Maker
+Screen/&BackDungeonMakerDescription	Apre Dungeon Maker per riprendere la modifica di questa posizione
+Screen/&EditorLocationSwitchDescription	Fare clic per passare a questa posizione utente
+Screen/&EditorLocationAuthorVersionTitle	Versione
+Screen/&UserLocationsPublishButtonDescription	Pubblica la tua posizione su Steam Workshop
+Screen/&UserLocationsPublishingWorshopLegalLabel	Inviando questo articolo, accetti i termini di servizio dell'officina.
+Screen/&UserLocationsPublishingWorshopLegalLinkLabel	Leggi i termini di servizio qui.
+Screen/&UserLocationsPublishedItemLinkLabel	Sfoglia l'elemento pubblicato.
+Screen/&UserLocationsPublishHeaderTitle	Pubblica posizione
+Screen/&UserLocationsPublishingLabel	La pubblicazione della posizione è iniziata. Attendere prego.
+Screen/&UserLocationsPublishWaitingLabel	La nuova posizione verrà pubblicata.
+Screen/&UserLocationsUpdateWaitingLabel	La posizione esistente verrà aggiornata.
+Screen/&UserLocationsPublishingFailedLabel	Impossibile pubblicare la posizione.
+Screen/&UserLocationsPublishingFailedReasonLabelFormat	Impossibile pubblicare una nuova posizione.\nErrore {0}.
+Screen/&UserLocationsUpdatingFailedReasonLabelFormat	Impossibile aggiornare i dati della posizione esistente.\nErrore {0}.
+Screen/&UserLocationsItemPublishedLabelFormat	La posizione dell'utente è stata creata nell'officina. Aggiornamento del contenuto della posizione. Attendere prego.
+Screen/&UserLocationsItemUpdatedLabelFormat	Posizione dell'utente pubblicata correttamente. Congratulazioni!
+Screen/&CheatsButtonTitle	Trucchi
+Screen/&CheatsButtonDescription	Apre i trucchi del playtest di Dungeon Maker. {0}
+Screen/&EditorFoldAllButtonTitle	Piega tutto
+Screen/&EditorFoldAllButtonDescription	Comprimi tutte le cartelle di questa libreria
+Screen/&EditorUnfoldAllButtonTitle	Apri tutto
+Screen/&EditorUnfoldAllButtonDescription	Apri tutte le cartelle di questa libreria
+Screen/&EditorCustomDimensionsTitle	Dimensioni personalizzate
+Screen/&EditorCustomDimensionsDescription	Questo gadget può essere impostato con dimensioni personalizzate. Seleziona il tuo valore preferito
+Screen/&EditorCustomDimensionsWidthTitle	Larghezza
+Screen/&EditorCustomDimensionsHeightTitle	Altezza
+Screen/&KnudgeNorthShortcutFormat	Spingi verso nord ({0})
+Screen/&KnudgeEastShortcutFormat	Spingi a est ({0})
+Screen/&KnudgeSouthShortcutFormat	Spingi a sud ({0})
+Screen/&KnudgeWestShortcutFormat	Spingi verso ovest ({0})
+Screen/&EditorCaptionPositionFormat	X: {0}, Y: {1}
