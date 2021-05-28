@@ -1239,3 +1239,15 @@ Quest/&Conjuration_Quest_Arena_03b_LeaveArenaAfter4thRoundDescription	You have d
 Quest/&Conjuration_Quest_Arena_03b_LeaveArenaAfter4thRound_Outcome1Description	You finally exited this insane battle arena.
 Quest/&Tutorial_04_Quest_Stealth_EnterSecondCourtyardDescription	You're almost there. According to Liam, there is an access point in the next courtyard if you can cross the fountain and pass the quartermaster.
 Quest/&Tutorial_04_Quest_Stealth_EnterSecondCourtyard_Outcome1Description	You have entered the final courtyard and gained access to the window near the treasure room.
+Quest/&Quest_Background_Spy_Infiltrate	
+Quest/&Quest_Background_Spy_Optional_Go	
+Quest/&Quest_Background_Spy_Optional_Talk	
+Quest/&Quest_Background_Spy_Plant	
+Quest/&Quest_Background_Spy_Reconnect	
+Quest/&Tutorial_01_Quest_Escape	
+Quest/&Tutorial_01_Quest_Open	
+Quest/&Tutorial_01_Quest_Push	
+Quest/&Tutorial_01_Quest_Reach	
+Quest/&Tutorial_01_Quest_Take	
+Quest/&Tutorial_03_Quest_Enter	
+Quest/&Tutorial_03_Quest_Find	

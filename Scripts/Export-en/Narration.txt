@@ -6292,3 +6292,4 @@ Narration/&ConjurationQuest_Servants_17_CynicOrElse_Normal	Famous last words!
 Narration/&TextOnlyNPCSpeech_Lowlife_Thug01	Get the sword!
 Narration/&Council4_8_Any_Default	We have six gems, but we can't seem to find the others.
 Narration/&Council4_9_Gormsdottir_NPC	Two gems missing?
+Narration/&Banter_Abjuration_Coparann_	
