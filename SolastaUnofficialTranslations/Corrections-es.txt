@@ -1,0 +1,28 @@
+próximo	siguiente
+Cerca	Cerrar
+Gravamen	Carga
+truco de luz 	hechizo de luz 
+Dejar	Salir
+Utilizar artículo	Usar objeto
+Cauteloso	Sigilo
+Saquear todos	Coger todo
+coloque el mouse	coloque el ratón
+Herramientas de ladrones	Herramientas de ladrón
+Si intentas abrir o trabar	Si intentas abrir o forzar
+Ahorrar	Guardar
+Combatiente	Guerrero
+Caracteres	Personajes
+Creador de mazmorras	Editor de Mazmorras
+Revisa el juego	Pon una Reseña
+Intimidad	Privacidad
+Altruismo	Altruista
+Egoísmo	Egoísta
+Pragmatismo	Pragmático
+Riqueza del partido	Tesoro de grupo
+Vida falsa	Vida Prestada
+Tú compraste	Vas a comprar
+Vendes	Vas a vender
+La fiesta pierde	El grupo pierde 
+Elevar a mismo nivel	Subir de nivel
+Correo en cadena	Cota de Malla
+Escala de correo	Cota de placas
