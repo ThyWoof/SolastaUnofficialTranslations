@@ -71,15 +71,15 @@ Feature/&ClericArmorProficiencyTitle	Competenze nelle armature da chierico
 Feature/&ClericChannelDivinityAddDescription	+1 uso della Divinità del canale tra le pause.
 Feature/&ClericChannelDivinityAddTitle	Divinità incanalata (aumentata)
 Feature/&ClericChannelDivinityDescription	Può usare le azioni Incanalare Divinità una volta tra le pause.
-Feature/&ClericChannelDivinityTitle	Channel Divinity
+Feature/&ClericChannelDivinityTitle	Incalare Dività
 Feature/&ClericDivineDomainsDescription	Scegli uno dei domini divini concessi dalla tua divinità.
 Feature/&ClericDivineDomainsTitle	Domini divini
 Feature/&ClericSkillPointsTitle	Abilità del chierico
 Feature/&ClericSpellcastingTitle	Incantesimo da Chierico
 Feature/&ClericToolsDescription	Sei stato addestrato a scrivere pergamene magiche.
-Feature/&ClericToolsTitle	Scribing a scorrimento
-Feature/&ClericTurnUndeadShortTitle	Diventa non morto
-Feature/&ClericTurnUndeadTitle	Channel Divinity: Turn Undead
+Feature/&ClericToolsTitle	Scrivere pergamene
+Feature/&ClericTurnUndeadShortTitle	Scacciare i non Morti
+Feature/&ClericTurnUndeadTitle	Incalare Dività: Scacciare Non Morti
 Feature/&ClericTurnUndeadDescription	Incanalare Divinità per costringere le creature non morte entro 6 caselle che possono vederti a fuggire, a meno che non effettuino con successo un tiro salvezza su Saggezza.
 Feature/&ClericWeaponProficiencyTitle	Competenze nelle armi da chierico
 Feature/&ConditionAttackOfOpportunityImmunityTitle	Immune agli attacchi di opportunità
@@ -130,14 +130,14 @@ Feature/&DomainElementalDomainSpellsTitle	Incantesimi del dominio elementale
 Feature/&DomainElementalFireBonusCantripTitle	Bonus Trucchetto (Fuoco)
 Feature/&DomainElementalFireBurstDescription	Incanalare Divinità per causare 3d8 danni da fuoco a un bersaglio entro 12 caselle. Un tiro salvezza su Destrezza riuscito dimezza i danni.
 Feature/&DomainElementalFireBurstShortTitle	Scoppio di fuoco
-Feature/&DomainElementalFireBurstTitle	Channel Divinity: Fire Burst
-Feature/&DomainElementalFirePrimalHarmonyTitle	Primal Harmony (Fire)
-Feature/&DomainElementalIceLanceDescription	Usa Channel Divinity su un bersaglio entro 12 caselle. Il bersaglio deve effettuare un tiro salvezza su Destrezza o essere allontanato da 2 caselle e subire 2d8 danni da freddo.
+Feature/&DomainElementalFireBurstTitle	Incalare Dività: Scoppio di fuoco
+Feature/&DomainElementalFirePrimalHarmonyTitle	Armatura Primoldiale (Fuoco)
+Feature/&DomainElementalIceLanceDescription	Usa Incalare Dività su un bersaglio entro 12 caselle. Il bersaglio deve effettuare un tiro salvezza su Destrezza o essere allontanato da 2 caselle e subire 2d8 danni da freddo.
 Feature/&DomainElementalIceLanceShortTitle	Lancia di ghiaccio
 Feature/&DomainElementalIceLanceTitle	Divinità del canale: Lancia di ghiaccio
 Feature/&DomainElementalLightningBladeDescription	Incanalare Divinità per causare 1d8 danni da fulmine a un bersaglio entro 12 caselle. Se fallisce il tiro salvezza su Destrezza, anche il bersaglio rimane stordito fino alla fine del suo turno successivo.
 Feature/&DomainElementalLightningBladeShortTitle	Lama fulminante
-Feature/&DomainElementalLightningBladeTitle	Channel Divinity: Lightning Blade
+Feature/&DomainElementalLightningBladeTitle	Incalare Dività: Lama fulminante
 Feature/&DomainElementalLightningBonusCantripTitle	Bonus Trucchetto (Fulmine)
 Feature/&DomainElementalLightningPrimalHarmonyTitle	Armonia Primordiale (Fulmine)
 Feature/&DomainInsightDivineEyeDescription	Vantaggio per rilevare trappole, porte nascoste e oggetti
@@ -146,7 +146,7 @@ Feature/&DomainInsightDivineIntuitionDescription	Vantaggio sulle prove di abilit
 Feature/&DomainInsightDivineIntuitionTitle	Divina intuizione
 Feature/&DomainInsightForeknowledgeDescription	Canalizza Divinity per vedere il futuro immediato e schivare meglio gli attacchi del tuo nemico. Per 1 minuto, il primo attacco (tranne la spinta) effettuato contro di te dopo il tuo turno subisce uno svantaggio.
 Feature/&DomainInsightForeknowledgeShortTitle	Preconoscenza
-Feature/&DomainInsightForeknowledgeTitle	Channel Divinity: Foreknowledge
+Feature/&DomainInsightForeknowledgeTitle	Incalare Dività: Preconoscenza
 Feature/&DomainInsightInspiredDiplomatDescription	Conosci sempre le probabilità quando scegli tra le scelte di dialogo che includono un controllo abilità (persuasione, inganno o intimidazione).
 Feature/&DomainInsightInspiredDiplomatTitle	Diplomatico ispirato
 Feature/&DomainLawCommandingPresenceDescription	Competente nell'intimidazione.\nVantaggio sui controlli di intimidazione
@@ -154,10 +154,10 @@ Feature/&DomainLawCommandingPresenceTitle	Presenza imponente
 Feature/&DomainLawDomainSpellsTitle	Incantesimi del Dominio della Legge
 Feature/&DomainLawForceOfLawDescription	Incanalare Divinità quando si lancia un incantesimo di attacco per imporre svantaggio al tiro salvezza del bersaglio.
 Feature/&DomainLawForceOfLawShortTitle	Forza della legge
-Feature/&DomainLawForceOfLawTitle	Channel Divinity: Force of Law
+Feature/&DomainLawForceOfLawTitle	Incalare Dività: Forza della legge
 Feature/&DomainLawHolyRetributionDescription	Quando un attacco in mischia ti danneggia, puoi usare la tua reazione a Incanalare Divinità e contrattaccare usando un'arma da mischia, aggiungendo (2d6 + livello da chierico) danni psichici.
-Feature/&DomainLawHolyRetributionShortTitle	Santa Retribuzione
-Feature/&DomainLawHolyRetributionTitle	Channel Divinity: Holy Retribution
+Feature/&DomainLawHolyRetributionShortTitle	Punizione Sacre
+Feature/&DomainLawHolyRetributionTitle	Incalare Dività: Punizione Sacre
 Feature/&DomainLawUnyieldingEnforcerDescription	Vantaggio sui tiri per resistere a essere spinti o spostati con mezzi magici
 Feature/&DomainLawUnyieldingEnforcerTitle	Enforcer inflessibile
 Feature/&DomainLawWordOfLawDescription	Spezza la concentrazione magica di un nemico
@@ -171,7 +171,7 @@ Feature/&DomainLifeDiscipleOfLifeTitle	Discepolo della vita
 Feature/&DomainLifeDomainSpellsTitle	Incantesimi nel dominio della vita
 Feature/&DomainLifePreserveLifeDescription	Ripristina i punti ferita (5 x livello da chierico) a uno o più alleati entro 6 caselle, fino alla metà dei loro punti ferita massimo.
 Feature/&DomainLifePreserveLifeShortTitle	Preserva la vita
-Feature/&DomainLifePreserveLifeTitle	Channel Divinity: Preserve Life
+Feature/&DomainLifePreserveLifeTitle	Incalare Dività: Preserve Life
 Feature/&DomainOblivionBonusCantripDescription	{0}
 Feature/&DomainOblivionBonusCantripTitle	Bonus Trucchetto
 Feature/&DomainOblivionDomainSpellsTitle	Incantesimi del dominio dell'oblio
@@ -179,7 +179,7 @@ Feature/&DomainOblivionGateKeeperDescription	Finché sei cosciente, tu ei tuoi c
 Feature/&DomainOblivionGateKeeperTitle	Custode del cancello
 Feature/&DomainOblivionHeraldOfPainDescription	Incanala Divinità per causare dolore ai nemici entro 6 celle. I nemici che falliscono un Tiro Salvezza su Saggezza subiscono 1d8 danni necrotici e vengono avvelenati.
 Feature/&DomainOblivionHeraldOfPainShortTitle	Araldo del dolore
-Feature/&DomainOblivionHeraldOfPainTitle	Channel Divinity: Herald of Pain
+Feature/&DomainOblivionHeraldOfPainTitle	Incalare Dività: Herald of Pain
 Feature/&DomainOblivionPeacefulRestDescription	Durante il campeggio, riduce le possibilità di essere attaccati e impedisce di essere sorpresi.
 Feature/&DomainOblivionPeacefulRestTitle	Riposo tranquillo
 Feature/&DomainSpellsDescription	Nella tua lista e sempre preparato:\n{0}
@@ -188,12 +188,12 @@ Feature/&DomainSunBonusCantripTitle	Bonus Trucchetto
 Feature/&DomainSunDomainSpellsTitle	Incantesimi del Dominio del Sole
 Feature/&DomainSunHeraldOfTheSunDescription	Incanalare Divinità per inghiottire un nemico visibile entro 6 caselle con luce radiante, infliggendo 1d8 danni radianti + 2 per livello da chierico (metà del danno su un tiro salvezza di Costituzione riuscito) e causare la condizione di accecamento per 1 minuto (annullato se il tiro salvezza ha avuto successo).
 Feature/&DomainSunHeraldOfTheSunShortTitle	Araldo del sole
-Feature/&DomainSunHeraldOfTheSunTitle	Channel Divinity: Herald of the Sun
+Feature/&DomainSunHeraldOfTheSunTitle	Incalare Dività: Herald of the Sun
 Feature/&DomainSunHolyRadianceDescription	Quando lanci Sacred Flame, il tuo bersaglio ha uno svantaggio al tiro salvezza.
 Feature/&DomainSunHolyRadianceTitle	Holy Radiance
 Feature/&DomainSunIndomitableLightDescription	Incanalare la divinità per evocare una sfera di luce solare, che colpisce le creature sensibili alla luce e nega le aree di oscurità.
 Feature/&DomainSunIndomitableLightShortTitle	Luce indomabile
-Feature/&DomainSunIndomitableLightTitle	Channel Divinity: Indomitable Light
+Feature/&DomainSunIndomitableLightTitle	Incalare Dività: Indomitable Light
 Feature/&DomainSunSoothingHandDescription	Cura un alleato e rimuovi una condizione dannosa.
 Feature/&DomainSunSoothingHandTitle	Mano lenitiva
 Feature/&DwarfHillToughnessDescription	+1 punto ferita per livello
@@ -336,25 +336,25 @@ Feature/&PhilosopherSkillsDescription	Competente in medicina e persuasione.
 Feature/&PhilosopherSkillsTitle	Medico
 Feature/&PhilosopherToolsDescription	Competente con il kit di erboristeria.
 Feature/&PhilosopherToolsTitle	Alchimista
-Feature/&PowerChannelDivinitySubtitle	Channel Divinity
+Feature/&PowerChannelDivinitySubtitle	Incalare Dività
 Feature/&PowerOathOfDevotionSacredWeaponDescription	Incanala Divinità per benedire un'arma. Per 1 minuto, aggiungi il tuo modificatore di Carisma per colpire con quell'arma (minimo +1). L'arma emette anche luce intensa su 4 celle e luce fioca su altre 4 celle, ei suoi attacchi contano come magici.
 Feature/&PowerOathOfDevotionSacredWeaponShortTitle	Arma sacra
 Feature/&PowerOathOfDevotionSacredWeaponTitle	Incanalare Divinity: Sacred Weapon
 Feature/&PowerOathOfDevotionTurnUnholyDescription	Incanalare Divinità per costringere i demoni e i non morti entro 6 caselle che possono vederti a fuggire a meno che non effettuino con successo un tiro salvezza su Saggezza.
 Feature/&PowerOathOfDevotionTurnUnholyShortTitle	Trasforma l'empio
-Feature/&PowerOathOfDevotionTurnUnholyTitle	Channel Divinity: Turn the Unholy
+Feature/&PowerOathOfDevotionTurnUnholyTitle	Incalare Dività: Turn the Unholy
 Feature/&PowerOathOfMotherlandFieryPresenceDescription	Incanalare Divinità per accecare gli avversari entro 12 caselle che falliscono un tiro salvezza su Destrezza. Le creature con scurovisione o una vista migliore nell'oscurità hanno uno svantaggio. La cecità dura 1d4 turni.
 Feature/&PowerOathOfMotherlandFieryPresenceShortTitle	Presenza ardente
-Feature/&PowerOathOfMotherlandFieryPresenceTitle	Channel Divinity: Fiery Presence
+Feature/&PowerOathOfMotherlandFieryPresenceTitle	Incalare Dività: Fiery Presence
 Feature/&PowerOathOfMotherlandFieryWrathDescription	Incanalare Divinità per bersagliare una creatura entro 12 caselle, infliggendo (2d6 + livello da paladino) danni da fuoco e incendiando il bersaglio. Può effettuare una prova di Destrezza con CD 10 per spegnere il fuoco o subire 1d6 danni da fuoco in più per turno per un minuto.
 Feature/&PowerOathOfMotherlandFieryWrathShortTitle	Ira ardente
-Feature/&PowerOathOfMotherlandFieryWrathTitle	Channel Divinity: Fiery Wrath
+Feature/&PowerOathOfMotherlandFieryWrathTitle	Incalare Dività: Fiery Wrath
 Feature/&PowerOathOfTirmarGoldenSpeechDescription	Incanala Divinità per ottenere vantaggio alle prove di persuasione e intimidazione per un'ora.
 Feature/&PowerOathOfTirmarGoldenSpeechShortTitle	Discorso d'oro
-Feature/&PowerOathOfTirmarGoldenSpeechTitle	Channel Divinity: Golden Speech
+Feature/&PowerOathOfTirmarGoldenSpeechTitle	Incalare Dività: Golden Speech
 Feature/&PowerOathOfTirmarSmiteTheHiddenDescription	Incanalare Divinità per infliggere 1d6 danni radianti aggiuntivi agli attacchi che colpiscono gli avversari con mutaforma naturale o Scurovisione (2d6 se entrambi). L'effetto dura 1 minuto.
 Feature/&PowerOathOfTirmarSmiteTheHiddenShortTitle	Flagello degli Nascosti
-Feature/&PowerOathOfTirmarSmiteTheHiddenTitle	Channel Divinity: Scourge of the Hidden
+Feature/&PowerOathOfTirmarSmiteTheHiddenTitle	Incalare Dività: Scourge of the Hidden
 Feature/&PowerReckless_Description	Vantaggio sui tiri per colpire in mischia, ma i nemici hanno anche vantaggio sui tiri per colpire contro una creatura spericolata.
 Feature/&PowerReckless_Title	Avventato
 Feature/&PowerStandardSubtitle	Energia
@@ -661,7 +661,7 @@ Feature/&PowerClericDivineInterventionTitle	Intervento divino
 Feature/&PowerClericDivineInterventionDescription	Tenti di richiedere l'aiuto della tua divinità, con una probabilità di successo dell'1% per livello da chierico.
 Feature/&ThiefSupremeSneakTitle	Supreme Sneak
 Feature/&ThiefSupremeSneakDescription	Hai vantaggio sulle prove di abilità DEX (Furtività).
-Feature/&ClericTurnUndeadAdvancedTitle	Turn Undead (Destroy)
+Feature/&ClericTurnUndeadAdvancedTitle	Scacciare Non Morti (Destroy)
 Feature/&ClericTurnUndeadAdvancedDescription	Incanalare Divinità per costringere le creature non morte entro 6 caselle che possono vederti a fuggire, a meno che non effettuino con successo un tiro salvezza su Saggezza.\nLe creature non morte con un valore di sfida di {0} o inferiore che falliscono il tiro salvezza vengono invece distrutte.
 Feature/&ShadowRetributionTitle	Shadow Retribution
 Feature/&ShadowRetributionDescription	Se sei bersaglio di un incantesimo dannoso, che ti danneggi o meno, puoi lanciare un trucchetto in reazione al lanciatore.

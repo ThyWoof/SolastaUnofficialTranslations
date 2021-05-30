@@ -400,3 +400,6 @@ Spell/&CalmEmotionsOnEnemyDescription	Makes enemies indifferent to your allies u
 Spell/&Spell_Flameblade_Title	Flame Blade
 Spell/&Spell_Flameblade_Description	Evokes a fiery blade for ten minutes that you can wield in battle.
 Spell/&GustOfWindDescription	A line of strong wind blasts from you in the direction of your choice for the spell's duration.
+Spell/&Create	
+Spell/&Floating	
+Spell/&Purify	

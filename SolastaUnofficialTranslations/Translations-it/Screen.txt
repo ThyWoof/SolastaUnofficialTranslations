@@ -66,7 +66,7 @@ Screen/&ClassHitDiceTitle	Dadi Vita
 Screen/&ClassOrMarkerTitle	O
 Screen/&ClassSelectionTitle	Seleziona una classe
 Screen/&ClearFiltersTitle	Cancella filtri
-Screen/&CloseTitle	Vicino
+Screen/&CloseTitle	Successivo
 Screen/&CompletedQuestsListTitle	Missioni completate
 Screen/&ConfigurationHeaderTitle	Configurazione degli articoli equipaggiati
 Screen/&ContainerSpaceDescription	Gli oggetti occupano una quantità di spazio e i contenitori (zaini, buste) possono contenere solo oggetti fino a un limite di spazio.
@@ -182,7 +182,7 @@ Screen/&GameMenuButtonDescription	Apre il menu di gioco.
 Screen/&GameMenuTitle	Menù
 Screen/&GamePausedTitle	In pausa
 Screen/&HitDiceItemStatusDeadTitle	Morto
-Screen/&HitDiceItemStatusFullHPTitle	HP completo
+Screen/&HitDiceItemStatusFullHPTitle	PF completo
 Screen/&HitDiceItemStatusOutofHDTitle	Vuoto
 Screen/&HitDiceItemStatusRollTitle	Roll
 Screen/&HitDiceItemStatusUnconsciousTitle	Inconscio
@@ -311,9 +311,9 @@ Screen/&NewClassSelectionTitle	Oppure fai clic per aggiungere una nuova classe a
 Screen/&NewGameScreenTitle	Nuovo gioco
 Screen/&NewRecipeTitle	Nuova opzione di creazione!
 Screen/&NextClassFeaturesTitle	Privilegi di classe successiva
-Screen/&NextPageTitle	Il prossimo
+Screen/&NextPageTitle	Avanti
 Screen/&NextTutorialStepDescription	Visualizza il passaggio successivo del tutorial.
-Screen/&NextTutorialStepTitle	Il prossimo
+Screen/&NextTutorialStepTitle	Avanti
 Screen/&NoContainerTitle	Questo personaggio non è equipaggiato con alcuno zaino o oggetto contenitore nello slot "Indietro".
 Screen/&NoCraftingOptionsTitle	Il tuo gruppo non ha ancora opzioni di creazione.
 Screen/&OpenGamingLicenseButtonDescription	Visualizza la licenza completa del gioco aperto e il documento di riferimento del sistema
@@ -324,7 +324,7 @@ Screen/&OpentRestButtonDescription	Riposati brevemente.
 Screen/&ParticipantNameFormat	Giocatore: {0}
 Screen/&ParticipantsTitle	Partecipanti
 Screen/&PartyJournalButtonDescription	Apre la schermata del diario per accedere al registro delle avventure, alle missioni, alle voci dei mostri, alle relazioni di fazione e ad altre informazioni sui progressi del gruppo.
-Screen/&PartyJournalButtonTitle	rivista
+Screen/&PartyJournalButtonTitle	Diario
 Screen/&PassTitle	Passaggio
 Screen/&PauseDescription	Metti in pausa il flusso del tempo.
 Screen/&PauseTitle	Pausa
@@ -422,7 +422,7 @@ Screen/&RestModuleRecoveredFeaturesInstructionAfterRestTitle	Hai recuperato le s
 Screen/&RestModuleRecoveredFeaturesInstructionBeforeRestTitle	Al termine del riposo, recupererai queste funzionalità:
 Screen/&RestModuleRecoveredFeaturesNoneTitle	Nessuna
 Screen/&ResumeDescription	Chiudi questo pannello e riprendi il gioco.
-Screen/&ResumeTitle	Curriculum vitae
+Screen/&ResumeTitle	Riprendi
 Screen/&ReviveCastSpellFormat	Trasmetti {0}
 Screen/&ReviveItemSpellSubtitlePluralFormat	({0} {1} slot rimanenti)
 Screen/&ReviveItemSpellSubtitleSingleFormat	({0} {1} slot rimanente)
@@ -514,7 +514,7 @@ Screen/&StageFinishButtonLevelUpDescription	Completa il processo di aumento di l
 Screen/&StageFinishButtonTitle	finire
 Screen/&StageNextButtonCreationDescription	Procedi al passaggio successivo della creazione del personaggio.
 Screen/&StageNextButtonLevelUpDescription	Procedi al passaggio di livello del personaggio successivo.
-Screen/&StageNextButtonTitle	Il prossimo
+Screen/&StageNextButtonTitle	Avanti
 Screen/&StagePreviousButtonCreationDescription	Torna al passaggio precedente di creazione del personaggio.
 Screen/&StagePreviousButtonLevelUpDescription	Torna al passaggio di livello del personaggio precedente.
 Screen/&StagePreviousButtonTitle	Precedente
@@ -568,7 +568,7 @@ Screen/&TreasuryShareTitle	VUOTO
 Screen/&TreasuryTitle	Ricchezza personale
 Screen/&TutorialTitleFormat	Tutorial: {0}
 Screen/&TutorialUnderstoodDescription	Chiudi questo pannello se hai capito.
-Screen/&TutorialUnderstoodTitle	Inteso
+Screen/&TutorialUnderstoodTitle	Capito
 Screen/&UnlockedClassFeaturesTitle	Privilegi di classe sbloccati
 Screen/&UntrackQuestTitle	Untrack Quest
 Screen/&UsablePowerPermanentTitle	Questo potere è sempre attivo.
@@ -586,10 +586,10 @@ Screen/&JournalBestiaryChallengeTitle	Sfida
 Screen/&InventoryMagicalUnidentifiedDescription	Questo oggetto ha proprietà magiche che richiedono l'identificazione (incantesimo o mercante) per essere completamente rivelato
 Screen/&MerchantDetectMagicNothingNewDescription	Non sono stati rilevati nuovi oggetti magici
 Screen/&ReviewGameDescription	Grazie per aver giocato a Solasta! Clicca qui per aprire l'interfaccia e lasciare una recensione. Tanto amore!
-Screen/&ReviewGameTitle	Rivedi il gioco
+Screen/&ReviewGameTitle	Recensisci il gioco
 Screen/&DashModeDescriptionMainLabelTitle	Il tuo raggio di movimento è ora aumentato, al costo della tua azione principale. Fare clic all'interno del normale intervallo non utilizzerà il trattino e manterrà la tua azione principale.
 Screen/&DashModeDescriptionBonusLabelTitle	Il tuo raggio di movimento è ora aumentato, al costo della tua azione bonus. Fare clic all'interno del normale raggio d'azione non utilizzerà il trattino e manterrà la tua azione bonus.
-Screen/&DashModeTitle	Dashing
+Screen/&DashModeTitle	Scatto
 Screen/&DataCorruptionTitle	Errore: caricamento non riuscito
 Screen/&DataCorruptionDescription	Il gioco non è stato caricato correttamente. Verifica l'integrità dei tuoi file di gioco.\nMaggiori informazioni sui nostri forum:
 Screen/&AutoLootInstructionDoubleClickDescription	Fai doppio clic su un oggetto per il bottino automatico.

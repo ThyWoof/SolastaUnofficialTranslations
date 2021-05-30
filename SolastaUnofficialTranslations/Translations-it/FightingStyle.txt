@@ -5,7 +5,7 @@ FightingStyle/&DefenseTitle	Difesa
 FightingStyle/&DuelingDescription	Quando impugni un'arma da mischia in una mano e nessun'altra arma, ottieni un bonus di +2 ai tiri per i danni con quell'arma.
 FightingStyle/&DuelingTitle	Duello
 FightingStyle/&GreatWeaponDescription	Quando tiri un 1 o 2 su un dado del danno per un attacco che effettui con un'arma da mischia che stai impugnando con due mani, puoi ripetere il tiro del dado. Devi usare il nuovo tiro, anche se è 1 o 2. L'arma deve avere la proprietà a due mani o versatile affinché tu possa ottenere questo beneficio.
-FightingStyle/&GreatWeaponTitle	Grande combattimento con le armi
+FightingStyle/&GreatWeaponTitle	Combattimento con Armi Grandi
 FightingStyle/&ProtectionDescription	Quando una creatura che puoi vedere attacca un bersaglio diverso da te che si trova entro 1,5 metri da te, puoi usare la tua reazione per imporre uno svantaggio al tiro per colpire. Devi brandire uno scudo.
 FightingStyle/&ProtectionTitle	Protezione
 FightingStyle/&TwoWeaponDescription	Quando ti impegni in combattimenti con due armi, puoi aggiungere il tuo modificatore di abilità al danno del secondo attacco.

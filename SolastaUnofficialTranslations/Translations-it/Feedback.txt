@@ -8,23 +8,23 @@ Feedback/&AbilityCheckFailureOutcome	{0} (errore)
 Feedback/&AbilityCheckSuccessNarrationLine	{0} check: successo!
 Feedback/&AbilityCheckSuccessOutcome	{0} (successo)
 Feedback/&ActivatePowerLine	{0} attiva l'alimentazione {1}
-Feedback/&ActivatePowerWithChanelDivinityLine	{0} canali divinità per attivare {1}
+Feedback/&ActivatePowerWithChanelDivinityLine	{0} incanali divinità per attivare {1}
 Feedback/&ActivatePowerWithSpellSlotLine	{0} si attiva {1} con uno slot incantesimo di livello {2}
 Feedback/&AdditionalDamageArcaneFuryFormat	Furia Arcana!
 Feedback/&AdditionalDamageArcaneFuryLine	{0} infligge più danni a {1} da Arcane Furry (+ {2})
 Feedback/&AdditionalDamageBestowCurseFormat	Attacco a Maledetto!
 Feedback/&AdditionalDamageBestowCurseLine	{0} infligge più danni a maledetto {1} (+ {2})
-Feedback/&AdditionalDamageBrandingSmiteFormat	Branding Smite!
-Feedback/&AdditionalDamageBrandingSmiteLine	{0} infligge più danni a {1} tramite un branding punitivo (+ {2})
-Feedback/&AdditionalDamageColossusSlayerFormat	Colossus Slayer!
+Feedback/&AdditionalDamageBrandingSmiteFormat	Marchio Punitivo!
+Feedback/&AdditionalDamageBrandingSmiteLine	{0} infligge più danni a {1} tramite marchio punitivo (+ {2})
+Feedback/&AdditionalDamageColossusSlayerFormat	Uccisore di Giganti!
 Feedback/&AdditionalDamageColossusSlayerLine	{0} infligge più danni ai feriti {1} (+ {2})
 Feedback/&AdditionalDamageDarkSlayerFormat	Assassino oscuro!
 Feedback/&AdditionalDamageDarkSlayerLine	{0} infligge più danni alle creature con Scurovisione superiore {1} (+ {2})
-Feedback/&AdditionalDamageDecisiveStrikeFormat	Sciopero decisivo!
+Feedback/&AdditionalDamageDecisiveStrikeFormat	Colpo decisivo!
 Feedback/&AdditionalDamageDecisiveStrikeLine	{0} avvertimenti {1} (+ {2})
 Feedback/&AdditionalDamageDivineFavorFormat	Favore divino!
 Feedback/&AdditionalDamageDivineFavorLine	{0} infligge più danni a {1} tramite il favore divino (+ {2})
-Feedback/&AdditionalDamageDivineSmiteFormat	Colpisci!
+Feedback/&AdditionalDamageDivineSmiteFormat	Punizione Divina!
 Feedback/&AdditionalDamageDivineSmiteLine	{0} punizioni {1} (+ {2})
 Feedback/&AdditionalDamageFavoredEnemyFormat	Nemico preferito!
 Feedback/&AdditionalDamageFavoredEnemyLine	{0} infligge più danni a {1} come tipo di nemico preferito (+ {2})
@@ -38,11 +38,11 @@ Feedback/&AdditionalDamageSmiteTheHiddenShapechangerFormat	Colpisci l'occulto!
 Feedback/&AdditionalDamageSmiteTheHiddenShapechangerLine	{0} infligge più danni a {1}, Flagello degli Nascosti con mutaforma (+ {2})
 Feedback/&AdditionalDamageSneakAttackFormat	Attacco furtivo!
 Feedback/&AdditionalDamageSneakAttackLine	{0} esegue un attacco furtivo su {1} (+ {2})
-Feedback/&AdditionalDamageStrikeOblivionFormat	Strike of Oblivion!
-Feedback/&AdditionalDamageStrikeOblivionLine	{0} infligge più danni a {1} con Strike of Oblivion (+ {2})
+Feedback/&AdditionalDamageStrikeOblivionFormat	Colpo dell'oblio!
+Feedback/&AdditionalDamageStrikeOblivionLine	{0} infligge più danni a {1} con Colpo dell'oblio (+ {2})
 Feedback/&AdvantageRollDescription	Tirare con vantaggio significa tirare due d20 e mantenere il risultato migliore.
 Feedback/&AdvantageRollOutcome	con vantaggio
-Feedback/&AlreadySuccessfulCaptionFormat	Già di successo
+Feedback/&AlreadySuccessfulCaptionFormat	Già Riuscito
 Feedback/&AttackConsoleLine	{0} attacca {1} con {2}, tira {3} = {4}
 Feedback/&AttackConsoleLineAnyAdvantage	{0} attacca {1} con {2}, tira {3} {4} = {5}
 Feedback/&AttackConsoleLineAnyAdvantageNoModifier	{0} attacca {1} con {2}, tira {3} {4}
@@ -53,11 +53,11 @@ Feedback/&AttackFailureOutcome	{0} (signorina)
 Feedback/&AttackOfOpportunityFormat	Attacco di opportunità
 Feedback/&AttackOfOpportunityLine	{0} esegue un attacco di opportunità contro {1}
 Feedback/&AttackSuccessFormat	Colpo d'attacco ({0})
-Feedback/&AttackSuccessOutcome	{0} (Hit)
+Feedback/&AttackSuccessOutcome	{0} (Colpito)
 Feedback/&BrightLightCaption	Luce luminosa
 Feedback/&BrightLightDescription	La creatura è in piena luce.
-Feedback/&CannotHealFormat	Non posso guarire!
-Feedback/&CannotReceiveAnyHealingLine	{0} non può ricevere alcuna guarigione
+Feedback/&CannotHealFormat	Non posso curare!
+Feedback/&CannotReceiveAnyHealingLine	{0} non può ricevere alcuna cura
 Feedback/&CheckFailureCaption	Fallimento
 Feedback/&CheckSuccessCaption	Successo
 Feedback/&ConcentrationCheckRolledAnyAdvantageLine	{0} tira per mantenere la concentrazione {1} contro DC {2}, tira {3} = {4}
@@ -80,18 +80,18 @@ Feedback/&ConversationRecordedLine	Conversazione registrata {0} {1}
 Feedback/&CoverFullCaption	fuori dal campo visivo
 Feedback/&CoverHalfCaption	1/2 copertina
 Feedback/&CoverThreeQuarterCaption	Copertura 3/4
-Feedback/&CriticalAbilityCheckFailureOutcome	{0} (ERRORE CRITICO)
+Feedback/&CriticalAbilityCheckFailureOutcome	{0} (FALLIMENTO CRITICO)
 Feedback/&CriticalAbilityCheckOutcome	{0} (SUCCESSO CRITICO)
 Feedback/&CriticalAttackFailureOutcome	{0} (MANCANZA CRITICA)
 Feedback/&CriticalAttackFormat	Attacco critico!
 Feedback/&CriticalAttackOutcome	{0} (COLPO CRITICO)
-Feedback/&CriticalFailureFormat	Errore critico!
-Feedback/&DarknessCaption	Magica oscurità
+Feedback/&CriticalFailureFormat	Fallimento critico!
+Feedback/&DarknessCaption	Oscurità Magica
 Feedback/&DarknessDescription	La creatura è nell'oscurità magica.
-Feedback/&DeadlyFallLine	{0} sono caduti a morte.
+Feedback/&DeadlyFallLine	{0} sono caduti morti.
 Feedback/&DeathSaveAnyAdvantageConsoleLine	{0} tira un tiro salvezza sulla morte {1}: {2}
 Feedback/&DeathSaveConsoleLine	{0} tira un tiro salvezza sulla morte: {1}
-Feedback/&DeathSaveCriticalFailureFormat	{0} Errore critico
+Feedback/&DeathSaveCriticalFailureFormat	{0} Fallimento critico
 Feedback/&DeathSaveCriticalFailureLine	{0} fallimenti del tiro salvezza aggiunti a {1}
 Feedback/&DeathSaveCriticalSuccessFormat	{0} Successo critico
 Feedback/&DeathSaveCriticalSuccessLine	{0} riguadagna 1 punto ferita e si stabilizza.
@@ -159,11 +159,11 @@ Feedback/&ReceivedHealingLine	{0} è guarito {1} punti ferita
 Feedback/&ReceivedTemporaryHitPointsFailureLine	{0} non può ricevere punti ferita temporanei
 Feedback/&ReceivedTemporaryHitPointsSuccessLine	{0} ora ha {1} hit point temporanei
 Feedback/&RitualCastLine	{0} lancia l'incantesimo {1} come un rituale
-Feedback/&RollAttackCriticalFailureTitle	Signorina critica
+Feedback/&RollAttackCriticalFailureTitle	Fallimento critico
 Feedback/&RollAttackCriticalSuccessTitle	Colpo critico
-Feedback/&RollAttackFailureTitle	Perdere
-Feedback/&RollAttackSuccessTitle	Colpire
-Feedback/&RollCheckCriticalFailureTitle	Errore critico
+Feedback/&RollAttackFailureTitle	Mancato
+Feedback/&RollAttackSuccessTitle	Colpito
+Feedback/&RollCheckCriticalFailureTitle	Fallimento critico
 Feedback/&RollCheckCriticalSuccessTitle	Successo critico
 Feedback/&RollCheckFailureTitle	Fallimento
 Feedback/&RollCheckSuccessTitle	Successo
@@ -175,7 +175,7 @@ Feedback/&SaveConsoleNoModifierLine	{0} tira un {1} tiro salvezza contro {2} (CD
 Feedback/&SaveFailureOutcome	{0} Non riesce
 Feedback/&SaveSuccessFormat	Salva
 Feedback/&SaveSuccessOutcome	{0} (successo)
-Feedback/&ShortRestCompletedLine	Breve riposo completato.
+Feedback/&ShortRestCompletedLine	Riposo breve completato.
 Feedback/&SleightOfHandDetectedCaptionFormat	Rilevato!
 Feedback/&SleightOfHandDetectedLine	{0} è stato rilevato da {1} durante il tentativo di furto di oggetti
 Feedback/&SleightOfHandNotEnoughRoomCaptionFormat	Inventario pieno.
@@ -190,8 +190,8 @@ Feedback/&SpellCastLine	{0} lancia l'incantesimo {1}
 Feedback/&SpellCastSuperiorSlotLine	{0} lancia {1} con uno slot {2} di livello
 Feedback/&SpellCounteredFailLine	{0} non riesce a neutralizzare la {2} magia lanciata da {1}
 Feedback/&SpellCounteredSuccessLine	{0} contrasta la {2} magia lanciata da {1}
-Feedback/&SpellCounterFailFormat	Counter Fail!
-Feedback/&SpellCounterSuccessFormat	Counter!
+Feedback/&SpellCounterFailFormat	Controincatesimo Fallito!
+Feedback/&SpellCounterSuccessFormat	Contrastato!
 Feedback/&SpellDissipatedFailureLine	{0} non riesce a dissipare l'effetto dell'incantesimo {1} su
 Feedback/&SpellDissipatedFormat	Dissolto!
 Feedback/&SpellDissipatedOnTargetFailureLine	{0} non riesce a dissipare l'effetto dell'incantesimo {1} su {2}
@@ -205,7 +205,7 @@ Feedback/&SuccessOddsLine	Probabilità di successo: {0}
 Feedback/&TrackDetectedFormat	Tracce individuate
 Feedback/&TrapDetectedFormat	Rilevata trappola
 Feedback/&TrapDisarmedFormat	Trappola disarmata
-Feedback/&TrapDisarmFailedFormat	Disinserimento non riuscito
+Feedback/&TrapDisarmFailedFormat	Disinnesco non riuscito
 Feedback/&TrapTriggeredFormat	Trappola attivata
 Feedback/&CharmedEnemyRemovedFromArea	{0} ha lasciato l'area
 Feedback/&UnlitCaption	Senza luce

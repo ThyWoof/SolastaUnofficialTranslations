@@ -1773,3 +1773,4 @@ Equipment/&StandardGoldKeyTitle	Gold Key
 Equipment/&StandardIronKeyTitle	Iron Key
 Equipment/&StandardDragonKeyTitle	Dragon Key
 Equipment/&StandardKeyDescription	A key meant to open a locked door or container
+Equipment/&ContainerHarvestable_Imperial	

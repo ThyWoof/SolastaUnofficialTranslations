@@ -18,3 +18,4 @@ LocationType/&ManacalonOracleKnownTitle	The Oracle
 LocationType/&ManacalonOracleKnownDescription	On a riverside there is a ruined Manacalon building that Kythaela called the Oracle.
 LocationType/&ManacalonPrisonKnownTitle	The Dungeons
 LocationType/&ManacalonPrisonKnownDescription	Apparently, this was an Imperial prison. Kythaela said it dated back to the Elven Wars.
+LocationType/&Forest	

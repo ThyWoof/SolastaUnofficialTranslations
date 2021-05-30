@@ -35,7 +35,7 @@ Stage/&AbilityScoresStageFailSpendAllLevelUpPointsDescription	Devi spendere tutt
 Stage/&AbilityScoresStageFailSpendAllRacePointsDescription	Devi spendere tutti i punti abilità dell'ascendenza scelta.
 Stage/&AbilityScoresStageTitle	Capacità\nPunteggi
 Stage/&AbilityTipDescription	Come "{0}", i tuoi punteggi di caratteristica più importanti sono {1}, {2} e {3}.
-Stage/&AbilityTipTitle	Mancia
+Stage/&AbilityTipTitle	Trucco
 Stage/&AllSpellsFormat	In qualità di membro della classe "{0}", hai accesso a tutti gli incantesimi (eccetto trucchetti) del tuo elenco di incantesimi.\n\nUn'altra interfaccia ti permetterà di scegliere gli incantesimi per prepararti alla giornata.
 Stage/&AtHigherLevelsDescription	Mostra le funzionalità concesse a livelli più alti.
 Stage/&AtHigherLevelsTitle	A livelli più alti

@@ -11,9 +11,9 @@ Equipment/&AntitoxinDescription	Un decotto protettivo che aumenta la resistenza 
 Equipment/&AntitoxinTitle	Antitossina
 Equipment/&ArcaneFocusCrystalTitle	Cristallo
 Equipment/&ArcaneFocusGeneralDescription	Uno stregone, uno stregone o un mago può usare questo tipo di oggetto come punto focale per il lancio di incantesimi.
-Equipment/&ArcaneFocusOrbTitle	Orb
-Equipment/&ArcaneFocusRodTitle	Rod
-Equipment/&ArcaneFocusStaffTitle	Personale
+Equipment/&ArcaneFocusOrbTitle	Sfera
+Equipment/&ArcaneFocusRodTitle	Verga
+Equipment/&ArcaneFocusStaffTitle	Bastone
 Equipment/&ArcaneFocusWandTitle	Bacchetta
 Equipment/&Armor_Adventuring_Wizard_OutfitDescription	Abiti robusti ma eleganti, dotati di cinghie e tasche per libri di incantesimi e componenti. Non fornisce protezione dall'armatura.
 Equipment/&Armor_Adventuring_Wizard_OutfitTitle	Abbigliamento da mago avventuriero
@@ -22,29 +22,29 @@ Equipment/&Armor_BreastplateTitle	Pettorale
 Equipment/&Armor_ChainMailDescription	Realizzata con anelli di metallo ad incastro, la cotta di maglia include uno strato di tessuto trapuntato indossato sotto la cotta per evitare sfregamenti e per attutire l'impatto dei colpi. La tuta include guanti.
 Equipment/&Armor_ChainMailTitle	Cotta di maglia
 Equipment/&Armor_ChainShirtDescription	Realizzata con anelli di metallo intrecciati, una maglia a catena viene indossata tra strati di abbigliamento o pelle. Questa armatura offre una protezione modesta alla parte superiore del corpo di chi lo indossa e consente al suono degli anelli che si sfregano l'uno contro l'altro di essere attutito dagli strati esterni.
-Equipment/&Armor_ChainShirtTitle	Camicia a catena
+Equipment/&Armor_ChainShirtTitle	Giaco di Maglia
 Equipment/&Armor_Commoner_ClothesDescription	Abbigliamento di base in lana, pelle e lino.
 Equipment/&Armor_Commoner_ClothesTitle	Abbigliamento comune
-Equipment/&Armor_Dwarven_HalfPlateDescription	La mezza piastra è costituita da piastre metalliche sagomate che coprono la maggior parte del corpo di chi lo indossa. Non include la protezione delle gambe oltre ai semplici schinieri fissati con cinghie di cuoio. Questa armatura è decorata in stile nanico.
-Equipment/&Armor_Dwarven_HalfPlateTitle	Mezzo piatto nanico
-Equipment/&Armor_HalfPlateDescription	La mezza piastra è costituita da piastre metalliche sagomate che coprono la maggior parte del corpo di chi lo indossa. Non include la protezione delle gambe oltre ai semplici schinieri fissati con cinghie di cuoio.
-Equipment/&Armor_HalfPlateTitle	Mezza piastra
+Equipment/&Armor_Dwarven_HalfPlateDescription	La Mezza Armatura è costituita da piastre metalliche sagomate che coprono la maggior parte del corpo di chi lo indossa. Non include la protezione delle gambe oltre ai semplici schinieri fissati con cinghie di cuoio. Questa armatura è decorata in stile nanico.
+Equipment/&Armor_Dwarven_HalfPlateTitle	Mezza armatura nanica
+Equipment/&Armor_HalfPlateDescription	La Mezza Armatura è costituita da piastre metalliche sagomate che coprono la maggior parte del corpo di chi lo indossa. Non include la protezione delle gambe oltre ai semplici schinieri fissati con cinghie di cuoio.
+Equipment/&Armor_HalfPlateTitle	Mezza Armatura
 Equipment/&Armor_HideDescription	Questa rozza armatura è composta da spesse pellicce e pelli. È comunemente indossato da tribù barbare, umanoidi malvagi e altre persone che non hanno accesso agli strumenti e ai materiali necessari per creare armature migliori.
 Equipment/&Armor_HideTitle	Nascondere
 Equipment/&Armor_LeatherDescription	Il pettorale e le protezioni per le spalle di questa armatura sono realizzati in cuoio che è stato irrigidito per essere stato bollito nell'olio. Il resto dell'armatura è realizzato con materiali più morbidi e flessibili.
-Equipment/&Armor_LeatherTitle	Pelle
+Equipment/&Armor_LeatherTitle	Cuoio
 Equipment/&Armor_Noble_ClothesDescription	Abiti raffinati di tessuti costosi, decorati con ricami d'oro o d'argento.
 Equipment/&Armor_Noble_ClothesTitle	Vestiti nobili
 Equipment/&Armor_PaddedDescription	L'armatura imbottita è composta da strati trapuntati di stoffa e ovatta.
 Equipment/&Armor_PaddedTitle	Imbottito
 Equipment/&Armor_PlateDescription	La piastra è composta da piastre metalliche sagomate ad incastro per coprire l'intero corpo. Una tuta di corazza include guanti, stivali di cuoio pesanti, un elmo con visiera e spessi strati di imbottitura sotto l'armatura. Fibbie e cinghie distribuiscono il peso sul corpo.
-Equipment/&Armor_PlateTitle	Piatto
+Equipment/&Armor_PlateTitle	Piastre
 Equipment/&Armor_RingMailDescription	Questa armatura è un'armatura di cuoio con pesanti anelli cuciti al suo interno. Gli anelli aiutano a rinforzare l'armatura contro i colpi di spade e asce. La cotta di maglia è inferiore alla cotta di maglia e di solito è indossata solo da coloro che non possono permettersi un'armatura migliore.
-Equipment/&Armor_RingMailTitle	Ring Mail
+Equipment/&Armor_RingMailTitle	Corazza ad Anelli
 Equipment/&Armor_ScaleMailDescription	Questa armatura è composta da un cappotto e gambali (e forse una gonna separata) di pelle ricoperta da pezzi di metallo sovrapposti, proprio come le scaglie di un pesce. La tuta include guanti.
-Equipment/&Armor_ScaleMailTitle	Scala posta
+Equipment/&Armor_ScaleMailTitle	Cotta di Scaglie
 Equipment/&Armor_Scavenger_Outfit_01_Description	Un semplice vestito di pelle, lino e lana, che mostra segni di vecchiaia e sporcizia.
-Equipment/&Armor_Scavenger_Outfit_01_Title	Completo da Ranger Scavenger
+Equipment/&Armor_Scavenger_Outfit_01_Title	Completo da Ranger Spazzino
 Equipment/&Armor_Scavenger_Outfit_02_Description	Un semplice vestito di pelle, lino e lana, che mostra segni di vecchiaia e sporcizia.
 Equipment/&Armor_Scavenger_Outfit_02_Title	Completo da esploratore del tesoro
 Equipment/&Armor_Scholar_ClothesDescription	Un vestito elegante di tessuto pregiato, con ricche decorazioni.
@@ -52,7 +52,7 @@ Equipment/&Armor_Scholar_ClothesTitle	Abbigliamento da studioso
 Equipment/&Armor_SplintDescription	Questa armatura è composta da strette strisce verticali di metallo rivettate su un supporto di pelle che viene indossato su un'imbottitura di stoffa. La cotta di maglia flessibile protegge le articolazioni.
 Equipment/&Armor_SplintTitle	Stecca
 Equipment/&Armor_StuddedLeatherDescription	Realizzata in pelle resistente ma flessibile, la pelle borchiata è rinforzata con rivetti o punte ravvicinate.
-Equipment/&Armor_StuddedLeatherTitle	Pelle borchiata
+Equipment/&Armor_StuddedLeatherTitle	Cuoio borchiata
 Equipment/&Armor_VigdisDescription	Questa cotta di maglia è un cimelio di famiglia, realizzato con la rinomata maestria dei maestri fabbri nanici della Snow Alliance.
 Equipment/&Armor_VigdisTitle	Armatura della famiglia Kaikkonen
 Equipment/&ArrowPlus1Title	Freccia +1
@@ -104,8 +104,8 @@ Equipment/&BattleaxeTypeTitle	Ascia da battaglia
 Equipment/&BlankScrollDescription	Necessario per creare una pergamena magica.
 Equipment/&BlankScrollTitle	Scorrimento vuoto
 Equipment/&BlowgunTypeTitle	Cerbottana
-Equipment/&BoltplusOne	Bolt +1
-Equipment/&BoltTypeTitle	Balestra Bolt
+Equipment/&BoltplusOne	Quadrello +1
+Equipment/&BoltTypeTitle	Balestra Quadrello
 Equipment/&BoneKeep_Angbi_Bones_Description	Un mucchio di ossa diverse che potrebbero far parte dello scheletro di una persona. Alcune di queste ossa sembrano portare una sorta di segni di denti di animali.
 Equipment/&BoneKeep_Angbi_Bones_Title	Un mucchio di ossa
 Equipment/&BoneKeep_Document_AdventurerJournal01_Description	Parte di un diario con una serie di appunti, trovato su un avventuriero morto nel labirinto solare.
@@ -129,11 +129,11 @@ Equipment/&BonusArmorDescription	{0} in AC
 Equipment/&BootsLevitationTitle	Stivali della levitazione
 Equipment/&BootsSpecialDescription	Questi stivali sono di fabbricazione superiore.
 Equipment/&BootsSpecialTitle	Bellissimi stivali
-Equipment/&BracersOfArcheryTitle	Bracciali del tiro con l'arco
+Equipment/&BracersOfArcheryTitle	Bracciali del Arcere
 Equipment/&BracersOfArcheryUnidentifiedDescription	Questi bracciali finemente decorati possono avere proprietà magiche.
 Equipment/&BracersOfArcheryUnidentifiedTitle	Bracciali magnifici
-Equipment/&BulletTypeTitle	Pallottola di fionda
-Equipment/&BurglarPackTitle	Pacchetto scassinatore
+Equipment/&BulletTypeTitle	Pallottola da fionda
+Equipment/&BurglarPackTitle	Kit da scassinatore
 Equipment/&CaerLem_Daliat_Document_Content	Rapporto operativo al First Whisperer\nIndagini sui chierici umani e sui loro poteri.
 Equipment/&CaerLem_Daliat_Document_Content2	<i>Il resto del testo è indecifrabile</i>
 Equipment/&CaerLem_Daliat_Document_Description	Una vecchia pergamena, scritta in una specie di cifra elfica.
@@ -246,17 +246,17 @@ Equipment/&Enchanted_Fullplate_Of_Robustness_Title	Armatura a piastre della robu
 Equipment/&Enchanted_Fullplate_Of_Sturdiness_Description	Questa armatura incantata è stata creata utilizzando l'antica conoscenza dei maestri armaioli di Manacalon. Il suo progetto era uno dei primi lavori di Ildurial Stronghand per proteggere meglio le truppe d'assalto imperiali.
 Equipment/&Enchanted_Fullplate_Of_Sturdiness_Title	Armatura a piastre della robustezza
 Equipment/&Enchanted_GreatAxe_of_Sharpness_Description	Quest'arma incantata è stata forgiata utilizzando l'antica conoscenza dei maestri fabbri di Manacalon.
-Equipment/&Enchanted_GreatAxe_of_Sharpness_Title	Greataxe of Sharpness
+Equipment/&Enchanted_GreatAxe_of_Sharpness_Title	Ascia Bipenne del Sharpness
 Equipment/&Enchanted_Greataxe_Stormblade_Description	Quest'arma incantata è stata forgiata utilizzando l'antica conoscenza dei maestri fabbri di Manacalon.
-Equipment/&Enchanted_Greataxe_Stormblade_Title	Stormblade Greataxe
+Equipment/&Enchanted_Greataxe_Stormblade_Title	Ascia Bipenne Stormblade
 Equipment/&Enchanted_Greatsword_Doom_Title	Spadone di Doomblade
 Equipment/&Enchanted_Greatsword_Lightbringer_Description	Quest'arma incantata è stata forgiata utilizzando l'antica conoscenza dei maestri fabbri di Manacalon.
 Equipment/&Enchanted_Greatsword_Lightbringer_Title	Spadone dell'Araldo della Luce
 Equipment/&Enchanted_Greatsword_of_acuteness_Description	Quest'arma incantata è stata forgiata utilizzando l'antica conoscenza dei maestri fabbri di Manacalon.
-Equipment/&Enchanted_Greatsword_of_acuteness_Title	Granspada dell'Acutezza
+Equipment/&Enchanted_Greatsword_of_acuteness_Title	Spadone dell'Acutezza
 Equipment/&Enchanted_Halfplate_Of_Robustness_Description	Questa armatura incantata è stata creata utilizzando l'antica conoscenza dei maestri armaioli di Manacalon.
-Equipment/&Enchanted_Halfplate_Of_Robustness_Title	Mezzo piatto di robustezza
-Equipment/&Enchanted_Halfplate_Of_Sturdiness_Title	Mezzo piatto di robustezza
+Equipment/&Enchanted_Halfplate_Of_Robustness_Title	Mezza Armatura di robustezza
+Equipment/&Enchanted_Halfplate_Of_Sturdiness_Title	Mezza Armatura di robustezza
 Equipment/&Enchanted_LeatherArmor_Of_FlameDancing_Description	Questa armatura incantata è stata creata utilizzando l'antica conoscenza dei maestri armaioli di Manacalon. Intrisa dell'essenza del fuoco, questa armatura consente a chi la indossa di resistere anche al fuoco arcano.
 Equipment/&Enchanted_LeatherArmor_Of_FlameDancing_Title	Armatura di cuoio della danza delle fiamme
 Equipment/&Enchanted_LeatherArmor_Of_Robustness_Title	Armatura di cuoio della robustezza
@@ -277,16 +277,16 @@ Equipment/&Enchanted_Longsword_Warden_Title	Wardenblade
 Equipment/&Enchanted_Mace_Of_Acuteness_Description	Quest'arma incantata è stata forgiata utilizzando l'antica conoscenza dei maestri fabbri di Manacalon.
 Equipment/&Enchanted_Mace_Of_Acuteness_Title	Mazza dell'Acutezza
 Equipment/&Enchanted_Mace_Of_Smashing_Description	Quest'arma incantata è stata forgiata utilizzando l'antica conoscenza dei maestri fabbri di Manacalon. Creata per violare le fortificazioni più velocemente, questa mazza si è fatta strada anche nel crogiolo della guerra per rompere i muri degli scudi.
-Equipment/&Enchanted_Mace_Of_Smashing_Title	Mace of Smashing
+Equipment/&Enchanted_Mace_Of_Smashing_Title	Mazza del Smashing
 Equipment/&Enchanted_Morningstar_Bearclaw_Description	Quest'arma incantata è stata forgiata utilizzando l'antica conoscenza dei maestri fabbri di Manacalon. Le punte affilate degli artigli dell'orso lacerano l'armatura per infliggere danni aggiuntivi, proprio come previsto da Ildurial Stronghand, che ha progettato la prima arma di questo tipo.
-Equipment/&Enchanted_Morningstar_Bearclaw_Title	Artiglio d'orso
+Equipment/&Enchanted_Morningstar_Bearclaw_Title	Morningstar Artiglio d'orso
 Equipment/&Enchanted_Morningstar_Of_Power_Description	Quest'arma incantata è stata forgiata utilizzando l'antica conoscenza dei maestri fabbri di Manacalon. Alcune creature rispettano solo la forza fisica. Gli arcanisti di Manacalon hanno creato questa stella mattutina per dare ai campioni delle Legioni di Ferro la forza che i loro corpi elfici non fornivano.
 Equipment/&Enchanted_Morningstar_Of_Power_Title	Morningstar of Power
 Equipment/&Enchanted_Rapier_Adder_Title	Vipera nera
 Equipment/&Enchanted_Rapier_Doom_Description	Quest'arma incantata è stata forgiata utilizzando l'antica conoscenza dei maestri fabbri di Manacalon.
-Equipment/&Enchanted_Rapier_Doom_Title	Doomblade Rapier
+Equipment/&Enchanted_Rapier_Doom_Title	Stocco Doomblade
 Equipment/&Enchanted_Rapier_of_acuteness_Description	Quest'arma incantata è stata creata utilizzando l'antica conoscenza dei maestri armaioli di Manacalon. Il suo design è stato uno dei primi lavori di Elgador Keenspirit, Magesmith of the Arcaneum.
-Equipment/&Enchanted_Rapier_of_acuteness_Title	Rapier of Acuteness
+Equipment/&Enchanted_Rapier_of_acuteness_Title	Stocco dell'Accuratezza
 Equipment/&Enchanted_ScaleArmor_Of_IceDancing_Description	Questa armatura incantata è stata forgiata utilizzando l'antica conoscenza dei maestri armaioli di Manacalon. Lestoreth Steelarm ha creato la prima armatura di questo tipo per le Legioni di Ferro durante la loro marcia verso il Nord Ghiacciato.
 Equipment/&Enchanted_ScaleArmor_Of_IceDancing_Title	Scaglia Armatura del Gelo Walking
 Equipment/&Enchanted_ScaleArmor_Of_Sturdiness_Description	Questa armatura incantata è stata creata utilizzando l'antica conoscenza dei maestri armaioli di Manacalon.
@@ -338,11 +338,11 @@ Equipment/&GemRubyTitle	Rubino
 Equipment/&GemSapphireDescription	Uno zaffiro brillante, del valore di <#A95827>50 pezzi d'oro</color>.
 Equipment/&GemSapphireTitle	Zaffiro
 Equipment/&GlaiveTypeTitle	Glaive
-Equipment/&GreataxeTypeTitle	Greataxe
-Equipment/&GreatclubTypeTitle	Greatclub
+Equipment/&GreataxeTypeTitle	Ascia Bipenne
+Equipment/&GreatclubTypeTitle	Randello Pesante
 Equipment/&GreatswordTypeTitle	Spadone
 Equipment/&HalberdTypeTitle	Alabarda
-Equipment/&HandaxeTypeTitle	Handaxe
+Equipment/&HandaxeTypeTitle	Ascia
 Equipment/&HandCrossbowTypeTitle	Balestra a mano
 Equipment/&HeavyArmorCategoryDescription	Di tutte le categorie di armature, l'armatura pesante offre la migliore protezione. Queste armature coprono l'intero corpo e sono progettate per fermare un'ampia gamma di attacchi.
 Equipment/&HeavyArmorCategoryTitle	Armatura pesante
@@ -424,11 +424,11 @@ Equipment/&Ingredient_Primed_Dagger_Title	Pugnale innescato
 Equipment/&Ingredient_Primed_Fullplate_Description	Incantata da un maestro fabbro di Manacalon, quest'arma è composta da una lega magica. Ha solo bisogno di un catalizzatore per sbloccare il suo potenziale.
 Equipment/&Ingredient_Primed_Fullplate_Title	Piatto innescato
 Equipment/&Ingredient_Primed_GreatAxe_Description	Incantata da un maestro fabbro di Manacalon, quest'arma è composta da una lega magica. Ha solo bisogno di un catalizzatore per sbloccare il suo potenziale.
-Equipment/&Ingredient_Primed_GreatAxe_Title	Greataxe innescato
+Equipment/&Ingredient_Primed_GreatAxe_Title	Ascia Bipenne innescato
 Equipment/&Ingredient_Primed_Greatsword_Description	Incantata da un maestro fabbro di Manacalon, quest'arma è composta da una lega magica. Ha solo bisogno di un catalizzatore per sbloccare il suo potenziale.
 Equipment/&Ingredient_Primed_Greatsword_Title	Spadone innescato
 Equipment/&Ingredient_Primed_Halfplate_Description	Incantata da un maestro fabbro di Manacalon, quest'arma è composta da una lega magica. Ha solo bisogno di un catalizzatore per sbloccare il suo potenziale.
-Equipment/&Ingredient_Primed_Halfplate_Title	Mezzo piatto innescato
+Equipment/&Ingredient_Primed_Halfplate_Title	Mezza Armatura innescato
 Equipment/&Ingredient_Primed_LeatherArmor_Description	Incantata da un maestro artigiano di Manacalon, questa armatura è realizzata in cuoio tarrasque. Ha solo bisogno di un catalizzatore per sbloccare il suo potenziale.
 Equipment/&Ingredient_Primed_LeatherArmor_Title	Armatura di cuoio innescata
 Equipment/&Ingredient_Primed_Longbow_Description	Incantata da un maestro bowyer di Colthannin, quest'arma è fatta di legni e leghe magiche. Ha solo bisogno di un catalizzatore per sbloccare il suo potenziale.
@@ -440,7 +440,7 @@ Equipment/&Ingredient_Primed_Mace_Title	Mazza innescata
 Equipment/&Ingredient_Primed_Morningstar_Description	Incantata da un maestro fabbro di Manacalon, quest'arma è composta da una lega magica. Ha solo bisogno di un catalizzatore per sbloccare il suo potenziale.
 Equipment/&Ingredient_Primed_Morningstar_Title	Morningstar innescato
 Equipment/&Ingredient_Primed_Rapier_Description	Incantata da un maestro fabbro di Manacalon, quest'arma è composta da una lega magica. Ha solo bisogno di un catalizzatore per sbloccare il suo potenziale.
-Equipment/&Ingredient_Primed_Rapier_Title	Rapier innescato
+Equipment/&Ingredient_Primed_Rapier_Title	Stocco innescato
 Equipment/&Ingredient_Primed_ScaleMail_Description	Incantata da un maestro fabbro di Manacalon, quest'arma è composta da una lega magica. Ha solo bisogno di un catalizzatore per sbloccare il suo potenziale.
 Equipment/&Ingredient_Primed_ScaleMail_Title	Posta in scala innescata
 Equipment/&Ingredient_Primed_Scimitar_Description	Incantata da un maestro fabbro di Manacalon, quest'arma è composta da una lega magica. Ha solo bisogno di un catalizzatore per sbloccare il suo potenziale.
@@ -509,7 +509,7 @@ Equipment/&LightArmorCategoryDescription	Realizzata con materiali flessibili e s
 Equipment/&LightArmorCategoryTitle	Armatura leggera
 Equipment/&LightCrossbowTypeTitle	Balestra leggera
 Equipment/&LightHammerTypeTitle	Martello leggero
-Equipment/&LongbowTypeTitle	Longbow
+Equipment/&LongbowTypeTitle	Arco Lungo
 Equipment/&Longsword_plus_one_Description	La spada lunga di un inquisitore tirmarian, benedetta dalla magia divina.
 Equipment/&Longsword_plus_one_Title	Spada lunga +1
 Equipment/&Longsword_plus_one_Unidentified_Description	Questa spada lunga finemente decorata, sembra sia antica che preziosa.
@@ -520,15 +520,15 @@ Equipment/&ManacalonRosaryDescription	Questo ciondolo viene utilizzato per incan
 Equipment/&ManacalonRosaryTitle	Rosario Manacalon
 Equipment/&MartialWeaponCategoryDescription	Queste armi richiedono un addestramento avanzato per essere maneggiate senza penalità.
 Equipment/&MartialWeaponCategoryTitle	Armi marziali
-Equipment/&MaulTypeTitle	Maul
+Equipment/&MaulTypeTitle	Maglio
 Equipment/&MaxRangeTitle	Gamma massima
 Equipment/&MediumArmorCategoryDescription	L'armatura media offre una protezione maggiore rispetto all'armatura leggera, ma altera maggiormente il movimento.
 Equipment/&MediumArmorCategoryTitle	Armatura media
-Equipment/&Morningstar_plus_1_Description	Una stella del mattino finemente decorata usata dalle truppe d'assalto imperiali di Manacalon, intrisa di magia.
+Equipment/&Morningstar_plus_1_Description	Una Morningstar finemente decorata usata dalle truppe d'assalto imperiali di Manacalon, intrisa di magia.
 Equipment/&Morningstar_plus_1_Title	Manacalon Morningstar +1
-Equipment/&Morningstar_plus_1_Unidentified_Description	Questa stella del mattino finemente decorata è chiaramente un'arma superiore.
+Equipment/&Morningstar_plus_1_Unidentified_Description	Questa Morningstar finemente decorata è chiaramente un'arma superiore.
 Equipment/&Morningstar_plus_1_Unidentified_Title	Magnifico Morningstar
-Equipment/&MorningstarTypeTitle	Stella del mattino
+Equipment/&MorningstarTypeTitle	Morningstar
 Equipment/&MusicalInstrumentCategoryTitle	Strumento musicale ({0})
 Equipment/&MusicalInstrumentLyreTypeDescription	Se hai competenza con un determinato strumento musicale, puoi aggiungere il tuo bonus di competenza a qualsiasi prova di abilità che effettui per suonare musica con lo strumento. Un bardo può usare uno strumento musicale come punto focale per il lancio di incantesimi. Ogni tipo di strumento musicale richiede una competenza separata.
 Equipment/&MusicalInstrumentLyreTypeTitle	Lira
@@ -545,7 +545,7 @@ Equipment/&OfOrcsAndMenHeader	Gli Orchi di Solasta
 Equipment/&OfOrcsAndMenTitle	Di Orchi e Uomini
 Equipment/&OgreJavelinTitle	Ogre giavellotto
 Equipment/&OrcArrowTypeTitle	Orc Arrow
-Equipment/&OrcGreataxeTypeTitle	Orc Greataxe
+Equipment/&OrcGreataxeTypeTitle	Orc Ascia Bipenne
 Equipment/&OrcJavelinTitle	Orc Javelin
 Equipment/&OrcMaceTypeTitle	Orc Mace
 Equipment/&OrcShortbowTypeTitle	Orco Arco Corto
@@ -592,8 +592,8 @@ Equipment/&PotionofwaterbreatingTitle	Rimedio curativo
 Equipment/&PouchDescription	Una custodia in pelle e stoffa utilizzata per impilare piccoli oggetti.
 Equipment/&PouchTitle	Marsupio
 Equipment/&PriestPackTitle	Pacchetto del prete
-Equipment/&QuarterstaffTypeTitle	Quarterstaff
-Equipment/&RapierTypeTitle	Rapier
+Equipment/&QuarterstaffTypeTitle	Staffa
+Equipment/&RapierTypeTitle	Stocco
 Equipment/&ReachTitle	Raggiungere
 Equipment/&RingDetectInvisibleDescription	Questo anello rivela creature invisibili fino a 12 celle di distanza.
 Equipment/&RingDetectInvisibleTitle	Anello di rilevamento invisibile
@@ -605,11 +605,11 @@ Equipment/&ScaleArmorPlus1_Unidentified_Title	Magnifica armatura a scaglie
 Equipment/&ScholarPackTitle	Pacchetto dello studioso
 Equipment/&ScimitarTypeTitle	Scimitarra
 Equipment/&ScrollAcidArrowDescription	Quando usi questa pergamena, lanci l'incantesimo freccia acida.
-Equipment/&ScrollAcidArrowTitle	Scorrimento di Acid Arrow
-Equipment/&ScrollBaneDescription	Quando usi questa pergamena, lanci l'incantesimo Bane.
-Equipment/&ScrollBaneTitle	Pergamena di Bane
-Equipment/&ScrollBarkskinDescription	Quando usi questa pergamena, lanci l'incantesimo Barkskin.
-Equipment/&ScrollBarkskinTitle	Pergamena di Barkskin
+Equipment/&ScrollAcidArrowTitle	Pergamenta di Freccia Acida
+Equipment/&ScrollBaneDescription	Quando usi questa pergamena, lanci l'incantesimo Anatema.
+Equipment/&ScrollBaneTitle	Pergamena di Anatema
+Equipment/&ScrollBarkskinDescription	Quando usi questa pergamena, lanci l'incantesimo Pelle Coriacea.
+Equipment/&ScrollBarkskinTitle	Pergamena di Pelle Coriacea
 Equipment/&ScrollBlessDescription	Quando usi questa pergamena, lanci l'incantesimo Benedizione.
 Equipment/&ScrollBlessTitle	Pergamena della benedizione
 Equipment/&ScrollBurningHandsDescription	Quando usi questa pergamena, lanci l'incantesimo delle mani ardenti.
@@ -623,7 +623,7 @@ Equipment/&ScrollExpeditiousRetreatTitle	Rotolo di Ritiro Rapido
 Equipment/&ScrollFireballDescription	Quando usi questa pergamena, lanci l'incantesimo Palla di fuoco.
 Equipment/&ScrollFireballTitle	Rotolo di palla di fuoco
 Equipment/&ScrollFogCloudDescription	Quando usi questa pergamena, lanci l'incantesimo Nebbia Nuvola.
-Equipment/&ScrollFogCloudTitle	Scroll of Fog Cloud
+Equipment/&ScrollFogCloudTitle	Pergamena of Nube di Nebbia
 Equipment/&ScrollGreaseDescription	Quando usi questa pergamena, lanci l'incantesimo Grease.
 Equipment/&ScrollGreaseTitle	Rotolo di grasso
 Equipment/&ScrollGuidingBoltDescription	Quando usi questa pergamena, lanci l'incantesimo Dardo guida.
@@ -633,7 +633,7 @@ Equipment/&ScrollHideousLaughterTitle	Pergamena di risate orribili
 Equipment/&ScrollHoldPersonDescription	Quando usi questa pergamena, lanci l'incantesimo Hold Person.
 Equipment/&ScrollHoldPersonTitle	Pergamena di Hold Person
 Equipment/&ScrollIdentifyDescription	Quando usi questa pergamena, lanci l'incantesimo Identifica.
-Equipment/&ScrollIdentifyTitle	Scroll of Identify
+Equipment/&ScrollIdentifyTitle	Pergamena of Identificare
 Equipment/&ScrollJumpDescription	Quando usi questa pergamena, lanci l'incantesimo Salto.
 Equipment/&ScrollJumpTitle	Scorrimento del salto
 Equipment/&ScrollKitToolTypeDescription	Contiene gli strumenti e i materiali necessari per preparare l'inchiostro magico e creare pergamene degli incantesimi.
@@ -644,8 +644,8 @@ Equipment/&ScrollLightningBoltDescription	Quando usi questa pergamena, lanci l'i
 Equipment/&ScrollLightningBoltTitle	Pergamena del fulmine
 Equipment/&ScrollMageArmorDescription	Quando usi questa pergamena, lanci l'incantesimo Armatura del mago.
 Equipment/&ScrollMageArmorTitle	Pergamena dell'armatura del mago
-Equipment/&ScrollMagicMissileDescription	Quando usi questa pergamena, lanci l'incantesimo Missile magico.
-Equipment/&ScrollMagicMissileTitle	Pergamena del missile magico
+Equipment/&ScrollMagicMissileDescription	Quando usi questa pergamena, lanci l'incantesimo Dardo Incantato.
+Equipment/&ScrollMagicMissileTitle	Pergamena del Dardo Incantato
 Equipment/&ScrollProtectionFromEvilandGoodDescription	Quando usi questa pergamena, lanci l'incantesimo Protezione dal male e dal bene.
 Equipment/&ScrollProtectionFromEvilandGoodTitle	Pergamena di protezione dal male e dal bene
 Equipment/&ScrollRaiseDeadDescription	Quando usi questa pergamena, lanci l'incantesimo Raise Dead.
@@ -659,7 +659,7 @@ Equipment/&ScrollShieldOfFaithTitle	Pergamena dello scudo della fede
 Equipment/&ScrollSleepDescription	Quando usi questa pergamena, lanci l'incantesimo Sonno.
 Equipment/&ScrollSleepTitle	Pergamena del sonno
 Equipment/&ScrollThunderwaveDescription	Quando usi questa pergamena, lanci l'incantesimo Onda di Tuono.
-Equipment/&ScrollThunderwaveTitle	Scroll of Thunderwave
+Equipment/&ScrollThunderwaveTitle	Pergamena of Thunderwave
 Equipment/&Sellsword_Background_Quest_Document_01	Caro amico, ora che hai salvato il barone, devo parlarti di alcune questioni del passato che ora sono libero di divulgare. Non sono stato del tutto sincero con te durante la tua ultima visita. Ti fermeresti la prossima volta che sarai a Coparann?\n\nCieli sereni per te,\n\nMildred Warmhearth
 Equipment/&Sellsword_Background_Quest_Document_02	Carissima figlia,\n\nPresto incontreremo il nostro destino, tua madre e io. Un vecchio amico ti consegnerà questa lettera quando raggiungerai il punto in cui stai cercando significato e risposte nella vita.\n\nQuello che abbiamo fatto, lo abbiamo fatto per proteggerti, anche se può essere difficile da credere. È una cosa difficile lasciare un bambino solo al mondo, ma è meglio di altri destini.\n\nNon eravamo abbastanza forti per resistere alla tentazione, ma saremo abbastanza forti per non lasciare che il male trionfi alla fine.
 Equipment/&Sellsword_Background_Quest_Document_03	Riferiscimi subito! Ricorda, stiamo sempre a guardare e se pensi di tradirci, tuo figlio sarà il primo a soffrire! Siamo ovunque! Aspetto il tuo prossimo rapporto tra due giorni!
@@ -676,8 +676,8 @@ Equipment/&Shortbow_plus_1_Title	Arco corto +1
 Equipment/&Shortbow_plus_1_Unidentified_Description	Questo arco corto superbamente bilanciato è inciso con antiche rune.
 Equipment/&Shortbow_plus_1_Unidentified_Title	Magnifico arco corto
 Equipment/&ShortbowPlus1TypeTitle	Arco corto + 1
-Equipment/&ShortbowTypeTitle	Shortbow
-Equipment/&ShortswordTypeTitle	Spadone
+Equipment/&ShortbowTypeTitle	Arco Corto
+Equipment/&ShortswordTypeTitle	Spada Corto
 Equipment/&SickleTypeTitle	Falce
 Equipment/&SimpleWeaponCategoryDescription	I tipi di armi più semplici che la maggior parte delle persone può usare con competenza, ma non tutti.
 Equipment/&SimpleWeaponCategoryTitle	Armi semplici
@@ -739,7 +739,7 @@ Equipment/&WandLightningBoltsTitle	Bacchetta di fulmini
 Equipment/&WandMagicMissileTitle	Bacchetta magica Missile
 Equipment/&WandSpecialDescription	Una bacchetta di maestria superiore, forse con qualità sconosciute.
 Equipment/&WandSpecialTitle	Magnifica bacchetta
-Equipment/&WarhammerTypeTitle	Warhammer
+Equipment/&WarhammerTypeTitle	Martello da guerra
 Equipment/&WarpickTypeTitle	Scelta di guerra
 Equipment/&WeaponTagAmmunitionTitle	Munizioni
 Equipment/&WeaponTagFinesseTitle	Finezza
@@ -747,7 +747,7 @@ Equipment/&WeaponTagHeavyTitle	pesante
 Equipment/&WeaponTagLightTitle	Leggero
 Equipment/&WeaponTagLoadingTitle	Caricamento in corso
 Equipment/&WeaponTagReachTitle	Raggiungere
-Equipment/&WeaponTagThrownTitle	Gettato
+Equipment/&WeaponTagThrownTitle	Lancio
 Equipment/&WeaponTagTwoHandedTitle	A due mani
 Equipment/&WeaponTagVersatileTitle	Versatile
 Equipment/&WhipTypeTitle	Frusta
@@ -949,9 +949,9 @@ Equipment/&RingLanguages_Title	Anello di tutte le parole
 Equipment/&FunctionGoodberryFeedOtherTitle	Mangiare
 Equipment/&FunctionGoodberryEatTitle	Dai da mangiare a qualcuno
 Equipment/&Item_Berry_Ration_Title	Goodberry
-Equipment/&HalpfPlatePlus1_Title	Mezzo piatto +1
+Equipment/&HalpfPlatePlus1_Title	Mezza Armatura +1
 Equipment/&HalpfPlatePlus1_Description	Questa armatura magica è stata realizzata per un cavaliere di Gallivan. Il suo nome è inciso sotto il pettorale: Ramsay.
-Equipment/&HalpfPlatePlus1_Unidentified_Title	Splendida armatura a mezza piastra
+Equipment/&HalpfPlatePlus1_Unidentified_Title	Splendida armatura a Mezza Armatura
 Equipment/&HalpfPlatePlus1_Unidentified_Description	Questa magnifica armatura sembra molto antica ed è finemente lavorata. Probabilmente è magico.
 Equipment/&Ingredient_TigerDrakeScales_Description	Scaglie di un serpente volante molto grande trovato nelle Badlands.
 Equipment/&Ingredient_TigerDrakeScales_Title	Tiger Drake Scales
@@ -1251,11 +1251,11 @@ Equipment/&Mace_plus_one_TypeTitle	Mazza +1
 Equipment/&Mace_plus_one_Description	Un ottimo esempio delle armi prodotte dagli armaioli nanici nelle città della Snow Alliance.
 Equipment/&Mace_plus_one_Unidentified_Title	Magnifica Mazza
 Equipment/&Mace_plus_one_Unidentified_Description	Una mazza di ottima fattura con raffinate decorazioni.
-Equipment/&Quarterstaff_plus_three_TypeTitle	Quarterstaff +3
+Equipment/&Quarterstaff_plus_three_TypeTitle	Staffa +3
 Equipment/&Quarterstaff_plus_three_Description	TBC
 Equipment/&Quarterstaff_plus_three_Unidentified_Title	Magnifico bastone da passeggio
 Equipment/&Quarterstaff_plus_three_Unidentified_Description	Un quarto di bastone particolarmente ben realizzato decorato con oro e gemme.
-Equipment/&Rapier_plus_one_TypeTitle	Rapier +1
+Equipment/&Rapier_plus_one_TypeTitle	Stocco +1
 Equipment/&Rapier_plus_one_Description	TBC
 Equipment/&Rapier_plus_one_Unidentified_Title	Magnifica rapière
 Equipment/&Rapier_plus_one_Unidentified_Description	Uno stocco fine, estremamente affilato e ben bilanciato.
@@ -1263,15 +1263,15 @@ Equipment/&Shortsword_plus_one_TypeTitle	Spada corta +1
 Equipment/&Shortsword_plus_one_Description	TBC
 Equipment/&Shortsword_plus_one_Unidentified_Title	Magnifico Spadone
 Equipment/&Shortsword_plus_one_Unidentified_Description	Una lama eccezionale montata su un'elsa decorativa e incisa.
-Equipment/&Greataxe_plus_1_Title	Superba Greataxe
+Equipment/&Greataxe_plus_1_Title	Superba Ascia Bipenne
 Equipment/&Greataxe_plus_1_Description	TBC
-Equipment/&Greataxe_plus_1_unidentified_Title	Greataxe +1
+Equipment/&Greataxe_plus_1_unidentified_Title	Ascia Bipenne +1
 Equipment/&Greataxe_plus_1_unidentified_Description	Grande ascia finemente decorata con incisioni runiche.
 Equipment/&Maul_Title	Maul
 Equipment/&Maul_Description	Una mazza semplice, buona e pesante per schiacciare i tuoi avversari.
-Equipment/&Quarterstaff_plus_two_TypeTitle	Stupendo Quarterstaff
+Equipment/&Quarterstaff_plus_two_TypeTitle	Stupendo Staffa
 Equipment/&Quarterstaff_plus_two_Description	TBC
-Equipment/&Quarterstaff_plus_two_Unidentified_Title	Quarterstaff +2
+Equipment/&Quarterstaff_plus_two_Unidentified_Title	Staffa +2
 Equipment/&Quarterstaff_plus_two_Unidentified_Description	Un quarto di bastone particolarmente ben realizzato decorato con oro e gemme.
 Equipment/&Shield_plus_3_Title	Superb Shield
 Equipment/&Shield_plus_3_Description	TBC
@@ -1409,17 +1409,17 @@ Equipment/&PickupQuest_Item_MagisterAmulet_Description	Questo amuleto ingioiella
 Equipment/&ScrollHasteDescription	Quando usi questa pergamena, lanci l'incantesimo Rapidità.
 Equipment/&ScrollHasteTitle	Pergamena della fretta
 Equipment/&ScrollConjureAnimalsDescription	Quando usi questa pergamena, lanci l'incantesimo Evoca Animali.
-Equipment/&ScrollConjureAnimalsTitle	Scroll of Conjure Animals
+Equipment/&ScrollConjureAnimalsTitle	Pergamena of Conjure Animals
 Equipment/&ScrollDaylightDescription	Quando usi questa pergamena, lanci l'incantesimo Luce del giorno.
-Equipment/&ScrollDaylightTitle	Scroll of Daylight
+Equipment/&ScrollDaylightTitle	Pergamena of Daylight
 Equipment/&ScrollFlyDescription	Quando usi questa pergamena, lanci l'incantesimo Vola.
-Equipment/&ScrollFlyTitle	Scroll of Fly
+Equipment/&ScrollFlyTitle	Pergamena of Fly
 Equipment/&ScrollSleetStormDescription	Quando usi questa pergamena, lanci l'incantesimo Tempesta di Nevischio.
 Equipment/&ScrollSleetStormTitle	Pergamena della Tempesta di Nevischio
 Equipment/&ScrollSlowDescription	Quando usi questa pergamena, lanci l'incantesimo Slow.
-Equipment/&ScrollSlowTitle	Scroll of Slow
+Equipment/&ScrollSlowTitle	Pergamena of Slow
 Equipment/&ScrollSpiritGuardiansDescription	Quando usi questa pergamena, lanci l'incantesimo Spirit Guardians.
-Equipment/&ScrollSpiritGuardiansTitle	Scroll of Spirit Guardians
+Equipment/&ScrollSpiritGuardiansTitle	Pergamena of Spirit Guardians
 Equipment/&ScrollStinkingCloudDescription	Quando usi questa pergamena, lanci l'incantesimo Nube Puzzolente.
 Equipment/&ScrollStinkingCloudTitle	Pergamena della nuvola puzzolente
 Equipment/&ScrollTonguesDescription	Quando usi questa pergamena, lanci l'incantesimo Tongues.
@@ -1439,9 +1439,9 @@ Equipment/&Morningstar_plus_2_Description	Tradizione da confermare
 Equipment/&Tirmarian_GreataxeTypeDescription	Questa ascia meravigliosamente imballata porta i segni distintivi degli artigiani Tirmarian! Come è atterrato tra i tesori degli orchi è solo un altro mistero delle Badlands!
 Equipment/&BattleAxe_plus_1_Unidentified_Title	Magnifica ascia da battaglia
 Equipment/&BattleAxe_plus_1_Unidentified_Description	Un'ascia da battaglia finemente lavorata con incisioni e rune. Probabilmente magico.
-Equipment/&Warhammer_plus_1_Title	Warhammer +1
+Equipment/&Warhammer_plus_1_Title	Martello da guerra +1
 Equipment/&Warhammer_plus_1_Description	TBC
-Equipment/&Warhammer_plus_1_unidentified_Title	Superbo Warhammer
+Equipment/&Warhammer_plus_1_unidentified_Title	Superbo Martello da guerra
 Equipment/&Warhammer_plus_1_unidentified_Description	Un martello da guerra ben bilanciato ed estremamente robusto.
 Equipment/&HelmLanguages_Title	Elmo della comprensione delle lingue
 Equipment/&HelmLanguages_Description	Ti permette di lanciare l'incantesimo Tongues a tuo piacimento e di decifrare e parlare tutte le lingue.
@@ -1501,7 +1501,7 @@ Equipment/&ScrollDominatePersonTitle	Pergamena della persona dominante
 Equipment/&ScrollDominatePersonDescription	Quando usi questa pergamena, lanci l'incantesimo Dominate Person.
 Equipment/&ScrollDispelEvilAndGoodTitle	Pergamena di Dissolvi il male e il bene
 Equipment/&ScrollDispelEvilAndGoodDescription	Quando usi questa pergamena, lanci l'incantesimo Dissolvi il male e il bene.
-Equipment/&ScrollFlameStrikeTitle	Scroll of Flame Strike
+Equipment/&ScrollFlameStrikeTitle	Pergamena of Flame Strike
 Equipment/&ScrollFlameStrikeDescription	Quando usi questa pergamena, lanci l'incantesimo Colpo di fiamma.
 Equipment/&ScrollGreaterRestorationTitle	Pergamena della Restaurazione Superiore
 Equipment/&ScrollGreaterRestorationDescription	Quando usi questa pergamena, lanci l'incantesimo Restaurazione Superiore.
@@ -1511,17 +1511,17 @@ Equipment/&ScrollInsectPlagueTitle	Pergamena della peste degli insetti
 Equipment/&ScrollInsectPlagueDescription	Quando usi questa pergamena, lanci l'incantesimo Insect Plague.
 Equipment/&ScrollMassCureWoundsTitle	Pergamena delle ferite curative di massa
 Equipment/&ScrollMassCureWoundsDescription	Quando usi questa pergamena, lanci l'incantesimo Mass Cure Wounds.
-Equipment/&ScrollMindTwistTitle	Scroll of Mind Twist
+Equipment/&ScrollMindTwistTitle	Pergamena of Mind Twist
 Equipment/&ScrollMindTwistDescription	Quando usi questa pergamena, lanci l'incantesimo Mind Twist.
 Equipment/&ScrollBanishmentTitle	Pergamena dell'esilio
 Equipment/&ScrollBanishmentDescription	Quando usi questa pergamena, lanci l'incantesimo Esilio.
 Equipment/&ScrollBlackTentaclesTitle	Rotolo di tentacoli neri
 Equipment/&ScrollBlackTentaclesDescription	Quando usi questa pergamena, lanci l'incantesimo Black Tentacles.
-Equipment/&ScrollBlightTitle	Scroll of Blight
+Equipment/&ScrollBlightTitle	Pergamena of Blight
 Equipment/&ScrollBlightDescription	Quando usi questa pergamena, lanci l'incantesimo Blight.
 Equipment/&ScrollConfusionTitle	Pergamena della confusione
 Equipment/&ScrollConfusionDescription	Quando usi questa pergamena, lanci l'incantesimo Confusione.
-Equipment/&ScrollDeathwardTitle	Scroll of Deathward
+Equipment/&ScrollDeathwardTitle	Pergamena of Deathward
 Equipment/&ScrollDeathwardDescription	Quando usi questa pergamena, lanci l'incantesimo Deathward.
 Equipment/&ScrollDimensionDoorTitle	Pergamena della porta dimensionale
 Equipment/&ScrollDimensionDoorDescription	Quando usi questa pergamena, lanci l'incantesimo Porta Dimensionale.
@@ -1531,7 +1531,7 @@ Equipment/&ScrollGiantInsectTitle	Pergamena dell'insetto gigante
 Equipment/&ScrollGiantInsectDescription	Quando usi questa pergamena, lanci l'incantesimo Giant Insect.
 Equipment/&ScrollGreaterInvisibilityTitle	Pergamena della maggiore invisibilità
 Equipment/&ScrollGreaterInvisibilityDescription	Quando usi questa pergamena, lanci l'incantesimo Invisibilità Superiore.
-Equipment/&ScrollGuardianOfFaithTitle	Scroll of Guardian of Faith
+Equipment/&ScrollGuardianOfFaithTitle	Pergamena of Guardian of Faith
 Equipment/&ScrollGuardianOfFaithDescription	Quando usi questa pergamena, lanci l'incantesimo Guardian of Faith.
 Equipment/&ScrollIceStormTitle	Pergamena della tempesta di ghiaccio
 Equipment/&ScrollIceStormDescription	Quando usi questa pergamena, lanci l'incantesimo Tempesta di ghiaccio.
@@ -1549,7 +1549,7 @@ Equipment/&ScrollCommandTitle	Scorrimento del comando
 Equipment/&ScrollCommandDescription	Quando usi questo rotolo, lanci l'incantesimo Comando.
 Equipment/&ScrollConjureMinorElementalsTitle	Pergamena di Evoca Elementali Minori
 Equipment/&ScrollConjureMinorElementalsDescription	Quando usi questa pergamena, lanci l'incantesimo Evoca Elementali Minori.
-Equipment/&ScrollEntangleTitle	Scroll of Entangle
+Equipment/&ScrollEntangleTitle	Pergamena of Entangle
 Equipment/&ScrollEntangleDescription	Quando usi questa pergamena, lanci l'incantesimo Intralciare.
 Equipment/&Breastplate_Unidentified_Title	Magnifico pettorale
 Equipment/&Breastplate_Unidentified_Description	Un pettorale ben decorato con incisioni runiche.
@@ -1571,9 +1571,9 @@ Equipment/&ScrollVampiricTouchTitle	Pergamena del Tocco Vampirico
 Equipment/&ScrollVampiricTouchDescription	Quando usi questa pergamena, lanci l'incantesimo Tocco Vampirico.
 Equipment/&ScrollBlindnessTitle	Pergamena della cecità
 Equipment/&ScrollBlindnessDescription	Quando usi questa pergamena, lanci l'incantesimo Cecità.
-Equipment/&ScrollBlurTitle	Scroll of Blur
+Equipment/&ScrollBlurTitle	Pergamena of Blur
 Equipment/&ScrollBlurDescription	Quando usi questa pergamena, lanci l'incantesimo Sfocatura.
-Equipment/&ScrollDarknessTitle	Scroll of Darkness
+Equipment/&ScrollDarknessTitle	Pergamena of Darkness
 Equipment/&ScrollDarknessDescription	Quando usi questa pergamena, lanci l'incantesimo Oscurità.
 Equipment/&ScrollDarkvisionTitle	Pergamena di Darkvision
 Equipment/&ScrollDarkvisionDescription	Quando usi questa pergamena, lanci l'incantesimo Scurovisione.
@@ -1597,9 +1597,9 @@ Equipment/&ScrollMistyStepTitle	Pergamena di Misty Step
 Equipment/&ScrollMistyStepDescription	Quando usi questa pergamena, lanci l'incantesimo Misty Step.
 Equipment/&ScrollRayOfEnfeeblementTitle	Pergamena del raggio di indebolimento
 Equipment/&ScrollRayOfEnfeeblementDescription	Quando usi questa pergamena, lanci l'incantesimo Raggio di indebolimento.
-Equipment/&ScrollSeeInvisibilityTitle	Scroll of See Invisibility
+Equipment/&ScrollSeeInvisibilityTitle	Pergamena of See Invisibility
 Equipment/&ScrollSeeInvisibilityDescription	Quando usi questa pergamena, lanci l'incantesimo Vedi Invisibilità.
-Equipment/&ScrollShatterTitle	Scroll of Shatter
+Equipment/&ScrollShatterTitle	Pergamena of Shatter
 Equipment/&ScrollShatterDescription	Quando usi questa pergamena, lanci l'incantesimo Shatter.
 Equipment/&ScrollSilenceTitle	Pergamena del silenzio
 Equipment/&ScrollSilenceDescription	Quando usi questa pergamena, lanci l'incantesimo Silenzio.
@@ -1615,7 +1615,7 @@ Equipment/&ScrollCharmPersonTitle	Pergamena di Charm Person
 Equipment/&ScrollCharmPersonDescription	Quando usi questa pergamena, lanci l'incantesimo Incanta Persona.
 Equipment/&ScrollComprehendLanguagesTitle	Pergamena delle lingue comprensibili
 Equipment/&ScrollComprehendLanguagesDescription	Quando usi questa pergamena, lanci l'incantesimo Comprendi Lingue.
-Equipment/&ScrollDetectEvilAndGoodTitle	Scroll of Detect Evil and Good
+Equipment/&ScrollDetectEvilAndGoodTitle	Pergamena of Detect Evil and Good
 Equipment/&ScrollDetectEvilAndGoodDescription	Quando usi questa pergamena, lanci l'incantesimo Rileva il male e il bene.
 Equipment/&ScrollDetectMagicTitle	Pergamena di Detect Magic
 Equipment/&ScrollDetectMagicDescription	Quando usi questa pergamena, lanci l'incantesimo Rileva Magia.
@@ -1623,7 +1623,7 @@ Equipment/&ScrollDetectionPoisonAndDiseaseTitle	Pergamena di Rileva veleno e mal
 Equipment/&ScrollDetectionPoisonAndDiseaseDescription	Quando usi questa pergamena, lanci l'incantesimo Rileva veleno e malattia.
 Equipment/&ScrollFaerieFireTitle	Pergamena del fuoco fatato
 Equipment/&ScrollFaerieFireDescription	Quando usi questa pergamena, lanci l'incantesimo Faerie Fire.
-Equipment/&ScrollFeatherFallTitle	Scroll of Feather Fall
+Equipment/&ScrollFeatherFallTitle	Pergamena of Feather Fall
 Equipment/&ScrollFeatherFallDescription	Quando usi questa pergamena, lanci l'incantesimo Feather Fall.
 Equipment/&ScrollInflictWoundsTitle	Pergamena delle ferite inflitte
 Equipment/&ScrollInflictWoundsDescription	Quando usi questa pergamena, lanci l'incantesimo Infliggi Ferite.
@@ -1686,7 +1686,7 @@ Equipment/&Flash_Bolt_CraftingRecipe_Title	Crea 5 bulloni lampeggianti
 Equipment/&ContainerHarvestable_LavaStone_Title	Pietre laviche
 Equipment/&ContainerHarvestable_LavaStone_Description	Queste pietre primordiali si trovano solo dove il calore estremo ha sciolto pietre rare con la magia.
 Equipment/&Quarterstaff_plus_2_Description	Questo bastone magico magico è stato incantato dai maghi silvestri usando una gemma di sangue.
-Equipment/&Quarterstaff_plus_one_TypeTitle	Quarterstaff +1
+Equipment/&Quarterstaff_plus_one_TypeTitle	Staffa +1
 Equipment/&Quarterstaff_plus_one_Description	Questo bellissimo bastone è stato realizzato da maghi di un'antica e quasi dimenticata tradizione: gli Stonemages.
 Equipment/&Dagger_plus_two_Description	Questo elegante pugnale sinuoso è una grande arma magica realizzata da un'antica tradizione di maghi noti come maghi di corte.
 Equipment/&ShortbowPlus_2_TypeDescription	Un'arma classica dei laboratori di Defineth Sharpsight, un famoso incantatore elfo silvestre.
@@ -1723,20 +1723,20 @@ Equipment/&Scimitar_plus_one_Unidentified_Title	Superba Scimitarra
 Equipment/&Scimitar_plus_one_Unidentified_Description	Questa elegante scimitarra è chiaramente opera di un maestro fabbro e può anche essere magica.
 Equipment/&Scimitar_plus_one_Title	Scimitarra +1
 Equipment/&Scimitar_plus_one_Description	Quest'arma fu forgiata su Tirmar ed era il marchio di fabbrica delle spie dell'Inquisizione durante i secoli bui.
-Equipment/&Rapier_plus_two_TypeTitle	Rapier +2
+Equipment/&Rapier_plus_two_TypeTitle	Stocco +2
 Equipment/&Rapier_plus_two_Description	Un capolavoro di Griff Blackheart, famoso per i suoi mortali stocchi.
 Equipment/&Longbow_plus_2_Title	Arco lungo +2
 Equipment/&Longbow_plus_2_Description	Defineth Sharpsight, il famoso incantatore elfo silvestre che ha progettato molti archi diversi, ha creato questo arco per un solo, cupo scopo: uccidere i suoi cugini, gli elfi dell'Impero di Manacalon.
 Equipment/&Mace_plus_two_Title	Mazza +2
 Equipment/&Mace_plus_two_Description	Quest'arma era tipicamente impugnata dai veterani della Cavalleria d'Oro per effetti devastanti in prima linea.
-Equipment/&Greataxe_plus_01_Title	Greataxe +1
+Equipment/&Greataxe_plus_01_Title	Ascia Bipenne +1
 Equipment/&Greataxe_plus_01_Description	Una tipica arma nanica, probabilmente fabbricata dai fabbri della Snow Alliance.
-Equipment/&Greataxe_plus_01_unidentified_Title	Superba Greataxe
+Equipment/&Greataxe_plus_01_unidentified_Title	Superba Ascia Bipenne
 Equipment/&Greataxe_plus_01_unidentified_Description	Grande ascia finemente decorata con incisioni runiche.
-Equipment/&Greataxe_plus_2_Title	Greataxe +2
+Equipment/&Greataxe_plus_2_Title	Ascia Bipenne +2
 Equipment/&BattleAxe_plus_2_Title	Un capolavoro di Galar Stormforge, forgiato tra le fiamme delle montagne settentrionali e immerso nelle nevi eterne.
 Equipment/&Handaxe_plus_01_Description	Un'arma tipica forgiata dai fabbri nanici della Snow Alliance.
-Equipment/&Warhammer_plus_02_Title	Warhammer +2
+Equipment/&Warhammer_plus_02_Title	Martello da guerra +2
 Equipment/&Warhammer_plus_02_Description	Un martello da guerra leggero e di ottima fattura, realizzato da Galar Stormforge, come prototipo di un'arma più potente.
 Equipment/&Warhammer_plus_01_Description	Un'arma tipica forgiata dai fabbri nanici della Snow Alliance.
 Equipment/&Shortsword_plus_1_Description	Sebbene segua lo stile di Defineth Sharpsight, questa è ovviamente una copia e non un prodotto del maestro fabbro. Tuttavia, è un'ottima arma magica.
