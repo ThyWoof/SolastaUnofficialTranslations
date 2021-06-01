@@ -26,3 +26,18 @@ La fiesta pierde	El grupo pierde
 Elevar a mismo nivel	Subir de nivel
 Correo en cadena	Cota de Malla
 Escala de correo	Cota de placas
+En eso	INICIATIVA
+STR	FUE
+DEX	DES
+ESTAFA	CONS
+EN T	INT
+WIS	SAB
+CHA	CAR
+Moverse	VEL
+HP	P.G.
+Profe	COMP
+Dados de golpe	D. Golpe
+Ascendencia	Raza
+combatientes	guerreros
+Guardabosques	Cazador
+guardabosques	cazadores
