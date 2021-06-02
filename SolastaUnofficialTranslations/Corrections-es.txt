@@ -41,3 +41,41 @@ Ascendencia	Raza
 combatientes	guerreros
 Guardabosques	Cazador
 guardabosques	cazadores
+linajes	subrazas
+linaje	subraza
+Resiliencia	Resistencia
+Funciones de ascendencia	Atributos de raza
+de tiro de salvación	en las tiradas de salvación
+Aumento de la puntuación de habilidad	Mejora de característica
+Warhammer	Martillo de guerra
+Pequeño kit de herramientas Smith	Kit de herramientas de herrero
+AC	CA
+Bonificación por daños:	Bonificador al daño:
+dmg	daño
+Proteger	Escudo
+Pelea confusa	Cuerpo a cuerpo
+Cuchillada	Cortante
+rollos	resultado
+Cicatrización	Curación
+Pecho	Cofre
+Solicitar	Aceptar
+Luz	Ligero
+Estándar	Común
+Barra	Bastón
+Contiene un líquido reluciente. Cura parte de tu HP perdido cuando estás borracho.	Contiene un líquido rojo brillante. Restablece parte de tus PG perdidos al beberla.
+Guarde la fecha	Fecha de guardado
+Acrobacia	Acrobacias
+Arcanos	Conocimiento arcano
+Medicamento	Medicina
+Herramientas de Smith	Herramientas de herrero
+Engaño	Engañar
+Manejo de animales	Trato con animales
+Competencia Prima	Bono de competencia
+golpear	golpe
+Desacoplar	Destrabarse
+Hit	Golpe
+señorita	Fallo
+Si realiza la acción de desconexión, su movimiento no provoca ataques de oportunidad durante el resto del turno.	Al destrabarte evitas que el enemigo obtenga un ataque de oportunidad al salir de su rango de acción. Hacerlo gasta 1 acción.
+Perder	Fallo
+Pegar	Golpe
+Prima	Acción gratis
