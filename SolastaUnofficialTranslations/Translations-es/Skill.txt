@@ -11,7 +11,7 @@ Skill/&DeceptionTitle	Engaño
 Skill/&HistoryDescription	La prueba de Inteligencia (Historia) mide su capacidad para recordar la tradición sobre eventos históricos, personas legendarias, reinos antiguos, disputas pasadas, guerras recientes y civilizaciones perdidas.
 Skill/&HistoryTitle	Historia
 Skill/&InsightDescription	Tu prueba de Sabiduría (Perspicacia) decide si puedes determinar las verdaderas intenciones de una criatura, como cuando busca una mentira o predice el próximo movimiento de alguien. Esto puede ser útil para saber qué técnica de negociación debe emplear durante un diálogo.
-Skill/&InsightTitle	Visión
+Skill/&InsightTitle	Perspicacia
 Skill/&IntimidationDescription	Cuando intentas influir en alguien a través de amenazas abiertas, acciones hostiles y violencia física, puedes hacer una prueba de Carisma (Intimidación).
 Skill/&IntimidationTitle	Intimidación
 Skill/&InvestigationDescription	Cuando miras a tu alrededor en busca de pistas y haces deducciones basadas en esas pistas, haces una verificación de Inteligencia (Investigación).
