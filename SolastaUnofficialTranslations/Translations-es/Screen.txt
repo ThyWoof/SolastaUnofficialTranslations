@@ -66,7 +66,7 @@ Screen/&ClassHitDiceTitle	Dados de golpe
 Screen/&ClassOrMarkerTitle	O
 Screen/&ClassSelectionTitle	Seleccione una clase
 Screen/&ClearFiltersTitle	Limpiar filtros
-Screen/&CloseTitle	Cerca
+Screen/&CloseTitle	Cerrar
 Screen/&CompletedQuestsListTitle	Misiones completadas
 Screen/&ConfigurationHeaderTitle	Configuración de elementos equipados
 Screen/&ContainerSpaceDescription	Los artículos ocupan una cantidad de espacio y los contenedores (mochilas, bolsas) solo pueden caber artículos hasta un límite de espacio.
