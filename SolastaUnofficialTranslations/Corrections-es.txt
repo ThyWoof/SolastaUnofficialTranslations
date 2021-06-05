@@ -22,7 +22,7 @@ Riqueza del partido	Tesoro de grupo
 Vida falsa	Vida Prestada
 Tú compraste	Vas a comprar
 Vendes	Vas a vender
-La fiesta pierde	El grupo pierde
+La fiesta	El grupo
 Elevar a mismo nivel	Subir de nivel
 Correo en cadena	Cota de Malla
 Escala de correo	Cota de placas
@@ -103,4 +103,6 @@ Toma un pequeño descanso.	Tomar un descanso corto.
 El partido	El grupo
 guardado contra	salvación contra
 Deletrear	Verbal
- ahora es 	 ahora esta
+ahora es 	 ahora esta
+largo descanso	descanso largo
+Goodberry	Buenas bayas
