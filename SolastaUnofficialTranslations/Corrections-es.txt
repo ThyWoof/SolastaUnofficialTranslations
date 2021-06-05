@@ -106,3 +106,5 @@ Deletrear	Verbal
 ahora es 	 ahora esta
 largo descanso	descanso largo
 Goodberry	Buenas bayas
+Crownbearer	Portador de la corona
+Insight	Perspicacia
