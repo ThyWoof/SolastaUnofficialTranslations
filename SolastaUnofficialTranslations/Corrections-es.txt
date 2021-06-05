@@ -34,7 +34,6 @@ EN T	INT
 WIS	SAB
 CHA	CAR
 Moverse	VEL
-HP	P.G.
 Profe	COMP
 Dados de golpe	D. Golpe
 Ascendencia	Raza
