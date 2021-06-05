@@ -29,7 +29,7 @@ Escala de correo	Cota de placas
 En eso	INICIATIVA
 STR	FUE
 DEX	DES
-ESTAFA	CONS
+ESTAFA	CON
 EN T	INT
 WIS	SAB
 CHA	CAR
@@ -103,4 +103,4 @@ Toma un pequeño descanso.	Tomar un descanso corto.
 El partido	El grupo
 guardado contra	salvación contra
 Deletrear	Verbal
- ahora es 	 ahora esta 
+ ahora es 	 ahora esta
