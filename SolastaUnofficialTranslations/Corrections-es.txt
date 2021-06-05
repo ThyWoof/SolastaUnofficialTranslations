@@ -103,4 +103,4 @@ Toma un pequeño descanso.	Tomar un descanso corto.
 El partido	El grupo
 guardado contra	salvación contra
 Deletrear	Verbal
-{0} ahora es {1}	{0} ahora esta {1}
+ ahora es 	 ahora esta 
