@@ -77,7 +77,7 @@ señorita	Fallo
 Si realiza la acción de desconexión, su movimiento no provoca ataques de oportunidad durante el resto del turno.	Al destrabarte evitas que el enemigo obtenga un ataque de oportunidad al salir de su rango de acción. Hacerlo gasta 1 acción.
 Perder	Fallo
 Pegar	Golpe
-Prima	Principal
+Primario	Principal
 Número de divinidad del canal	Número de Canalizar divinidad
 Bonificación de puntos de vida por nivel	Bonificación de puntos de golpe por nivel
 La cantidad máxima de puntos de vida que una criatura puede soportar antes de caer inconsciente o muerta.	La cantidad máxima de puntos de golpe que una criatura puede soportar antes de caer inconsciente o morir.
@@ -98,3 +98,9 @@ Herramientas de subclase	Herramientas de arquetipo
 Visión	Perspicacia
 Desplazamiento	Pergamino
 desplazamiento	pergamino
+Tocar	Reanudar
+Toma un pequeño descanso.	Tomar un descanso corto.
+El partido	El grupo
+guardado contra	salvación contra
+Deletrear	Verbal
+{0} ahora es {1}	{0} ahora esta {1}
