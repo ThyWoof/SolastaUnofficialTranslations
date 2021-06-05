@@ -96,3 +96,5 @@ Habilidades de subclase	Habilidades de arquetipo
 Hechizos de subclase	Hechizos de arquetipo
 Herramientas de subclase	Herramientas de arquetipo
 Visión	Perspicacia
+Desplazamiento	Pergamino
+desplazamiento	pergamino
