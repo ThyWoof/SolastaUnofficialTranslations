@@ -108,3 +108,5 @@ largo descanso	descanso largo
 Goodberry	Buenas bayas
 Crownbearer	Portador de la corona
 Insight	Perspicacia
+Desplazamiento de mosca	Pergamino de Volar
+La desconexión se puede utilizar como acción principal,	Como acción principal se puede utilizar Destrabarse,
