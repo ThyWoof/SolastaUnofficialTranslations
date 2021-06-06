@@ -114,3 +114,12 @@ celda vecina	casilla adyacente
 Guardianes del espiritu	Espíritus Guardianes
 Risa horrible	Terribles carcajadas
 risa horrible	Terribles carcajadas
+para AC y DEX guardados	a la CA y Salvacion de DES
+de guardado de	en salvación contra
+modo cauteloso	modo Sigilo
+verificación	prueba
+Señorita crítica	Pifia
+Descanso breve	Descanso corto
+¡Encimera!	¡Contrarrestado!
+La criatura está apagada.	La criatura está a oscuras.
+La criatura tiene poca luz.	La criatura está en penumbra.
