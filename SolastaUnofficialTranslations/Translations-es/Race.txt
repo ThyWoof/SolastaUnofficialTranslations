@@ -74,7 +74,7 @@ Race/&ElfSurNameTitle	Familia
 Race/&ElfSylvanDescription	Nacidos y criados en los bosques orientales de Solasta, los <#B5D3DE>elfos silvestres</color> están entrenados para sobrevivir en la naturaleza y son particularmente hábiles en la supervivencia. Como sus primos los Altos Elfos, están entrenados para luchar con espadas y arcos desde la infancia.
 Race/&ElfSylvanTitle	Elfo Silvano
 Race/&ElfTitle	Elfo
-Race/&HalfElfDescription	Los <#B5D3DE>semielfos</color>, descendientes de refugiados humanos de Tirmar y los elfos de Solastan, poseen los mejores atributos de ambas razas. Versátiles, carismáticos y dotados de Visión en la Oscuridad y un linaje Feérico, siempre se debaten entre dos culturas.
+Race/&HalfElfDescription	Los <#B5D3DE>semielfos</color>, descendientes de refugiados humanos de Tirmar y los elfos de Solastan, poseen los mejores atributos de ambas razas. Versátiles, carismáticos y dotados de visión en la oscuridad, siempre se debaten entre dos culturas.
 Race/&HalfElfFemaleName1Title	Maiwen
 Race/&HalfElfFemaleName2Title	Serenrae
 Race/&HalfElfFemaleName3Title	Lila
