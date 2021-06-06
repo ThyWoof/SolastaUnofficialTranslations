@@ -110,3 +110,7 @@ Crownbearer	Portador de la corona
 Insight	Perspicacia
 Desplazamiento de mosca	Pergamino de Volar
 La desconexión se puede utilizar como acción principal,	Como acción principal se puede utilizar Destrabarse,
+celda vecina	casilla adyacente
+Guardianes del espiritu	Espíritus Guardianes
+Risa horrible	Terribles carcajadas
+risa horrible	Terribles carcajadas
