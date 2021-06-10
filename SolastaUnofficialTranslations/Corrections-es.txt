@@ -121,6 +121,7 @@ verificación	prueba
 Señorita crítica	Pifia
 Descanso breve	Descanso corto
 ¡Encimera!	¡Contrarrestado!
+Encimera	Contrahechizo
 La criatura está apagada.	La criatura está a oscuras.
 La criatura tiene poca luz.	La criatura está en penumbra.
 Pizca	Correr
@@ -128,3 +129,6 @@ Dash	Correr
 Screen/&DashModeTitle	Correr
 TutorialStep/&Tuto04_Dashing_Title	Correr
 el ambiente es de poca luz	el ambiente es de penumbra
+estás comprometido	estás amenazado
+Bolsa de tenencia	Bolsa de contentión
+pero no rueda	pero no tira
