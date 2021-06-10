@@ -108,7 +108,7 @@ largo descanso	descanso largo
 Goodberry	Buenas bayas
 Crownbearer	Portador de la corona
 Insight	Perspicacia
-Desplazamiento de mosca	Pergamino de Volar
+de mosca	de Volar
 La desconexión se puede utilizar como acción principal,	Como acción principal se puede utilizar Destrabarse,
 celda vecina	casilla adyacente
 Guardianes del espiritu	Espíritus Guardianes
@@ -123,3 +123,8 @@ Descanso breve	Descanso corto
 ¡Encimera!	¡Contrarrestado!
 La criatura está apagada.	La criatura está a oscuras.
 La criatura tiene poca luz.	La criatura está en penumbra.
+Pizca	Correr
+Dash	Correr
+Screen/&DashModeTitle	Correr
+TutorialStep/&Tuto04_Dashing_Title	Correr
+el ambiente es de poca luz	el ambiente es de penumbra
