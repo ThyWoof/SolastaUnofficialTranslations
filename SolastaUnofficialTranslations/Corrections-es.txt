@@ -112,6 +112,53 @@ Idioma de la subclase	Idioma de la arquetipo
 Habilidades de subclase	Habilidades de arquetipo
 Hechizos de subclase	Hechizos de arquetipo
 Herramientas de subclase	Herramientas de arquetipo
+Visión	Perspicacia
+Desplazamiento	Pergamino
+desplazamiento	pergamino
+Tocar	Reanudar
+Toma un pequeño descanso.	Tomar un descanso corto.
+El partido	El grupo
+guardado contra	salvación contra
+Deletrear	Verbal
+ahora es 	 ahora esta
+largo descanso	descanso largo
+Goodberry	Buenas bayas
+Crownbearer	Portador de la corona
+Insight	Perspicacia
+Desplazamiento de mosca	Pergamino de Volar
+La desconexión se puede utilizar como acción principal,	Como acción principal se puede utilizar Destrabarse,
+Pizca	Correr
+Dash	Correr
+Empujón	Empujar
+Esconder	Ocultarse
+Resistencia al daño del veneno	Resistencia al daño de veneno
+Vea normalmente con poca luz y en la oscuridad natural como si tuviera poca luz.	Veo de forma normal en sitios con poca luz, y como si hubiera poca luz cuando hay oscuridad.
+Dureza enana	Aguante enano
+Fondo	Trasfondo
+Sellsword	Mercenario
+DC	CD
+Broma	Truco
+Diario de fiesta	Diario de grupo
+Sub-misiones	Misiones secundarias
+Badlands	Tierras Inhóspitas
+Pericias	Competencias
+Pericia	Competencia
+tiros de salvación	tiradas de salvación
+Habilidades de luchador	Competencia en Habilidades:
+Habilidades de clérigo	Competencia en Habilidades:
+Habilidades de paladín	Competencia en Habilidades:
+Habilidades de mago	Competencia en Habilidades:
+Habilidades de guardabosques	Competencia en Habilidades:
+Habilidades de pícaro	Competencia en Habilidades:
+en armaduras de luchador	en armaduras:
+en armadura de paladin	en armaduras:
+en armaduras de guardabosques	en armaduras:
+en armadura de pícaro	en armaduras:
+en armadura de clérigo	en armaduras:
+con armas rebeldes	en armas
+en armas de guardabosques	en armas
+con armas de mago	en armas
+=======
 Primario	Principal
 Número de divinidad del canal	Número de Canalizar divinidad
 Bonificación de puntos de vida por nivel	Bonificación de puntos de golpe por nivel
