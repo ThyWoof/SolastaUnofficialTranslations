@@ -1,14 +1,14 @@
-Class/&CharacterClassSubTitle	Clase de personaje
-Class/&CharacterRaceSubTitle	Ascendencia del personaje
-Class/&ClericDescription	Los clérigos son los sirvientes de su deidad elegida. A cambio de su fe y servicio, se les conceden poderes milagrosos, siempre que se limiten a seguir el credo de su dios y realizar los rituales de su religión.
+Class/&CharacterClassSubTitle	Clase del personaje
+Class/&CharacterRaceSubTitle	Raza del personaje
+Class/&ClericDescription	Los clérigos son intermediarios entre el mundo mortal y los remotos planos de los dioses. Tan variopintos como las deidades a las que sirven, estos se esfuerzan por personificar las obras de sus dioses. Un clérigo no es un sacerdote corriente, pues está imbuido de magia divina.
 Class/&ClericTitle	Clérigo
-Class/&FighterDescription	Los luchadores están entrenados en las artes del combate. Son expertos en la mayoría de las armas, pero a menudo optan por especializarse. Todos los luchadores pueden usar armaduras, escudos y armas a distancia.
-Class/&FighterTitle	Combatiente
-Class/&PaladinDescription	Los paladines son guerreros de élite que han hecho juramentos sagrados inquebrantables para luchar contra el mal. Además de sus armas y armaduras, ejercen poderes divinos y hechizos clericales.
+Class/&FighterDescription	Los guerreros aprenden los rudimentos de todos los estilos de combate. De la misma forma, cualquier guerrero está familiarizado con los escudos y todos los tipos de armaduras. Sin embargo, los guerreros van más allá de estos conocimientos básicos, pues cada uno de ellos se especializa en un estilo de combate concreto. Esta combinación de amplias capacidades y especialización intensiva convierte a los guerreros en combatientes supremos.
+Class/&FighterTitle Guerrero
+Class/&PaladinDescription	Independientemente de su origen o misión, los paladines están unidos por su juramento, que les lleva a enfrentarse a las fuerzas del mal. Ya lo hayan pronunciado ante el altar de un dios y con un sacerdote como testigo, en un claro sagrado frente a espíritus de la naturaleza y seres feéricos o en un momento de desesperación y pena con los difuntos como únicos testigos, el juramento de un paladín es un vínculo muy poderoso. Es la fuente del poder que transforma a un combatiente devoto en un campeón bendito.
 Class/&PaladinTitle	Paladín
-Class/&RangerDescription	Vagabundos del desierto de Solasta, los guardabosques son supervivientes entrenados, feroces en la batalla y cazadores sigilosos. Excelentes rastreadores y arqueros, también tienen alguna habilidad para lanzar hechizos.
-Class/&RangerTitle	guardabosque
-Class/&RogueDescription	Los pícaros son, ante todo, versátiles. Utilizan sus talentos naturales para dominar diversas habilidades y encontrar su propia manera de prosperar. Generalmente ingeniosos, son conocidos por su astucia y su capacidad para lanzar ataques furtivos mortales.
+Class/&RangerDescription	Los exploradores son combatientes acostumbrados a la naturaleza salvaje, que se especializan en cazar a los monstruos que amenazan los lindes de la civilización. Aprenden a rastrear a sus presas como si de depredadores se tratara, moviéndose con sigilo a través del entorno natural y escondiéndose entre arbustos y escombros. Gracias a su conexión con la tierra y el entorno, los exploradores, desarrollan la capacidad de lanzar conjuros que emplean el poder de la naturaleza.
+Class/&RangerTitle	Explorador
+Class/&RogueDescription	Los pícaros recurren a la habilidad, el sigilo y explotar las debilidades de sus enemigos para sacar ventaja de cualquier situación. Tienen un don para encontrar la solución a casi cualquier problema. Su ingenio y versatilidad les convierten en la piedra angular de prácticamente cualquier grupo que culmina sus aventuras con éxito. Los pícaros dedican mucho esfuerzo a dominar una gran variedad de habilidades y perfeccionar sus técnicas de combate.
 Class/&RogueTitle	Pícaro
-Class/&WizardDescription	Los magos se pasan la vida estudiando magia, aprendiendo hechizos cada vez más poderosos y maravillosos. A pesar de su debilidad en el combate físico, sus habilidades mágicas los convierten en enemigos peligrosos.
+Class/&WizardDescription	Los magos son los supremos usuarios de la magia. Si algo define a esta clase es la gran cantidad de conjuros que puede lanzar. Tirando del sutil tejido mágico que permea el cosmos, lanzan conjuros de fuego explosivo, relámpagos súbitos, engaños sutiles y control mental. Su magia les permite conjurar elementales desde otros planos de existencia, vislumbrar el futuro o alzar enemigos fallecidos en forma de zombis. Sus conjuros más poderosos les permiten transmutar una sustancia en otra, invocar meteoros para que caigan desde el cielo o abrir portales a otros mundos. Un mago vive por y para sus conjuros; todo lo demás es secundario.
 Class/&WizardTitle	Mago

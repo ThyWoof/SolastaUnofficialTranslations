@@ -1,12 +1,12 @@
-SlotType/&AmmunitionSlotDescription	Puede almacenar municiones para armas a distancia aquí.
-SlotType/&AmmunitionSlotTitle	Munición
+SlotType/&AmmunitionSlotDescription	Puede almacenar munición para armas a distancia aquí.
+SlotType/&AmmunitionSlotTitle	Proyectiles
 SlotType/&BackSlotDescription	Puedes equipar mochilas, escudo o atar armas grandes aquí.
-SlotType/&BackSlotTitle	atrás
+SlotType/&BackSlotTitle	Espalda
 SlotType/&BeltSlotDescription	Puedes equipar cinturones o fajas aquí.
 SlotType/&BeltSlotTitle	Cinturón
-SlotType/&ContainerSlotDescription	Puede almacenar cualquier objeto aquí.
-SlotType/&ContainerSlotTitle	Envase
-SlotType/&FeetSlotDescription	Puede usar botas, pantuflas o zapatos en este espacio.
+SlotType/&ContainerSlotDescription	Puedes almacenar cualquier objeto aquí.
+SlotType/&ContainerSlotTitle	Contenedor
+SlotType/&FeetSlotDescription	Puedes usar botas, pantuflas o zapatos en este espacio.
 SlotType/&FeetSlotTitle	Pies
 SlotType/&FingerSlotDescription	Puedes equipar anillos aquí.
 SlotType/&FingerSlotTitle	Dedo
@@ -15,21 +15,21 @@ SlotType/&GlovesSlotTitle	Manos
 SlotType/&HeadSlotDescription	Puedes equipar sombreros, yelmos, coronas o diademas aquí.
 SlotType/&HeadSlotTitle	Cabeza
 SlotType/&MainHandSlotDescription	Puedes equipar las armas principales aquí.
-SlotType/&MainHandSlotTitle	Mano dominante
+SlotType/&MainHandSlotTitle	Mano hábil
 SlotType/&NeckSlotDescription	Puedes equipar collares y amuletos aquí.
 SlotType/&NeckSlotTitle	Cuello
 SlotType/&OffHandSlotDescription	Puedes equipar armas secundarias aquí. Si la mano principal ya está equipada con un arma de dos manos, esta ranura está desactivada.
-SlotType/&OffHandSlotTitle	Fuera de la mano
+SlotType/&OffHandSlotTitle	Mano torpe
 SlotType/&PersonalStorageSlotDescription	Puedes guardar objetos en tu mochila, etc., siempre que no superes el peso máximo del contenedor.
 SlotType/&PersonalStorageSlotTitle	Almacenamiento personal
 SlotType/&SmallContainerSlotDescription	Puede almacenar pequeños objetos aquí.
 SlotType/&SmallContainerSlotTitle	Contenedor pequeño
 SlotType/&TorchHolderSlotDescription	Aquí solo puede colocar antorchas o elementos equivalentes.
-SlotType/&TorchHolderSlotTitle	Titular de la antorcha
+SlotType/&TorchHolderSlotTitle	Fuentes de luz
 SlotType/&TorsoSlotDescription	Puedes equipar armaduras aquí.
 SlotType/&TorsoSlotTitle	Torso
-SlotType/&UtilitySlotDescription	Puede almacenar elementos de utilidad (pociones, pergaminos, enfoque de hechizo, bolsa de componentes) aquí.
-SlotType/&UtilitySlotTitle	Utilidad
+SlotType/&UtilitySlotDescription	Puede almacenar elementos de utilidad (pociones, pergaminos, canalizadores de hechizos, bolsa de componentes, etc.) aquí.
+SlotType/&UtilitySlotTitle	Utilidades
 SlotType/&WristsSlotDescription	Puedes equipar brazales aquí.
 SlotType/&WristsSlotTitle	Muñecas
 SlotType/&ShouldersSlotDescription	Puedes equipar capas y hombreras aquí.

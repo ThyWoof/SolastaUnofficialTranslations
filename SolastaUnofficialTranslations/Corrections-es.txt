@@ -2,19 +2,14 @@ próximo	siguiente
 Cerca	Cerrar
 Gravamen	Carga
 truco de luz 	hechizo de luz
-Dejar	Salir
 Utilizar artículo	Usar objeto
-Cauteloso	Sigilo
 Saquear todos	Coger todo
 coloque el mouse	coloque el ratón
 Herramientas de ladrones	Herramientas de ladrón
 Si intentas abrir o trabar	Si intentas abrir o forzar
 Ahorrar	Guardar
-Combatiente	Guerrero
-Caracteres	Personajes
 Creador de mazmorras	Editor de Mazmorras
 Revisa el juego	Pon una Reseña
-Intimidad	Privacidad
 Altruismo	Altruista
 Egoísmo	Egoísta
 Pragmatismo	Pragmático
@@ -22,7 +17,7 @@ Riqueza del partido	Tesoro de grupo
 Vida falsa	Vida Prestada
 Tú compraste	Vas a comprar
 Vendes	Vas a vender
-La fiesta	El grupo
+La fiesta pierde	El grupo pierde 
 Elevar a mismo nivel	Subir de nivel
 Correo en cadena	Cota de Malla
 Escala de correo	Cota de placas
@@ -34,15 +29,12 @@ EN T	INT
 WIS	SAB
 CHA	CAR
 Moverse	VEL
+HP	PG
 Profe	COMP
 Dados de golpe	D. Golpe
 Ascendencia	Raza
-combatientes	guerreros
-Guardabosques	Cazador
-guardabosques	cazadores
 linajes	subrazas
 linaje	subraza
-Resiliencia	Resistencia
 Funciones de ascendencia	Atributos de raza
 de tiro de salvación	en las tiradas de salvación
 Aumento de la puntuación de habilidad	Mejora de característica
@@ -58,30 +50,55 @@ rollos	resultado
 Cicatrización	Curación
 Pecho	Cofre
 Solicitar	Aceptar
-Luz	Ligero
 Estándar	Común
 Barra	Bastón
 Contiene un líquido reluciente. Cura parte de tu HP perdido cuando estás borracho.	Contiene un líquido rojo brillante. Restablece parte de tus PG perdidos al beberla.
 Guarde la fecha	Fecha de guardado
-Acrobacia	Acrobacias
-Arcanos	Conocimiento arcano
-Medicamento	Medicina
 Herramientas de Smith	Herramientas de herrero
-Engaño	Engañar
-Manejo de animales	Trato con animales
 Competencia Prima	Bono de competencia
-golpear	golpe
-Desacoplar	Destrabarse
-Hit	Golpe
-señorita	Fallo
-Si realiza la acción de desconexión, su movimiento no provoca ataques de oportunidad durante el resto del turno.	Al destrabarte evitas que el enemigo obtenga un ataque de oportunidad al salir de su rango de acción. Hacerlo gasta 1 acción.
 Perder	Fallo
 Pegar	Golpe
-Primario	Principal
-Número de divinidad del canal	Número de Canalizar divinidad
-Bonificación de puntos de vida por nivel	Bonificación de puntos de golpe por nivel
-La cantidad máxima de puntos de vida que una criatura puede soportar antes de caer inconsciente o muerta.	La cantidad máxima de puntos de golpe que una criatura puede soportar antes de caer inconsciente o morir.
-HP	PG
+Empujón	Empujar
+Esconder	Ocultarse
+Resistencia al daño del veneno	Resistencia al daño de veneno
+Vea normalmente con poca luz y en la oscuridad natural como si tuviera poca luz.	Veo de forma normal en sitios con poca luz, y como si hubiera poca luz cuando hay oscuridad.
+Dureza enana	Aguante enano
+Fondo	Trasfondo
+Sellsword	Mercenario
+DC	CD
+Broma	Truco
+Diario de fiesta	Diario de grupo
+Sub-misiones	Misiones secundarias
+Pericias	Competencias
+Pericia	Competencia
+tiros de salvación	tiradas de salvación
+Habilidades de luchador	Competencia en Habilidades
+Habilidades de clérigo	Competencia en Habilidades
+Habilidades de paladín	Competencia en Habilidades
+Habilidades de mago	Competencia en Habilidades
+Habilidades de guardabosques	Competencia en Habilidades
+Habilidades de pícaro	Competencia en Habilidades
+en armaduras de luchador	en armaduras
+en armadura de paladin	en armaduras
+en armaduras de guardabosques	en armaduras
+en armadura de pícaro	en armaduras
+en armadura de clérigo	en armaduras
+con armas rebeldes	en armas
+en armas de guardabosques	en armas
+con armas de mago	en armas
+Desplazamiento	Pergamino
+desplazamiento	pergamino
+Tocar	Reanudar
+Toma un pequeño descanso.	Tomar un descanso corto.
+El partido	El grupo
+guardado contra	salvación contra
+Deletrear	Verbal
+ahora es 	 ahora esta
+Revivify	Revivir
+Club	Garrote
+largo descanso	descanso largo
+Goodberry	Buenas bayas
+Crownbearer	Portador de la corona
 Cantrip de fondo	Trucos de trasfondo
 Dotes de fondo	Dotes de trasfondo
 Idiomas de fondo	Idiomas de trasfondo
@@ -132,3 +149,77 @@ el ambiente es de poca luz	el ambiente es de penumbra
 estás comprometido	estás amenazado
 Bolsa de tenencia	Bolsa de contentión
 pero no rueda	pero no tira
+=======
+Pizca	Correr
+Dash	Correr
+Empujón	Empujar
+Esconder	Ocultarse
+Resistencia al daño del veneno	Resistencia al daño de veneno
+Vea normalmente con poca luz y en la oscuridad natural como si tuviera poca luz.	Veo de forma normal en sitios con poca luz, y como si hubiera poca luz cuando hay oscuridad.
+Dureza enana	Aguante enano
+Fondo	Trasfondo
+Sellsword	Mercenario
+DC	CD
+Broma	Truco
+Diario de fiesta	Diario de grupo
+Sub-misiones	Misiones secundarias
+Badlands	Tierras Inhóspitas
+Pericias	Competencias
+Pericia	Competencia
+tiros de salvación	tiradas de salvación
+Habilidades de luchador	Competencia en Habilidades:
+Habilidades de clérigo	Competencia en Habilidades:
+Habilidades de paladín	Competencia en Habilidades:
+Habilidades de mago	Competencia en Habilidades:
+Habilidades de guardabosques	Competencia en Habilidades:
+Habilidades de pícaro	Competencia en Habilidades:
+en armaduras de luchador	en armaduras:
+en armadura de paladin	en armaduras:
+en armaduras de guardabosques	en armaduras:
+en armadura de pícaro	en armaduras:
+en armadura de clérigo	en armaduras:
+con armas rebeldes	en armas
+en armas de guardabosques	en armas
+con armas de mago	en armas
+Primario	Principal
+Número de divinidad del canal	Número de Canalizar divinidad
+Bonificación de puntos de vida por nivel	Bonificación de puntos de golpe por nivel
+La cantidad máxima de puntos de vida que una criatura puede soportar antes de caer inconsciente o muerta.	La cantidad máxima de puntos de golpe que una criatura puede soportar antes de caer inconsciente o morir.
+punto de vida por nivel	punto de golpe por nivel
+a todas las puntuaciones de habilidad	a todos los atributos
+Entrenamiento con armas de los elfos	Entrenamiento con armas élficas
+Bravo	Valiente
+La agilidad de los medianos	Agilidad de mediano
+Cuando saques un 1 en una tirada de ataque, prueba de habilidad o tirada de salvación, vuelve a tirar y usa la nueva tirada.	Cuando saques un 1 en una tirada para atacar, prueba de característica o tirada de salvación, vuelve a tirar el dado y usa este nuevo resultado.
+Baile de cuerda	Acróbata
+Adaptabilidad de Sylvan	Entrenamiento del bosque
+Truco de los altos elfos	Truco
+Lanzamiento de hechizos de clérigo	Lanzamiento de conjuros
+Puede lanzar hechizos de la lista Hechizos de clérigo	Como canalizador de poder divino, puedes lanzar conjuros de clérigo
+Casting ritual	Lanzamiento ritual
+Puedes lanzar un hechizo como ritual si ese hechizo tiene la etiqueta ritual y tienes el hechizo preparado.	Puedes lanzar de forma ritual aquellos conjuros de clérigo que tengas preparados y que esten marcados como ritual.
+Lanzamiento de hechizos de mago	Lanzamiento de conjuros
+Piscina curativa	Reserva curativa
+puntos de vida	puntos de golpe
+reserva de sanación	reserva curativa
+reserva de curación	reserva curativa
+Enemigo favorecido	Enemigo predilecto
+Explorador natural	Explorador nato
+Herramientas rebeldes	Herramientas
+Of 22 HP	de 22 PG
+Gran hacha	Hacha a dos manos
+Gran espada	Espadón
+Estrella de la mañana	Lucero del alba
+Finura	Sutil
+Arrojado	Arrojadiza
+Mazo	Maza
+Enfoque de hechizo	Canalizador mágico
+Validar	Confirmar
+Badland	Las Tierras Inhóspitas
+Badlands	Las Tierra Inhóspitas
+Legacy Council	Concejo del Legado
+Conjuro	Hechizo
+conjuro	hechizo
+Conjuros	Hechizos
+conjuros	hechizos
+Mago hechizos	Hechizos de mago

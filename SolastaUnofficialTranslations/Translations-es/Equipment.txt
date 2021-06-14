@@ -10,10 +10,10 @@ Equipment/&AmmoPackFormat	{0} x {1}
 Equipment/&AntitoxinDescription	Decocción protectora que aumenta la resistencia al veneno durante una hora. (Ventaja de los tiros de salvación contra el veneno)
 Equipment/&AntitoxinTitle	Antitoxina
 Equipment/&ArcaneFocusCrystalTitle	Cristal
-Equipment/&ArcaneFocusGeneralDescription	Un hechicero, brujo o mago puede usar este tipo de objeto como foco de lanzamiento de hechizos.
+Equipment/&ArcaneFocusGeneralDescription	Un hechicero, brujo o mago puede usar este tipo de objeto como canalizador mágico.
 Equipment/&ArcaneFocusOrbTitle	Orbe
-Equipment/&ArcaneFocusRodTitle	vara
-Equipment/&ArcaneFocusStaffTitle	Personal
+Equipment/&ArcaneFocusRodTitle	Vara
+Equipment/&ArcaneFocusStaffTitle	Bastón
 Equipment/&ArcaneFocusWandTitle	Varita mágica
 Equipment/&Armor_Adventuring_Wizard_OutfitDescription	Ropa resistente pero elegante, equipada con correas y bolsillos para libros de hechizos y componentes. No proporciona protección de armadura.
 Equipment/&Armor_Adventuring_Wizard_OutfitTitle	Ropa de mago aventurero
@@ -84,12 +84,12 @@ Equipment/&ArtItems_50_GP_Imperial_figurine	Figurilla imperial
 Equipment/&ArtItems_50_GP_Ivory_statuette	Estatuilla de marfil
 Equipment/&ArtItems_50_GP_Jade_Pendant	Colgante de jade
 Equipment/&AttackModifier	Bono de ataque
-Equipment/&Bacgkground_Academic_Item_Description	Un diario personal para anotar sus aventuras y descubrimientos para la posteridad.
-Equipment/&Bacgkground_Academic_Item_Title	Computadora portátil
+Equipment/&Bacgkground_Academic_Item_Description	Libreta para anotar sus aventuras y descubrimientos para la posteridad.
+Equipment/&Bacgkground_Academic_Item_Title	Cuaderno de apuntes
 Equipment/&Bacgkground_Acolyte_Item_Description	Un libro sencillo que contiene oraciones a tu dios, en lenguaje común y antiguo tirmariano.
 Equipment/&Bacgkground_Acolyte_Item_Title	Libro de oraciones
-Equipment/&Bacgkground_Aristocrat_Item_Description	Este anillo lleva las armas de tu noble familia, marcándote como miembro.
-Equipment/&Bacgkground_Aristocrat_Item_Title	Anillo de sigilo
+Equipment/&Bacgkground_Aristocrat_Item_Description	Este anillo lleva el escudo de tu familia, identificándote como parte de la nobleza.
+Equipment/&Bacgkground_Aristocrat_Item_Title	Sello familiar
 Equipment/&Bacgkground_Lawkeeper_Item_Description	Se supone que ya no debes usarlo, pero esta insignia fue una vez un símbolo de tu autoridad como agente de la ley.
 Equipment/&Bacgkground_Lawkeeper_Item_Title	Insignia de abogado
 Equipment/&Bacgkground_Sellsword_Item_Description	Una muestra de su servicio y coraje durante sus días como espada de alquiler.
@@ -97,15 +97,15 @@ Equipment/&Bacgkground_Sellsword_Item_Title	Cinta de campaña militar
 Equipment/&Backpack3Title	Bolsa de tenencia
 Equipment/&BackpackDescription	El amigo indispensable del aventurero. Sostiene todo el equipo que desee, si es lo suficientemente fuerte para llevarlo.
 Equipment/&BackpackTitle	Mochila
-Equipment/&BaseArmorDescription	AC configurado en {0}\n+ Bono DEX
-Equipment/&BaseArmorNoDexDescription	AC configurado en {0}\nSin bonificación DEX
-Equipment/&BaseArmorWithCapDescription	AC configurado en {0}\n+ Bonificación DEX (máximo {1})
+Equipment/&BaseArmorDescription	CA de {0}\n+ Bono DEX
+Equipment/&BaseArmorNoDexDescription	CA de {0}\nSin Bono DEX
+Equipment/&BaseArmorWithCapDescription	CA de {0}\n+ Bono DEX (máx. {1})
 Equipment/&BattleaxeTypeTitle	Hacha de batalla
 Equipment/&BlankScrollDescription	Necesitaba crear un pergamino de hechizos.
 Equipment/&BlankScrollTitle	Desplazamiento en blanco
 Equipment/&BlowgunTypeTitle	Cerbatana
-Equipment/&BoltplusOne	Perno +1
-Equipment/&BoltTypeTitle	Perno de ballesta
+Equipment/&BoltplusOne	Virote +1
+Equipment/&BoltTypeTitle	Virote de ballesta
 Equipment/&BoneKeep_Angbi_Bones_Description	Un montón de huesos diferentes que podrían formar parte del esqueleto de una persona. Algunos de estos huesos parecen tener algún tipo de marcas de dientes de animales.
 Equipment/&BoneKeep_Angbi_Bones_Title	Un montón de huesos
 Equipment/&BoneKeep_Document_AdventurerJournal01_Description	Parte de un diario con una serie de notas, encontradas sobre un aventurero muerto dentro del Laberinto Solar.
@@ -160,15 +160,15 @@ Equipment/&ChemicalsTitle	Productos quimicos
 Equipment/&CloseRangeTitle	Quemarropa
 Equipment/&ClothesCommonTitle	Ropa común
 Equipment/&ClubTypeTitle	Club
-Equipment/&ComponentPouchDescription	Contiene componentes materiales para la mayoría de hechizos. Los componentes costosos no están incluidos.
-Equipment/&ComponentPouchTitle	Bolsa de componentes
+Equipment/&ComponentPouchDescription	Contiene todos los componentes materiales y otros objetos especiales necesarios para lanzar hechizos. No incluye componentes que tienen un coste específico.
+Equipment/&ComponentPouchTitle	Saquito de componentes
 Equipment/&ContainerArmorStandTitle	Soporte de armadura
 Equipment/&ContainerBarrelTitle	Barril
 Equipment/&ContainerBasketTitle	Cesta
 Equipment/&ContainerBedTitle	Cama
-Equipment/&ContainerBucketTitle	Cubeta
+Equipment/&ContainerBucketTitle	Cubo
 Equipment/&ContainerCartTitle	Carro
-Equipment/&ContainerChestTitle	Pecho
+Equipment/&ContainerChestTitle	Cofre
 Equipment/&ContainerCorpseTitle	Cadáver
 Equipment/&ContainerCrateTitle	Caja
 Equipment/&ContainerGroundTitle	Suelo
@@ -208,10 +208,10 @@ Equipment/&DeviceLastChargeDestroyDescription	Gastar la última carga destruirá
 Equipment/&DeviceLastChargeDestroyOn1Description	Gastar la última carga y sacar 1 en 1d20 destruirá el objeto.
 Equipment/&DeviceRequiresAttunementTitle	Requiere Sintonización (Descanso breve)
 Equipment/&DeviceUsageSingleUseTitle	Consumible
-Equipment/&DisguiseKitToolTypeDescription	Esta bolsa de cosméticos, tinte para el cabello y pequeños accesorios te permite crear disfraces que cambian tu apariencia física. La competencia con este kit le permite agregar su bonificación de competencia a cualquier prueba de habilidad que realice para crear un disfraz visual.
-Equipment/&DisguiseKitToolTypeTitle	Kit de disfraz
+Equipment/&DisguiseKitToolTypeDescription	Esta bolsa de cosméticos, tinte para el cabello y pequeños accesorios te permite crear disfraces que cambian tu apariencia física. La competencia con este kit le permite agregar su bonificación de competencia a cualquier prueba de habilidad que realice para crear un disfraz que engañe a la vista.
+Equipment/&DisguiseKitToolTypeTitle	Útiles para disfrazarse
 Equipment/&DocumentRestUnreadableDescription	El resto del texto es ilegible.
-Equipment/&DungeoneerPackTitle	Paquete de mazmorra
+Equipment/&DungeoneerPackTitle	Paquete de explorador de mazmorra
 Equipment/&EmptyFlaskDescription	Necesario para elaborar pociones, fuego de alquimista o agua bendita. También puede almacenar ácido o aceite.
 Equipment/&EmptyFlaskTitle	Matraz vacío
 Equipment/&EmptyVialDescription	Necesario para elaborar venenos o antitoxinas.
@@ -959,8 +959,8 @@ Equipment/&BoneKeep_Solar_Rune_Plaque_Title	Placa de runas
 Equipment/&BoneKeep_Solar_Rune_Plaque_Description	Una runa mágica agotada, probablemente utilizada para proteger un pasillo. El encantamiento es antiguo, probablemente algún hechizo olvidado de la época imperial.
 Equipment/&Magic_Arrow_Unidentified_Title	Flecha notable
 Equipment/&Magic_Arrow_Unidentified_Description	Esta flecha es notablemente ligera y afilada. Puede que sea mágico.
-Equipment/&Magic_Bolt_Unidentified_Title	Perno de ballesta notable
-Equipment/&Magic_Bolt_Unidentified_Description	Este perno es notablemente ligero y afilado. Puede que sea mágico.
+Equipment/&Magic_Bolt_Unidentified_Title	Virote de ballesta notable
+Equipment/&Magic_Bolt_Unidentified_Description	Este virote es extraordinariamente ligero y afilado. Puede que sea mágico.
 Equipment/&ContainerTombTitle	Tumba
 Equipment/&Item_Berry_Ration_Description	Una baya mágica creada por un hechizo. Tiene propiedades curativas y también es nutritiva. No se puede vender.
 Equipment/&ItemMartialWeaponSubtypeTitle	Arma marcial
@@ -1329,7 +1329,7 @@ Equipment/&Poisoned_Arrow_TigerFang_Description	Estos proyectiles tienen una peq
 Equipment/&Poisoned_Arrow_TheLongNight_Title	Estos proyectiles tienen una pequeña bolsa de veneno adherida a su punta, de modo que infligirán el efecto del veneno en un golpe exitoso. Estas flechas en particular usan The Long Night.
 Equipment/&Poisoned_Arrow_Basic_Title	Estos proyectiles tienen una pequeña bolsa de veneno adherida a su punta, de modo que infligirán el efecto del veneno en un golpe exitoso. Estas flechas en particular usan veneno básico.
 Equipment/&Poisoned_Arrow_BrimstoneFang_Title	Estos proyectiles tienen una pequeña bolsa de veneno adherida a su punta, de modo que infligirán el efecto del veneno en un golpe exitoso. Estas flechas en particular usan Brimstone Fang.
-Equipment/&Poisoned_Bolt_Title	Perno envenenado
+Equipment/&Poisoned_Bolt_Title	Virote envenenado
 Equipment/&Poisoned_Arrow_ArivadsKiss_Title	Flecha envenenada
 Equipment/&Poisoned_Arrow_ArivadsKiss_Description	Estos proyectiles tienen una pequeña bolsa de veneno adherida a su punta, por lo que infligirán el efecto del veneno en un golpe exitoso. Estas flechas en particular usan el beso de Arivad.
 Equipment/&Poisoned_Arrow_CraftingRecipe_Title	Fabrica 5 flechas venenosas
@@ -1349,7 +1349,7 @@ Equipment/&Legendary_Document_Content06	Sorr-Tarr corrompió a Arivad y provocó
 Equipment/&Tirmarian_GreataxeTypeTitle	Hacha sagrada de Sandraven
 Equipment/&BoltStuff_Title	Piezas de proyectil
 Equipment/&BoltStuff_Description	Un paquete de cabezas y colas para hacer tornillos o flechas usando herramientas de herrero.
-Equipment/&BoltStuff_Recipe_Title	Fabrica 20 pernos de ballesta
+Equipment/&BoltStuff_Recipe_Title	Fabrica 20 virotes de ballesta
 Equipment/&ArrowStuff_Recipe_Title	Fabrica 20 flechas
 Equipment/&ArtisanToolSmith_Title	Pequeño kit de herramientas Smith
 Equipment/&ArtisanToolSmith_Description	Este conjunto de herramientas permite a una persona experta crear sus propios tornillos y flechas.
@@ -1639,13 +1639,13 @@ Equipment/&Poison_TigerFangPoisonedBolt_Title	Descarga envenenada de colmillo de
 Equipment/&Poison_DarkStabPoisonedArrow_Title	Flecha envenenada de puñalada oscura
 Equipment/&Poison_DarkStabPoisonedBolt_Title	Rayo envenenado de puñalada oscura
 Equipment/&Poison_DeepPainPoisonedArrow_Title	Flecha envenenada por dolor profundo
-Equipment/&Poison_DeepPainPoisonedBolt_Title	Perno envenenado por dolor profundo
+Equipment/&Poison_DeepPainPoisonedBolt_Title	Virote envenenado por dolor profundo
 Equipment/&Poison_ArivadsKissPoisonedArrow_Title	El beso de Arivad Flecha envenenada
 Equipment/&Poison_ArivadsKissPoisonedBolt_Title	Rayo envenenado del beso de Arivad
 Equipment/&Poison_ArunsLightPoisonedArrow_Title	Flecha envenenada por la luz de Arun
 Equipment/&Poison_ArunsLightPoisonedBolt_Title	Descarga de luz envenenada de Arun
 Equipment/&Poison_TheLongNightPoisonedArrow_Title	Flecha envenenada de larga noche
-Equipment/&Poison_TheLongNightPoisonedBolt_Title	Perno envenenado de larga noche
+Equipment/&Poison_TheLongNightPoisonedBolt_Title	Virote envenenado de larga noche
 Equipment/&Poison_TheBurdenPoisonedArrow_Title	Flecha envenenada de carga
 Equipment/&Poison_TheBurdenPoisonedBolt_Title	Descarga de carga envenenada
 Equipment/&Poison_GhoulsCaressPoisonedArrow_Title	La caricia del necrófago Flecha envenenada
@@ -1673,14 +1673,14 @@ Equipment/&PickupQuest_Item_Cypher_Description	Este antiguo objeto fue utilizado
 Equipment/&Flaming_Arrow_Title	Flecha llameante
 Equipment/&Corrosive_Arrow_Title	Flecha corrosiva
 Equipment/&Flash_Arrow_Title	Flecha de destello
-Equipment/&Flaming_Bolt_Title	Perno llameante
-Equipment/&Corrosive_Bolt_Title	Perno corrosivo
-Equipment/&Flash_Bolt_Title	Perno de destello
+Equipment/&Flaming_Bolt_Title	Virote llameante
+Equipment/&Corrosive_Bolt_Title	Virote corrosivo
+Equipment/&Flash_Bolt_Title	Virote de destello
 Equipment/&AlchemicalProjectile_Description	Este proyectil usa un matraz alquímico para causar daño adicional.
 Equipment/&Flaming_Arrow_CraftingRecipe_Title	Fabrica 5 flechas llameantes
 Equipment/&Corrosive_Arrow_CraftingRecipe_Title	Fabrica 5 flechas corrosivas
 Equipment/&Flash_Arrow_CraftingRecipe_Title	Fabrica 5 flechas de destello
-Equipment/&Flaming_Bolt_CraftingRecipe_Title	Fabrica 5 pernos llameantes
+Equipment/&Flaming_Bolt_CraftingRecipe_Title	Fabrica 5 virote llameantes
 Equipment/&Corrosive_Bolt_CraftingRecipe_Title	Fabrica 5 tornillos corrosivos
 Equipment/&Flash_Bolt_CraftingRecipe_Title	Fabrica 5 relámpagos
 Equipment/&ContainerHarvestable_LavaStone_Title	Piedras de lava
