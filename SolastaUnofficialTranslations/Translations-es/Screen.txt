@@ -1,11 +1,11 @@
 Screen/&AbilityScoreBonusDescription	La bonificación a esta puntuación de habilidad, según tus elecciones actuales.
 Screen/&AbilityScoreBonusEditableDescription	La bonificación a este valor de puntuación de habilidad, que puede ajustar con sus puntos restantes.
-Screen/&AbilityScoresAssignTitle	Arrastre y suelte sus rollos en las celdas de puntuación de habilidad o asigne automáticamente.
-Screen/&AbilityScoresEditPointsTitle	Edite sus rollos usando sus puntos restantes.
+Screen/&AbilityScoresAssignTitle	Arrastre y suelte sus resultado en las celdas de puntuación de habilidad o asigne automáticamente.
+Screen/&AbilityScoresEditPointsTitle	Edite sus resultado usando sus puntos restantes.
 Screen/&AbilityScoresMethodTitle	Seleccione el método de generación de puntaje de habilidad
 Screen/&AbortCreationDescription	Cancela el proceso de creación de personajes.
 Screen/&AbortLevelUpDescription	Cancela el proceso de subida de nivel del personaje.
-Screen/&AbortTitle	Cancela
+Screen/&AbortTitle	Atrás
 Screen/&ActiveQuestsFormatPlural	Tu equipo tiene {0} misiones activas.
 Screen/&ActiveQuestsFormatSingle	Tu equipo tiene una misión activa.
 Screen/&AddCharacterDescription	Agrega un personaje de tu grupo de personajes locales.
@@ -13,10 +13,10 @@ Screen/&AddCharacterTitle	Agregar personaje
 Screen/&AddNewClassTitle	Agregar nueva clase
 Screen/&AnswerChoiceTitle	Seleccione una respuesta
 Screen/&AscendDescription	Eleve el plano horizontal en una celda.
-Screen/&AttackCaptionBonusDescription	VACÍO
-Screen/&AttackCaptionBonusTitle	VACÍO
-Screen/&AttackCaptionMainDescription	VACÍO
-Screen/&AttackCaptionMainTitle	VACÍO
+Screen/&AttackCaptionBonusDescription	VCAÍO
+Screen/&AttackCaptionBonusTitle	VCAÍO
+Screen/&AttackCaptionMainDescription	VCAÍO
+Screen/&AttackCaptionMainTitle	VCAÍO
 Screen/&AttackDamageDescription	El daño que causa este ataque en un golpe exitoso.
 Screen/&AttackDamageTitle	maldición
 Screen/&AttackRollFooterTitle	Ataque
@@ -62,7 +62,7 @@ Screen/&ClassDeityTitle	Deidad
 Screen/&ClassFeaturesTitle	Características de la clase
 Screen/&ClassHeaderTitle	Clase
 Screen/&ClassHitDiceDescription	Se lanzan en cada nivel para determinar tus puntos de golpe, y también para recuperar los puntos de golpe perdidos.
-Screen/&ClassHitDiceTitle	Dados de golpe
+Screen/&ClassHitDiceTitle	D. Golpe
 Screen/&ClassOrMarkerTitle	O
 Screen/&ClassSelectionTitle	Seleccione una clase
 Screen/&ClearFiltersTitle	Limpiar filtros
@@ -232,7 +232,7 @@ Screen/&JournalBestiarySortKnowledgeLevelTitle	Nivel de conocimiento
 Screen/&JournalBestiarySortOrderTitle	Ordenar por
 Screen/&JournalBestiarySortSizeTitle	Tamaño
 Screen/&JournalBestiarySortUpdateDateTitle	Última actualización
-Screen/&JournalBestiaryStandardTitle	Estándar
+Screen/&JournalBestiaryStandardTitle	Común
 Screen/&JournalBestiaryTitle	<#F5B486>B</color>estiario
 Screen/&JournalBestiaryTotalUnlockedTitle	Desbloqueado
 Screen/&JournalBestiaryUnknownDescription	Tu nivel de conocimiento es insuficiente para acceder a este tipo de información.
@@ -257,7 +257,7 @@ Screen/&JournalRelationDecreasedFormat	La relación con {1} disminuyó a {0}.
 Screen/&JournalRelationDecreasedTitle	Relación empeorada:
 Screen/&JournalRelationIncreasedFormat	La relación con {1} aumentó a {0}.
 Screen/&JournalRelationIncreasedTitle	Relación mejorada:
-Screen/&JournalRelationStatusChangedFormat	El estado ahora es {0}
+Screen/&JournalRelationStatusChangedFormat	El estado  ahora esta{0}
 Screen/&JournalTimecodeDayFormat	Día {0}
 Screen/&JournalTimecodeHourMinute24Format	{0}: {1}
 Screen/&JournalTimecodeHourMinuteAMFormat	{0}: {1} a. M.
@@ -311,9 +311,9 @@ Screen/&NewClassSelectionTitle	O haga clic para agregar una nueva clase a este p
 Screen/&NewGameScreenTitle	Nuevo juego
 Screen/&NewRecipeTitle	¡Nueva opción de creación!
 Screen/&NextClassFeaturesTitle	Características de la siguiente clase
-Screen/&NextPageTitle	próximo
+Screen/&NextPageTitle	siguiente
 Screen/&NextTutorialStepDescription	Muestre el siguiente paso del tutorial.
-Screen/&NextTutorialStepTitle	próximo
+Screen/&NextTutorialStepTitle	siguiente
 Screen/&NoContainerTitle	Este personaje no está equipado con ninguna mochila o contenedor.
 Screen/&NoCraftingOptionsTitle	Tu grupo aún no tiene opciones de creación.
 Screen/&OpenGamingLicenseButtonDescription	Mostrar el documento completo de referencia del sistema y la licencia del juego abierto
@@ -514,7 +514,7 @@ Screen/&StageFinishButtonLevelUpDescription	Termina el proceso de subida de nive
 Screen/&StageFinishButtonTitle	Terminar
 Screen/&StageNextButtonCreationDescription	Continúa con el siguiente paso de creación del personaje.
 Screen/&StageNextButtonLevelUpDescription	Continúa con el siguiente paso de nivel de personaje.
-Screen/&StageNextButtonTitle	próximo
+Screen/&StageNextButtonTitle	siguiente
 Screen/&StagePreviousButtonCreationDescription	Vuelve al paso anterior de creación del personaje.
 Screen/&StagePreviousButtonLevelUpDescription	Vuelve al nivel de personaje anterior.
 Screen/&StagePreviousButtonTitle	Anterior
@@ -527,7 +527,7 @@ Screen/&SubclassPreviewFormat	Muestre las opciones de subclase otorgadas en el n
 Screen/&SubclassPreviewHeaderFormat	Estas subclases se otorgan en el nivel {0}.
 Screen/&SubRaceSelectionTitle	Seleccione una subraza
 Screen/&SubRacialFeaturesTitle	Características de subraza
-Screen/&SwitchConfiguration0Title	Primario
+Screen/&SwitchConfiguration0Title	Principal
 Screen/&SwitchConfiguration1Title	Secundario
 Screen/&SwitchConfiguration2Title	Fuente de luz
 Screen/&SwitchConfigurationDescription	Haga clic para cambiar sus artículos equipados a esta configuración: {0}.
@@ -561,10 +561,10 @@ Screen/&TravelJournalDescription	Abre el diario de viaje para mostrar los evento
 Screen/&TravelJournalTitle	Diario de viaje
 Screen/&TravelResumeDescription	Reanuda el viaje actual.
 Screen/&TravelResumeTitle	Reanudar
-Screen/&TreasuryPoolDescription	VACÍO
-Screen/&TreasuryPoolTitle	VACÍO
-Screen/&TreasuryShareDescription	VACÍO
-Screen/&TreasuryShareTitle	VACÍO
+Screen/&TreasuryPoolDescription	VCAÍO
+Screen/&TreasuryPoolTitle	VCAÍO
+Screen/&TreasuryShareDescription	VCAÍO
+Screen/&TreasuryShareTitle	VCAÍO
 Screen/&TreasuryTitle	Tesoro
 Screen/&TutorialTitleFormat	Tutorial: {0}
 Screen/&TutorialUnderstoodDescription	Cierre este panel si lo ha entendido.
@@ -581,12 +581,12 @@ Screen/&DialogChoiceBackgroundDescription	El trasfondo de este personaje permite
 Screen/&GamePausedTopTitle	Juego pausado
 Screen/&GamePausedTopDescription	Presiona el botón "Reproducir" o el espacio para reanudar la pausa.
 Screen/&GameSettingsTitle	Configuraciones de juego
-Screen/&GroupLeaderDescription	ahora es el líder.
+Screen/&GroupLeaderDescription	 ahora estael líder.
 Screen/&JournalBestiaryChallengeTitle	Desafío
 Screen/&InventoryMagicalUnidentifiedDescription	Este objeto tiene propiedades mágicas que requieren ser identificadas (mediante un hechizo o comerciante) para conocer sus atributos por completo.
 Screen/&MerchantDetectMagicNothingNewDescription	No se han detectado objetos mágicos.
 Screen/&ReviewGameDescription	¡Gracias por jugar Solasta! Haga clic aquí para abrir la interfaz y dejarnos una reseña. ¡Mucho amor!
-Screen/&ReviewGameTitle	Revisa el juego
+Screen/&ReviewGameTitle	Pon una Reseña
 Screen/&DashModeDescriptionMainLabelTitle	El valor de tu movimiento se duplica a costa de usar tu acción principal. No obstante, si sólo recorres tu movimiento normal conservaras tu acción principal.
 Screen/&DashModeDescriptionBonusLabelTitle	El valor de tu movimiento se duplica a costa de usar tu acción principal. No obstante, si sólo recorres tu movimiento normal conservaras tu acción adicional.
 Screen/&DashModeTitle	Correr
@@ -651,7 +651,7 @@ Screen/&EditorCaptionYTitle	Y
 Screen/&EditorCaptionOrientationTitle	Orientación
 Screen/&EditorCaptionCancelButtonTitle	Cancelar
 Screen/&EditorCaptionCancelButtonDescription	Cancela la selección del elemento actual
-Screen/&EditorCaptionMoveButtonTitle	Moverse
+Screen/&EditorCaptionMoveButtonTitle	VEL
 Screen/&EditorCaptionMoveButtonDescription	Mueve este elemento arrastrando el mouse
 Screen/&EditorCaptionRotateButtonTitle	Girar
 Screen/&EditorCaptionRotateButtonDescription	Gira el elemento seleccionado 90 ° en el sentido de las agujas del reloj
@@ -690,7 +690,7 @@ Screen/&EditorCategoryGadgetTitle	Artilugio
 Screen/&EditorCaptionPositionTitle	Posición
 Screen/&EditorCaptionCopyButtonTitle	Duplicar
 Screen/&EditorCaptionCopyButtonDescription	Duplica el elemento seleccionado
-Screen/&BackDungeonMakerTitle	Creador de mazmorras
+Screen/&BackDungeonMakerTitle	Editor de Mazmorras
 Screen/&BackDungeonMakerDescription	Abre Dungeon Maker para reanudar la edición de esta ubicación.
 Screen/&EditorLocationSwitchDescription	Haga clic para cambiar a esta ubicación de usuario
 Screen/&EditorLocationAuthorVersionTitle	Versión
@@ -722,3 +722,4 @@ Screen/&KnudgeEastShortcutFormat	Empujar hacia el este ({0})
 Screen/&KnudgeSouthShortcutFormat	Empujar hacia el sur ({0})
 Screen/&KnudgeWestShortcutFormat	Empujar hacia el oeste ({0})
 Screen/&EditorCaptionPositionFormat	X: {0}, Y: {1}
+
