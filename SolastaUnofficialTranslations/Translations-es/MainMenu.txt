@@ -1,50 +1,50 @@
 MainMenu/&ChangeCampaignDescription	Haga clic para abrir una selección de aventuras.
 MainMenu/&ChangeCampaignTitle	Cambiar campaña
 MainMenu/&ChangeCharacterSlotDescription	Haga clic para seleccionar un personaje diferente.
-MainMenu/&ChangeCharacterSlotTitle	Cambio
+MainMenu/&ChangeCharacterSlotTitle	Cambiar
 MainMenu/&ContinueTitle	Continuar
-MainMenu/&DeleteCharacterDescription	Haz clic para eliminar este personaje del grupo.
+MainMenu/&DeleteCharacterDescription	Haga clic para eliminar este personaje del grupo.
 MainMenu/&EmptySlotTitle	Vacío
-MainMenu/&ExportPdfDescription	Exporta el carácter seleccionado a un archivo pdf para imprimir
+MainMenu/&ExportPdfDescription	Exporta personaje seleccionado a un archivo pdf para imprimir.
 MainMenu/&ExportPdfTitle	Exportar PDF
-MainMenu/&InspectCharacterDescription	Abre el inventario y la hoja de personaje del personaje.
+MainMenu/&InspectCharacterDescription	Abre el inventario y la hoja del personaje seleccionado.
 MainMenu/&InspectCharacterTitle	Inspeccionar
-MainMenu/&LevelUpCharacterDescription	Inicia la secuencia de subida de nivel del personaje. Algunas campañas requieren o prohíben personajes de niveles superiores a 1.
-MainMenu/&LevelUpCharacterTitle	Elevar a mismo nivel
+MainMenu/&LevelUpCharacterDescription	Sube de nivel al personaje. Algunas campañas requieren o prohíben personajes de niveles superiores a 1.
+MainMenu/&LevelUpCharacterTitle	Subir de nivel
 MainMenu/&LicenseDescription	Muestra la información de la licencia de este juego.
 MainMenu/&LicenseTitle	Licencia
 MainMenu/&LoadGameDescription	Carga una partida guardada anteriormente.
 MainMenu/&LoadGameTitle	Cargar juego
-MainMenu/&ManageCharactersDescription	Crea / visualiza / edita tu grupo de personajes.
-MainMenu/&ManageCharactersTitle	Caracteres
-MainMenu/&NewAdventureDescription	Lanza un nuevo juego con un grupo de aventureros.
+MainMenu/&ManageCharactersDescription	Crear/ ver / editar tu grupo de personajes.
+MainMenu/&ManageCharactersTitle	Personajes
+MainMenu/&NewAdventureDescription	Empieza un nuevo juego con un grupo de aventureros.
 MainMenu/&NewAdventureTitle	Nueva aventura
-MainMenu/&NewCharacterDescription	Crea un nuevo personaje y elige ascendencia, clase, trasfondo, etc.
+MainMenu/&NewCharacterDescription	Crea un nuevo personaje eligiendo la raza, clase, trasfondo, etc.
 MainMenu/&NewCharacterTitle	Nuevo personaje
-MainMenu/&PredefinedPartyTitle	Partido predefinido
-MainMenu/&PrivacyDescription	Administre su configuración de privacidad.
-MainMenu/&PrivacyTitle	Intimidad
+MainMenu/&PredefinedPartyTitle	Grupo predefinido
+MainMenu/&PrivacyDescription	Configure su privacidad.
+MainMenu/&PrivacyTitle	Privacidad
 MainMenu/&QuitDescription	Sal del juego y vuelve al escritorio.
-MainMenu/&QuitTitle	Dejar
-MainMenu/&SaveDateHeader	Guarde la fecha
+MainMenu/&QuitTitle	Salir
+MainMenu/&SaveDateHeader	Fecha de guardado
 MainMenu/&SelectCharacterSlotDescription	Selecciona un personaje del grupo de personajes.
-MainMenu/&SelectCharacterSlotTitle	Seleccione
-MainMenu/&SettingsDescription	Ajusta la configuración de la aplicación.
+MainMenu/&SelectCharacterSlotTitle	Seleccionar
+MainMenu/&SettingsDescription	Ajusta la configuración.
 MainMenu/&SettingsTitle	Ajustes
-MainMenu/&StartGameDescription	Lanza la campaña con los personajes seleccionados.
+MainMenu/&StartGameDescription	Empezar campaña con los personajes seleccionados.
 MainMenu/&StartGameTitle	Empezar juego
 MainMenu/&StartingLevelRange	{0} - {1}
 MainMenu/&StartingLevelTitle	Nivel inicial:
 MainMenu/&CharacterSourceTogglePregenDescription	Muestra solo los personajes generados previamente por el juego.
 MainMenu/&CharacterSourceTogglePregenTitle	Pregen
-MainMenu/&CharacterSourceTogglePersonalDescription	Muestra solo los personajes creados personalmente.
-MainMenu/&CharacterSourceTogglePersonalTitle	Personal
-MainMenu/&CharacterSourceToggleAllDescription	Muestra todos los caracteres.
+MainMenu/&CharacterSourceTogglePersonalDescription	Muestra solo los personajes creados por el jugador.
+MainMenu/&CharacterSourceTogglePersonalTitle	Creados
+MainMenu/&CharacterSourceToggleAllDescription	Muestra todos los personajes.
 MainMenu/&CharacterSourceToggleAllTitle	Todas
 MainMenu/&CharacterSortAlphaneticalTitle	Nombre
 MainMenu/&CharacterSortCharacterLevelTitle	Nivel
 MainMenu/&CharacterSortCharacterClassTitle	Clase
-MainMenu/&CharacterSortCharacterAncestryTitle	Ascendencia
+MainMenu/&CharacterSortCharacterAncestryTitle	Raza
 MainMenu/&DifficultySettingCustomizationLabel	Las opciones detalladas se pueden personalizar en el menú Configuración del juego.
 MainMenu/&CreditsTitle	Créditos del juego
 MainMenu/&CreditsDescription	Muestra los créditos del juego de Solasta: Crown of the Magister.
