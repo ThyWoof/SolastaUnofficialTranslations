@@ -1,16 +1,16 @@
-NamedPlace/&AerElai_Title	EL AER-ELAI
-NamedPlace/&BADLANDS_Title	LAS BADLANDS
-NamedPlace/&CopperheadRoad_Title	COPPERHEAD\nCAMINO
+NamedPlace/&AerElai_Title	Aer-Elai
+NamedPlace/&BADLANDS_Title	Las Tierras Inhóspitas
+NamedPlace/&CopperheadRoad_Title	Camino\nde la Cabeza de Cobre
 NamedPlace/&DUCHY_caercyflen_Title	Ducado de\nCaer Cyflen
 NamedPlace/&DUCHY_easternforests_Title	Ducado de\nlos bosques del este
 NamedPlace/&DUCHY_northernhills_Title	Ducado de\nlas colinas del norte
 NamedPlace/&DUCHY_northernplains_Title	Ducado de\nlas llanuras del norte
 NamedPlace/&DUCHY_southmarsh_Title	Ducado de\nel pantano del sur
 NamedPlace/&DUCHY_westernfields_Title	Ducado de\nlos campos occidentales
-NamedPlace/&Einarium_Title	EL Einareum
-NamedPlace/&GALLIVAN_Title	REINO DE\nGALLIVAN
-NamedPlace/&Kaupaapunki_Title	KAUPAAPUNKI
-NamedPlace/&MASGARTH_Title	PRINCIPADO\nDE MASGARTH
-NamedPlace/&NEWEMPIRE_Title	EL NUEVO IMPERIO
+NamedPlace/&Einarium_Title	Einareum
+NamedPlace/&GALLIVAN_Title	Reino de\nGallivan
+NamedPlace/&Kaupaapunki_Title	Kaupaapunki
+NamedPlace/&MASGARTH_Title	Principado\nde Masgarth
+NamedPlace/&NEWEMPIRE_Title	El Nuevo Imperio
 NamedPlace/&Sandreed_Title	Lijado
-NamedPlace/&SNOWALLIANCE_Title	LA ALIANZA DE LA NIEVE
+NamedPlace/&SNOWALLIANCE_Title	La Alianza de la Nieve
