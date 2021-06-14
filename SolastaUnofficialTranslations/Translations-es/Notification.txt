@@ -1,11 +1,11 @@
-Notification/&FactionRelationDecreaseDescription	Sus relaciones con esta facción han empeorado.
+Notification/&FactionRelationDecreaseDescription	Tu relación con esta facción ha empeorado.
 Notification/&FactionRelationDecreaseTitle	Relaciones empeoradas ({0})
-Notification/&FactionRelationIncreaseDescription	Tus relaciones con esta facción han mejorado.
+Notification/&FactionRelationIncreaseDescription	Tu relación con esta facción ha mejorado.
 Notification/&FactionRelationIncreaseTitle	Relación mejorada ({0})
 Notification/&LocationRevealedDescription	Hay un nuevo destino disponible.
-Notification/&LocationRevealedTitle	Nueva ubicación revelada
+Notification/&LocationRevealedTitle	Nueva ubicación descubierta.
 Notification/&MapWaypointRevealedDescription	Haga clic para abrir el mapa.
-Notification/&MapWaypointRevealedTitle	Nuevo waypoint agregado
+Notification/&MapWaypointRevealedTitle	Punto de ruta descubierto.
 Notification/&MonsterInformationDescription	Tu conocimiento ha aumentado.
 Notification/&MonsterInformationTitle	Bestiario actualizado
 Notification/&QuestStepAchievedDescription	Has completado con éxito un objetivo de misión.
@@ -14,5 +14,5 @@ Notification/&QuestStepFailedDescription	No has podido completar un objetivo de 
 Notification/&QuestStepFailedTitle	Objetivo fallido
 Notification/&QuestStepStartedDescription	Has comenzado un nuevo objetivo para esta misión.
 Notification/&QuestStepStartedTitle	Nuevo objetivo
-Notification/&RecipeLearnedDescription	Comprueba tus opciones de elaboración.
-Notification/&RecipeLearnedTitle	Nueva opción de elaboración
+Notification/&RecipeLearnedDescription	Comprueba tus recetas de elaboración.
+Notification/&RecipeLearnedTitle	Nueva receta de elaboración
