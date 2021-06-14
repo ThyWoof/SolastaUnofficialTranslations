@@ -1,45 +1,33 @@
-Attribute/&ArmorClassDescription	Clase de armadura (CA) representa qué tan bien una criatura evita ser golpeada en batalla.
-Attribute/&ArmorClassTitle	C.A.
-Attribute/&AttacksNumberDescription	El número de ataques que el personaje puede realizar por turno.
-Attribute/&AttacksNumberTitle	Ataques
-Attribute/&ChannelDivinityNumberDescription	La cantidad de veces que puede usar la acción Canalizar divinidad entre descansos.
-Attribute/&ChannelDivinityNumberTitle	Número de divinidad del canal
-Attribute/&CharacterLevelDescription	El número de niveles de experiencia que ha alcanzado el personaje, combinando todos los niveles de clase.
-Attribute/&CharacterLevelTitle	Nivel de personaje
-Attribute/&CharismaDescription	El carisma mide su capacidad para interactuar eficazmente con los demás. Incluye factores como la confianza y la elocuencia, y puede representar una personalidad encantadora o dominante.\nImportante para: Paladin, Sorcerer.
-Attribute/&CharismaTitle	CHA
-Attribute/&CharismaTitleLong	Carisma
-Attribute/&ConstitutionDescription	La Constitución mide la salud, la resistencia y la fuerza vital.\nImportante para: todos.
-Attribute/&ConstitutionTitle	ESTAFA
+Attribute/&ConstitutionTitle	CON
 Attribute/&ConstitutionTitleLong	Constitución
-Attribute/&CriticalThresholdDescription	El resultado más bajo en 1d20 que puntuará un golpe crítico.
-Attribute/&CriticalThresholdTitle	Umbral crítico
-Attribute/&DexterityDescription	La destreza mide la agilidad, los reflejos y el equilibrio.\nImportante para: Ranger, Rogue.
-Attribute/&DexterityTitle	DEX
+Attribute/&CriticalThresholdDescription	El resultado más bajo en 1d20 con lo que conseguirás un golpe crítico.
+Attribute/&CriticalThresholdTitle	Rango crítico
+Attribute/&DexterityDescription	La Destreza mide la agilidad, los reflejos y el equilibrio.\nImportante para: Explorador, Pícaro.
+Attribute/&DexterityTitle	DES
 Attribute/&DexterityTitleLong	Destreza
 Attribute/&ExperienceDescription	Total de puntos de experiencia actual del personaje. Requerido para el siguiente nivel: {0} XP
 Attribute/&ExperienceTitle	Experiencia
-Attribute/&HealingPoolDescription	Un grupo de puntos de curación que se usa para curar heridas o eliminar aflicciones.
-Attribute/&HealingPoolTitle	Piscina curativa
-Attribute/&HitDiceDescription	La cantidad de dados de impacto que el personaje ha ganado a través del avance de clase, que se puede usar para recuperar salud durante el tiempo de descanso.
+Attribute/&HealingPoolDescription	Reserva de puntos de curación que se usa para curar heridas o eliminar aflicciones.
+Attribute/&HealingPoolTitle	Reserva curativa
+Attribute/&HitDiceDescription	La cantidad de dados de golpe que el personaje ha ganado a través del avance de clase, que se puede usar para recuperar puntos de golpe durante un descanso.
 Attribute/&HitDiceTitle	Dados de golpe
 Attribute/&HitPointBonusPerLevelDescription	Los puntos de golpe adicionales que obtienes en cada nivel además de tus dados de golpe.
-Attribute/&HitPointBonusPerLevelTitle	Bonificación de puntos de vida por nivel
-Attribute/&HitPointsDescription	La cantidad máxima de puntos de vida que una criatura puede soportar antes de caer inconsciente o muerta.
-Attribute/&HitPointsTitle	HP
+Attribute/&HitPointBonusPerLevelTitle	Bonificación de puntos de golpe por nivel
+Attribute/&HitPointsDescription	La cantidad máxima de puntos de golpe que una criatura puede soportar antes de caer inconsciente o morir.
+Attribute/&HitPointsTitle	PG
 Attribute/&InitiativeDescription	La iniciativa determina el orden de los turnos de las criaturas durante el combate.
-Attribute/&InitiativeTitle	En eso
-Attribute/&IntelligenceDescription	La inteligencia mide la agudeza mental, la precisión del recuerdo y la capacidad de razonar.\nImportante para: Wizard.
-Attribute/&IntelligenceTitle	EN T
+Attribute/&InitiativeTitle	Iniciativa
+Attribute/&IntelligenceDescription	La Inteligencia indica la agudeza mental, la retentiva y la capacidad para razonar.\nImportante para: Mago.
+Attribute/&IntelligenceTitle	INT
 Attribute/&IntelligenceTitleLong	Inteligencia
 Attribute/&MovePointsCurrentFormat	{0} / {1}
 Attribute/&MovePointsDescription	El número de casillas que puede mover una criatura durante una ronda de combate.
 Attribute/&MovePointsEmptyFormat	0
 Attribute/&MovePointsMaxFormat	de {0}
 Attribute/&MovePointsTitle	Moverse
-Attribute/&ProficiencyBonusDescription	La bonificación por competencia es una bonificación para todo el personaje, que se agrega a las tiradas en las que eres competente: tiradas de ataque con armas competentes, pruebas de habilidad o herramientas competentes, tiradas de salvación competentes y la bonificación de ataque y la dificultad de salvación de tus ataques mágicos. La bonificación de competencia se incrementa en los niveles 5, 9, 13 y 17, lo que representa la creciente experiencia de tu personaje en estos ataques, pruebas de habilidades / herramientas, tiros de salvación y habilidades mágicas.
-Attribute/&ProficiencyBonusTitle	Profe.
-Attribute/&SpeedDescription	La cantidad de celdas que el personaje puede mover durante un turno.
+Attribute/&ProficiencyBonusDescription	La bonificación por competencia es una bonificación para el personaje, que se agrega a las tiradas en las que eres competente: tiradas de ataque con armas competentes, pruebas de habilidad o herramientas competentes, tiradas de salvación competentes y la bonificación de ataque y la dificultad de salvación de tus ataques mágicos. La bonificación de competencia se incrementa en los niveles 5, 9, 13 y 17, lo que representa la creciente experiencia de tu personaje en estos ataques, pruebas de habilidades / herramientas, tiradas de salvación y habilidades mágicas.
+Attribute/&ProficiencyBonusTitle	Bono competencia
+Attribute/&SpeedDescription	La cantidad de casillas que el personaje puede mover durante su turno.
 Attribute/&SpeedTitle	Velocidad
 Attribute/&SpeedUnitBurrowFormat	madriguera {0} {1}
 Attribute/&SpeedUnitClimbFormat	subir {0} {1}
@@ -48,37 +36,37 @@ Attribute/&SpeedUnitFlyFormat	volar {0} {1}
 Attribute/&SpeedUnitIncorporealFormat	incorpóreo {0} {1}
 Attribute/&SpeedUnitSwimFormat	nadar {0} {1}
 Attribute/&SpeedUnitWalkFormat	{0} {1}
-Attribute/&StrengthDescription	La fuerza mide la potencia corporal, el entrenamiento atlético y la medida en que puede ejercer fuerza física bruta.\nImportante para: luchador, paladín.
-Attribute/&StrengthTitle	STR
+Attribute/&StrengthDescription	La Fuerza indica la condición física, el entrenamiento atlético y la cantidad de fuerza bruta que se puede ejercer.\nImportante para: Guerrero, Paladín.
+Attribute/&StrengthTitle	FUE
 Attribute/&StrengthTitleLong	Fuerza
-Attribute/&TagBackgroundCantripTitle	Cantrip de fondo
-Attribute/&TagBackgroundExpertiseTitle	Experiencia previa
-Attribute/&TagBackgroundFeatTitle	Dotes de fondo
-Attribute/&TagBackgroundLanguageTitle	Idiomas de fondo
-Attribute/&TagBackgroundSkillTitle	Habilidades de fondo
-Attribute/&TagBackgroundSpellTitle	Hechizos de fondo
-Attribute/&TagBackgroundToolTypeTitle	Herramientas de fondo
+Attribute/&TagBackgroundCantripTitle	Truco de trasfondo
+Attribute/&TagBackgroundExpertiseTitle	Competencias de trasfondo
+Attribute/&TagBackgroundFeatTitle	Dotes de trasfondo
+Attribute/&TagBackgroundLanguageTitle	Idiomas de trasfondo
+Attribute/&TagBackgroundSkillTitle	Habilidades de trasfondo
+Attribute/&TagBackgroundSpellTitle	Hechizos de trasfondo
+Attribute/&TagBackgroundToolTypeTitle	Herramientas de trasfondo
 Attribute/&TagClassCantripTitle	Trucos de clase
-Attribute/&TagClassExpertiseTitle	Experiencia de clase
+Attribute/&TagClassExpertiseTitle	Competencias de clase
 Attribute/&TagClassFeatTitle	Dotes de clase
 Attribute/&TagClassLanguageTitle	Idioma de la clase
 Attribute/&TagClassSkillTitle	Habilidades de clase
 Attribute/&TagClassSpellTitle	Hechizos de clase
 Attribute/&TagClassToolTypeTitle	Herramientas de clase
-Attribute/&TagRaceCantripTitle	Trucos de ascendencia
-Attribute/&TagRaceExpertiseTitle	Experiencia de ascendencia
-Attribute/&TagRaceFeatTitle	Dotes de ascendencia
-Attribute/&TagRaceLanguageTitle	Idiomas de ascendencia
-Attribute/&TagRaceSkillTitle	Habilidades de ascendencia
-Attribute/&TagRaceSpellTitle	Hechizos de ascendencia
-Attribute/&TagRaceToolTypeTitle	Herramientas de ascendencia
+Attribute/&TagRaceCantripTitle	Trucos de raza
+Attribute/&TagRaceExpertiseTitle	Competencias de raza
+Attribute/&TagRaceFeatTitle	Dotes de raza
+Attribute/&TagRaceLanguageTitle	Idiomas de raza
+Attribute/&TagRaceSkillTitle	Habilidades de raza
+Attribute/&TagRaceSpellTitle	Hechizos de raza
+Attribute/&TagRaceToolTypeTitle	Herramientas de raza
 Attribute/&TagSubclassCantripTitle	Trucos de subclase
-Attribute/&TagSubclassExpertiseTitle	Experiencia de subclase
+Attribute/&TagSubclassExpertiseTitle	Competencias de subclase
 Attribute/&TagSubclassFeatTitle	Dotes de subclase
 Attribute/&TagSubclassLanguageTitle	Idioma de la subclase
 Attribute/&TagSubclassSkillTitle	Habilidades de subclase
 Attribute/&TagSubclassSpellTitle	Hechizos de subclase
 Attribute/&TagSubclassToolTypeTitle	Herramientas de subclase
-Attribute/&WisdomDescription	La sabiduría refleja lo sintonizado que estás con el mundo que te rodea y representa la percepción y la intuición.\nImportante para: clérigo, guardabosques.
-Attribute/&WisdomTitle	WIS
+Attribute/&WisdomDescription	La Sabiduría indica hasta qué punto estás en sintonía con el mundo que te rodea, reflejando tu perspicacia e intuición\nImportante para: Clérigo, Explorador
+Attribute/&WisdomTitle	SAB
 Attribute/&WisdomTitleLong	Sabiduría

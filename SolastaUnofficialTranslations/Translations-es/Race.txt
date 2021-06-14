@@ -1,4 +1,4 @@
-Race/&DwarfDescription	Una de las razas más antiguas de Solasta son los enanos. Conocidos por su extraordinaria habilidad para la artesanía y la minera, son a su vez, feroces guerreros y guardianes acérrimos de su cultura y sus tradiciones.
+Race/&DwarfDescription	Una de las razas más antiguas de Solasta son los enanos. Conocidos por su extraordinaria habilidad para la artesanía y la minera, son a su vez, feroces guerreros y guardianes acérrimos de su cultura y sus tradiciones. 
 Race/&DwarfFemaleName1Title	Andrya
 Race/&DwarfFemaleName2Title	Aellin
 Race/&DwarfFemaleName3Title	Eurhild
@@ -74,7 +74,7 @@ Race/&ElfSurNameTitle	Familia
 Race/&ElfSylvanDescription	Nacidos y criados en los bosques orientales de Solasta, los <#B5D3DE>elfos silvestres</color> están entrenados para sobrevivir en la naturaleza y son particularmente hábiles en la supervivencia. Como sus primos los Altos Elfos, están entrenados para luchar con espadas y arcos desde la infancia.
 Race/&ElfSylvanTitle	Elfo Silvano
 Race/&ElfTitle	Elfo
-Race/&HalfElfDescription	Los <#B5D3DE>semielfos</color>, descendientes de refugiados humanos de Tirmar y los elfos de Solastan, poseen los mejores atributos de ambas razas. Versátiles, carismáticos y dotados de Visión en la Oscuridad y un linaje Feérico, siempre se debaten entre dos culturas.
+Race/&HalfElfDescription	Los <#B5D3DE>semielfos</color>, descendientes de refugiados humanos de Tirmar y los elfos de Solastan, poseen los mejores atributos de ambas razas. Versátiles, carismáticos y dotados de visión en la oscuridad, siempre se debaten entre dos culturas.
 Race/&HalfElfFemaleName1Title	Maiwen
 Race/&HalfElfFemaleName2Title	Serenrae
 Race/&HalfElfFemaleName3Title	Lila
@@ -109,7 +109,7 @@ Race/&HalflingMaleName2Title	Andre
 Race/&HalflingMaleName3Title	Tombo
 Race/&HalflingMaleName4Title	Verde
 Race/&HalflingMaleName5Title	Edmund
-Race/&HalflingMarshDescription	Los <#B5D3DE>medianos de los pantanos</color> han vivido en la tradición de sus antepasados, que solían moverse, luchar e incluso dormir en terrenos pantanosos. Son particularmente robustos en comparación con sus primos isleños, aunque generalmente son menos agradables y ciertamente no menos valientes.
+Race/&HalflingMarshDescription	Los <#B5D3DE>medianos del pantano</color> han vivido en la tradición de sus antepasados, que solían moverse, luchar e incluso dormir en terrenos pantanosos. Son particularmente robustos en comparación con sus primos isleños, aunque generalmente son menos agradables y ciertamente no menos valientes.
 Race/&HalflingMarshTitle	Mediano de los pantanos
 Race/&HalflingSurName1Title	Pantano
 Race/&HalflingSurName2Title	Wetfoot

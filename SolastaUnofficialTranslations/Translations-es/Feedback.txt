@@ -1,17 +1,17 @@
-Feedback/&AbilityCheckConsoleAnyAdvantageLine	{0} tira una {1} prueba de habilidad contra CD {2}, tira {3} {4}, {5}
-Feedback/&AbilityCheckConsoleAnyAdvantageNoModifierLine	{0} tira una {1} prueba de habilidad contra CD {2}, tira {3} {4}
-Feedback/&AbilityCheckConsoleLine	{0} tira una {1} prueba de habilidad contra CD {2}, tira {3} = {4}
-Feedback/&AbilityCheckConsoleNoModifierLine	{0} tira una {1} prueba de habilidad contra CD {2}, tira {3}
+Feedback/&AbilityCheckConsoleAnyAdvantageLine	{0} hace una {1} prueba de habilidad contra CD {2}, tira {3} {4}, {5}
+Feedback/&AbilityCheckConsoleAnyAdvantageNoModifierLine	{0} hace una {1} prueba de habilidad contra CD {2}, tira {3} {4}
+Feedback/&AbilityCheckConsoleLine	{0} hace una {1} prueba de habilidad contra CD {2}, tira {3} = {4}
+Feedback/&AbilityCheckConsoleNoModifierLine	{0} hace una {1} prueba de habilidad contra CD {2}, tira {3}
 Feedback/&AbilityCheckFailedFormat	Ha fallado
-Feedback/&AbilityCheckFailureNarrationLine	{0} comprobar: ¡Fallo!
-Feedback/&AbilityCheckFailureOutcome	{0} (error)
-Feedback/&AbilityCheckSuccessNarrationLine	{0} comprobar: ¡Éxito!
-Feedback/&AbilityCheckSuccessOutcome	{0} (éxito)
+Feedback/&AbilityCheckFailureNarrationLine	{0} ¡Fallo!
+Feedback/&AbilityCheckFailureOutcome	{0} (Fallo)
+Feedback/&AbilityCheckSuccessNarrationLine	{0} ¡Éxito!
+Feedback/&AbilityCheckSuccessOutcome	{0} (Éxito)
 Feedback/&ActivatePowerLine	{0} activa el {1} ​​poder
-Feedback/&ActivatePowerWithChanelDivinityLine	{0} canales divinity para activar {1}
+Feedback/&ActivatePowerWithChanelDivinityLine	{0} Canalizar Divinidad para activar {1}
 Feedback/&ActivatePowerWithSpellSlotLine	{0} activa {1} con un espacio de hechizo de nivel {2}
-Feedback/&AdditionalDamageArcaneFuryFormat	¡Furia arcana!
-Feedback/&AdditionalDamageArcaneFuryLine	{0} inflige más daño a {1} de Arcane Furry (+ {2})
+Feedback/&AdditionalDamageArcaneFuryFormat	¡Furia Arcana!
+Feedback/&AdditionalDamageArcaneFuryLine	{0} inflige más daño a {1} de Furia Arcana (+ {2})
 Feedback/&AdditionalDamageBestowCurseFormat	¡Ataque a los malditos!
 Feedback/&AdditionalDamageBestowCurseLine	{0} inflige más daño a los malditos {1} (+ {2})
 Feedback/&AdditionalDamageBrandingSmiteFormat	Branding Smite!
@@ -40,7 +40,7 @@ Feedback/&AdditionalDamageSneakAttackFormat	¡Ataque furtivo!
 Feedback/&AdditionalDamageSneakAttackLine	{0} realiza un ataque furtivo en {1} (+ {2})
 Feedback/&AdditionalDamageStrikeOblivionFormat	¡Golpe del olvido!
 Feedback/&AdditionalDamageStrikeOblivionLine	{0} inflige más daño a {1} con Strike of Oblivion (+ {2})
-Feedback/&AdvantageRollDescription	Rodar con ventaja significa tirar dos d20 y mantener el mejor resultado.
+Feedback/&AdvantageRollDescription	Tirar con ventaja significa tirar dos d20 y mantener el mejor resultado.
 Feedback/&AdvantageRollOutcome	con ventaja
 Feedback/&AlreadySuccessfulCaptionFormat	Ya exitoso
 Feedback/&AttackConsoleLine	{0} ataca {1} con {2}, rollos {3} = {4}
@@ -49,11 +49,11 @@ Feedback/&AttackConsoleLineAnyAdvantageNoModifier	{0} ataca {1} con {2}, rueda {
 Feedback/&AttackConsoleLineAutomaticHit	{0} ataca {1} con {2} y golpea automáticamente
 Feedback/&AttackConsoleLineNoModifier	{0} ataca {1} con {2}, rueda {3}
 Feedback/&AttackFailureFormat	Fallo de ataque ({0})
-Feedback/&AttackFailureOutcome	{0} (señorita)
+Feedback/&AttackFailureOutcome	{0} (Fallo)
 Feedback/&AttackOfOpportunityFormat	Ataque de oportunidad
 Feedback/&AttackOfOpportunityLine	{0} realiza un ataque de oportunidad contra {1}
 Feedback/&AttackSuccessFormat	Golpe de ataque ({0})
-Feedback/&AttackSuccessOutcome	{0} (Hit)
+Feedback/&AttackSuccessOutcome	{0} (Golpe)
 Feedback/&BrightLightCaption	Luz brillante
 Feedback/&BrightLightDescription	La criatura está en una luz brillante.
 Feedback/&CannotHealFormat	¡No se puede curar!
@@ -65,8 +65,8 @@ Feedback/&ConcentrationCheckRolledAnyAdvantageNoModifierLine	{0} rueda para mant
 Feedback/&ConcentrationCheckRolledLine	{0} rollos para mantener la concentración versus DC {1}, rollos {2} = {3}
 Feedback/&ConcentrationCheckRolledNoModifierLine	{0} rueda para mantener la concentración frente a DC {1}, rueda {2}
 Feedback/&ConcentrationLostLine	{0} pierde la concentración en {1}
-Feedback/&ConditionAddedHasLine	{0} ahora tiene {1}
-Feedback/&ConditionAddedLine	{0} ahora es {1}
+Feedback/&ConditionAddedHasLine	{0} tiene {1}
+Feedback/&ConditionAddedLine	{0} ha {1}
 Feedback/&ConditionRemovedHasLine	{0} ya no tiene {1}
 Feedback/&ConditionRemovedLine	{0} ya no es {1}
 Feedback/&ContestCheckConsoleBothAdvantageLine	{0} concursos {1}, {2} contra {3}, tira {4} {5} contra {6} {7} {8}
@@ -82,25 +82,25 @@ Feedback/&CoverHalfCaption	1/2 tapa
 Feedback/&CoverThreeQuarterCaption	3/4 tapa
 Feedback/&CriticalAbilityCheckFailureOutcome	{0} (FALLO CRÍTICO)
 Feedback/&CriticalAbilityCheckOutcome	{0} (ÉXITO CRÍTICO)
-Feedback/&CriticalAttackFailureOutcome	{0} (FALTA CRÍTICA)
-Feedback/&CriticalAttackFormat	¡Ataque crítico!
+Feedback/&CriticalAttackFailureOutcome	{0} (FALLO CRÍTICO)
+Feedback/&CriticalAttackFormat	¡Golpe crítico!
 Feedback/&CriticalAttackOutcome	{0} (GOLPE CRÍTICO)
 Feedback/&CriticalFailureFormat	¡Fallo crítico!
 Feedback/&DarknessCaption	Oscuridad mágica
 Feedback/&DarknessDescription	La criatura está en una oscuridad mágica.
-Feedback/&DeadlyFallLine	{0} cayó a su muerte.
-Feedback/&DeathSaveAnyAdvantageConsoleLine	{0} lanza una tirada de salvación de muerte {1}: {2}
-Feedback/&DeathSaveConsoleLine	{0} lanza una tirada de salvación de muerte: {1}
+Feedback/&DeadlyFallLine	{0} cayó al vacío.
+Feedback/&DeathSaveAnyAdvantageConsoleLine	{0} hace una tirada de salvación contra la muerte {1}: {2}
+Feedback/&DeathSaveConsoleLine	{0} hace una tirada de salvación contra la muerte: {1}
 Feedback/&DeathSaveCriticalFailureFormat	{0} Fallo crítico
-Feedback/&DeathSaveCriticalFailureLine	Se agregaron {0} fallas al guardar la muerte a {1}
-Feedback/&DeathSaveCriticalSuccessFormat	{0} Éxito fundamental
+Feedback/&DeathSaveCriticalFailureLine	{0} fallos de salvación contra la muerte de {1}
+Feedback/&DeathSaveCriticalSuccessFormat	{0} Éxito Crítico
 Feedback/&DeathSaveCriticalSuccessLine	{0} recupera 1 punto de golpe y se estabiliza.
 Feedback/&DeathSaveFailureFormat	{0} Fallo
 Feedback/&DeathSaveFailuresAddedLine	Se agregó {0} error al guardar la muerte a {1}
 Feedback/&DeathSaveRegainLifeLine	Gracias a {0}, {1} vuelve a tener {2} puntos de vida.
 Feedback/&DeathSaveSuccessAddedLine	{0} éxito de guardado de muerte agregado a {1}
 Feedback/&DeathSaveSuccessFormat	{0} Éxito
-Feedback/&DetectedDefeatFormat	¡Has sido detectado! Utilice el modo cauteloso la próxima vez.
+Feedback/&DetectedDefeatFormat	¡Has sido detectado! Utilice el modo sigiloso la próxima vez.
 Feedback/&DeviceAutoIdentifiedLine	Gracias a un mayor conocimiento de este tipo de elementos, {0} ha identificado {1}
 Feedback/&DimLightCaption	Luz tenue
 Feedback/&DisadvantageRollDescription	Salir con desventaja significa que sacas dos d20 y te quedas con el peor resultado.
@@ -124,22 +124,22 @@ Feedback/&InitiativeCaption	Iniciativa
 Feedback/&InitiativeConsoleLine	{0} lanza iniciativa: {1} = {2}
 Feedback/&InitiativeConsoleLineAdvantage	{0} lanza iniciativa {1}: {2} = {3}
 Feedback/&InitiativeFormat	Iniciativa {0}
-Feedback/&InsightAutomaticFailureLine	{0} falla automáticamente una verificación de Insight (Sabiduría): las probabilidades de éxito del diálogo están ocultas.
-Feedback/&InsightAutomaticSuccessLine	{0} tiene éxito automáticamente en una prueba de Perspicacia (Sabiduría): se revelan las probabilidades de éxito del diálogo.
-Feedback/&InsightCriticalFailureLine	{0} falla críticamente una prueba de Perspicacia (Sabiduría): las probabilidades de éxito del diálogo están ocultas.
-Feedback/&InsightCriticalSuccessLine	{0} obtiene un éxito crítico en una prueba de Perspicacia (Sabiduría): se revelan las probabilidades de éxito del diálogo.
-Feedback/&InsightFailureLine	{0} falla una prueba de Perspicacia (Sabiduría): las probabilidades de éxito del diálogo están ocultas.
-Feedback/&InsightSuccessLine	{0} tiene éxito en una prueba de Perspicacia (Sabiduría): se revelan las probabilidades de éxito del diálogo.
+Feedback/&InsightAutomaticFailureLine	{0} falla automáticamente una prueba de Sabiduría (Perspicacia): las probabilidades de éxito del diálogo están ocultas.
+Feedback/&InsightAutomaticSuccessLine	{0} supera automáticamente una prueba de Sabiduría (Perspicacia): se revelan las probabilidades de éxito del diálogo.
+Feedback/&InsightCriticalFailureLine	{0} fallo crítico en una prueba de Sabiduría (Perspicacia): las probabilidades de éxito del diálogo están ocultas.
+Feedback/&InsightCriticalSuccessLine	{0} éxito crítico en una prueba Sabiduría (Perspicacia): se revelan las probabilidades de éxito del diálogo.
+Feedback/&InsightFailureLine	{0} falla una prueba de Sabiduría (Perspicacia): las probabilidades de éxito del diálogo están ocultas.
+Feedback/&InsightSuccessLine	{0} tiene éxito en una prueba de Sabiduría (Perspicacia): se revelan las probabilidades de éxito del diálogo.
 Feedback/&ItemConsumedCaption	{0} consumido
 Feedback/&ItemConsumedLine	{0} ha consumido por completo un artículo: {1}
 Feedback/&ItemGainedLine	{0} gana un artículo: {1}
 Feedback/&ItemSpellCastLine	y lanza el hechizo {0}
 Feedback/&ItemUsedLastChargeDestroyLine	Última carga gastada: {0} se destruye
 Feedback/&ItemUsedLastChargeRollDestroyLine	Última carga gastada y {1} se lanza en d20: {0} se destruye
-Feedback/&ItemUsedLastChargeRollNotDestroyLine	Último cargo gastado y {1} se lanza en d20: {0} se conserva
-Feedback/&ItemUsedLine	{0} usa el elemento {1}
+Feedback/&ItemUsedLastChargeRollNotDestroyLine	Última carga gastada y {1} se lanza en d20: {0} se conserva
+Feedback/&ItemUsedLine	{0} usa el objeto {1}
 Feedback/&ItemUsedSpellCastLine	{0} usa el elemento {1} y lanza el hechizo {2}
-Feedback/&LongRestCompletedLine	Descanso prolongado completado. Unidades de alimentos consumidos: {0}
+Feedback/&LongRestCompletedLine	Descanso largo completado. Número de raciones consumidas: {0}
 Feedback/&MagicalHitPointsPoolRolledLine	{0} genera un grupo de {1} puntos de vida para {2}
 Feedback/&MoneyGainedLine	VACÍO
 Feedback/&NeedFlamingTagFormat	Necesito un artículo en llamas
@@ -159,13 +159,13 @@ Feedback/&ReceivedHealingLine	{0} ha sanado {1} punto (s) de golpe
 Feedback/&ReceivedTemporaryHitPointsFailureLine	{0} no puede recibir puntos de vida temporales
 Feedback/&ReceivedTemporaryHitPointsSuccessLine	{0} ahora tiene {1} puntos de vida temporales
 Feedback/&RitualCastLine	{0} lanza el {1} ​​hechizo como un ritual
-Feedback/&RollAttackCriticalFailureTitle	Señorita crítica
+Feedback/&RollAttackCriticalFailureTitle	Fallo crítico
 Feedback/&RollAttackCriticalSuccessTitle	Golpe crítico
-Feedback/&RollAttackFailureTitle	Perder
-Feedback/&RollAttackSuccessTitle	Pegar
+Feedback/&RollAttackFailureTitle	Fallo
+Feedback/&RollAttackSuccessTitle	Golpe
 Feedback/&RollCheckCriticalFailureTitle	Fallo crítico
 Feedback/&RollCheckCriticalSuccessTitle	Éxito crítico
-Feedback/&RollCheckFailureTitle	Falla
+Feedback/&RollCheckFailureTitle	Fallo
 Feedback/&RollCheckSuccessTitle	Éxito
 Feedback/&SaveCaptionFormat	{0} Guardar
 Feedback/&SaveConsoleAnyAdvantageLine	{0} obtiene un {1} guardado contra {2} (DC {3}), obtiene {4} {5} = {6}
@@ -175,7 +175,7 @@ Feedback/&SaveConsoleNoModifierLine	{0} saca una {1} salvada contra {2} (DC {3})
 Feedback/&SaveFailureOutcome	{0} falla
 Feedback/&SaveSuccessFormat	Ahorra
 Feedback/&SaveSuccessOutcome	{0} (éxito)
-Feedback/&ShortRestCompletedLine	Descanso breve completado.
+Feedback/&ShortRestCompletedLine	Descanso corto completado.
 Feedback/&SleightOfHandDetectedCaptionFormat	¡Detectado!
 Feedback/&SleightOfHandDetectedLine	{0} fue detectado por {1} mientras intentaba robar artículos
 Feedback/&SleightOfHandNotEnoughRoomCaptionFormat	Inventario lleno.

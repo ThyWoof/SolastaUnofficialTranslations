@@ -20,6 +20,5 @@ CharacterInteraction/&WaitDescription	Haga clic para esperar.
 CharacterInteraction/&UseScavengersDescription	Haga clic para usar el sistema Scavenger
 CharacterInteraction/&TakeScimitarDescription	Haga clic para usar la cimitarra y el escudo para esta pelea.
 CharacterInteraction/&TakeDaggersDescription	Haga clic para usar las dagas para esta pelea.
-CharacterInteraction/&TakeGreataxeDescription	Haga clic para usar el hacha a dos manos para esta pelea.
 CharacterInteraction/&LeaveArenaDescription	Haga clic para salir de la arena y perder el duelo.
 CharacterInteraction/&PlantDocumentDescription	Plano de la planta.

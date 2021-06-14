@@ -3,21 +3,21 @@ Feature/&AbilityCheckAutomaticallyFailedFormat	No supera automáticamente las {0
 Feature/&AbilityCheckBonusFormat	{0} en {1} pruebas de habilidad.
 Feature/&AbilityCheckBonusWithDiceFormat	{0} {1} en {2} pruebas de habilidad.
 Feature/&AbilityCheckDisadvantageFormat	Desventaja en {0} pruebas de habilidad.
-Feature/&AbilityScoreChoiceDescription	Elige entre aumentar tus puntuaciones de habilidad o conseguir una dote adicional.
-Feature/&AbilityScoreChoiceTitle	Elección de puntaje de habilidad
-Feature/&AbilityScoreImprovementDescription	Aumenta dos puntuaciones de habilidad de tu elección en 1 punto cada una, o una única puntuación en 2 puntos.
+Feature/&AbilityScoreChoiceDescription	Elige entre aumentar tus puntuaciones de características o conseguir una dote adicional.
+Feature/&AbilityScoreChoiceTitle	Aumento de puntos de características
+Feature/&AbilityScoreImprovementDescription	Aumenta dos características de tu elección en 1 punto cada una, o una única característica en 2 puntos.
 Feature/&AbilityScoreImprovementTitle	Puntaje de habilidad
 Feature/&AbilityScoreIncreaseAdvancedTitle	Puntuación de habilidad + Habilidad + Hazaña
 Feature/&AbilityScoreIncreaseTitle	Aumento de la puntuación de habilidad
-Feature/&AcademicFeatureDescription	Todavía tienes lazos con los anticuarios y tu relación con ellos ya es buena.
-Feature/&AcademicFeatureTitle	Anticuario fugitivo
+Feature/&AcademicFeatureDescription	Todavía tienes contacto con los Anticuarios y tu relación con ellos ya es buena.
+Feature/&AcademicFeatureTitle	Ex Anticuario
 Feature/&AcademicSkillsDescription	Competente en Arcanos, Naturaleza y Perspicacia.
 Feature/&AcademicSkillsTitle	Ratón de biblioteca
 Feature/&AcademicToolsDescription	Competente con el rosario de Manacalon, que se supone que es útil para encantar objetos.
 Feature/&AcademicToolsTitle	Encantador
-Feature/&AcolyteFeatureDescription	Empieza con una buena reputación entre los clérigos de su fe y tiene descuentos en el templo principal de la capital del Principado.
+Feature/&AcolyteFeatureDescription	Hola hola.
 Feature/&AcolyteFeatureTitle	Refugio de los fieles
-Feature/&AcolyteSkillsDescription	Competente en religión, naturaleza e intuición.
+Feature/&AcolyteSkillsDescription	Competente en Religión, Naturaleza y Perspicacia.
 Feature/&AcolyteSkillsTitle	Entrenamiento religioso
 Feature/&AcolyteSkillsToolsDescription	Competente con el kit de herboristería.
 Feature/&AcolyteSkillsToolsTitle	Hacer pociones
@@ -36,8 +36,8 @@ Feature/&AffectedSpellsFormat	Funciona en los siguientes hechizos: {0}.
 Feature/&AndLine	Y
 Feature/&AristocratFeatureDescription	Las personas de la nobleza te reconocen como uno de ellos, lo que puede ser útil en algunas situaciones.
 Feature/&AristocratFeatureTitle	Sangre azul
-Feature/&AristocratSkillsDescription	Competente en historia, persuasión e intimidación
-Feature/&AristocratSkillsTitle	Educación más alta
+Feature/&AristocratSkillsDescription	Competente en Historia, Persuasión e Intimidación
+Feature/&AristocratSkillsTitle	Educado en la nobleza
 Feature/&ArmorTrainingDescription	Competente con {0}
 Feature/&ArmorTrainingShortDescription	{0}
 Feature/&AttackModifierAdditionalTagFormat	El ataque es {0}
@@ -63,29 +63,29 @@ Feature/&Background01LanguagesTitle	Elija un idioma adicional.
 Feature/&Background02LanguagesTitle	Elija dos idiomas adicionales.
 Feature/&BackgroundLanguages	Idiomas adicionales
 Feature/&BonusFeatDescription	Selecciona una dote adicional para tu personaje.
-Feature/&BonusFeatTitle	Hazaña extra
+Feature/&BonusFeatTitle	Dote extra
 Feature/&CampAffinityElfTranceDescription	4 horas de meditación son suficientes para descansar.
 Feature/&CampAffinityElfTranceTitle	Trance
 Feature/&CantTakeActionFormat	No se puede realizar ninguna acción: {0}
-Feature/&ClericArmorProficiencyTitle	Pericias en armaduras de clérigo
+Feature/&ClericArmorProficiencyTitle	Competencia con armaduras
 Feature/&ClericChannelDivinityAddDescription	+1 Canal de uso de Divinidad entre descansos.
 Feature/&ClericChannelDivinityAddTitle	Canalizar divinidad (aumentado)
 Feature/&ClericChannelDivinityDescription	Puede usar las acciones de Canalizar divinidad una vez entre descansos.
-Feature/&ClericChannelDivinityTitle	Canalizar la divinidad
-Feature/&ClericDivineDomainsDescription	Elige uno de los dominios divinos otorgados por tu deidad.
+Feature/&ClericChannelDivinityTitle	Canalizar divinidad
+Feature/&ClericDivineDomainsDescription	Elige uno de los dominios que te otorga tu deidad.
 Feature/&ClericDivineDomainsTitle	Dominios divinos
 Feature/&ClericSkillPointsTitle	Habilidades de clérigo
 Feature/&ClericSpellcastingTitle	Lanzamiento de hechizos de clérigo
 Feature/&ClericToolsDescription	Has sido entrenado para escribir pergaminos mágicos.
 Feature/&ClericToolsTitle	Escritura de desplazamiento
-Feature/&ClericTurnUndeadShortTitle	Gire a los muertos vivientes
-Feature/&ClericTurnUndeadTitle	Channel Divinity: Turn Undead
-Feature/&ClericTurnUndeadDescription	Canaliza la Divinidad para forzar a las criaturas no muertas dentro de 6 casillas que puedan verte huir, a menos que hagan una tirada de salvación de Sabiduría con éxito.
-Feature/&ClericWeaponProficiencyTitle	Pericias en armas de clérigo
+Feature/&ClericTurnUndeadShortTitle	Expulsar muertos vivientes
+Feature/&ClericTurnUndeadTitle	Canalizar divinidad: Expulsar muertos vivientes
+Feature/&ClericTurnUndeadDescription	Todos los muertos vivientes que puedan verte u oírte a 6 casillas o menos de ti deben realizar una tirada de salvación de Sabiduría. Si el objetivo falla su tirada de salvación, estará expulsado durante 1 minuto o hasta recibir daño. Una criatura expulsada deberá dedicar su turno a moverse lo más lejos posible de ti, y no podrá acercarse a ningún espacio a 6 casillas o menos de ti.
+Feature/&ClericWeaponProficiencyTitle	Pericias en armas
 Feature/&ConditionAttackOfOpportunityImmunityTitle	Inmune a los ataques de oportunidad
 Feature/&ConditionAttackOnMeAdvantageTitle	Las tiradas de ataque contra esta criatura tienen ventaja
 Feature/&ConditionAttackOnMeDisadvantageTitle	Las tiradas de ataque contra esta criatura tienen desventaja
-Feature/&ConditionExpertClimberFormat	Las superficies de escalada difíciles se consideran normales para usted
+Feature/&ConditionExpertClimberFormat	Las superficies de escalada difíciles se consideran normales para ti
 Feature/&ConditionFastClimberFormat	Escalar no te cuesta movimiento extra
 Feature/&ConditionImmunityFormat	Inmunidad al tipo de condición "{0}"
 Feature/&ConditionMovementAddBaseFormat	Velocidad base doble
@@ -104,143 +104,143 @@ Feature/&ConditionSavingThrowAdvantageFormat	Ventaja de las tiradas de salvació
 Feature/&ConditionSavingThrowDisadvantageFormat	Desventaja de los tiros de salvación frente a ser {0}
 Feature/&DamageImmunityFormat	Inmunidad a {0}: se cancela todo el daño
 Feature/&DamageResistanceFormat	Resistencia a {0}: el daño se reduce a la mitad
-Feature/&DamageSavingThrowAdvantageFormat	Ventaja en tiros de salvación contra {0}
-Feature/&DamageSavingThrowDisadvantageFormat	Desventaja de los tiros de salvación contra {0}
+Feature/&DamageSavingThrowAdvantageFormat	Ventaja en las tiradas de salvación contra {0}
+Feature/&DamageSavingThrowDisadvantageFormat	Desventaja en las tiradas de salvación contra {0}
 Feature/&DamageTagsIgnoringFormat	excepto por {0} ataques
 Feature/&DamageVulnerabilityFormat	Vulnerabilidad a {0}: el daño se duplica
 Feature/&DiceGamerDescription	Competente con el conjunto de juegos.
 Feature/&DiceGamerTitle	Jugador de dados
 Feature/&DomainBattleBonusProficiencyDescription	Armas marciales
 Feature/&DomainBattleBonusProficiencyTitle	Competencia adicional
-Feature/&DomainBattleDecisiveStrikeDescription	En un ataque exitoso, Canaliza Divinidad para agregar 1d6 a tu daño y aturdir a tu objetivo (la salvación niega). Aumenta en 1d6 cada 3 niveles por encima del nivel 2.
+Feature/&DomainBattleDecisiveStrikeDescription	Cuando consigas impactar a tu objetivo, Canaliza Divinidad para agregar 1d6 a tu daño y aturdir a tu objetivo (niega salvación). El daño aumenta en 1d6 cada 3 niveles por encima del nivel 2.
 Feature/&DomainBattleDecisiveStrikeShortTitle	Golpe decisivo
 Feature/&DomainBattleDecisiveStrikeTitle	Golpe decisivo
-Feature/&DomainBattleDivineWrathDescription	Como acción, gana 3 PV temporales por nivel de clérigo. Recuperado tras un largo descanso.
-Feature/&DomainBattleDivineWrathTitle	Fortaleza Divina
-Feature/&DomainBattleDomainSpellsTitle	Hechizos de dominio de batalla
-Feature/&DomainBattleHeraldOfBattleDescription	Los aliados en celdas adyacentes obtienen +1 en tiradas de ataque, daño, CA y tiros de salvación.
+Feature/&DomainBattleDivineWrathDescription	Como acción, gana 3 PG temporales por nivel de clérigo. Haz un descanso largo para volver a usar esta habilidad.
+Feature/&DomainBattleDivineWrathTitle	Ira divina
+Feature/&DomainBattleDomainSpellsTitle	Hechizos de dominio de la guerra
+Feature/&DomainBattleHeraldOfBattleDescription	Los aliados en celdas adyacentes obtienen +1 en tiradas de ataque, daño, CA y tiradas de salvación.
 Feature/&DomainBattleHeraldOfBattleTitle	Heraldo de batalla
 Feature/&DomainElementalBonusCantripDescriptionPlural	{0}
 Feature/&DomainElementalBonusCantripDescriptionSingle	{0}
-Feature/&DomainElementalColdBonusCantripTitle	Truco de bonificación (frío)
-Feature/&DomainElementalColdPrimalHarmonyTitle	Armonía primigenia (frío)
-Feature/&DomainElementalDiscipleOfTheElementsDescription	Use su reacción para volverse inmune a su elemento de dominio para que lo sane en lugar de herirlo.
-Feature/&DomainElementalDiscipleOfTheElementsTitle	Erudito de los elementos
+Feature/&DomainElementalColdBonusCantripTitle	Truco adicional
+Feature/&DomainElementalColdPrimalHarmonyTitle	Resistencia elemental
+Feature/&DomainElementalDiscipleOfTheElementsDescription	Usa tu reacción para volverte inmune al elemento de dominio para que te cure en vez de dañarte.
+Feature/&DomainElementalDiscipleOfTheElementsTitle	Discípulo de los elementos
 Feature/&DomainElementalDomainSpellsTitle	Hechizos de dominio elemental
-Feature/&DomainElementalFireBonusCantripTitle	Truco adicional (fuego)
-Feature/&DomainElementalFireBurstDescription	Canaliza Divinidad para causar 3d8 de daño por fuego a un objetivo dentro de las 12 casillas. Una salvación de Destreza exitosa reduce a la mitad el daño.
+Feature/&DomainElementalFireBonusCantripTitle	Truco adicional
+Feature/&DomainElementalFireBurstDescription	Canaliza Divinidad para causar 3d8 de daño por fuego a un objetivo en un rango de 12 casillas. Si el objetivo supera una tirada de salvación de Destreza, reduce el daño a la mitad.
 Feature/&DomainElementalFireBurstShortTitle	Explosión de fuego
 Feature/&DomainElementalFireBurstTitle	Canalizar Divinidad: Explosión de fuego
-Feature/&DomainElementalFirePrimalHarmonyTitle	Armonía primigenia (fuego)
-Feature/&DomainElementalIceLanceDescription	Usa Canalizar divinidad en un objetivo dentro de las 12 casillas. El objetivo debe realizar una tirada de salvación de Destreza o ser empujado por 2 casillas y sufrir 2d8 de daño por frío.
+Feature/&DomainElementalFirePrimalHarmonyTitle	Resistencia elemental
+Feature/&DomainElementalIceLanceDescription	Canaliza Divinidad sobre un objetivo en un rango de 12 casillas. El objetivo debe superar una tirada de salvación de Destreza o será empujado 2 casillas y sufrirá 2d8 de daño por frío.
 Feature/&DomainElementalIceLanceShortTitle	Lanza de hielo
 Feature/&DomainElementalIceLanceTitle	Canalizar Divinidad: Lanza de hielo
-Feature/&DomainElementalLightningBladeDescription	Canaliza Divinidad para causar 1d8 de daño de rayo a un objetivo dentro de 12 casillas. En una salvación de Destreza fallida, el objetivo también queda aturdido hasta el final de su siguiente turno.
-Feature/&DomainElementalLightningBladeShortTitle	Espada luminosa
-Feature/&DomainElementalLightningBladeTitle	Divinidad del canal: espada relámpago
-Feature/&DomainElementalLightningBonusCantripTitle	Truco extra (relámpago)
-Feature/&DomainElementalLightningPrimalHarmonyTitle	Armonía primigenia (relámpago)
+Feature/&DomainElementalLightningBladeDescription	Canaliza Divinidad sobre un objetivo en un rango de 12 casillas para causar 1d8 de daño por relámpago y deberá superar una tirada de salvación de Destreza o quedará aturdido hasta su siguiente turno.
+Feature/&DomainElementalLightningBladeShortTitle	Relámpago aturdidor
+Feature/&DomainElementalLightningBladeTitle	Canalizar Divinidad: Relámpago aturdidor
+Feature/&DomainElementalLightningBonusCantripTitle	Truco adicional
+Feature/&DomainElementalLightningPrimalHarmonyTitle	Resistencia elemental
 Feature/&DomainInsightDivineEyeDescription	Ventaja para detectar trampas, puertas ocultas y objetos
 Feature/&DomainInsightDivineEyeTitle	Ojo divino
-Feature/&DomainInsightDivineIntuitionDescription	Ventaja en las pruebas de habilidad usando Arcanos, Historia y Naturaleza
+Feature/&DomainInsightDivineIntuitionDescription	Ventaja en las pruebas de habilidad de Conocimiento arcano, Historia y Naturaleza
 Feature/&DomainInsightDivineIntuitionTitle	Intuición divina
-Feature/&DomainInsightForeknowledgeDescription	Canaliza Divinity para ver el futuro inmediato y esquivar mejor los ataques de tus enemigos. Durante 1 minuto, el primer ataque (excepto el empujón) realizado contra ti después de tu turno sufre desventaja.
-Feature/&DomainInsightForeknowledgeShortTitle	Presciencia
-Feature/&DomainInsightForeknowledgeTitle	Canalizar Divinidad: Presciencia
-Feature/&DomainInsightInspiredDiplomatDescription	Siempre conoce las probabilidades al elegir entre las opciones de diálogo que incluyen una prueba de habilidad (persuasión, engaño o intimidación).
+Feature/&DomainInsightForeknowledgeDescription	Canaliza Divinidad para ver el futuro inmediato y esquivar mejor los ataques de tus enemigos. Durante 1 minuto, el primer ataque (excepto el empujón) realizado contra ti después de tu turno tienen desventaja.
+Feature/&DomainInsightForeknowledgeShortTitle	Videncia
+Feature/&DomainInsightForeknowledgeTitle	Canalizar Divinidad: Videncia
+Feature/&DomainInsightInspiredDiplomatDescription	Siempre conoce las probabilidades de éxito al elegir entre las opciones de diálogo que incluyen una prueba de habilidad de Persuasión, Engaño o Intimidación).
 Feature/&DomainInsightInspiredDiplomatTitle	Diplomático inspirado
-Feature/&DomainLawCommandingPresenceDescription	Competente en intimidación.\nVentaja de los controles de intimidación
-Feature/&DomainLawCommandingPresenceTitle	Presencia dominante
-Feature/&DomainLawDomainSpellsTitle	Hechizos de dominio de la ley
+Feature/&DomainLawCommandingPresenceDescription	Eres competente en Intimidación.\nVentaja en las tiradas de Intimidación.
+Feature/&DomainLawCommandingPresenceTitle	Presencia imponente
+Feature/&DomainLawDomainSpellsTitle	Hechizos de dominio de la Justicia
 Feature/&DomainLawForceOfLawDescription	Canaliza Divinidad al lanzar un hechizo de ataque para imponer desventaja en la tirada de salvación de tu objetivo.
-Feature/&DomainLawForceOfLawShortTitle	Fuerza de la ley
-Feature/&DomainLawForceOfLawTitle	Canalizar la divinidad: fuerza de la ley
-Feature/&DomainLawHolyRetributionDescription	Cuando un ataque cuerpo a cuerpo te daña, puedes usar tu reacción para Canalizar divinidad y contraatacar usando un arma cuerpo a cuerpo, agregando (2d6 + nivel de clérigo) daño psíquico.
-Feature/&DomainLawHolyRetributionShortTitle	Santo Retribución
-Feature/&DomainLawHolyRetributionTitle	Canalizar divinidad: retribución santa
+Feature/&DomainLawForceOfLawShortTitle	Fuerza de la justicia
+Feature/&DomainLawForceOfLawTitle	Canalizar la divinidad: fuerza de la justicia
+Feature/&DomainLawHolyRetributionDescription	Cuando un ataque cuerpo a cuerpo te haga daño, puedes usar tu reacción para Canalizar Divinidad y contraatacar usando un arma cuerpo a cuerpo y agregando (2d6 + nivel de clérigo) de daño psíquico.
+Feature/&DomainLawHolyRetributionShortTitle	Sagrado castigo
+Feature/&DomainLawHolyRetributionTitle	Canalizar Divinidad: Sagrado castigo
 Feature/&DomainLawUnyieldingEnforcerDescription	Ventaja en las tiradas para resistir ser empujado o movido por medios mágicos.
-Feature/&DomainLawUnyieldingEnforcerTitle	Ejecutor inquebrantable
-Feature/&DomainLawWordOfLawDescription	Romper la concentración de hechizos de un enemigo
+Feature/&DomainLawUnyieldingEnforcerTitle	Fuerza implacable
+Feature/&DomainLawWordOfLawDescription	Rompes la concentración de un enemigo.
 Feature/&DomainLawWordOfLawTitle	Palabra de la ley
-Feature/&DomainLifeBlessedHealerDescription	Cuando lanzas un hechizo de nivel 1 o superior que restaura puntos de golpe a una criatura que no eres tú, recuperas puntos de golpe iguales a (2 x nivel del hechizo).
+Feature/&DomainLifeBlessedHealerDescription	Los conjuros de curación que lances sobre otros también te sanan a ti. Cuando emplees un conjuro de nivel 1 o más para hacer recuperar puntos de golpe a una criatura que no seas tú, tú recuperarás 2 + el nivel del conjuro de puntos de golpe.
 Feature/&DomainLifeBlessedHealerTitle	Bendito Sanador
 Feature/&DomainLifeBonusProficiencyDescription	Competente con armadura pesada.
 Feature/&DomainLifeBonusProficiencyTitle	Competencia adicional
-Feature/&DomainLifeDiscipleOfLifeDescription	Al lanzar un hechizo de curación, el objetivo recupera HP adicional igual a (2 x nivel del hechizo).
+Feature/&DomainLifeDiscipleOfLifeDescription	Al lanzar un hechizo de curación, el objetivo recupera 2 PG adicionales + nivel de conjuro.
 Feature/&DomainLifeDiscipleOfLifeTitle	Discípulo de la vida
 Feature/&DomainLifeDomainSpellsTitle	Hechizos de dominio de vida
 Feature/&DomainLifePreserveLifeDescription	Restaura los puntos de golpe (5 x nivel de clérigo) a uno o más aliados en 6 casillas, hasta la mitad de su máximo de puntos de golpe.
-Feature/&DomainLifePreserveLifeShortTitle	Preservar la vida
-Feature/&DomainLifePreserveLifeTitle	Canalizar la divinidad: preservar la vida
+Feature/&DomainLifePreserveLifeShortTitle	Preservar vida
+Feature/&DomainLifePreserveLifeTitle	Canalizar Divinidad: Preservar vida
 Feature/&DomainOblivionBonusCantripDescription	{0}
-Feature/&DomainOblivionBonusCantripTitle	Truco de bonificación
+Feature/&DomainOblivionBonusCantripTitle	Truco adicional
 Feature/&DomainOblivionDomainSpellsTitle	Hechizos del dominio del olvido
-Feature/&DomainOblivionGateKeeperDescription	Mientras estés consciente, tú y los miembros de tu grupo dentro de las 6 casillas tienen ventaja en los tiros de salvación de muerte.
+Feature/&DomainOblivionGateKeeperDescription	Mientras estés consciente, tú y los miembros de tu grupo en un radio de 6 casillas tienen ventaja en las tiradas de salvación contra la muerte.
 Feature/&DomainOblivionGateKeeperTitle	Guardián de la puerta
-Feature/&DomainOblivionHeraldOfPainDescription	Canaliza la Divinidad para causar dolor a los enemigos dentro de las 6 casillas. Los enemigos que fallan en una salvación de Sabiduría reciben 1d8 de daño necrótico y son envenenados.
+Feature/&DomainOblivionHeraldOfPainDescription	Canaliza Divinidad para causar daño a los enemigos en un rago de 6 casillas. Los enemigos que fallen una tirada de salvación de Sabiduría reciben 1d8 de daño necrótico y son envenenados.
 Feature/&DomainOblivionHeraldOfPainShortTitle	Heraldo del dolor
 Feature/&DomainOblivionHeraldOfPainTitle	Canalizar Divinidad: Heraldo del dolor
-Feature/&DomainOblivionPeacefulRestDescription	Mientras acampa, reduce las posibilidades de ser atacado y evita ser sorprendido.
+Feature/&DomainOblivionPeacefulRestDescription	Mientras descansas se reducen las posibilidades de ser atacado, y evitas ser sorprendido.
 Feature/&DomainOblivionPeacefulRestTitle	Descanso pacífico
 Feature/&DomainSpellsDescription	En tu lista y siempre preparado:\n{0}
 Feature/&DomainSunBonusCantripDescription	Luz
-Feature/&DomainSunBonusCantripTitle	Truco de bonificación
-Feature/&DomainSunDomainSpellsTitle	Hechizos del dominio solar
-Feature/&DomainSunHeraldOfTheSunDescription	Canaliza la Divinidad para envolver a un enemigo visible dentro de 6 casillas con luz radiante, causando 1d8 de daño radiante + 2 por nivel de clérigo (la mitad del daño en una tirada de salvación de Constitución exitosa) y causa la condición de ceguera durante 1 minuto (se niega si la tirada de salvación tuvo éxito).
-Feature/&DomainSunHeraldOfTheSunShortTitle	Heraldo del sol
+Feature/&DomainSunBonusCantripTitle	Truco adicional
+Feature/&DomainSunDomainSpellsTitle	Hechizos del dominio del sol
+Feature/&DomainSunHeraldOfTheSunDescription	Canaliza Divinidad para envolver con luz radiante a un enemigo visible en un rango de 6 casillas, causando 1d8 de daño radiante + 2 por nivel de clérigo y causa la condición de Ceguera durante 1 minuto. Si el objetivo supera una tirada de salvación de Constitución, el daño se reduce a la mitad y no se aplica la condición de Ceguera.
+Feature/&DomainSunHeraldOfTheSunShortTitle	Heraldo del Sol
 Feature/&DomainSunHeraldOfTheSunTitle	Canalizar Divinidad: Heraldo del Sol
-Feature/&DomainSunHolyRadianceDescription	Cuando lanzas Sacred Flame, tu objetivo tiene desventaja en la tirada de salvación.
-Feature/&DomainSunHolyRadianceTitle	Santo resplandor
-Feature/&DomainSunIndomitableLightDescription	Canaliza la divinidad para convocar una esfera de luz solar, que afecta a las criaturas sensibles a la luz y niega las áreas de oscuridad.
-Feature/&DomainSunIndomitableLightShortTitle	Luz indomable
-Feature/&DomainSunIndomitableLightTitle	Divinidad del canal: Luz indomable
+Feature/&DomainSunHolyRadianceDescription	Cuando lanzas Llama Sagrada, tu objetivo tiene desventaja en la tirada de salvación.
+Feature/&DomainSunHolyRadianceTitle	Resplandor solar
+Feature/&DomainSunIndomitableLightDescription	Canaliza Divinidad para convocar una esfera de luz solar que afecta a las criaturas sensibles a la luz e ilumina las áreas oscuras.
+Feature/&DomainSunIndomitableLightShortTitle	Luz indómita
+Feature/&DomainSunIndomitableLightTitle	Divinidad del canal: Luz indómita
 Feature/&DomainSunSoothingHandDescription	Cura a un aliado y elimina una condición perjudicial.
 Feature/&DomainSunSoothingHandTitle	Mano calmante
 Feature/&DwarfHillToughnessDescription	+1 punto de vida por nivel
 Feature/&DwarfHillToughnessTitle	Dureza enana
 Feature/&DwarfLanguagesDescription	Común, Enano
 Feature/&DwarfLanguagesTitle	Idiomas
-Feature/&DwarfResilienceDescription	Ventaja de tiro de salvación contra veneno\nResistencia al daño del veneno
-Feature/&DwarfResilienceTitle	Resiliencia enana
+Feature/&DwarfResilienceDescription	Ventaja en las tiradas de salvación contra el veneno\nResistencia al daño de veneno
+Feature/&DwarfResilienceTitle	Resistencia enana
 Feature/&DwarfSnowEnduranceDescription	+2 a las tiradas de salvación de Constitución.
 Feature/&DwarfSnowEnduranceTitle	Resistencia de los enanos de nieve
 Feature/&DwarfSnowWeaponTrainingDescription	Eres competente con todo tipo de ballestas.
-Feature/&DwarfSnowWeaponTrainingTitle	Experiencia en ballesta
+Feature/&DwarfSnowWeaponTrainingTitle	Ballestero experto
 Feature/&DwarfWeaponTrainingTitle	Entrenamiento de combate enano
-Feature/&ElfFeyAncestryDescription	Ventaja de tiro de salvamento contra Charm\nInmunidad al sueño mágico
-Feature/&ElfFeyAncestryTitle	Ascendencia hada
+Feature/&ElfFeyAncestryDescription	Ventaja en las tiradas de salvación para evitar se hechizado y el sueño mágico no puede dormirte
+Feature/&ElfFeyAncestryTitle	Sangre Feérica
 Feature/&ElfHighCastSpellDescription	Elige un truco de mago, usando Inteligencia como habilidad para lanzar hechizos.
 Feature/&ElfHighCastSpellTitle	Truco de los altos elfos
 Feature/&ElfKeenSensesDescription	Competente en la habilidad de Percepción.
 Feature/&ElfKeenSensesTitle	Sentidos agudos
 Feature/&ElfSylvanLanguagesDescription	Común, élfico, enano y mediano
 Feature/&ElfSylvanLanguagesTitle	Idiomas
-Feature/&ElfSylvanSurvivalDescription	Competente en las habilidades de supervivencia y atletismo.\nVentaja de supervivencia al cazar
-Feature/&ElfSylvanSurvivalTitle	Adaptabilidad de Sylvan
-Feature/&ElfWeaponTrainingTitle	Entrenamiento con armas de los elfos
+Feature/&ElfSylvanSurvivalDescription	Competente en las habilidades de Supervivencia y Atletismo.\nVentaja en las tiradas de Supervivencia al cazar
+Feature/&ElfSylvanSurvivalTitle	Entrenamiento del bosque
+Feature/&ElfWeaponTrainingTitle	Entrenamiento con armas élficas
 Feature/&Emptystring	VACÍO
 Feature/&EquipmentAffinityDoubleCarryingCapacity	La capacidad de carga se duplica.
-Feature/&FeatGainSingleDescription	Competencia en una hazaña de su elección
-Feature/&FeatGainSingleTitle	Hazaña extra
+Feature/&FeatGainSingleDescription	Competencia en una dote de su elección
+Feature/&FeatGainSingleTitle	Dote extra
 Feature/&FeatureSetHunterHuntersPreyDescription	Elija una de las siguientes especialidades de caza:
 Feature/&FeatureSetHunterHuntersPreyTitle	Presa del cazador
-Feature/&FighterActionSurgeDescription	Recupere una acción principal de inmediato. Tómate un descanso breve o prolongado para recuperar este poder.
-Feature/&FighterActionSurgeTitle	Oleada de acción
-Feature/&FighterArmorProficiencyTitle	Competencias en armaduras de luchador
-Feature/&FighterExtraAttackDescription	Puedes atacar una vez más, por turno de combate, cuando usas las acciones de ataque o empujón.
+Feature/&FighterActionSurgeDescription	Durante tu turno, puedes llevar a cabo una acción más a parte de tu acción y acción adicional habituales. Haz un descanso largo para recuperar esta habilidad.
+Feature/&FighterActionSurgeTitle	Acción súbita
+Feature/&FighterArmorProficiencyTitle	Competencias en armaduras
+Feature/&FighterExtraAttackDescription	Puedes atacar una vez más por turno de combate tras usar las acciones de ataque o empujar.
 Feature/&FighterExtraAttackTitle	Ataque extra
 Feature/&FighterFightingStyleDescription	Elige un estilo de lucha como especialidad.
 Feature/&FighterFightingStyleTitle	Estilo de lucha
 Feature/&FighterMartialArchetypesDescription	Selecciona un arquetipo marcial.
 Feature/&FighterMartialArchetypesTitle	Arquetipos marciales
-Feature/&FighterSecondWindDescription	Recupera (1d10 + nivel) HP como acción adicional.
-Feature/&FighterSecondWindTitle	Segundo aire
+Feature/&FighterSecondWindDescription	Recupera (1d10 + nivel) PG. Esta acción cuenta como acción adicional. Haz un descanso corto o largo para recuperar esta habilidad.
+Feature/&FighterSecondWindTitle	Tomar aliento
 Feature/&FighterSkillPointsTitle	Habilidades de luchador
-Feature/&FighterWeaponProficiencyTitle	Pericias en armas de combate
-Feature/&FightingStyleGreatWeaponRerollDescription	{0} usa su estilo de lucha Great Weapons para volver a tirar un {1} dado de daño de {2} a {3}.
+Feature/&FighterWeaponProficiencyTitle	Competencias en armas
+Feature/&FightingStyleGreatWeaponRerollDescription	{0} usa tu estilo de lucha Combate con armas a dos manos para volver a tirar un {1} dado de daño de {2} a {3}.
 Feature/&GenericCastSpellDescription	Puede lanzar hechizos de la lista {0}
 Feature/&GenericCastSpellTitle	Lanzamiento de hechizos
-Feature/&HalfElfAbilityScoreIncreaseDescription	Carisma +2, aumenta otras 2 puntuaciones en 1 punto cada una.
+Feature/&HalfElfAbilityScoreIncreaseDescription	Carisma +2, aumenta otras 2 características en 1 punto cada una.
 Feature/&HalfElfLanguagesDescription	Común, élfico y un idioma de su elección
 Feature/&HalfElfLanguagesTitle	Idiomas
 Feature/&HalflingBraveTitle	Bravo
@@ -270,37 +270,37 @@ Feature/&HumanLanguagesTitle	Idiomas
 Feature/&ImmuneSpellsPluralFormat	Inmune a los hechizos: {0}
 Feature/&ImmuneSpellsSingleFormat	Inmune al hechizo {0}
 Feature/&LawkeeperFeatureDescription	Obtiene un acceso más fácil a la información y a las personas en puestos oficiales.
-Feature/&LawkeeperFeatureTitle	Escudo del Principado
-Feature/&LawkeeperSkillsDescription	Competente en percepción e intimidación.
+Feature/&LawkeeperFeatureTitle		Escudo del Principado
+Feature/&LawkeeperSkillsDescription	Competente en Percepción e Intimidación.
 Feature/&LawkeeperSkillsMartialDescription	Competente con armas marciales.
 Feature/&LawkeeperSkillsMartialTitle	Ejecutor
-Feature/&LawkeeperSkillsTitle	detective
+Feature/&LawkeeperSkillsTitle	Detective
 Feature/&ListSeparatorFinalOrTitle	o
 Feature/&ListSeparatorFinalTitle	y
-Feature/&ListSeparatorTitle	,
+Feature/&ListSeparatorTitle	, 
+Feature/&LowlifeSkillsDescription	Competente en Juego de manos, Sigilo y Engaño.
+Feature/&LowlifeSkillsTitle	Trilero
+Feature/&LowlifeSkillsToolsDescription	Competente con las herramientas de ladrón.
+Feature/&LowlifeSkillsToolsTitle	Maestro en hurtos
 Feature/&LowlifeFeatureDescription	Puede escuchar acerca de misiones secundarias que involucran actividades delictivas.
-Feature/&LowlifeFeatureTitle	Red subterránea
-Feature/&LowlifeSkillsDescription	Competente en juegos de manos, sigilo y engaño.
-Feature/&LowlifeSkillsTitle	Cutpurse
-Feature/&LowlifeSkillsToolsDescription	Competente con las herramientas de los ladrones.
-Feature/&LowlifeSkillsToolsTitle	Robo
+Feature/&LowlifeFeatureTitle		Red subterránea
 Feature/&MagicAffinityTraditionLoreMasterSpellAcademicDescription	Aprendes un hechizo adicional cada vez que subes de nivel.
-Feature/&MagicAffinityTraditionLoreMasterSpellAcademicTitle	Hechizo académico
+Feature/&MagicAffinityTraditionLoreMasterSpellAcademicTitle	Hechizo extra
 Feature/&MagicWeapon2Description	Ataque mágico, +2 a las tiradas de ataque y daño
 Feature/&MagicWeapon3Description	Ataque mágico, +3 a las tiradas de ataque y daño
 Feature/&MagicWeaponDescription	Ataque mágico, +1 a las tiradas de ataque y daño
 Feature/&MartialChampionImprovedCriticalDescription	Tus ataques con armas obtienen un golpe crítico con una tirada de 19 o 20.
 Feature/&MartialChampionImprovedCriticalTitle	Crítico mejorado
-Feature/&MartialMountainerShieldBashDescription	Ventaja en los intentos de empujón cuando se usa un escudo.
-Feature/&MartialMountainerShieldBashTitle	Golpe de escudo
-Feature/&MartialMountainerTunnelFighterDescription	Mientras usa un escudo, gana +2 CA cuando tiene una pared en uno de sus cuatro lados (sin diagonales).
-Feature/&MartialMountainerTunnelFighterTitle	Luchador de túnel
+Feature/&MartialMountainerShieldBashDescription	Tienes ventaja en las tiradas para empujar a las criaturas cuando se usa un escudo.
+Feature/&MartialMountainerShieldBashTitle	Golpe con escudo
+Feature/&MartialMountainerTunnelFighterDescription	Mientras usas un escudo, ganas +2 CA extra cuando tienes una pared a tu lado (sin diagonales).
+Feature/&MartialMountainerTunnelFighterTitle	Defensor férreo
 Feature/&MartialSpellBladeMagicWeaponDescription	Los ataques con armas cuentan como mágicos contra criaturas resistentes o inmunes a ataques no mágicos.
 Feature/&MartialSpellBladeMagicWeaponTitle	Arma mágica
 Feature/&MartialSpellbladeSpellcastingDescription	Lanza hechizos de mago y trucos de las escuelas de conjuro, evocación, transmutación y encantamiento.
 Feature/&MartialSpellbladeSpellcastingTitle	Lanzamiento de hechizos
-Feature/&MoveBurrowDescription	Madriguera {0}
-Feature/&MoveClimbDescription	Subir {0}
+Feature/&MoveBurrowDescription	Excavar {0}
+Feature/&MoveClimbDescription	Escalar {0}
 Feature/&MoveDescription	Velocidad de marcha base en las células.
 Feature/&MoveFlyDescription	Vuela {0}
 Feature/&MoveIncorporealDescription	Incorpóreo {0}
@@ -310,12 +310,12 @@ Feature/&MoveWalkDescription	{0}
 Feature/&MyselfFamilyRestrictionsFormat	Si la criatura es: {0}
 Feature/&NoContentTitle	Ninguno
 Feature/&NullifiedByFormat	A menos que el atacante tenga: {0}
-Feature/&PaladinArmorProficiencyTitle	Pericias en armadura de paladín
+Feature/&PaladinArmorProficiencyTitle	Pericias en armaduras
 Feature/&PaladinCureDiseaseDescription	Gasta 5 puntos de tu reserva de curación para curar una enfermedad.
 Feature/&PaladinCureDiseaseTitle	Curar la enfermedad
 Feature/&PaladinDivineSenseDescription	Revela celestiales, demonios y muertos vivientes.
 Feature/&PaladinDivineSenseTitle	Sentido divino
-Feature/&PaladinDivineSmiteDescription	Cuando golpeas a una criatura con un arma cuerpo a cuerpo, puedes gastar un espacio de hechizo para infligir 2d8 de daño radiante adicional. + 1d8 por nivel de espacio por encima del 1 °, + 1d8 al golpear a un no-muerto o un demonio.
+Feature/&PaladinDivineSmiteDescription	Cuando impactas a una criatura con un ataque con arma cuerpo a cuerpo, puedes gastar uno de tus espacios de conjuro para infligir daño radiante al objetivo además del que ya causa el arma. Este daño adicional es de 2d8 si inviertes un espacio de nivel 1, más 1d8 adicionales por cada nivel del espacio por encima de 1, hasta un máximo de 5d8. Este daño aumenta en 1d8 si el objetivo es un muerto viviente o un infernal.
 Feature/&PaladinDivineSmiteTitle	Castigo divino
 Feature/&PaladinHealingPoolDescription	Una reserva de poder curativo: 5 puntos por nivel de paladín.
 Feature/&PaladinHealingPoolTitle	Piscina curativa
@@ -324,25 +324,25 @@ Feature/&PaladinLayonHandsHyeronimusDescription	Restaura una gran cantidad de HP
 Feature/&PaladinLayonHandsTitle	Imposición de manos
 Feature/&PaladinNeutralizePoisonDescription	Gasta 5 puntos de tu reserva de sanación de Imposición de manos para neutralizar un veneno.
 Feature/&PaladinNeutralizePoisonTitle	Neutralizar veneno
-Feature/&PaladinSacredOathDescription	¡Selecciona y realiza el juramento sagrado que te une como paladín para siempre!
+Feature/&PaladinSacredOathDescription	¡Selecciona y realiza el juramento sagrado que te atará a la senda del paladín para siempre!
 Feature/&PaladinSacredOathTitle	Juramentos sagrados
 Feature/&PaladinSkillsTitle	Habilidades de paladín
-Feature/&PaladinSpellcastingTitle	Lanzamiento de hechizos de paladín
-Feature/&PaladinWeaponProficiencyTitle	Pericias en armas de paladín
+Feature/&PaladinSpellcastingTitle	Lanzamiento de hechizos
+Feature/&PaladinWeaponProficiencyTitle	Pericias en armas
 Feature/&PerceptionAffinityDivinelyRevealedDescription	Se revelan el tipo y la posición de esta criatura.
 Feature/&PhilosopherFeatureDescription	Recolectas plantas y elaboras pociones más rápido que cualquiera que no se haya aventurado fuera de un taller.
-Feature/&PhilosopherFeatureTitle	Herbalista
+Feature/&PhilosopherFeatureTitle	Herborista
 Feature/&PhilosopherSkillsDescription	Competente en Medicina y Persuasión.
 Feature/&PhilosopherSkillsTitle	Médico
 Feature/&PhilosopherToolsDescription	Competente con el kit de herboristería.
 Feature/&PhilosopherToolsTitle	Alquimista
-Feature/&PowerChannelDivinitySubtitle	Canalizar la divinidad
-Feature/&PowerOathOfDevotionSacredWeaponDescription	Canaliza la Divinidad para bendecir un arma. Durante 1 minuto, agrega tu modificador de Carisma para golpear con esa arma (mínimo +1). El arma también emite luz brillante en 4 celdas y luz tenue en 4 celdas más, y sus ataques cuentan como mágicos.
+Feature/&PowerChannelDivinitySubtitle	Canalizar Divinidad
+Feature/&PowerOathOfDevotionSacredWeaponDescription	Canaliza Divinidad para bendecir un arma. Durante 1 minuto, agrega tu modificador de Carisma para golpear con esa arma (mínimo +1). El arma también emite luz brillante en 4 casillas y luz tenue en 4 casillas más, y sus ataques cuentan como mágicos.
 Feature/&PowerOathOfDevotionSacredWeaponShortTitle	Arma sagrada
-Feature/&PowerOathOfDevotionSacredWeaponTitle	Canalizar divinidad: arma sagrada
-Feature/&PowerOathOfDevotionTurnUnholyDescription	Canaliza la Divinidad para forzar a los demonios y muertos vivientes dentro de 6 casillas que pueden verte huir a menos que hagan una tirada de salvación de Sabiduría con éxito.
-Feature/&PowerOathOfDevotionTurnUnholyShortTitle	Conviértete en lo profano
-Feature/&PowerOathOfDevotionTurnUnholyTitle	Canalizar la divinidad: convertir a los impíos
+Feature/&PowerOathOfDevotionSacredWeaponTitle	Canalizar Divinidad: Arma sagrada
+Feature/&PowerOathOfDevotionTurnUnholyDescription	Canaliza Divinidad Para que todos aquellos infernales y muertes vivientes estén en un rango de 6 casillas y que puedas ver, sean expulsados a menos que superen una tirada de salvación de Sabiduría
+Feature/&PowerOathOfDevotionTurnUnholyShortTitle	Expulsar lo impío
+Feature/&PowerOathOfDevotionTurnUnholyTitle	Canalizar Divinidad: Expulsar lo impío
 Feature/&PowerOathOfMotherlandFieryPresenceDescription	Canaliza la Divinidad para cegar a los oponentes dentro de las 12 casillas que fallan en una salvación de Destreza. Las criaturas con visión en la oscuridad o mejor vista en la oscuridad tienen desventaja. La ceguera dura 1d4 turnos.
 Feature/&PowerOathOfMotherlandFieryPresenceShortTitle	Presencia ardiente
 Feature/&PowerOathOfMotherlandFieryPresenceTitle	Canalizar divinidad: presencia ardiente
@@ -386,9 +386,9 @@ Feature/&RangerSpellcastingTitle	Lanzamiento de hechizos de guardabosques
 Feature/&RangerWeaponProficiencyTitle	Competencias en armas de guardabosques
 Feature/&RitualCastingPreparedDescription	Puedes lanzar un hechizo como ritual si ese hechizo tiene la etiqueta ritual y tienes el hechizo preparado.
 Feature/&RitualCastingPreparedTitle	Casting ritual
-Feature/&RitualCastingSpellbookDescription	Puedes lanzar un hechizo como ritual si el hechizo tiene la etiqueta ritual y la tienes en tu libro de hechizos. No es necesario tener el hechizo preparado.
+Feature/&RitualCastingSpellbookDescription	Puedes lanzar de forma ritual aquellos hechizos de mago que figuren en tu libro de hechizos y estén marcados como ritual. No necesitas tener preparados estos hechizos.
 Feature/&RitualCastingSpellbookTitle	Casting ritual
-Feature/&RogueArmorProficiencyTitle	Pericias en armadura de pícaro
+Feature/&RogueArmorProficiencyTitle	Pericias en armaduras
 Feature/&RogueCunningActionDescription	Puedes realizar una acción adicional en cada uno de tus turnos de combate. Esta acción solo se puede usar para realizar la acción Desplazarse, Desengancharse u Ocultar.
 Feature/&RogueCunningActionTitle	Acción astuta
 Feature/&RogueEvasionTitle	Evasión
@@ -397,7 +397,7 @@ Feature/&RogueExpertiseTitle	Pericia
 Feature/&RogueRoguishArchetypesDescription	Seleccione un arquetipo de pícaro que dirigirá sus talentos en diferentes direcciones.
 Feature/&RogueRoguishArchetypesTitle	Arquetipos pícaros
 Feature/&RogueSkillPointsTitle	Habilidades de pícaro
-Feature/&RogueSneakAttackDescription	1d6 de daño adicional (+ 1d6 cada 2 niveles) a una criatura a la que golpeas con ventaja usando una delicadeza o un arma a distancia, una vez por turno. No hay necesidad de ventaja si un aliado activo está al lado del objetivo.
+Feature/&RogueSneakAttackDescription	Inflige 1d6 de daño adicional (+1d6 cada 2 niveles) cuando ataques con ventaja a una criatura y consigas impactarla, o si hay otro enemigo de esa criatura a 5 pies o menos de él. Sólo puedes beneficiarte de este ataque cuando lo hagas con armas a distancia o con la característica de sutileza
 Feature/&RogueSneakAttackTitle	Ataque furtivo
 Feature/&RogueToolsTitle	Herramientas rebeldes
 Feature/&RogueWeaponProficiencyTitle	Competencias con armas rebeldes
@@ -423,11 +423,11 @@ Feature/&SavingThrowDisadvantageFormat	Desventaja de {0} tiros de salvación
 Feature/&SavingThrowProficiencyDescription	{0}
 Feature/&SavingThrowProficiencyTitle	Pericias en tiros de salvación
 Feature/&SavingThrowSpecialHalfDamageFormat	Cuando tienes que hacer una {0} tirada de salvación para recibir la mitad de daño de un efecto, en cambio, no recibes daño si tienes éxito en la tirada de salvación, y solo la mitad de daño si fallas.
-Feature/&SellswordFeatureDescription	Ventaja al hablar con guardias, soldados y oficiales
+Feature/&SellswordFeatureDescription	Ventaja al hablar con guardias, soldados y oficiales.
 Feature/&SellswordFeatureTitle	Guerrero
 Feature/&SellswordSkillsArmorDescription	Competente con armadura media.
 Feature/&SellswordSkillsArmorTitle	Blindado
-Feature/&SellswordSkillsDescription	Competente en atletismo e intimidación.
+Feature/&SellswordSkillsDescription	Competente en Atletismo e Intimidación.
 Feature/&SellswordSkillsTitle	Soldado
 Feature/&SkillGainChoicesPluralDescription	Elija {0} de estas habilidades: {1}
 Feature/&SkillGainChoicesSingleDescription	Elija una de estas habilidades: {0}
@@ -469,7 +469,7 @@ Feature/&SpyFeatureDescription	Has visto suficiente espionaje como para reconoce
 Feature/&SpyFeatureTitle	Tradecraft
 Feature/&SpyLanguageDescription	Aprendió una serie de códigos utilizados por las organizaciones de inteligencia en los Reinos del Este y pudo descifrar la mayoría de ellos.
 Feature/&SpyLanguageTitle	Cifrado espía
-Feature/&SpySkillsDescription	Competente en sigilo y engaño.
+Feature/&SpySkillsDescription	Competente en Sigilo y Engaño.
 Feature/&SpySkillsTitle	Spycraft
 Feature/&SpySkillsToolsDescription	Competente con la naturaleza y el equipo del envenenador.
 Feature/&SpySkillsToolsTitle	Diplomacia áspera
@@ -515,7 +515,7 @@ Feature/&WizardArcaneTraditionsDescription	Te otorga especialización con cierto
 Feature/&WizardArcaneTraditionsTitle	Tradiciones Arcanas
 Feature/&WizardSkillPointsTitle	Habilidades de mago
 Feature/&WizardSpellcastingTitle	Lanzamiento de hechizos de mago
-Feature/&WizardToolsDescription	Has sido entrenado para escribir pergaminos mágicos y usar equipo encantador.
+Feature/&WizardToolsDescription	Has sido entrenado para crear pergaminos mágicos y usar equipo de encantador.
 Feature/&WizardToolsTitle	Artesanía mágica
 Feature/&WizardWeaponProficiencyTitle	Competencias con armas de mago
 Feature/&CombatAffinityPackTacticsTitle	Tácticas de la manada
@@ -555,9 +555,9 @@ Feature/&SavingThrowAffinityGemNecromancyTitle	+2 a las tiradas de salvación co
 Feature/&SavingThrowAffinityGemAbjurationTitle	+2 a las tiradas de salvación contra hechizos de abjuración
 Feature/&SavingThrowAffinityGemEvocationTitle	+2 a las tiradas de salvación contra hechizos de evocación
 Feature/&SavingThrowAffinityGemIllusionTitle	+2 a las tiradas de salvación contra hechizos de ilusión
-Feature/&SavingThrowAffinityGemConjurationTitle	+2 a las tiradas de salvación contra hechizos de Conjuración
+Feature/&SavingThrowAffinityGemConjurationTitle	+2 a las tiradas de salvación contra hechizos de conjuración
 Feature/&SavingThrowAffinityGemEnchantmentTitle	+2 a las tiradas de salvación contra hechizos de encantamiento
-Feature/&SavingThrowAffinityGemDivinationTitle	+2 a las tiradas de salvación contra hechizos de Adivinación
+Feature/&SavingThrowAffinityGemDivinationTitle	+2 a las tiradas de salvación contra hechizos de adivinación
 Feature/&SavingThrowAffinityGemTransmutationTitle	+2 a las tiradas de salvación contra hechizos de Transmutación
 Feature/&SavingThrowAffinityCrownOfTheMagisterTitle	+1 a los tiros de salvación
 Feature/&AbilityCheckAffinityCrownOfTheMagisterTitle	+2 a las pruebas de Intimidación y Persuasión
@@ -666,11 +666,11 @@ Feature/&ClericTurnUndeadAdvancedDescription	Canaliza la Divinidad para forzar a
 Feature/&ShadowRetributionTitle	Retribución de las Sombras
 Feature/&ShadowRetributionDescription	Si eres el objetivo de un hechizo dañino, tanto si te daña como si no, puedes lanzar un truco como reacción al lanzador.
 Feature/&DarkweaverPoisonousTitle	Venenoso
-Feature/&DarkweaverPoisonousDescription	Cuando golpeas con un arma cuerpo a cuerpo e infliges al menos 1 punto de daño, tu objetivo debe hacer una salvación CON CD 13 o será envenenado durante una hora y sufrirá 2d6 de daño adicional.
+Feature/&DarkweaverPoisonousDescription	Cuando golpeas con un arma cuerpo a cuerpo e infliges daño, tu objetivo debe hacer una salvación CON CD 13 o será envenenado durante una hora y sufrirá 2d6 de daño adicional.
 Feature/&PowerRemorazSwallowTitle	Tragar
 Feature/&PowerRemorazSwallowDescription	El Remorhaz puede tragarse a una criatura que haya agarrado con éxito e infligirá daño con ácido cada turno, a menos que reciba suficiente daño para obligarlo a regurgitar.
 Feature/&PowerDragonBreath_Poison_Title	Aliento venenoso
-Feature/&PowerDragonBreath_Poison_Description	Este dragón puede respirar un devastador cono de veneno.
+Feature/&PowerDragonBreath_Poison_Description	Este dragón puede escupir un devastador cono de veneno.
 Feature/&DragonFrightfulPresence_Title	Presencia espantosa
 Feature/&DragonFrightfulPresence_Description	Los dragones son tan poderosos que su sola presencia puede aterrorizar a quienes carecen de coraje.
 Feature/&DragonWingAttack_Title	Ataque de ala
