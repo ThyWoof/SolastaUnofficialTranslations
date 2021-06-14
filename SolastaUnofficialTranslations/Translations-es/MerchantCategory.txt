@@ -3,5 +3,5 @@ MerchantCategory/&AllTitle	Todos los artículos
 MerchantCategory/&ArmorTitle	Armadura
 MerchantCategory/&CraftingTitle	Elaboración
 MerchantCategory/&IngredientTitle	Ingredientes
-MerchantCategory/&MagicDeviceTitle	Dispositivos mágicos
+MerchantCategory/&MagicDeviceTitle	Artículos mágicos
 MerchantCategory/&WeaponTitle	Armas

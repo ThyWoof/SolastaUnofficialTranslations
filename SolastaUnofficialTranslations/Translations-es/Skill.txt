@@ -1,6 +1,6 @@
 Skill/&AcrobaticsDescription	Las pruebas de Destreza (Acrobacias) se utilizan para intentar conservar el equilibrio en situaciones difíciles, como cuando estás corriendo sobre una placa de hielo, manteniendo el equilibrio sobre una cuerda floja o intentando no ser derribado por el bamboleo de un barco.
 Skill/&AcrobaticsTitle	Acrobacias
-Skill/&AnimalHandlingDescription	Cuando haya que dilucida r si puedes calmar a un animal doméstico, evitar que una montura se asuste o intuir las intenciones de un animal, son algunos ejemplos de una prueba de Sabiduría (Trato con animales).
+Skill/&AnimalHandlingDescription	Cuando haya que dilucidar si puedes calmar a un animal doméstico, evitar que una montura se asuste o intuir las intenciones de un animal, son algunos ejemplos de una prueba de Sabiduría (Trato con animales).
 Skill/&AnimalHandlingTitle	Trato con animales
 Skill/&ArcanaDescription	Las pruebas de Inteligencia (Conocimiento Arcano) miden tu capacidad para recordar información acerca de conjuros, objetos mágicos, símbolos sobre naturales, tradiciones mágicas, planos de existencia y los habitantes de dichos planos.
 Skill/&ArcanaTitle	Conocimiento Arcano
@@ -20,7 +20,7 @@ Skill/&MedecineDescription	Una prueba de Sabiduría (Medicina) sirve para intent
 Skill/&MedecineTitle	Medicina
 Skill/&NatureDescription	Las pruebas de Inteligencia (Naturaleza) miden tu capacidad para recordar información acerca del terreno, plantas y animales, el clima y los ciclos de la naturaleza.
 Skill/&NatureTitle	Naturaleza
-Skill/&PerceptionDescription	Las pruebas de Sabiduría (Percepción) te permiten ver, oír y, en general. detectar la presencia de algo o alguien. Mide tu atención y la agudeza de tus sentidos.
+Skill/&PerceptionDescription	Las pruebas de Sabiduría (Percepción) te permiten ver, oír y, en general, detectar la presencia de algo o alguien. Mide tu atención y la agudeza de tus sentidos.
 Skill/&PerceptionTitle	Percepción
 Skill/&PerformanceDescription	Las pruebas de Carisma (Interpretación) indican si has entretenido a tu audiencia mediante la música, el baile, la declamación o cualquier otra forma de entretenimiento.
 Skill/&PerformanceTitle	Interpretación

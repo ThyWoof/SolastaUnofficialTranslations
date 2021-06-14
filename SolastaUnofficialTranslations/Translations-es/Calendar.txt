@@ -1,6 +1,6 @@
-Calendar/&LongTimeFormat	[TEMP] La hora del juego es {0} el día {1} {2} del año {3} Post Cataclysm
+Calendar/&LongTimeFormat	[TEMP] Hora {0} del {1} {2} del año {3} Después del Cataclismo
 Calendar/&SolastanCalendarDescription	El calendario común utilizado en Solasta.
-Calendar/&SolastanCalendarTitle	Calendario Solastan
+Calendar/&SolastanCalendarTitle	Calendario Solastiano
 Calendar/&SolastanMonth10Title	Aearun
 Calendar/&SolastanMonth11Title	Aeardwy
 Calendar/&SolastanMonth12Title	Aeardair
@@ -13,4 +13,4 @@ Calendar/&SolastanMonth6Title	Isgedair
 Calendar/&SolastanMonth7Title	Tanan
 Calendar/&SolastanMonth8Title	Tanwyn
 Calendar/&SolastanMonth9Title	Tandair
-Calendar/&SolastanYearFormat	{0} P.C.
+Calendar/&SolastanYearFormat	{0} D.C.

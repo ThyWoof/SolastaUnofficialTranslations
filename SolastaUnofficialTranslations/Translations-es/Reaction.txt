@@ -35,7 +35,7 @@ Reaction/&OpportunityAttackReactDescription	Haz clic para atacar al personaje / 
 Reaction/&OpportunityAttackReactTitle	Ataque
 Reaction/&OpportunityAttackTitle	Ataque de oportunidad
 Reaction/&PassDescription	No reacciona a este evento, guardando su reacción para más adelante.
-Reaction/&PassTitle	Aprobar
+Reaction/&PassTitle	Pasar
 Reaction/&ReactionShotDescription	{0} ha atacado a {1}, quien puede usar una reacción para contraatacar con un ataque a distancia.
 Reaction/&ReactionShotReactDescription	Haz clic para contraatacar. Esto usa tu reacción hasta tu próximo turno.
 Reaction/&ReactionShotReactTitle	Ataque

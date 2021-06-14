@@ -1,27 +1,27 @@
 BodyColor/&EyesBlackTitle	Negro
 BodyColor/&EyesBlueTitle	Azul
-BodyColor/&EyesBrownTitle	marrón
-BodyColor/&EyesGoldenTitle	dorado
+BodyColor/&EyesBrownTitle	Marrón
+BodyColor/&EyesGoldenTitle	Dorado
 BodyColor/&EyesGreenTitle	Verde
-BodyColor/&EyesHazelTitle	Color avellana
+BodyColor/&EyesHazelTitle	Avellana
 BodyColor/&EyesLavenderTitle	Lavanda
-BodyColor/&EyesRedTitle	rojo
+BodyColor/&EyesRedTitle	Rojo
 BodyColor/&EyesSilverTitle	Plata
 BodyColor/&HairBlackTitle	Negro
 BodyColor/&HairBlondTitle	Rubio
 BodyColor/&HairBlueTitle	Azul
-BodyColor/&HairBrownTitle	marrón
+BodyColor/&HairBrownTitle	Marrón
 BodyColor/&HairCopperTitle	Cobre
 BodyColor/&HairOliveTitle	Aceituna
-BodyColor/&HairRedTitle	rojo
+BodyColor/&HairRedTitle	Rojo
 BodyColor/&HairRoseTitle	Rosa
-BodyColor/&HairSandyBrownTitle	Sandy Brown
+BodyColor/&HairSandyBrownTitle	Marrón arena
 BodyColor/&HairSilverTitle	Plata
-BodyColor/&HairWhiteTitle	blanco
+BodyColor/&HairWhiteTitle	Blanco
 BodyColor/&SkinAlabasterBlueTitle	Azul alabastro
 BodyColor/&SkinBronzeTitle	Bronce
-BodyColor/&SkinCopperishTitle	Cobreño
+BodyColor/&SkinCopperishTitle	Cobre
 BodyColor/&SkinFairTitle	Justo
 BodyColor/&SkinObsidianTitle	Obsidiana
 BodyColor/&SkinPaleTitle	Pálido
-BodyColor/&SkinTanTitle	Broncearse
+BodyColor/&SkinTanTitle	Bronceado

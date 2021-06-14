@@ -1,28 +1,28 @@
-CharacterFamily/&AberrationDescription	Las aberraciones son seres completamente extraños. Muchos de ellos tienen habilidades mágicas innatas extraídas de la mente alienígena de la criatura en lugar de las fuerzas místicas del mundo.
+CharacterFamily/&AberrationDescription	Las aberraciones son seres de naturaleza completamente alienígena. Muchos de ellos poseen habilidades mágicas innatas que no provienen de las fuerzas místicas del mundo, sino de la propia mente de la criatura.
 CharacterFamily/&AberrationTitle	Aberración
-CharacterFamily/&BeastDescription	Las bestias son criaturas no humanoides que son una parte natural de la ecología de la fantasía. Algunos de ellos tienen poderes mágicos, pero la mayoría no son inteligentes y carecen de sociedad o idioma.
-CharacterFamily/&BeastTitle	Bestia
-CharacterFamily/&CelestialDescription	Los celestiales son criaturas nativas de los planos superiores. Muchos de ellos son sirvientes de deidades, empleados como mensajeros o agentes en el reino de los mortales y en todos los planos. Los celestiales son buenos por naturaleza, por lo que el celestial excepcional que se desvía de una buena alineación es una rareza espantosa.
-CharacterFamily/&CelestialTitle	Celestial
-CharacterFamily/&ConstructDescription	Las construcciones se hacen, no nacen. Algunos están programados por sus creadores para seguir un conjunto simple de instrucciones, mientras que otros están imbuidos de sensibilidad y son capaces de pensar de forma independiente.
-CharacterFamily/&ConstructTitle	Construir
-CharacterFamily/&DragonDescription	Los dragones son grandes criaturas reptiles de origen antiguo y un poder tremendo. Los verdaderos dragones, incluidos los buenos dragones metálicos y los malvados dragones cromáticos, son muy inteligentes y tienen una magia innata.
-CharacterFamily/&DragonTitle	Continuar
-CharacterFamily/&ElementalDescription	Los elementales son criaturas nativas de los planos elementales. Algunas criaturas de este tipo son poco más que masas animadas de sus respectivos elementos, incluidas las criaturas llamadas simplemente elementales. Otros tienen formas biológicas imbuidas de energía elemental.
-CharacterFamily/&ElementalTitle	Elemental
-CharacterFamily/&FeyDescription	Los hadas son criaturas mágicas estrechamente vinculadas a las fuerzas de la naturaleza. Habitan en arboledas crepusculares y bosques brumosos.
-CharacterFamily/&FeyTitle	Vidente
-CharacterFamily/&FiendDescription	Los demonios son criaturas malvadas que son nativas de los Planos Inferiores. Algunos son sirvientes de deidades, pero muchos más trabajan bajo el liderazgo de archidemonios y príncipes demoníacos. Los sacerdotes y magos malvados a veces convocan demonios al mundo material para que cumplan sus órdenes. Si un celestial malvado es una rareza, un buen demonio es casi inconcebible.
-CharacterFamily/&FiendTitle	Demonio
-CharacterFamily/&GiantDescription	Los gigantes se elevan sobre los humanos y los de su especie. Tienen forma humana, aunque algunos tienen múltiples cabezas o deformidades. Las seis variedades de verdadero gigante son los gigantes de las colinas, los gigantes de piedra, los gigantes de las heladas, los gigantes de fuego, los gigantes de las nubes y los gigantes de las tormentas. Además de estos, criaturas como los ogros y los trolls son gigantes.
-CharacterFamily/&GiantTitle	Gigante
-CharacterFamily/&HumanoidDescription	Los humanoides son los principales pueblos de un mundo de juegos de fantasía, tanto civilizados como salvajes, incluidos los humanos y una tremenda variedad de otras especies. Tienen un idioma y una cultura, pocas o ninguna habilidad mágica innata (aunque la mayoría de los humanoides pueden aprender a lanzar hechizos) y una forma bípeda. Los humanoides más comunes son los más adecuados como personajes jugadores: humanos, enanos, elfos y medianos. Casi tan numerosos son los goblinoides (goblins, hobgoblins y bugbears), orcos, gnolls, lagartos y kobolds.
-CharacterFamily/&HumanoidTitle	Humanoide
-CharacterFamily/&MonstrosityDescription	Las monstruosidades son monstruos en el sentido más estricto: criaturas aterradoras que no son ordinarias, no son verdaderamente naturales y casi nunca son benignas. Algunos son el resultado de una experimentación mágica que salió mal, y otros son el producto de terribles maldiciones. Desafían la categorización y, en cierto sentido, sirven como una categoría general para las criaturas que no encajan en ningún otro tipo.
-CharacterFamily/&MonstrosityTitle	Monstruosidad
-CharacterFamily/&OozeDescription	Los mocos son criaturas gelatinosas que rara vez tienen una forma fija. En su mayoría son subterráneos, habitan en cuevas y mazmorras y se alimentan de basura, carroña o criaturas lo suficientemente desafortunadas como para interponerse en su camino.
-CharacterFamily/&OozeTitle	Rezumar
-CharacterFamily/&PlantDescription	Las plantas en este contexto son criaturas vegetales, no flora común. La mayoría de ellos son ambulatorios y algunos son carnívoros. Las plantas por excelencia son el montículo arrastrado y el treant. Las criaturas fúngicas también entran en esta categoría.
-CharacterFamily/&PlantTitle	Planta
-CharacterFamily/&UndeadDescription	Los muertos vivientes son criaturas vivientes llevadas a un horrible estado de no-muerte a través de la práctica de la magia nigromántica o alguna maldición impía.
+CharacterFamily/&BeastDescription	Las bestias son criaturas no humanoides que forman parte del ecosistema. Algunas poseen poderes mágicos, pero la mayoría no son inteligentes y carecen de sociedad o idioma alguno.
+CharacterFamily/&BeastTitle	Bestias
+CharacterFamily/&CelestialDescription	Los celestiales son criaturas nativas de los Planos Superiores. Muchas de ellas sirven a los dioses, como sus mensajeros y agentes en el reino mortal y a lo largo y ancho de los planos. Los celestiales son buenos por naturaleza, así que aquellos individuos excepcionales que tienen otro alineamiento son rarezas espeluznantes.
+CharacterFamily/&CelestialTitle	Celestiales
+CharacterFamily/&ConstructDescription	Los constructos no nacen de forma natural, sino que son creados. Algunos han sido programados por sus creadores para obedecer unas instrucciones muy sencillas, mientras que otros tienen consciencia y son capaces de pensar por sí mismos.
+CharacterFamily/&ConstructTitle	Constructos
+CharacterFamily/&DragonDescription	Los dragones son enormes criaturas aladas de aspecto reptiliano, tremendamente poderosas y de orígenes antiguos. Los auténticos dragones, entre los que se cuentan tanto los metálicos, bondadosos, como los cromáticos, malvados, son seres muy inteligentes y con poderes mágicos innatos.
+CharacterFamily/&DragonTitle	Dragones
+CharacterFamily/&ElementalDescription	Los elementales son criaturas naturales de los Planos Elementales. Algunos de los monstruos de este tipo son poco más que una masa animada del elemento que encarnan. Los seres comúnmente llamados elementales son un ejemplo de esto. Otros, sin embargo, son entidades biológicas rebosantes de energía elemental.
+CharacterFamily/&ElementalTitle	Elementales
+CharacterFamily/&FeyDescription	Los feéricos son criaturas mágicas fuertemente ligadas a las fuerzas de la naturaleza. Moran en las arboledas crepusculares y los bosques cubiertos de bruma.
+CharacterFamily/&FeyTitle	Feéricos
+CharacterFamily/&FiendDescription	Los infernales son criaturas retorcidas naturales de los Planos Inferiores. Algunos sirven a los dioses, aunque la mayoría trabajan para los archidiablos y los príncipes demonio. Ciertos magos y sacerdotes malvados intentan invocar infernales al mundo material para que cumplan sus órdenes. Si un celestial maligno es una rara avis, un infernal bueno es prácticamente inconcebible.
+CharacterFamily/&FiendTitle	Infernales
+CharacterFamily/&GiantDescription	Los gigantes se alzan sobre los humanos y otras razas similares. Su forma es parecida a la humana, pero algunos poseen varias cabezas o deformidades. Las seis variedades de gigantes verdaderos son los gigantes de las colinas, de piedra, de escarcha, de fuego, de las nubes y de las tormentas. Además, hay a otras criaturas que también son consideradas gigantes, como los ogros y los trolls.
+CharacterFamily/&GiantTitle	Gigantes
+CharacterFamily/&HumanoidDescription	Los humanoides constituyen la mayor parte de las culturas de los mundos de fantasía, tanto salvajes como civilizadas. Este tipo incluye a los humanos y a una enorme variedad de otras especies. Son bípedos, conocen algún idioma y tienen alguna forma de estructura social. Muy pocos poseen capacidades mágicas innatas, aunque la mayoría pueden aprender a lanzar conjuros. Las razas de humanoides más comunes suelen ser las típicas de los personajes jugadores: humanos, elfos, enanos y medianos. Sin embargo, existen otras razas de humanoides, casi tan numerosas como las anteriores, pero mucho más salvajes, brutales, y, casi siempre, malvadas: los trasgos (goblins, hobgoblins y osgos), los orcos, los gnolls, los hombres lagartos y los kobolds.
+CharacterFamily/&HumanoidTitle	Humanoides
+CharacterFamily/&MonstrosityDescription	Las monstruosidades son monstruos en el sentido más literal de la palabra: criaturas aterradoras que no son ni normales ni naturales y prácticamente nunca bondadosas. Algunas son el resultado de experimentos mágicos que han salido mal, mientras que otras son producto de horribles maldiciones. Se resisten a cualquier taxonomía, por lo que este tipo suele servir como un cajón de sastre en el que meter a todas aquellas criaturas que no encajan en ningún otro.
+CharacterFamily/&MonstrosityTitle	Monstruosidades
+CharacterFamily/&OozeDescription	Los cienos son criaturas gelatinosas que suelen carecer de una forma concreta. Casi siempre subterráneas, moran en cuevas y mazmorras, donde se alimentan de desechos, carroña o las criaturas que poseen la mala suerte de cruzarse en su camino.
+CharacterFamily/&OozeTitle	Cienos
+CharacterFamily/&PlantDescription	Las plantas no son, en este contexto, simple flora, sino criaturas del reino vegetal. La mayoría son capaces de desplazarse y algunas son carnívoras. Las criaturas fúngicas entran dentro de esta categoría.
+CharacterFamily/&PlantTitle	Plantas
+CharacterFamily/&UndeadDescription	Los muertos vivientes son criaturas que antaño estuvieron vivas, pero que ahora se alzan en una horrible parodia de la vida, víctimas de la nigromancia o de alguna maldición impía.
 CharacterFamily/&UndeadTitle	Muertos vivientes
