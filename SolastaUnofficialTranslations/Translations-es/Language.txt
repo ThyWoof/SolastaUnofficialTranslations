@@ -2,18 +2,18 @@ Language/&CommonDescription	El idioma estándar que se habla en Solasta es una f
 Language/&CommonTitle	Común
 Language/&DwarvishDescription	Una antigua lengua de Solastan, conservada por enanos que vivían fuera del dominio imperial, ha sobrevivido al Cataclismo.
 Language/&DwarvishTitle	Enano
-Language/&ElvishDescription	Un antiguo idioma de Solastan, compartido por los elfos nobles y elfos silvestres, pero hablado principalmente por estos últimos.
-Language/&ElvishTitle	Mágico
-Language/&GiantDescription	El idioma que hablan la mayoría de los humanoides grandes, como los verdaderos gigantes o seres menores como los ogros.
+Language/&ElvishDescription	Un antiguo idioma de Solastan. El idioma elfo es fluido, con entonaciones sutiles y una gramática compleja, siendo su literatura rica y variada.
+Language/&ElvishTitle	Élfico
+Language/&GiantDescription	El idioma que hablan la mayoría de los humanoides grandes, como gigantes y ogros.
 Language/&GiantTitle	Gigante
 Language/&GoblinDescription	El crudo dialecto de los goblins es incluso más simple que el orco.
-Language/&GoblinTitle	Duende
+Language/&GoblinTitle	Goblin
 Language/&HalflingDescription	La antigua lengua de los medianos, que se originó antes de la división entre la gente de Marsh y Island.
 Language/&HalflingTitle	Halfling
 Language/&OrcDescription	El idioma que hablan los orcos y sus hermanos.
 Language/&OrcTitle	Orco
 Language/&ReptilianDescription	El idioma hablado por los Sorr-Akkath y sus hermanos.
-Language/&ReptilianTitle	Reptil
+Language/&ReptilianTitle	Reptiliano
 Language/&SpyCodeDescription	Este libro de varios códigos y cifrados le permite leer la mayoría de los mensajes codificados.
 Language/&SpyCodeTitle	Libro de códigos del espía
 Language/&TerranDescription	Un dialecto del idioma Primordial hablado por criaturas del Plano Elemental de la Tierra o aquellos relacionados con la tierra de alguna manera.
