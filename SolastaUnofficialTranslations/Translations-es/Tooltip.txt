@@ -105,7 +105,7 @@ Tooltip/&TagDamageBludgeoningTitle	Daño contundente
 Tooltip/&TagDamageColdTitle	Daño por frío
 Tooltip/&TagDamageFireTitle	Daño por fuego
 Tooltip/&TagDamageForceTitle	Daño de fuerza
-Tooltip/&TagDamageLightningTitle	Daño de rayo
+Tooltip/&TagDamageLightningTitle	Daño de relámpago
 Tooltip/&TagDamageNecroticTitle	Daño necrótico
 Tooltip/&TagDamagePiercingTitle	Daño perforante
 Tooltip/&TagDamagePoisonTitle	Daño por veneno
@@ -121,22 +121,22 @@ Tooltip/&TagDocumentTitle	Documento
 Tooltip/&TagExtinguishFireTitle	Extinguir
 Tooltip/&TagExtinguishLightTitle	Disipar la luz
 Tooltip/&TagFactionRelicTitle	Reliquia de facción
-Tooltip/&TagFinesseTitle	Finura
+Tooltip/&TagFinesseTitle	Sutil
 Tooltip/&TagFlamableTitle	Inflamable
 Tooltip/&TagFlamingTitle	Llameante
 Tooltip/&TagFoodTitle	Comida
 Tooltip/&TagGlassTitle	Vidrio
 Tooltip/&TagGoldTitle	Oro
-Tooltip/&TagHealingTitle	Cicatrización
+Tooltip/&TagHealingTitle	Curación
 Tooltip/&TagHeavyTitle	Pesado
 Tooltip/&TagIngredientTitle	Ingrediente
 Tooltip/&TagItemPropertyTitle	Mejora del artículo
 Tooltip/&TagLeatherTitle	Cuero
 Tooltip/&TagLightSourceTitle	Fuente de luz
-Tooltip/&TagLightTitle	Luz
+Tooltip/&TagLightTitle	Ligera
 Tooltip/&TagLoadingTitle	Cargando
 Tooltip/&TagMagicalTitle	Mágico
-Tooltip/&TagMeleeTitle	Pelea confusa
+Tooltip/&TagMeleeTitle	Cuerpo a cuerpo
 Tooltip/&TagMetalArmorTitle	Armadura de metal
 Tooltip/&TagMetalTitle	Metal
 Tooltip/&TagMotionTitle	Movimiento forzado
@@ -156,16 +156,16 @@ Tooltip/&TagScrollTitle	Desplazarse
 Tooltip/&TagShapechangerTitle	Cambiador de figura
 Tooltip/&TagSightBlockerTitle	Bloqueador de la vista
 Tooltip/&TagSilverTitle	Plata
-Tooltip/&TagSpellFocusTitle	Enfoque de hechizo
+Tooltip/&TagSpellFocusTitle	Canalizador de hechizo
 Tooltip/&TagSpellSlotsTitle	Ranuras para hechizos
-Tooltip/&TagSpellTitle	Deletrear
-Tooltip/&TagStandardTitle	Estándar
-Tooltip/&TagStealthAdvantageTitle	Ventaja sigilosa
-Tooltip/&TagStealthAutofailTitle	Falla automática sigilosa
-Tooltip/&TagStealthDisadvantageTitle	Desventaja de sigilo
+Tooltip/&TagSpellTitle	Hechizo
+Tooltip/&TagStandardTitle	Común
+Tooltip/&TagStealthAdvantageTitle	Ventaja en Sigilo
+Tooltip/&TagStealthAutofailTitle	Fallo automático en Sigilo
+Tooltip/&TagStealthDisadvantageTitle	Desventaja en Sigilo
 Tooltip/&TagSummonTitle	Convocando
 Tooltip/&TagTeleportTitle	Teletransportación
-Tooltip/&TagTemporaryHitPointsTitle	Puntos de vida temporales
+Tooltip/&TagTemporaryHitPointsTitle	Puntos de golpe temporales
 Tooltip/&TagThrownTitle	Arrojado
 Tooltip/&TagTorchTitle	Antorcha
 Tooltip/&TagTwoHandedTitle	Dos manos
@@ -178,7 +178,7 @@ Tooltip/&TargetTagMetalArmorTitle	El objetivo usa armadura de metal
 Tooltip/&ToolTypeTitle	Herramienta de elaboración
 Tooltip/&ValueNoneTitle	Ninguno
 Tooltip/&ValueTitle	Valor
-Tooltip/&WeaponEffectsTitle	Efectos sobre el golpe
+Tooltip/&WeaponEffectsTitle	Efectos del arma
 Tooltip/&WeightCapacityMultiplierTitle	Multiplicador de capacidad de carga
 Tooltip/&WeightTitle	Peso
 Tooltip/&TrendConditionIsFormat	{0} es {1}
@@ -188,8 +188,8 @@ Tooltip/&TagPoisonedTitle	Envenenado
 Tooltip/&ItemPropertiesTitle	Propiedades del artículo
 Tooltip/&TagDebuffTitle	Debuff
 Tooltip/&WeaponNotLightWarningDescription	Esta arma no es Ligera, lo que evita que el personaje use un ataque adicional con el arma de la mano izquierda.
-Tooltip/&AmmunitionSelectorPrimaryDescription	Tu arma a distancia equipada dará prioridad a buscar municiones en este espacio de inventario.
-Tooltip/&AmmunitionSelectorSecondaryDescription	Su arma a distancia equipada buscará municiones en este espacio de inventario si el espacio principal está vacío. Haga clic para definir esta ranura como la nueva fuente primaria.
+Tooltip/&AmmunitionSelectorPrimaryDescription	Tu arma a distancia equipada usará primero la munición de esta ranura.
+Tooltip/&AmmunitionSelectorSecondaryDescription	Tu arma a distancia equipada usará la munición de esta ranura de inventario si la ranura principal está vacía. Haga clic para definir esta ranura como primaria.
 Tooltip/&StealthBreakerCharacterDescription	Puede detectar un personaje oculto. Se realizará una prueba de Destreza (Sigilo) al final del turno del personaje oculto.
 Tooltip/&ItemDynamicPropertyFormat	{0}: {1}
 Tooltip/&ItemDynamicPropertyRemainingUseAttackSingleFormat	Usos restantes: {0} ataque
@@ -218,7 +218,7 @@ Tooltip/&AbilityCheckAdditiveTrendsFormat	Modificador de comprobación de capaci
 Tooltip/&TrendCoverFormat	Cubrir
 Tooltip/&SaveVersionWarningDescription	Este guardado es de una versión anterior del juego y es posible que encuentres problemas de compatibilidad.
 Tooltip/&TrendKnownSpellFormat	{0} es un hechizo conocido.
-Tooltip/&InvalidComponentRequirementTitle	Componentes de hechizo faltantes
+Tooltip/&InvalidComponentRequirementTitle	Faltan componentes de hechizo
 Tooltip/&TagIvoryTitle	Marfil
 Tooltip/&TagPearlTitle	Perla
 Tooltip/&TagGemTitle	Joya
@@ -230,7 +230,7 @@ Tooltip/&PowerUsesAbilityScoreFormat	{0} bonificación
 Tooltip/&PowerUsesAbilityScorePlusFixedFormat	{0} bonificación + {1}
 Tooltip/&PowerUsesProficiencyBonusTitle	Bono de Prof.
 Tooltip/&TrendDifficultyFormat	Modificador de dificultad
-Tooltip/&TagInDimLightOrDarknessTitle	Luz baja
+Tooltip/&TagInDimLightOrDarknessTitle	Luz tenue
 Tooltip/&RecurrentEffectTitle	Efecto recurrente:
 Tooltip/&FeatPrerequisiteArmorProficiencyFormat	Requiere competencia: {0}
 Tooltip/&TagKillTitle	Muerte instantánea
@@ -241,7 +241,7 @@ Tooltip/&TagOrcTitle	Orco
 Tooltip/&PowerUsesAbilityScorePlusFixed	1 + bonificación CHA
 Tooltip/&DeityMarkFormat	Este artículo lleva el símbolo de {0}
 Tooltip/&LootPackContentTitle	Contenido del paquete de botín:
-Tooltip/&TrapEffectsTitle	Efectos de trampa
+Tooltip/&TrapEffectsTitle	Efectos de la trampa
 Tooltip/&EnvironmentEffectsTitle	Efectos ambientales
 Tooltip/&RandomItemSingleTitle	Elemento aleatorio -
 Tooltip/&RandomItemPluralTitle	Elementos aleatorios -
