@@ -8,7 +8,7 @@ Feature/&AbilityScoreChoiceTitle	Aumento de puntos de características
 Feature/&AbilityScoreImprovementDescription	Aumenta dos características de tu elección en 1 punto cada una, o una única característica en 2 puntos.
 Feature/&AbilityScoreImprovementTitle	Puntaje de habilidad
 Feature/&AbilityScoreIncreaseAdvancedTitle	Puntuación de habilidad + Habilidad + Hazaña
-Feature/&AbilityScoreIncreaseTitle	Aumento de la puntuación de habilidad
+Feature/&AbilityScoreIncreaseTitle	Mejora de característica
 Feature/&AcademicFeatureDescription	Todavía tienes contacto con los Anticuarios y tu relación con ellos ya es buena.
 Feature/&AcademicFeatureTitle	Ex Anticuario
 Feature/&AcademicSkillsDescription	Competente en Arcanos, Naturaleza y Perspicacia.
@@ -43,7 +43,7 @@ Feature/&ArmorTrainingShortDescription	{0}
 Feature/&AttackModifierAdditionalTagFormat	El ataque es {0}
 Feature/&AttackModifierAttackRollFormat	{0} para atacar tiradas
 Feature/&AttackModifierDamageRollFormat	{0} a las tiradas de daño
-Feature/&AttributeIncreaseAllDescription	+ {0} a todas las puntuaciones de habilidad
+Feature/&AttributeIncreaseAllDescription	+ {0} a todos las características
 Feature/&AttributeIncreaseAny1Description	Aumenta una puntuación de habilidad
 Feature/&AttributeIncreaseAnyNDescription	Aumentar {0} las puntuaciones de habilidad
 Feature/&AttributeIncreaseDescription	{0} + {1}
@@ -53,7 +53,7 @@ Feature/&AttributeModifierSetDescription	{0} está configurado en {1}
 Feature/&AttributeSetDescription	{0} está configurado en {1}
 Feature/&AuraOfCourageDescription	Usted y sus aliados en un radio de 10 pies no pueden asustarse mientras esté consciente. En el nivel 18, el rango se convierte en 30 pies.
 Feature/&AuraOfCourageTitle	Aura de coraje
-Feature/&AuraOfProtectionDescription	Otorga una bonificación a la tirada de salvación a los aliados que te rodean, igual a tu modificador CHA (mínimo 1).
+Feature/&AuraOfProtectionDescription	Otorga una bonificación a la tirada de salvación a los aliados que te rodean, igual a tu modificador CAR (mínimo 1).
 Feature/&AuraOfProtectionTitle	Aura de protección
 Feature/&AutoPreparedSpellsFormat	Nivel {0}: {1}
 Feature/&AutoPreparedSpellsOathOfDevotionTitle	Hechizos de juramento de devoción
@@ -74,14 +74,14 @@ Feature/&ClericChannelDivinityDescription	Puede usar las acciones de Canalizar d
 Feature/&ClericChannelDivinityTitle	Canalizar divinidad
 Feature/&ClericDivineDomainsDescription	Elige uno de los dominios que te otorga tu deidad.
 Feature/&ClericDivineDomainsTitle	Dominios divinos
-Feature/&ClericSkillPointsTitle	Habilidades de clérigo
-Feature/&ClericSpellcastingTitle	Lanzamiento de hechizos de clérigo
+Feature/&ClericSkillPointsTitle	Competencia en Habilidades
+Feature/&ClericSpellcastingTitle	Lanzamiento de conjuros
 Feature/&ClericToolsDescription	Has sido entrenado para escribir pergaminos mágicos.
-Feature/&ClericToolsTitle	Escritura de desplazamiento
+Feature/&ClericToolsTitle	Escritura de pergamino
 Feature/&ClericTurnUndeadShortTitle	Expulsar muertos vivientes
 Feature/&ClericTurnUndeadTitle	Canalizar divinidad: Expulsar muertos vivientes
 Feature/&ClericTurnUndeadDescription	Todos los muertos vivientes que puedan verte u oírte a 6 casillas o menos de ti deben realizar una tirada de salvación de Sabiduría. Si el objetivo falla su tirada de salvación, estará expulsado durante 1 minuto o hasta recibir daño. Una criatura expulsada deberá dedicar su turno a moverse lo más lejos posible de ti, y no podrá acercarse a ningún espacio a 6 casillas o menos de ti.
-Feature/&ClericWeaponProficiencyTitle	Pericias en armas
+Feature/&ClericWeaponProficiencyTitle	Competencias en armas
 Feature/&ConditionAttackOfOpportunityImmunityTitle	Inmune a los ataques de oportunidad
 Feature/&ConditionAttackOnMeAdvantageTitle	Las tiradas de ataque contra esta criatura tienen ventaja
 Feature/&ConditionAttackOnMeDisadvantageTitle	Las tiradas de ataque contra esta criatura tienen desventaja
@@ -101,7 +101,7 @@ Feature/&ConditionMyAttackDisadvantageTitle	Las tiradas de ataque de esta criatu
 Feature/&ConditionMyAttackSubstractDiceFormat	- {0} {1} para atacar tiradas
 Feature/&ConditionMyAttackSubstractFormat	- {0} para atacar tiradas
 Feature/&ConditionSavingThrowAdvantageFormat	Ventaja de las tiradas de salvación frente a ser {0}
-Feature/&ConditionSavingThrowDisadvantageFormat	Desventaja de los tiros de salvación frente a ser {0}
+Feature/&ConditionSavingThrowDisadvantageFormat	Desventaja de los tiradas de salvación frente a ser {0}
 Feature/&DamageImmunityFormat	Inmunidad a {0}: se cancela todo el daño
 Feature/&DamageResistanceFormat	Resistencia a {0}: el daño se reduce a la mitad
 Feature/&DamageSavingThrowAdvantageFormat	Ventaja en las tiradas de salvación contra {0}
@@ -162,11 +162,11 @@ Feature/&DomainLawUnyieldingEnforcerDescription	Ventaja en las tiradas para resi
 Feature/&DomainLawUnyieldingEnforcerTitle	Fuerza implacable
 Feature/&DomainLawWordOfLawDescription	Rompes la concentración de un enemigo.
 Feature/&DomainLawWordOfLawTitle	Palabra de la ley
-Feature/&DomainLifeBlessedHealerDescription	Los conjuros de curación que lances sobre otros también te sanan a ti. Cuando emplees un conjuro de nivel 1 o más para hacer recuperar puntos de golpe a una criatura que no seas tú, tú recuperarás 2 + el nivel del conjuro de puntos de golpe.
+Feature/&DomainLifeBlessedHealerDescription	Los hechizos de curación que lances sobre otros también te sanan a ti. Cuando emplees un hechizo de nivel 1 o más para hacer recuperar puntos de golpe a una criatura que no seas tú, tú recuperarás 2 + el nivel del hechizo de puntos de golpe.
 Feature/&DomainLifeBlessedHealerTitle	Bendito Sanador
 Feature/&DomainLifeBonusProficiencyDescription	Competente con armadura pesada.
 Feature/&DomainLifeBonusProficiencyTitle	Competencia adicional
-Feature/&DomainLifeDiscipleOfLifeDescription	Al lanzar un hechizo de curación, el objetivo recupera 2 PG adicionales + nivel de conjuro.
+Feature/&DomainLifeDiscipleOfLifeDescription	Al lanzar un hechizo de curación, el objetivo recupera 2 PG adicionales + nivel de hechizo.
 Feature/&DomainLifeDiscipleOfLifeTitle	Discípulo de la vida
 Feature/&DomainLifeDomainSpellsTitle	Hechizos de dominio de vida
 Feature/&DomainLifePreserveLifeDescription	Restaura los puntos de golpe (5 x nivel de clérigo) a uno o más aliados en 6 casillas, hasta la mitad de su máximo de puntos de golpe.
@@ -196,8 +196,8 @@ Feature/&DomainSunIndomitableLightShortTitle	Luz indómita
 Feature/&DomainSunIndomitableLightTitle	Divinidad del canal: Luz indómita
 Feature/&DomainSunSoothingHandDescription	Cura a un aliado y elimina una condición perjudicial.
 Feature/&DomainSunSoothingHandTitle	Mano calmante
-Feature/&DwarfHillToughnessDescription	+1 punto de vida por nivel
-Feature/&DwarfHillToughnessTitle	Dureza enana
+Feature/&DwarfHillToughnessDescription	+1 punto de golpe por nivel
+Feature/&DwarfHillToughnessTitle	Aguante enano
 Feature/&DwarfLanguagesDescription	Común, Enano
 Feature/&DwarfLanguagesTitle	Idiomas
 Feature/&DwarfResilienceDescription	Ventaja en las tiradas de salvación contra el veneno\nResistencia al daño de veneno
@@ -210,7 +210,7 @@ Feature/&DwarfWeaponTrainingTitle	Entrenamiento de combate enano
 Feature/&ElfFeyAncestryDescription	Ventaja en las tiradas de salvación para evitar se hechizado y el sueño mágico no puede dormirte
 Feature/&ElfFeyAncestryTitle	Sangre Feérica
 Feature/&ElfHighCastSpellDescription	Elige un truco de mago, usando Inteligencia como habilidad para lanzar hechizos.
-Feature/&ElfHighCastSpellTitle	Truco de los altos elfos
+Feature/&ElfHighCastSpellTitle	Truco
 Feature/&ElfKeenSensesDescription	Competente en la habilidad de Percepción.
 Feature/&ElfKeenSensesTitle	Sentidos agudos
 Feature/&ElfSylvanLanguagesDescription	Común, élfico, enano y mediano
@@ -218,7 +218,7 @@ Feature/&ElfSylvanLanguagesTitle	Idiomas
 Feature/&ElfSylvanSurvivalDescription	Competente en las habilidades de Supervivencia y Atletismo.\nVentaja en las tiradas de Supervivencia al cazar
 Feature/&ElfSylvanSurvivalTitle	Entrenamiento del bosque
 Feature/&ElfWeaponTrainingTitle	Entrenamiento con armas élficas
-Feature/&Emptystring	VACÍO
+Feature/&Emptystring	VCAÍO
 Feature/&EquipmentAffinityDoubleCarryingCapacity	La capacidad de carga se duplica.
 Feature/&FeatGainSingleDescription	Competencia en una dote de su elección
 Feature/&FeatGainSingleTitle	Dote extra
@@ -235,7 +235,7 @@ Feature/&FighterMartialArchetypesDescription	Selecciona un arquetipo marcial.
 Feature/&FighterMartialArchetypesTitle	Arquetipos marciales
 Feature/&FighterSecondWindDescription	Recupera (1d10 + nivel) PG. Esta acción cuenta como acción adicional. Haz un descanso corto o largo para recuperar esta habilidad.
 Feature/&FighterSecondWindTitle	Tomar aliento
-Feature/&FighterSkillPointsTitle	Habilidades de luchador
+Feature/&FighterSkillPointsTitle	Competencia en Habilidades
 Feature/&FighterWeaponProficiencyTitle	Competencias en armas
 Feature/&FightingStyleGreatWeaponRerollDescription	{0} usa tu estilo de lucha Combate con armas a dos manos para volver a tirar un {1} dado de daño de {2} a {3}.
 Feature/&GenericCastSpellDescription	Puede lanzar hechizos de la lista {0}
@@ -243,10 +243,10 @@ Feature/&GenericCastSpellTitle	Lanzamiento de hechizos
 Feature/&HalfElfAbilityScoreIncreaseDescription	Carisma +2, aumenta otras 2 características en 1 punto cada una.
 Feature/&HalfElfLanguagesDescription	Común, élfico y un idioma de su elección
 Feature/&HalfElfLanguagesTitle	Idiomas
-Feature/&HalflingBraveTitle	Bravo
+Feature/&HalflingBraveTitle	Valiente
 Feature/&HalflingIslandLanguagesDescription	Común, mediano y un idioma de su elección
 Feature/&HalflingIslandLanguagesTitle	Idiomas
-Feature/&HalflingLuckyDescription	Cuando saques un 1 en una tirada de ataque, prueba de habilidad o tirada de salvación, vuelve a tirar y usa la nueva tirada.
+Feature/&HalflingLuckyDescription	Cuando saques un 1 en una tirada para atacar, prueba de característica o tirada de salvación, vuelve a tirar el dado y usa este nuevo resultado.
 Feature/&HalflingLuckyRerollDescription	{0} es un Halfling afortunado y vuelve a tirar una {1} terrible tirada de {2} a {3}.
 Feature/&HalflingLuckyTitle	Afortunado
 Feature/&HalflingMarshHidingTitle	Halfling de los pantanos escondidos
@@ -255,9 +255,9 @@ Feature/&HalflingMarshLanguagesTitle	Idiomas
 Feature/&HalflingMarshTerrainDescription	Eres experto en viajar en terrenos pantanosos.
 Feature/&HalflingMarshTerrainTitle	Nativo de los pantanos
 Feature/&HalflingNimblenessDescription	Puedes moverte por el espacio de cualquier criatura que sea de un tamaño mayor que tú.
-Feature/&HalflingNimblenessTitle	La agilidad de los medianos
+Feature/&HalflingNimblenessTitle	Agilidad de mediano
 Feature/&HalflingRopedancingDescription	Ventaja en las pruebas de Destreza (Acrobacias)
-Feature/&HalflingRopedancingTitle	Baile de cuerda
+Feature/&HalflingRopedancingTitle	Acróbata
 Feature/&HealBackFormat	Todo el daño recibido "{0}" realmente cura a la criatura.
 Feature/&HealBackUpToFormat	Todo el daño recibido "{0}" en realidad cura a la criatura hasta {1} puntos de golpe.
 Feature/&HealingModifierNotHitPointGainDescription	No puede ganar puntos de golpe.
@@ -278,12 +278,12 @@ Feature/&LawkeeperSkillsTitle	Detective
 Feature/&ListSeparatorFinalOrTitle	o
 Feature/&ListSeparatorFinalTitle	y
 Feature/&ListSeparatorTitle	, 
+Feature/&LowlifeFeatureDescription	Puede escuchar acerca de misiones secundarias que involucran actividades delictivas.
+Feature/&LowlifeFeatureTitle		Red subterránea
 Feature/&LowlifeSkillsDescription	Competente en Juego de manos, Sigilo y Engaño.
 Feature/&LowlifeSkillsTitle	Trilero
 Feature/&LowlifeSkillsToolsDescription	Competente con las herramientas de ladrón.
 Feature/&LowlifeSkillsToolsTitle	Maestro en hurtos
-Feature/&LowlifeFeatureDescription	Puede escuchar acerca de misiones secundarias que involucran actividades delictivas.
-Feature/&LowlifeFeatureTitle		Red subterránea
 Feature/&MagicAffinityTraditionLoreMasterSpellAcademicDescription	Aprendes un hechizo adicional cada vez que subes de nivel.
 Feature/&MagicAffinityTraditionLoreMasterSpellAcademicTitle	Hechizo extra
 Feature/&MagicWeapon2Description	Ataque mágico, +2 a las tiradas de ataque y daño
@@ -297,7 +297,7 @@ Feature/&MartialMountainerTunnelFighterDescription	Mientras usas un escudo, gana
 Feature/&MartialMountainerTunnelFighterTitle	Defensor férreo
 Feature/&MartialSpellBladeMagicWeaponDescription	Los ataques con armas cuentan como mágicos contra criaturas resistentes o inmunes a ataques no mágicos.
 Feature/&MartialSpellBladeMagicWeaponTitle	Arma mágica
-Feature/&MartialSpellbladeSpellcastingDescription	Lanza hechizos de mago y trucos de las escuelas de conjuro, evocación, transmutación y encantamiento.
+Feature/&MartialSpellbladeSpellcastingDescription	Lanza hechizos de mago y trucos de las escuelas de hechizo, evocación, transmutación y encantamiento.
 Feature/&MartialSpellbladeSpellcastingTitle	Lanzamiento de hechizos
 Feature/&MoveBurrowDescription	Excavar {0}
 Feature/&MoveClimbDescription	Escalar {0}
@@ -305,30 +305,30 @@ Feature/&MoveDescription	Velocidad de marcha base en las células.
 Feature/&MoveFlyDescription	Vuela {0}
 Feature/&MoveIncorporealDescription	Incorpóreo {0}
 Feature/&MoveSwimDescription	Nadar {0}
-Feature/&MoveTitle	Moverse
+Feature/&MoveTitle	VEL
 Feature/&MoveWalkDescription	{0}
 Feature/&MyselfFamilyRestrictionsFormat	Si la criatura es: {0}
 Feature/&NoContentTitle	Ninguno
 Feature/&NullifiedByFormat	A menos que el atacante tenga: {0}
-Feature/&PaladinArmorProficiencyTitle	Pericias en armaduras
-Feature/&PaladinCureDiseaseDescription	Gasta 5 puntos de tu reserva de curación para curar una enfermedad.
+Feature/&PaladinArmorProficiencyTitle	Competencias en armaduras
+Feature/&PaladinCureDiseaseDescription	Gasta 5 puntos de tu reserva curativa para curar una enfermedad.
 Feature/&PaladinCureDiseaseTitle	Curar la enfermedad
 Feature/&PaladinDivineSenseDescription	Revela celestiales, demonios y muertos vivientes.
 Feature/&PaladinDivineSenseTitle	Sentido divino
-Feature/&PaladinDivineSmiteDescription	Cuando impactas a una criatura con un ataque con arma cuerpo a cuerpo, puedes gastar uno de tus espacios de conjuro para infligir daño radiante al objetivo además del que ya causa el arma. Este daño adicional es de 2d8 si inviertes un espacio de nivel 1, más 1d8 adicionales por cada nivel del espacio por encima de 1, hasta un máximo de 5d8. Este daño aumenta en 1d8 si el objetivo es un muerto viviente o un infernal.
+Feature/&PaladinDivineSmiteDescription	Cuando impactas a una criatura con un ataque con arma cuerpo a cuerpo, puedes gastar uno de tus espacios de hechizo para infligir daño radiante al objetivo además del que ya causa el arma. Este daño adicional es de 2d8 si inviertes un espacio de nivel 1, más 1d8 adicionales por cada nivel del espacio por encima de 1, hasta un máximo de 5d8. Este daño aumenta en 1d8 si el objetivo es un muerto viviente o un infernal.
 Feature/&PaladinDivineSmiteTitle	Castigo divino
 Feature/&PaladinHealingPoolDescription	Una reserva de poder curativo: 5 puntos por nivel de paladín.
-Feature/&PaladinHealingPoolTitle	Piscina curativa
-Feature/&PaladinLayonHandsDescription	Gasta puntos de tu reserva de curación para recuperar los puntos de vida perdidos.
-Feature/&PaladinLayonHandsHyeronimusDescription	Restaura una gran cantidad de HP perdidos.
+Feature/&PaladinHealingPoolTitle	Reserva curativa
+Feature/&PaladinLayonHandsDescription	Gasta puntos de tu reserva curativa para recuperar los puntos de golpe perdidos.
+Feature/&PaladinLayonHandsHyeronimusDescription	Restaura una gran cantidad de PG perdidos.
 Feature/&PaladinLayonHandsTitle	Imposición de manos
-Feature/&PaladinNeutralizePoisonDescription	Gasta 5 puntos de tu reserva de sanación de Imposición de manos para neutralizar un veneno.
+Feature/&PaladinNeutralizePoisonDescription	Gasta 5 puntos de tu reserva curativa de Imposición de manos para neutralizar un veneno.
 Feature/&PaladinNeutralizePoisonTitle	Neutralizar veneno
 Feature/&PaladinSacredOathDescription	¡Selecciona y realiza el juramento sagrado que te atará a la senda del paladín para siempre!
 Feature/&PaladinSacredOathTitle	Juramentos sagrados
-Feature/&PaladinSkillsTitle	Habilidades de paladín
+Feature/&PaladinSkillsTitle	Competencia en Habilidades
 Feature/&PaladinSpellcastingTitle	Lanzamiento de hechizos
-Feature/&PaladinWeaponProficiencyTitle	Pericias en armas
+Feature/&PaladinWeaponProficiencyTitle	Competencias en armas
 Feature/&PerceptionAffinityDivinelyRevealedDescription	Se revelan el tipo y la posición de esta criatura.
 Feature/&PhilosopherFeatureDescription	Recolectas plantas y elaboras pociones más rápido que cualquiera que no se haya aventurado fuera de un taller.
 Feature/&PhilosopherFeatureTitle	Herborista
@@ -358,9 +358,9 @@ Feature/&PowerOathOfTirmarSmiteTheHiddenTitle	Canalizar Divinidad: Azote de lo o
 Feature/&PowerReckless_Description	Ventaja en las tiradas de ataque cuerpo a cuerpo, pero los enemigos también tienen ventaja en las tiradas de ataque contra una criatura imprudente.
 Feature/&PowerReckless_Title	Imprudente
 Feature/&PowerStandardSubtitle	Energía
-Feature/&PowerTraditionGreenmageMagicalArrowDescription	Tu flecha puede transformarse en una enredadera al impactar. El objetivo debe realizar una tirada de salvación de Fuerza o ser inmovilizado hasta el final de tu siguiente turno. Puedes usar esta función un número de veces igual a tu modificador de Inteligencia (mínimo 1). Todos los usos se recargan al final de un largo descanso.
+Feature/&PowerTraditionGreenmageMagicalArrowDescription	Tu flecha puede transformarse en una enredadera al impactar. El objetivo debe realizar una tirada de salvación de Fuerza o ser inmovilizado hasta el final de tu siguiente turno. Puedes usar esta función un número de veces igual a tu modificador de Inteligencia (mínimo 1). Todos los usos se recargan al final de un descanso largo.
 Feature/&PowerTraditionGreenmageMagicalArrowTitle	Disparo enredado
-Feature/&PowerTraditionShockArcanistArcaneFuryDescription	Suma tu bonificación de competencia y bonificación INT al daño de tu hechizo de evocación durante 1 minuto. Se recarga después de un largo descanso.
+Feature/&PowerTraditionShockArcanistArcaneFuryDescription	Suma tu bonificación de competencia y bonificación INT al daño de tu hechizo de evocación durante 1 minuto. Se recarga después de un descanso largo.
 Feature/&PowerTraditionShockArcanistArcaneFuryTitle	Furia arcana
 Feature/&ProficiencyMarksmanToolChoiceDescription	Kit de herboristería o kit de envenenamiento.
 Feature/&ProficiencyMarksmanToolChoiceTitle	Competencias adicionales
@@ -368,39 +368,39 @@ Feature/&ProficiencyOathOfTirmarBonusLanguageDescription	Cuando haces el juramen
 Feature/&ProficiencyOathOfTirmarBonusLanguageTitle	Idioma de bonificación
 Feature/&RangerArchetypeDescription	Seleccione un arquetipo de guardabosques que lo guiará en sus viajes.
 Feature/&RangerArchetypeTitle	Arquetipos de guardabosques
-Feature/&RangerArmorProficiencyTitle	Competencias en armaduras de guardabosques
+Feature/&RangerArmorProficiencyTitle	Competencias en armaduras
 Feature/&RangerFavoredEnemyDescription	Obtén ventaja en las pruebas de habilidad hacia este tipo de criatura y daño adicional contra él igual a tu nivel de conocimiento.
-Feature/&RangerFavoredEnemyTitle	Enemigo favorecido
+Feature/&RangerFavoredEnemyTitle	Enemigo predilecto
 Feature/&RangerNaturalExplorerByTypeDescription	Eres experto en vivir y viajar en un determinado tipo de terreno: {0}.
-Feature/&RangerNaturalExplorerByTypeTitle	Explorador natural {0}
+Feature/&RangerNaturalExplorerByTypeTitle	Explorador nato {0}
 Feature/&RangerNaturalExplorerDescription	Eres experto en vivir y viajar en cierto tipo de terreno.
-Feature/&RangerNaturalExplorerTitle	Explorador natural
+Feature/&RangerNaturalExplorerTitle	Explorador nato
 Feature/&RangerPrimevalAwarenessDescription	Detecta la presencia de ciertos tipos de criaturas en la ubicación.
 Feature/&RangerPrimevalAwarenessTitle	Conciencia primigenia
 Feature/&RangerShadowTamerDarkSlayerDescription	Cuando atacas a una criatura con visión en la oscuridad superior con un arma, agregas tu bonificación de competencia a tu daño.
 Feature/&RangerShadowTamerDarkSlayerTitle	Asesino oscuro
 Feature/&RangerShadowTamerTunnelWisdomDescription	Cuando hay poca luz o en la oscuridad, obtienes ventaja en las tiradas de salvación de Destreza.
 Feature/&RangerShadowTamerTunnelWisdomTitle	Sabiduría del túnel
-Feature/&RangerSkillsTitle	Habilidades de guardabosques
+Feature/&RangerSkillsTitle	Competencia en Habilidades
 Feature/&RangerSpellcastingTitle	Lanzamiento de hechizos de guardabosques
-Feature/&RangerWeaponProficiencyTitle	Competencias en armas de guardabosques
-Feature/&RitualCastingPreparedDescription	Puedes lanzar un hechizo como ritual si ese hechizo tiene la etiqueta ritual y tienes el hechizo preparado.
-Feature/&RitualCastingPreparedTitle	Casting ritual
+Feature/&RangerWeaponProficiencyTitle	Competencias en armas
+Feature/&RitualCastingPreparedDescription	Puedes lanzar de forma ritual aquellos conjuros de clérigo que tengas preparados y que esten marcados como ritual.
+Feature/&RitualCastingPreparedTitle	Lanzamiento ritual
 Feature/&RitualCastingSpellbookDescription	Puedes lanzar de forma ritual aquellos hechizos de mago que figuren en tu libro de hechizos y estén marcados como ritual. No necesitas tener preparados estos hechizos.
-Feature/&RitualCastingSpellbookTitle	Casting ritual
-Feature/&RogueArmorProficiencyTitle	Pericias en armaduras
+Feature/&RitualCastingSpellbookTitle	Lanzamiento ritual
+Feature/&RogueArmorProficiencyTitle	Competencias en armaduras
 Feature/&RogueCunningActionDescription	Puedes realizar una acción adicional en cada uno de tus turnos de combate. Esta acción solo se puede usar para realizar la acción Desplazarse, Desengancharse u Ocultar.
 Feature/&RogueCunningActionTitle	Acción astuta
 Feature/&RogueEvasionTitle	Evasión
 Feature/&RogueExpertiseDescription	Seleccione 2 habilidades o herramientas competentes para duplicar su bonificación de competencia.
-Feature/&RogueExpertiseTitle	Pericia
+Feature/&RogueExpertiseTitle	Competencia
 Feature/&RogueRoguishArchetypesDescription	Seleccione un arquetipo de pícaro que dirigirá sus talentos en diferentes direcciones.
 Feature/&RogueRoguishArchetypesTitle	Arquetipos pícaros
-Feature/&RogueSkillPointsTitle	Habilidades de pícaro
+Feature/&RogueSkillPointsTitle	Competencia en Habilidades
 Feature/&RogueSneakAttackDescription	Inflige 1d6 de daño adicional (+1d6 cada 2 niveles) cuando ataques con ventaja a una criatura y consigas impactarla, o si hay otro enemigo de esa criatura a 5 pies o menos de él. Sólo puedes beneficiarte de este ataque cuando lo hagas con armas a distancia o con la característica de sutileza
 Feature/&RogueSneakAttackTitle	Ataque furtivo
-Feature/&RogueToolsTitle	Herramientas rebeldes
-Feature/&RogueWeaponProficiencyTitle	Competencias con armas rebeldes
+Feature/&RogueToolsTitle	Herramientas
+Feature/&RogueWeaponProficiencyTitle	Competencias en armas
 Feature/&RoguishDarkweaverBonusProficiencyDescription	Competente con el equipo del envenenador.
 Feature/&RoguishDarkweaverBonusProficiencyTitle	Competencia adicional
 Feature/&RoguishDarkweaverPredatorDescription	Cuando golpees a un enemigo en un terreno más bajo con un arma a distancia, agrega tu bonificación de competencia al daño.
@@ -415,13 +415,13 @@ Feature/&RoguishThiefFastHandsDescription	Acción astuta le permite realizar la 
 Feature/&RoguishThiefFastHandsTitle	Manos rápidas
 Feature/&RoguishThiefSecondStoryDescription	Escalar ya no le cuesta movimiento adicional, las superficies de escalada difíciles se consideran normales para usted y puede saltar distancias más largas.
 Feature/&RoguishThiefSecondStoryTitle	Trabajo del segundo piso
-Feature/&SavingThrowAdvantageFormat	Ventaja en {0} tiros de salvación
+Feature/&SavingThrowAdvantageFormat	Ventaja en {0} tiradas de salvación
 Feature/&SavingThrowAutomaticallyFailedFormat	Falla automáticamente {0} las tiradas de salvación
-Feature/&SavingThrowBonusFormat	{0} en {1} tiros de salvación
-Feature/&SavingThrowBonusWithDiceFormat	{0} {1} en {2} tiros de salvación
-Feature/&SavingThrowDisadvantageFormat	Desventaja de {0} tiros de salvación
+Feature/&SavingThrowBonusFormat	{0} en {1} tiradas de salvación
+Feature/&SavingThrowBonusWithDiceFormat	{0} {1} en {2} tiradas de salvación
+Feature/&SavingThrowDisadvantageFormat	Desventaja de {0} tiradas de salvación
 Feature/&SavingThrowProficiencyDescription	{0}
-Feature/&SavingThrowProficiencyTitle	Pericias en tiros de salvación
+Feature/&SavingThrowProficiencyTitle	Competencias en tiradas de salvación
 Feature/&SavingThrowSpecialHalfDamageFormat	Cuando tienes que hacer una {0} tirada de salvación para recibir la mitad de daño de un efecto, en cambio, no recibes daño si tienes éxito en la tirada de salvación, y solo la mitad de daño si fallas.
 Feature/&SellswordFeatureDescription	Ventaja al hablar con guardias, soldados y oficiales.
 Feature/&SellswordFeatureTitle	Guerrero
@@ -482,12 +482,12 @@ Feature/&ToolProficiencySingleShortDescription	{0}
 Feature/&ToolProficiencyTitle	Herramientas: {0}
 Feature/&TraditionGreenmageGreenMagicDescription	Los hechizos de la lista de Magia Verde se consideran hechizos de mago para ti: {0}
 Feature/&TraditionGreenmageGreenMagicTitle	Magia verde
-Feature/&TraditionGreenmageWardenOfTheForestDescription	Competencia: armadura ligera\n\nCompetencia: arco corto\nEstilo de lucha: tiro con arco\n\nExplorador natural: se beneficia de las mismas ventajas que los Rangers cuando se encuentra en un entorno forestal.
+Feature/&TraditionGreenmageWardenOfTheForestDescription	Competencia: armadura ligera\n\nCompetencia: arco corto\nEstilo de lucha: tiro con arco\n\nExplorador nato: se beneficia de las mismas ventajas que los Rangers cuando se encuentra en un entorno forestal.
 Feature/&TraditionGreenmageWardenOfTheForestTitle	Guardián del bosque
 Feature/&TraditionLoremasterKeenMindDescription	Ventaja en las pruebas de habilidad de Arcanos, Historia e Investigación\nVentaja de copiar pergaminos a tu libro de hechizos\nLos costos y tiempos de elaboración de pergaminos y pociones se reducen a la mitad
 Feature/&TraditionLoremasterKeenMindTitle	Mente aguda
-Feature/&TraditionPotentCantripDescription	VACÍO
-Feature/&TraditionPotentCantripTitle	VACÍO
+Feature/&TraditionPotentCantripDescription	VCAÍO
+Feature/&TraditionPotentCantripTitle	VCAÍO
 Feature/&TraditionSavantDescription	Cuando seleccionas esta escuela en el nivel 2, el oro y el tiempo necesarios para copiar un hechizo de la escuela {0} en tu libro de hechizos se reducen a la mitad. Además, dedica la mitad del tiempo normal a elaborar pociones, pergaminos u otros elementos.
 Feature/&TraditionSavantTitle	{0} Savant
 Feature/&TraditionSavantVoyelDescription	A partir de la selección de esta escuela en el nivel 2, el oro y el tiempo que debes dedicar a copiar {0} hechizos en tu libro de hechizos se reducen a la mitad.
@@ -497,7 +497,7 @@ Feature/&UncannyDodgeDescription	Cuando un atacante que puedes ver te golpea con
 Feature/&UncannyDodgeTitle	Esquiva asombrosa
 Feature/&VisionBlindsightDescription	TBD
 Feature/&VisionBlindsightTitle	Ciega
-Feature/&VisionDarkvisionDescription	Vea normalmente con poca luz y en la oscuridad natural como si tuviera poca luz.
+Feature/&VisionDarkvisionDescription	Veo de forma normal en sitios con poca luz, y como si hubiera poca luz cuando hay oscuridad.
 Feature/&VisionDarkvisionTitle	Visión en la oscuridad
 Feature/&VisionDetectInvisibilityDescription	La criatura puede ver criaturas y objetos invisibles.
 Feature/&VisionDetectInvisibilityTitle	Ver invisibilidad
@@ -513,23 +513,23 @@ Feature/&WeaponTrainingDescription	Competente con {0}.
 Feature/&WeaponTrainingShortDescription	{0}
 Feature/&WizardArcaneTraditionsDescription	Te otorga especialización con cierto tipo de magia.
 Feature/&WizardArcaneTraditionsTitle	Tradiciones Arcanas
-Feature/&WizardSkillPointsTitle	Habilidades de mago
-Feature/&WizardSpellcastingTitle	Lanzamiento de hechizos de mago
+Feature/&WizardSkillPointsTitle	Competencia en Habilidades
+Feature/&WizardSpellcastingTitle	Lanzamiento de conjuros
 Feature/&WizardToolsDescription	Has sido entrenado para crear pergaminos mágicos y usar equipo de encantador.
 Feature/&WizardToolsTitle	Artesanía mágica
-Feature/&WizardWeaponProficiencyTitle	Competencias con armas de mago
+Feature/&WizardWeaponProficiencyTitle	Competencias en armas
 Feature/&CombatAffinityPackTacticsTitle	Tácticas de la manada
 Feature/&CombatAffinityPackTacticsDescription	Una criatura con Tácticas de manada tiene ventaja en una tirada de ataque contra una criatura si al menos un aliado está a 5 pies de la criatura y el aliado no está incapacitado.
-Feature/&AttributeModifierACPlus1Description	+1 a AC.
-Feature/&SavingThrowModifierRingOfProtectionPlusOneDescription	+1 a todos los tiros de salvación.
+Feature/&AttributeModifierACPlus1Description	+1 a CA.
+Feature/&SavingThrowModifierRingOfProtectionPlusOneDescription	+1 a todos los tiradas de salvación.
 Feature/&AdditionalDamagePoisonTitle	Envenenado
 Feature/&PowerFunctionApplyPoisonDescription	Aplica este veneno a un arma objetivo.
-Feature/&PowerFunctionApplyPoisonTitle	Solicitar
-Feature/&RegenerationLapseFormat	Regenera {0} puntos de vida cada {1}.
+Feature/&PowerFunctionApplyPoisonTitle	Aceptar
+Feature/&RegenerationLapseFormat	Regenera {0} puntos de golpe cada {1}.
 Feature/&RegenerationChildOfDarknessTitle	Regeneración
 Feature/&RegenerationChildOfDarknessDescription	Los soraks regeneran la vida cuando hay poca luz o en la oscuridad.
 Feature/&RegenerationDefilerTitle	Regeneración
-Feature/&RegenerationDefilerDescription	Los profanadores regeneran 10 HP por ronda cuando están en plena oscuridad.
+Feature/&RegenerationDefilerDescription	Los profanadores regeneran 10 PG por ronda cuando están en plena oscuridad.
 Feature/&Cutthroat_Finisher_Title	Acabador
 Feature/&Cutthroat_Predator_Title	Depredador
 Feature/&Cutthroat_Predator_Description	Los degolladores infligen 2 modos de daño cuando atacan a objetivos a distancia en terrenos más bajos.
@@ -559,36 +559,36 @@ Feature/&SavingThrowAffinityGemConjurationTitle	+2 a las tiradas de salvación c
 Feature/&SavingThrowAffinityGemEnchantmentTitle	+2 a las tiradas de salvación contra hechizos de encantamiento
 Feature/&SavingThrowAffinityGemDivinationTitle	+2 a las tiradas de salvación contra hechizos de adivinación
 Feature/&SavingThrowAffinityGemTransmutationTitle	+2 a las tiradas de salvación contra hechizos de Transmutación
-Feature/&SavingThrowAffinityCrownOfTheMagisterTitle	+1 a los tiros de salvación
+Feature/&SavingThrowAffinityCrownOfTheMagisterTitle	+1 a los tiradas de salvación
 Feature/&AbilityCheckAffinityCrownOfTheMagisterTitle	+2 a las pruebas de Intimidación y Persuasión
 Feature/&StoneOfGoodLuckAbilityCheckAffinity_Description	+1 a las pruebas de habilidad.
 Feature/&RingOfAllWordsDescription	Dominio de todos los idiomas.
-Feature/&AttributeModifierACPlus2Description	+2 a AC.
+Feature/&AttributeModifierACPlus2Description	+2 a CA.
 Feature/&PowerFunctionApplyOilOfSharpnessDescription	Aplica este aceite a un arma objetivo.
 Feature/&MantleOfSpellResistance_Function_Description	Ventaja en las tiradas de salvación contra hechizos
-Feature/&HalflingBraveDescription	Ventaja de los tiros de salvación contra el miedo
+Feature/&HalflingBraveDescription	Ventaja de los tiradas de salvación contra el miedo
 Feature/&PowerWinterWolfBreathTitle	Aliento frio
 Feature/&PowerWinterWolfBreathDescription	Un viento helado soplado por Winter Wolf que inflige daño por frío.
 Feature/&SavingThrowRestrictedSchoolFormat	{0} hechizos
 Feature/&Fire_Osprey_Blast_Title	Explosión
 Feature/&Fire_Osprey_Blast_Description	El águila pescadora de fuego emite una ráfaga de fuego que daña todas las células circundantes.
-Feature/&AttributeModifierACPlus3Description	+3 a AC
+Feature/&AttributeModifierACPlus3Description	+3 a CA
 Feature/&MagicAffinityBattleMagicTitle	Magia de batalla
 Feature/&MagicAffinityBattleMagicDescription	Puede lanzar hechizos con un componente somático sin una mano libre, siempre que se esté empuñando un arma o escudo.
 Feature/&Cutthroat_Finisher_Description	Una vez por turno, los Degolladores infligen 1D6 de daño adicional a los oponentes ya heridos.
 Feature/&AttackModifierAttackRollIncreasedDescription	Aumenta la tirada de ataque.
 Feature/&AttackModifierDamageRollIncreasedDescription	Aumenta la tirada de daño.
 Feature/&ConditionAutoCriticalFormat	Todos los ataques recibidos son golpes críticos.
-Feature/&SavingThrowByAbilityScoreBonus	[habilidad] en {0} tiros de salvación
+Feature/&SavingThrowByAbilityScoreBonus	[habilidad] en {0} tiradas de salvación
 Feature/&DomainBattleExtraAttackTitle	Erudito de la batalla
 Feature/&AdditionalDamageDomainLifeDivineStrikeDescription	+ 1D8 de daño radiante en ataques con armas, una vez por turno.
 Feature/&AdditionalDamageDomainLifeDivineStrikeTitle	Golpe divino
 Feature/&DomainElementalHeraldOfTheElementsFireShortTitle	Llamar al fuego
 Feature/&DomainElementalHeraldOfTheElementsFireTitle	Heraldo de los Elementos:\nLlamar al fuego
-Feature/&DomainElementalHeraldOfTheElementsColdDescription	El objetivo sufre daño por frío y debe tener éxito con una salvación de STR o quedar restringido hasta el final de su siguiente turno. Puede usarse un número de veces igual a su bonificación WIS hasta un descanso prolongado.
+Feature/&DomainElementalHeraldOfTheElementsColdDescription	El objetivo sufre daño por frío y debe tener éxito con una salvación de FUE o quedar restringido hasta el final de su siguiente turno. Puede usarse un número de veces igual a su bonificación SAB hasta un descanso prolongado.
 Feature/&DomainElementalHeraldOfTheElementsColdShortTitle	Llamar al frío
 Feature/&DomainElementalHeraldOfTheElementsColdTitle	Heraldo de los Elementos:\nLlamar al frío
-Feature/&DomainElementalHeraldOfTheElementsThunderDescription	La criatura en el área debe tener éxito con una salvación de CON o sufrir daño de rayo y quedar restringida hasta el final de su siguiente turno. Puede usarse un número de veces igual a su bonificación WIS hasta un descanso prolongado.
+Feature/&DomainElementalHeraldOfTheElementsThunderDescription	La criatura en el área debe tener éxito con una salvación de CON o sufrir daño de rayo y quedar restringida hasta el final de su siguiente turno. Puede usarse un número de veces igual a su bonificación SAB hasta un descanso prolongado.
 Feature/&DomainElementalHeraldOfTheElementsThunderShortTitle	Llamar al trueno
 Feature/&DomainElementalHeraldOfTheElementsThunderTitle	Heraldo de los Elementos:\nLlamar al trueno
 Feature/&DomainInsightDivineLoreDescription	Conoce todos los idiomas, escritos y hablados. Además, puede identificar un objeto mágico una vez por descanso prolongado.
@@ -598,7 +598,7 @@ Feature/&DomainInsightDivineLoreIdentifyTitle	Identificación divina
 Feature/&DomainInsightDomainSpellsTitle	Hechizos de dominio de conocimiento
 Feature/&DomainOblivionMarkOfFateDescription	Marca una criatura que veas para que reciba daño adicional de cada ataque.
 Feature/&DomainOblivionMarkOfFateTitle	Marca del destino
-Feature/&DomainLawAnathemaDescription	Restringe a una criatura e inflige daño por fuerza cada turno hasta que tenga éxito con una salvación de WIS o haya pasado 1 minuto.
+Feature/&DomainLawAnathemaDescription	Restringe a una criatura e inflige daño por fuerza cada turno hasta que tenga éxito con una salvación de SAB o haya pasado 1 minuto.
 Feature/&DomainLawAnathemaTitle	Anatema
 Feature/&PowerOathOfMotherlandVolcanicAuraDescription	Las criaturas amigas en el aura obtienen resistencia al fuego y +1 a la CA.
 Feature/&PowerOathOfMotherlandVolcanicAuraTitle	Aura volcánica
@@ -612,17 +612,17 @@ Feature/&HunterEscapeTheHordeDescription	Los ataques de oportunidad contra ti se
 Feature/&tHunterEscapeTheHordeTitle	Escapar de la horda
 Feature/&HunterMultiattackDefenseDescription	Cuando una criatura te golpea con un ataque, obtienes un bonificador +4 a la CA contra todos los ataques posteriores realizados por esa criatura durante el resto del turno.
 Feature/&HunterMultiattackDefenseTitle	Defensa multiataque
-Feature/&HunterSteelWillDescription	Ventaja de los tiros de salvación contra el miedo
+Feature/&HunterSteelWillDescription	Ventaja de los tiradas de salvación contra el miedo
 Feature/&HunterSteelWillTitle	Voluntad de acero
-Feature/&ShadowTamerRopeGrappleDescription	Apunta a una criatura e intenta tirar de ella si falla un concurso de STR.
+Feature/&ShadowTamerRopeGrappleDescription	Apunta a una criatura e intenta tirar de ella si falla un concurso de FUE.
 Feature/&ShadowTamerRopeGrappleTitle	Garfio de cuerda
 Feature/&ShadowTamerKnowDarknessDescription	Con poca luz o sin luz, tiene ventaja en el sigilo, las pruebas de investigación de percepción y gana el sentido del temblor.
 Feature/&ShadowTamerKnowDarknessTitle	Conoce la oscuridad
 Feature/&MarksmanRecyclerDescription	Puede crear flechas cada vez que tome un descanso breve o prolongado.
 Feature/&MarksmanRecyclerTitle	Reciclador
-Feature/&MarksmanStepbackDescription	Cuando estás dentro del alcance cuerpo a cuerpo de una criatura enemiga, puedes usar tu acción de bonificación para mover una celda sin provocar ataques de oportunidad y obtener ventaja en tu próximo ataque con un arma a distancia este turno.
+Feature/&MarksmanStepbackDescription	Cuando estás dentro del alcance cuerpo a cuerpo de una criatura enemiga, puedes usar tu acción de bonificación para mover una celda sin provocar ataques de oportunidad y obtener ventaja en tu siguiente ataque con un arma a distancia este turno.
 Feature/&MarksmanStepbackTitle	Paso atrás
-Feature/&MoutaineerCloseQuartersDescription	Como acción adicional, puedes forzar un cambio de posición con un enemigo dentro del rango de combate cuerpo a cuerpo realizando un desafío STR vs STR o DEX, al igual que para empujar. No está abierto a ataques de oportunidad al hacerlo. Si tiene éxito, tiene ventaja para atacar a esta criatura hasta el final de su turno.
+Feature/&MoutaineerCloseQuartersDescription	Como acción adicional, puedes forzar un cambio de posición con un enemigo dentro del rango de combate cuerpo a cuerpo realizando un desafío FUE vs FUE o DES, al igual que para empujar. No está abierto a ataques de oportunidad al hacerlo. Si tiene éxito, tiene ventaja para atacar a esta criatura hasta el final de su turno.
 Feature/&MoutaineerCloseQuartersTitle	Poca proximidad
 Feature/&ChampionRemarkableAthleteDescription	Agrega la mitad de tu bonificación de competencia (redondeando hacia arriba) a cualquier prueba de Fuerza, Destreza o Constitución que hagas que no utilice tu bonificación de competencia. Además, también aumentan su distancia de salto y sus habilidades para escalar.
 Feature/&ChampionRemarkableAthleteTitle	Atleta notable
@@ -633,14 +633,14 @@ Feature/&Smith_Description	Estás entrenado para fabricar munición básica con 
 Feature/&PowerVeil_Title	Velo oscuro
 Feature/&PowerVeil_Description	Un velo de oscuridad y desesperación cubre un área alrededor del Profanador. Todas las criaturas excepto los Profanadores y su prole tienen desventaja en los ataques.
 Feature/&Power_Grimblade_Soulscape_Title	Soulscape
-Feature/&DomainElementalHeraldOfTheElementsFireDescription	El objetivo sufre daño por fuego y debe superar una salvación de STR o ser empujado. Puede usarse un número de veces igual a su bonificación WIS hasta un descanso prolongado.
+Feature/&DomainElementalHeraldOfTheElementsFireDescription	El objetivo sufre daño por fuego y debe superar una salvación de FUE o ser empujado. Puede usarse un número de veces igual a su bonificación SAB hasta un descanso prolongado.
 Feature/&PowerBloodFealty_Title	Lealtad de sangre
 Feature/&PowerBloodFealty_Description	Un profanador puede drenar el poder vital de la prole que creó.
 Feature/&RogueEvasionDescription	Cuando estás sujeto a un área de efecto que te permite hacer una tirada de salvación de Destreza para recibir solo la mitad del daño, en cambio no recibes daño si tienes éxito en la tirada de salvación, y solo la mitad si fallas.
 Feature/&SorakImmunity_MindEffects_Title	Mente de las tinieblas
 Feature/&SorakImmunity_MindEffects_Description	Sorr-Akkath tiene una mente de pura oscuridad. Protegidos por los dones de su dios, son ajenos a los intentos de encantar y dominar.
 Feature/&ShockArcanistWarcastingTitle	Warcasting
-Feature/&ShockArcanistWarcastingDescription	Habiéndote obligado a enfrentarte a una reacción violenta arcana, te conviertes en un experto en los tiros de salvación de Constitución.
+Feature/&ShockArcanistWarcastingDescription	Habiéndote obligado a enfrentarte a una reacción violenta arcana, te conviertes en un experto en los tiradas de salvación de Constitución.
 Feature/&ShockArcanistArcaneShockTitle	Choque arcano
 Feature/&ShockArcanistArcaneShockDescription	Sobrecargas tu maná y te restringes hasta el final de tu turno. Sin embargo, cuando lanzas un hechizo de ataque, tus dados de daño siempre están por encima del promedio. A cambio, haces una tirada de salvación CON CD 14 y recibes 2d6 de daño psíquico si fallas.
 Feature/&GreenMageLeafScalesTitle	Escamas de hojas
@@ -648,19 +648,19 @@ Feature/&GreenMageLeafScalesDescription	Cuando un atacante que puedes ver te gol
 Feature/&LoreMasterArcaneLoreTitle	Saber arcano
 Feature/&LoreMasterArcaneLoreDescription	Puedes agregar tu bonificación de competencia a la cantidad de hechizos que puedes memorizar. También aprenderá dos trucos adicionales de la lista del Asistente.
 Feature/&SpellBladeSpellTyrantTitle	Tirano de hechizos
-Feature/&SpellBladeSpellTyrantDescription	Selecciona una criatura y muévela una celda en cualquier dirección si falla una salvación de STR.
+Feature/&SpellBladeSpellTyrantDescription	Selecciona una criatura y muévela una celda en cualquier dirección si falla una salvación de FUE.
 Feature/&ChampionAdditionalFightingStyleTitle	Estilo de lucha adicional
 Feature/&ChampionAdditionalFightingStyleDescription	Elige una nueva opción de estilo de lucha.
 Feature/&MountaineerShieldChargeTitle	Empuje de escudo
 Feature/&MountaineerShieldChargeDescription	Siempre que manejes un escudo, puedes empujar a un oponente como acción adicional.
 Feature/&IndomitableResistanceTitle	Indomable
 Feature/&IndomitableResistanceDescription	Puedes volver a tirar una tirada de salvación en la que falles. Si lo hace, debe utilizar el nuevo rollo y no podrá volver a utilizar esta función hasta que termine un descanso prolongado.
-Feature/&PowerRangerHideInPlainSightTitle	Esconderse a plena vista
-Feature/&PowerRangerHideInPlainSightDescription	Puedes dedicar 1 minuto a crear tu propio camuflaje. Una vez camuflado, obtienes +10 DEX (Sigilo) mientras estás de pie contra una pared. Tienes que reiniciar el camuflaje cada vez que descansas o te mudas a otra ubicación.
+Feature/&PowerRangerHideInPlainSightTitle	Ocultarsese a plena vista
+Feature/&PowerRangerHideInPlainSightDescription	Puedes dedicar 1 minuto a crear tu propio camuflaje. Una vez camuflado, obtienes +10 DES (Sigilo) mientras estás de pie contra una pared. Tienes que reiniciar el camuflaje cada vez que descansas o te mudas a otra ubicación.
 Feature/&PowerClericDivineInterventionTitle	Intervención divina
 Feature/&PowerClericDivineInterventionDescription	Intentas solicitar la ayuda de tu deidad, con una probabilidad de éxito del 1% por nivel de clérigo.
 Feature/&ThiefSupremeSneakTitle	Furtivo supremo
-Feature/&ThiefSupremeSneakDescription	Tienes ventaja en las pruebas de habilidad DEX (Sigilo).
+Feature/&ThiefSupremeSneakDescription	Tienes ventaja en las pruebas de habilidad DES (Sigilo).
 Feature/&ClericTurnUndeadAdvancedTitle	Turn Undead (Destruir)
 Feature/&ClericTurnUndeadAdvancedDescription	Canaliza la Divinidad para forzar a las criaturas no muertas dentro de 6 casillas que puedan verte huir, a menos que hagan una tirada de salvación de Sabiduría con éxito.\nLas criaturas no muertas con un índice de desafío de {0} o menos que fallan en la tirada de salvación son destruidas.
 Feature/&ShadowRetributionTitle	Retribución de las Sombras
@@ -688,10 +688,11 @@ Feature/&LaetharParalyzingGaze_Description	La mirada del emperador paraliza a lo
 Feature/&LaetharShadowEscape_Title	Movimiento fantasmal
 Feature/&LaetharShadowEscape_Description	Laethar es capaz de convertirse en niebla y teletransportarse casi a voluntad.
 Feature/&SpiderQueenEatFriends_Title	Canibalismo
-Feature/&SpiderQueenEatFriends_Description	La reina araña se come a una de sus crías para recuperar HP.
+Feature/&SpiderQueenEatFriends_Description	La reina araña se come a una de sus crías para recuperar PG.
 Feature/&SpiderQueenPoisonCloud_Title	Nube de veneno
 Feature/&SpiderQueenPoisonCloud_Description	La reina araña lanza una andanada de pequeñas púas envenenadas por todo su cuerpo.
 Feature/&Power_Phase_Spider_Teleport_Title	Paseo etéreo
 Feature/&Power_Phase_Spider_Teleport_Description	Las arañas de fase pueden cambiar de avión a voluntad.
 Feature/&CriticalHitImmunityTitle	Inmunidad a golpes críticos
 Feature/&CriticalHitImmunityDescription	Los golpes críticos se consideran golpes normales para la criatura.
+Feature/&SavingThrowAffinityArmorOfSurvival	
