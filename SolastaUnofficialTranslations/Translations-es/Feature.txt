@@ -465,14 +465,14 @@ Feature/&SorakTranceOfSorrtarr_Condition_Title	Trance de Sorr-Tarr
 Feature/&SorakTranceOfSorrtarr_Description	Usa el trance de Sorr-Tarr.
 Feature/&SorakTranceOfSorrtarr_Title	Trance de Sorr-Tarr
 Feature/&SpellPowerDescription	Puede lanzar el {0} hechizo {1}
-Feature/&SpyFeatureDescription	Has visto suficiente espionaje como para reconocer a un compañero espía cuando lo ves.\nPuedes comunicarte en secreto con otros espías.
-Feature/&SpyFeatureTitle	Tradecraft
-Feature/&SpyLanguageDescription	Aprendió una serie de códigos utilizados por las organizaciones de inteligencia en los Reinos del Este y pudo descifrar la mayoría de ellos.
+Feature/&SpyFeatureDescription	Conoces el mundo del espionaje como la palma de tu mano, así que puedes reconocer a otro espía en cuanto lo ves. Además, puedes comunicarte en secreto con ellos.
+Feature/&SpyFeatureTitle	Lengua secreta
+Feature/&SpyLanguageDescription	Aprendiste una serie de códigos que utilizaban las organizaciones de inteligencia de los Reinos del Este y conseguiste entender y descifrar la mayoría de ellos.
 Feature/&SpyLanguageTitle	Cifrado espía
 Feature/&SpySkillsDescription	Competente en Sigilo y Engaño.
-Feature/&SpySkillsTitle	Spycraft
-Feature/&SpySkillsToolsDescription	Competente con la naturaleza y el equipo del envenenador.
-Feature/&SpySkillsToolsTitle	Diplomacia áspera
+Feature/&SpySkillsTitle	Oficio del espionaje
+Feature/&SpySkillsToolsDescription	Competente en Naturaleza y útiles de envenenador.
+Feature/&SpySkillsToolsTitle	Diplomacia salvaje
 Feature/&SylvanMoveSpeedDescription	Su velocidad base para caminar es de 7 celdas.
 Feature/&SylvanMoveSpeedTitle	Sylvan Swiftness
 Feature/&ToolProficiencyPluralDescription	Competente con estas herramientas: {0}
