@@ -1,4 +1,4 @@
-Condition/&ChildOfDarkness_Title	Niño de la Oscuridad
+Condition/&ChildOfDarkness_Title	Hijo de la Oscuridad
 Condition/&ChildOfDarkness_Description	Este Sorak es más poderoso y se regenera en la oscuridad.
 Condition/&ChildOfDarkness_ACGain_Title	Los Soraks obtienen CA adicional cuando hay poca luz o en la oscuridad.
 Condition/&ChildOfDarkness_AdditionalDamage2_Title	Esta criatura gana +2 de daño cuando hay poca luz.
