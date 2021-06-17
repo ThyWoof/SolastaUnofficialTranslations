@@ -1,26 +1,27 @@
-DialogFlags/&Authority_Description	Tendencia a hacer cumplir las reglas y creencias con autoridad y liderazgo.
-DialogFlags/&Authority_Title	Autoridad
+DialogFlags/&Authority_Description	Tendencia a hacer cumplir las reglas, con fuertes creencias en la autoridad y el liderazgo.
+DialogFlags/&Authority_Title	Autoritario
 DialogFlags/&Cynicism_Description	Tendencia a burlarse de principios y valores.
-DialogFlags/&Cynicism_Title	Cinismo
-DialogFlags/&Formal_Description	Este personaje utiliza oraciones completas, con vocabulario técnico o académico.
+DialogFlags/&Cynicism_Title	Cínico
+DialogFlags/&Formal_Description	Este personaje utiliza un lenguaje con vocabulario técnico o académico.
 DialogFlags/&Formal_Title	Formal
-DialogFlags/&Friendliness_Description	Tendencia a preocuparse por los demás, prefiriendo hacer amigos en lugar de enemigos.
-DialogFlags/&Friendliness_Title	Amabilidad
+DialogFlags/&Friendliness_Description	Tendencia a preocuparse por los demás y el buen trato, prefiriendo hacer amigos en lugar de enemigos.
+DialogFlags/&Friendliness_Title	Amable
 DialogFlags/&Greed_Description	Tendencia a valorar la riqueza y la comodidad por encima de todo.
-DialogFlags/&Greed_Title	Codicia
-DialogFlags/&Helpfulness_Description	Tendencia a intentar siempre ayudar a los necesitados.
-DialogFlags/&Helpfulness_Title	Altruismo
-DialogFlags/&Lawfulness_Description	Tendencia a seguir reglas, leyes y orden en lugar del caos.
-DialogFlags/&Lawfulness_Title	Legalidad
+DialogFlags/&Greed_Title	Codicioso
+DialogFlags/&Helpfulness_Description	Tendencia a preocuparse y ayudar a los demás de forma desinteresada.
+DialogFlags/&Helpfulness_Title	Altruista
+DialogFlags/&Lawfulness_Description	Tendencia a seguir las reglas, leyes y el orden establecidos.
+DialogFlags/&Lawfulness_Title	Legal
 DialogFlags/&Normal_Description	Este personaje habla como la mayoría de la gente, ni demasiado formal ni demasiado coloquial.
-DialogFlags/&Normal_Title	Casual
-DialogFlags/&Pragmatism_Description	Tendencia a valorar la practicidad sobre los principios.
-DialogFlags/&Pragmatism_Title	Pragmatismo
+DialogFlags/&Normal_Title	Común
+DialogFlags/&Pragmatism_Description	Tendencia a valorar el uso práctico o la utilidad de algo.
+DialogFlags/&Pragmatism_Title	Pragmático
 DialogFlags/&Selfishness_Description	Tendencia a ponerse uno mismo, sus amigos y su familia en primer lugar, a expensas de los demás.
-DialogFlags/&Selfishness_Title	Egoísmo
-DialogFlags/&SelfPreservation_Description	Tendencia a cuidar la propia seguridad por encima de todo.
-DialogFlags/&SelfPreservation_Title	Precaución
-DialogFlags/&Slang_Description	Este personaje usa mucho la jerga, incluido el lenguaje vulgar y vulgar en ocasiones.
-DialogFlags/&Slang_Title	Jerga
+DialogFlags/&Selfishness_Title	Egoísta
+DialogFlags/&SelfPreservation_Description	Tendencia a cuidar la propia seguridad por encima de todo sin asumir demasiados riesgos.
+DialogFlags/&SelfPreservation_Title	Precavido
+DialogFlags/&Slang_Description	Este personaje usa mucho el lenguaje vulgar y tosco.
+DialogFlags/&Slang_Title	Malhablado
 DialogFlags/&Violence_Description	Tendencia a resolver problemas con violencia, incluso cuando existen otras opciones.
-DialogFlags/&Violence_Title	Violencia
+DialogFlags/&Violence_Title	Violento
+
