@@ -4,11 +4,11 @@ MainMenu/&ChangeCharacterSlotDescription	Haga clic para seleccionar un personaje
 MainMenu/&ChangeCharacterSlotTitle	Cambiar
 MainMenu/&ContinueTitle	Continuar
 MainMenu/&DeleteCharacterDescription	Haga clic para eliminar este personaje del grupo.
-MainMenu/&EmptySlotTitle	Vacío
+MainMenu/&EmpyTitle	Vacío
 MainMenu/&ExportPdfDescription	Exporta personaje seleccionado a un archivo pdf para imprimir.
 MainMenu/&ExportPdfTitle	Exportar PDF
 MainMenu/&InspectCharacterDescription	Abre el inventario y la hoja del personaje seleccionado.
-MainMenu/&InspectCharacterTitle	Inspeccionar
+MainMenu/&InspectCharacterTitle	Ver
 MainMenu/&LevelUpCharacterDescription	Sube de nivel al personaje. Algunas campañas requieren o prohíben personajes de niveles superiores a 1.
 MainMenu/&LevelUpCharacterTitle	Subir de nivel
 MainMenu/&LicenseDescription	Muestra la información de la licencia de este juego.
