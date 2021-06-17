@@ -29,15 +29,15 @@ Tooltip/&CoverHeaderTitle	Cubrir
 Tooltip/&CraftingDifficultyTitle	Elaboración de DC
 Tooltip/&CraftingDurationTitle	Duración
 Tooltip/&CurrentlyEquipedTitle	Actualmente equipado
-Tooltip/&DeviceChargesMaxPlural	{0} cargos
-Tooltip/&DeviceChargesMaxSingle	{0} cargo
+Tooltip/&DeviceChargesMaxPlural	{0} cargas
+Tooltip/&DeviceChargesMaxSingle	{0} carga
 Tooltip/&DeviceFunctionRemainingCooldown	enfriamiento {0}
 Tooltip/&DeviceFunctionsTitle	Elemento Función (es)
 Tooltip/&DeviceFunctionsUnknown	Desconocido
 Tooltip/&DeviceRechargeTitle	Recargar
 Tooltip/&DeviceUsageTitle	Uso
 Tooltip/&DurationTitle	Duración
-Tooltip/&EffectDurationTitle	Duración
+Tooltip/&EffectDurationTitle	Duración del efecto
 Tooltip/&FeatPrerequisiteAbilityScoreFormat	Mín. {0} {1}
 Tooltip/&FeatPrerequisiteCastSpellTitle	Habilidad para lanzar hechizos
 Tooltip/&FeatPrerequisiteClassesFormat	Clases compatibles:\n{0}
@@ -46,7 +46,7 @@ Tooltip/&FeatPrerequisiteRacesFormat	Ascendencia compatible: {0}
 Tooltip/&FeatPrerequisitesTitle	Prerrequisitos
 Tooltip/&FeatRedundantDescription	Ya posees algunos o todos los beneficios de esta dote, por lo que es una opción menos útil.
 Tooltip/&FeatTitle	Con
-Tooltip/&HoldForMoreInfoTitle	Mantenga pulsado <Alt> para obtener más información
+Tooltip/&HoldForMoreInfoTitle	Mantenga <Alt> para mas información
 Tooltip/&IngredientsHeaderTitle	Ingredientes requeridos
 Tooltip/&LightingBrightFormat	En luz brillante
 Tooltip/&LightingDarknessFormat	En la oscuridad
@@ -54,8 +54,8 @@ Tooltip/&LightingDimFormat	En luz tenue
 Tooltip/&LightingTargetBrightFormat	{0} está en luz brillante
 Tooltip/&LightingTargetDarknessFormat	{0} está en la oscuridad
 Tooltip/&LightingTargetDimFormat	{0} está en luz tenue
-Tooltip/&LightingTargetUnlitFormat	{0} está apagado.
-Tooltip/&LightingUnlitFormat	Apagado
+Tooltip/&LightingTargetUnlitFormat	{0} no está iluminado.
+Tooltip/&LightingUnlitFormat	No iluminado
 Tooltip/&LightSourceEffectsTitle	Efectos de iluminación
 Tooltip/&NotProficientFormat	{0} no es competente con este artículo y no puede equiparlo.
 Tooltip/&PowerActivationTimeTitle	Activación
@@ -93,12 +93,12 @@ Tooltip/&TagAttunementTitle	Sintonía
 Tooltip/&TagBreakConcentrationTitle	Romper la concentración
 Tooltip/&TagBuffTitle	Fuerte
 Tooltip/&TagCarryingCapacityTitle	Capacidad de carga
-Tooltip/&TagChannelDivinityTitle	Canalizar la divinidad
+Tooltip/&TagChannelDivinityTitle	Canalizar Divinidad
 Tooltip/&TagComponentTitle	Componente
 Tooltip/&TagConcentrationTitle	Concentración
 Tooltip/&TagConsumableTitle	Consumible
 Tooltip/&TagControlTitle	Control
-Tooltip/&TagCounterTitle	Encimera
+Tooltip/&TagCounterTitle	Contador
 Tooltip/&TagCurseTitle	Maldición
 Tooltip/&TagDamageAcidTitle	Daño por ácido
 Tooltip/&TagDamageBludgeoningTitle	Daño contundente
@@ -112,7 +112,7 @@ Tooltip/&TagDamagePoisonTitle	Daño por veneno
 Tooltip/&TagDamagePsychicTitle	Daño psíquico
 Tooltip/&TagDamageRadiantTitle	Daño radiante
 Tooltip/&TagDamageSlashingTitle	Daño cortante
-Tooltip/&TagDamageThunderTitle	Daño del trueno
+Tooltip/&TagDamageThunderTitle	Daño de trueno
 Tooltip/&TagDamageTitle	Daño
 Tooltip/&TagDisperseCloudTitle	Nube dispersa
 Tooltip/&TagDissipateSpellsTitle	Hechizos finales
@@ -130,7 +130,7 @@ Tooltip/&TagGoldTitle	Oro
 Tooltip/&TagHealingTitle	Curación
 Tooltip/&TagHeavyTitle	Pesado
 Tooltip/&TagIngredientTitle	Ingrediente
-Tooltip/&TagItemPropertyTitle	Mejora del artículo
+Tooltip/&TagItemPropertyTitle	Propiedades del objeto
 Tooltip/&TagLeatherTitle	Cuero
 Tooltip/&TagLightSourceTitle	Fuente de luz
 Tooltip/&TagLightTitle	Ligera
@@ -144,7 +144,7 @@ Tooltip/&TagPaperTitle	Papel
 Tooltip/&TagPotionTitle	Poción
 Tooltip/&TagPowerTitle	Energía
 Tooltip/&TagProtectionTitle	Proteccion
-Tooltip/&TagQuestTitle	Búsqueda
+Tooltip/&TagQuestTitle	Misión
 Tooltip/&TagRangeTitle	Distancia
 Tooltip/&TagReachTitle	Alcanzar
 Tooltip/&TagReactionTitle	Reacción
@@ -153,7 +153,7 @@ Tooltip/&TagRevealTrapsTitle	Detección de trampas
 Tooltip/&TagReviveTitle	Reanimar
 Tooltip/&TagRitualTitle	Ritual
 Tooltip/&TagScrollTitle	Desplazarse
-Tooltip/&TagShapechangerTitle	Cambiador de figura
+Tooltip/&TagShapechangerTitle	Cambiador de forma
 Tooltip/&TagSightBlockerTitle	Bloqueador de la vista
 Tooltip/&TagSilverTitle	Plata
 Tooltip/&TagSpellFocusTitle	Canalizador de hechizo
@@ -169,7 +169,7 @@ Tooltip/&TagTemporaryHitPointsTitle	Puntos de golpe temporales
 Tooltip/&TagThrownTitle	Arrojado
 Tooltip/&TagTorchTitle	Antorcha
 Tooltip/&TagTwoHandedTitle	Dos manos
-Tooltip/&TagUnlockTitle	desbloquear
+Tooltip/&TagUnlockTitle	Desbloquear
 Tooltip/&TagVersatileTitle	Versátil
 Tooltip/&TagVerticalityTitle	Verticalidad
 Tooltip/&TagWarListTitle	Lista de guerra
@@ -181,11 +181,11 @@ Tooltip/&ValueTitle	Valor
 Tooltip/&WeaponEffectsTitle	Efectos del arma
 Tooltip/&WeightCapacityMultiplierTitle	Multiplicador de capacidad de carga
 Tooltip/&WeightTitle	Peso
-Tooltip/&TrendConditionIsFormat	{0} es {1}
+Tooltip/&TrendConditionIsFormat	{0} está {1}
 Tooltip/&TrendConditionHasFormat	{0} tiene {1}
 Tooltip/&TagDiseasedTitle	Enfermo
 Tooltip/&TagPoisonedTitle	Envenenado
-Tooltip/&ItemPropertiesTitle	Propiedades del artículo
+Tooltip/&ItemPropertiesTitle	Propiedades del objeto
 Tooltip/&TagDebuffTitle	Debuff
 Tooltip/&WeaponNotLightWarningDescription	Esta arma no es Ligera, lo que evita que el personaje use un ataque adicional con el arma de la mano izquierda.
 Tooltip/&AmmunitionSelectorPrimaryDescription	Tu arma a distancia equipada usará primero la munición de esta ranura.
@@ -205,7 +205,7 @@ Tooltip/&ItemRarityUncommonTitle	Poco común
 Tooltip/&ItemRarityRareTitle	Raro
 Tooltip/&ItemRarityVeryRareTitle	Muy raro
 Tooltip/&ItemRarityLegendaryTitle	Legendario
-Tooltip/&OutOfDarkvisionRangeFormat	(Fuera del rango de Darkvision)
+Tooltip/&OutOfDarkvisionRangeFormat	(Fuera del rango de visión en la oscuridad)
 Tooltip/&TagPerishableTitle	Perecedero
 Tooltip/&TagAbilityScoreIncreaseTitle	Aumento de capacidad
 Tooltip/&TrendMonsterAttackFormat	{0} ataque
