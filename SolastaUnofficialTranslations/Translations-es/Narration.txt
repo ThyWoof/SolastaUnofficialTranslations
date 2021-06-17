@@ -149,17 +149,17 @@ Narration/&Banter_Cyflen_02	Este lugar es magnífico.
 Narration/&Banter_Cyflen_03	Nunca pensé que me acercaría tanto a las embajadas.
 Narration/&Banter_Cyflen_04	¡Esa es una vista!
 Narration/&LoreTrailer01	Antes del Cataclismo, no había dioses en Solasta.
-Narration/&LoreTrailer02	Tampoco humanos.
+Narration/&LoreTrailer02	Tampoco había humanos.
 Narration/&LoreTrailer03	Entonces se abrió la Grieta.
-Narration/&LoreTrailer04	Algunos dicen que fue un accidente mágico ...
-Narration/&LoreTrailer05	… O la obra de un dios maligno.
-Narration/&LoreTrailer06	Nadie sabe con seguridad.
+Narration/&LoreTrailer04	Algunos dicen que fue un accidente mágico
+Narration/&LoreTrailer05	o la obra de un dios maligno.
+Narration/&LoreTrailer06	Nadie lo sabe con seguridad.
 Narration/&LoreTrailer07	El Cataclismo destruyó el antiguo imperio de los Altos Elfos.
 Narration/&LoreTrailer08	- Manacalon, lo llamaron -
-Narration/&LoreTrailer09	y torció la tierra más allá del reconocimiento.
-Narration/&LoreTrailer10	Ahora, solo los valientes y los tontos van allí, en busca de tesoros antiguos.
-Narration/&LoreTrailer11	Pero algo está sucediendo, en lo profundo de esas Badlands.
-Narration/&LoreTrailer12	Lo que sea que es,
+Narration/&LoreTrailer09	y retorció la tierra hasta ser irreconocible
+Narration/&LoreTrailer10	Ahora, solo los valientes y los tontos van allí en busca de antiguos tesoros.
+Narration/&LoreTrailer11	Pero algo está sucediendo en lo profundo de Las Tierras Inhóspitas.
+Narration/&LoreTrailer12	Sea lo que sea..
 Narration/&LoreTrailer13	no puede ser bueno.
 Narration/&TelemaArrivingTitle	Entrando en Telema
 Narration/&Telema_1_Entrance_Fighter	Entonces, ¿estas son las ruinas de Telema?
@@ -481,67 +481,67 @@ Narration/&Telema_304_Exit_Temple_Fighter	¿Qué?
 Narration/&Telema_305_Exit_Temple_Rogue	Entonces, ¿quién eres tú, amigo?
 Narration/&Telema_306_Exit_Temple_Hector	Dejen sus armas.
 Narration/&Telema_307_Exit_Temple_Fighter	Por que hariamos eso?
-Narration/&Tavern_01_1_Stealth_Normal	Esta cerveza sabe a orina de burro. No es que me queje.
-Narration/&Tavern_01_2_Explorer_Default	Espero no llegar demasiado tarde.
+Narration/&Tavern_01_1_Stealth_Normal	Esta cerveza sabe a orina de burro. Aunque no es que me queje
+Narration/&Tavern_01_2_Explorer_Default	Espero no llegar demasiado tarde
 Narration/&Tavern_01_3_Explorer_Normal	Me encontré con algunos problemas en el camino hacia aquí.
-Narration/&Tavern_01_4_Spellcaster_Normal	Quítate la carga. Hay mucha orina de burro para todos.
-Narration/&Tavern_01_5_Spellcaster_Formal	Sentarse. Relajarse. ¿Quizás disfrutarías de una pinta de esta desagradable cerveza?
-Narration/&Tavern_01_6_Fighter_Default	¿Estás aquí por el trabajo del Consejo? Únete al club.
-Narration/&Tavern_01_7_Fighter_Authoritative	Si está aquí por el trabajo del Consejo, haga fila.
+Narration/&Tavern_01_4_Spellcaster_Normal	No te preocupes, hay “orina de burro” para todos
+Narration/&Tavern_01_5_Spellcaster_Formal	Siéntate y relájate. Igual puede venirte bien un trago de esta desagradable cerveza.
+Narration/&Tavern_01_6_Fighter_Default	¿Estás aquí por el trabajo del Consejo? Únete al club
+Narration/&Tavern_01_7_Fighter_Authoritative	Si has venido por el trabajo del Consejo, ponte a la cola
 Narration/&Tavern_01_8_Fighter_Friendly	No es demasiado tarde, amigo. Todos estamos aquí por la misma razón.
-Narration/&Tavern_01_9_Fighter_Default	Aparentemente, a Lord Carran le gusta hacer esperar a la gente.
-Narration/&Tavern_01_10_Fighter_Authoritative	Aunque si este Lord Carran no aparece pronto, puedo ir a buscarlo.
-Narration/&Tavern_01_11_Fighter_Friendly	Toma asiento.
-Narration/&Tavern_01_12_Stealth_Default	Otra ronda, barman. ¡Cuatro de tus mejores jarras de orina de burro, por favor!
+Narration/&Tavern_01_9_Fighter_Default	Parede que a Lord Carran le gusta hacer esperar a la gente
+Narration/&Tavern_01_10_Fighter_Authoritative	Aunque si ese tal Lord Carran no aparece pronto, puedo ir a buscarlo
+Narration/&Tavern_01_11_Fighter_Friendly	Toma asiento
+Narration/&Tavern_01_12_Stealth_Default	Otra ronda camarero. ¡Cuatro de tus mejores jarras de orina de burro, por favor!
 Narration/&Tavern_01_13_Explorer_Default	Parece que has estado esperando aquí un tiempo.
-Narration/&Tavern_01_13_Explorer_Formal	Veo que todos están aprovechando esto al máximo.
+Narration/&Tavern_01_13_Explorer_Formal	Veo que no perdéis el tiempo.
 Narration/&Tavern_01_13_Explorer_Slang	Entonces, ¿este es el trabajo? ¿Poniéndote cara de mierda?
-Narration/&Tavern_01_14_Spellcaster_Normal	Hacemos lo que tenemos que hacer. Entonces, ¿cuál es este problema del que nos hablaste?
-Narration/&Tavern_01_15_Spellcaster_Formal	En efecto. Mencionaste algo sobre algún problema. ¿Le importaría dar más detalles?
-Narration/&Tavern_01_16_Explorer_Normal	Bueno, me dirigía hacia aquí ...
-Narration/&Tavern_01_17_Explorer_Normal	... cuando tres bandidos saltaron de entre los arbustos con ballestas.
-Narration/&Tavern_01_18_Explorer_Normal	Me arrastraron a una prisión decrépita ...
-Narration/&Tavern_01_19_Explorer_Normal	... y me arrojó en una celda sucia que olía a orina de rata.
-Narration/&Tavern_01_20_Explorer_Slang	Bueno, me dirigía por un camino solitario ...
-Narration/&Tavern_01_21_Explorer_Slang	... cuando tres imbéciles saltaron de los arbustos, me arrastraron ...
-Narration/&Tavern_01_22_Explorer_Slang	... y arrojé mi trasero en esta cárcel destartalada.
-Narration/&Tavern_01_23_Explorer_Slang	Olía como si un pobre bastardo hubiera muerto allí.
-Narration/&Tavern_01_24_Explorer_Formal	Me dirigía por la autopista, ocupándome de mis propios asuntos ...
-Narration/&Tavern_01_25_Explorer_Formal	... cuando tres bandidos salieron de entre los arbustos y me asaltaron.
-Narration/&Tavern_01_26_Explorer_Formal	Me llevaron a una prisión destartalada.
-Narration/&Tavern_01_27_Explorer_Formal	Una ruina imperial de algún tipo ...
-Narration/&Tavern_01_28_Explorer_Formal	Afortunadamente, las paredes eran tan débiles como esta cerveza mediocre que estamos bebiendo.
-Narration/&Tavern_01_29_Explorer_Normal	... No sé qué estaba deteniendo el lugar ...
-Narration/&Tavern_01_29_Explorer_Slang	... un viento fuerte podría haberlo derribado.
-Narration/&Tavern_02_1_Fighter_Normal	Buen movimiento, ese truco con la pared. Me alegro de que no esté peor para el desgaste.
-Narration/&Tavern_02_2_Fighter_Formal	Así que escapaste ileso. ¡Bien hecho mi amigo!
-Narration/&Tavern_02_3_Explorer_Normal	Mi jarra está vacía de cerveza y Lord Carran todavía no está aquí.
-Narration/&Tavern_02_4_Explorer_Cynical	Quizás alguien más pueda contar una historia, ya que parece que podríamos estar aquí un tiempo.
-Narration/&Tavern_02_5_Explorer_Lawful	Este Consejo necesita organizarse. No tienen derecho a hacernos esperar así.
-Narration/&Tavern_02_6_Spellcaster_Normal	Toma otra cerveza. No es como si tuvieras un lugar mejor para estar.
+Narration/&Tavern_01_14_Spellcaster_Normal	Hacemos lo que tenemos que hacer... dinos ¿cuál es ese problema del que nos hablaste?
+Narration/&Tavern_01_15_Spellcaster_Formal	Así es. Mencionaste algo sobre algún problema. ¿Te importaría dar más detalles?
+Narration/&Tavern_01_16_Explorer_Normal	Bueno, me dirigía hacia aquí
+Narration/&Tavern_01_17_Explorer_Normal	cuando tres bandidos saltaron de entre los arbustos con ballestas.
+Narration/&Tavern_01_18_Explorer_Normal	Me arrastraron a una prisión decrépita
+Narration/&Tavern_01_19_Explorer_Normal	y me arrojaron a una celda sucia que olía a orina de rata.
+Narration/&Tavern_01_20_Explorer_Slang	Bueno, me dirigía por un camino solitario
+Narration/&Tavern_01_21_Explorer_Slang	cuando tres imbéciles saltaron de los arbustos, me arrastraron
+Narration/&Tavern_01_22_Explorer_Slang	y terminé con mi culo en una cárcel destartalada.
+Narration/&Tavern_01_23_Explorer_Slang	Olía como si un pobre bastardo hubiera muerto allí
+Narration/&Tavern_01_24_Explorer_Formal	Iba tranquilamente de camino hacia aquí, pensando en mis cosas
+Narration/&Tavern_01_25_Explorer_Formal	cuando tres bandidos salieron de entre los arbustos y me asaltaron
+Narration/&Tavern_01_26_Explorer_Formal	Me llevaron a una prisión destartalada
+Narration/&Tavern_01_27_Explorer_Formal	Una ruina imperial de algún tipo.
+Narration/&Tavern_01_28_Explorer_Formal	Por suerte, sus paredes eran tan débiles como esta cerveza que estamos tomando
+Narration/&Tavern_01_29_Explorer_Normal	No sé cómo aquel lugar se mantenía en pie
+Narration/&Tavern_01_29_Explorer_Slang	incluso un viento fuerte lo podría haber derrumbado.
+Narration/&Tavern_02_1_Fighter_Normal	Bien pensado ese truco de la pared. Me alegro de que hayas salido ileso.
+Narration/&Tavern_02_2_Fighter_Formal	Así que escapaste ileso. ¡Bien hecho mi amigo!.
+Narration/&Tavern_02_3_Explorer_Normal	Mi jarra está vacía de cerveza y Lord Carran todavía no se ha presentado.
+Narration/&Tavern_02_4_Explorer_Cynical	Quizás alguien más pueda contar una historia, parece que podríamos estar aquí un tiempo.
+Narration/&Tavern_02_5_Explorer_Lawful	Este Consejo necesita organización. No tienen derecho a hacernos esperar así.
+Narration/&Tavern_02_6_Spellcaster_Normal	Toma otra cerveza. Dudo que tengas otro lugar mejor al que ir.
 Narration/&Tavern_02_7_Spellcaster_Greedy	No me importa esperar mientras nos paguen por nuestro maldito tiempo.
-Narration/&Tavern_02_8_Spellcaster_Aristocrat	Es probable que el Consejo esté ocupado con importantes asuntos de estado, y nosotros no, así que tenga paciencia.
-Narration/&Tavern_02_9_Spellcaster_Lowlife	¿Crees que el Consejo se preocupa por personas como nosotros? Llegarán a nosotros cuando estén bien y listos.
-Narration/&Tavern_02_10_Fighter_Normal	Bueno, déjame contarte mi historia entonces. Yo también fui abordado en el camino hacia aquí, pero me enfrenté a mis enemigos de frente.
-Narration/&Tavern_02_11_Fighter_Violent	Yo también tengo una historia que contar. Yo también fui atacado, pero acabé con mis enemigos con sangre y dolor.
-Narration/&Tavern_02_12_Stealth_Slang	¿Entonces, Qué esperas? Escúpelo, ¿por qué no lo haces?
+Narration/&Tavern_02_8_Spellcaster_Aristocrat	Es probable que el Consejo esté ocupado con importantes asuntos de estado, nosotros no, así que ten paciencia.
+Narration/&Tavern_02_9_Spellcaster_Lowlife	¿Crees que el Consejo se preocupa por personas como nosotros? Nos avisarán cuando les apetezca hacerlo.
+Narration/&Tavern_02_10_Fighter_Normal	Bueno, déjame contarte mi historia entonces. Yo también fui abordado de camino hacia aquí, pero me enfrenté a mis enemigos con valor
+Narration/&Tavern_02_11_Fighter_Violent	Yo también tengo una historia que contar. También fui atacado, pero acabé con mis enemigos con sangre y dolor.
+Narration/&Tavern_02_12_Stealth_Slang	¿Y a que esperas? Escúpelo, estamos esperando.
 Narration/&Tavern_02_13_Stealth_Normal	Escuchémoslo entonces. No seas tímido.
-Narration/&Tavern_02_14_Stealth_Formal	Entonces proceda. Todo el mundo disfruta de un cuento bien contado.
+Narration/&Tavern_02_14_Stealth_Formal	Adelante entonces. Todo el mundo disfruta de una historia bien contada.
 Narration/&Tavern_02_15_Merton_Default	¡Qué montón de namby-pambies! ¡Tienes suerte de no haber sido atacado por Soraks!
 Narration/&Tavern_02_16_Fighter_Normal	No recuerdo que nadie me haya pedido tu opinión.
-Narration/&Tavern_02_17_Fighter_Violent	¡Cierra la boca o te la cerraré!
-Narration/&Tavern_02_18_Fighter_Friendly	Eso es, amigo. Siempre es bueno tener suerte.
-Narration/&Tavern_02_19_Merton_Default	Las Badlands están llenas de ellos. ¡Bastardos que cambian de forma!
-Narration/&Tavern_02_20_Stealth_Normal	No le hagas caso. Es sólo otro carroñero borracho.
-Narration/&Tavern_02_21_Stealth_Cynical	Todo el mundo es crítico.
-Narration/&Tavern_02_22_Stealth_Einar	Estoy tan cansado de los estúpidos borrachos que despotrican sobre criaturas míticas.
+Narration/&Tavern_02_17_Fighter_Violent	¡Cierra la boca o te la cerrare yo!
+Narration/&Tavern_02_18_Fighter_Friendly	Correcto amigo mío. Siempre es bueno tener suerte.
+Narration/&Tavern_02_19_Merton_Default	Las Tierras Inhóspitas están llenas de ellos. ¡Bastardos que cambian de forma!
+Narration/&Tavern_02_20_Stealth_Normal	No le hagas caso. Es sólo otro Carroñero borracho.
+Narration/&Tavern_02_21_Stealth_Cynical	Parece que aquí todos tienen algo que decir.
+Narration/&Tavern_02_22_Stealth_Einar	Estoy cansado de los estúpidos borrachos que despotrican sobre criaturas míticas.
 Narration/&Tavern_02_23_Explorer_Default	¿No son todos los borrachos básicamente estúpidos?
 Narration/&Tavern_02_24_Spellcaster_Default	Los soraks pueden ser una leyenda, pero los orcos son bastante reales, y no solo en las Tierras Inhóspitas.
-Narration/&Tavern_02_25_Spellcaster_Default	... Me encontré con un asentamiento secreto aquí mismo en el Principado.
+Narration/&Tavern_02_25_Spellcaster_Default	Me encontré con un asentamiento secreto aquí mismo en el Principado.
 Narration/&Tavern_02_26_Fighter_Normal	¿Qué?
-Narration/&Tavern_02_27_Fighter_Slang	¡Mierda!
+Narration/&Tavern_02_27_Fighter_Slang	¡Menuda mierda!
 Narration/&Tavern_02_28_Fighter_Formal	Eso es absurdo.
-Narration/&Tavern_02_29_Spellcaster_Normal	En lo alto de las colinas, dos días al oeste de aquí.
+Narration/&Tavern_02_29_Spellcaster_Normal	En lo alto de las colinas, a unos dos días al oeste de aquí.
 Narration/&Tavern_02_30_Spellcaster_Normal	Dejé la carretera principal para encontrar un camino más corto a través de ...
 Narration/&Tavern_02_31_Spellcaster_Normal	Y lo estaba haciendo bien ...
 Narration/&Tavern_02_32_Spellcaster_Normal	... cuando caí por un maldito sumidero en una cueva.
@@ -5910,18 +5910,18 @@ Narration/&TextOnlyNPCSpeech_BladeFang_Tribe_04	¿Amigo de Kebra con nyarks?
 Narration/&TextOnlyNPCSpeech_BladeFang_Radulf_01	Trae el gran hacha y consideraré una alianza.
 Narration/&TextOnlyNPCSpeech_BladeFang_Radulf_02	Este sello abrirá la puerta a mi desafío.
 Narration/&TextOnlyNPCSpeech_BladeFang_Radulf_03	Ningún gran hacha significa que no nos uniremos a ustedes.
-Narration/&Tavern_02_41_Player_Default	Ten cuidado con él. Es un viejo borracho inofensivo.
-Narration/&Tavern_02_42_Player_Default	Probablemente vio gente lagarto, o nacidos de dragón, o algo ...
+Narration/&Tavern_02_41_Player_Default	No le hagas caso. Es un borracho inofensivo.
+Narration/&Tavern_02_42_Player_Default	Probablemente vio hombres lagarto, o dracónidos, o algo así
 Narration/&Tavern_02_43_Merton	¿Crees que no conozco la diferencia?
 Narration/&Tavern_02_44_Merton	Todas esas espinas en la espalda, esas mandíbulas, ¡nunca has visto nada igual!
-Narration/&Tavern_02_45_Merton	No los lagarto, ni los trogloditas, ni los dragones. ¡Te lo estoy diciendo!
+Narration/&Tavern_02_45_Merton	No son lagartos, ni trogloditas, ni dracónidos. ¡Créeme!
 Narration/&Tavern_02_46_Player_Default	Ya nadie cree en Soraks.
-Narration/&Tavern_02_47_Player_Default	Excepto la Iglesia de Einar, por supuesto, hay un Sorak debajo de cada cama si les cree.
-Narration/&Tavern_02_48_Player_Default	Ahora facil. No te burles de la gente por su fe.
-Narration/&Tavern_02_49_Merton	Léelos libros. Los soraks son maestros del engaño, la infiltración ...
-Narration/&Tavern_02_50_Merton	... cualquiera aquí podría ser un Sorak, nunca lo sabrías.
+Narration/&Tavern_02_47_Player_Default	Excepto la Iglesia de Einar por supuesto, hay un Sorak debajo de cada cama si les cres.
+Narration/&Tavern_02_48_Player_Default	¡Oye!. No te burles de la gente por su fe.
+Narration/&Tavern_02_49_Merton	Léelo en los libros. Los soraks son maestros del engaño, la infiltración
+Narration/&Tavern_02_50_Merton	cualquiera aquí podría ser un Sorak y nunca lo sabrías.
 Narration/&Tavern_02_51_Player_Default	¡Oh vamos!
-Narration/&Tavern_02_51_Merton	Verás.
+Narration/&Tavern_02_51_Merton	Ya verás.
 Narration/&Tavern_02_52_Player_Default	De todas formas…
 Narration/&Tavern_01_2b_Explorer_Default	¿Es este el lugar para el trabajo del Legacy Council? Espero no llegar demasiado tarde.
 Narration/&Tavern_049_04_Council_Choiceb	El Consejo es muy nuevo. ¿Como funciona exactamente?
