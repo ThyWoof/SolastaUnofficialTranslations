@@ -71,7 +71,7 @@ Race/&ElfSurName7Title	Innerfire
 Race/&ElfSurName8Title	Fuego dorado
 Race/&ElfSurName9Title	Ojos plateados
 Race/&ElfSurNameTitle	Familia
-Race/&ElfSylvanDescription	Nacidos y criados en los bosques orientales de Solasta, los <#B5D3DE>elfos silvestres</color> están entrenados para sobrevivir en la naturaleza y son particularmente hábiles en la supervivencia. Como sus primos los Altos Elfos, están entrenados para luchar con espadas y arcos desde la infancia.
+Race/&ElfSylvanDescription	Nacidos y criados en los bosques orientales de Solasta, los <#B5D3DE>Elfos silvanos</color> están entrenados para sobrevivir en la naturaleza y son particularmente hábiles en la supervivencia. Como sus primos los Altos Elfos, están entrenados para luchar con espadas y arcos desde la infancia.
 Race/&ElfSylvanTitle	Elfo Silvano
 Race/&ElfTitle	Elfo
 Race/&HalfElfDescription	Los <#B5D3DE>semielfos</color>, descendientes de refugiados humanos de Tirmar y los elfos de Solastan, poseen los mejores atributos de ambas razas. Versátiles, carismáticos y dotados de visión en la oscuridad, siempre se debaten entre dos culturas.
