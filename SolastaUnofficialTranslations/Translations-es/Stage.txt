@@ -200,8 +200,8 @@ Stage/&PronounFemaleTitle	Ella
 Stage/&PronounNonBinaryTitle	Ellos
 Stage/&BackgroundPersonalityFlagsTitle	Personalidad de trasfondo (elija dos)
 Stage/&AlignementPersonalityFlagsTitle	Personalidad de alineamiento (elija dos)
-Stage/&AlignementLawAxisTitle	Ley
-Stage/&AlignementChaosAxisTitle	Caos
-Stage/&AlignementGoodAxisTitle	Bien
-Stage/&AlignementEvilAxisTitle	Maldad
+Stage/&AlignementLawAxisTitle	Legal
+Stage/&AlignementChaosAxisTitle	Caótico
+Stage/&AlignementGoodAxisTitle	Bueno
+Stage/&AlignementEvilAxisTitle	Malvado
 Stage/&SpellSelectionStageFailNotEnoughPagesDescription	Ninguno de tus libros de hechizos tiene espacio suficiente para escribir estos hechizos. Debes adquirir un nuevo libro de hechizos para completar la secuencia de subida de nivel.
