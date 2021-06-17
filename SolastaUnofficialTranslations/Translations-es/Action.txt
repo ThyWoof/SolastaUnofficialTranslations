@@ -76,7 +76,7 @@ Action/&CunningActionDescription	A partir del nivel 2, tu agilidad mental y rapi
 Action/&CunningActionTitle	A. Astuta
 Action/&DashDescription	Al llevar a cabo una acción de Correr consigues movimiento adicional para ese turno. Este aumento es igual a tu velocidad tras aplicar cualquier modificador pertinente.
 Action/&DashTitle	Correr
-Action/&DisengageDescription	Si realiza la acción de Destrabarte, no provocarás ataque de oportunidad enemigo cuando salgas de su rango de acción para atacarte.
+Action/&DisengageDescription	Si realiza la acción de Destrabarte, no provocarás ataque de oportunidad enemigo cuando salgas de su rango de acción.
 Action/&DisengageTitle	Destrabarse
 Action/&DodgeDescription	Cuando realizas la acción de Esquivar, te concentras por completo en evitar ataques. Hasta el comienzo de tu próximo turno, cualquier tirada de ataque realizada contra ti tiene desventaja si puedes ver al atacante, y tus tiradas de salvación de Destreza obtienen ventaja.
 Action/&DodgeTitle	Esquivar
@@ -132,4 +132,3 @@ Action/&BreakEnchantmentDescription	Toca una criatura para eliminar una condici�
 Action/&DismissalTitle	Despido
 Action/&DismissalDescription	Como acción, realiza un ataque de conjuro cuerpo a cuerpo contra un celestial, elemental, feérico, demonio o muerto viviente dentro de tu alcance. Si impactas, intentas enviar a la criatura de vuelta a su plano natal. El objetivo debe tener éxito en una tirada de salvación de Carisma o será enviado a su plano natal.
 Action/&AttackToss_Title	Sacudida
-
