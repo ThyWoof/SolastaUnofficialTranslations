@@ -1,13 +1,13 @@
-Monster/&Acolyte_Description	Un clérigo errante en busca de gloria y batalla.
+Monster/&Acolyte_Description	Los acólitos son los miembros de menor rango del clero, que suelen responder ante un sacerdote. Llevan a cabo una gran variedad de funciones en los templos.
 Monster/&Acolyte_Title	Acólito
-Monster/&Archmage_Description	Un mago malvado que ha buscado un lugar aislado para realizar experimentos indescriptibles sin interferencias.
+Monster/&Archmage_Description	Los archimagos son lanzadores de conjuros poderosos (y normalmente ancianos) que han dedicado su vida al estudio de las artes arcanas. Los de buenas intenciones aconsejan a reyes y reinas, mientras que los malvados gobiernan como tiranos y buscan convertirse en liches.
 Monster/&Archmage_Title	Archimago
-Monster/&Badlands Hunter_Description	Un guardabosques errante en busca de gloria y batalla.
-Monster/&Badlands Hunter_Title	Cazador de tierras baldías
-Monster/&BanditCaptain_Description	Un bandido experimentado, mucho más hábil que sus seguidores.
+Monster/&Badlands Hunter_Description	Un cazador al servicio de otros, contratado para dar caza a todo tipo de animales exóticos dentro de Las Tierras Inhóspitas que, si tiene la oportunidad, aprovechará para sacar algo de ganancia extra en sus incursiones.
+Monster/&Badlands Hunter_Title	Cazador de Las Tierras Inhóspitas
+Monster/&BanditCaptain_Description	Para mantener a un grupo de bandidos a raya se necesita tanto una personalidad firme como un pico de oro, y los capitanes bandidos poseen ambas en abundancia.
 Monster/&BanditCaptain_Title	Capitán bandido
-Monster/&Berserker_Description	Provenientes de tierras bárbaras, los berserkers se unen en partidas de guerra para buscar la batalla.
-Monster/&Berserker_Title	frenético
+Monster/&Berserker_Description	Naturales de las tierras salvajes, los bersékers solo viven para la guerra, cuanto mayor es la probabilidad de morir en batalla más motivados se sienten y con el doble ansia, se lanzan a dar muerte a su objetivo o a encontrar la suya propia.
+Monster/&Berserker_Title	Berséker
 Monster/&BroodOfBloodDescription	Engendrada por un profanador, esta es una criatura sedienta de sangre.
 Monster/&BroodOfBloodTitle	Linaje de sangre
 Monster/&BroodOfDreadDescription	Engendrado por un Profanador, esta es una criatura sedienta de sangre.
@@ -25,7 +25,7 @@ Monster/&EagleMatriarchTitle	Matriarca Águila
 Monster/&FireSpider_Description	Una araña gigante fusionada con un pequeño elemental de fuego por la extraña influencia mágica de Badlands.
 Monster/&FireSpider_Title	Araña de fuego
 Monster/&FlyingSnakeDescription	Una serpiente alada encontrada en Badlands.
-Monster/&FlyingSnakeTitle	Víbora de azufre
+Monster/&FlyingSnakeTitle	Serpiente alada
 Monster/&GargoyleDescription	[TEMP] TBD
 Monster/&GargoyleTitle	Gárgola
 Monster/&Generic_ShockArcanist_Description	Un poderoso mago de batalla que busca un desafío.
@@ -44,12 +44,12 @@ Monster/&GiantEagle_Description	Un águila gigante, corrompida por los flujos m�
 Monster/&GiantEagle_Title	Águila de Badlands
 Monster/&GiantSpiderDescription	Arañas muy grandes, viven en las profundidades de Badlands y son sensibles a la luz.
 Monster/&GiantSpiderTitle	Araña profunda
-Monster/&GoblinDescription	Una pequeña criatura verdosa y malvada.
+Monster/&GoblinDescription	Los goblins son pequeños humanoides, egoístas y de negro corazón, que habitan en cavernas, minas abandonadas, mazmorras saqueadas y otros lugares lúgubres.
 Monster/&GoblinShaman_Description	Un goblin con poderes cuasi clericales.
 Monster/&GoblinShamanTitle	Chamán Goblin
-Monster/&GoblinSkirmisherDescription	Un arquero goblin.
-Monster/&GoblinSkirmisherTitle	Escaramuza goblin
-Monster/&GoblinTitle	Duende
+Monster/&GoblinSkirmisherDescription	Un goblin al que otro goblin se le ocurrió dar un arco.
+Monster/&GoblinSkirmisherTitle	Escaramuzador goblin
+Monster/&GoblinTitle	Goblin
 Monster/&Guard_Description	Un soldado de bajo rango, acostumbrado a realizar tareas de seguridad mundanas.
 Monster/&Guard_Title	Guardia
 Monster/&Highpriest_Description	Un clérigo poderoso que vaga por la tierra para difundir su fe con palabras suaves y hechos duros.
@@ -64,15 +64,15 @@ Monster/&OgreDescription	Los ogros son enormes y poderosos, pero estúpidos. Viv
 Monster/&OgreTitle	Ogro
 Monster/&OgreZombie_Description	Un ogro que ha sido criado por el poder nigromántico.
 Monster/&OgreZombie_Title	Zombi ogro
-Monster/&OrcArcherDescription	Los orcos tienen arqueros entre sus tropas. A pesar de su eficacia, se les percibe como cobardes y, por lo general, son guerreros de segundo rango.
+Monster/&OrcArcherDescription	Los orcos tienen arqueros entre sus tropas. A pesar de su eficacia, se les tiene por cobardes al no entrar en combate cuerpo a cuerpo, por lo que son considerados como guerreros de segunda.
 Monster/&OrcArcherTitle	Arquero orco
 Monster/&OrcBerserkerDescription	Los berserkers son guerreros enloquecidos que ignoran todo peligro mientras están en trance de batalla. Rápidos y violentos, no sienten dolor ni miedo.
 Monster/&OrcBerserkerTitle	Orco Berserker
 Monster/&OrcChieftainDescription	Los jefes son los orcos más fuertes que han sobrevivido a batallas y desafíos de otros orcos para hacerse con una posición de poder.
-Monster/&OrcChieftainTitle	Cacique Orco
-Monster/&OrcDescription	Los orcos son guerreros tribales brutales, conocidos por sus hábitos bárbaros. Viven de asaltos y saqueos.
-Monster/&OrcShaman_Description	Lo más parecido que tienen los orcos a un clérigo, con algunos poderes místicos.
-Monster/&OrcShaman_Title	Chamán orco
+Monster/&OrcChieftainTitle	Caudillo Orco
+Monster/&OrcDescription	Los orcos son bandidos y saqueadores salvajes de espalda encorvada, frente baja y una cara porcina con prominentes caninos inferiores que recuerdan a los colmillos de un jabalí.
+Monster/&OrcShaman_Description	Lo más parecido que tienen los orcos a un clérigo o hechicero con algunos poderes místicos.
+Monster/&OrcShaman_Title	Chamán Orco
 Monster/&OrcTitle	Orco
 Monster/&PhaseSpider_Description	Una araña monstruosa capaz de viajar libremente hacia y desde el plano etéreo.
 Monster/&PhaseSpider_Title	Araña de fase
@@ -118,8 +118,8 @@ Monster/&TigerDrake_Description	Una gran serpiente voladora con terrible veneno 
 Monster/&TigerDrake_Title	Draco tigre
 Monster/&TutoAlphaWolfDescription	Un lobo adulto, de aspecto particularmente agresivo.
 Monster/&TutoAlphaWolfTitle	Lobo gris
-Monster/&TutoWolfDescription	Un lobo errante, flaco y débil, pero hambriento.
-Monster/&TutoWolfTitle	Lobo hambriento
+Monster/&TutoWolfDescription	Lobo común de Solasta.
+Monster/&TutoWolfTitle	Lobo
 Monster/&VeteranDescription	Los veteranos son luchadores profesionales que toman las armas a cambio de una paga o en defensa de algo que valoran o en lo que creen. Incluyen soldados retirados y mercenarios que nunca han servido a los intereses de nadie más que a los suyos.
 Monster/&VeteranTitle	Veterano
 Monster/&WightDescription	Un wight
