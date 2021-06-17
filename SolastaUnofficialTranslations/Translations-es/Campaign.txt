@@ -1,10 +1,10 @@
-Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto0	El tonel del sepulturero
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto0	La Barrica del Sepulturero
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto1	Esperando a Lord Carran
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto2	Otra ronda
-Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto3	Todavía no hay señal
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto3	Continuamos a la espera
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_AfterTuto4	Lord Carran finalmente llega
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_Annie01	Famoso ya
-Campaign/&CrownOfTheMagister_Journal_DialogTitle_Annie02	Los carroñeros
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_Annie02	Los Carroñeros
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem01	El puesto de avanzada
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem02	La Torre
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_CaerLem03	Los supervivientes
@@ -26,19 +26,19 @@ Campaign/&CrownOfTheMagister_JournalEntry01	Fuga de la prisión
 Campaign/&CrownOfTheMagister_JournalEntry02	Encuentro salvaje
 Campaign/&CrownOfTheMagister_JournalEntry03	La cueva
 Campaign/&CrownOfTheMagister_JournalEntry04	Hechos sucios
-Campaign/&CrownOfTheMagisterDescription	Los nuevos reinos de Solasta vuelven sus ojos hacia Badlands y sus tesoros, pero la guerra no es la única amenaza que se cierne sobre el Principado de Masgarth.
-Campaign/&CrownOfTheMagisterIntroduction1	Es el año 1024 después del Cataclismo. Han surgido nuevos estados alrededor de Badlands y ansían sus tesoros.
+Campaign/&CrownOfTheMagisterDescription	Los nuevos reinos de Solasta vuelven sus ojos hacia Las Tierras Inhóspitas y sus tesoros, pero la guerra no es la única amenaza que se cierne sobre el Principado de Masgarth.
+Campaign/&CrownOfTheMagisterIntroduction1	Es el año 1024 después del Cataclismo. Han surgido nuevos estados alrededor de Las Tierras Inhóspitas y ansían sus tesoros.
 Campaign/&CrownOfTheMagisterIntroduction2	Una carretera recién descubierta ofrece una ruta más segura hacia el corazón en ruinas del Imperio desde el Principado de Masgarth, alterando el equilibrio de poder.
-Campaign/&CrownOfTheMagisterIntroduction3	Se forma el Legacy Council para garantizar que este conocimiento se comparta. Emite un llamado a los agentes para que exploren Badlands en su nombre.
-Campaign/&CrownOfTheMagisterIntroduction4	Los aventureros acuden en masa a Caer Cyflen, la capital del Principado y el hogar del Consejo. Cuatro extraños se encuentran en el Barrica del Gravekeep, cerca de las cámaras del Consejo.
-Campaign/&CrownOfTheMagisterJournalStart	Un grupo de aventureros se reúne en la Cask Inn del Gravekeep, esperando las instrucciones del Legacy Council. El grupo tiene {0} miembros.
+Campaign/&CrownOfTheMagisterIntroduction3	Se forma el Legacy Council para garantizar que este conocimiento se comparta. Emite un llamado a los agentes para que exploren Las Tierras Inhóspitas en su nombre.
+Campaign/&CrownOfTheMagisterIntroduction4	Los aventureros acuden en masa a Caer Cyflen, la capital del Principado y hogar del Consejo. Cuatro extraños se encuentran en La Barrica del Sepulturero, cerca de las cámaras del Consejo.\n\n\n\n(Traducción manual a cargo de DomusKein)
+Campaign/&CrownOfTheMagisterJournalStart	Un grupo de aventureros se reúne en La Barrica del Sepulturero, esperando las instrucciones del Legacy Council. El grupo tiene {0} miembros.
 Campaign/&CrownOfTheMagisterTitle	Corona del Magister
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_PriestOfArun	El sacerdote de Arun
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_PriestOfPakri	La sacerdotisa de Pakri
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_PriestOfMaraike	El sacerdote de Maraike
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_PriestOfEinar	El sacerdote de Einar
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_MeetHalmanSummer	Encuentro con Halman Summer
-Campaign/&CrownOfTheMagister_Journal_DialogTitle_VisitHalmanSummer	Visitando a los anticuarios
+Campaign/&CrownOfTheMagister_Journal_DialogTitle_VisitHalmanSummer	Visitando a los Anticuarios
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_MeetMaddyGreenisle	Conociendo a Maddy Greenisle
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_VisitMaddyGreenisle	Visitando la Torre del Conocimiento
 Campaign/&CrownOfTheMagister_Journal_DialogTitle_MeetHeddlonSurespell	Conociendo a Heddlon Surespell
