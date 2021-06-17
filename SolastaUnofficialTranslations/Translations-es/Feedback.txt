@@ -1,15 +1,15 @@
 Feedback/&AbilityCheckConsoleAnyAdvantageLine	{0} hace una {1} prueba de habilidad contra CD {2}, tira {3} {4}, {5}
 Feedback/&AbilityCheckConsoleAnyAdvantageNoModifierLine	{0} hace una {1} prueba de habilidad contra CD {2}, tira {3} {4}
-Feedback/&AbilityCheckConsoleLine	{0} hace una {1} prueba de habilidad contra CD {2}, tira {3} = {4}
-Feedback/&AbilityCheckConsoleNoModifierLine	{0} hace una {1} prueba de habilidad contra CD {2}, tira {3}
+Feedback/&AbilityCheckConsoleLine	{0} hace una prueba de habilidad de {1} CD {2} ({3}) = {4}
+Feedback/&AbilityCheckConsoleNoModifierLine	{0} hace una prueba de habilidad de {1} CD {2}  ({3})
 Feedback/&AbilityCheckFailedFormat	Ha fallado
 Feedback/&AbilityCheckFailureNarrationLine	{0} ¡Fallo!
 Feedback/&AbilityCheckFailureOutcome	{0} (Fallo)
 Feedback/&AbilityCheckSuccessNarrationLine	{0} ¡Éxito!
 Feedback/&AbilityCheckSuccessOutcome	{0} (Éxito)
-Feedback/&ActivatePowerLine	{0} activa el {1} ​​poder
+Feedback/&ActivatePowerLine	{0} usa {1} 
 Feedback/&ActivatePowerWithChanelDivinityLine	{0} Canalizar Divinidad para activar {1}
-Feedback/&ActivatePowerWithSpellSlotLine	{0} activa {1} con un espacio de hechizo de nivel {2}
+Feedback/&ActivatePowerWithSpellSlotLine	{0} usa {1} con un espacio de hechizo de nivel {2}
 Feedback/&AdditionalDamageArcaneFuryFormat	¡Furia Arcana!
 Feedback/&AdditionalDamageArcaneFuryLine	{0} inflige más daño a {1} de Furia Arcana (+ {2})
 Feedback/&AdditionalDamageBestowCurseFormat	¡Ataque a los malditos!
@@ -43,11 +43,11 @@ Feedback/&AdditionalDamageStrikeOblivionLine	{0} inflige más daño a {1} con St
 Feedback/&AdvantageRollDescription	Tirar con ventaja significa tirar dos d20 y mantener el mejor resultado.
 Feedback/&AdvantageRollOutcome	con ventaja
 Feedback/&AlreadySuccessfulCaptionFormat	Ya exitoso
-Feedback/&AttackConsoleLine	{0} ataca {1} con {2}, rollos {3} = {4}
-Feedback/&AttackConsoleLineAnyAdvantage	{0} ataca {1} con {2}, rollos {3} {4} = {5}
-Feedback/&AttackConsoleLineAnyAdvantageNoModifier	{0} ataca {1} con {2}, rueda {3} {4}
-Feedback/&AttackConsoleLineAutomaticHit	{0} ataca {1} con {2} y golpea automáticamente
-Feedback/&AttackConsoleLineNoModifier	{0} ataca {1} con {2}, rueda {3}
+Feedback/&AttackConsoleLine	{0} ataca a {1} con {2} ({3}) = {4}
+Feedback/&AttackConsoleLineAnyAdvantage	{0} ataca a {1} con {2} y {3} ({4}) = {5}
+Feedback/&AttackConsoleLineAnyAdvantageNoModifier	{0} ataca {3} a {1} con {2} = {4}
+Feedback/&AttackConsoleLineAutomaticHit	{0} ataca a {1} con {2} y golpea automáticamente
+Feedback/&AttackConsoleLineNoModifier	{0} ataca a {1} con {2} ({3})
 Feedback/&AttackFailureFormat	Fallo de ataque ({0})
 Feedback/&AttackFailureOutcome	{0} (Fallo)
 Feedback/&AttackOfOpportunityFormat	Ataque de oportunidad
@@ -69,8 +69,8 @@ Feedback/&ConditionAddedHasLine	{0} tiene {1}
 Feedback/&ConditionAddedLine	{0} ha {1}
 Feedback/&ConditionRemovedHasLine	{0} ya no tiene {1}
 Feedback/&ConditionRemovedLine	{0} ya no es {1}
-Feedback/&ContestCheckConsoleBothAdvantageLine	{0} concursos {1}, {2} contra {3}, tira {4} {5} contra {6} {7} {8}
-Feedback/&ContestCheckConsoleLine	{0} concursos {1}, {2} contra {3}, tira {4} contra {5} {6}
+Feedback/&ContestCheckConsoleBothAdvantageLine	{0} contra {1}, {2} {0} contra {3} {1}, ({4} {5}) {0} contra ({6} {7}) {1} ({8})
+Feedback/&ContestCheckConsoleLine	{0} contra {1}, {2} {0} contra {3} {1}, ({4}) {0} contra ({5}) {1} ({6})
 Feedback/&ContestCheckConsoleMainAdvantageLine	{0} concursos {1}, {2} contra {3}, tira {4} {5} contra {6} {7}
 Feedback/&ContestCheckConsoleOpponentAdvantageLine	{0} concursos {1}, {2} contra {3}, tira {4} contra {5} {6} {7}
 Feedback/&ContestFailure	Falla
@@ -80,11 +80,11 @@ Feedback/&ConversationRecordedLine	Conversación grabada {0} {1}
 Feedback/&CoverFullCaption	fuera de vista
 Feedback/&CoverHalfCaption	1/2 tapa
 Feedback/&CoverThreeQuarterCaption	3/4 tapa
-Feedback/&CriticalAbilityCheckFailureOutcome	{0} (FALLO CRÍTICO)
-Feedback/&CriticalAbilityCheckOutcome	{0} (ÉXITO CRÍTICO)
-Feedback/&CriticalAttackFailureOutcome	{0} (FALLO CRÍTICO)
+Feedback/&CriticalAbilityCheckFailureOutcome	{0} FALLO CRÍTICO
+Feedback/&CriticalAbilityCheckOutcome	{0} ÉXITO CRÍTICO
+Feedback/&CriticalAttackFailureOutcome	{0} FALLO CRÍTICO
 Feedback/&CriticalAttackFormat	¡Golpe crítico!
-Feedback/&CriticalAttackOutcome	{0} (GOLPE CRÍTICO)
+Feedback/&CriticalAttackOutcome	{0} GOLPE CRÍTICO
 Feedback/&CriticalFailureFormat	¡Fallo crítico!
 Feedback/&DarknessCaption	Oscuridad mágica
 Feedback/&DarknessDescription	La criatura está en una oscuridad mágica.
@@ -103,7 +103,7 @@ Feedback/&DeathSaveSuccessFormat	{0} Éxito
 Feedback/&DetectedDefeatFormat	¡Has sido detectado! Utilice el modo sigiloso la próxima vez.
 Feedback/&DeviceAutoIdentifiedLine	Gracias a un mayor conocimiento de este tipo de elementos, {0} ha identificado {1}
 Feedback/&DimLightCaption	Luz tenue
-Feedback/&DisadvantageRollDescription	Salir con desventaja significa que sacas dos d20 y te quedas con el peor resultado.
+Feedback/&DisadvantageRollDescription	Tirar con desventaja significa que tiras dos d20 y te quedas con el peor resultado.
 Feedback/&DisadvantageRollOutcome	con desventaja
 Feedback/&ExperienceGainedFormat	+ {0} XP
 Feedback/&ExperienceGainedLine	{0} gana {1} XP
@@ -119,7 +119,7 @@ Feedback/&ImmuneToDamageFormat	Inmune {0}
 Feedback/&ImmuneToDamageLine	{0} es inmune al {1} ​​daño
 Feedback/&ImmuneToSpellFormat	Inmune {0}
 Feedback/&ImmuneToSpellLine	{0} es inmune al hechizo {1}
-Feedback/&InflictedDamageLine	{0} sufre daños: {1}
+Feedback/&InflictedDamageLine	{0} recibe daño: {1}
 Feedback/&InitiativeCaption	Iniciativa
 Feedback/&InitiativeConsoleLine	{0} lanza iniciativa: {1} = {2}
 Feedback/&InitiativeConsoleLineAdvantage	{0} lanza iniciativa {1}: {2} = {3}
@@ -208,8 +208,8 @@ Feedback/&TrapDisarmedFormat	Trampa desarmada
 Feedback/&TrapDisarmFailedFormat	Desarmar fallido
 Feedback/&TrapTriggeredFormat	Trampa activada
 Feedback/&CharmedEnemyRemovedFromArea	{0} abandonó el área
-Feedback/&UnlitCaption	Sin luz
-Feedback/&UnlitDescription	La criatura está apagada. Las tiradas de ataque contra él se realizarán con desventaja.
+Feedback/&UnlitCaption	Oscuridad
+Feedback/&UnlitDescription	La criatura está en la oscuridad. Las tiradas de ataque contra ella se harán con desventaja.
 Feedback/&CraftingAttemptedLine	{0} está intentando crear {1}
 Feedback/&StealthBrokenByForce	{0} ha sido revelado y ya no está oculto.
 Feedback/&StealthBrokenByEnemy	{0} ha sido detectado por {1} y ya no está oculto.
