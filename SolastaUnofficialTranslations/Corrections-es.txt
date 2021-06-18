@@ -150,10 +150,7 @@ Badland	Las Tierras Inhóspitas
 Badlands	Las Tierra Inhóspitas
 Legacy Council	Concejo del Legado
 Conjuro	Hechizo
-conjuro	hechizo
 Conjuros	Hechizos
-conjuros	hechizos
 Mago hechizos	Hechizos de mago
 juramentación	juramento
-Juramentación	Juramento
 Snow Alliance	Alianza de la Nieve

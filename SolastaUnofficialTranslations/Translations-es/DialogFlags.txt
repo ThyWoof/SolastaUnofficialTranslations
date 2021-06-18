@@ -24,4 +24,3 @@ DialogFlags/&Slang_Description	Este personaje usa mucho el lenguaje vulgar y tos
 DialogFlags/&Slang_Title	Malhablado
 DialogFlags/&Violence_Description	Tendencia a resolver problemas con violencia, incluso cuando existen otras opciones.
 DialogFlags/&Violence_Title	Violento
-

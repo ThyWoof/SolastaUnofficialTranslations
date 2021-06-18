@@ -108,16 +108,23 @@ namespace SolastaUnofficialTranslations
                 foreach (var file in files)
                 {
                     string filename = $@"{UnityModManager.modsPath}/{typeof(Main).Namespace}/{language.directory}/{file.Name}";
+                    Log($"Processing file [{filename}]");
                     using (var sr = new StreamReader(filename))
                     {
                         String line;
                         while ((line = sr.ReadLine()) != null)
                         {
-                            var splitted = line.Split(new[] { '\t', ' ' }, 2);
-                            var term = splitted[0];
-                            var text = splitted[1];
-                            var corrected = Regex.Replace(text, string.Join("|", corrections.Keys.Select(k => k.ToString()).ToArray()), m => corrections[m.Value]);
-                            languageSourceData.AddTerm(term).Languages[languageIndex] = corrected;
+                            try
+                            {
+                                var splitted = line.Split(new[] { '\t', ' ' }, 2);
+                                var term = splitted[0];
+                                var text = splitted[1];
+                                var corrected = Regex.Replace(text, string.Join("|", corrections.Keys.Select(k => k.ToString()).ToArray()), m => corrections[m.Value]);
+                                languageSourceData.AddTerm(term).Languages[languageIndex] = corrected;
+                            }
+                            catch {
+                                Log($"Skipping line [{line}] in file [{filename}]");
+                            }
                         }
                     }
                 }

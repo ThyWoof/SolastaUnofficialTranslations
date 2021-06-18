@@ -722,4 +722,3 @@ Screen/&KnudgeEastShortcutFormat	Empujar hacia el este ({0})
 Screen/&KnudgeSouthShortcutFormat	Empujar hacia el sur ({0})
 Screen/&KnudgeWestShortcutFormat	Empujar hacia el oeste ({0})
 Screen/&EditorCaptionPositionFormat	X: {0}, Y: {1}
-
