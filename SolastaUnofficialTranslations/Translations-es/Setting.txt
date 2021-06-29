@@ -75,14 +75,14 @@ Setting/&OrbitalCameraCorrectionTitle	Corrección de cámara orbital
 Setting/&PartyReactionTrapDetectedDescription	Establezca la reacción del grupo ante la detección de una trampa.
 Setting/&PartyReactionTrapDetectedNoReactionDescription	El partido continúa con sus acciones actuales.
 Setting/&PartyReactionTrapDetectedNoReactionTitle	Sin reacción
-Setting/&PartyReactionTrapDetectedStopMovementDescription	La fiesta deja de moverse.
+Setting/&PartyReactionTrapDetectedStopMovementDescription	El grupo deja de moverse.
 Setting/&PartyReactionTrapDetectedStopMovementTitle	Detener movimiento
 Setting/&PartyReactionTrapDetectedTitle	Reacción a la detección de trampas
 Setting/&PrepareSpellsLongRestDescription	Cambiar los hechizos preparados de un personaje requiere un largo descanso.
 Setting/&PrepareSpellsLongRestTitle	Preparar hechizos y descanso prolongado
 Setting/&QualityLevelDescription	Calidad gráfica. La alta calidad requiere una tarjeta gráfica más potente.
 Setting/&QualityLevelHighDescription	Bueno para sistemas de gama alta
-Setting/&QualityLevelHighTitle	Elevado
+Setting/&QualityLevelHighTitle	Alto
 Setting/&QualityLevelLowDescription	Bueno para sistemas de gama baja
 Setting/&QualityLevelLowTitle	Bajo
 Setting/&QualityLevelMediumDescription	Bueno para sistemas de rango medio
@@ -404,7 +404,7 @@ Setting/&AutoDetectTrapsDescription	Las trampas cercanas se detectarán automát
 Setting/&ForceCraftingRollSuccessTitle	Fuerza el éxito de la tirada de elaboración
 Setting/&ForceCraftingRollSuccessDescription	Cada tirada de elaboración tendrá éxito automáticamente.
 Setting/&NoToolRequirementTitle	No se requiere herramienta
-Setting/&NoToolRequirementDescription	Los personajes pueden crear y desbloquear cofres o puertas sin necesidad de herramientas.
+Setting/&NoToolRequirementDescription	Los personajes pueden abrir y desbloquear cofres o puertas sin necesidad de herramientas.
 Setting/&SomaticComponentFullDescription	Los personajes deben tener las manos libres.
 Setting/&QualityHeaderTitle	Calidad
 Setting/&ColorCalibrationHeaderTitle	Calibración de color
