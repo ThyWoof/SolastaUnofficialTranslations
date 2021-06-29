@@ -1,5 +1,5 @@
 SpellList/&SpellListClericTitle	Hechizos de clérigo
 SpellList/&SpellListPaladinTitle	Hechizos de paladín
 SpellList/&SpellListRangerTitle	Hechizos de explorador
-SpellList/&SpellListSpellbladeTitle	Hechizos de caballero arcano
+SpellList/&SpellListSpellbladeTitle	Hechizos de hoja de hechizos
 SpellList/&SpellListWizardTitle	Hechizos de mago
