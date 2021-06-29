@@ -18,14 +18,14 @@ Feat/&FocusedSleeperDescription	Estás acostumbrado a descansar mucho con solo u
 Feat/&FocusedSleeperTitle	Durmiente enfocado
 Feat/&HardToKillTitle	Difícil de matar
 Feat/&HaulerTitle	Transportista
-Feat/&LockbreakerDescription	Ha pasado mucho tiempo estudiando cerraduras: cómo fabricarlas y cómo abrirlas. Obtienes competencia con las herramientas de los ladrones, o duplicas tu competencia existente si ya eres competente. Tiene ventaja al usar herramientas de ladrones para abrir cerraduras.
+Feat/&LockbreakerDescription	Ha pasado mucho tiempo estudiando cerraduras: cómo fabricarlas y cómo abrirlas. Obtienes competencia con herramientas de ladrón, o duplicas tu competencia existente si ya eres competente. Tienes ventaja al usar herramientas de ladrón para abrir cerraduras.
 Feat/&LockbreakerTitle	Interruptor de bloqueo
 Feat/&LocksmithDescription	No debe mostrarse
 Feat/&LocksmithTitle	No debe mostrarse
 Feat/&ManipulatorTitle	Manipulador
-Feat/&MasterAlchemistDescription	Has dominado el arte de hacer pociones. Necesita la mitad del tiempo normal para elaborar una poción y su bonificación de competencia se duplica cuando realiza la tirada para determinar si su elaboración progresa.\nTienes un conocimiento experto de todas las pociones y puedes identificarlas automáticamente.
+Feat/&MasterAlchemistDescription	Has dominado el arte de hacer pociones. Necesitas la mitad del tiempo normal para elaborar una poción y su bonificación de competencia se duplica cuando realiza la tirada para determinar si su elaboración progresa.\nTienes un conocimiento experto de todas las pociones y puedes identificarlas automáticamente.
 Feat/&MasterAlchemistTitle	Maestro alquimista
-Feat/&MasterEnchanterDescription	Has dominado el arte de encantar objetos. Pasas la mitad del tiempo normal para encantar un objeto y tu bonificación de competencia se duplica al realizar la tirada para determinar si tu elaboración progresa.
+Feat/&MasterEnchanterDescription	Has dominado el arte de encantar objetos. Necesitas la mitad del tiempo normal para encantar un objeto y tu bonificación de competencia se duplica al realizar la tirada para determinar si tu elaboración progresa.
 Feat/&MasterEnchanterTitle	Maestro Encantador
 Feat/&MightOfTheIronLegionDescription	+1 STR hasta un máximo de 20\nObtienes competencia con Armadura pesada.\nObtienes competencia con Longswords, Greatswords y Battleaxes.
 Feat/&MightOfTheIronLegionTitle	Poderío de la Legión de Hierro
