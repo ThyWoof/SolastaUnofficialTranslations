@@ -1,22 +1,22 @@
-Language/&CommonDescription	El idioma estándar que se habla en Solasta es una forma degradada de alto élfico imperial, impregnada de trozos de idioma tirmariano. Es un legado de la historia de Solasta.
+Language/&CommonDescription	El idioma estándar que se habla en Solasta es una forma degradada del alto élfico imperial, infundida con trozos de lengua tirmariana. Es un legado de la historia de Solasta.
 Language/&CommonTitle	Común
-Language/&DwarvishDescription	Una antigua lengua de Solastan, conservada por enanos que vivían fuera del dominio imperial, ha sobrevivido al Cataclismo.
+Language/&DwarvishDescription	Una antigua lengua solastana, conservada por los enanos que viven fuera del dominio imperial, que ha sobrevivido al Cataclismo.
 Language/&DwarvishTitle	Enano
-Language/&ElvishDescription	Un antiguo idioma de Solastan. El idioma elfo es fluido, con entonaciones sutiles y una gramática compleja, siendo su literatura rica y variada.
+Language/&ElvishDescription	Una antigua lengua de Solastan, compartida por los altos elfos y los elfos silvanos, pero hablada principalmente por estos últimos.
 Language/&ElvishTitle	Élfico
-Language/&GiantDescription	El idioma que hablan la mayoría de los humanoides grandes, como gigantes y ogros.
+Language/&GiantDescription	La lengua que hablan la mayoría de los humanoides de gran tamaño, como los verdaderos gigantes o seres de menor tamaño como los ogros.
 Language/&GiantTitle	Gigante
-Language/&GoblinDescription	El crudo dialecto de los goblins es incluso más simple que el orco.
+Language/&GoblinDescription	El tosco lenguaje de los goblins es aún más sencillo que el orciano.
 Language/&GoblinTitle	Goblin
-Language/&HalflingDescription	La antigua lengua de los medianos, que se originó antes de la división entre la gente de Marsh y Island.
+Language/&HalflingDescription	El antiguo idioma de los halflings, originado antes de la división entre los pueblos de los pantanos y las islas.
 Language/&HalflingTitle	Halfling
 Language/&OrcDescription	El idioma que hablan los orcos y sus hermanos.
 Language/&OrcTitle	Orco
 Language/&ReptilianDescription	El idioma hablado por los Sorr-Akkath y sus hermanos.
 Language/&ReptilianTitle	Reptiliano
-Language/&SpyCodeDescription	Este libro de varios códigos y cifrados le permite leer la mayoría de los mensajes codificados.
-Language/&SpyCodeTitle	Libro de códigos del espía
-Language/&TerranDescription	Un dialecto del idioma Primordial hablado por criaturas del Plano Elemental de la Tierra o aquellos relacionados con la tierra de alguna manera.
+Language/&SpyCodeDescription	Este libro de varios códigos y cifrados te permite leer la mayoría de los mensajes codificados.
+Language/&SpyCodeTitle	Libro de códigos de los espías
+Language/&TerranDescription	Un dialecto de la lengua primordial que hablan las criaturas del Plano Elemental de la Tierra o las que están relacionadas con la tierra de alguna manera.
 Language/&TerranTitle	Terran
-Language/&TirmarianDescription	Un idioma antiguo, se originó en Tirmar, el mundo perdido de los humanos. Ha sido protegido y transmitido desde el Cataclismo.
-Language/&TirmarianTitle	Viejo tirmariano
+Language/&TirmarianDescription	Una lengua antigua, originaria de Tirmar, el mundo perdido de los humanos. Se ha protegido y transmitido desde el Cataclismo.
+Language/&TirmarianTitle	Antiguo Tirmariano
