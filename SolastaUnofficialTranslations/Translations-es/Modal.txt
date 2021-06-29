@@ -14,7 +14,7 @@ Modal/&CharacterReviveModalHeaderPluralTitle	Revivir a todos los personajes muer
 Modal/&CharacterReviveModalHeaderSingularTitle	Revivir personaje muerto
 Modal/&CharacterReviveModalSubTitle	No puedes continuar la aventura con uno o más personajes muertos. Seleccione una opción.
 Modal/&CharacterReviveModalTooLateFormat	Es demasiado tarde para utilizar esta opción en {0}.
-Modal/&DefeatDescription	La fiesta no tenía forma de revivir a sus muertos: ¡se acabó el juego! Intente dar pergaminos de Revivify a los personajes que puedan usarlos.
+Modal/&DefeatDescription	El grupo no tenía forma de revivir a sus miembros muertos: ¡se acabó el juego! Intente dar pergaminos de Revivir a los personajes que puedan usarlos.
 Modal/&DefeatTitle	Juego terminado
 Modal/&DeleteButtonTitle	Borrar
 Modal/&EquipementSelectionDescription	Seleccione sus opciones de equipo preferidas.
@@ -47,22 +47,22 @@ Modal/&MonsterListingNotPerceivedTitle	Ninguno
 Modal/&MonsterListingPerceivedTitle	Regalo
 Modal/&NumberSelectionInstructionTitle	¿Cuantos puntos?
 Modal/&NumberSelectionValidateTitle	Validar
-Modal/&PartyWaitMinutesPluralFormat	La fiesta espera {0} minutos.
-Modal/&PartyWaitMinutesSingleFormat	La fiesta está esperando {0} minuto.
+Modal/&PartyWaitMinutesPluralFormat	El grupo espera {0} minutos.
+Modal/&PartyWaitMinutesSingleFormat	El grupo está esperando {0} minuto.
 Modal/&RequiredRestsMultipleFormat	{0} descansos largos
 Modal/&RequiredRestsNoneFormat	Ninguno
 Modal/&RequiredRestsSingleFormat	1 descanso largo
 Modal/&RequiredRestsTitle	Descansos requeridos
 Modal/&ResetDefaultsDescription	Haga clic para restablecer la configuración de viaje al valor predeterminado.
 Modal/&ResetDefaultsTitle	Restablecer predeterminados
-Modal/&SaveButtonTitle	Ahorrar
-Modal/&SaveGameHeader	Ahorrar
+Modal/&SaveButtonTitle	Guardar
+Modal/&SaveGameHeader	Guardar
 Modal/&SaveGamePlaceholder	Ingresa un nombre de archivo o selecciona una partida guardada.
 Modal/&SelectCharacterMultipleTitle	Seleccione uno o más personajes.
 Modal/&SelectCharacterSingleTitle	Seleccione un personaje
 Modal/&SelectTitle	Seleccione
 Modal/&StartTravelDescription	Inicia el viaje a la ubicación seleccionada.
-Modal/&StartTravelTitle	Empiece a viajar
+Modal/&StartTravelTitle	Viajar
 Modal/&TravelDurationLessThanADayFormat	Menos de un día
 Modal/&TravelDurationMultipleFormat	{0} días
 Modal/&TravelDurationSingleFormat	1 día
@@ -75,7 +75,7 @@ Modal/&TravelSettingsCustomTitle	Personalizado
 Modal/&TravelSettingsDefaultTitle	Defecto
 Modal/&TravelSettingsTitle	Configuración de viaje
 Modal/&TravelToTitle	A
-Modal/&ValidateButtonTitle	Validar
+Modal/&ValidateButtonTitle	Confirmar
 Modal/&LoadingShortTitle	Cargando
 Modal/&LoadingTipTitle	Consejo
 Modal/&UnitsSelectionInstructionTitle	¿Cuántas unidades toma?
