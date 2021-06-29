@@ -1,36 +1,19 @@
 próximo	siguiente
-Cerca	Cerrar
 Gravamen	Carga
 truco de luz 	hechizo de luz
 Utilizar artículo	Usar objeto
 Saquear todos	Coger todo
 coloque el mouse	coloque el ratón
-Herramientas de ladrones	Herramientas de ladrón
 Si intentas abrir o trabar	Si intentas abrir o forzar
 Ahorrar	Guardar
-Creador de mazmorras	Editor de Mazmorras
 Revisa el juego	Pon una Reseña
-Altruismo	Altruista
-Egoísmo	Egoísta
-Pragmatismo	Pragmático
 Riqueza del partido	Tesoro de grupo
 Vida falsa	Vida Prestada
 Tú compraste	Vas a comprar
-Vendes	Vas a vender
 La fiesta pierde	El grupo pierde 
 Elevar a mismo nivel	Subir de nivel
 Correo en cadena	Cota de Malla
 Escala de correo	Cota de placas
-En eso	INICIATIVA
-STR	FUE
-DEX	DES
-ESTAFA	CON
-EN T	INT
-WIS	SAB
-CHA	CAR
-Moverse	VEL
-HP	PG
-Profe	COMP
 Dados de golpe	D. Golpe
 Ascendencia	Raza
 linajes	subrazas
@@ -39,8 +22,6 @@ Funciones de ascendencia	Atributos de raza
 de tiro de salvación	en las tiradas de salvación
 Aumento de la puntuación de habilidad	Mejora de característica
 Warhammer	Martillo de guerra
-Pequeño kit de herramientas Smith	Kit de herramientas de herrero
-AC	CA
 Bonificación por daños:	Bonificador al daño:
 dmg	daño
 Proteger	Escudo
@@ -56,10 +37,8 @@ Contiene un líquido reluciente. Cura parte de tu HP perdido cuando estás borra
 Guarde la fecha	Fecha de guardado
 Herramientas de Smith	Herramientas de herrero
 Competencia Prima	Bono de competencia
-Perder	Fallo
 Pegar	Golpe
 Empujón	Empujar
-Esconder	Ocultarse
 Resistencia al daño del veneno	Resistencia al daño de veneno
 Vea normalmente con poca luz y en la oscuridad natural como si tuviera poca luz.	Veo de forma normal en sitios con poca luz, y como si hubiera poca luz cuando hay oscuridad.
 Dureza enana	Aguante enano
@@ -86,15 +65,7 @@ en armadura de clérigo	en armaduras
 con armas rebeldes	en armas
 en armas de guardabosques	en armas
 con armas de mago	en armas
-Desplazamiento	Pergamino
-desplazamiento	pergamino
-Tocar	Reanudar
-Toma un pequeño descanso.	Tomar un descanso corto.
-El partido	El grupo
-guardado contra	salvación contra
 Deletrear	Verbal
-ahora es 	 ahora esta
-Revivify	Revivir
 Club	Garrote
 largo descanso	descanso largo
 Goodberry	Buenas bayas
@@ -146,11 +117,9 @@ Arrojado	Arrojadiza
 Mazo	Maza
 Enfoque de hechizo	Canalizador mágico
 Validar	Confirmar
-Badland	Las Tierras Inhóspitas
-Badlands	Las Tierra Inhóspitas
 Legacy Council	Concejo del Legado
 Conjuro	Hechizo
 Conjuros	Hechizos
-Mago hechizos	Hechizos de mago
 juramentación	juramento
 Snow Alliance	Alianza de la Nieve
+HP	PG
