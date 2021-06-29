@@ -36,63 +36,63 @@ Narration/&TextOnlyNPCSpeech_KarelMartel	Lord Carran dijo que no más cerveza ..
 Narration/&TextOnlyNPCSpeech_MayorBrightSpark01	Estoy ocupado. Vuelve mas tarde.
 Narration/&TextOnlyNPCSpeech_MayorBrightSpark02	Oh, eres tú. Bueno, todavía estoy ocupado. Gracias por tu servicio.
 Narration/&TextOnlyNPCSpeech_MayorBrightSpark03	Mira quién está aquí: ¡las estrellas en ascenso de Caer Cyflen!
-Narration/&TextOnlyNPCSpeech_MayorBrightSpark04	Los asuntos del consejo no son mi asunto. Sigue tu camino.
-Narration/&TextOnlyNPCSpeech_MayorBrightSpark05	Sabíamos que esta guerra se avecinaba. Prevaleceremos, como siempre.
-Narration/&TextOnlyNPCSpeech_ArwinMerton01	Ve a que te maten en Badlands ...
-Narration/&TextOnlyNPCSpeech_ArwinMerton02	Todavía estabas llenando tus pañales cuando maté a mi primer ghoul ...
-Narration/&TextOnlyNPCSpeech_ArwinMerton03	Escuché tus historias. No es impresionante.
-Narration/&TextOnlyNPCSpeech_ArwinMerton04	Conozco a todos en esta ciudad ... y todos me conocen a mí.
-Narration/&TextOnlyNPCSpeech_ArwinMerton05	¿Sigues aquí? Estoy seguro de que hay algunas ratas que matar en alguna cueva en algún lugar.
-Narration/&TextOnlyNPCSpeech_ArwinMerton06	Conozco esa mirada. Algo pasó ... algo malo.
-Narration/&TextOnlyNPCSpeech_ArwinMerton07	No seas demasiado arrogante. Estos Soraks tienen más trucos bajo la manga.
-Narration/&TextOnlyNPCSpeech_ArwinMerton08	Esa corona es un imán de problemas, puedo decir.
-Narration/&TextOnlyNPCSpeech_ArwinMerton09	¿Aún vivo? Bien. Hay más cosas que limpiar.
-Narration/&TextOnlyNPCSpeech_ArwinMerton10	Estoy mejor, seguro. No significa que no pueda tomarme un par de cervezas ...
-Narration/&TextOnlyNPCSpeech_ArwinMerton11	Bueno, manejé algunos asuntos pendientes… se siente bien. Estoy celebrando.
-Narration/&TextOnlyNPCSpeech_ArwinMerton12	Si buscas una hoja afilada… soy tu hombre.
-Narration/&TextOnlyNPCSpeech_ArwinMerton13	En cualquier momento, amigos ... quiero decir, en cualquier momento después de que termine esta cerveza.
+Narration/&TextOnlyNPCSpeech_MayorBrightSpark04	Los asuntos del Consejo no son de mi incumbencia. Sigue tu camino.
+Narration/&TextOnlyNPCSpeech_MayorBrightSpark05	Sabíamos que esta guerra se avecinaba. Venceremos, como siempre.
+Narration/&TextOnlyNPCSpeech_ArwinMerton01	Ve a que te maten en Las Tierras Inhóspitas...
+Narration/&TextOnlyNPCSpeech_ArwinMerton02	Todavía estabas llenando tus pañales cuando maté a mi primer ghoul...
+Narration/&TextOnlyNPCSpeech_ArwinMerton03	He oído tus historias. No son impresionantes.
+Narration/&TextOnlyNPCSpeech_ArwinMerton04	Conozco a todos en esta ciudad... y todos me conocen.
+Narration/&TextOnlyNPCSpeech_ArwinMerton05	¿Sigues aquí? Seguro que hay algunas ratas que matar en alguna cueva.
+Narration/&TextOnlyNPCSpeech_ArwinMerton06	Conozco esa mirada. Algo pasó... algo malo.
+Narration/&TextOnlyNPCSpeech_ArwinMerton07	No te pongas demasiado gallito. Estos Soraks tienen más trucos bajo la manga.
+Narration/&TextOnlyNPCSpeech_ArwinMerton08	Esa corona es un imán de problemas, te lo puedo asegurar.
+Narration/&TextOnlyNPCSpeech_ArwinMerton09	¿Sigues vivo? Bien. Hay más limpieza que hacer.
+Narration/&TextOnlyNPCSpeech_ArwinMerton10	Estoy mejor, por supuesto. Eso no significa que no pueda tomar un par de cervezas...
+Narration/&TextOnlyNPCSpeech_ArwinMerton11	Bueno, he solucionado algunos asuntos pendientes... me siento bien. Estoy celebrándolo.
+Narration/&TextOnlyNPCSpeech_ArwinMerton12	Si buscas una hoja afilada... soy tu hombre.
+Narration/&TextOnlyNPCSpeech_ArwinMerton13	Cuando queráis, amigos... quiero decir, cuando queráis después de que me termine esta cerveza.
 Narration/&TextOnlyNPCSpeech_CaravanMerchant01	Estoy ocupado. Ve a ver a Galar.
-Narration/&TextOnlyNPCSpeech_CaravanMerchant02	Estamos empacando, ¡lo siento!
-Narration/&TextOnlyNPCSpeech_CaravanMerchant03	Quieres comprar algo, pregúntale a Galar.
-Narration/&TextOnlyNPCSpeech_CaravanMerchant04	No hay tiempo para charlar, ¡lo siento!
-Narration/&TextOnlyNPCSpeech_CoparannKeepGuard01	¡Manténganse fuera, extraños!
-Narration/&TextOnlyNPCSpeech_CoparannKeepGuard02	El barón te está esperando.
+Narration/&TextOnlyNPCSpeech_CaravanMerchant02	Estamos haciendo las maletas ¡lo siento!
+Narration/&TextOnlyNPCSpeech_CaravanMerchant03	Si quieres comprar algo, pregúntale a Galar.
+Narration/&TextOnlyNPCSpeech_CaravanMerchant04	No hay tiempo para charlar ¡lo siento!
+Narration/&TextOnlyNPCSpeech_CoparannKeepGuard01	¡Manteneos alejados, extraños!
+Narration/&TextOnlyNPCSpeech_CoparannKeepGuard02	El Barón te está esperando.
 Narration/&TextOnlyNPCSpeech_CaptainIronshell01	¡Permanezcan en la luz, ciudadanos!
-Narration/&TextOnlyPCSpeech_TowerOfMagicJammedDoor	Esta puerta está bloqueada ... ¿mágicamente?
+Narration/&TextOnlyPCSpeech_TowerOfMagicJammedDoor	Esta puerta está bloqueada... ¿mágicamente?
 Narration/&Banter_Generic_01	Algo está mal.
-Narration/&Banter_Generic_02	Deberíamos registrar el área con cuidado.
+Narration/&Banter_Generic_02	Deberíamos registrar la zona con cuidado.
 Narration/&Banter_Generic_03	¡Mira este lugar!
-Narration/&Banter_Generic_04	No tiene ningún sentido ...
-Narration/&Banter_Caerlem_01	¿De dónde vinieron esos duendes?
-Narration/&Banter_Caerlem_02	Algún agujero en la montaña, supongo.
+Narration/&Banter_Generic_04	No tiene ningún sentido...
+Narration/&Banter_Caerlem_01	¿De dónde han salido esos goblins?
+Narration/&Banter_Caerlem_02	De algún agujero en la montaña, supongo.
 Narration/&Banter_Caerlem_03	¿Qué es ese olor?
-Narration/&Banter_Caerlem_04	Maldita sea, apesta ...
-Narration/&Banter_Caerlem_05	No dormiría aquí.
+Narration/&Banter_Caerlem_04	Maldita sea, apesta...
+Narration/&Banter_Caerlem_05	Yo no dormiría aquí.
 Narration/&Banter_Caerlem_06	Los Soraks no pueden estar muy lejos.
 Narration/&Banter_Caerlem_07	Necesitamos descansar si queremos tener una oportunidad contra ellos.
-Narration/&Banter_Caerlem_08	Este lugar es tan oscuro ...
-Narration/&Banter_Caerlem_09	Eso fue divertido.
-Narration/&Banter_Caerlem_10	Eso fue una posibilidad remota.
-Narration/&Banter_Caerlem_11	Estábamos tan cerca.
-Narration/&Banter_Caerlem_Beryl_01	No puedo creer que Lisbath se haya quedado atrás ...
+Narration/&Banter_Caerlem_08	Este lugar es tan oscuro...
+Narration/&Banter_Caerlem_09	Eso ha sido divertido.
+Narration/&Banter_Caerlem_10	Eso ha sido un disparo lejano.
+Narration/&Banter_Caerlem_11	Estuvimos tan cerca.
+Narration/&Banter_Caerlem_Beryl_01	No puedo creer que Lisbath se haya quedado atrás...
 Narration/&Banter_Caerlem_Beryl_02	Vamos a morir todos…
 Narration/&Banter_Caerlem_Beryl_03	Tendré que decírselo a la esposa del capitán.
-Narration/&Banter_Caerlem_Lisbath_01	Deberíamos habernos ido hace mucho tiempo ...
-Narration/&Banter_Caerlem_Lisbath_02	El liderazgo es lo que necesitamos ahora.
+Narration/&Banter_Caerlem_Lisbath_01	Deberíamos habernos ido hace tiempo...
+Narration/&Banter_Caerlem_Lisbath_02	Liderazgo es lo que necesitamos ahora.
 Narration/&Banter_Caerlem_Lisbath_03	No me atraparán sin luchar.
-Narration/&Banter_Caerlem_Robar_01	Hasta las rodillas en el barro, nada nuevo aquí.
-Narration/&Banter_Caerlem_Robar_02	Mierda de comida, mierda de zapatos, negocios como siempre.
-Narration/&Banter_Caerlem_Robar_03	Si sobrevivimos a esto, podría beber hasta morir.
+Narration/&Banter_Caerlem_Robar_01	Hasta las rodillas en el fango, nada nuevo aquí.
+Narration/&Banter_Caerlem_Robar_02	Comida de mierda, zapatos de mierda, lo de siempre.
+Narration/&Banter_Caerlem_Robar_03	Si sobrevivimos a esto quizás beba hasta morir.
 Narration/&Banter_ToM_01	Este lugar no tiene ningún sentido.
-Narration/&Banter_ToM_02	En las Tierras Inhóspitas ... bla, bla ...
-Narration/&Banter_ToM_03	¿Qué pasa si te caes allí?
-Narration/&Banter_ToM_04	¿Quieres probar?
-Narration/&Banter_ToM_05	Todos estos libros flotan y no puedo agarrarlos.
-Narration/&Banter_ToM_06	¿Son esas webs?
+Narration/&Banter_ToM_02	En las Tierras Inhóspitas... bla, bla...
+Narration/&Banter_ToM_03	¿Qué pasa si te caes ahí abajo?
+Narration/&Banter_ToM_04	¿Quieres intentarlo?
+Narration/&Banter_ToM_05	Todos estos libros volando por ahí y no puedo cogerlos.
+Narration/&Banter_ToM_06	¿Son telarañas?
 Narration/&Banter_ButlerRavensworth_01	¡Bienvenidos, diputados!
-Narration/&Banter_ButlerRavensworth_02	Tus habitaciones están listas.
-Narration/&Banter_ButlerRavensworth_03	Buen día, diputados senior.
-Narration/&Banter_ButlerRavensworth_04	Cielos despejados ... ¡como dicen!
+Narration/&Banter_ButlerRavensworth_02	Sus habitaciones están listas.
+Narration/&Banter_ButlerRavensworth_03	Buenos días, señores diputados.
+Narration/&Banter_ButlerRavensworth_04	¡Cielos despejados... como se suele decir!
 Narration/&Banter_BoneKeep_01	Este lugar es tan… húmedo.
 Narration/&Banter_BoneKeep_02	Se siente como si todo estuviera muerto por aquí ...
 Narration/&Banter_BoneKeep_03	Bueno, está oscuro, pero al menos ya no son alcantarillas.
@@ -493,11 +493,11 @@ Narration/&Tavern_01_9_Fighter_Default	Parede que a Lord Carran le gusta hacer e
 Narration/&Tavern_01_10_Fighter_Authoritative	Aunque si ese tal Lord Carran no aparece pronto, puedo ir a buscarlo
 Narration/&Tavern_01_11_Fighter_Friendly	Toma asiento
 Narration/&Tavern_01_12_Stealth_Default	Otra ronda camarero. ¡Cuatro de tus mejores jarras de orina de burro, por favor!
-Narration/&Tavern_01_13_Explorer_Default	Parece que has estado esperando aquí un tiempo.
+Narration/&Tavern_01_13_Explorer_Default	Parece que lleváis esperando aquí un buen rato.
 Narration/&Tavern_01_13_Explorer_Formal	Veo que no perdéis el tiempo.
-Narration/&Tavern_01_13_Explorer_Slang	Entonces, ¿este es el trabajo? ¿Poniéndote cara de mierda?
+Narration/&Tavern_01_13_Explorer_Slang	Vaya, así que el trabajo es estar aqui sentados...bebiendo.
 Narration/&Tavern_01_14_Spellcaster_Normal	Hacemos lo que tenemos que hacer... dinos ¿cuál es ese problema del que nos hablaste?
-Narration/&Tavern_01_15_Spellcaster_Formal	Así es. Mencionaste algo sobre algún problema. ¿Te importaría dar más detalles?
+Narration/&Tavern_01_15_Spellcaster_Formal	Así es. Mencionaste algo sobre un problema. ¿Te importaría dar más detalles?
 Narration/&Tavern_01_16_Explorer_Normal	Bueno, me dirigía hacia aquí
 Narration/&Tavern_01_17_Explorer_Normal	cuando tres bandidos saltaron de entre los arbustos con ballestas.
 Narration/&Tavern_01_18_Explorer_Normal	Me arrastraron a una prisión decrépita
@@ -509,142 +509,142 @@ Narration/&Tavern_01_23_Explorer_Slang	Olía como si un pobre bastardo hubiera m
 Narration/&Tavern_01_24_Explorer_Formal	Iba tranquilamente de camino hacia aquí, pensando en mis cosas
 Narration/&Tavern_01_25_Explorer_Formal	cuando tres bandidos salieron de entre los arbustos y me asaltaron
 Narration/&Tavern_01_26_Explorer_Formal	Me llevaron a una prisión destartalada
-Narration/&Tavern_01_27_Explorer_Formal	Una ruina imperial de algún tipo.
+Narration/&Tavern_01_27_Explorer_Formal	una ruina imperial de algún tipo.
 Narration/&Tavern_01_28_Explorer_Formal	Por suerte, sus paredes eran tan débiles como esta cerveza que estamos tomando
 Narration/&Tavern_01_29_Explorer_Normal	No sé cómo aquel lugar se mantenía en pie
 Narration/&Tavern_01_29_Explorer_Slang	incluso un viento fuerte lo podría haber derrumbado.
-Narration/&Tavern_02_1_Fighter_Normal	Bien pensado ese truco de la pared. Me alegro de que hayas salido ileso.
-Narration/&Tavern_02_2_Fighter_Formal	Así que escapaste ileso. ¡Bien hecho mi amigo!.
-Narration/&Tavern_02_3_Explorer_Normal	Mi jarra está vacía de cerveza y Lord Carran todavía no se ha presentado.
-Narration/&Tavern_02_4_Explorer_Cynical	Quizás alguien más pueda contar una historia, parece que podríamos estar aquí un tiempo.
+Narration/&Tavern_02_1_Fighter_Normal	Bien pensado ese truco de la pared. Me alegro de que hayas conseguido escapar.
+Narration/&Tavern_02_2_Fighter_Formal	Así que conseguiste escapar. ¡Bien hecho!.
+Narration/&Tavern_02_3_Explorer_Normal	Mi jarra está vacía y Lord Carran todavía no se ha presentado.
+Narration/&Tavern_02_4_Explorer_Cynical	Quizás alguien más pueda contar una historia, parece que podríamos estar aquí un buen rato.
 Narration/&Tavern_02_5_Explorer_Lawful	Este Consejo necesita organización. No tienen derecho a hacernos esperar así.
 Narration/&Tavern_02_6_Spellcaster_Normal	Toma otra cerveza. Dudo que tengas otro lugar mejor al que ir.
 Narration/&Tavern_02_7_Spellcaster_Greedy	No me importa esperar mientras nos paguen por nuestro maldito tiempo.
 Narration/&Tavern_02_8_Spellcaster_Aristocrat	Es probable que el Consejo esté ocupado con importantes asuntos de estado, nosotros no, así que ten paciencia.
 Narration/&Tavern_02_9_Spellcaster_Lowlife	¿Crees que el Consejo se preocupa por personas como nosotros? Nos avisarán cuando les apetezca hacerlo.
-Narration/&Tavern_02_10_Fighter_Normal	Bueno, déjame contarte mi historia entonces. Yo también fui abordado de camino hacia aquí, pero me enfrenté a mis enemigos con valor
+Narration/&Tavern_02_10_Fighter_Normal	Bueno, deja que te cuente mi historia entonces. Yo también tuve problemas de camino hacia aquí, pero me enfrenté a mis enemigos con valor
 Narration/&Tavern_02_11_Fighter_Violent	Yo también tengo una historia que contar. También fui atacado, pero acabé con mis enemigos con sangre y dolor.
-Narration/&Tavern_02_12_Stealth_Slang	¿Y a que esperas? Escúpelo, estamos esperando.
-Narration/&Tavern_02_13_Stealth_Normal	Escuchémoslo entonces. No seas tímido.
+Narration/&Tavern_02_12_Stealth_Slang	¿Y a qué esperas? Escúpelo, estamos esperando.
+Narration/&Tavern_02_13_Stealth_Normal	Muy bien, te escuchamos. No seas tímido/a.
 Narration/&Tavern_02_14_Stealth_Formal	Adelante entonces. Todo el mundo disfruta de una historia bien contada.
 Narration/&Tavern_02_15_Merton_Default	¡Qué montón de namby-pambies! ¡Tienes suerte de no haber sido atacado por Soraks!
 Narration/&Tavern_02_16_Fighter_Normal	No recuerdo que nadie me haya pedido tu opinión.
 Narration/&Tavern_02_17_Fighter_Violent	¡Cierra la boca o te la cerrare yo!
-Narration/&Tavern_02_18_Fighter_Friendly	Correcto amigo mío. Siempre es bueno tener suerte.
+Narration/&Tavern_02_18_Fighter_Friendly	Correcto amigo mío. Siempre es bueno tener algo de suerte.
 Narration/&Tavern_02_19_Merton_Default	Las Tierras Inhóspitas están llenas de ellos. ¡Bastardos que cambian de forma!
-Narration/&Tavern_02_20_Stealth_Normal	No le hagas caso. Es sólo otro Carroñero borracho.
+Narration/&Tavern_02_20_Stealth_Normal	No le hagas caso. Es sólo otro de esos Carroñeros borracho.
 Narration/&Tavern_02_21_Stealth_Cynical	Parece que aquí todos tienen algo que decir.
-Narration/&Tavern_02_22_Stealth_Einar	Estoy cansado de los estúpidos borrachos que despotrican sobre criaturas míticas.
-Narration/&Tavern_02_23_Explorer_Default	¿No son todos los borrachos básicamente estúpidos?
+Narration/&Tavern_02_22_Stealth_Einar	Estoy cansado de estúpidos borrachos que despotrican sobre criaturas míticas.
+Narration/&Tavern_02_23_Explorer_Default	¿Qué podemos esperar de un borracho estúpido?
 Narration/&Tavern_02_24_Spellcaster_Default	Los soraks pueden ser una leyenda, pero los orcos son bastante reales, y no solo en las Tierras Inhóspitas.
-Narration/&Tavern_02_25_Spellcaster_Default	Me encontré con un asentamiento secreto aquí mismo en el Principado.
+Narration/&Tavern_02_25_Spellcaster_Default	Me encontré con un asentamiento oculto aquí mismo en el Principado.
 Narration/&Tavern_02_26_Fighter_Normal	¿Qué?
 Narration/&Tavern_02_27_Fighter_Slang	¡Menuda mierda!
 Narration/&Tavern_02_28_Fighter_Formal	Eso es absurdo.
 Narration/&Tavern_02_29_Spellcaster_Normal	En lo alto de las colinas, a unos dos días al oeste de aquí.
-Narration/&Tavern_02_30_Spellcaster_Normal	Dejé la carretera principal para encontrar un camino más corto a través de ...
-Narration/&Tavern_02_31_Spellcaster_Normal	Y lo estaba haciendo bien ...
-Narration/&Tavern_02_32_Spellcaster_Normal	... cuando caí por un maldito sumidero en una cueva.
-Narration/&Tavern_02_33_Spellcaster_Slang	Estaba arrastrando mi cansado trasero por las colinas al oeste de aquí ...
-Narration/&Tavern_02_34_Spellcaster_Slang	… Y decidió dejar la carretera para buscar un atajo.
-Narration/&Tavern_02_35_Spellcaster_Slang	Fue un día hermoso. Cielos azules. Pajaros cantando. Vi a uno volar ...
-Narration/&Tavern_02_36_Spellcaster_Slang	... y cayó directamente en un agujero arruinado.
-Narration/&Tavern_02_37_Spellcaster_Formal	Viajé aquí desde el este y dejé la carretera principal ...
-Narration/&Tavern_02_38_Spellcaster_Formal	… Con la esperanza de ahorrar tiempo atravesando las colinas.
-Narration/&Tavern_02_39_Spellcaster_Formal	Las vistas eran magníficas, pero debería haber estado atento al camino.
-Narration/&Tavern_02_40_Spellcaster_Formal	Porque cedió bajo mis pies, sumergiéndome en una oscuridad lúgubre.
+Narration/&Tavern_02_30_Spellcaster_Normal	Dejé la carretera principal para tomar un atajo a través de las montañas
+Narration/&Tavern_02_31_Spellcaster_Normal	y realmente la cosa marchaba bien.
+Narration/&Tavern_02_32_Spellcaster_Normal	Cuando el suelo cedió y caí dentro de una cueva.
+Narration/&Tavern_02_33_Spellcaster_Slang	Estaba arrastrando mi cansado culo por las colinas al oeste de aquí
+Narration/&Tavern_02_34_Spellcaster_Slang	y decidí dejar la carretera principal para buscar un atajo.
+Narration/&Tavern_02_35_Spellcaster_Slang	Era un hermoso día, con cielo azul y pajaritos cantando y volando
+Narration/&Tavern_02_36_Spellcaster_Slang	y sin darme cuenta, caí directamente dentro de un maldito agujero.
+Narration/&Tavern_02_37_Spellcaster_Formal	Viajé hasta aquí desde el este y dejé la carretera principal
+Narration/&Tavern_02_38_Spellcaster_Formal	con la esperanza de ahorrar algo tiempo atravesando las colinas.
+Narration/&Tavern_02_39_Spellcaster_Formal	Las vistas eran magníficas, pero debería haber estado atento al camino
+Narration/&Tavern_02_40_Spellcaster_Formal	porque cedió bajo mis pies, sumergiéndome en una oscuridad lúgubre.
 Narration/&Tavern_03_1_Fighter_Selfpres	No estoy seguro de haber dormido tan cerca de una horda de orcos.
 Narration/&Tavern_03_2_Fighter_Violence	Habría masacrado a cada uno de esos monstruos de piel verde.
-Narration/&Tavern_03_3_Fighter_Cynical	¿Te acostaste con un grupo de orcos? Eso explica el olor.
+Narration/&Tavern_03_3_Fighter_Cynical	¿Dormiste con un grupo de orcos? Eso explica el olor.
 Narration/&Tavern_03_4_Spellcaster_Default	Los orcos tienen un hedor muy característico.
 Narration/&Tavern_03_5_Stealth_Cynical	Empiezo a pensar que Lord Carran podría ser una criatura mítica.
 Narration/&Tavern_03_6_Stealth_Violence	Si Lord Carran nos hace esperar mucho más, podría recibirlo con una daga.
-Narration/&Tavern_03_7_Stealth_Lawful	Deberíamos facturar al Consejo por todo este tiempo perdido.
-Narration/&Tavern_03_8_Explorer_Default	Todos hemos contado una historia de nuestros viajes aquí. Todos menos uno de nosotros.
-Narration/&Tavern_03_9_Stealth_Default	Sí, pero tengo una buena razón para ello. No es de tu maldita incumbencia.
-Narration/&Tavern_03_10_Fighter_Slang	Ven ahora. No seas un aguafiestas. Todos cantamos para la cena. ¡Ahora es tu turno!
-Narration/&Tavern_03_11_Fighter_Formal	No podemos tomar las armas juntos si no confiamos el uno en el otro.
+Narration/&Tavern_03_7_Stealth_Lawful	Deberíamos cobrarle al Consejo todo este tiempo perdido.
+Narration/&Tavern_03_8_Explorer_Default	Todos hemos contado la historia de nuestro viaje hasta aquí. Todos... menos alguien.
+Narration/&Tavern_03_9_Stealth_Default	Sí, pero tengo una buena razón para ello. Y no es de tu maldita incumbencia.
+Narration/&Tavern_03_10_Fighter_Slang	Venga... no seas aguafiestas. Todos hemos contado nuestra batallita, te toca.
+Narration/&Tavern_03_11_Fighter_Formal	No podemos luchar juntos si no confiamos el uno en el otro.
 Narration/&Tavern_03_12_Fighter_Normal	No puedes tener una verdadera amistad sin confianza. ¿Qué estás escondiendo?
-Narration/&Tavern_03_13_Stealth_Default	Bien, ¿quieres saber la verdad?
-Narration/&Tavern_03_14_Stealth_Default	Me detuve en el camino para visitar a un viejo amigo mío ...
-Narration/&Tavern_03_15_Stealth_Default	Y descubrió que estaba endeudado hasta los ojos con un usurero.
+Narration/&Tavern_03_13_Stealth_Default	Bien, ¿quieres saber la verdad?.
+Narration/&Tavern_03_14_Stealth_Default	Me detuve en el camino para visitar a un viejo amigo mío
+Narration/&Tavern_03_15_Stealth_Default	y descubrí que se habia endeudado hasta los ojos.
 Narration/&Tavern_03_16_Explorer_Normal	Oh eso no es bueno.
-Narration/&Tavern_03_17_Explorer_Slang	Suena como un idiota.
+Narration/&Tavern_03_17_Explorer_Slang	Descubriste que tu amigo era idiota.
 Narration/&Tavern_03_18_Explorer_Formal	¿Entonces estaba en una situación desesperada?
-Narration/&Tavern_03_19_Stealth_Default	En efecto. Puso una reliquia familiar como garantía y quería que la volviera a adquirir.
-Narration/&Tavern_03_20_Stealth_Default	Porque, como ve, puedo ser bastante sigiloso cuando es necesario.
+Narration/&Tavern_03_19_Stealth_Default	En efecto. Puso una reliquia familiar como garantía y quería recuperarla a toda costa.
+Narration/&Tavern_03_20_Stealth_Default	Como comprobarás, puedo ser bastante sigiloso/a cuando es necesario.
 Narration/&Tavern_041_Carran_NPC	¿Están ustedes cuatro aquí para ver a Lord Carran?
-Narration/&Tavern_042_Stealth_Cynical_WRITTEN	No estamos aquí para emborracharnos.
+Narration/&Tavern_042_Stealth_Cynical_WRITTEN	Desde luego no hemos venido para emborracharnos.
 Narration/&Tavern_043_Stealth_Pragmatic_WRITTEN	¿Quién pregunta?
 Narration/&Tavern_044_Stealth_Violence_WRITTEN	Quizás estemos aquí buscando pelea.
 Narration/&Tavern_042_Stealth_Cynical	Bueno, no estamos aquí para beber hasta morir.
 Narration/&Tavern_043_Stealth_Pragmatic	Depende de quien esté preguntando.
-Narration/&Tavern_044_Stealth_Violence	Quizás. O tal vez estamos aquí solo para armar el infierno y romper cabezas.
-Narration/&Tavern_045_Carran_cynical_NPC	Bueno, gracias por dejar eso en claro ...
-Narration/&Tavern_045_Carran_violent_NPC	¿Una pelea, verdad? Estoy seguro de que podemos encontrar una salida para su… entusiasmo.
-Narration/&Tavern_045_Carran_NPC	Bueno, si estás aquí por Lord Carran del Legacy Council, ese soy yo.
-Narration/&Tavern_046_Fighter_Cynical_WRITTEN	¿Entonces eres real?
-Narration/&Tavern_047_Fighter_Lawful_WRITTEN	Estamos listos.
-Narration/&Tavern_048_Fighter_Greedy_WRITTEN	Deberíamos cobrar por esperar.
-Narration/&Tavern_046_Fighter_Cynical	Entonces, después de todo, no eres una criatura mítica.
-Narration/&Tavern_047_Fighter_Lawful	Entonces estamos aquí a su servicio, señor.
-Narration/&Tavern_048_Fighter_Greedy	Multa. Me gustaría presentarles una factura por el tiempo que pasamos enfriándonos los talones.
+Narration/&Tavern_044_Stealth_Violence	Quizás. Igual hemos venido para hacer arder este maldito lugar.
+Narration/&Tavern_045_Carran_cynical_NPC	Bien, gracias por dejar ese punto claro.
+Narration/&Tavern_045_Carran_violent_NPC	¿Ah sí? ¿Una pelea? Estoy seguro de que podremos buscar una solución a eso.
+Narration/&Tavern_045_Carran_NPC	Bueno, si estáis aquí para hablar con Lord Carran del Legacy Council, ese soy yo.
+Narration/&Tavern_046_Fighter_Cynical_WRITTEN	¡Vaya, sí que eres real!
+Narration/&Tavern_047_Fighter_Lawful_WRITTEN	Estamos listos para lo que necesitéis.
+Narration/&Tavern_048_Fighter_Greedy_WRITTEN	Deberíamos cobrar por la espera.
+Narration/&Tavern_046_Fighter_Cynical	Veo que después de todo, no eres una criatura mítica.
+Narration/&Tavern_047_Fighter_Lawful	Esta aquí para prestar servicio en lo que necesitéis.
+Narration/&Tavern_048_Fighter_Greedy	Verá, me gustaría presentarle una factura por el tiempo que acabamos de pasar enfriando nuestros traseros.
 Narration/&Tavern_049_Carran_Cynical	¿A diferencia de, digamos, un aventurero sobrio?
 Narration/&Tavern_049_Carran_Lawful	Muy bien.
-Narration/&Tavern_049_Carran_Greedy	Sentirse libre. La beca del Consejo disfruta de una buena risa.
+Narration/&Tavern_049_Carran_Greedy	Muy bien, estoy seguro que el Consejo se lo pasará en grande con esta petición.
 Narration/&Tavern_049_01_Authority_Formal	¿Podríamos preguntarle un poco más sobre esta búsqueda suya, señor, por favor?
 Narration/&Tavern_049_01_Authority_Normal	¿Puedes contarnos más sobre el trabajo?
 Narration/&Tavern_049_01_Authority_Slang	Necesitamos un poco más de información sobre el trabajo, milord.
 Narration/&Tavern_049_02_Carran_NPC	Bueno, supongo que es mejor si sabes lo que estás haciendo.
-Narration/&Tavern_049_03_Carran_NPC	¿Que quieres saber?
+Narration/&Tavern_049_03_Carran_NPC	¿Qué quieres saber?
 Narration/&Tavern_049_04_Council_WRITTEN	Acerca del Legacy Council.
 Narration/&Tavern_049_04_Principality_WRITTEN	Sobre el Principado.
-Narration/&Tavern_049_04_WhoAreYou_WRITTEN	¿Eres nuestro empleador?
-Narration/&Tavern_049_04_ExitLine_WRITTEN	Estamos bien, gracias.
-Narration/&Tavern_049_04_ExitLine_Audio	Deberíamos irnos, ¿no crees?
-Narration/&Tavern_049_04_Principality_Choice	¿Qué nos puedes contar de este lugar, el Principado?
-Narration/&Tavern_049_04_Principality_Carran01	No tenemos exactamente el tiempo ...
-Narration/&Tavern_049_04_Principality_Carran02	…de todas formas. El Principado de Masgarth está gobernado por la Princesa Ceiwad Silverflower.
-Narration/&Tavern_049_04_Principality_Carran03	Somos un estado rico, con tierras fértiles y el acceso más fácil a Badlands ...
-Narration/&Tavern_049_04_Principality_Carran04	... a través de un paso llamado Copperhead Road.
-Narration/&Tavern_049_04_Principality_Carran05	Estamos en la capital, Caer Cyflen, que una vez fue parte del antiguo Imperio Manacalon de los elfos nobles.
-Narration/&Tavern_049_04_Principality_Carran06	De ahí los magníficos edificios élficos que hay en la ciudad alta.
-Narration/&Tavern_049_04_Principality_Carran07	Si bien no tenemos una religión estatal, todas las religiones principales en Solasta están representadas aquí ...
-Narration/&Tavern_049_04_Principality_Carran08	… Aunque tendemos a favorecer a Einar, el dios del valor y la fidelidad.
+Narration/&Tavern_049_04_WhoAreYou_WRITTEN	¿Eres quén nos va a contratar?
+Narration/&Tavern_049_04_ExitLine_WRITTEN	Deberíamos ponernos en marcha.
+Narration/&Tavern_049_04_ExitLine_Audio	Deberíamos irnos ¿no crees?.
+Narration/&Tavern_049_04_Principality_Choice	¿Qué nos puedes contar de este lugar? el Principado.
+Narration/&Tavern_049_04_Principality_Carran01	No tenemos tiempo para...
+Narration/&Tavern_049_04_Principality_Carran02	Está bien. El Principado de Masgarth está gobernado por la Princesa Ceiwad Silverflower.
+Narration/&Tavern_049_04_Principality_Carran03	Somos un estado rico, con tierras fértiles y el acceso más fácil a Badlands
+Narration/&Tavern_049_04_Principality_Carran04	a través de un paso llamado Copperhead Road.
+Narration/&Tavern_049_04_Principality_Carran05	Ésta es la capital, Caer Cyflen, que una vez fue parte del antiguo Imperio Manacalon de los Altos Elfos.
+Narration/&Tavern_049_04_Principality_Carran06	De ahí los magníficos edificios élficos que hay en la alta ciudad.
+Narration/&Tavern_049_04_Principality_Carran07	Si bien no tenemos una religión oficial, todas las religiones principales de Solasta están representadas aquí.
+Narration/&Tavern_049_04_Principality_Carran08	Aunque tendemos a favorecer a Einar, el dios del valor y la fidelidad.
 Narration/&Tavern_049_04_WhoAreYou_Choice	¿Vamos a trabajar para ti?
-Narration/&Tavern_049_04_WhoAreYou_Carran01	No exactamente, no. Seré su contacto con el Legacy Council, al que servirán como diputados.
-Narration/&Tavern_049_04_WhoAreYou_Carran02	Por eso tenemos que ir allí y hacer que juren.
-Narration/&Tavern_049_04_Council_Choice	Escuchamos que esta es una misión para el Consejo, pero ¿qué es exactamente?
-Narration/&Tavern_049_04_Council_Carran01	¡Querida Maraike! No sabes
-Narration/&Tavern_049_04_Council_Carran02	Intentaré hacerlo simple, pero ya sabes, la política ...
+Narration/&Tavern_049_04_WhoAreYou_Carran01	No exactamente, no. Seré vuestro contacto con el Consejo del Legado, al que servirán como diputados.
+Narration/&Tavern_049_04_WhoAreYou_Carran02	Por eso debemos ir allí y que hagáis el juramento.
+Narration/&Tavern_049_04_Council_Choice	Escuchamos que esta es una misión para el Consejo, pero ¿de qué se trata?
+Narration/&Tavern_049_04_Council_Carran01	Imaginaba que no tendríais ni idea.
+Narration/&Tavern_049_04_Council_Carran02	Intentaré simplificarlo, pero ya sabes, política...
 Narration/&Tavern_049_04_Council_Carran03	El Consejo incluye representantes de las organizaciones más poderosas e influyentes de los Reinos del Este.
-Narration/&Tavern_049_04_Council_Carran04	Fue creado para liderar un esfuerzo conjunto para explorar Badlands.
-Narration/&Tavern_049_04_Council_More_Badlands_WRITTEN	¿Qué son las Badlands?
-Narration/&Tavern_049_04_Council_More_Badlands_Choice	¿Qué son las Badlands, en realidad?
-Narration/&Tavern_049_04_Council_More_Badlands_Carran01	En pocas palabras, son un páramo caótico y plagado de monstruos que solía ser el imperio elfo llamado Manacalon.
+Narration/&Tavern_049_04_Council_Carran04	Fue creado para liderar un esfuerzo conjunto donde explorar Las Tierras Inhóspitas.
+Narration/&Tavern_049_04_Council_More_Badlands_WRITTEN	¿Qué son Las Tierras Inhóspitas?
+Narration/&Tavern_049_04_Council_More_Badlands_Choice	¿Qué son Las Tierras Inhóspitas en realidad?
+Narration/&Tavern_049_04_Council_More_Badlands_Carran01	En pocas palabras, son un páramo caótico y plagado de monstruos que antes era el imperio elfo llamado Manacalon.
 Narration/&Tavern_049_04_Council_More_Badlands_Carran02	Fue destruido hace unos mil años por el gran Cataclismo.
-Narration/&Tavern_049_04_Council_More_Badlands_Carran03	Ahora, solo quedan ruinas, llenas de conocimientos, riquezas y peligros olvidados.
+Narration/&Tavern_049_04_Council_More_Badlands_Carran03	Ahora solo quedan ruinas, llenas de conocimientos olvidados, riquezas y peligros.
 Narration/&Tavern_049_04_Council_More_Kingdoms_WRITTEN	¿Qué son los Reinos del Este?
-Narration/&Tavern_049_04_Council_More_Kingdoms_Choice	¿Qué países componen estos Reinos del Este?
+Narration/&Tavern_049_04_Council_More_Kingdoms_Choice	¿Qué países componen los Reinos del Este?
 Narration/&Tavern_049_04_Council_More_Kingdoms_Carran01	Sencillo. El Principado de Masgarth, aquí, está en el centro.
-Narration/&Tavern_049_04_Council_More_Kingdoms_Carran02	Snow Alliance se encuentra al norte.
+Narration/&Tavern_049_04_Council_More_Kingdoms_Carran02	La Alianza de la Nieve se encuentra al norte.
 Narration/&Tavern_049_04_Council_More_Kingdoms_Carran03	El Reino de Gallivan, al este.
 Narration/&Tavern_049_04_Council_More_Kingdoms_Carran04	Y el Nuevo Imperio, al sur.
-Narration/&Tavern_049_04_Council_More_Kingdoms_Carran05	Todo amistoso, más o menos, pero la paz es frágil.
+Narration/&Tavern_049_04_Council_More_Kingdoms_Carran05	Todos en armonía, más o menos, aunque la paz es frágil.
 Narration/&Tavern_049_04_Council_More_Organizations_WRITTEN	¿Qué organizaciones existen?
 Narration/&Tavern_049_04_Council_More_Organizations_Choice	¿Cuáles son las organizaciones que mencionaste?
 Narration/&Tavern_049_04_Council_More_Organizations_Carran01	El Consejo es ... ¿cómo decirlo? Una organización no gubernamental.
 Narration/&Tavern_049_04_Council_More_Organizations_Carran02	Lo que significa que los gobiernos estatales no están representados, para evitar el partidismo.
-Narration/&Tavern_049_04_Council_More_Organizations_Carran03	En cambio, hay delegados del Gremio de Anticuarios, la Torre del Conocimiento, el Arcaneum y el Círculo de Danantar.
+Narration/&Tavern_049_04_Council_More_Organizations_Carran03	No obstante, hay delegados del Gremio de Anticuarios, la Torre del Conocimiento, el Arcaneum y el Círculo de Danantar.
 Narration/&Tavern_049_04_Council_More_Organizations_Carran04	Y la Iglesia de Einar garantiza la equidad, liderada por el mariscal Beric Sunblaze y la guardiana de juramentos Leira Kean.
-Narration/&Tavern_049_04_Council_More_ExitLine_WRITTEN	Sabemos lo suficiente.
+Narration/&Tavern_049_04_Council_More_ExitLine_WRITTEN	Creo que es suficiente
 Narration/&Tavern_049_04_Council_More_ExitLine_Choice	Creo que ahora sabemos lo suficiente. ¡Gracias!
 Narration/&Tavern_049_Additional_Carran_NPC	Muy bien.
-Narration/&Tavern_049_Carran_NPC	¡Venir! Reúna sus cosas. Llegas tarde a tu juramento.
-Narration/&Tavern_0410_Stealth_Lawful	¿De quién es la culpa?
-Narration/&Tavern_0411_Stealth_Cynical	Date prisa y espera. La historia de mi vida.
-Narration/&Tavern_0412_Stealth_Academic	Yo, por mi parte, tengo mucha curiosidad por ver el interior de esa sala del Consejo.
-Narration/&Introduction_Stealth_FindTools	Liam ... siempre pensativo.
+Narration/&Tavern_049_Carran_NPC	¡Vamos! Reúnan sus cosas. Llegáis tarde al juramento.
+Narration/&Tavern_0410_Stealth_Lawful	¿Y de quién es la cula?
+Narration/&Tavern_0411_Stealth_Cynical	Darse prisa y esperar. La historia de mi vida.
+Narration/&Tavern_0412_Stealth_Academic	Yo por mi parte, tengo mucha curiosidad por ver el interior de la sala del Consejo.
+Narration/&Introduction_Stealth_FindTools	Liam ... siempre precavido.
 Narration/&Introduction_Stealth_Liam_01	¡Ahí estás, asqueroso ladrón!
 Narration/&Introduction_Stealth_LoanShark	¿Tú? Qué…? ¡Estas borracho! ¡Sal de aquí antes de que te mate!
 Narration/&Introduction_Stealth_Liam_02	¿Crees que me asustas? ¡Ya no!
@@ -652,7 +652,7 @@ Narration/&Introduction_Stealth_LoanShark2	Un grave error.
 Narration/&Introduction_SpellcastingTuto_FallRecover_Normal	¡Ay! Debo haber caído del lado equivocado ...
 Narration/&Introduction_SpellcastingTuto_FallRecover_Formal	¡Ay! Eso va a dejar una marca.
 Narration/&Introduction_SpellcastingTuto_FallRecover_Slang	¡Maldita sea! Eso dolió como el infierno.
-Narration/&Introduction_SpellcastingTuto_success_nosy	Orcos, aquí? Extraño. Me pregunto qué significa este tótem.
+Narration/&Introduction_SpellcastingTuto_success_nosy	¿Orcos aquí? Extraño. Me pregunto qué significa este tótem.
 Narration/&Introduction_SpellcastingTuto_success_lukewarm	¡Solo mi suerte, caer directamente en un escondite de orcos!
 Narration/&Introduction_SpellcastingTuto_success_wisecracker	Orcos Por supuesto, eso explica el olor ...
 Narration/&Introduction_SpellcastingTuto_success_highclass	¡Mi palabra, este es un escondite de orcos! El mal olor es inconfundible.
@@ -673,720 +673,720 @@ Narration/&Introduction_SpellcastingTuto_SeeingOrcs3_slang	¿Están acampados ju
 Narration/&Introduction_SpellcastingTuto_SeeingOrcs4_normal	Solo necesito ser paciente. No pueden quedarse ahí para siempre.
 Narration/&Introduction_SpellcastingTuto_SeeingOrcs4_formal	Bien, entonces esperaré hasta que se vayan. Estas criaturas cazan, ¿verdad?
 Narration/&Introduction_SpellcastingTuto_SeeingOrcs4_slang	Supongo que los estoy esperando. Al menos estas rocas son ... condenadamente incómodas.
-Narration/&Council_00_1_Wow_Default	¡Mire este tamaño de esta sala del Consejo!
+Narration/&Council_00_1_Wow_Default	¡Mira el tamaño de esta sala del Consejo!
 Narration/&Council_00_2_Wow_Default	Un edificio realmente impresionante.
-Narration/&Council_00_3_joker_Default	Así que esto es en lo que gastan nuestros impuestos.
-Narration/&Council_00_4_Any_Default	¡Mirar! Es eso…
+Narration/&Council_00_3_joker_Default	Así que en esto es en lo que gastan nuestros impuestos.
+Narration/&Council_00_4_Any_Default	¡Mirad! Esa es…
 Narration/&Council_00_5_Any_Default	¡La princesa!
-Narration/&Council_00_6_Any_Default	Espera ... ¿se va?
-Narration/&Council_00_7_joker_Default	Aparentemente si…
-Narration/&Council_00_8_Any_Default	Entonces, ¿quién administrará el juramento?
+Narration/&Council_00_6_Any_Default	Espera... ¿se va?
+Narration/&Council_00_7_joker_Default	Pues parece que si
+Narration/&Council_00_8_Any_Default	Entonces, ¿quién formalizará el juramento?
 Narration/&Council_00_9_joker_Default_WRITTEN	¿La doncella que vacía su orinal?
-Narration/&Council_00_9_mean_Default_WRITTEN	Estamos demasiado bajos para ella.
-Narration/&Council_00_9_anyother_Default_WRITTEN	No es su papel.
-Narration/&Council_00_9_joker_Default	¿La criada que vacía su orinal? No, no somos tan importantes como eso. Quizás su mozo de cuadra.
-Narration/&Council_00_9_joker_Slang	Una dama como ella no quiere tener nada que ver con esclavos como nosotros.
+Narration/&Council_00_9_mean_Default_WRITTEN	No somos nadie para ella
+Narration/&Council_00_9_anyother_Default_WRITTEN	No es su función
+Narration/&Council_00_9_joker_Default	¿La criada que vacía su orinal? No, no somos tan importantes como para eso. Quizás su mozo de cuadra.
+Narration/&Council_00_9_joker_Slang	Una dama como ella no quiere tener nada que ver con gente como nosotros.
 Narration/&Council_00_9_anyother_Default_Choice	Hay un guardián de juramentos para eso, creo.
-Narration/&Council_00_10_Carran_NPC	¿Pensaste que sería la Princesa?
+Narration/&Council_00_10_Carran_NPC	¿Pensasteis que sería la Princesa?
 Narration/&Council_00_11_Any_Default_WRITTEN	¿Ella no gobierna el Consejo?
 Narration/&Council_00_11_Any_Default_Who_WRITTEN	Si no es ella, entonces ¿quién?
 Narration/&Council_00_11_Any_Default	¿No lidera el Consejo?
-Narration/&Council_00_12_Carran_NPC	No, en esta cámara, ella es solo otra delegada.
-Narration/&Council_00_11_Any_Default_Who_Choice	Si ella gobierna todo el Principado, ¿quién es más importante?
+Narration/&Council_00_12_Carran_NPC	No, en esta cámara ella es solo otra delegada.
+Narration/&Council_00_11_Any_Default_Who_Choice	Ella gobierna todo el Principado, ¿quién es más importante?
 Narration/&Council_00_12_Carran_NPC_02	Lady Kean, la Guardiana de Juramentos del Consejo, es de confianza para todos.
 Narration/&Council_00_15_Chamberlain_NPC	¡Lord Carran!
 Narration/&Council_00_16_Carran_NPC	¡Sí, señora!
-Narration/&Council_00_17_Chamberlain_NPC	¿Son estos sus nuevos diputados?
+Narration/&Council_00_17_Chamberlain_NPC	¿Son estos los nuevos diputados?
 Narration/&Council_00_18_Carran_NPC	Lo son, señora.
-Narration/&Council_00_19_Serious_Default	Muy bien. Presta atención. Todos ustedes.
-Narration/&Council_00_20_Serious_Slang	Callarse.
-Narration/&Council_00_20_Serious_Normal	¡Shhh, callad a todos!
-Narration/&Council_00_21_Chamberlain_NPC	Mi nombre es Leira Kean, guardiana de juramentos del Consejo.
-Narration/&Council_00_22_Chamberlain_NPC	Y estaré administrando tus votos.
-Narration/&Council_00_23_Chamberlain_NPC	Una vez juramentado, llevarás la autoridad del Consejo dondequiera que vayas.
-Narration/&Council_00_24_Chamberlain_NPC	Cada una de sus acciones se reflejará en la reputación del Consejo. Recuérdalo. Siempre.
-Narration/&Council_00_25_Chamberlain_NPC	Ahora, por favor, levante la mano derecha.
-Narration/&Council_00_26_Chamberlain_NPC	Todos y cada uno de ustedes juran solemnemente su vida y lealtad a este Consejo y prometen ...
-Narration/&Council_00_27_Chamberlain_NPC	... para llevar a cabo nuestra misión de proteger nuestra alianza de aquellos que amenazarían el bien común?
-Narration/&Council_00_28_All_Default_WRITTEN	Lo juro.
+Narration/&Council_00_19_Serious_Default	Muy bien. Prestad atención. Todos.
+Narration/&Council_00_20_Serious_Slang	Silencio.
+Narration/&Council_00_20_Serious_Normal	¡Shhh, callaos!
+Narration/&Council_00_21_Chamberlain_NPC	Mi nombre es Leira Kean, Guardiana de Juramentos del Consejo.
+Narration/&Council_00_22_Chamberlain_NPC	Yo administraré vuestros votos.
+Narration/&Council_00_23_Chamberlain_NPC	Una vez juramentados, llevaréis la autoridad del Consejo dondequiera que vayáis.
+Narration/&Council_00_24_Chamberlain_NPC	Cada una de vuestras acciones influirá en la reputación de Consejo, recordadlo siempre.
+Narration/&Council_00_25_Chamberlain_NPC	Ahora, por favor, levantad la mano derecha.
+Narration/&Council_00_26_Chamberlain_NPC	¿Todos y cada uno de vosotros juráis solemnemente con vuestra vida y lealtad a este consejo y prometéis
+Narration/&Council_00_27_Chamberlain_NPC	llevar a cabo la misión de proteger nuestra alianza, de todos aquellos que amenazan el bien común?
+Narration/&Council_00_28_All_Default_WRITTEN	Lo juramos.
 Narration/&Council_00_28_All_Default	Lo juro.
-Narration/&Council_00_29_Chamberlain_NPC	Excelente. Lord Carran ingresará su nombre en el registro del Consejo. Gracias por tu servicio.
-Narration/&Council_00_30_Carran_NPC	Felicitaciones, diputados.
-Narration/&Council_00_31_Any_Default	Espera, ¿eso es todo?
+Narration/&Council_00_29_Chamberlain_NPC	Excelente. Lord Carran ingresará vuestros nombres en el registro del Consejo. Gracias por vuestro servicio.
+Narration/&Council_00_30_Carran_NPC	Enhorabuena, diputados.
+Narration/&Council_00_31_Any_Default	Espera, ¿ya está?
 Narration/&Council_00_32_Joke_WRITTEN	¿Esperabas un desfile?
-Narration/&Council_00_32_Longenough_WRITTEN	Eso fue suficiente.
+Narration/&Council_00_32_Longenough_WRITTEN	Ha sido suficiente.
 Narration/&Council_00_32_Exitline_WRITTEN	Centrémonos en la misión.
-Narration/&Council_00_32_joker_Default	¿Que estabas esperando? ¿Una parada?
+Narration/&Council_00_32_joker_Default	¿Qué esperabas? ¿Un desfile y fuegos artificiales?
 Narration/&Council_00_32_joker_Slang	¿Esperabas un beso de la princesa?
-Narration/&Council_00_33_Any_Default	Supongo que imaginó algo más pomposo.
-Narration/&Council_00_34_Any_Default	No. No lo se. Se siente un poco ... anticlimático.
-Narration/&Council_00_35_Carran_NPC	Lamento decepcionar.
+Narration/&Council_00_33_Any_Default	Supongo que esperabas algo más multitudinario.
+Narration/&Council_00_34_Any_Default	No. No sé. Ha sido un poco... anticlimático.
+Narration/&Council_00_35_Carran_NPC	Lamento la decepción.
 Narration/&Council_00_32_Longenough_Choice	Francamente, el discurso fue lo suficientemente largo para mi gusto.
 Narration/&Council_00_32_Longenough_Carran01	La formalidad refleja la solemnidad de su juramento.
 Narration/&Council_00_32_Longenough_Carran02	Pero probablemente más sería ... inmodesta.
-Narration/&Council_00_32_Exitline_Choice	¡Para de perder el tiempo! Cual es la mision?
+Narration/&Council_00_32_Exitline_Choice	¡Dejemos de perder el tiempo! ¿Cuál es la misión?
 Narration/&Council_00_32_Exitline_Carran	¡Bien! Un diputado motivado.
-Narration/&Council_00_42_Carran_NPC	Entonces, la misión:
-Narration/&Council_00_44_Carran_NPC	Como estoy seguro de que sabe, el Consejo mantiene una serie de puestos avanzados ...
-Narration/&Council_00_45_Carran_NPC	… Para asegurar la frontera entre el Principado y las Marcas.
+Narration/&Council_00_42_Carran_NPC	Bien, pues la misión
+Narration/&Council_00_44_Carran_NPC	Como estoy seguro de que sabéis, el Consejo mantiene una serie de puestos avanzados
+Narration/&Council_00_45_Carran_NPC	para asegurar la frontera entre el Principado y las Marcas.
 Narration/&Council_00_46_Carran_NPC	Uno de ellos es la antigua Fortaleza Imperial, Caer Lem.
 Narration/&Council_00_47_Carran_NPC	Está en manos de unos cincuenta soldados al mando del capitán Henrik.
 Narration/&Council_00_48_Carran_NPC	Nos envía informes de estado semanales, o más bien, solía hacerlo.
 Narration/&Council_00_49_Carran_NPC	No hemos sabido nada de él en tres semanas.
-Narration/&Council_00_50_Carran_NPC	Sal de inmediato hacia Caer Lem y averigua si hay alguien vivo.
-Narration/&Council_00_51_Carran_NPC	Si el capitán Henrik o cualquier otra persona aún respira, tráigalos.
+Narration/&Council_00_50_Carran_NPC	Salid de inmediato hacia Caer Lem y averiguad si hay alguien vivo.
+Narration/&Council_00_51_Carran_NPC	Si el capitán Henrik o cualquier otra persona aún respira, traedlos.
 Narration/&Council_00_52_Carran_NPC	El Consejo quiere un informe de primera mano.
 Narration/&Council_00_53_Dangerous_WRITTEN	Suena peligroso.
-Narration/&Council_00_54_Marches_WRITTEN	Espera, ¿hablaste de las Marcas?
+Narration/&Council_00_54_Marches_WRITTEN	Espera, ¿mencionaste Las Marcas?
 Narration/&Council_00_55_Henrik_WRITTEN	Háblenos del capitán Henrik.
 Narration/&Council_00_56_ExitLine_WRITTEN	Estamos listos para irnos.
-Narration/&Council_00_57_Dangerous_Choice	¿Se ha ido toda una guarnición? Solo somos cuatro.
-Narration/&Council_00_58_Dangerous_Carran01	Solo averigua lo que pasó. Vuelve corriendo si te asustas.
-Narration/&Council_00_42_Joker_Normal	Entiendo. Aunque esperábamos una primera misión con más riquezas que riesgos, si me entiendes.
-Narration/&Council_00_42_Joker_Slang	Te escuchamos. Para que lo sepas, nos gustaría empezar despacio. Significa más tesoro. Menos peligro.
+Narration/&Council_00_57_Dangerous_Choice	¿Se ha ido toda una guarnición? Nosotros solo somos cuatro.
+Narration/&Council_00_58_Dangerous_Carran01	Solo averiguad lo que pasó. Si te asustas, puedes salir corriendo.
+Narration/&Council_00_42_Joker_Normal	Entiendo. Aunque esperábamos una primera misión con más riquezas que riesgos, ya me entiendes.
+Narration/&Council_00_42_Joker_Slang	Entendido, pero en verdad nos gustaría ir más despacio, ya sabes, menos peligros, más tesoro.
 Narration/&Council_00_59_Carran_NPC	No puedes elegir tu misión, me temo.
-Narration/&Council_00_53_Carran_NPC	Así que reúna lo que necesite y vaya. El tiempo es la esencia.
-Narration/&Council_00_60_Marches_Choice	¡Esperar! Estas Marchas, no están en Badlands, ¿verdad?
+Narration/&Council_00_53_Carran_NPC	Reunid lo que necesitéis e iros. El tiempo apremia.
+Narration/&Council_00_60_Marches_Choice	¡Espera! Las Marcas, no están en Las Tierras Inhóspitas ¿verdad?
 Narration/&Council_00_61_Marches_Carran01	Las Marcas son tierra de nadie, entre el mundo civilizado y las Tierras Inhóspitas.
-Narration/&Council_00_62_Marches_Carran02	Está fuera de la cadena de montañas que realmente definen las Badlands.
-Narration/&Council_00_63_Marches_Carran03	No te enviaríamos allí… todavía.
+Narration/&Council_00_62_Marches_Carran02	Está fuera de la cadena montañosa que realmente definen Las Tierras Inhóspitas.
+Narration/&Council_00_63_Marches_Carran03	No os enviaríamos allí… todavía.
 Narration/&Council_00_64_Henrik_Choice	¿Qué puede decirnos sobre este capitán Henrik?
 Narration/&Council_00_65_Henrik_Carran01	Un buen oficial. Más de quince años en el ejército del Principado.
-Narration/&Council_00_66_Henrik_Carran02	Inspira confianza, lealtad y coraje, de ahí la decisión de enviarlo allí, enfrentando el peligro.
-Narration/&Council_00_54_Any_Default	Bien, supongo que eso es todo. Está en Caer Lem.
+Narration/&Council_00_66_Henrik_Carran02	Inspira confianza, lealtad y coraje. De ahí la decisión de enviarlo allí, enfrentando el peligro.
+Narration/&Council_00_54_Any_Default	Bien, supongo que eso es todo. Vamos a Caer Lem.
 Narration/&PotionsShop_Dialog_01_1_PotionShopOwner_NPC	¡Hola! ¿Como puedo ayudarte?
 Narration/&PotionsShop_Dialog_01_2_Any_WRITTEN	¿Qué vendes?
 Narration/&PotionsShop_Dialog_01_3_Any_WRITTEN	¿Podemos ver sus mercancías?
 Narration/&PotionsShop_Dialog_01_4_Any_Default	¿Qué vendes aquí?
 Narration/&PotionsShop_Dialog_01_5_PotionShopOwner_NPC	Sobre todo pociones, para heroicos aventureros como vosotros.
 Narration/&PotionsShop_Dialog_01_6_PotionShopOwner_NPC	También tengo recetas para clientes a los que les gusta elaborar las suyas propias.
-Narration/&PotionsShop_Dialog_01_7_PotionShopOwner_NPC	Y también ingredientes, incluso flores raras de Badlands.
+Narration/&PotionsShop_Dialog_01_7_PotionShopOwner_NPC	Y también ingredientes, incluso flores raras de Las Tierras Inhóspitas.
 Narration/&PotionsShop_Dialog_01_8_PotionShopOwner_NPC	Vuelve en cualquier momento, ¡casi siempre estoy abierto!
 Narration/&GeneralStore_Dialog_01_1_StoreOwner_NPC	¡Bienvenido al Emporio de Gorim!
 Narration/&GeneralStore_Dialog_01_2_Any_WRITTEN	¿Eres Gorim?
 Narration/&GeneralStore_Dialog_01_3_Any_WRITTEN	¿Qué vendes?
 Narration/&GeneralStore_Dialog_01_4_Any_WRITTEN	¿Podemos ver sus mercancías?
 Narration/&GeneralStore_Dialog_01_5_Any_Default	¿Eres Gorim?
-Narration/&GeneralStore_Dialog_01_6_StoreOwner_NPC	¡Ese soy yo! El único.
+Narration/&GeneralStore_Dialog_01_6_StoreOwner_NPC	¡Esa soy yo! La inigualable..
 Narration/&GeneralStore_Dialog_01_7_Any_Default	¿Qué tienes para vender?
-Narration/&GeneralStore_Dialog_01_8_StoreOwner_NPC	Todo lo que necesitas para salir a Badlands ...
-Narration/&GeneralStore_Dialog_01_9_StoreOwner_NPC	... comida, cuerdas, antorchas y, por supuesto, armaduras y armas.
-Narration/&GeneralStore_Dialog_01_10_StoreOwner_NPC	También tengo algunas otras acciones, como remedios y antitoxinas.
-Narration/&GeneralStore_Dialog_01_11_StoreOwner_NPC	Pueden ser útiles. ¿Has oído hablar de las arañas profundas?
+Narration/&GeneralStore_Dialog_01_8_StoreOwner_NPC	Todo lo que necesitas para salir a Las Tierras Inhóspitas
+Narration/&GeneralStore_Dialog_01_9_StoreOwner_NPC	comida, cuerdas, antorchas y, por supuesto, armas y armaduras.
+Narration/&GeneralStore_Dialog_01_10_StoreOwner_NPC	También tengo otros objetos, como remedios y antitoxinas.
+Narration/&GeneralStore_Dialog_01_11_StoreOwner_NPC	Pueden ser muy útiles. ¿Has oído hablar de las arañas gigantes?
 Narration/&Bartender_Dialog_01_1_Bartender_NPC	¡Hola aventureros!
-Narration/&Bartender_Dialog_01_2_Bartender_NPC	¿Que te puedo ofrecer?
+Narration/&Bartender_Dialog_01_2_Bartender_NPC	¿Que os puedo ofrecer?
 Narration/&Bartender_Dialog_01_3_Any_WRITTEN	Cuéntanos sobre este lugar.
 Narration/&Bartender_Dialog_01_4_Any_WRITTEN	Tu cerveza sabe mal.
 Narration/&Bartender_Dialog_01_5_Any_WRITTEN	Necesitamos una habitación.
 Narration/&Bartender_Dialog_01_5_1_Any_WRITTEN	Adiós.
 Narration/&Bartender_Dialog_01_5_1_Any	Deberíamos irnos.
-Narration/&Bartender_Dialog_01_6_Any_Default	Cuéntanos sobre tu taberna.
-Narration/&Bartender_Dialog_01_7_Bartender_NPC	¿La posada? Bueno, no es tan viejo, pero de alguna manera se siente como si hubiera estado aquí desde siempre.
+Narration/&Bartender_Dialog_01_6_Any_Default	Cuéntanos algo sobre tu taberna.
+Narration/&Bartender_Dialog_01_7_Bartender_NPC	¿La posada? Bueno, no es tan vieja, pero de alguna manera es como si hubiera estado aquí desde siempre.
 Narration/&Bartender_Dialog_01_8_Bartender_NPC	Aquí puedes conocer a todo tipo de personas, eso es lo bueno.
-Narration/&Bartender_Dialog_01_9_Bartender_NPC	Un viejo carroñero, un diplomático del Consejo, un caballero, un señor, un mendigo ...
+Narration/&Bartender_Dialog_01_9_Bartender_NPC	Un viejo Carroñero, un diplomático del Consejo, un caballero, un Lord, un mendigo...
 Narration/&Bartender_Dialog_01_10_Bartender_NPC	También disponemos de habitaciones para alquilar por la noche.
-Narration/&Bartender_Dialog_01_10_1_Any_Default	¿Por qué el nombre - Barrica de Gravekeep?
+Narration/&Bartender_Dialog_01_10_1_Any_Default	¿Por qué el nombre - Barrica del Sepulturero?
 Narration/&Bartender_Dialog_01_10_2_Bartender_NPC	Es muy antiguo, de la época imperial. Quizás un historiador lo sabría, pero yo no.
 Narration/&Bartender_Dialog_01_11_Any_Default	Tu cerveza es terrible, y eso es ser cortés al respecto.
 Narration/&Bartender_Dialog_01_12_Bartender_NPC	¿Qué? ¡Nunca antes había tenido quejas sobre la cerveza!
 Narration/&Bartender_Dialog_01_13_Bartender_NPC	Quizás tu paladar no sea lo suficientemente refinado.
 Narration/&Bartender_Dialog_01_14_Any_Default	Nos gustaría quedarnos a pasar la noche.
-Narration/&Bartender_Dialog_01_15_Bartender_NPC	¡Seguro! Simplemente camine hasta la suite y acomódese.
+Narration/&Bartender_Dialog_01_15_Bartender_NPC	¡Claro! Simplemente subid hasta la suite y poneros cómodos.
 Narration/&Bartender_Dialog_01_16_Any_Default	¿Una suite?
-Narration/&Bartender_Dialog_01_17_Bartender_NPC	Es más como un dormitorio grande, en realidad, pero ya sabes, esta es la ciudad capital.
-Narration/&Bartender_Dialog_01_NoMoneyToPay	Sin dinero, eh. Entonces no hay lugar.
+Narration/&Bartender_Dialog_01_17_Bartender_NPC	Bueno... en realidad es un dormitorio grande, pero ya sabes, esta es la ciudad capital.
+Narration/&Bartender_Dialog_01_NoMoneyToPay	Sin dinero, eh. Entonces no hay nada que hacer.
 Narration/&Scavengers_Generic_Hello	Cielos despejados, mis amigos.
 Narration/&Scavengers_Generic_Goodbye	Permanezcan en la luz, amigos míos.
-Narration/&Scavengers_Dialog_01_1_Quartermaster_NPC	Diputados? Una palabra, por favor.
-Narration/&Scavengers_Dialog_01_2_Joker_Default	¿Tan famoso ya? ¡Me encanta!
+Narration/&Scavengers_Dialog_01_1_Quartermaster_NPC	¿Diputados? Unas palabra, por favor.
+Narration/&Scavengers_Dialog_01_2_Joker_Default	¿Ya somos famosos?, me encanta.
 Narration/&Scavengers_Dialog_01_3_Any_Default	Tú también estabas ahí. ¿Eres miembro del Consejo?
-Narration/&Scavengers_Dialog_01_4_Quartermaster_NPC	Soy Annie Bagmordah, intendente del gremio de carroñeros.
-Narration/&Scavengers_Dialog_01_5_Quartermaster_NPC	No tenemos asiento ahí, pero ...
-Narration/&Scavengers_Dialog_01_6_Quartermaster_NPC	… Todos saben que explorar las Tierras Inhóspitas sin nosotros sería una mala idea.
-Narration/&Scavengers_Dialog_01_7_Quartermaster_NPC	Es por eso que debe pasar por nuestra sede en el centro.
-Narration/&Scavengers_Dialog_01_8_Quartermaster_NPC	Necesitará nuestros servicios, estoy seguro.
+Narration/&Scavengers_Dialog_01_4_Quartermaster_NPC	Soy Annie Bagmordah, intendente del gremio de Carroñeros.
+Narration/&Scavengers_Dialog_01_5_Quartermaster_NPC	No tenemos un asiento ahí, pero
+Narration/&Scavengers_Dialog_01_6_Quartermaster_NPC	todos saben que explorar las Tierras Inhóspitas sin nosotros sería una mala idea.
+Narration/&Scavengers_Dialog_01_7_Quartermaster_NPC	Es por eso que debéis pasar por nuestra sede en el centro.
+Narration/&Scavengers_Dialog_01_8_Quartermaster_NPC	Necesitaréis nuestros servicios, estoy segura de ello.
 Narration/&Scavengers_Dialog_01_9_Any_Default	¿Es eso ... obligatorio?
-Narration/&Scavengers_Dialog_01_10_Quartermaster_NPC	No, pero nuestros servicios le resultarán útiles. Todos lo hacen.
-Narration/&Scavengers_Dialog_01_11_Quartermaster_NPC	¿Lord Carran no te lo dijo?
+Narration/&Scavengers_Dialog_01_10_Quartermaster_NPC	No, pero nuestros servicios os resultarán útiles. Como a todos.
+Narration/&Scavengers_Dialog_01_11_Quartermaster_NPC	¿Lord Carran no os lo dijo?
 Narration/&Scavengers_Dialog_01_12_Any_Default	No, prácticamente se limitó a dar órdenes.
-Narration/&Scavengers_Dialog_01_13_Quartermaster_NPC	Ah bien. De todos modos, ofrecemos mucha ayuda y consejos a principiantes como tú.
-Narration/&Scavengers_Dialog_01_14_Joker_Default	Somos adultos, ya sabes. Al menos, la mayoría de nosotros lo somos.
-Narration/&Scavengers_Dialog_01_15_Quartermaster_NPC	Por supuesto que lo eres. ¡Bueno, buena suerte!
-Narration/&Scavengers_Dialog_01_16_Lowlife_Default	Al menos ella no es otra dama o algo así.
-Narration/&Scavengers_Dialog_01_17_Lawkeeper_Default	Carroñeros, ¿eh? Nunca supe si eran legítimos o no.
-Narration/&Scavengers_Dialog_01_18_Sellsword_Default	Son duros, estos carroñeros. Audaz.
+Narration/&Scavengers_Dialog_01_13_Quartermaster_NPC	Ah bien. De todos modos, ofrecemos mucha ayuda y consejos a principiantes como vosotros.
+Narration/&Scavengers_Dialog_01_14_Joker_Default	Somos adultos ¿sabes?. Al menos, la mayoría de nosotros lo somos.
+Narration/&Scavengers_Dialog_01_15_Quartermaster_NPC	Por supuesto que lo eres. ¡Bueno, buena suerte entonces!
+Narration/&Scavengers_Dialog_01_16_Lowlife_Default	Al menos ella no parece ser otra dama o algo así.
+Narration/&Scavengers_Dialog_01_17_Lawkeeper_Default	Carroñeros, ¿eh? Nunca supe si eran de fiar o no.
+Narration/&Scavengers_Dialog_01_18_Sellsword_Default	Son duros estos Carroñeros. Sin miedo.
 Narration/&Scavengers_Dialog_01_19_Highclass_Default	¿Invitar a mendigos al Consejo? Qué peculiar.
 Narration/&Scavengers_Dialog_01_20_Acolyte_Default	Prefiero visitar el templo, honestamente.
-Narration/&Scavengers_Dialog_01_21_Nosy_Default	¡Los carroñeros! Ya han visto tantas cosas: ¡los primeros exploradores del antiguo imperio!
-Narration/&Scavengers_Dialog_01_22_Authority_Default	¿Entonces, qué piensas? ¿Deberíamos comprobar su sede?
-Narration/&Scavengers_Dialog_01_23_Pragmatism_Default	No está lejos, pero ...
-Narration/&Scavengers_Dialog_01_24_Violence_Default	Ya he hablado bastante, ¡vamos a matar algunos monstruos!
-Narration/&Scavengers_Dialog_01_25_Greed_Default	Si hay negocios que hacer, ¡no podemos permitirnos no hacerlo!
-Narration/&Scavengers_Dialog_02_1_Quartermaster_NPC	¡Ah, viniste!
-Narration/&Scavengers_Dialog_02_2_Any_Default	Picaste nuestra curiosidad. Entonces, ¿qué es exactamente lo que tienes que ofrecer?
-Narration/&Scavengers_Dialog_02_3_Quartermaster_NPC	No sabes Tsk.
+Narration/&Scavengers_Dialog_01_21_Nosy_Default	Los Carroñeros estoy seguro de que han visto muchas cosas, fueron los primeros exploradores del antiguo imperio.
+Narration/&Scavengers_Dialog_01_22_Authority_Default	¿Entonces, qué piensáis? ¿Deberíamos ir su sede?
+Narration/&Scavengers_Dialog_01_23_Pragmatism_Default	No está lejos, pero...
+Narration/&Scavengers_Dialog_01_24_Violence_Default	Ya hemos hablado bastante, ¡vamos a matar algunos monstruos!
+Narration/&Scavengers_Dialog_01_25_Greed_Default	Igual podría ser un buen negocio, no deberíamos dejarlo pasar.
+Narration/&Scavengers_Dialog_02_1_Quartermaster_NPC	¡Ah, finalmente habéis venido!
+Narration/&Scavengers_Dialog_02_2_Any_Default	Despertaste nuestra curiosidad, así que dinos, ¿Qué es lo que nos ofreces?
+Narration/&Scavengers_Dialog_02_3_Quartermaster_NPC	¿No sabes?... ¡tsk!
 Narration/&Scavengers_Dialog_02_4_Pragmatic_WRITTEN	¿Qué ayuda ofreces?
 Narration/&Scavengers_Dialog_02_5_NosyAuthority_WRITTEN	¿Conoce a Arwin Merton?
 Narration/&Scavengers_Dialog_02_6_Selfpres_WRITTEN	¿Vendes pociones curativas?
 Narration/&Scavengers_Dialog_02_6_Default_WRITTEN	Hasta luego.
-Narration/&Scavengers_Dialog_02_7_Pragmatic_Default	¿Qué tipo de ayuda ofrecen a personas como nosotros?
-Narration/&Scavengers_Dialog_02_8_Quartermaster_NPC	Sencillo. Ahora, las personas como tú suelen llevar a cabo misiones para el Consejo ...
-Narration/&Scavengers_Dialog_02_9_Quartermaster_NPC	… En las Marcas, incluso en las Tierras Inhóspitas. A veces lejos, como el capitán Merran.
-Narration/&Scavengers_Dialog_02_10_NosyAuthority_Default	¿Quién es el Capitán Merran?
-Narration/&Scavengers_Dialog_02_11_Quartermaster_NPC	Realmente debes ser nuevo. Ella es una de las suyas: Adjunta principal del Consejo.
-Narration/&Scavengers_Dialog_02_12_Quartermaster_NPC	De todos modos, viajas a alguna vieja ruina en las Tierras Inhóspitas, matas a un grupo de orcos ...
-Narration/&Scavengers_Dialog_02_13_Quartermaster_NPC	… Bueno, todavía estás un poco verde, digamos duendes.
-Narration/&Scavengers_Dialog_02_14_Joker_Default	¡Ay! ¡Estás hiriendo nuestros sentimientos!
+Narration/&Scavengers_Dialog_02_7_Pragmatic_Default	¿Qué tipo de ayuda ofrecéis a personas como nosotros?
+Narration/&Scavengers_Dialog_02_8_Quartermaster_NPC	Sencillo. Las personas como vosotros suelen llevar a cabo misiones para el Consejo..
+Narration/&Scavengers_Dialog_02_9_Quartermaster_NPC	en Las Marcas, incluso en las Tierras Inhóspitas. Y en ocasiones mas lejos aún, como la Capitana Merran.
+Narration/&Scavengers_Dialog_02_10_NosyAuthority_Default	¿Quién es la Capitana Merran?
+Narration/&Scavengers_Dialog_02_11_Quartermaster_NPC	Sí que sois nuevos…ella es una de los vuestros, es la Alta Representante del Consejo.
+Narration/&Scavengers_Dialog_02_12_Quartermaster_NPC	Igualmente, viajaréis a alguna vieja ruina de Las Tierras Inhóspitas a matar grupos de orcos…
+Narration/&Scavengers_Dialog_02_13_Quartermaster_NPC	bueno, igual estáis un poco verdes para eso, digamos mejor... goblins.
+Narration/&Scavengers_Dialog_02_14_Joker_Default	¡Auch! ¡Estás hiriendo nuestros sentimientos!
 Narration/&Scavengers_Dialog_02_15_Quartermaster_NPC	Los orcos herirán más que tus sentimientos, créeme.
-Narration/&Scavengers_Dialog_02_16_Quartermaster_NPC	¡Y deja de interrumpir! Es grosero.
-Narration/&Scavengers_Dialog_02_17_Quartermaster_NPC	Digamos que te encuentras con un montón de espadas oxidadas, armaduras de cuero, escudos ...
-Narration/&Scavengers_Dialog_02_18_Quartermaster_NPC	... demasiado para que lo traigas de vuelta aquí.
-Narration/&Scavengers_Dialog_02_19_Joker_Default	Oh, ¿entonces somos débiles además de verdes? ¡Muchas gracias!
-Narration/&Scavengers_Dialog_02_20_Quartermaster_NPC	Así que, en cambio, valientes héroes, limpien el lugar de los monstruos y dibujen un mapa bonito y limpio.
-Narration/&Scavengers_Dialog_02_21_Quartermaster_NPC	Luego tomamos nuestros carritos y recogemos cada pedazo de basura ...
-Narration/&Scavengers_Dialog_02_22_Quartermaster_NPC	… Lo traemos de vuelta, lo vendemos y dividimos las ganancias con usted.
-Narration/&Scavengers_Dialog_02_23_Quartermaster_NPC	Movemos las cosas, te vas a matar más cosas malas, todos ganan.
+Narration/&Scavengers_Dialog_02_16_Quartermaster_NPC	¡Y deja de interrumpir! Es algo grosero.
+Narration/&Scavengers_Dialog_02_17_Quartermaster_NPC	Supongamos que encuentras un montón de espadas oxidadas, armaduras de cuero, escudos...
+Narration/&Scavengers_Dialog_02_18_Quartermaster_NPC	demasiado equipo para que lo traigas de vuelta.
+Narration/&Scavengers_Dialog_02_19_Joker_Default	Oh, ¿entonces somos débiles además de novatos? ¡Muchas gracias!
+Narration/&Scavengers_Dialog_02_20_Quartermaster_NPC	Así que, valientes héroes, limpiad la zona de monstruos y dibujad un bonito mapa hasta el lugar.
+Narration/&Scavengers_Dialog_02_21_Quartermaster_NPC	Luego, iremos con nuestros carritos y recogemos la basura que hayáis dejado.
+Narration/&Scavengers_Dialog_02_22_Quartermaster_NPC	La traemos de vuelta, la vendemos y dividimos las ganancias con vosotros.
+Narration/&Scavengers_Dialog_02_23_Quartermaster_NPC	Recogemos las cosas, tú sigues matando cosas malas en otro lugar, y así, todos ganamos.
 Narration/&Scavengers_Dialog_02_24_Joker_Default	Por un porcentaje, por supuesto.
 Narration/&Scavengers_Dialog_02_25_Quartermaster_NPC	¿Qué? De todos modos, nunca podrías cargarlo todo.
-Narration/&Scavengers_Dialog_02_26_Quartermaster_NPC	No en tus pequeñas mochilas.
+Narration/&Scavengers_Dialog_02_26_Quartermaster_NPC	No en vuestras pequeñas mochilas.
 Narration/&Scavengers_Dialog_02_27_NosyAuthority_Default	¿Conoce a Arwin Merton, el llamado Primer Carroñero?
 Narration/&Scavengers_Dialog_02_28_Quartermaster_NPC	Por supuesto.
-Narration/&Scavengers_Dialog_02_29_NosyAuthority_Default	¿Eso es?
-Narration/&Scavengers_Dialog_02_30_Quartermaster_NPC	Merton ... es un tema doloroso para mí.
+Narration/&Scavengers_Dialog_02_29_NosyAuthority_Default	¿Quién era?
+Narration/&Scavengers_Dialog_02_30_Quartermaster_NPC	Merton... es un tema doloroso para mí.
 Narration/&Scavengers_Dialog_02_31_Quartermaster_NPC	Prefiero no hablar de él.
 Narration/&Scavengers_Dialog_02_32_Friendly_Default	Lo suficientemente justo.
 Narration/&Scavengers_Dialog_02_33_Selfpres_Default	¿Vendes pociones curativas?
 Narration/&Scavengers_Dialog_02_34_Quartermaster_NPC	No, no lo hacemos. Hay una tienda para eso.
 Narration/&Scavengers_Dialog_02_35_Quartermaster_NPC	Sin emabargo…
-Narration/&Scavengers_Dialog_02_36_Quartermaster_NPC	Tenemos algo aún mejor.
-Narration/&Scavengers_Dialog_02_37_Quartermaster_NPC	Digamos que uno de ustedes muere en Badlands.
-Narration/&Scavengers_Dialog_02_38_Joker_Default	Aquí vamos de nuevo…
-Narration/&Scavengers_Dialog_02_39_Quartermaster_NPC	Normalmente, tendrías que volver a toda prisa para que los críen.
-Narration/&Scavengers_Dialog_02_40_Quartermaster_NPC	En cambio, cuéntenos sobre su desgracia e iremos a buscar el cuerpo de su amigo.
-Narration/&Scavengers_Dialog_02_41_Quartermaster_NPC	Se lo llevamos a un clérigo que conocemos, ¡y alabado sea! Él resucita a tu amigo de entre los muertos.
+Narration/&Scavengers_Dialog_02_36_Quartermaster_NPC	tenemos algo aún mejor.
+Narration/&Scavengers_Dialog_02_37_Quartermaster_NPC	Digamos que uno de vosotros muere en Las Tierras Inhóspitas.
+Narration/&Scavengers_Dialog_02_38_Joker_Default	¡Oh no!... aquí va de nuevo.
+Narration/&Scavengers_Dialog_02_39_Quartermaster_NPC	Normalmente, tendrías que volver a toda prisa para traerlo de vuelta.
+Narration/&Scavengers_Dialog_02_40_Quartermaster_NPC	En cambio, si nos decís donde está, iremos nosotros a buscar a vuestro compañero.
+Narration/&Scavengers_Dialog_02_41_Quartermaster_NPC	Se lo llevamos a un clérigo de confianza y... ¡alabado sea! Resucitará a vuestro amigo de entre los muertos.
 Narration/&Scavengers_Dialog_02_42_Quartermaster_NPC	Es una tarifa fija y un precio muy razonable.
-Narration/&Scavengers_Dialog_02_43_Quartermaster_NPC	No es un tema cómodo, lo sé. Muere el pensamiento y así sucesivamente, pero sucede.
+Narration/&Scavengers_Dialog_02_43_Quartermaster_NPC	No es un tema cómodo, lo sé. Y no debemos pensar en ello, pero ocurre.
 Narration/&Scavengers_Dialog_02_44_Greed_Default	Eso no es barato, estoy seguro.
-Narration/&Scavengers_Dialog_02_45_Quartermaster_NPC	Bueno ... es arriesgado, y los clérigos necesitan piedras preciosas bonitas para estos hechizos ... pero ¿realmente puedes poner precio a la tranquilidad?
+Narration/&Scavengers_Dialog_02_45_Quartermaster_NPC	Bueno... es peligroso, y los clérigos necesitan piedras preciosas para estos hechizos... pero ¿realmente se puede poner precio a la tranquilidad?
 Narration/&Scavengers_Dialog_02_46_Authority_Default	Bueno, gracias. Supongo que eso es todo para nosotros.
-Narration/&Scavengers_Dialog_02_47_Quartermaster_NPC	Multa. No dude en visitarnos en cualquier momento. O acércate a cualquier campamento de carroñeros.
+Narration/&Scavengers_Dialog_02_47_Quartermaster_NPC	Bien. No dudéis en visitarnos en cualquier momento, o pasaros por cualquier campamento de los Carroneños.
 Narration/&Scavengers_Dialog_02_48_Nosy_Authority_Default	¿Hay otros?
-Narration/&Scavengers_Dialog_02_49_Quartermaster_NPC	En cualquier lugar donde podamos asentarnos.
-Narration/&Scavengers_Dialog_02_50_Quartermaster_NPC	Por cierto, si encuentra al capitán Henrik, dígale que todavía estamos interesados.
-Narration/&Scavengers_Dialog_02_51_Authority_Default	¿En que?
-Narration/&Scavengers_Dialog_02_52_Quartermaster_NPC	Para llevar a nuestra gente a Caer Lem.
-Narration/&Scavengers_Dialog_02_53_Quartermaster_NPC	El puesto de avanzada es perfecto para nosotros. Cerca de Badlands, con mucho espacio para nuestro campamento.
-Narration/&Scavengers_Dialog_02_54_Authority_Default	Bien, le diremos si lo encontramos.
-Narration/&Scavengers_Dialog_02_55_Quartermaster_NPC	Eso se agradecería.
+Narration/&Scavengers_Dialog_02_49_Quartermaster_NPC	Estamos en cualquier lugar donde podamos asentarnos.
+Narration/&Scavengers_Dialog_02_50_Quartermaster_NPC	Por cierto, si encontráis al capitán Henrik, decidle que todavía estamos interesados.
+Narration/&Scavengers_Dialog_02_51_Authority_Default	¿En qué?
+Narration/&Scavengers_Dialog_02_52_Quartermaster_NPC	En llevar a nuestra gente a Caer Lem.
+Narration/&Scavengers_Dialog_02_53_Quartermaster_NPC	El puesto de avanzada es perfecto para nosotros. Cerca de Las Tierras Inhóspitas y con mucho espacio para nuestro campamento.
+Narration/&Scavengers_Dialog_02_54_Authority_Default	Bien, se lo diremos si lo encontramos.
+Narration/&Scavengers_Dialog_02_55_Quartermaster_NPC	Sería de agradecer.
 Narration/&Scavengers_Dialog_02_56_Quartermaster_NPC	Cuanto más hagas por nosotros, más haremos nosotros por ti.
-Narration/&Scavengers_Dialog_02_57_Greed_Default	¿Oh? Entonces, ¿esta… relación comercial puede mejorar?
+Narration/&Scavengers_Dialog_02_57_Greed_Default	¡Oh! ¿así que esta relación comercial puede mejorar?
 Narration/&Scavengers_Dialog_02_58_Quartermaster_NPC	Y espero que así sea, amigo.
-Narration/&Scavengers_Dialog_02_59_Any_Default	Supongo que nos veremos entonces.
-Narration/&Scavengers_Dialog_02_60_Quartermaster_NPC	Seguro. Buena suerte ahí fuera, y no lo olvides: en Badlands, mantén siempre los ojos abiertos.
-Narration/&CaerLem_Arrival1_Starter_Noflag	¿Entonces ese es Caer Lem?
-Narration/&CaerLem_Arrival2_Partner_Noflag	Ya casi llegamos ... está arriba de la colina.
-Narration/&CaerLem_Arrival3_SelfPres_Noflag	Es un poco demasiado silencioso, ¿no crees?
-Narration/&CaerLem_Arrival4_Pragmatism_Slang	Estamos en las Marcas, así que no se puede confiar en la tranquilidad.
+Narration/&Scavengers_Dialog_02_59_Any_Default	Supongo que nos veremos.
+Narration/&Scavengers_Dialog_02_60_Quartermaster_NPC	Seguro que si. Buena suerte ahí fuera y recordad, mantened los ojos bien abiertos en Las Tierras Inhóspitas.
+Narration/&CaerLem_Arrival1_Starter_Noflag	¿Así que esto es Caer Lem?
+Narration/&CaerLem_Arrival2_Partner_Noflag	Casi hemos llegado... está arriba, en la colina.
+Narration/&CaerLem_Arrival3_SelfPres_Noflag	Hay mucho silencio ¿no crees?
+Narration/&CaerLem_Arrival4_Pragmatism_Slang	Estamos en Las Marcas, así que no se puede confiar en la tranquilidad.
 Narration/&CaerLem_Arrival5_SelfPres_Normal	Cierto. Mantengamos los ojos abiertos.
 Narration/&CaerLem_Arrival6_SelfPres_Formal	Muy bien. Debemos estar en guardia.
-Narration/&CaerLem_Arrival7_Authority_Normal	Ojos arriba y manos en las empuñaduras, gente. Estas son las Marchas.
-Narration/&CaerLem_Arrival8_Authority_Formal	¡Mantengan la formación, todos! Las Marcas están llenas de peligros.
-Narration/&CaerLem_Arrival9_Selfish_Cynical_Normal	¿Quién te puso a cargo?
-Narration/&CaerLem_Arrival10_Selfish_Cynical_Slang	No juegues al capitán conmigo.
-Narration/&CaerLem_Arrival11_Authority_Normal	Solo digo, prepárate para cualquier cosa.
-Narration/&CaerLem_Arrival12_Authority_Formal	Simplemente una sugerencia. No quise ofender.
-Narration/&CaerLem_Arrival13_Default_Slang	Toda la razón. Sigamos con eso.
+Narration/&CaerLem_Arrival7_Authority_Normal	Ojos abiertos y manos en las empuñaduras, gente. Estas son Las Marchas.
+Narration/&CaerLem_Arrival8_Authority_Formal	¡Mantened la formación! Las Marcas están llenas de peligros.
+Narration/&CaerLem_Arrival9_Selfish_Cynical_Normal	¿Quién te puso a ti al cargo?
+Narration/&CaerLem_Arrival10_Selfish_Cynical_Slang	Ya, no te hagas el capitán/a conmigo.
+Narration/&CaerLem_Arrival11_Authority_Normal	Sólo digo, que te prepares para cualquier cosa.
+Narration/&CaerLem_Arrival12_Authority_Formal	Era solo una sugerencia. No quería ofenderte.
+Narration/&CaerLem_Arrival13_Default_Slang	Tienes razón, sigamos.
 Narration/&CaerLem_Arrival14_Default_Normal	Está bien. Sigamos adelante.
 Narration/&CaerLem_Arrival15_Default_Formal	Acordado. Deberíamos seguir adelante.
 Narration/&CaerLem_Entrance16_Default_Noflag	Tengo un mal presentimiento sobre esto.
-Narration/&CaerLem_Entrance17_Partner_Slang	¿Dónde está la guarnición? ¿Muerto o huido?
+Narration/&CaerLem_Entrance17_Partner_Slang	¿Dónde está la guarnición? ¿Muertos o han huido?
 Narration/&CaerLem_Entrance18_Partner_Normal	No hay nadie aquí. Ni siquiera cadáveres.
-Narration/&CaerLem_Entrance19_Default_Noflag	¡Mirar! Esa torre ... ¡eso es una locura!
-Narration/&CaerLem_Entrance20_NOSY_Noflag	¡Increíble! Arquitectura clásica de Tirmar ... Leí sobre eso, ya sabes.
-Narration/&CaerLem_Entrance21_NOSY_Noflag	Simplemente terminó aquí después del Cataclismo ... ¡increíble!
-Narration/&CaerLem_Entrance22_LUKEWARM_Slang	Cortesía del Cataclysm.
-Narration/&CaerLem_Entrance23_LUKEWARM_Slang	Las Marcas están llenas de cosas como esta. Las Badlands son peores.
-Narration/&CaerLem_Entrance24_Cynic_Normal	Nunca vi una torre atrapada en una montaña como esa.
-Narration/&CaerLem_Entrance25_Default_Normal	Aún no estamos en Badlands, pero esa es una buena introducción.
-Narration/&CaerLem_Entrance26_Authority_law_Noflag	De todos modos, tenemos una misión. Revisemos las fortificaciones.
+Narration/&CaerLem_Entrance19_Default_Noflag	¡Mirad esa torre... esto es una locura!
+Narration/&CaerLem_Entrance20_NOSY_Noflag	¡Increíble! Arquitectura clásica de Tirmar... leí algo sobre eso, ya sabes.
+Narration/&CaerLem_Entrance21_NOSY_Noflag	Simplemente terminó aquí después del Cataclismo... ¡increíble!
+Narration/&CaerLem_Entrance22_LUKEWARM_Slang	Cortesía del Cataclismo.
+Narration/&CaerLem_Entrance23_LUKEWARM_Slang	Las Marcas están llenas de cosas como esta. Las Tierras Inhóspitas son peores.
+Narration/&CaerLem_Entrance24_Cynic_Normal	Nunca vi una torre atrapada en una montaña.
+Narration/&CaerLem_Entrance25_Default_Normal	Aún no estamos en Las Tierras Inhóspitas, pero es un un buen adelanto.
+Narration/&CaerLem_Entrance26_Authority_law_Noflag	En cualquier caso, tenemos una misión. Revisemos la fortaleza.
 Narration/&CaerLem_InspectBattlefield1_Cynical_Formal	Bueno, eso no es una buena señal.
-Narration/&CaerLem_InspectBattlefield2_Cynical_Normal	¿Esto nos dice algo que no sepamos ya?
+Narration/&CaerLem_InspectBattlefield2_Cynical_Normal	¿Nos dice esto algo que no sepamos ya?
 Narration/&CaerLem_InspectBattlefield3_Pragmatic_Normal	La sangre no es tan fresca, pero incluso los buitres habrían dejado algunos huesos.
-Narration/&CaerLem_InspectBattlefield4_Pragmatic_Formal	Hay suficiente sangre aquí para sugerir que toda la guarnición fue masacrada.
-Narration/&CaerLem_InspectBattlefield5_Any_Normal	Tal vez fueron los duendes ... se llevaron a los soldados y ... ¿se los comieron?
-Narration/&CaerLem_InspectBattlefield6_Pragmatic_Normal	Esos goblins eran sólo un puñado ... Una guarnición de cincuenta hombres los habría hecho picadillo.
-Narration/&CaerLem_InspectBattlefield7_Any_Normal	Bueno, entonces se me acabaron las ideas. Sigamos mirando alrededor.
+Narration/&CaerLem_InspectBattlefield4_Pragmatic_Formal	Hay suficiente sangre aquí para pensar que toda la guarnición fue masacrada.
+Narration/&CaerLem_InspectBattlefield5_Any_Normal	Quizás fueron los goblins... se llevaron a los soldados y... ¿se los comieron?
+Narration/&CaerLem_InspectBattlefield6_Pragmatic_Normal	Esos goblins eran sólo un puñado... una guarnición de cincuenta soldados los habría hecho picadillo.
+Narration/&CaerLem_InspectBattlefield7_Any_Normal	Bueno, entonces, me he quedado sin ideas. Sigamos buscando por los alrededores.
 Narration/&CaerLem_Inside27_Pragmatism_Noflag	Definitivamente ha habido peleas aquí.
-Narration/&CaerLem_Inside28_cynicWISECRACKER_Noflag	¿Por qué volvimos a aceptar este trabajo? Oh, sí ... estas adorables insignias del Consejo.
-Narration/&CaerLem_Inside29_cynicWISECRACKER_Formal	¿No hay nadie aquí para recibirnos? ¡Qué grosero! Esperaba beber, al menos.
-Narration/&CaerLem_Inside30_Authority_React	No es momento para bromas.
-Narration/&CaerLem_Inside31_Selfpres_Noflag	Derecha. Quienquiera que haya hecho esto todavía podría estar cerca, y no queremos que nos escuchen.
-Narration/&CaerLem_Inside32_Helpful_Noflag	Deberíamos buscar supervivientes. Cincuenta personas no pueden simplemente desaparecer.
-Narration/&CaerLem_Seenthem33_Starter_Normal	¿Viste eso?
-Narration/&CaerLem_Seenthem34_Starter_Slang	¿Que diablos fue eso?
+Narration/&CaerLem_Inside28_cynicWISECRACKER_Noflag	¿Por qué decidimos aceptar este trabajo? Oh, sí... estas adorables insignias del Consejo.
+Narration/&CaerLem_Inside29_cynicWISECRACKER_Formal	¿No hay nadie aquí para recibirnos? ¡Qué grosero! Esperaba que hubiera bebidas por lo menos.
+Narration/&CaerLem_Inside30_Authority_React	No es momento de bromas.
+Narration/&CaerLem_Inside31_Selfpres_Noflag	Cierto. Quienquiera que haya hecho esto podría estar todavía por aquí, y no queremos que nos oiga.
+Narration/&CaerLem_Inside32_Helpful_Noflag	Deberíamos buscar supervivientes. Cincuenta personas no pueden desaparecer sin más.
+Narration/&CaerLem_Seenthem33_Starter_Normal	¿Habéis visto eso?
+Narration/&CaerLem_Seenthem34_Starter_Slang	¿Qué demonios ha sido eso?
 Narration/&CaerLem_Seenthem35_Partner_Default	Alguien se esconde dentro de la torre.
-Narration/&CaerLem_Seenthem36_Self_Pres_Default	¡Es una trampa! Los goblins mataron a todos, ¡y ahora es nuestro turno!
-Narration/&CaerLem_Seenthem37_Helpful_Default	O son los supervivientes y están siendo cautelosos.
-Narration/&CaerLem_Seenthem38_Pragmatism_Default	Necesitamos llegar hasta esa puerta.
-Narration/&CaerLem_Seenthem39_Selfpres_Default	Eso no será fácil. Estas paredes se están cayendo a pedazos.
-Narration/&CaerLem_Seenthem40_Violence_Default	Si mataron a la guarnición, ¡pagarán!
-Narration/&CaerLem_Seenthem41_Beryl_NPC	¡Apártate! ¡No más cerca!
+Narration/&CaerLem_Seenthem36_Self_Pres_Default	¡Es una trampa! los goblins han matado a todos, ¡y ahora nos toca a nosotros!
+Narration/&CaerLem_Seenthem37_Helpful_Default	O son los supervivientes, y están siendo cautelosos.
+Narration/&CaerLem_Seenthem38_Pragmatism_Default	Tenemos que llegar hasta esa puerta.
+Narration/&CaerLem_Seenthem39_Selfpres_Default	No será fácil. Estas paredes se están cayendo a pedazos.
+Narration/&CaerLem_Seenthem40_Violence_Default	¡Si han matado a la guarnición, lo pagarán!
+Narration/&CaerLem_Seenthem41_Beryl_NPC	¡Atrás! No os acerquéis.
 Narration/&CaerLem_Seenthem42_Starter_Default	¿Quién está ahí?
-Narration/&CaerLem_Seenthem43_Robar_NPC	¡No te dejamos entrar!
+Narration/&CaerLem_Seenthem43_Robar_NPC	¡No os vamos a dejar entrar!
 Narration/&CaerLem_Seenthem44_Beryl_NPC	¡Y no vamos a salir!
-Narration/&CaerLem_Seenthem47_Starter_Default	¿Está el capitán Henrik allí? ¡Necesitamos hablar con él!
-Narration/&CaerLem_Seenthem48_Beryl_NPC	¡No te atrevas a pronunciar su nombre, asqueroso bastardo!
-Narration/&CaerLem_Seenthem49_Robar_NPC	¡No les hables!
+Narration/&CaerLem_Seenthem47_Starter_Default	¿Está el capitán Henrik ahí? ¡Necesitamos hablar con él!
+Narration/&CaerLem_Seenthem48_Beryl_NPC	¡No te atrevas a decir su nombre, asqueroso bastardo!
+Narration/&CaerLem_Seenthem49_Robar_NPC	¡No hables con ellos!
 Narration/&CaerLem_Seenthem50_Lisbath_NPC	¡Te lanzarán un hechizo!
 Narration/&CaerLem_Seenthem51_Beryl_NPC	¡No me toques!
-Narration/&CaerLem_Seenthem52_Pragmatism_Normal	¿Hay algo que no está bien ahí, o soy solo yo?
-Narration/&CaerLem_Seenthem53_Pragmatism_Slang	Todos perdieron la cabeza.
-Narration/&CaerLem_Seenthem54_Pragmatism_Formal	Claramente, su angustiosa experiencia ha afectado su razón.
-Narration/&CaerLem_Seenthem55_Joker_Normal	Maldito bastardo '. ¿Deberíamos escribir eso en nuestro informe?
-Narration/&CaerLem_Seenthem56_Joker_Slang	Entonces ese es nuestro informe: todos se han vuelto locos. Misterio resuelto.
-Narration/&CaerLem_Nego78_Practical_Default	Vayamos a la puerta. Tal vez si pudieran vernos de cerca ...
-Narration/&CaerLem_Nego79_Practical_Default	... podemos mostrarles nuestras insignias del Consejo.
-Narration/&CaerLem_Nego1_Robar_NPC	¡Ellos estan aqui!
-Narration/&CaerLem_Nego2_Beryl_NPC	¡Maldito Soraks!
+Narration/&CaerLem_Seenthem52_Pragmatism_Normal	¿Soy el único que piensa que está pasando algo ahí dentro?.
+Narration/&CaerLem_Seenthem53_Pragmatism_Slang	Han perdido la cabeza, todos.
+Narration/&CaerLem_Seenthem54_Pragmatism_Formal	Está claro que su angustiosa experiencia ha afectado a su razón.
+Narration/&CaerLem_Seenthem55_Joker_Normal	"Asqueroso bastardo". ¿Deberíamos apuntarlo en nuestro informe?
+Narration/&CaerLem_Seenthem56_Joker_Slang	Éste es nuestro informe, por tanto: se han vuelto todos locos. Misterio resuelto.
+Narration/&CaerLem_Nego78_Practical_Default	Vamos a la puerta. Quizá si nos ven de más cerca... 
+Narration/&CaerLem_Nego79_Practical_Default	podamos mostrarles nuestras insignias del Consejo.
+Narration/&CaerLem_Nego1_Robar_NPC	¡Están aquí!
+Narration/&CaerLem_Nego2_Beryl_NPC	¡Malditos Soraks!
 Narration/&CaerLem_Nego3_Starter_Default	¿Soraks?
-Narration/&CaerLem_Nego4_Partner_Default	¿Dijeron Soraks?
-Narration/&CaerLem_Nego5_Starter_Slang	Ooh, lo vieron ... ¡somos cambiaformas de otro mundo! Supongo que ahora tendremos que irnos a casa.
-Narration/&CaerLem_Nego6_Starter_Normal	¡No puedes hablar en serio! Los soraks son una leyenda para asustar a los niños.
-Narration/&CaerLem_Nego7_Beryl_NPC	¡Bastardos se llevaron al Capitán, pero no nos llevarán a nosotros!
-Narration/&CaerLem_Nego8_Robar_NPC	¡No les hables!
+Narration/&CaerLem_Nego4_Partner_Default	¿Han dicho Soraks?
+Narration/&CaerLem_Nego5_Starter_Slang	Ooh, lo han visto... ¡somos cambiaformas de otro mundo! Supongo que ahora tendremos que volver a casa.
+Narration/&CaerLem_Nego6_Starter_Normal	¡No puede hablar en serio! Los Soraks son una leyenda para asustar a los niños.
+Narration/&CaerLem_Nego7_Beryl_NPC	¡Bastardos, os habéis llevado al Capitán, pero no nos llevaréis a nosotros!
+Narration/&CaerLem_Nego8_Robar_NPC	¡No hables con ellos!
 Narration/&CaerLem_Nego9_Choice_1_WRITTEN	¡Somos diputados del Consejo!
-Narration/&CaerLem_Nego10_Choice_2_WRITTEN	Usar frase de llamada espía
-Narration/&CaerLem_Nego11_Choice_3_WRITTEN	Usa la experiencia de mercenario
-Narration/&CaerLem_Nego12_Choice_4_WRITTEN	¡Sé razonable!
+Narration/&CaerLem_Nego10_Choice_2_WRITTEN	Usar una frase de espía
+Narration/&CaerLem_Nego11_Choice_3_WRITTEN	Usar la experiencia de mercenario
+Narration/&CaerLem_Nego12_Choice_4_WRITTEN	¡Ser razonable!
 Narration/&CaerLem_Nego13_Authority_Normal	¡Somos diputados del Consejo, enviados por la protectora Leira Kean!
-Narration/&CaerLem_Nego14_Beryl_FailedCheck	Encantado de conocerte… Soy la Princesa Ceiwad. ¡Piérdase!
+Narration/&CaerLem_Nego14_Beryl_FailedCheck	Encantada de conocerte… soy la Princesa Ceiwad. ¡Piérdete!
 Narration/&CaerLem_Nego15_Lisbath_FailedCheck	Abre la maldita puerta, solo quedan cuatro.
 Narration/&CaerLem_Nego16_Robar_SuccessCheck	Tienen insignias del Consejo.
-Narration/&CaerLem_Nego17_Beryl_SuccessCheck	Seguro. ¡Por supuesto que lo hacen! ¿Saqueado de los cadáveres de quién?
-Narration/&CaerLem_Nego18_Spy_Default	Entonces, durmiendo en las camas del Manacalon, ¿verdad?
+Narration/&CaerLem_Nego17_Beryl_SuccessCheck	Claro que sí. ¿Robadas de los cadáveres de quién?
+Narration/&CaerLem_Nego18_Spy_Default	Así que, durmiendo en las camas del Manacalon, ¿verdad?
 Narration/&CaerLem_Nego19_Beryl_NPC	¿Qué?
-Narration/&CaerLem_Nego20_Defaulter_Default	¿Qué fue eso?
-Narration/&CaerLem_Nego21_Spy_Default	Solo pescando. Dale un momento.
+Narration/&CaerLem_Nego20_Defaulter_Default	¿Qué ha sido eso?
+Narration/&CaerLem_Nego21_Spy_Default	Sólo estaba pescando. Dale un momento.
 Narration/&CaerLem_Nego22_Darik_NPC	Las almohadas mágicas nos dan dulces sueños.
-Narration/&CaerLem_Nego24_Sellsword_Default	Sé cómo te sientes ... luché en Sandreed. Perdí muchos buenos amigos allí.
-Narration/&CaerLem_Nego25_Robar_NPC	Sandreed, ¿eh? Cual unidad
-Narration/&CaerLem_Nego26_Beryl_NPC	¿Qué pasó con "no hables con ellos"?
-Narration/&CaerLem_Nego27_Sellsword_Default	Las Espadas Largas, bajo Lord Dalmore.
-Narration/&CaerLem_Nego28_Sellsword_Default	Murió al tercer día ... flecha en el ojo.
-Narration/&CaerLem_Nego29_Sellsword_Default	Jonas Mills fue el verdadero líder ... luchó hasta el final.
-Narration/&CaerLem_Nego30_Robar_NPC	Abre ... no son Soraks.
-Narration/&CaerLem_Nego31_Defaulter_Default	Sea razonable y abra la puerta. ¡Somos amistosos!
+Narration/&CaerLem_Nego24_Sellsword_Default	Sé cómo te sientes... yo luché en Sandreed. Perdí muchos buenos amigos allí.
+Narration/&CaerLem_Nego25_Robar_NPC	Sandreed, ¿eh? ¿en que unidad?.
+Narration/&CaerLem_Nego26_Beryl_NPC	¿Qué ha sido del "no hables con ellos"?
+Narration/&CaerLem_Nego27_Sellsword_Default	Las Espadas Largas, bajo el mando de Lord Dalmore.
+Narration/&CaerLem_Nego28_Sellsword_Default	Murió al tercer día... una flecha en el ojo.
+Narration/&CaerLem_Nego29_Sellsword_Default	Jonas Mills fue el verdadero líder... luchó hasta el amargo final.
+Narration/&CaerLem_Nego30_Robar_NPC	Abre... no son Soraks.
+Narration/&CaerLem_Nego31_Defaulter_Default	Sé razonable y abre la puerta. ¡Somos amigos!
 Narration/&CaerLem_Nego32_Beryl_NPC	Exactamente lo que diría un Sorak.
-Narration/&CaerLem_Nego33_Defaulter_Default	¡Vamos! Sólo somos cuatro ... Apunta con ballestas si quieres.
-Narration/&CaerLem_Nego34_Lisbath_NPC	¡Vamos a hacer eso! Gente ... ballestas preparadas.
-Narration/&CaerLem_Nego35_Robar_NPC	Bien por mi. Daliat, abre la puerta.
-Narration/&CaerLem_Nego36_Beryl_NPC	¡No! ¡Dije que no!
-Narration/&CaerLem_Nego37_Robar_NPC	Cierre la puerta.
+Narration/&CaerLem_Nego33_Defaulter_Default	¡Vamos! Sólo somos cuatro... apúntanos con las ballestas si quieres.
+Narration/&CaerLem_Nego34_Lisbath_NPC	¡Eso es lo que haremos! gente... ballestas listas.
+Narration/&CaerLem_Nego35_Robar_NPC	Me parece bien. Daliat, abre la puerta.
+Narration/&CaerLem_Nego36_Beryl_NPC	¡No! ¡He dicho que no!
+Narration/&CaerLem_Nego37_Robar_NPC	Cierra la puerta.
 Narration/&CaerLem_Nego38_Starter_Default	Gracias por dejarnos entrar.
-Narration/&CaerLem_Nego39_Beryl_NPC	No me agradezcas.
-Narration/&CaerLem_Nego40_Starter_WRITTEN	¿Eres el oficial?
-Narration/&CaerLem_Nego43_CynicPrag_WRITTEN	¿Pensaste que éramos Soraks?
+Narration/&CaerLem_Nego39_Beryl_NPC	No me des las gracias.
+Narration/&CaerLem_Nego40_Starter_WRITTEN	¿Es usted el oficial?
+Narration/&CaerLem_Nego43_CynicPrag_WRITTEN	¿Creías que éramos Soraks?
 Narration/&CaerLem_Nego58_Starter_WRITTEN	¿Podemos hablar con los demás?
-Narration/&CaerLem_Nego40_Starter_Default	¿Estás a cargo aquí?
+Narration/&CaerLem_Nego40_Starter_Default	¿Estás al mando aquí?
 Narration/&CaerLem_Nego41_Beryl_NPC	Teniente Beryl Stonebeard.
-Narration/&CaerLem_Nego42_Beryl_NPC	Segundo al mando ... Después del capitán Henrik.
-Narration/&CaerLem_Nego43_CynicPrag_Default	Entonces, ¿realmente crees que fuiste atacado por Soraks?
-Narration/&CaerLem_Nego44_Beryl_NPC	¿Lagartos del tamaño de un hombre que pueden hablar?
-Narration/&CaerLem_Nego45_Beryl_NPC	Oh, sí ... son reales.
-Narration/&CaerLem_Nego46_Starter_NPC	Pero no encontramos cadáveres ... nada.
-Narration/&CaerLem_Nego47_Beryl_NPC	Sabemos. Se llevaron todos los cuerpos, el nuestro y el de ellos.
-Narration/&CaerLem_Nego48_Beryl_NPC	Entonces nadie puede probar que existen.
-Narration/&CaerLem_Nego49_Pragmatic_WRITTEN	Eso es incómodo.
+Narration/&CaerLem_Nego42_Beryl_NPC	Segundo al mando... después del capitán Henrik.
+Narration/&CaerLem_Nego43_CynicPrag_Default	¿Así que realmente crees que fuisteis atacados por Soraks?
+Narration/&CaerLem_Nego44_Beryl_NPC	¿Lagartijas del tamaño de un hombre que pueden hablar? 
+Narration/&CaerLem_Nego45_Beryl_NPC	Oh, sí... son reales.
+Narration/&CaerLem_Nego46_Starter_NPC	Pero no hemos encontrado ningún cadáver... nada.
+Narration/&CaerLem_Nego47_Beryl_NPC	Lo sabemos. Se llevaron todos los cuerpos, los nuestros y los suyos.
+Narration/&CaerLem_Nego48_Beryl_NPC	Así nadie puede probar que existen.
+Narration/&CaerLem_Nego49_Pragmatic_WRITTEN	Eso es extraño.
 Narration/&CaerLem_Nego50_Pragmatic_WRITTEN	Eso es difícil de creer.
-Narration/&CaerLem_Nego51_Pragmatic_WRITTEN	Eso es basura.
-Narration/&CaerLem_Nego49_Pragmatic_Normal	No hay pruebas ... eso es un poco incómodo.
-Narration/&CaerLem_Nego50_Pragmatic_Formal	¿Te das cuenta, por supuesto, de lo improbable que suena eso?
-Narration/&CaerLem_Nego51_Pragmatic_Slang	Por supuesto que lo hicieron ... solo para hacerte parecer loco.
+Narration/&CaerLem_Nego51_Pragmatic_WRITTEN	Eso es mentira.
+Narration/&CaerLem_Nego49_Pragmatic_Normal	No hay pruebas... eso es un poco extraño.
+Narration/&CaerLem_Nego50_Pragmatic_Formal	¿Te das cuenta de lo extraño que suena eso?
+Narration/&CaerLem_Nego51_Pragmatic_Slang	Claro que sí... sólo para hacer que parezcas una loca.
 Narration/&CaerLem_Nego52_Beryl_NPC	No te reirás cuando vuelvan.
 Narration/&CaerLem_Nego53_Default_Default	Llegamos aquí sin problemas.
-Narration/&CaerLem_Nego54_Beryl_NPC	Luego te dejaron entrar ... y ahora estás atrapado con nosotros.
+Narration/&CaerLem_Nego54_Beryl_NPC	Entonces te dejaron entrar... y ahora estáis atrapados con nosotros.
 Narration/&CaerLem_Nego55_Starter_Default	¿Por qué harían eso?
-Narration/&CaerLem_Nego56_Beryl_NPC	¿Cómo debería saberlo? ¡Son Soraks!
+Narration/&CaerLem_Nego56_Beryl_NPC	¿Y yo que sé? ¡Son Soraks!
 Narration/&CaerLem_Nego57_Starter_Slang	¿Te importa si hablamos con tus amigos?
 Narration/&CaerLem_Nego58_Starter_Formal	¿Podríamos tener una pequeña charla con tus compañeros de armas?
-Narration/&CaerLem_Nego59_Starter_Normal	Nos gustaría hablar con todos aquí, si está bien.
-Narration/&CaerLem_Nego60_Beryl_NPC	Mientras no intente nada inteligente, estamos bien.
-Narration/&CaerLem_Darik1_Spy_Default	Podría tener una mejor oportunidad con este tipo ... solo.
-Narration/&CaerLem_Darik2_SelfpresLawful_Default	No me gusta que me mantengan en la oscuridad.
-Narration/&CaerLem_Darik3_Spy_Default	Solía ​​trabajar en una embajada. Aprendí algunos trucos.
-Narration/&CaerLem_Darik4_Starter_Default	No me parece del tipo diplomático.
+Narration/&CaerLem_Nego59_Starter_Normal	Nos gustaría hablar con todos los presentes, si te parece bien.
+Narration/&CaerLem_Nego60_Beryl_NPC	Mientras no intente ninguna tontería, estaremos bien.
+Narration/&CaerLem_Darik1_Spy_Default	Puede que tenga más posibilidades con este tipo... a solas.
+Narration/&CaerLem_Darik2_SelfpresLawful_Default	No me gusta que me mantengan en la sombra.
+Narration/&CaerLem_Darik3_Spy_Default	Solía trabajar en una embajada. Aprendí algunos trucos.
+Narration/&CaerLem_Darik4_Starter_Default	No me parece un tipo diplomático.
 Narration/&CaerLem_Darik5_Mean_Default	Se parece a cualquier otro mendigo.
-Narration/&CaerLem_Darik6_Spy_Default	Vamos, confía en mí.
-Narration/&CaerLem_Darik7_Nosy_Default	¿Qué hay exactamente entre él y tú?
-Narration/&CaerLem_Darik8_Einar_Default	Confiamos en que usted hará lo mejor para todos nosotros.
+Narration/&CaerLem_Darik6_Spy_Default	Vamos, confía en mí..
+Narration/&CaerLem_Darik7_Nosy_Default	¿Qué hay exactamente entre tú y él?
+Narration/&CaerLem_Darik8_Einar_Default	Confiamos en que hará lo mejor para todos nosotros.
 Narration/&CaerLem_Darik9_Pakri_Default	Pakri mira. No traiciones su confianza.
-Narration/&CaerLem_Darik10_Spy_Default	Deja a la diosa fuera de esto, ¿quieres?
-Narration/&CaerLem_Darik11_Defaulter_Default	Si es así, por favor, sea nuestro invitado.
-Narration/&CaerLem_Darik12_Spy_NPC	Vi un código de Whisperer grabado en la puerta.
-Narration/&CaerLem_Darik13_Darik_NPC	¿Cómo conoces el código?
-Narration/&CaerLem_Darik14_Spy_Default	Solía ​​trabajar para Delanim, en la embajada cerca de la frontera del Nuevo Imperio.
-Narration/&CaerLem_Darik15_Darik_NPC	Veo. Se supone que debo matar a cualquiera que conozca esas palabras y no sea un Susurrador.
+Narration/&CaerLem_Darik10_Spy_Default	Deja a la diosa fuera de esto, ¿vale?
+Narration/&CaerLem_Darik11_Defaulter_Default	Si lo haces, por favor, sé nuestro invitado.
+Narration/&CaerLem_Darik12_Spy_NPC	He visto el código de un Susurrador tallado en la puerta.
+Narration/&CaerLem_Darik13_Darik_NPC	¿Cómo sabes el código?
+Narration/&CaerLem_Darik14_Spy_Default	Solía trabajar para Delanim, en la embajada cerca de la frontera del Nuevo Imperio.
+Narration/&CaerLem_Darik15_Darik_NPC	Ya veo. Se supone que debo matar a cualquiera que conozca esas palabras y no sea un Susurrador.
 Narration/&CaerLem_Darik16_Spy_Default	Aunque te agradecería que no me matases.
 Narration/&CaerLem_Darik17_Darik_NPC	Ya veremos.
-Narration/&CaerLem_Darik18_Spy_Default	Entonces, solo para estar seguro, ¿alguna parte de esta parte de su negocio, o ...
-Narration/&CaerLem_Darik19_Darik_NPC	¿Acabar con toda una guarnición solo para quedar atrapado con este grupo? No, ese no era mi plan.
-Narration/&CaerLem_Darik20_Spy_Default	Entonces ... ¿Soraks? ¿En serio?
-Narration/&CaerLem_Darik21_Darik_NPC	¿Que te puedo decir? Se veían como dicen las historias.
-Narration/&CaerLem_Darik22_Darik_NPC	El Capitán nos traicionó ... sabían todo sobre nuestra seguridad.
+Narration/&CaerLem_Darik18_Spy_Default	Así que, sólo para estar seguros, ¿algo de esto es parte de tu trabajo, o... 
+Narration/&CaerLem_Darik19_Darik_NPC	¿Acabar con toda una guarnición sólo para quedar atrapado con este grupo? No, ese no era mi plan.
+Narration/&CaerLem_Darik20_Spy_Default	Así que... ¿Soraks? ¿De verdad?
+Narration/&CaerLem_Darik21_Darik_NPC	¿Qué puedo decirte? Son tal y como dicen las historias.
+Narration/&CaerLem_Darik22_Darik_NPC	El capitán nos traicionó... lo sabían todo sobre nuestra seguridad.
 Narration/&CaerLem_Darik23_Darik_NPC	Incluso esconder sus cuerpos está en las historias.
 Narration/&CaerLem_Darik24_Starter_Default	¿Crees que todavía están por aquí?
 Narration/&CaerLem_Darik25_Darik_NPC	Posiblemente.
 Narration/&CaerLem_Darik26_Spy_Default	¿Alguna idea de lo que buscan?
 Narration/&CaerLem_Darik27_Darik_NPC	No.
-Narration/&CaerLem_Darik28_Spy_Default	Derecha.
+Narration/&CaerLem_Darik28_Spy_Default	Correcto.
 Narration/&CaerLem_Darik29_Spy_Default	Querrán hablar contigo.
-Narration/&CaerLem_Darik30_Darik_NPC	Multa.
-Narration/&CaerLem_Darik31_Spy_Default	El es todo tuyo.
-Narration/&CaerLem_Darik32_Starter_Default	Entonces, ¿quién eres, amigo?
+Narration/&CaerLem_Darik30_Darik_NPC	Bien.
+Narration/&CaerLem_Darik31_Spy_Default	Es todo tuyo.
+Narration/&CaerLem_Darik32_Starter_Default	¿Y quién eres tú, amigo?
 Narration/&CaerLem_Darik33_Darik_NPC	Daliat Sunbird, explorador.
 Narration/&CaerLem_Darik34_Starter_Default	¿Crees que eran Soraks?
-Narration/&CaerLem_Darik35_Darik_NPC	No sé. Aunque parecía real.
+Narration/&CaerLem_Darik35_Darik_NPC	No lo sé. Aunque parecían reales.
 Narration/&CaerLem_Darik36_Starter_Default	¿Qué crees que querían?
-Narration/&CaerLem_Darik37_Darik_NPC	Para matarnos a todos.
+Narration/&CaerLem_Darik37_Darik_NPC	Matarnos a todos.
 Narration/&CaerLem_Darik38_Any_Normal	No te gusta hablar, ¿eh?
 Narration/&CaerLem_Darik39_Any_Formal	Pareces un conversador muy reacio.
-Narration/&CaerLem_Darik40_Darik_NPC	Voy a descansar ahora.
-Narration/&CaerLem_Darik40_Alternate_Darik_NPC	Estoy teniendo un día bastante malo, así que si me disculpas ...
-Narration/&CaerLem_Darik41_AnySelfpres_NPC	¿Soy yo o no le gustó la última pregunta?
-Narration/&CaerLem_Darik42_Cynical_NPC	Hombre agradable.
-Narration/&CaerLem_Darik43_Starter_Default	¿Y usted? ¿Aprendiste algo?
-Narration/&CaerLem_Darik44_Spy_Default	No mucho. Él cree que los Soraks también son reales.
-Narration/&CaerLem_Darik45_Partner_Default	Demasiado para tu código secreto.
-Narration/&CaerLem_Darik46_Spy_Default	Lamento decepcionar.
+Narration/&CaerLem_Darik40_Darik_NPC	Ahora voy a descansar.
+Narration/&CaerLem_Darik40_Alternate_Darik_NPC	Estoy teniendo un día bastante malo, así que si me disculpas...
+Narration/&CaerLem_Darik41_AnySelfpres_NPC	¿Soy yo, o no le ha gustado la última pregunta?
+Narration/&CaerLem_Darik42_Cynical_NPC	Buen tipo.
+Narration/&CaerLem_Darik43_Starter_Default	¿Y tú? ¿Has descubierto algo?
+Narration/&CaerLem_Darik44_Spy_Default	No mucho. También cree que los Sorak son reales.
+Narration/&CaerLem_Darik45_Partner_Default	Hasta aquí llega tu código secreto.
+Narration/&CaerLem_Darik46_Spy_Default	Siento decepcionarte.
 Narration/&CaerLem_Lisbath1_Lisbath_NPC	Ahora es mi turno, ¿verdad?
 Narration/&CaerLem_Lisbath2_Starter_Default	¿Qué quieres decir?
 Narration/&CaerLem_Lisbath3_Lisbath_NPC	¿Qué es ésto? ¿Una investigación de asesinato?
-Narration/&CaerLem_Lisbath4_Cynical_WRITTEN	¿Deberia ser?
-Narration/&CaerLem_Lisbath5_Defaulter_WRITTEN	Sólo trato de ayudar.
+Narration/&CaerLem_Lisbath4_Cynical_WRITTEN	¿Debería serlo?
+Narration/&CaerLem_Lisbath5_Defaulter_WRITTEN	Sólo intento ayudar.
 Narration/&CaerLem_Lisbath6_Authority_WRITTEN	¿Algo que debamos saber?
-Narration/&CaerLem_Lisbath7_Cynical_Default	¿Deberíamos estar investigando?
+Narration/&CaerLem_Lisbath7_Cynical_Default	¿Deberíamos investigar?
 Narration/&CaerLem_Lisbath7_Lisbath_NPC	Quizás.
-Narration/&CaerLem_Lisbath8_Authority_Formal	Has dicho demasiado para detenerte ahora.
+Narration/&CaerLem_Lisbath8_Authority_Formal	Has dicho demasiado para parar ahora. 
 Narration/&CaerLem_Lisbath9_Authority_Normal	Habla, entonces.
-Narration/&CaerLem_Lisbath10_Lisbath_NPC	Bueno, digamos que todo esto sucedió después de cierta expedición.
-Narration/&CaerLem_Lisbath11_Any_Normal	Seguir.
+Narration/&CaerLem_Lisbath10_Lisbath_NPC	Bueno, digamos que todo esto ocurrió después de cierta expedición. 
+Narration/&CaerLem_Lisbath11_Any_Normal	Continúa.
 Narration/&CaerLem_Lisbath12_Any_Slang	Escúpelo.
-Narration/&CaerLem_Lisbath13_Any_Formal	Habla sin miedo, amigo.
-Narration/&CaerLem_Lisbath14_Lisbath_NPC	Los exploradores. Regresaron de una incursión en Badlands.
-Narration/&CaerLem_Lisbath15_Lisbath_NPC	Encontré una ruina, regresó con el botín.
-Narration/&CaerLem_Lisbath16_Lisbath_NPC	Al día siguiente, esto sucede.
-Narration/&CaerLem_Lisbath17_Lisbath_NPC	¿Coincidencia? Dígame usted.
+Narration/&CaerLem_Lisbath13_Any_Formal	Habla sin miedo, amiga.
+Narration/&CaerLem_Lisbath14_Lisbath_NPC	Los exploradores. Regresaron de una incursión en Las Tierras Inhóspitas.
+Narration/&CaerLem_Lisbath15_Lisbath_NPC	Encontraron una ruina y volvieron con un botín. 
+Narration/&CaerLem_Lisbath16_Lisbath_NPC	Al día siguiente, ocurre esto.
+Narration/&CaerLem_Lisbath17_Lisbath_NPC	¿Coincidencia? Dígamelo usted. 
 Narration/&CaerLem_Lisbath18_Any_Default	¿Los exploradores, dices?
 Narration/&CaerLem_Lisbath19_Lisbath_NPC	Solo uno de ellos sigue vivo.
 Narration/&CaerLem_Lisbath20_Lisbath_NPC	Daliat.
-Narration/&CaerLem_Lisbath21_Any_Default	Derecha.
-Narration/&CaerLem_Lisbath22_Defaulter_Default	Solo queremos ayudar.
+Narration/&CaerLem_Lisbath21_Any_Default	¡Oh! ya veo...
+Narration/&CaerLem_Lisbath22_Defaulter_Default	Sólo queremos ayudar.
 Narration/&CaerLem_Lisbath23_Lisbath_NPC	Buena suerte con eso.
-Narration/&CaerLem_Lisbath24_Authority_Default	Suenas preocupado. ¿Algo que debamos saber?
-Narration/&CaerLem_Lisbath25_Lisbath_NPC	¡Piérdase!
+Narration/&CaerLem_Lisbath24_Authority_Default	Pareces preocupada. ¿Hay algo que debamos saber?
+Narration/&CaerLem_Lisbath25_Lisbath_NPC	¡Piérdete!
 Narration/&CaerLem_Lisbath26_Defaulter_WRITTEN	Lo siento.
-Narration/&CaerLem_Lisbath27_Insight_WRITTEN	Estás escondiendo algo.
+Narration/&CaerLem_Lisbath27_Insight_WRITTEN	Estás ocultando algo.
 Narration/&CaerLem_Lisbath28_Authority_WRITTEN	No me gusta tu tono.
 Narration/&CaerLem_Lisbath29_Mean_WRITTEN	Vete al infierno.
-Narration/&CaerLem_Lisbath30_Defaulter_Default	Sin intención de ofender.
+Narration/&CaerLem_Lisbath30_Defaulter_Default	No se pretende ofender.
 Narration/&CaerLem_Lisbath31_Insight_Default	Lo tomaré como un sí.
 Narration/&CaerLem_Lisbath32_Authority_Default	No me gusta que me insulten.
 Narration/&CaerLem_Lisbath33_Mean_Default	Vete al infierno, idiota cobarde.
-Narration/&CaerLem_Lisbath34_Lisbath_NPC	Entonces deberías trabajar en tus modales.
+Narration/&CaerLem_Lisbath34_Lisbath_NPC	Deberías mejorar tus modales
 Narration/&CaerLem_Lisbath35_Lisbath_NPC	Y no me gusta que me acusen de… lo que sea.
 Narration/&CaerLem_Lisbath36_Defaulter_WRITTEN	No importa.
 Narration/&CaerLem_Lisbath37_Persuader_WRITTEN	Empezamos con el pie izquierdo.
-Narration/&CaerLem_Lisbath38_Intimidator_WRITTEN	¡Habla, o de lo contrario!
+Narration/&CaerLem_Lisbath38_Intimidator_WRITTEN	¡Habla, o si no!
 Narration/&CaerLem_Lisbath39_Deceiver_WRITTEN	Sabemos que hay un traidor.
-Narration/&CaerLem_Lisbath40_Defaulter_Default	Piérdase.
+Narration/&CaerLem_Lisbath40_Defaulter_Default	Piérdete.
 Narration/&CaerLem_Lisbath41_Persuader_Default	¿Podemos empezar de nuevo?
-Narration/&CaerLem_Lisbath42_Lisbath_Success	Escuchar. Algo no esta bien.
+Narration/&CaerLem_Lisbath42_Lisbath_Success	Escucha. Algo no va bien.
 Narration/&CaerLem_Lisbath43_Lisbath_Failure	No lo creo.
 Narration/&CaerLem_Lisbath44_Intimidator_Default	Me lo dirás tarde o temprano. Más tarde es más doloroso.
 Narration/&CaerLem_Lisbath45_Lisbath_NPC	Amigos, ¿verdad?
-Narration/&CaerLem_Lisbath46_Lisbath_NPC	Dale.
-Narration/&CaerLem_Lisbath47_Deceiver_Default	Sabemos que hay un traidor entre ustedes.
+Narration/&CaerLem_Lisbath46_Lisbath_NPC	Traedlo.
+Narration/&CaerLem_Lisbath47_Deceiver_Default	Sabemos que hay un traidor entre vosotros.
 Narration/&CaerLem_Lisbath48_Deceiver_Default	Ayúdanos y te ayudaremos.
-Narration/&CaerLem_Lisbath49_Lisbath_Success	Yo ... lo sabía. Es Daliat, ¿verdad?
+Narration/&CaerLem_Lisbath49_Lisbath_Success	Yo... lo sabía. Es Daliat, ¿verdad?
 Narration/&CaerLem_Lisbath50_Lisbath_NPC	¡Shh! ¡Nos está mirando!
-Narration/&CaerLem_Lisbath51_Lisbath_NPC	Te diré que.
+Narration/&CaerLem_Lisbath51_Lisbath_NPC	Te diré algo.
 Narration/&CaerLem_Lisbath52_Lisbath_Failure	¿Crees que puedes engañarme tan fácilmente?
-Narration/&CaerLem_Lisbath53_Lisbath_NPC	No lo compro.
-Narration/&CaerLem_Lisbath55_AsAYes	Entonces debe tener un problema de audición.
+Narration/&CaerLem_Lisbath53_Lisbath_NPC	No me lo creo.
+Narration/&CaerLem_Lisbath55_AsAYes	Debes tener un problema de oído, entonces.
 Narration/&CaerLem_Robar1_Starter_Default	Hola.
 Narration/&CaerLem_Robar2_Starter_Formal	Saludos, soldado.
-Narration/&CaerLem_Robar3_Robar_NPC	Sí.
+Narration/&CaerLem_Robar3_Robar_NPC	Hola.
 Narration/&CaerLem_Robar4_Robar_NPC	Me llamo Robar Sharp.
 Narration/&CaerLem_Robar5_Starter_Normal	Parece que eres el más experimentado aquí, Robar.
-Narration/&CaerLem_Robar6_Starter_Formal	Supongo que es un veterano de larga data.
-Narration/&CaerLem_Robar7_Starter_Slang	Entonces eres el viejo sudor del grupo, ¿eh?
-Narration/&CaerLem_Robar8_Robar_NPC	Si. Pero no estoy a cargo, fíjate.
+Narration/&CaerLem_Robar6_Starter_Formal	Deduzco que eres un veterano de larga trayectoria.
+Narration/&CaerLem_Robar7_Starter_Slang	Así que eres el viejo sudado del grupo, ¿eh?
+Narration/&CaerLem_Robar8_Robar_NPC	Sí. Pero no estoy al mando, recuerda.
 Narration/&CaerLem_Robar9_Starter_Default	Háblanos de Stonebeard.
-Narration/&CaerLem_Robar10_Partner_Default	Háblenos de Daliat.
-Narration/&CaerLem_Robar11_Commentator_Default	Háblenos de Lisbath.
+Narration/&CaerLem_Robar10_Partner_Default	Háblanos de Daliat.
+Narration/&CaerLem_Robar11_Commentator_Default	Háblanos de Lisbath.
 Narration/&CaerLem_Robar11_Reactor_Default	¿Qué debemos hacer?
-Narration/&CaerLem_Robar12_Sellsword_Default	Charla mercenaria
-Narration/&CaerLem_Robar13_Partner_Default	Esta teniente Barbapiedra ... ¿está preparada para el trabajo?
-Narration/&CaerLem_Robar14_Robar_NPC	Claramente no. Mira alrededor.
-Narration/&CaerLem_Robar15_Robar_NPC	Perder al capitán la rompió.
-Narration/&CaerLem_Robar16_Partner_Default	¿Qué opinas de Daliat?
-Narration/&CaerLem_Robar17_Robar_NPC	Nunca le gustó. Está escondiendo algo.
-Narration/&CaerLem_Robar18_Robar_NPC	Ha estado nervioso desde que regresamos de Badlands.
-Narration/&CaerLem_Robar19_Robar_NPC	Pero no sería bueno pelear con él ahora ...
+Narration/&CaerLem_Robar12_Sellsword_Default	Charla de mercenarios
+Narration/&CaerLem_Robar13_Partner_Default	Esta teniente Stonebeard... ¿está a la altura del cargo?
+Narration/&CaerLem_Robar14_Robar_NPC	Claramente no. Mira a tu alrededor.
+Narration/&CaerLem_Robar15_Robar_NPC	Perder al capitán la destrozó.
+Narration/&CaerLem_Robar16_Partner_Default	¿Qué piensas de Daliat?
+Narration/&CaerLem_Robar17_Robar_NPC	Nunca me gustó. Oculta algo.
+Narration/&CaerLem_Robar18_Robar_NPC	Está nervioso desde que volvimos de Las Tierras Inhóspitas.
+Narration/&CaerLem_Robar19_Robar_NPC	Pero no sería bueno pelear con él ahora...
 Narration/&CaerLem_Robar20_Starter_Formal	Muy sabio.
 Narration/&CaerLem_Robar21_Starter_Normal	Entiendo.
 Narration/&CaerLem_Robar22_Commentator_Default	¿Qué hay de Lisbath? ¿Eres su superior?
-Narration/&CaerLem_Robar23_Robar_NPC	Buena mujer. Fuerte, valiente.
-Narration/&CaerLem_Robar24_Robar_NPC	Puedes confiar en ella con una espada ...
-Narration/&CaerLem_Robar25_Robar_NPC	… Eso vale algo en mi libro.
-Narration/&CaerLem_Robar26_Sellsword_Default	¿También peleaste en Sandreed?
-Narration/&CaerLem_Robar27_Robar_NPC	Oh sí. Tengo las cicatrices de las flechas rebeldes para demostrarlo.
-Narration/&CaerLem_Robar28_Sellsword_NPC	¡Oh, esos malditos escaramuzadores! También me dieron algunos agujeros.
-Narration/&CaerLem_Robar29_Sellsword_Default	Bueno, si sobrevivimos a Sandreed, ambos superaremos esto.
+Narration/&CaerLem_Robar23_Robar_NPC	Buena mujer. Fuerte y valiente.
+Narration/&CaerLem_Robar24_Robar_NPC	Puedes confiar en ella con una espada...
+Narration/&CaerLem_Robar25_Robar_NPC	eso vale algo en mi libro.
+Narration/&CaerLem_Robar26_Sellsword_Default	¿Así que también luchaste en Sandreed?
+Narration/&CaerLem_Robar27_Robar_NPC	Oh, sí. Tengo las cicatrices de las flechas rebeldes para demostrarlo.
+Narration/&CaerLem_Robar28_Sellsword_NPC	¡Oh, esos malditos escaramuzadores! También me hicieron unos cuantos agujeros.
+Narration/&CaerLem_Robar29_Sellsword_Default	Bueno, si hemos sobrevivido a Sandreed, ambos saldremos de esta.
 Narration/&CaerLem_Robar30_Robar_NPC	Ese es el plan.
 Narration/&CaerLem_Robar31_Starter_Default	Entonces, ¿qué crees que deberíamos hacer?
-Narration/&CaerLem_Robar31_Robar_NPC	Para empezar, no espere aquí a que los Soraks regresen y se alejen de nosotros.
-Narration/&CaerLem_Robar32_Sellsword_Default	Pero Stonebeard dice que se quede, y ella es una oficial, así que ...?
-Narration/&CaerLem_Robar33_Sellsword_Default	Si. Ella es terca, y el motín es una mala imagen para un soldado.
-Narration/&CaerLem_Robar34_Robar_NPC	Podrías hablar con ella, diputada del Consejo y todo.
-Narration/&CaerLem_Robar35_Sellsword_Default	Entonces, si encontramos una manera, ¿estás con nosotros?
-Narration/&CaerLem_Robar36_Starter_Default	Estoy conmigo mismo. Pero no dejes que eso te detenga.
-Narration/&CaerLem_Internal1_Authority_Normal	Bien ... tenemos que tomar una decisión aquí.
+Narration/&CaerLem_Robar31_Robar_NPC	Para empezar, no esperar aquí a que los Sorak vuelvan y nos quiten de en medio.
+Narration/&CaerLem_Robar32_Sellsword_Default	Pero Stonebeard dice que nos quedemos, y ella es una oficial, así que...
+Narration/&CaerLem_Robar33_Sellsword_Default	Sí. Es una testaruda, y amotinarse no da buena imagen a un soldado.
+Narration/&CaerLem_Robar34_Robar_NPC	Podrías hablar con ella, diputado del Consejo y todo eso.
+Narration/&CaerLem_Robar35_Sellsword_Default	Entonces, si encontramos la forma, ¿estás con nosotros?
+Narration/&CaerLem_Robar36_Starter_Default	Estoy conmigo. Pero no dejes que eso te detenga.
+Narration/&CaerLem_Internal1_Authority_Normal	Bien... tenemos que tomar una decisión aquí.
 Narration/&CaerLem_Internal2_Authority_Formal	Está claro que hay que hacer algo.
 Narration/&CaerLem_Internal3_Einar_Normal	¿Los Soraks son reales? Es mucho para asimilar.
-Narration/&CaerLem_Internal4_Einar_Formal	Me sorprende la idea de que Soraks pueda ser real.
-Narration/&CaerLem_Internal5_Mean_Slang	Son locos o estúpidos ... no nos sirven en ningún caso.
-Narration/&CaerLem_Internal6_Cynical_Normal	Tenemos suficiente para presentar nuestro informe al Consejo, así que pongámonos en marcha.
-Narration/&CaerLem_Internal7_Cynical_Formal	No pueden ayudarse a sí mismos ni a nadie más. Deberíamos volver a Caer Cyflen.
-Narration/&CaerLem_Internal8_Cynical_Slang	Déjalos pudrir. Se supone que debemos traer de vuelta a Henrik, no a ellos.
-Narration/&CaerLem_Internal9_Helpful_Normal	Si no los ayudamos, morirán o se matarán entre sí.
-Narration/&CaerLem_Internal10_Violent_Normal	Déjalos. Podría ser divertido de ver.
+Narration/&CaerLem_Internal4_Einar_Formal	Me impacta la idea de que los Sorak puedan ser reales.
+Narration/&CaerLem_Internal5_Mean_Slang	O están locos o son estúpidos... no nos sirven en ninguno de los dos casos.
+Narration/&CaerLem_Internal6_Cynical_Normal	Tenemos suficiente para hacer nuestro informe al Consejo, así que pongámonos en marcha.
+Narration/&CaerLem_Internal7_Cynical_Formal	No pueden ayudarse a sí mismos ni a nadie. Deberíamos volver a Caer Cyflen.
+Narration/&CaerLem_Internal8_Cynical_Slang	Deja que se pudran. Se supone que debemos traer de vuelta a Henrik, no a ellos.
+Narration/&CaerLem_Internal9_Helpful_Normal	Si no los ayudamos, morirán o se matarán entre ellos.
+Narration/&CaerLem_Internal10_Violent_Normal	Déjales. Podría ser divertido de ver.
 Narration/&CaerLem_Internal11_Selpres_Normal	Este lugar es una trampa mortal, deberíamos salir mientras podamos.
-Narration/&CaerLem_Internal12_Defaulter_Normal	Entonces todos tienen una opinión… pero ¿qué vamos a hacer?
-Narration/&CaerLem_Internal13_Defaulter_Normal	¿Y Daliat? Tenemos algunas pistas bastante preocupantes sobre él.
+Narration/&CaerLem_Internal12_Defaulter_Normal	Así que todo el mundo tiene una opinión... pero ¿qué vamos a hacer?
+Narration/&CaerLem_Internal13_Defaulter_Normal	¿Y qué pasa con Daliat? Tenemos algunas pistas bastante preocupantes sobre él.
 Narration/&CaerLem_Internal14_Defaulter_Normal	¿Y si realmente está ocultando algo importante?
-Narration/&CaerLem_Internal15_Authority_WRITTEN	Lo enfrentamos.
+Narration/&CaerLem_Internal15_Authority_WRITTEN	Nos enfrentamos a él.
 Narration/&CaerLem_Internal16_Violent_WRITTEN	Podría ser un traidor.
-Narration/&CaerLem_Internal17_Default_WRITTEN	Es solo un chisme.
-Narration/&CaerLem_Internal18_Selfpres_WRITTEN	No arriesguemos una pelea.
-Narration/&CaerLem_Internal19_Authority_Normal	Necesitamos hablar con él, averiguar la verdad.
-Narration/&CaerLem_Internal20_Violent_Answer	Si es un traidor, no podemos mirar para otro lado.
-Narration/&CaerLem_Internal21_Default_Answer	Es solo paranoia o rencores personales.
-Narration/&CaerLem_Internal22_Selfpres_Answer	Si lo acusamos, podría terminar en sangre.
-Narration/&CaerLem_Internal23_Default_Answer	Eso nos deja con los demás. Cual es nuestra estrategia?
-Narration/&CaerLem_Internal24_Autority_WRITTEN	Tomamos la iniciativa.
+Narration/&CaerLem_Internal17_Default_WRITTEN	Sólo son cotilleos.
+Narration/&CaerLem_Internal18_Selfpres_WRITTEN	No nos arriesguemos a una pelea.
+Narration/&CaerLem_Internal19_Authority_Normal	Tenemos que hablar con él, averiguar la verdad.
+Narration/&CaerLem_Internal20_Violent_Answer	Si es un traidor, no podemos mirar hacia otro lado.
+Narration/&CaerLem_Internal21_Default_Answer	Es sólo paranoia, o rencores personales.
+Narration/&CaerLem_Internal22_Selfpres_Answer	Si le acusamos, podría acabar en sangre.
+Narration/&CaerLem_Internal23_Default_Answer	Eso nos deja con los otros. ¿Cuál es nuestra estrategia?
+Narration/&CaerLem_Internal24_Autority_WRITTEN	Tomamos el liderazgo.
 Narration/&CaerLem_Internal25_Selpres_WRITTEN	Salgamos de aquí.
-Narration/&CaerLem_Internal26_Default_WRITTEN	Hablemos con todos ellos juntos.
-Narration/&CaerLem_Internal27_Cynicsm_WRITTEN	Empujamos a Sharp para que se amotine.
-Narration/&CaerLem_Internal28_Authority_Answer	Le decimos a Stonebeard que estamos a cargo y los llevamos a casa.
-Narration/&CaerLem_Internal29_Selpres_Answer	Salgamos de aquí. Pueden seguirlos o quedarse aquí para morir.
-Narration/&CaerLem_Internal30_Default_Answer	Reunámoslos y hablemos de esto.
+Narration/&CaerLem_Internal26_Default_WRITTEN	Hablamos con ellos todos juntos.
+Narration/&CaerLem_Internal27_Cynicsm_WRITTEN	Presionamos a Sharp para que se amotine.
+Narration/&CaerLem_Internal28_Authority_Answer	Le decimos a Stonebeard que estamos al mando y los llevamos a casa.
+Narration/&CaerLem_Internal29_Selpres_Answer	Nos largamos de aquí. Pueden seguirnos o quedarse aquí a morir.
+Narration/&CaerLem_Internal30_Default_Answer	Reunámoslos y discutamos esto.
 Narration/&CaerLem_Internal31_Cynicsm_Answer	Le decimos a Sharp que desafíe a Stonebeard, con nuestro apoyo.
-Narration/&CaerLem_Internal32_Any_Reaction	Está bien.
-Narration/&CaerLem_Internal33_Any_Reaction	No estoy seguro, pero ... bien.
-Narration/&CaerLem_Internal34_Any_Reaction	Acordado.
+Narration/&CaerLem_Internal32_Any_Reaction	Muy bien
+Narration/&CaerLem_Internal33_Any_Reaction	No me da seguridad, pero... bien.
+Narration/&CaerLem_Internal34_Any_Reaction	De acuerdo.
 Narration/&CaerLem_Internal35_Any_Reaction	No creo que sea una buena idea.
 Narration/&CaerLem_Internal36_Any_Reaction	No podemos hacer eso.
-Narration/&CaerLem_Darik201_Starter_Default	Necesitamos hablar.
-Narration/&CaerLem_Darik202_Darik_NPC	¿Hacemos?
+Narration/&CaerLem_Darik201_Starter_Default	Tenemos que hablar.
+Narration/&CaerLem_Darik202_Darik_NPC	¿Tenemos?
 Narration/&CaerLem_Darik2_Choice1_WRITTEN	Ahora no.
-Narration/&CaerLem_Darik2_Choice2_WRITTEN	Estuviste con una expedición recientemente.
-Narration/&CaerLem_Darik2_Choice2_bailout	Bueno ... tal vez más tarde.
-Narration/&CaerLem_Darik203_Starter_Formal	Se dice que participó en una expedición a Badlands.
-Narration/&CaerLem_Darik204_Starter_Normal	Sobre este viaje a Badlands.
-Narration/&CaerLem_Darik205_Darik_NPC	Eso es lo que hacemos aquí.
-Narration/&CaerLem_Darik206_Starter_Default	Los Soraks atacaron después de que volvieras.
-Narration/&CaerLem_Darik207_Darik_NPC	Entonces, ¿los traje aquí?
-Narration/&CaerLem_Darik208_Whisperer_Default	Escuche, colega ... puede confiar en mí.
-Narration/&CaerLem_Darik209_Darik_NPC	Tú, tal vez ... ¿pero los demás?
-Narration/&CaerLem_Darik210_Starter_Default	¿Trajiste algo de vuelta?
-Narration/&CaerLem_Darik211_Darik_NPC	Siempre lo hacemos, como los carroñeros.
-Narration/&CaerLem_Darik212_Darik_NPC	Pregúntale a Sharp, ha traído toneladas de cosas de allí.
-Narration/&CaerLem_Darik213_Starter_Default	Pero tal vez esta vez, tomaste algo especial.
+Narration/&CaerLem_Darik2_Choice2_WRITTEN	Estuviste hace poco en una expedición.
+Narration/&CaerLem_Darik2_Choice2_bailout	Bueno... igual más tarde.
+Narration/&CaerLem_Darik203_Starter_Formal	Se dice que participaste en una expedición a Las Tierras Inhóspitas.
+Narration/&CaerLem_Darik204_Starter_Normal	Sobre ese viaje a Las Tierras Inhóspitas.
+Narration/&CaerLem_Darik205_Darik_NPC	Eso es lo que hacemos, aquí.
+Narration/&CaerLem_Darik206_Starter_Default	Los Soraks atacaron después de tu regreso.
+Narration/&CaerLem_Darik207_Darik_NPC	¿Y qué, yo los traje aquí?
+Narration/&CaerLem_Darik208_Whisperer_Default	Escucha, colega... puedes confiar en mí.
+Narration/&CaerLem_Darik209_Darik_NPC	Tú, tal vez... ¿pero los otros? 
+Narration/&CaerLem_Darik210_Starter_Default	¿Has traído algo?
+Narration/&CaerLem_Darik211_Darik_NPC	Siempre lo hacemos, como los Carroñeros.
+Narration/&CaerLem_Darik212_Darik_NPC	Pregúntale a Sharp, tiene toneladas de cosas traídas de allí.
+Narration/&CaerLem_Darik213_Starter_Default	Pero tal vez esta vez, se trajo algo especial.
 Narration/&CaerLem_Darik214_Darik_NPC	¡No es nada de valor para Soraks!
-Narration/&CaerLem_Darik215_Starter_Default	¿Cómo sabrías?
-Narration/&CaerLem_Darik216_Whisperer_Default	Enséñame, colega.
+Narration/&CaerLem_Darik215_Starter_Default	¿Cómo lo sabes?
+Narration/&CaerLem_Darik216_Whisperer_Default	Muéstrame, colega.
 Narration/&CaerLem_Darik217_Persuader_Default	Confía en nosotros.
-Narration/&CaerLem_Darik218_Intimidate_Default	Simplemente podríamos tomarlo.
-Narration/&CaerLem_Darik219_Deceiver_Default	Podemos pagarlo.
-Narration/&CaerLem_Darik220_Defaulter_Default	No te estamos culpando, pero necesitamos saberlo.
-Narration/&CaerLem_Darik221_Darik_NPC	Es solo un libro antiguo ... podría tener un valor histórico.
-Narration/&CaerLem_Darik222_Darik_NPC	Tómalo, entonces. Y encuentra una manera de sacarnos de aquí.
+Narration/&CaerLem_Darik218_Intimidate_Default	Podríamos simplemente cogerlo.
+Narration/&CaerLem_Darik219_Deceiver_Default	Podemos pagar por ello.
+Narration/&CaerLem_Darik220_Defaulter_Default	No te culpamos, pero necesitamos saberlo.
+Narration/&CaerLem_Darik221_Darik_NPC	Es solo un libro antiguo...  podría tener valor histórico.
+Narration/&CaerLem_Darik222_Darik_NPC	Llévatelo, entonces. Y encuentra la forma de sacarnos de aquí.
 Narration/&CaerLem_Darik223_Deceiver_Default	El Consejo te recompensará si nos ayudas.
 Narration/&CaerLem_Darik224_Darik_NPC	No me comprarás con palabras.
-Narration/&CaerLem_Darik225_Intimidate_Default	Muéstranos o nos ayudaremos a nosotros mismos.
+Narration/&CaerLem_Darik225_Intimidate_Default	Enséñanoslo o nos ayudaremos nosotros mismos.
 Narration/&CaerLem_Darik226_Darik_NPC	No lo creo.
 Narration/&CaerLem_Darik227_Darik_NPC	No.
 Narration/&CaerLem_Darik228_Persuade	Confía en nosotros. Estamos todos del mismo lado aquí.
-Narration/&CaerLem_Darik229_Default_NPC	Solo necesitamos saberlo.
-Narration/&CaerLem_Darik230_Darik_NPC	¿Ey qué es eso? ¡Oye!
+Narration/&CaerLem_Darik229_Default_NPC	Sólo necesitamos saber.
+Narration/&CaerLem_Darik230_Darik_NPC	Oye, ¿qué es eso? ¡Oye!
 Narration/&CaerLem_Robar2_0_Salutations	¡Hola!
 Narration/&CaerLem_Robar2_1_Salutations	Diputados.
 Narration/&CaerLem_Robar2_Choice1_WRITTEN	No importa.
-Narration/&CaerLem_Robar2_Choice2_WRITTEN	Queremos que usted tome la iniciativa.
-Narration/&CaerLem_Robar2_Choice1_Bailout	No importa. Regresaremos más tarde.
+Narration/&CaerLem_Robar2_Choice2_WRITTEN	Queremos que tomes el liderazgo.
+Narration/&CaerLem_Robar2_Choice1_Bailout	No importa. Volveremos más tarde.
 Narration/&CaerLem_End6_Robar_NPC	Sí.
 Narration/&CaerLem_Robar21_Authority_Normal	Robar, queremos que sustituyas a Beryl.
 Narration/&CaerLem_Robar22_Robar_NPC	Ella se negará.
 Narration/&CaerLem_Robar23_Authority_Normal	Te apoyaremos. Ella no tendrá elección.
-Narration/&CaerLem_Robar24_Robar_Refuse_NPC	No puedo hacer ... no funcionará.
-Narration/&CaerLem_Robar25_Robar_Refuse_NPC	Bien, pero lidia con ella si se enoja.
+Narration/&CaerLem_Robar24_Robar_Refuse_NPC	No puedo hacer... no funcionará.
+Narration/&CaerLem_Robar25_Robar_Refuse_NPC	Bien, pero tú te encargas de ella si se enfada.
 Narration/&CaerLem_Robar26_Beryl_NPC	¿Qué es eso?
-Narration/&CaerLem_Robar27_Authority_Normal	Creemos que Robar debería asumir el mando de su… guarnición restante.
-Narration/&CaerLem_Robar28_Beryl_NPC	¿Él? ¿Así?
+Narration/&CaerLem_Robar27_Authority_Normal	Creemos que Robar debería asumir el mando de su... guarnición restante.
+Narration/&CaerLem_Robar28_Beryl_NPC	¿Él? ¿Así de fácil?
 Narration/&CaerLem_Robar29_Authority_Normal	Lo ordenamos, como diputados del Consejo.
 Narration/&CaerLem_Robar210_Lisbath_NPC	Mierda.
 Narration/&CaerLem_Robar211_Robar_NPC	Te lo dije.
-Narration/&CaerLem_Robar212_Authority_Normal	Renuncie, teniente, es una orden.
+Narration/&CaerLem_Robar212_Authority_Normal	Retírese, teniente, es una orden.
 Narration/&CaerLem_Robar213_Beryl_NPC	¡En tus sueños!
-Narration/&CaerLem_Robar214_Beryl_NPC	Él hará que te maten.
-Narration/&CaerLem_Robar215_Cynic_Normal	Ella se lo tomó bien.
-Narration/&CaerLem_Robar216_Any_Normal	Entonces jefe, ¿cuál es el plan?
+Narration/&CaerLem_Robar214_Beryl_NPC	Hará que te maten.
+Narration/&CaerLem_Robar215_Cynic_Normal	Se lo tomó bien.
+Narration/&CaerLem_Robar216_Any_Normal	Entonces, jefe, ¿cuál es el plan?
 Narration/&CaerLem_Robar217_Any_Formal	Entonces, ¿qué dice, oficial?
-Narration/&CaerLem_Robar218_Robar_NPC	Que… ?
+Narration/&CaerLem_Robar218_Robar_NPC	Que…?
 Narration/&CaerLem_Robar219_Robar_LisbathAttacked	Lisbath!
 Narration/&CaerLem_Robar220_Robar_BerylAttacked	¡Teniente!
 Narration/&CaerLem_Beryl21_Authority_Default	¿Podemos hablar?
-Narration/&CaerLem_Beryl22_Beryl_NPC	¿Ahora que?
-Narration/&CaerLem_Beryl2_Choice1_WRITTEN	Regresaremos más tarde.
-Narration/&CaerLem_Beryl2_Choice2_WRITTEN	Deberías dimitir.
+Narration/&CaerLem_Beryl22_Beryl_NPC	¿Y ahora qué?
+Narration/&CaerLem_Beryl2_Choice1_WRITTEN	Volveremos más tarde
+Narration/&CaerLem_Beryl2_Choice2_WRITTEN	Deberías retirarte.
 Narration/&CaerLem_Beryl2_Choice1_bailout	Lo siento, volveremos más tarde.
-Narration/&CaerLem_Beryl2_Choice1_beryl	Haces eso.
-Narration/&CaerLem_Beryl23_Authority_Default	Necesitas renunciar.
-Narration/&CaerLem_Beryl24_Beryl_NPC	¿Oh? ¿Y por qué es eso?
-Narration/&CaerLem_Beryl25_Authority_Normal	Este comando ... esta situación ... es claramente demasiado para ti.
-Narration/&CaerLem_Beryl26_Authority_Formal	Sin querer ofender, simplemente te falta la experiencia que esta situación requiere.
-Narration/&CaerLem_Beryl27_Authority_Slang	Porque no sirves de nada ... ¡por eso!
+Narration/&CaerLem_Beryl2_Choice1_beryl	Lo harás.
+Narration/&CaerLem_Beryl23_Authority_Default	Tienes que retirarte.
+Narration/&CaerLem_Beryl24_Beryl_NPC	¿Oh? ¿Y eso por qué?
+Narration/&CaerLem_Beryl25_Authority_Normal	Esta misión... esta situación... es claramente demasiado para ti.
+Narration/&CaerLem_Beryl26_Authority_Formal	Sin ánimo de ofender, simplemente careces de la experiencia que esta situación requiere.
+Narration/&CaerLem_Beryl27_Authority_Slang	Porque no sirves para nada... ¡por eso!
 Narration/&CaerLem_Beryl28_Persuasion_NPC	¿Crees que estoy feliz de estar a cargo de este lío?
 Narration/&CaerLem_Beryl29_Intimidation_WRITTEN	Estamos tomando el mando.
 Narration/&CaerLem_Beryl210_Persuasion_WRITTEN	Robar debería liderar.
 Narration/&CaerLem_Beryl211_Highclass_WRITTEN	Tus antepasados ​​estarían de acuerdo.
-Narration/&CaerLem_Beryl212_Intimidation_Default	Le relevamos del mando, en nombre del Consejo.
-Narration/&CaerLem_Beryl213_Beryl_NPC	Tú ... bueno ... cadena de mando, supongo.
-Narration/&CaerLem_Beryl214_Beryl_NPC	Bien ... ¡sáquennos de esto, diputados!
+Narration/&CaerLem_Beryl212_Intimidation_Default	Te relevamos del mando, en nombre del Consejo.
+Narration/&CaerLem_Beryl213_Beryl_NPC	Tú... bueno... cadena de mando, supongo.
+Narration/&CaerLem_Beryl214_Beryl_NPC	Bien... ¡sacadnos de esto, diputados!
 Narration/&CaerLem_Beryl215_Beryl_NPC	¡Vete a hervir la cabeza!
 Narration/&CaerLem_Beryl216_Persuasion_Default	Robar Sharp mandará en su lugar.
-Narration/&CaerLem_Beryl217_Beryl_NPC	¿Un antiguo mercenario? Hay una razón por la que no es oficial.
+Narration/&CaerLem_Beryl217_Beryl_NPC	¿Un antiguo mercenario? Hay una razón por la que no es un oficial.
 Narration/&CaerLem_Beryl218_Persuasion_Default	Es lo suficientemente capaz.
 Narration/&CaerLem_Beryl219_Sellsword_Default	Cuidado con lo que dices.
-Narration/&CaerLem_Beryl220_Highclass_Default	A tus nobles ancestros no les gustaría que murieras pudriéndote allí.
+Narration/&CaerLem_Beryl220_Highclass_Default	A tus nobles ancestros no les gustaría que murieras pudriéndote ahí.
 Narration/&CaerLem_Beryl221_Beryl_NPC	Quizás tengas razón.
-Narration/&CaerLem_Beryl222_Beryl_NPC	¡No puedo creer que me estés haciendo esto!
+Narration/&CaerLem_Beryl222_Beryl_NPC	¡No puedo creer que me hagas esto!
 Narration/&CaerLem_Beryl223_Any_Formal	¿Cómo te atreves?
 Narration/&CaerLem_Beryl224_Any_Slang	¡Vete a hervir la cabeza!
 Narration/&CaerLem_Beryl225_Any_Normal	No me gusta tu tono.
-Narration/&CaerLem_Beryl226_Beryl_NPC	Ey qué es eso… ?
+Narration/&CaerLem_Beryl226_Beryl_NPC	Ey ¿qué es eso...?
 Narration/&CaerLem_Beryl227_Beryl_RobarAttacked	¡Robar!
-Narration/&CaerLem_Beryl226_Beryl_LisbathAttacked	Lisbath!
-Narration/&CaerLem_DaliatKilled1_Beryl_NPC	Tienes que dar algunas explicaciones ...
-Narration/&CaerLem_DaliatKilled2_Starter_Default	Daliat te estaba ocultando esto.
-Narration/&CaerLem_DaliatKilled3_Authority_Formal	Creemos que pudo haber atraído a los Soraks.
+Narration/&CaerLem_Beryl226_Beryl_LisbathAttacked	¡Lisbath!
+Narration/&CaerLem_DaliatKilled1_Beryl_NPC	Tienes que dar algunas explicaciones...
+Narration/&CaerLem_DaliatKilled2_Starter_Default	Daliat te lo estaba ocultando.
+Narration/&CaerLem_DaliatKilled3_Authority_Formal	Creemos que puede haber atraído a los Sorak.
 Narration/&CaerLem_DaliatKilled4_Authority_Normal	Probablemente por eso atacaron.
 Narration/&CaerLem_DaliatKilled5_Any_Default	Se negó a dejarlo ir, a pesar del peligro.
 Narration/&CaerLem_DaliatKilled6_Robar_NPC	No me sorprende.
-Narration/&CaerLem_DaliatKilled7_Lisbath_NPC	Yo tampoco.
-Narration/&CaerLem_DaliatKilled8_Beryl_NPC	¿Eso es? Entonces, cuando sea tu turno de ser asesinado, ¿debería decir eso?
-Narration/&CaerLem_DaliatKilled9_Robar_NPC	Esperar lo… ?
-Narration/&CaerLem_DaliatKilled10_Robar_NPC	Lisbath!
+Narration/&CaerLem_DaliatKilled7_Lisbath_NPC	A mí tampoco.
+Narration/&CaerLem_DaliatKilled8_Beryl_NPC	¿Eso es todo? ¿Así que cuando te toque ser asesinado, sólo debo decir eso?
+Narration/&CaerLem_DaliatKilled9_Robar_NPC	Espera... ¿qué...?
+Narration/&CaerLem_DaliatKilled10_Robar_NPC	¡Lisbath!
 Narration/&CaerLem_RobarKilled1_Lisbath_NPC	¡Robar, no!
 Narration/&CaerLem_RobarKilled2_Beryl_NPC	Lo siento…
-Narration/&CaerLem_RobarKilled3_Lisbath_NPC	Tú ... todo esto es culpa tuya ...
-Narration/&CaerLem_RobarKilled4_Violence_Default	Los soldados mueren. Deberías saber eso.
-Narration/&CaerLem_RobarKilled5_Maraike_Default	Maraike llevará su alma a la paz.
-Narration/&CaerLem_RobarKilled6_Einar_Default	No te dejes engañar, los Soraks son los responsables ...
-Narration/&CaerLem_RobarKilled7_Einar_Default	… Y muchos otros caerán si no informamos al Consejo.
-Narration/&CaerLem_RobarKilled8_Jugdmental_Default	¿No crees que es hora de dejar de pelear?
-Narration/&CaerLem_RobarKilled9_Lisbath_NPC	Ustedes, ¡déjenme en paz!
-Narration/&CaerLem_RobarKilled10_Beryl_NPC	¡No puedes hacer eso!
-Narration/&CaerLem_TimeToGo1_Selpfresprag_Default	¡Vino de aquí! ¡Mirar!
-Narration/&CaerLem_TimeToGo2_Any_Default	¿Qué es esto? ¿Un pasaje secreto?
-Narration/&CaerLem_TimeToGo3_Any_Default	Desde la época imperial ...
-Narration/&CaerLem_TimeToGo4_Selpfresprag_Default	Eso fue solo un explorador ...
-Narration/&CaerLem_TimeToGo5_Selpfresprag_Default	… Vendrán más.
-Narration/&CaerLem_TimeToGo6_Default	¡Ellos estan aqui!
-Narration/&CaerLem_TimeToGo7_Default	¡Vuelven! ¡Fuera de!
-Narration/&CaerLem_TimeToGo8_Selfpres_Prag_Default	¡Tenemos que irnos! Toma tus cosas.
-Narration/&CaerLem_TimeToGo9_Selfpres_Prag_Default	¡Al pasaje secreto, antes de que sea demasiado tarde!
-Narration/&CaerLem_LisbathKilled1_Robar_NPC	Lisbath!
+Narration/&CaerLem_RobarKilled3_Lisbath_NPC	Tú... todo esto es culpa tuya... 
+Narration/&CaerLem_RobarKilled4_Violence_Default	Los soldados mueren. Deberías saberlo.
+Narration/&CaerLem_RobarKilled5_Maraike_Default	Maraike se llevará su alma a la paz.
+Narration/&CaerLem_RobarKilled6_Einar_Default	No te dejes engañar, los Sorak son los responsables... 
+Narration/&CaerLem_RobarKilled7_Einar_Default	y muchos otros caerán si no informamos al Consejo.
+Narration/&CaerLem_RobarKilled8_Jugdmental_Default	¿No crees que es hora de dejar de discutir?
+Narration/&CaerLem_RobarKilled9_Lisbath_NPC	Vosotros, ¡dejadme en paz!
+Narration/&CaerLem_RobarKilled10_Beryl_NPC	¡No puedes hacer eso! 
+Narration/&CaerLem_TimeToGo1_Selpfresprag_Default	¡Ha venido de aquí! ¡Mira!
+Narration/&CaerLem_TimeToGo2_Any_Default	¿Qué es esto? ¿Un pasadizo secreto?
+Narration/&CaerLem_TimeToGo3_Any_Default	Desde la época imperial...
+Narration/&CaerLem_TimeToGo4_Selpfresprag_Default	Eso era sólo un explorador... 
+Narration/&CaerLem_TimeToGo5_Selpfresprag_Default	vendrán más.
+Narration/&CaerLem_TimeToGo6_Default	¡Ya están aquí!
+Narration/&CaerLem_TimeToGo7_Default	Están volviendo! ¡Fuera!
+Narration/&CaerLem_TimeToGo8_Selfpres_Prag_Default	¡Tenemos que irnos! Coged vuestras cosas.
+Narration/&CaerLem_TimeToGo9_Selfpres_Prag_Default	¡Al pasadizo secreto, antes de que sea demasiado tarde!
+Narration/&CaerLem_LisbathKilled1_Robar_NPC	¡Lisbath!
 Narration/&CaerLem_LisbathKilled2_Beryl_NPC	Lo siento…
-Narration/&CaerLem_LisbathKilled3_Robar_NPC	Yo debería…
+Narration/&CaerLem_LisbathKilled3_Robar_NPC	Debería haber... 
 Narration/&CaerLem_LisbathKilled4_Sellsword_Default	Quédate con nosotros, hermano. No somos el enemigo.
-Narration/&CaerLem_LisbathKilled5_Robar_NPC	Soraks ...
-Narration/&CaerLem_LisbathKilled6_Beryl_NPC	Derecha. ¿Quién está loco ahora?
-Narration/&CaerLem_LisbathKilled7_Einar_Default	¡Debemos alertar al Consejo!
-Narration/&CaerLem_LisbathKilled8_Selfpres_Normal	Tenemos que salir de aquí, ¡eso es lo que necesitamos!
+Narration/&CaerLem_LisbathKilled5_Robar_NPC	Soraks...
+Narration/&CaerLem_LisbathKilled6_Beryl_NPC	Bien. ¿Quién está loco ahora?
+Narration/&CaerLem_LisbathKilled7_Einar_Default	¡Debemos avisar al Consejo!
+Narration/&CaerLem_LisbathKilled8_Selfpres_Normal	¡Tenemos que salir de aquí, eso es lo que necesitamos!
 Narration/&CaerLem_LisbathKilled9_Selfpres_Formal	Sobrevivir es lo que importa ahora.
-Narration/&CaerLem_LisbathKilled10_Authority_Normal	¡Mira esa piel! Es increíble…
+Narration/&CaerLem_LisbathKilled10_Authority_Normal	¡Mira esa piel! Es increíble... 
 Narration/&CaerLem_BerylKilled1_Lisbath_NPC	Oh no…
-Narration/&CaerLem_BerylKilled2_Robar_NPC	Sabes que se lo esperaba. Ella nos falló.
-Narration/&CaerLem_BerylKilled3_JudgmentalAny_Default	¿Feliz ahora?
-Narration/&CaerLem_BerylKilled4_Robar_NPC	Nosotros no hicimos esto ... el ... Sorak lo hizo.
-Narration/&CaerLem_BerylKilled5_Pragmatic_Default	En ese mismo momento. Ellos son reales.
-Narration/&CaerLem_BerylKilled6_Einar_Default	¡Es increíble! ¡El Consejo debe saberlo!
+Narration/&CaerLem_BerylKilled2_Robar_NPC	Sabes que se lo merecía. Nos ha fallado.
+Narration/&CaerLem_BerylKilled3_JudgmentalAny_Default	¿Contento ahora?
+Narration/&CaerLem_BerylKilled4_Robar_NPC	Nosotros no hicimos esto... el... Sorak lo hizo.
+Narration/&CaerLem_BerylKilled5_Pragmatic_Default	Bien, entonces. Son reales.
+Narration/&CaerLem_BerylKilled6_Einar_Default	¡Esto es increíble! ¡El Consejo debe saberlo!
 Narration/&CaerLem_BerylKilled7_Selfpres_Default	Y tenemos que irnos, o seremos los siguientes.
-Narration/&CaerLem_BerylKilled8_Jugdmental_Default	Esto podría haberse evitado si ustedes no hubieran perdido el tiempo discutiendo.
-Narration/&CaerLem_BerylKilled9_Logical_Default	Centrémonos aquí. No podemos salvarla ahora, pero aún podemos salvarnos a nosotros mismos.
+Narration/&CaerLem_BerylKilled8_Jugdmental_Default	Esto podría haberse evitado si no hubierais perdido el tiempo discutiendo.
+Narration/&CaerLem_BerylKilled9_Logical_Default	Centrémonos en esto. No podemos salvarla ahora, pero aún podemos salvarnos a nosotros mismos.
 Narration/&CaerLem_InTunnel1_Starter_Default	Parece tranquilo.
-Narration/&CaerLem_InTunnel2_Selfpres_Default	Debemos ser cautelosos. Otros soraks podrían estar explorando estas cuevas.
+Narration/&CaerLem_InTunnel2_Selfpres_Default	Debemos ser precavidos. Más Soraks podrían estar explorando estas cuevas.
 Narration/&CaerLem_InTunnel3_Partner_Default	Oye, ¿dónde está Daliat?
-Narration/&CaerLem_InTunnel4_Starter_Default	Estuvo aquí hace un momento.
+Narration/&CaerLem_InTunnel4_Starter_Default	Estaba aquí hace un momento.
 Narration/&CaerLem_InTunnel5_Selfpres_Default	¿Los Soraks?
 Narration/&CaerLem_InTunnel6_Beryl_NPC	Daliat siempre tuvo sus propios secretos.
-Narration/&CaerLem_InTunnel7_Beryl_NPC	Creo que simplemente siguió su propio camino.
-Narration/&CaerLem_InTunnel8_Starter_Default	Y los demás están en la torre buscando esa puerta secreta. No tenemos muchas opciones… ¡movámonos!
+Narration/&CaerLem_InTunnel7_Beryl_NPC	Creo que siguió su propio camino.
+Narration/&CaerLem_InTunnel8_Starter_Default	Y los demás están en la torre buscando esa puerta secreta. No tenemos muchas opciones... ¡vamos a movernos!
 Narration/&CaerLem_InTunnel1_Beryl_NPC	Esperar…
 Narration/&CaerLem_InTunnel1_Robar_NPC	Esperar…
 Narration/&CaerLem_InTunnel2_Starter_Normal	¿Crees que son Soraks?
-Narration/&CaerLem_InTunnel3_Starter_Formal	¿Son esos Soraks?
-Narration/&CaerLem_InTunnel4_Cynicism_Default	¿Quién más?
+Narration/&CaerLem_InTunnel3_Starter_Formal	¿Son Soraks?
+Narration/&CaerLem_InTunnel4_Cynicism_Default	¿Que otra cosa?
 Narration/&CaerLem_InTunnel5_Violence_Default	Podemos sorprenderlos.
 Narration/&CaerLem_InTunnel6_Selfpres_Default	¿No podemos escabullirnos?
-Narration/&CaerLem_InTunnel7_Prag_Default	Por lo que veo, no es una casualidad.
-Narration/&CaerLem_InTunnel8_Violence_Default	Está bien. Pisa con cuidado y atacaremos todos a la vez.
-Narration/&CaerLem_InspectFort1_Starter_Default	¿Qué piensas?
-Narration/&CaerLem_InspectFort2_Stonecunning_Default	Arquitectura típica de Manacalon ...
-Narration/&CaerLem_InspectFort3_Stonecunning_Default	... la piedra es un libro de texto ...
-Narration/&CaerLem_InspectFort4_Stonecunning_Default	… Usando esta piedra naranja de la montaña.
-Narration/&CaerLem_InspectFort5_Starter_Default	¿Eso es? ¿Piedra naranja?
+Narration/&CaerLem_InTunnel7_Prag_Default	Por lo que veo, no es posible.
+Narration/&CaerLem_InTunnel8_Violence_Default	Muy bien. Vayamos con cuidado y ataquemos todos a la vez.
+Narration/&CaerLem_InspectFort1_Starter_Default	¿Qué te parece?
+Narration/&CaerLem_InspectFort2_Stonecunning_Default	Arquitectura típica de Manacalon... 
+Narration/&CaerLem_InspectFort3_Stonecunning_Default	la piedra es un libro de texto
+Narration/&CaerLem_InspectFort4_Stonecunning_Default	usando esta piedra naranja de la montaña.
+Narration/&CaerLem_InspectFort5_Starter_Default	¿Eso es todo? ¿Piedra naranja?
 Narration/&CaerLem_InspectFort5_Starter_Formal	¿Eso es todo? ¿Roca?
 Narration/&CaerLem_InspectFort6_Stonecunning_Default	No estoy respondiendo a eso.
 Narration/&CaerLem_InspectFort6_Stonecunning_Formal	No dignificaré esa pregunta con una respuesta.
 Narration/&CaerLem_InspectFort7_dunno	Quizás un enano podría hablarte de la piedra.
-Narration/&CaerLem_InspectFort8_dunno	Supongo que es ... buena piedra.
-Narration/&CaerLem_InspectFort9_dunno	Bueno, eso fue esclarecedor.
+Narration/&CaerLem_InspectFort8_dunno	Supongo que es... buena piedra.
+Narration/&CaerLem_InspectFort9_dunno	Bueno, ha sido esclarecedor.
 Narration/&CaerLem_InspectTeleporter1_Starter_Normal	¿Qué es esto?
-Narration/&CaerLem_InspectTeleporter2_Starter_Formal	¿Que es esta cosa?
-Narration/&CaerLem_InspectTeleporter3_Arcane_Normal	Creo que fue una puerta menor.
-Narration/&CaerLem_InspectTeleporter4_Arcane_Formal	Creo que esto se llamó Puerta Imperial menor.
-Narration/&CaerLem_InspectTeleporter5_Arcane_Default	En su apogeo, el Imperio Manacalon tenía innumerables Puertas como esta.
-Narration/&CaerLem_InspectTeleporter6_Arcane_Default	Viajar mágicamente por el Imperio.
-Narration/&CaerLem_InspectTeleporter7_Partner_Default	¿Supongo que todavía no funciona?
+Narration/&CaerLem_InspectTeleporter2_Starter_Formal	¿Qué es esto?
+Narration/&CaerLem_InspectTeleporter3_Arcane_Normal	Creo que era una puerta menor.
+Narration/&CaerLem_InspectTeleporter4_Arcane_Formal	Creo que a esto se le llamó Puerta Imperial menor.
+Narration/&CaerLem_InspectTeleporter5_Arcane_Default	En su apogeo, el Imperio de Manacalon tenía innumerables Puertas como esta.
+Narration/&CaerLem_InspectTeleporter6_Arcane_Default	para viajar mágicamente por el Imperio.
+Narration/&CaerLem_InspectTeleporter7_Partner_Default	¿Supongo que ya no funciona?
 Narration/&CaerLem_InspectTeleporter8_Arcane_Default	Algunos dicen que todavía hay puertas en funcionamiento.
-Narration/&CaerLem_InspectTeleporter9_Commentator_Default	¿Y esta placa? ¿Algún valor?
+Narration/&CaerLem_InspectTeleporter9_Commentator_Default	¿Y esta placa? ¿Tiene algún valor?
 Narration/&CaerLem_InspectTeleporter10_Arcane_Default	Quizás. ¿La Torre del Conocimiento? ¿Por qué no?
 Narration/&CaerLem_InspectCorpse1_Starter_Default	Este no murió ayer.
 Narration/&CaerLem_InspectCorpse2_Partner_Default	¿Qué es este atuendo?
-Narration/&CaerLem_InspectCorpse3_History_Default	Tirmarian.
+Narration/&CaerLem_InspectCorpse3_History_Default	Tirmariano.
 Narration/&CaerLem_InspectCorpse4_Selfpres_Default	¿Quién quiere abrir esto?
-Narration/&CaerLem_InspectCorpse5_Greed_Default	Nunca se sabe, podría haber una fortuna allí.
+Narration/&CaerLem_InspectCorpse5_Greed_Default	Nunca se sabe, podría haber una fortuna ahí dentro.
 Narration/&CaerLem_InspectTirmarian1_Starter_Default	¿Alguien puede leer eso?
 Narration/&CaerLem_InspectTirmarian2_History_Default	Es el viejo tirmariano.
-Narration/&CaerLem_InspectTirmarian3_History_Default	Parece parte del atuendo de un inquisidor.
-Narration/&CaerLem_InspectTirmarian4_Partner_Default	¿Entonces eso es de… la torre allá arriba?
-Narration/&CaerLem_InspectTirmarian5_Starter_Default	¿Quizás estemos dentro de la torre?
+Narration/&CaerLem_InspectTirmarian3_History_Default	Parece parte del traje de un inquisidor.
+Narration/&CaerLem_InspectTirmarian4_Partner_Default	¿Así que eso es de... la torre de ahí arriba?
+Narration/&CaerLem_InspectTirmarian5_Starter_Default	¿Tal vez estamos dentro de la torre?
 Narration/&CaerLem_InspectTirmarian6_Greed_Default	¿Eso es oro?
 Narration/&CaerLem_InspectTirmarian7_History_Default	Esto es historia. ¡Historia, a nuestro alrededor!
-Narration/&CaerLem_InspectTirmarian8_Prag_Default	¡Tómalo y movámonos! A los soraks no les importa la historia, estoy seguro.
-Narration/&CaerLem_End1_Starter_Default	¡Estaban a salvo!
-Narration/&CaerLem_End2_Partner_Default	Aún tenemos que volver a Caer Cyflen.
+Narration/&CaerLem_InspectTirmarian8_Prag_Default	¡Cógelo y movámonos! A los Sorak no les importa la historia, estoy seguro.
+Narration/&CaerLem_End1_Starter_Default	¡Estamos a salvo!
+Narration/&CaerLem_End2_Partner_Default	Todavía tenemos que volver a Caer Cyflen.
 Narration/&CaerLem_End3_Commentator_Default	El camino no está lejos.
-Narration/&CaerLem_End4_Starter_Normal	Te veremos allí, ¿de acuerdo? ¿Estarás bien?
-Narration/&CaerLem_End5_Starter_Formal	¿Supongo que nos volveremos a encontrar en Caer Cyflen? ¿Estáis bien para volver solos?
+Narration/&CaerLem_End4_Starter_Normal	Nos veremos allí, ¿de acuerdo? ¿Estarás bien?
+Narration/&CaerLem_End5_Starter_Formal	¿Supongo que nos encontraremos de nuevo en Caer Cyflen? ¿Estáis bien para volver por vosotros solos?
 Narration/&CaerLem_End7_Beryl_NPC	Por supuesto.
-Narration/&CaerLem_End8_Daliat_NPC	Seguro.
+Narration/&CaerLem_End8_Daliat_NPC	Claro.
 Narration/&CaerLem_End9_Lisbath_NPC	Si.
-Narration/&Council01_1_NPC_Carran	¡Oh, aquí estás!
-Narration/&Council01_2_NPC_Carran	¿Cómo estuvo la misión?
+Narration/&Council01_1_NPC_Carran	¡Oh, aquí estáis!
+Narration/&Council01_2_NPC_Carran	¿Qué tal la misión?
 Narration/&Council01_3_Any_Practical	Exitoso.
 Narration/&Council01_4_Any_Exalted	¡No lo vas a creer!
 Narration/&Council01_5_Any_Cynical	¡Casi morimos!
@@ -1401,11 +1401,11 @@ Narration/&Council01_13_NPC_follows6_Carran	Por supuesto. Informaré al Consejo 
 Narration/&Council01_14_NPC_follows7_Carran	¿Quien es?
 Narration/&Council01_15_NPC_follows8_Carran	Agradezco tu profesionalismo.
 Narration/&Council01_16_NPC_follows8_Carran	No hay deshonra en algunas cicatrices.
-Narration/&Council01_17_Any_Practical	¿Cuándo podemos esperar una audiencia?
-Narration/&Council01_18_NPC_Carran	Depende ... mañana, si tienes suerte.
-Narration/&Council01_19_NPC_Carran	Ayer volvió otra fiesta ...
-Narration/&Council01_20_NPC_Carran	... y todavía tienen que hacer su informe, así que ...
-Narration/&Council01_21_NPC_Carran	… Tal vez los vean a los dos a la vez.
+Narration/&Council01_17_Any_Practical	¿Cuándo podemos conseguir una audiencia?
+Narration/&Council01_18_NPC_Carran	Depende... mañana, si tienes suerte.
+Narration/&Council01_19_NPC_Carran	Ayer volvió otro grupo...
+Narration/&Council01_20_NPC_Carran	y todavía tienen que hacer su informe, así que...
+Narration/&Council01_21_NPC_Carran	tal vez os vean a ambos a la vez.
 Narration/&Council01_22_Any_Practical	¡Tenemos noticias urgentes!
 Narration/&Council01_23_Any_Practical_Slang	¡Escucha, no podemos esperar por aquí! ¡Lo que tenemos es grande!
 Narration/&Council01_24_Any_Practical	¡El puesto de avanzada de Caer Lem ha sido atacado!
@@ -1419,143 +1419,143 @@ Narration/&Council01_31_Any_ReligionEinar	¡Casi toda la guarnición fue asesina
 Narration/&Council01_32_NPC_Carran	¿Soraks?
 Narration/&Council01_33_NPC_Carran	¿Eso es una broma?
 Narration/&Council01_34_Any_Other	Me temo que no.
-Narration/&Council01_35_Any_Other_slang	Los vimos ... ¡con nuestros propios ojos!
-Narration/&Council01_36_NPC_Carran	Bueno, si quieres llevar eso al Consejo ...
-Narration/&Council01_37_NPC_Carran	… Esa es tu decisión.
-Narration/&Council01_38_NPC_Carran	Si estás tan ansioso por parecer idiotas ...
-Narration/&Council01_39_NPC_Carran	Reúnete conmigo en la cámara del Consejo.
-Narration/&Council01_40_NPC_Speaker	El Legacy Council está ahora en sesión.
+Narration/&Council01_35_Any_Other_slang	Los hemos visto... ¡con nuestros propios ojos!
+Narration/&Council01_36_NPC_Carran	Bueno, si queréis comentar eso en el Consejo...
+Narration/&Council01_37_NPC_Carran	es vuestra decisión.
+Narration/&Council01_38_NPC_Carran	Si estáis ansiosos de hacer los idiotas...
+Narration/&Council01_39_NPC_Carran	reúnete conmigo en la cámara del Consejo.
+Narration/&Council01_40_NPC_Speaker	¡Se abre la sesión del Consejo del Legado!
 Narration/&Council01_41_NPC_Speaker	Tiene la palabra la capitana Heather Merran.
-Narration/&Council01_42_NPC_Ed_Morgan	Damas y caballeros ... Su Alteza Real ...
-Narration/&Council01_43_NPC_Ed_Morgan	… Mi partido y yo hemos hecho un descubrimiento muy preocupante.
-Narration/&Council01_44_NPC_Ed_Morgan	En las Tierras Inhóspitas ...
-Narration/&Council01_45_NPC_Ed_Morgan	... cerca del lugar que llamamos Black Hill ...
-Narration/&Council01_46_NPC_Ed_Morgan	... vimos un grupo que tomamos por carroñeros.
-Narration/&Council01_47_NPC_Ed_Morgan	Nos atacaron de inmediato ...
-Narration/&Council01_48_NPC_Ed_Morgan	… Pero pudimos luchar contra ellos.
-Narration/&Council01_49_NPC_Ed_Morgan	Estaban tratando de salirse con la suya.
+Narration/&Council01_42_NPC_Ed_Morgan	Damas y caballeros... Su Alteza Real...
+Narration/&Council01_43_NPC_Ed_Morgan	mi grupo y yo hemos hecho un descubrimiento muy preocupante.
+Narration/&Council01_44_NPC_Ed_Morgan	En las Tierras Inhóspitas...
+Narration/&Council01_45_NPC_Ed_Morgan	cerca del lugar que llamamos Black Hill...
+Narration/&Council01_46_NPC_Ed_Morgan	vimos un grupo que creíamos que eran Carroñeros.
+Narration/&Council01_47_NPC_Ed_Morgan	Nos atacaron de inmediato...
+Narration/&Council01_48_NPC_Ed_Morgan	pero pudimos luchar contra ellos.
+Narration/&Council01_49_NPC_Ed_Morgan	Estaban tratando de llevarse esto.
 Narration/&Council01_50_NPC_Antiquarian_Gormsdottir	¿Qué es?
-Narration/&Council01_51_NPC_Ed_Morgan	Esta caja contiene una gema ... Un rubí, al parecer.
-Narration/&Council01_52_NPC_Ed_Morgan	Hemos determinado que tiene propiedades mágicas ...
-Narration/&Council01_53_NPC_Ed_Morgan	… Y creemos que el Consejo debería examinarlo.
-Narration/&Council01_54_NPC_Danantar	Así que lo haremos, capitán, pero de verdad ...
-Narration/&Council01_55_NPC_Danantar	…¿eso es todo?
+Narration/&Council01_51_NPC_Ed_Morgan	Esta caja contiene una gema. Un rubí al parecer.
+Narration/&Council01_52_NPC_Ed_Morgan	Hemos averiguado que tiene propiedades mágicas...
+Narration/&Council01_53_NPC_Ed_Morgan	y creemos que el Consejo debería examinarlo.
+Narration/&Council01_54_NPC_Danantar	Así lo haremos, capitana, pero en serio...
+Narration/&Council01_55_NPC_Danantar	¿eso es todo?
 Narration/&Council01_56_NPC_Danantar	¿Convocaste una reunión de emergencia del Consejo por una simple joya mágica?
-Narration/&Council01_57_NPC_Danantar	Su Alteza Real tiene una agenda muy ocupada ...
-Narration/&Council01_58_NPC_Princess	Por favor, Lord Danantar, en esta cámara solo soy un estudiante de magia.
+Narration/&Council01_57_NPC_Danantar	Su Alteza Real tiene una agenda muy ocupada...
+Narration/&Council01_58_NPC_Princess	Por favor Lord Danantar, en esta cámara solo soy una estudiante de magia.
 Narration/&Council01_59_NPC_Danantar	¡Escucha Escucha!
-Narration/&Council01_60_NPC_Danantar	De todos modos, Capitán, el Consejo tiene muchos negocios ...
-Narration/&Council01_61_NPC_Ed_Morgan	Eran Soraks, nuestros atacantes ... no carroñeros, no bandidos ... ¡Soraks!
+Narration/&Council01_60_NPC_Danantar	De todos modos, Capitana, el Consejo tiene muchos trabajo...
+Narration/&Council01_61_NPC_Ed_Morgan	Nuestros atacantes eran Soraks... no eran Carroñeros ni bandidos... sino Soraks.
 Narration/&Council01_62_NPC_Danantar	...
 Narration/&Council01_63_NPC_Antiquarian_Gormsdottir	¿Soraks?
 Narration/&Council01_64_NPC_Tower_Faisech	¿Esto es una broma?
 Narration/&Council01_65_NPC_Einar	¡Los Sorr-Akkath no son motivo de risa, Lord Faisech!
-Narration/&Council01_66_NPC_Tower_Faisech	Oh, sabes a lo que me refiero.
+Narration/&Council01_66_NPC_Tower_Faisech	Oh, ya sabes a lo que me refiero.
 Narration/&Council01_67_NPC_Princess	¿Qué quiere decir, mi señor?
-Narration/&Council01_68_NPC_Tower_Faisech_Faisech	¿Cuántas veces ha escuchado el Consejo historias de estos llamados Soraks?
+Narration/&Council01_68_NPC_Tower_Faisech_Faisech	¿Cuántas veces ha escuchado el Consejo historias de estos... Soraks?
 Narration/&Council01_69_NPC_Antiquarian_Gormsdottir	Al menos veinte, diría yo.
-Narration/&Council01_70_NPC_Einarium_Sunblaze	Más. Veintitres.
-Narration/&Council01_71_NPC_Danantar	Más cada año. Se está convirtiendo en una moda.
-Narration/&Council01_72_NPC_Tower_Faisech	Lo siento, capitán, pero ... ¿está seguro de que se encontró con Soraks?
+Narration/&Council01_70_NPC_Einarium_Sunblaze	Más. Unos veintitres.
+Narration/&Council01_71_NPC_Danantar	Y cada año va en aumento. Se está convirtiendo en una moda.
+Narration/&Council01_72_NPC_Tower_Faisech	Lo siento, capitana, pero... ¿está segura de que se topó con Soraks?
 Narration/&Council01_73_PlayerChoice_Default	¡Nosotros también!
 Narration/&Council01_74_PlayerChoice_Exalted	¡Es cierto! ¡Son reales!
 Narration/&Council01_75_PlayerChoice_Authoritative	Si duda de su palabra, ¡puede confiar en la nuestra! ¡Luchamos contra Soraks nosotros mismos!
 Narration/&Council01_76_PlayerChoice_Practical	¡Está diciendo la verdad!
 Narration/&Council01_77_NPC_Tower_Faisech	¿Qué?
 Narration/&Council01_78_NPC_Tower_Faisech	¿Y tú quién eres?
-Narration/&Council01_79_NPC_LeiraKean	Algunos nuevos reclutas, mi señor. Fueron juramentados recientemente.
-Narration/&Council01_80_NPC_Tower_Faisech	Nuevos reclutas, ¿eh? Al parecer, dan demasiada importancia a los rumores.
-Narration/&Council01_81_NPC_LeiraKean	Me aseguran que también vieron a Soraks.
-Narration/&Council01_82_NPC_Einarium_Sunblaze	¡Esperar!
-Narration/&Council01_83_NPC_Einarium_Sunblaze	¿Te das cuenta de lo grave que es esto?
-Narration/&Council01_84_PlayerChoice_1_WRITTEN	Hacemos.
-Narration/&Council01_85_PlayerChoice_2_WRITTEN	Los vimos.
-Narration/&Council01_86_PlayerChoice_3_WRITTEN	Atacaron a Caer Lem.
-Narration/&Council01_84_PlayerChoice_1	Hacemos.
-Narration/&Council01_85_PlayerChoice_2	¡Los Soraks son reales! Los vimos ... ¡luchamos contra ellos!
-Narration/&Council01_86_PlayerChoice_3	Atacaron el puesto de avanzada de Caer Lem ... ¡la guarnición sufrió graves pérdidas!
-Narration/&Council01_87_NPC_Einarium_Sunblaze_1	Nunca hemos tenido dos avistamientos al mismo tiempo.
-Narration/&Council01_88_NPC_Tower_Faisech_1	¡Pah! ¿Eso hace que esta tontería sea más creíble?
-Narration/&Council01_89_NPC_Einarium_Sunblaze_2	Dos avistamientos: ¡testigos independientes! ¿Cuándo verás la verdad?
+Narration/&Council01_79_NPC_LeiraKean	Algunos de los nuevos reclutas, mi señor. Fueron juramentados hace poco.
+Narration/&Council01_80_NPC_Tower_Faisech	Nuevos reclutas, ¿eh? Pues al parecer, dan demasiada importancia a los rumores.
+Narration/&Council01_81_NPC_LeiraKean	Me aseguran que también vieron a los Soraks.
+Narration/&Council01_82_NPC_Einarium_Sunblaze	¡Esperad!
+Narration/&Council01_83_NPC_Einarium_Sunblaze	¿Os dais cuenta de lo serio que es esto?
+Narration/&Council01_84_PlayerChoice_1_WRITTEN	Lo sabemos.
+Narration/&Council01_85_PlayerChoice_2_WRITTEN	Los hemos visto.
+Narration/&Council01_86_PlayerChoice_3_WRITTEN	Atacaron Caer Lem.
+Narration/&Council01_84_PlayerChoice_1	Lo sabemos.
+Narration/&Council01_85_PlayerChoice_2	¡Los Sorak son reales! Los vimos... ¡luchamos contra ellos!
+Narration/&Council01_86_PlayerChoice_3	Atacaron el puesto de avanzada de Caer Lem... ¡la guarnición sufrió graves pérdidas!
+Narration/&Council01_87_NPC_Einarium_Sunblaze_1	Nunca se ha informado de dos avistamientos al mismo tiempo.
+Narration/&Council01_88_NPC_Tower_Faisech_1	¡Pah! ¿Eso hace más creíble esta tontería?
+Narration/&Council01_89_NPC_Einarium_Sunblaze_2	Dos avistamientos, ¡testigos independientes! ¿Cuándo verás la verdad?
 Narration/&Council01_90_NPC_Morgan_2	¡Sí, señor!
-Narration/&Council01_91_NPC_Morgan_2	Reptilianos ... rápidos, fuertes ...
-Narration/&Council01_92_PlayerSelection_Authoritative	… ¡Pueden trepar por las paredes como las arañas!
-Narration/&Council01_93_PlayerSelection_Default	… ¡También son duros!
+Narration/&Council01_91_NPC_Morgan_2	Reptilianos... rápidos, fuertes... 
+Narration/&Council01_92_PlayerSelection_Authoritative	…¡Pueden trepar por las paredes como las arañas!
+Narration/&Council01_93_PlayerSelection_Default	…¡También son duros!
 Narration/&Council01_94_NPC_Einarium_Sunblaze_3	Caer Lem? ¿El puesto de avanzada en las Marcas?
 Narration/&Council01_95_NPC_Einarium_Sunblaze_3	¿Qué quiere decir con grandes pérdidas?
-Narration/&Council01_96_PlayerSelection_Authoritative	Los Soraks se hicieron cargo del capitán Henrik ...
-Narration/&Council01_97_PlayerSelection_Authoritative	... y solo dos de ellos siguen vivos.
+Narration/&Council01_96_PlayerSelection_Authoritative	Los Sorak se llevaron al capitán Henrik... 
+Narration/&Council01_97_PlayerSelection_Authoritative	y solo dos de ellos siguen vivos.
 Narration/&Council01_98_PlayerSelection_Authoritative	Ellos también pueden testificar.
 Narration/&Council01_99_NPC_Gormsdottir	¿Tiene alguna… prueba material de su existencia?
-Narration/&Council01_100_PlayerSelection_Authoritative	¿Le ruego me disculpe?
+Narration/&Council01_100_PlayerSelection_Authoritative	¿Perdón?
 Narration/&Council01_101_NPC_Morgan	¿Cómo qué?
-Narration/&Council01_102_NPC_Tower_Faisech	Bueno ... ¡Un cadáver, por ejemplo!
-Narration/&Council01_103_NPC_Tower_Faisech	¿O incluso solo una cabeza?
-Narration/&Council01_104_NPC_Einar	Si vamos a Caer Lem, ¿encontraremos los cuerpos de estos Soraks?
+Narration/&Council01_102_NPC_Tower_Faisech	Bueno... ¡Un cadáver, por ejemplo!
+Narration/&Council01_103_NPC_Tower_Faisech	¿O al menos una cabeza?
+Narration/&Council01_104_NPC_Einar	Si vamos a Caer Lem, ¿encontraremos los cuerpos de esos Soraks?
 Narration/&Council01_105_PlayerSelection_Authoritative	Probablemente no.
 Narration/&Council01_106_NPC_Morgan	Se llevaron a sus muertos cuando se retiraron.
 Narration/&Council01_107_PlayerSelection_Authoritative	Los cuerpos de sus víctimas también.
 Narration/&Council01_108_NPC_Tower_Faisech	¡Hm! ¡Qué conveniente!
-Narration/&Council01_109_NPC_Tower_Faisech	Así que no puede ofrecernos ninguna prueba de esto ...
-Narration/&Council01_110_NPC_Tower_Faisech	... fábula de aventureros.
+Narration/&Council01_109_NPC_Tower_Faisech	Así que no puede ofrecernos ninguna prueba de esto...
+Narration/&Council01_110_NPC_Tower_Faisech	fábula de aventureros.
 Narration/&Council01_111_NPC_Einarium_Sunblaze	¿Y si se presentaran pruebas ante el Consejo?
 Narration/&Council01_112_NPC_Tower_Faisech	¿Qué prueba? ¿Cómo?
-Narration/&Council01_113_NPC_Tower_Faisech	Si los soraks se llevan a sus caídos, como dicen.
-Narration/&Council01_114_NPC_Danantar	Ese no es nuestro problema. Déjalos encontrar un camino.
+Narration/&Council01_113_NPC_Tower_Faisech	Dicen que los Soraks se llevan a sus caídos.
+Narration/&Council01_114_NPC_Danantar	Ese no es nuestro problema. Que encuentren la manera.
 Narration/&Council01_115_NPC_Arcaneum_Keenmind	Estos son nuevos reclutas, ¿correcto?
-Narration/&Council01_116_NPC_Arcaneum_Keenmind	Entonces deja que esta sea su nueva misión:
-Narration/&Council01_117_NPC_Arcaneum_Keenmind	Tráenos la cabeza de un Sorak, para que la vea todo el Consejo.
-Narration/&Council01_118_NPC_Einarium_Sunblaze	Sin duda, eso sería una prueba, Lord Faisech, ¿no es así?
-Narration/&Council01_119_NPC_Tower_Faisech	Oh muy bien. Mientras tanto, el Consejo examinará la gema.
+Narration/&Council01_116_NPC_Arcaneum_Keenmind	 Entonces que esta sea su nueva misión:
+Narration/&Council01_117_NPC_Arcaneum_Keenmind	Traednos la cabeza de un Sorak, para que la vea todo el Consejo.
+Narration/&Council01_118_NPC_Einarium_Sunblaze	Sin duda eso sería una prueba, ¿no es así Lord Faisech?
+Narration/&Council01_119_NPC_Tower_Faisech	Oh, muy bien. Mientras tanto, el Consejo examinará la gema.
 Narration/&Council01_120_NPC_Tower_Faisech	¿Si no hay nada más?
-Narration/&Council01_121_NPC_Speaker	¡Dean Iolair Faisech de la Torre del Conocimiento pide un receso!
+Narration/&Council01_121_NPC_Speaker	¡El decano Iolair Faisech de la Torre del Conocimiento pide un receso!
 Narration/&Council01_122_NPC_Speaker	¿Algún miembro se opone?
-Narration/&Council01_123_NPC_Speaker	¿No? ¡Entonces está resuelto! ¡El Legacy Council está ahora en receso!
-Narration/&Council01_124_NPC_Carran	De hecho, salió mejor de lo que esperaba.
-Narration/&Council01_125_PlayerChoice_Cynical_WRITTEN	¿Quién es el enano gruñón?
+Narration/&Council01_123_NPC_Speaker	¿No? Entonces, ¡está decidido! El Consejo del Legado se encuentra en receso.
+Narration/&Council01_124_NPC_Carran	En realidad, ha ido mejor de lo que esperaba.
+Narration/&Council01_125_PlayerChoice_Cynical_WRITTEN	¿Quién es la enana gruñona?
 Narration/&Council01_126_PlayerChoice_Einar_WRITTEN	Tuvimos que apoyar a Merran.
-Narration/&Council01_127_PlayerChoice_Nobility_WRITTEN	La princesa es insulsa.
+Narration/&Council01_127_PlayerChoice_Nobility_WRITTEN	La princesa es aburrida.
 Narration/&Council01_128_PlayerChoice_Urchin_WRITTEN	Son calentadores de asientos.
 Narration/&Council01_125_PlayerChoice_Cynical	¿Quién es la enana gruñona?
-Narration/&Council01_126_PlayerChoice_Einar	Tuvimos que apoyar a Merran ... Sabemos que ella dice la verdad.
-Narration/&Council01_127_PlayerChoice_Nobility	Debo decir que la Princesa ... no era lo que esperaba.
-Narration/&Council01_128_PlayerChoice_Urchin	Son solo un grupo de politiqueros que calientan los asientos, a pesar de todos sus aires y gracias.
+Narration/&Council01_126_PlayerChoice_Einar	Tuvimos que apoyar a Merran... sabemos que ella dice la verdad.
+Narration/&Council01_127_PlayerChoice_Nobility	Debo decir que la Princesa... no era lo que esperaba.
+Narration/&Council01_128_PlayerChoice_Urchin	A pesar de sus aires de grandeza, no son más que un puñado de politicuchos.
 Narration/&Council01_129_NPC_Carran	Canciller Hertha Gormsdottir, del Gremio de Anticuarios.
-Narration/&Council01_130_NPC_Carran	Ella es ... Bueno, sí. Bastante.
+Narration/&Council01_130_NPC_Carran	Ella es... Bueno, sí. Bastante..
 Narration/&Council01_131_NPC_Carran	Estoy seguro de que apreciará tu apoyo.
 Narration/&Council01_132_NPC_Carran	¿Oh? ¿Y qué esperabas exactamente?
 Narration/&Council01_133_PlayerChoice_Cynical_WRITTEN	Alguien mayor.
 Narration/&Council01_133_PlayerChoice_Highclass_WRITTEN	Alguien… ¿un poco más presentable?
 Narration/&Council01_133_PlayerChoice_Authority_WRITTEN	Alguien más digno.
-Narration/&Council01_133_PlayerChoice_Cynical	Una chica bonita y con la cabeza vacía. Oh espera…
-Narration/&Council01_134_NPC_Carran	¡Cuidado con lo que dices! Ella puede ocupar un lugar bajo en el Consejo ...
-Narration/&Council01_135_NPC_Carran	… Pero ella es nuestra soberana y es muy querida en el Principado.
-Narration/&Council01_136_PlayerChoice_Authoritative	Más… ¿cómo decirlo? ¿Una personalidad más dominante?
-Narration/&Council01_137_NPC_Carran	Ah, bueno ... ella es joven todavía. Y tiene muchas otras cualidades.
-Narration/&Council01_138_PlayerChoice_Nobility	¿Alguien más… regio?
-Narration/&Council01_139_NPC_Carran	¡Nadie es más real que nuestra princesa, créame!
-Narration/&Council01_140_Player_Nobility	Sabes a lo que me refiero.
-Narration/&Council01_141_NPC_Carran	No, en realidad… no lo hago.
-Narration/&Council01_142_PlayerChoice_Urchin	Una lluvia de gorgojos. ¡Gorgojos ricos y limpios!
+Narration/&Council01_133_PlayerChoice_Cynical	Una chica bonita y con la cabeza vacía. Oh, espera... 
+Narration/&Council01_134_NPC_Carran	¡Cuidado con lo que dices! Ella puede tener un rango bajo en el Consejo... 
+Narration/&Council01_135_NPC_Carran	pero es nuestra soberana, y es muy querida en el Principado.
+Narration/&Council01_136_PlayerChoice_Authoritative	Una personalidad más... ¿cómo decirlo? ¿Una personalidad más dominante?
+Narration/&Council01_137_NPC_Carran	Ah, bueno... es joven todavía. Y tiene muchas otras cualidades.
+Narration/&Council01_138_PlayerChoice_Nobility	¿Alguien más... regio?
+Narration/&Council01_139_NPC_Carran	Nadie es más regio que nuestra princesa, créeme.
+Narration/&Council01_140_Player_Nobility	Ya sabes lo que quiero decir.
+Narration/&Council01_141_NPC_Carran	No, en realidad... no lo sé.
+Narration/&Council01_142_PlayerChoice_Urchin	Una lluvia de gorgojos. ¡Ricos y limpios gorgojos!
 Narration/&Council01_143_NPC_Carran	Y sus empleadores, no lo olvidemos.
-Narration/&Council01_144_NPC_Carran	Debo admitir que el Legacy Council es un ... organismo complejo.
-Narration/&Council01_145_NPC_Carran	De todas formas…
-Narration/&Council01_146_NPC_Carran	… Algunas personas querrán hablar contigo después de esto.
-Narration/&Council01_147_NPC_Carran	Trabajando para el Consejo, se espera que sea neutral.
+Narration/&Council01_144_NPC_Carran	Debo admitir que el Consejo del Legado es un organismo... complejo.
+Narration/&Council01_145_NPC_Carran	De todos modos... 
+Narration/&Council01_146_NPC_Carran	algunas personas podrían querer hablar con vosotros después de esto.
+Narration/&Council01_147_NPC_Carran	Al trabajar para el Consejo, se espera que seas neutral.
 Narration/&Council01_148_PlayerChoice_Default	¿Pero?
 Narration/&Council01_149_NPC_Carran	Pero tienes derecho a tener amigos.
 Narration/&Council01_150_NPC_Carran	Así que siéntete libre de hablar con quien quieras.
-Narration/&Council01_151_NPC_Carran	Mientras permanezca su lealtad al Consejo en su conjunto.
+Narration/&Council01_151_NPC_Carran	Mientras tu lealtad siga siendo hacia el Consejo en su conjunto.
 Narration/&Council01_152_PlayerChoice_Register_Formal	Puede confiar en nuestro honor.
 Narration/&Council01_153_PlayerChoice_Register_normal	Por supuesto.
-Narration/&Council01_154_PlayerChoice_Register_Slang	De acuerdo entonces.
-Narration/&Council01_155_Merran_Thanks01	¡Hola, diputados, gracias por el apoyo!
+Narration/&Council01_154_PlayerChoice_Register_Slang	Muy bien, entonces.
+Narration/&Council01_155_Merran_Thanks01	Hey, diputados, ¡gracias por el apoyo ahí dentro!
 Narration/&Council01_156_AnyFriendly	De nada, Capitán.
-Narration/&Council01_157_Merran_Thanks02	Entonces, ¿esos bastardos atraparon a Henrik? Lástima.
-Narration/&Council01_158_Curious	¿Lo conociste?
-Narration/&Council01_159_Merran_Thanks03	Sí, claro. Me pregunto quién se ofrecerá voluntario para retomar Caer Lem ahora ...
-Narration/&Council01_160_Friendly	Los carroñeros podrían abrir el camino.
-Narration/&Council01_161_Merran_Thanks04	Si. Encontrarán un montón de exaltados para retomar el fuerte, estoy seguro.
+Narration/&Council01_157_Merran_Thanks02	¿Así que esos bastardos tienen a Henrik? Una lástima.
+Narration/&Council01_158_Curious	¿Lo conocías?
+Narration/&Council01_159_Merran_Thanks03	Sí, en efecto. Me pregunto quién se ofrecerá para retomar Caer Lem ahora...
+Narration/&Council01_160_Friendly	Los Carroñeros podrían liderar el proyecto.
+Narration/&Council01_161_Merran_Thanks04	Sí. Seguro que encontrarán un grupo de descerebrados para retomar el fuerte.
 Narration/&Council01_162_Merran_Thanks05	¡Permanezcan en la luz, amigos!
 Narration/&Council01_163_Merran_AnyFriendly	¡Tú también!
 Narration/&AfterCouncil01_Beryl_1_Beryl_NPC	Bueno, si no son nuestros valientes salvadores.
@@ -2163,7 +2163,7 @@ Narration/&HostOfPrincess_26_Captain_NPC	Manténganse en la luz, diputados senio
 Narration/&HostOfPrincess_27_Any_Default	Usted también, Capitán.
 Narration/&ChurchOfEinar_Dialog_01_1_DalonLark_NPC	¡Cielos despejados, aventureros!
 Narration/&ChurchOfEinar_Dialog_01_2_EinarWorshipper_Default	¡Fuego a tu espada!
-Narration/&ChurchOfEinar_Dialog_01_3_DalonLark_NPC	Uno de los fieles, ya veo. ¡Un placer conocerte!
+Narration/&ChurchOfEinar_Dialog_01_3_DalonLark_NPC	Veo que eres uno de nuestros fieles. ¡Un placer conocerte!
 Narration/&ChurchOfEinar_Dialog_01_4_DalonLark_NPC	Soy el capellán Dalon Lark.
 Narration/&ChurchOfEinar_Dialog_01_5_DalonLark_NPC	Puede venir aquí en cualquier momento para buscar la ayuda de la Iglesia.
 Narration/&ChurchOfEinar_Dialog_01_6_AnyBeliever_Einar	¡Es bueno saberlo, capellán!
@@ -2171,11 +2171,11 @@ Narration/&ChurchOfEinar_Dialog_01_7_NonBeliever_Default	¡Hola!
 Narration/&ChurchOfEinar_Dialog_01_8_AnyBeliever_Default	¿Que haces aqui?
 Narration/&ChurchOfEinar_Dialog_01_9_DalonLark_NPC	Represento a la Iglesia de Einar, el dios del valor y la fidelidad.
 Narration/&ChurchOfEinar_Dialog_01_10_DalonLark_NPC	Brindamos diversos servicios para quienes los necesiten.
-Narration/&ChurchOfEinar_Dialog_01_11_Cynical_Default	¿Y puedes pagarlos?
+Narration/&ChurchOfEinar_Dialog_01_11_Cynical_Default	¿Y hay que pagarlos?
 Narration/&ChurchOfEinar_Dialog_01_12_DalonLark_NPC	Aquellos que buscan su curación rara vez son pobres.
 Narration/&ChurchOfEinar_Dialog_01_13_Any_Default	Requerimos sus servicios.
 Narration/&ChurchOfEinar_Dialog_01_14_Any_Default	Gracias, tenemos que irnos.
-Narration/&ChurchOfEinar_Dialog_01_15_DalonLark_NPC	¡Permanezcan en la luz, aventureros!
+Narration/&ChurchOfEinar_Dialog_01_15_DalonLark_NPC	¡Permanezed en la luz, aventureros!
 Narration/&ChurchOfEinar_Dialog_WRITTEN_ExitLine	Deberíamos irnos.
 Narration/&ChurchOfEinar_Dialog_WRITTEN_ShopLine	Necesitamos sus servicios.
 Narration/&Arcaneum_Dialog_02_1_HeddlonSurespell_NPC	¡Cielos despejados, aventureros!
@@ -3156,26 +3156,26 @@ Narration/&TheAerElai88_Magister_NPC	Tenía razón sobre ti.
 Narration/&TheAerElai89_Magister_NPC	Tengo que ir ahora.
 Narration/&TheAerElai90_Magister_NPC	Cuida de Solasta. Cuida tu mundo.
 Narration/&Scavengers_Dialog_02_1_Starter_Default	Hola Annie.
-Narration/&Scavengers_Dialog_02_2_Quartermaster_NPC	¡Estás de vuelta! ¿Como le fue?
-Narration/&Scavengers_Dialog_02_3_Starter_Default	Bueno ... el capitán Henrik está muerto, lo siento.
-Narration/&Scavengers_Dialog_02_4_Quartermaster_NPC	Oh. Entonces, ¿quién manda?
-Narration/&Scavengers_Dialog_02_5_Starter_Default	Puede que tengas que esperar antes de ir a Caer Lem, me temo.
-Narration/&Scavengers_Dialog_02_6_Quartermaster_NPC	Veo.
-Narration/&Scavengers_Dialog_02_7_Quartermaster_NPC	Bueno, no es culpa tuya. Gracias por el aviso.
-Narration/&Scavengers_Dialog_02_8_Starter_Default	Eres bienvenido.
+Narration/&Scavengers_Dialog_02_2_Quartermaster_NPC	¡Has vuelto! ¿Cómo te ha ido?
+Narration/&Scavengers_Dialog_02_3_Starter_Default	Bueno... El capitán Henrik está muerto, lo siento.
+Narration/&Scavengers_Dialog_02_4_Quartermaster_NPC	Oh. ¿Quién está a cargo, entonces?
+Narration/&Scavengers_Dialog_02_5_Starter_Default	Me temo que tendrás que esperar antes de ir a Caer Lem.
+Narration/&Scavengers_Dialog_02_6_Quartermaster_NPC	Ya veo.
+Narration/&Scavengers_Dialog_02_7_Quartermaster_NPC	Bueno, no es tu culpa. Gracias por el aviso.
+Narration/&Scavengers_Dialog_02_8_Starter_Default	De nada.
 Narration/&Scavengers_Dialog_03_1_Starter_Default	Queríamos hablar de Caer Lem.
 Narration/&Scavengers_Dialog_03_2_Quartermaster_NPC	Soy todo oídos.
-Narration/&Scavengers_Dialog_03_3_Starter_Default	Ya no hay nadie ...
+Narration/&Scavengers_Dialog_03_3_Starter_Default	Ya no hay nadie...
 Narration/&Scavengers_Dialog_03_4_Quartermaster_NPC	Ah, ¿quieres reclamar el lugar?
-Narration/&Scavengers_Dialog_03_5_Starter_Default	¿Cómo funciona de nuevo?
-Narration/&Scavengers_Dialog_03_6_Quartermaster_NPC	Vamos allí y buscamos todo lo que no tomaste, luego obtienes un porcentaje.
-Narration/&Scavengers_Dialog_03_7_Starter_Default	No podemos prometerle que es seguro.
+Narration/&Scavengers_Dialog_03_5_Starter_Default	¿Cómo funciona?
+Narration/&Scavengers_Dialog_03_6_Quartermaster_NPC	Vamos allí y recogemos todo lo que no te has llevado, luego te llevas un porcentaje.
+Narration/&Scavengers_Dialog_03_7_Starter_Default	No podemos prometerte que sea seguro.
 Narration/&Scavengers_Dialog_03_8_Quartermaster_NPC	Nunca lo es.
 Narration/&Scavengers_Dialog_03_9_Quartermaster_NPC	Una vez que lleguemos allí, estableceremos nuestro propio puesto de avanzada.
 Narration/&Scavengers_Dialog_03_10_Quartermaster_NPC	Lo consultaré con el Consejo primero, pero gracias de todos modos.
 Narration/&Scavengers_Dialog_03_11_Starter_Default	¿Qué hacemos a continuación?
 Narration/&Scavengers_Dialog_03_12_Quartermaster_NPC	Una vez que hayamos hecho nuestro trabajo, te lo haré saber.
-Narration/&Scavengers_Dialog_03_13_Quartermaster_NPC	Solo tendrás que pasar y recoger tu parte.
+Narration/&Scavengers_Dialog_03_13_Quartermaster_NPC	Sólo tendrás que venir a recoger tu parte.
 Narration/&Generic_False_Gem_Thread_01	Creo ... esto es lo que me mostró la Corona.
 Narration/&Generic_False_Gem_Thread_02	Entonces, ¿no es una de las gemas?
 Narration/&Generic_False_Gem_Thread_03	Obviamente.
@@ -5910,19 +5910,19 @@ Narration/&TextOnlyNPCSpeech_BladeFang_Tribe_04	¿Amigo de Kebra con nyarks?
 Narration/&TextOnlyNPCSpeech_BladeFang_Radulf_01	Trae el gran hacha y consideraré una alianza.
 Narration/&TextOnlyNPCSpeech_BladeFang_Radulf_02	Este sello abrirá la puerta a mi desafío.
 Narration/&TextOnlyNPCSpeech_BladeFang_Radulf_03	Ningún gran hacha significa que no nos uniremos a ustedes.
-Narration/&Tavern_02_41_Player_Default	No le hagas caso. Es un borracho inofensivo.
-Narration/&Tavern_02_42_Player_Default	Probablemente vio hombres lagarto, o dracónidos, o algo así
+Narration/&Tavern_02_41_Player_Default	No le hagas caso. Es sólo un borracho.
+Narration/&Tavern_02_42_Player_Default	Seguramente vio hombres lagarto, o dracónidos, o algo similar.
 Narration/&Tavern_02_43_Merton	¿Crees que no conozco la diferencia?
-Narration/&Tavern_02_44_Merton	Todas esas espinas en la espalda, esas mandíbulas, ¡nunca has visto nada igual!
+Narration/&Tavern_02_44_Merton	Todas esas espinas en la espalda, esas mandíbulas... ¡nunca había visto nada igual!
 Narration/&Tavern_02_45_Merton	No son lagartos, ni trogloditas, ni dracónidos. ¡Créeme!
-Narration/&Tavern_02_46_Player_Default	Ya nadie cree en Soraks.
-Narration/&Tavern_02_47_Player_Default	Excepto la Iglesia de Einar por supuesto, hay un Sorak debajo de cada cama si les cres.
-Narration/&Tavern_02_48_Player_Default	¡Oye!. No te burles de la gente por su fe.
-Narration/&Tavern_02_49_Merton	Léelo en los libros. Los soraks son maestros del engaño, la infiltración
+Narration/&Tavern_02_46_Player_Default	Ya nadie cree en los Soraks.
+Narration/&Tavern_02_47_Player_Default	Excepto la Iglesia de Einar por supuesto, hay un Sorak debajo de cada cama si les crees.
+Narration/&Tavern_02_48_Player_Default	¡Oye! no te burles de la gente por su fe.
+Narration/&Tavern_02_49_Merton	Puedes leerlo en libros. Los Soraks son maestros del engaño, de la infiltración
 Narration/&Tavern_02_50_Merton	cualquiera aquí podría ser un Sorak y nunca lo sabrías.
 Narration/&Tavern_02_51_Player_Default	¡Oh vamos!
 Narration/&Tavern_02_51_Merton	Ya verás.
-Narration/&Tavern_02_52_Player_Default	De todas formas…
+Narration/&Tavern_02_52_Player_Default	De todas formas
 Narration/&Tavern_01_2b_Explorer_Default	¿Es este el lugar para el trabajo del Legacy Council? Espero no llegar demasiado tarde.
 Narration/&Tavern_049_04_Council_Choiceb	El Consejo es muy nuevo. ¿Como funciona exactamente?
 Narration/&Tavern_049_04_Council_Carran01b	¡Querida Maraike! No sabes
