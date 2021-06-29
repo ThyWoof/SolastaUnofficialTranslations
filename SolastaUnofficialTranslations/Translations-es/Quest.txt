@@ -171,75 +171,75 @@ Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_03_FightTitle	Defiende a los magos co
 Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_04_Convince_Description	Necesitas que el Consejo te deje ir a buscar las otras gemas de la Corona.
 Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_04_Convince_Outcome1Description	Has convencido al Consejo de que te deje ir con la Corona. Ahora es tu misión buscar las gemas restantes. Parece que la Corona te está enviando mensajes, que puedes sentir que te lleva a lugares específicos, muy lejos, donde crees que podrías encontrar las gemas que faltan.
 Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_04_Convince_Title	Convencer al consejo
-Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_Title	Informe al Consejo
+Quest/&Caer_Cyflen_Quest_AfterTowerOfMagic_Title	Informer al Consejo
 Quest/&Caer_Cyflen_Quest_AfterTutorial_01_MeetCouncil_Description	Se encuentra cerca del palacio y las embajadas. Dirígete hacia el norte, toma las escaleras hasta Sunblaze Court, luego toma las escaleras hacia el oeste hasta las embajadas y sigue recto para llegar al Consejo.
 Quest/&Caer_Cyflen_Quest_AfterTutorial_01_MeetCouncil_Outcome1Description	Habéis sido juramentados como diputados del Consejo.
-Quest/&Caer_Cyflen_Quest_AfterTutorial_01_MeetCouncil_Title	Conoce a Carran en el Legacy Council
-Quest/&Caer_Cyflen_Quest_AfterTutorial_02_LevelUp_Description	¡Ahora tienes suficiente experiencia para subir de nivel! Para hacerlo, debe tomar un descanso prolongado. Regrese al barrica de Gravekeep y hable con Karel, el propietario. Él le dirá cómo conseguir una habitación durante su estadía en la ciudad. Puede usar la función de viaje rápido del mapa para regresar rápidamente.
+Quest/&Caer_Cyflen_Quest_AfterTutorial_01_MeetCouncil_Title	Conoce a Carran en el Consejo del Legado
+Quest/&Caer_Cyflen_Quest_AfterTutorial_02_LevelUp_Description	¡Ahora tienes suficiente experiencia para subir de nivel! Para hacerlo, debes hacer un descanso largo. Regresa a La Barrica del Sepulturero y habla con Karel, el propietario. Él te dirá cómo conseguir una habitación. Puedes usar la función de viaje rápido del mapa para regresar rápidamente.
 Quest/&Caer_Cyflen_Quest_AfterTutorial_02_LevelUp_Outcome1Description	¡Has subido de nivel!
 Quest/&Caer_Cyflen_Quest_AfterTutorial_02_LevelUp_Title	Elevar a mismo nivel
-Quest/&Caer_Cyflen_Quest_AfterTutorial_03_PrepareTravel_Description	Antes de partir hacia Caer Lem, debe visitar las tiendas locales y asegurarse de tener todo lo que necesita. Tómate tu tiempo para optimizar tu equipo, pero al menos compra raciones de comida. Puedes comprar algunos en Gorim's Emporium en Market Street.
+Quest/&Caer_Cyflen_Quest_AfterTutorial_03_PrepareTravel_Description	Antes de partir hacia Caer Lem, visita las tiendas locales y asegúrate de tener todo lo necesario para el viaje. Si lo crees necesario puedes mejorar tu equipo, pero al menos tendrás que comprar algunas raciones de comida. Visita Gorim's Emporium en la calle del mercado.
 Quest/&Caer_Cyflen_Quest_AfterTutorial_03_PrepareTravel_Outcome1Description	Has comprado algo de comida para el viaje.
-Quest/&Caer_Cyflen_Quest_AfterTutorial_03_PrepareTravel_Title	Compre algo de comida para el viaje
+Quest/&Caer_Cyflen_Quest_AfterTutorial_03_PrepareTravel_Title	Compra comida para el viaje
 Quest/&Caer_Cyflen_Quest_AfterTutorial_04_OPTIONAL_MeetScavs_Description	Annie Bagmordah, la intendente de los Carroñeros, te pidió que visitaras su cuartel general al lado del Barril del Gravekeep.
 Quest/&Caer_Cyflen_Quest_AfterTutorial_04_OPTIONAL_MeetScavs_Outcome1Description	Te han presentado a los carroñeros.
 Quest/&Caer_Cyflen_Quest_AfterTutorial_04_OPTIONAL_MeetScavs_Title	Visita la sede de los carroñeros
-Quest/&Caer_Cyflen_Quest_AfterTutorial_Title	El consejo de legado
+Quest/&Caer_Cyflen_Quest_AfterTutorial_Title	El Consejo del Legado
 Quest/&Caer_Cyflen_Secondary_Quest_Visit_Hugo_MeetHugo_Outcome1Description	Has visitado la tienda de Hugo.
-Quest/&Caer_Cyflen_Secondary_Quest_Visit_Hugo_MeetHugoDescription	Es posible que desee visitar la tienda de magia de Hugo Requer.
+Quest/&Caer_Cyflen_Secondary_Quest_Visit_Hugo_MeetHugoDescription	Es posible que desees visitar la tienda de magia de Hugo Requer.
 Quest/&Caer_Cyflen_Secondary_Quest_Visit_Hugo_MeetHugoTitle	Visita la tienda de magia de Hugo Requer
 Quest/&Caer_Cyflen_Visit_Hugo_Title	Visita la tienda de magia
-Quest/&Caer_Lem_Goblin_Cave_Quest_CleanCave_Outcome1Description	¡Has limpiado la cueva de los duendes!
-Quest/&Caer_Lem_Goblin_Cave_Quest_CleanCaveDescription	¿Sabían los soldados del puesto de avanzada de Caer Lem de este escondite de goblins? Independientemente, ¡debería eliminarse!
-Quest/&Caer_Lem_Goblin_Cave_Quest_CleanCaveTitle	Despeja la cueva de los duendes
-Quest/&Caer_Lem_Goblin_Cave_Quest_Title	Guarida de la inmundicia
+Quest/&Caer_Lem_Goblin_Cave_Quest_CleanCave_Outcome1Description	¡Has limpiado la cueva de los goblins!
+Quest/&Caer_Lem_Goblin_Cave_Quest_CleanCaveDescription	¿Sabrían los soldados del puesto de avanzada de Caer Lem de este escondite goblin? En cualquier caso, sería mejor acabar con ellos.
+Quest/&Caer_Lem_Goblin_Cave_Quest_CleanCaveTitle	Despeja la cueva de los goblins
+Quest/&Caer_Lem_Goblin_Cave_Quest_Title	Guarida goblin
 Quest/&Caer_Lem_Quest_01_ReachCaerLem_Outcome1Description	Ha llegado al puesto de avanzada de Caer Lem.
-Quest/&Caer_Lem_Quest_01_ReachCaerLemDescription	El puesto de avanzada está en las Marcas, al oeste de la capital del Principado. Sal de la ciudad y usa el mapa de viaje para llegar a Caer Lem.
-Quest/&Caer_Lem_Quest_01_ReachCaerLemTitle	Llega al puesto de avanzada
-Quest/&Caer_Lem_Quest_02_ExploreFort_Outcome1Description	¡El puesto de avanzada ha sido atacado! Algunos supervivientes se esconden en la mazmorra, temerosos y sospechosos de todos.
-Quest/&Caer_Lem_Quest_02_ExploreFortDescription	Sube la colina y explora el fuerte para encontrar la guarnición.
-Quest/&Caer_Lem_Quest_02_ExploreFortTitle	Explora el Fuerte
-Quest/&Caer_Lem_Quest_03_ReachDoor_Outcome1Description	Has contactado con éxito a los supervivientes y entraste en la mazmorra.
-Quest/&Caer_Lem_Quest_03_ReachDoorDescription	Los supervivientes están paranoicos. Ve a la puerta de la mazmorra y haz que te hablen.
-Quest/&Caer_Lem_Quest_03_ReachDoorTitle	Llega a la puerta de la mazmorra
-Quest/&Caer_Lem_Quest_04_TalkToSurvivors_Outcome1Description	Ha hablado con los supervivientes y ha descubierto que están divididos.
-Quest/&Caer_Lem_Quest_04_TalkToSurvivorsDescription	Solo cuatro soldados del Consejo sobrevivieron al ataque. Pregúnteles y descubra por qué todavía están aquí.
+Quest/&Caer_Lem_Quest_01_ReachCaerLemDescription	El puesto de avanzada está en Las Marcas, al oeste de la capital del Principado. Sal de la ciudad y usa el mapa de viaje para llegar a Caer Lem.
+Quest/&Caer_Lem_Quest_01_ReachCaerLemTitle	Llegar al puesto de avanzada
+Quest/&Caer_Lem_Quest_02_ExploreFort_Outcome1Description	¡El puesto de avanzada ha sido atacado! Algunos supervivientes se esconden dentro del único edificio que queda en pie. Temerosos y desconfiados del exterior.
+Quest/&Caer_Lem_Quest_02_ExploreFortDescription	Sube la colina y explora el fuerte para encontrar a la guarnición.
+Quest/&Caer_Lem_Quest_02_ExploreFortTitle	Explora el fuerte
+Quest/&Caer_Lem_Quest_03_ReachDoor_Outcome1Description	Has encontrado a los supervivientes y entrado en el edificio principal.
+Quest/&Caer_Lem_Quest_03_ReachDoorDescription	Los supervivientes están paranoicos. Ve a la puerta del edificio y consigue hablar con ellos.
+Quest/&Caer_Lem_Quest_03_ReachDoorTitle	Llega a la puerta del edificio
+Quest/&Caer_Lem_Quest_04_TalkToSurvivors_Outcome1Description	Has hablado con los supervivientes y has descubierto que están divididos.
+Quest/&Caer_Lem_Quest_04_TalkToSurvivorsDescription	Solo cuatro soldados sobrevivieron al ataque. Pregúntales y descubre por qué todavía siguen aquí.
 Quest/&Caer_Lem_Quest_04_TalkToSurvivorsTitle	Habla con los supervivientes
 Quest/&Caer_Lem_Quest_04a_TalkToLisbath_Outcome1Description	Has hablado con Lisbath.
 Quest/&Caer_Lem_Quest_04a_TalkToLisbathDescription	Habla con Lisbath y obtén su opinión sobre la situación.
 Quest/&Caer_Lem_Quest_04a_TalkToLisbathTitle	Habla con Lisbath
 Quest/&Caer_Lem_Quest_04b_TalkToRobar_Outcome1Description	Has hablado con Robar.
-Quest/&Caer_Lem_Quest_04b_TalkToRobarDescription	Habla con Robar y obtén su visión de la situación.
+Quest/&Caer_Lem_Quest_04b_TalkToRobarDescription	Habla con Robar y obtén su opinión de la situación.
 Quest/&Caer_Lem_Quest_04b_TalkToRobarTitle	Habla con Robar
-Quest/&Caer_Lem_Quest_04c_TalkToDaliat_Outcome1Description	Ha hablado con Daliat.
+Quest/&Caer_Lem_Quest_04c_TalkToDaliat_Outcome1Description	Has hablado con Daliat.
 Quest/&Caer_Lem_Quest_04c_TalkToDaliatDescription	Habla con Daliat y obtén su opinión sobre la situación.
 Quest/&Caer_Lem_Quest_04c_TalkToDaliatTitle	Habla con Daliat
 Quest/&Caer_Lem_Quest_05_ChooseStrategy_Outcome1Description	VACÍO
-Quest/&Caer_Lem_Quest_05_ChooseStrategyDescription	Ha hablado con los cuatro supervivientes. Ahora es el momento de decidir cómo sacarlos de la mazmorra. Puedes ordenarle a Beryl que renuncie y te deje liderar, ordenarle que entregue el mando a Robar, preguntarle a Daliat sobre su operación de exploración o presionar a Robar para que desafíe la autoridad de Beryl.
+Quest/&Caer_Lem_Quest_05_ChooseStrategyDescription	He hablado con los cuatro supervivientes. Ahora es el momento de decidir cómo sacarlos de aquí. Ordénale a Beryl que renuncie a su carga y te deje a ti el liderazgo, también puedes obligarle a le otorgue el liderazgo a Robar, podrías preguntarle a Daliat sobre la operación de exploración o presionar a Robar para que desafíe la autoridad de Beryl.
 Quest/&Caer_Lem_Quest_05_ChooseStrategyTitle	Elige una estrategia
-Quest/&Caer_Lem_Quest_05a_TalkToBeryl_Outcome1Description	Con éxito persuadiste a Beryl para que dimitiera, ¡pero entonces apareció un Sorak y mató a Robar!
-Quest/&Caer_Lem_Quest_05a_TalkToBeryl_Outcome2Description	No lograste persuadir a Beryl para que renunciara. ¡Mientras discutías, apareció un Sorak y mató a Lisbath!
+Quest/&Caer_Lem_Quest_05a_TalkToBeryl_Outcome1Description	Con éxito persuadiste a Beryl para que dimitiera, pero apareció un Sorak y mató a Robar-
+Quest/&Caer_Lem_Quest_05a_TalkToBeryl_Outcome2Description	No lograste persuadir a Beryl para que renunciara. Mientras discutías, apareció un Sorak y mató a Lisbath.
 Quest/&Caer_Lem_Quest_05a_TalkToBerylDescription	Habla con Beryl y convéncela de que renuncie.
 Quest/&Caer_Lem_Quest_05a_TalkToBerylTitle	Habla con Beryl
-Quest/&Caer_Lem_Quest_05b_TalkToDaliat_Outcome1Description	Presionaste a Daliat para que te diera el objeto que encontró durante su expedición a las Tierras Inhóspitas, ¡pero entonces apareció un Sorak y mató a Robar!
-Quest/&Caer_Lem_Quest_05b_TalkToDaliat_Outcome2Description	Daliat te atacó cuando insististe en saber qué había traído de la expedición a las Tierras Inhóspitas. No te dejó otra opción que luchar, y lo mataste. ¡Justo después de eso, apareció un Sorak y mató a Lisbath!
-Quest/&Caer_Lem_Quest_05b_TalkToDaliatDescription	Habla con Daliat y pídele más detalles sobre lo que sucedió antes de que se uniera al puesto de avanzada.
+Quest/&Caer_Lem_Quest_05b_TalkToDaliat_Outcome1Description	Presionaste a Daliat para que te diera el objeto que encontró durante su expedición a las Tierras Inhóspitas, cuando apareció un Sorak y mató a Robar.
+Quest/&Caer_Lem_Quest_05b_TalkToDaliat_Outcome2Description	Daliat te atacó cuando insististe en saber qué había traído de la expedición a las Tierras Inhóspitas. No te dejó otra opción que luchar, y lo mataste. Justo después de eso, apareció un Sorak y mató a Lisbath.
+Quest/&Caer_Lem_Quest_05b_TalkToDaliatDescription	Habla con Daliat y pídele más detalles sobre lo que sucedió en la expedición antes de que se uniera al puesto de avanzada.
 Quest/&Caer_Lem_Quest_05b_TalkToDaliatTitle	Habla con Daliat
-Quest/&Caer_Lem_Quest_05c_TalkToRobar_Outcome1Description	Con éxito persuadiste a Robar para que tomara el mando. Beryl no estaba muy feliz por eso y se alejó, ¡entonces apareció un Sorak y la mató!
-Quest/&Caer_Lem_Quest_05c_TalkToRobar_Outcome2Description	Robar se negó a tomar el mando. ¡Mientras intentabas convencerlo, apareció un Sorak y mató a Lisbath!
+Quest/&Caer_Lem_Quest_05c_TalkToRobar_Outcome1Description	Con éxito persuadiste a Robar para que tomara el mando. Beryl no estaba muy contenta y se alejó, entonces apareció un Sorak y la mató.
+Quest/&Caer_Lem_Quest_05c_TalkToRobar_Outcome2Description	Robar se negó a tomar el mando. Mientras intentabas convencerlo, apareció un Sorak y mató a Lisbath.
 Quest/&Caer_Lem_Quest_05c_TalkToRobarDescription	Habla con Robar y convéncelo para que tome el mando.
 Quest/&Caer_Lem_Quest_05c_TalkToRobarTitle	Habla con Robar
-Quest/&Caer_Lem_Quest_06_EscapeCaerLem_Outcome1Description	¡Has escapado de Caer Lem y los Soraks!
-Quest/&Caer_Lem_Quest_06_EscapeCaerLemDescription	Has encontrado un pasaje secreto que conduce a la montaña. ¡Tómalo y escapa de los Soraks! ¡Tus nuevos compañeros deben sobrevivir a toda costa!
-Quest/&Caer_Lem_Quest_06_EscapeCaerLemTitle	Escape de las Cuevas
+Quest/&Caer_Lem_Quest_06_EscapeCaerLem_Outcome1Description	¡Has escapado de Caer Lem y de los Soraks!
+Quest/&Caer_Lem_Quest_06_EscapeCaerLemDescription	Has encontrado un pasaje secreto que conduce a la montaña. Tómalo y escapa de los Soraks. Tus nuevos compañeros deben sobrevivir a toda costa.
+Quest/&Caer_Lem_Quest_06_EscapeCaerLemTitle	Escape de las cuevas
 Quest/&Caer_Lem_Quest_07_ReturnToCaerCyflen_Outcome1Description	Regresaste a Caer Cyflen.
-Quest/&Caer_Lem_Quest_07_ReturnToCaerCyflenDescription	Vuelve con Caer Cyflen y cuéntale al Consejo lo que has encontrado.
+Quest/&Caer_Lem_Quest_07_ReturnToCaerCyflenDescription	Vuelve a Caer Cyflen y cuéntale al Consejo lo que has encontrado.
 Quest/&Caer_Lem_Quest_07_ReturnToCaerCyflenTitle	Regreso a Caer Cyflen
-Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_ReportToAnnie_Outcome1Description	Le dijiste a Annie lo que le pasó a Henrik. Ella se alegró de que lo hicieras, a pesar de que eran malas noticias.
+Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_ReportToAnnie_Outcome1Description	Le contasteis a Annie lo que le había pasado en Caer Lem respecto al capitán Henrik. Satisfecha de conocer la noticia, no podía ocultar su cara de tristeza con los acontecimientos.
 Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_ReportToAnnieDescription	Desafortunadamente, no tienes buenas noticias para los carroñeros con respecto a su plan de establecer un puesto de avanzada en Caer Lem. Vuelve con Annie Bagmordah y cuéntale sobre el destino de Henrik.
 Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_ReportToAnnieTitle	Informar a Annie
-Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrik_Outcome1Description	Se enteró de que Henrik fue asesinado en Caer Lem y no queda nadie para negociar con los carroñeros.
-Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrikDescription	Annie Bagmordah, la intendente de los carroñeros, te pidió que hablaras con el capitán Henrik en su nombre para obtener la autorización para construir un campamento de carroñeros en el puesto de avanzada de Caer Lem. Trae de vuelta la respuesta de Henrik.
+Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrik_Outcome1Description	Annie se enteró de que Henrik fue asesinado en Caer Lem y no queda nadie para negociar con los Carroñeros.
+Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrikDescription	Annie Bagmordah, la intendente de los Carroñeros, te pidió que hablaras con el capitán Henrik en su nombre para obtener autorización y construir un campamento de Carroñeros en el puesto de avanzada de Caer Lem. Trae de vuelta la respuesta de Henrik.
 Quest/&Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrikTitle	Habla con el Capitán Henrik
 Quest/&Caer_Lem_Title	Caer Lem
 Quest/&Caravan_Quest_01_TheRuins_Outcome1Description	Mientras investigaba el área, se encontró con una caravana de mercaderes acampada cerca de las ruinas.
