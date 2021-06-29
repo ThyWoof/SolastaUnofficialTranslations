@@ -3,50 +3,50 @@ Message/&AbortCreationTitle	Cancelar la creación de personajes
 Message/&AbortLevelUpDescription	¿Estás seguro de que deseas cancelar el proceso de subida de nivel del personaje?
 Message/&AbortLevelUpTitle	Cancelar la subida de nivel del personaje
 Message/&AmountGainedFormat	VACÍO
-Message/&AttunementLostDescription	El elemento "{0}" ya no está sintonizado.
-Message/&AttunementLostTitle	Sintonización perdida
+Message/&AttunementLostDescription	Has perdido la sintonía con "{0}".
+Message/&AttunementLostTitle	Sintonía perdida
 Message/&AttunementRemovalDescription	¿Está seguro de que desea eliminar la sintonía con este elemento?
-Message/&AttunementRemovalTitle	Eliminar la sintonía
+Message/&AttunementRemovalTitle	Eliminar sintonía
 Message/&AttunementReplacementDescription	Este elemento está actualmente sintonizado con {0}. ¿Está seguro de que desea sintonizarlo con {1}?
 Message/&AttunementReplacementTitle	Reemplazo de sintonía
 Message/&CannotLoad	No se puede cargar ahora
 Message/&CannotSave	No se puede guardar ahora
 Message/&CharacterDeletionDescription	¿Estás seguro de que deseas eliminar este personaje? Esta acción no se puede deshacer.
-Message/&CharacterDeletionTitle	Eliminación de caracteres
-Message/&ConcentrationLossDescription	Lanzar el hechizo {0} te hará perder la concentración en el hechizo {1}. ¿Estas seguro que deseas continuar?
+Message/&CharacterDeletionTitle	Eliminación de personajes
+Message/&ConcentrationLossDescription	Lanzar el hechizo {0} hara que dejes de concentrarte en el hechizo {1}. ¿Estas seguro que deseas continuar?
 Message/&ConcentrationLossTitle	Pérdida de concentración
-Message/&CraftingAbortDescription	¿Estás seguro de que quieres abortar esta operación artesanal? Todo el progreso y los ingredientes gastados se perderán.
-Message/&CraftingAbortTitle	Abortar la elaboración
-Message/&FastTravelConfirmationDescription	¿Estás seguro de que deseas viajar rápido a este destino? (El tiempo se adelantará rápidamente en consecuencia).
+Message/&CraftingAbortDescription	¿Estás seguro de que quieres cancelar la elaboración? Todo el progreso y los ingredientes gastados se perderán.
+Message/&CraftingAbortTitle	Cancelar elaboración
+Message/&FastTravelConfirmationDescription	¿Estás seguro de que deseas hacer un viaje rápido a este destino? (El tiempo se adelantará rápidamente en consecuencia).
 Message/&FastTravelConfirmationTitle	Viaje rápido
-Message/&FastTravelErrorPathNotFoundDescription	No puede viajar rápidamente a este destino porque el camino está bloqueado.
-Message/&FastTravelErrorTitle	Viaje rápido
-Message/&FastTravelExitLocationDescription	¿Estás seguro de que deseas viajar rápido hasta esta salida y salir de la zona? (El tiempo se adelantará en consecuencia).
-Message/&FastTravelExitLocationTitle	Área de viajes rápidos y salidas
-Message/&IdentificationCancelledTitle	La identificación del artículo ha sido cancelada.
-Message/&IncompletePreparationDescription	No has preparado todos los hechizos que puedes. Estás seguro de que quieres continuar?
+Message/&FastTravelErrorPathNotFoundDescription	No puede viajar rápido a este destino porque el camino está bloqueado.
+Message/&FastTravelErrorTitle	Viaje rápido imposible
+Message/&FastTravelExitLocationDescription	¿Estás seguro de que deseas hacer un viaje rápido hasta esta salida y salir de la zona? (El tiempo se adelantará en consecuencia).
+Message/&FastTravelExitLocationTitle	Viaje rápido a la salida
+Message/&IdentificationCancelledTitle	La identificación del objeto ha sido cancelada.
+Message/&IncompletePreparationDescription	No has preparado todos los hechizos que puedes. ¿Estás seguro de que quieres continuar?
 Message/&IncompletePreparationTitle	Preparación de hechizos incompleta
 Message/&ItemsOnGroundDescription	Los elementos en el suelo se perderán si abandona esta pantalla. ¿Seguro que desea continuar?
-Message/&ItemsOnGroundTitle	Perder artículos
+Message/&ItemsOnGroundTitle	Perder objetos
 Message/&LegalDisagreeAndQuitDescription	Dado que no ha aceptado estos términos, la aplicación se cerrará.
 Message/&LegalDisagreeAndQuitTitle	Salir del juego
 Message/&MessageCancelTitle	Cancelar
 Message/&MessageNoTitle	No
 Message/&MessageOkTitle	OK
-Message/&MessageYesTitle	sí
-Message/&PartyLosesGoldPieces	La fiesta pierde {0} piezas de oro
+Message/&MessageYesTitle	Sí
+Message/&PartyLosesGoldPieces	El grupo pierde {0} piezas de oro
 Message/&QuitLocationDescription	Estás a punto de abandonar el área actual. ¿Continuar?
 Message/&QuitLocationTitle	Salir del área
-Message/&ResumeCampDescription	¿Quieres reanudar el camping?
-Message/&ResumeCampTitle	Reanudar Camping
-Message/&ResumeRestDescription	¿Quieres continuar con tu largo descanso?
-Message/&ResumeRestTitle	Reanudar descanso prolongado
+Message/&ResumeCampDescription	¿Quieres reanudar la acampada?
+Message/&ResumeCampTitle	Reanudar acampada
+Message/&ResumeRestDescription	¿Quieres continuar con tu descanso largo?
+Message/&ResumeRestTitle	Reanudar descanso largo
 Message/&SavedGameDeleteDescription	¿Estás seguro de que deseas eliminar de forma permanente el juego guardado "{0}"?
 Message/&SavedGameDeleteTitle	Eliminar juego guardado
 Message/&SavedGameOverwriteDescription	¿Estás seguro de que deseas sobrescribir el juego guardado "{0}" con tu estado actual del juego?
 Message/&SavedGameOverwriteTitle	Sobrescribir partida guardada
-Message/&ScrollScribeDestructionDescription	Escribir el hechizo en el libro de hechizos seleccionado destruirá el pergamino. ¿Estas seguro que deseas continuar?
-Message/&ScrollScribeDestructionTitle	Desplazamiento de escriba
+Message/&ScrollScribeDestructionDescription	Copiar el hechizo del pergamino en el libro de hechizos destruirá el pergamino. ¿Estás seguro que deseas continuar?
+Message/&ScrollScribeDestructionTitle	Copiar pergamino
 Message/&SessionCancelDescription	¿Seguro que quieres salir de la configuración de esta nueva aventura?
 Message/&SessionCancelTitle	Cancelar aventura
 Message/&SettingConfirmSettingsDescription	¿Está seguro de que desea mantener los cambios de configuración seleccionados?
@@ -55,8 +55,8 @@ Message/&SettingExitWithoutApplyDescription	¿Está seguro de que desea cerrar e
 Message/&SettingExitWithoutApplyTitle	Descartando cambios
 Message/&SkipLevelUpFormat	No ha completado la secuencia de subida de nivel para {0}. ¿Seguro que quieres salir?
 Message/&SkipLevelUpTitle	Saltarse el nivel del personaje
-Message/&WaitForLongRestDescription	Hoy ya has realizado un largo descanso. ¿Le gustaría esperar hasta el comienzo de un nuevo día?
-Message/&WaitForLongRestTitle	Esperando para realizar un descanso prolongado
+Message/&WaitForLongRestDescription	Hoy ya has realizado un descanso largo. ¿Quieres esperar hasta el comienzo de un nuevo día?
+Message/&WaitForLongRestTitle	Espera para hacer un descanso largo
 Message/&EndEarlyAccessDescription	Ha llegado al final del contenido reproducible de acceso anticipado. Ahora volverá al menú principal.
 Message/&EndEarlyAccessTitle	Fin del acceso anticipado
 Message/&EndEarlyAccessMainMenuTitle	Menú principal
