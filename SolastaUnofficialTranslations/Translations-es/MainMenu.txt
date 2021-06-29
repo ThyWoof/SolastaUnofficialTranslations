@@ -4,7 +4,7 @@ MainMenu/&ChangeCharacterSlotDescription	Haga clic para seleccionar un personaje
 MainMenu/&ChangeCharacterSlotTitle	Cambiar
 MainMenu/&ContinueTitle	Continuar
 MainMenu/&DeleteCharacterDescription	Haga clic para eliminar este personaje del grupo.
-MainMenu/&EmpyTitle	Vacío
+MainMenu/&EmptyTitle	Vacío
 MainMenu/&ExportPdfDescription	Exporta personaje seleccionado a un archivo pdf para imprimir.
 MainMenu/&ExportPdfTitle	Exportar PDF
 MainMenu/&InspectCharacterDescription	Abre el inventario y la hoja del personaje seleccionado.
@@ -13,7 +13,7 @@ MainMenu/&LevelUpCharacterDescription	Sube de nivel al personaje. Algunas campa�
 MainMenu/&LevelUpCharacterTitle	Subir de nivel
 MainMenu/&LicenseDescription	Muestra la información de la licencia de este juego.
 MainMenu/&LicenseTitle	Licencia
-MainMenu/&LoadGameDescription	Carga una partida guardada anteriormente.
+MainMenu/&LoadGameDescription	Carga una partida guardada.
 MainMenu/&LoadGameTitle	Cargar juego
 MainMenu/&ManageCharactersDescription	Crear/ ver / editar tu grupo de personajes.
 MainMenu/&ManageCharactersTitle	Personajes
