@@ -11,4 +11,4 @@ Environment/&ElvenPalaceDescription	Un lujoso vestigio del reino de Manacalon
 Environment/&LavaCavesTitle	Cuevas de lava
 Environment/&LavaCavesDescription	Una red subterránea de cuevas habitadas por criaturas tribales.
 Environment/&WoodlandTitle	Bosque
-Environment/&WoodlandDescription	Navega a través de una serie de claros dentro de un bosque templado.
+Environment/&WoodlandDescription	Atraviesa una serie de claros dentro de un bosque de clima templado
