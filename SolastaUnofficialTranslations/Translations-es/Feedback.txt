@@ -66,9 +66,9 @@ Feedback/&ConcentrationCheckRolledLine	{0} rollos para mantener la concentració
 Feedback/&ConcentrationCheckRolledNoModifierLine	{0} rueda para mantener la concentración frente a DC {1}, rueda {2}
 Feedback/&ConcentrationLostLine	{0} pierde la concentración en {1}
 Feedback/&ConditionAddedHasLine	{0} tiene {1}
-Feedback/&ConditionAddedLine	{0} ha {1}
+Feedback/&ConditionAddedLine	{0} está {1}
 Feedback/&ConditionRemovedHasLine	{0} ya no tiene {1}
-Feedback/&ConditionRemovedLine	{0} ya no es {1}
+Feedback/&ConditionRemovedLine	{0} ya no está {1}
 Feedback/&ContestCheckConsoleBothAdvantageLine	{0} contra {1}, {2} {0} contra {3} {1}, ({4} {5}) {0} contra ({6} {7}) {1} ({8})
 Feedback/&ContestCheckConsoleLine	{0} contra {1}, {2} {0} contra {3} {1}, ({4}) {0} contra ({5}) {1} ({6})
 Feedback/&ContestCheckConsoleMainAdvantageLine	{0} concursos {1}, {2} contra {3}, tira {4} {5} contra {6} {7}
@@ -100,7 +100,7 @@ Feedback/&DeathSaveFailuresAddedLine	Se agregó {0} error al guardar la muerte a
 Feedback/&DeathSaveRegainLifeLine	Gracias a {0}, {1} vuelve a tener {2} puntos de vida.
 Feedback/&DeathSaveSuccessAddedLine	{0} éxito de guardado de muerte agregado a {1}
 Feedback/&DeathSaveSuccessFormat	{0} Éxito
-Feedback/&DetectedDefeatFormat	¡Has sido detectado! Utilice el modo sigiloso la próxima vez.
+Feedback/&DetectedDefeatFormat	¡Has sido detectado! Utiliza el modo sigiloso la próxima vez.
 Feedback/&DeviceAutoIdentifiedLine	Gracias a un mayor conocimiento de este tipo de elementos, {0} ha identificado {1}
 Feedback/&DimLightCaption	Luz tenue
 Feedback/&DisadvantageRollDescription	Tirar con desventaja significa que tiras dos d20 y te quedas con el peor resultado.
@@ -131,8 +131,8 @@ Feedback/&InsightCriticalSuccessLine	{0} éxito crítico en una prueba Sabidurí
 Feedback/&InsightFailureLine	{0} falla una prueba de Sabiduría (Perspicacia): las probabilidades de éxito del diálogo están ocultas.
 Feedback/&InsightSuccessLine	{0} tiene éxito en una prueba de Sabiduría (Perspicacia): se revelan las probabilidades de éxito del diálogo.
 Feedback/&ItemConsumedCaption	{0} consumido
-Feedback/&ItemConsumedLine	{0} ha consumido por completo un artículo: {1}
-Feedback/&ItemGainedLine	{0} gana un artículo: {1}
+Feedback/&ItemConsumedLine	{0} ha consumido por completo un objeto: {1}
+Feedback/&ItemGainedLine	{0} gana un objeto: {1}
 Feedback/&ItemSpellCastLine	y lanza el hechizo {0}
 Feedback/&ItemUsedLastChargeDestroyLine	Última carga gastada: {0} se destruye
 Feedback/&ItemUsedLastChargeRollDestroyLine	Última carga gastada y {1} se lanza en d20: {0} se destruye
@@ -167,11 +167,11 @@ Feedback/&RollCheckCriticalFailureTitle	Fallo crítico
 Feedback/&RollCheckCriticalSuccessTitle	Éxito crítico
 Feedback/&RollCheckFailureTitle	Fallo
 Feedback/&RollCheckSuccessTitle	Éxito
-Feedback/&SaveCaptionFormat	{0} Guardar
-Feedback/&SaveConsoleAnyAdvantageLine	{0} obtiene un {1} guardado contra {2} (DC {3}), obtiene {4} {5} = {6}
-Feedback/&SaveConsoleAnyAdvantageNoModifierLine	{0} saca un {1} guardado contra {2} (DC {3}), tira {4} {5}
-Feedback/&SaveConsoleLine	{0} saca un {1} guardado contra {2} (DC {3}), tira {4} = {5}
-Feedback/&SaveConsoleNoModifierLine	{0} saca una {1} salvada contra {2} (DC {3}), tira {4}
+Feedback/&SaveCaptionFormat	{0}
+Feedback/&SaveConsoleAnyAdvantageLine	{0} obtiene un {1} guardado contra {2} (CD {3}), obtiene {4} {5} = {6}
+Feedback/&SaveConsoleAnyAdvantageNoModifierLine	{0} hace una tirada de salvación de {1} contra {2} (CD {3}) ({4} {5})
+Feedback/&SaveConsoleLine	{0} hace una tirada de salvación de {1} contra {2} (CD {3}) ({4}) = {5}
+Feedback/&SaveConsoleNoModifierLine	{0} hace una tirada de salvación de {1} contra {2} (DC {3}) ({4})
 Feedback/&SaveFailureOutcome	{0} falla
 Feedback/&SaveSuccessFormat	Ahorra
 Feedback/&SaveSuccessOutcome	{0} (éxito)
@@ -186,7 +186,7 @@ Feedback/&SleightOfHandSuccessCaptionFormat	¡Éxito!
 Feedback/&SleightOfHandSuccessLine	Desafío
 Feedback/&SpellcastingFailedCaption	¡Reparto fallido!
 Feedback/&SpellcastingFailedLine	{0} no lanza el hechizo {1}
-Feedback/&SpellCastLine	{0} lanza el {1} ​​hechizo
+Feedback/&SpellCastLine	{0} lanza el hechizo {1} ​​
 Feedback/&SpellCastSuperiorSlotLine	{0} lanzadores {1} con un espacio {2} de nivel
 Feedback/&SpellCounteredFailLine	{0} no contrarresta el {2} hechizo lanzado por {1}
 Feedback/&SpellCounteredSuccessLine	{0} contrarresta el {2} hechizo lanzado por {1}
@@ -211,10 +211,10 @@ Feedback/&CharmedEnemyRemovedFromArea	{0} abandonó el área
 Feedback/&UnlitCaption	Oscuridad
 Feedback/&UnlitDescription	La criatura está en la oscuridad. Las tiradas de ataque contra ella se harán con desventaja.
 Feedback/&CraftingAttemptedLine	{0} está intentando crear {1}
-Feedback/&StealthBrokenByForce	{0} ha sido revelado y ya no está oculto.
-Feedback/&StealthBrokenByEnemy	{0} ha sido detectado por {1} y ya no está oculto.
-Feedback/&StealthNotBroken	{0} logró permanecer oculto.
-Feedback/&PartyMoneyGainedLine	El partido gana {0}.
+Feedback/&StealthBrokenByForce	{0} ha sido detectado/a y ya no está oculto/a.
+Feedback/&StealthBrokenByEnemy	{0} ha sido detectado/a por {1} y ya no está oculto/a.
+Feedback/&StealthNotBroken	{0} logró permanecer oculto/a.
+Feedback/&PartyMoneyGainedLine	El grupo gana {0}.
 Feedback/&FreeBrokFirst	Debes liberar a Brok antes de poder tomar un descanso prolongado.
 Feedback/&AdditionalDamagePoisonFormat	¡Veneno!
 Feedback/&AdditionalDamagePoisonLine	{0} inflige daño de veneno adicional a {1} (+ {2}).
