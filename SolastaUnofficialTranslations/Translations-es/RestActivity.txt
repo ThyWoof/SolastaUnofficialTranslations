@@ -1,4 +1,4 @@
-RestActivity/&ArcaneRecoveryDescription	Una vez al día, cuando complete un breve descanso, puede recuperar una cantidad de espacios de hechizo gastados (máximo nivel 5) hasta la mitad de su nivel de mago, redondeado hacia arriba.
+RestActivity/&ArcaneRecoveryDescription	Una vez al día, cuando completes un descanso corto, puedes recuperar una cantidad de espacios de hechizo gastados (máximo nivel 5) hasta la mitad de su nivel de mago, redondeado hacia arriba.
 RestActivity/&ArcaneRecoveryTitle	Recuperación arcana
 RestActivity/&AttuneItemDescription	La sintonización con un elemento accede a sus propiedades y funciones avanzadas.
 RestActivity/&AttuneItemTitle	Elemento de sintonía
