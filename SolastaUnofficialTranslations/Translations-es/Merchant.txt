@@ -1,4 +1,4 @@
-Merchant/&CaerCyflen_Annie_Bagmordah_Store_ScavengersTitle	Sede de los carroñeros
+Merchant/&CaerCyflen_Annie_Bagmordah_Store_ScavengersTitle	Sede de los Carroñeros
 Merchant/&CaerCyflen_Dalon_Lark_Store_EinarTitle	Contacto Templo de Einar
 Merchant/&CaerCyflen_Gorim_Ironsoot_StoreTitle	Tienda general para aventureros
 Merchant/&CaerCyflen_Halman_Summer_Store_AntiquariansTitle	Contacto Anticuarios
@@ -15,5 +15,5 @@ Merchant/&Telema_Merchant_Wanderer_TelemaTitle	Comerciante errante
 Merchant/&Coparann_Atima_StoreTitle	Clérigo local de Arun
 Merchant/&CC_PriestessPakri	Sacerdotisa de Pakri
 Merchant/&CC_PriestMaraike	Sacerdote de Maraike
-Merchant/&CC_PriestArun	Rogar Fuego ardiente
+Merchant/&CC_PriestArun	Sacerdote de Arun
 Merchant/&Circe_Title	Comerciante de manuales de encantamiento
