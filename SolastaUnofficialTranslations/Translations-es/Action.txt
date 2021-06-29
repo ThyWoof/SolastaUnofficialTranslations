@@ -76,11 +76,11 @@ Action/&CunningActionDescription	A partir del nivel 2, tu agilidad mental y rapi
 Action/&CunningActionTitle	A. Astuta
 Action/&DashDescription	Al llevar a cabo una acción de Correr consigues movimiento adicional para ese turno. Este aumento es igual a tu velocidad tras aplicar cualquier modificador pertinente.
 Action/&DashTitle	Correr
-Action/&DisengageDescription	Si realiza la acción de Destrabarte, no provocarás ataque de oportunidad enemigo cuando salgas de su rango de acción.
+Action/&DisengageDescription	Al usar la acción de Destrabarte, no provocarás ataque de oportunidad enemigo cuando salgas de su rango de acción.
 Action/&DisengageTitle	Destrabarse
 Action/&DodgeDescription	Cuando realizas la acción de Esquivar, te concentras por completo en evitar ataques. Hasta el comienzo de tu próximo turno, cualquier tirada de ataque realizada contra ti tiene desventaja si puedes ver al atacante, y tus tiradas de salvación de Destreza obtienen ventaja.
 Action/&DodgeTitle	Esquivar
-Action/&DropProneDescription	Puedes tirarte al suelo voluntariamente, quedando derribado, sin tener que gastar parte de tu velocidad. Levantarse cuesta más: tendrás que invertir la mitad de tu velocidad. Para moverte estando derribado deberás arrastrarte o recurrir a efectos mágicos como la teletransportación. Además, los ataques contra una criatura derribada obtendrán ventaja y los ataques de esta contra otras criaturas se harán con desventaja.
+Action/&DropProneDescription	Puedes tirarte al suelo voluntariamente, quedando Derribado sin tener que gastar parte de tu movimiento. Levantarse cuesta más: tendrás que invertir la mitad de tu movimiento. Para moverte estando derribado deberás arrastrarte o recurrir a efectos mágicos como la teletransportación. Además, los ataques contra una criatura Derribada obtendrán ventaja y los ataques de esta contra otras criaturas se harán con desventaja.
 Action/&DropProneTitle	Tirarse al suelo
 Action/&EnemyCreatureTitle	Criatura enemiga
 Action/&EnemyTargetHeaderTitle	{0} (enemigo)
@@ -105,30 +105,30 @@ Action/&NeutralTargetHeaderTitle	{0} (neutral)
 Action/&PickUpDescription	Recoge un objeto.
 Action/&PickUpTitle	Recoger
 Action/&PowerDescription	Activa un poder o habilidad especial.
-Action/&PowerTitle	Usar poder
+Action/&PowerTitle	Poder
 Action/&ReadyDescription	Prepara un ataque para que se ejecute cuando ocurra una situación concreta.
-Action/&ReadyTitle	Retrasar A.
+Action/&ReadyTitle	Preparar
 Action/&ShoveDescription	Usa tu Fuerza para empujar a una criatura o derribarla. El objetivo no debe ser más de un tamaño más grande que el personaje y debe estar a su alcance.
 Action/&ShoveTitle	Empujar
-Action/&SpellCoverHalfDescription	El objetivo tiene cobertura media ({0} tiro de salvación).\n
-Action/&SpellCoverThreeQuartersDescription	El objetivo tiene una cobertura de tres cuartos ({0} tiro de salvación).\n
+Action/&SpellCoverHalfDescription	El objetivo tiene cobertura media ({0} tirada de salvación).\n
+Action/&SpellCoverThreeQuartersDescription	El objetivo tiene una cobertura de tres cuartos ({0} tirada de salvación).\n
 Action/&SpellExecuteDescription	Haga clic para seleccionar este objetivo para tu hechizo.
-Action/&StandUpDescription	Ponerse de pie cuesta una cantidad de movimiento igual a la mitad de tu velocidad. No puedes ponerte de pie si no te queda suficiente movimiento o si tu velocidad es 0.
+Action/&StandUpDescription	Ponerse de pie cuesta una cantidad de movimiento igual a la mitad de tu movimiento. No puedes ponerte de pie si no te queda suficiente movimiento o si tu velocidad es 0.
 Action/&StandUpTitle	Levantarse
 Action/&UseFunctionAdditionalChargePlural	Lanza un hechizo usando {0} cargas adicionales.
 Action/&UseFunctionAdditionalChargeSingle	Lanza un hechizo usando una carga adicional.
-Action/&UseItemDescription	Use las habilidades especiales de un objeto o elemento mágico.
+Action/&UseItemDescription	Usar las funciones especiales de un objeto o dispositivo mágico.
 Action/&UseItemTitle	Usar objeto
 Action/&VampiricTouchDescription	El toque de tu mano envuelta en sombras puede absorber la fuerza vital de otros para curar tus heridas. Haz un ataque de conjuro cuerpo a cuerpo contra una criatura dentro del alcance. Si impactas, el objetivo sufre 3d6 de daño necrótico y tú recuperas tantos puntos de golpe como la mitad del daño necrótico infligido.
 Action/&VampiricTouchTitle	Toque vampírico
-Action/&ActionTeleportDescription	Teletransportarse
+Action/&ActionTeleportDescription	Teleportar
 Action/&UnhideTitle	Mostrarse
-Action/&UnhideDescription	Dejas de ocultarte. Esta acción es una acción gratuita.
+Action/&UnhideDescription	Dejas de ocultarte. Esta es una acción gratuita.
 Action/&ActionStatusCannotPerformDetectedDescription	Esta acción solo se puede realizar si no se detecta el personaje. Rompe la línea de visión para continuar.
 Action/&BreakFreeTitle	Liberarse
-Action/&BreakFreeDescription	Gastas tu acción intentando liberarte. Lo lograrás si tienes éxtito en una prueba de Fuerza (Atletismo) o Destreza (Acrobacias) enfrentadas de quién te agarra.
+Action/&BreakFreeDescription	Gastas tu acción intentando liberarte. Lo lograrás si tienes éxtito en una prueba de Fuerza (Atletismo) o Destreza (Acrobacias) enfrentadas contra la criatura que te agarra.
 Action/&BreakEnchantmentTitle	Romper encantamiento
 Action/&BreakEnchantmentDescription	Toca una criatura para eliminar una condición perjudicial (encantada, asustada o poseída).
 Action/&DismissalTitle	Despido
 Action/&DismissalDescription	Como acción, realiza un ataque de conjuro cuerpo a cuerpo contra un celestial, elemental, feérico, demonio o muerto viviente dentro de tu alcance. Si impactas, intentas enviar a la criatura de vuelta a su plano natal. El objetivo debe tener éxito en una tirada de salvación de Carisma o será enviado a su plano natal.
-Action/&AttackToss_Title	Sacudida
+Action/&AttackToss_Title	Lanzar
