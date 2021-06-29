@@ -10,17 +10,17 @@ NPC/&NPC_ArwinMertonTitle	Arwin Merton
 NPC/&NPC_ArwinMertonUnknownTitle	Borracho desconocido
 NPC/&NPC_AtimaBladeburnTitle	Atima Bladeburn
 NPC/&NPC_BanditCrossbowDescription	Este bandido retrocede para disparar con una ballesta.
-NPC/&NPC_BanditCrossbowTitle	Escaramuza bandido
+NPC/&NPC_BanditCrossbowTitle	Bandido escaramuzador
 NPC/&NPC_BanditDescription	Un luchador malévolo que usa una cimitarra.
 NPC/&NPC_BanditDwarfDescription	Bajo y robusto, este bandido empuña una cimitarra.
 NPC/&NPC_BanditDwarfTitle	Bandido enano
 NPC/&NPC_BanditHalflingDescription	Corto y ágil, este bandido lleva una ballesta.
-NPC/&NPC_BanditHalflingTitle	Bandido enano
-NPC/&NPC_BanditLoanSharkDescription	Tiburón de préstamo
-NPC/&NPC_BanditLoanSharkTitle	Tiburón de préstamo
+NPC/&NPC_BanditHalflingTitle	Bandido mediano
+NPC/&NPC_BanditLoanSharkDescription	Loan Shark
+NPC/&NPC_BanditLoanSharkTitle	Loan Shark
 NPC/&NPC_BanditQuartermasterTitle	Intendente bandido
 NPC/&NPC_BanditSwordsmanDescription	Alto y poderoso, este bandido empuña una gran espada.
-NPC/&NPC_BanditSwordsmanTitle	Salteador de caminos
+NPC/&NPC_BanditSwordsmanTitle	Bandido espadachín
 NPC/&NPC_BanditTitle	Bandido
 NPC/&NPC_BericSunblazeTitle	Marshal Beric Sunblaze
 NPC/&NPC_BerylStonebeardTitle	Beryl Barbapiedra
@@ -32,9 +32,9 @@ NPC/&NPC_CoparannGuardTitle	Guardia Coparann
 NPC/&NPC_DalonLarkTitle	Capellán Dalon Lark
 NPC/&NPC_DarikSunbirdTitle	Daliat Sunbird
 NPC/&NPC_DekTitle	Dek
-NPC/&NPC_EdvanDanantarTitle	Gran maestro Edvan Danantar
+NPC/&NPC_EdvanDanantarTitle	Gran Maestro Edvan Danantar
 NPC/&NPC_Galar_Title	Galar Lengua de Oro
-NPC/&NPC_GorimIronsootTitle	Hollín de Gorim
+NPC/&NPC_GorimIronsootTitle	Gorim Hollín de Hierro
 NPC/&NPC_Gromnir_Title	Barón Gromnir Puño de piedra
 NPC/&NPC_HalmanGormsdottirTitle	Canciller Hertha Gormsdottir
 NPC/&NPC_HalmanSummerTitle	Halman verano
