@@ -117,7 +117,7 @@ Stage/&LevelUpHeader	¡Elevar a mismo nivel!
 Stage/&NeedADeityDescription	Debes elegir una deidad.
 Stage/&ProficiencyAutoSelectButtonDescription	Deje que la computadora tome las decisiones por ahora.
 Stage/&ProficiencyAutoSelectButtonTitle	Auto
-Stage/&ProficiencyBonusGainFormat	Aumentó a {0}\nAfecta a todos los ataques, tiros de salvación, pruebas de habilidades, herramientas y CD de hechizos.
+Stage/&ProficiencyBonusGainFormat	Aumentó a {0}\nAfecta a todos los ataques, tiradas de salvación, pruebas de habilidades, herramientas y CD de hechizos.
 Stage/&ProficiencyBonusGainTitle	Bono de competencia
 Stage/&ProficiencyEditButtonDescription	Vuelva al paso de competencia y realice cambios.
 Stage/&ProficiencyEditButtonTitle	Cambio
