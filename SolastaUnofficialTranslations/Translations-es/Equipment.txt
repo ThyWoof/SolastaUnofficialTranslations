@@ -97,9 +97,9 @@ Equipment/&Bacgkground_Sellsword_Item_Title	Cinta de campaña militar
 Equipment/&Backpack3Title	Bolsa de tenencia
 Equipment/&BackpackDescription	El amigo indispensable del aventurero. Sostiene todo el equipo que desee, si es lo suficientemente fuerte para llevarlo.
 Equipment/&BackpackTitle	Mochila
-Equipment/&BaseArmorDescription	CA de {0}\n+ Bono DEX
-Equipment/&BaseArmorNoDexDescription	CA de {0}\nSin Bono DEX
-Equipment/&BaseArmorWithCapDescription	CA de {0}\n+ Bono DEX (máx. {1})
+Equipment/&BaseArmorDescription	CA de {0}\n+ Bono DES
+Equipment/&BaseArmorNoDexDescription	CA de {0}\nSin Bono DES
+Equipment/&BaseArmorWithCapDescription	CA de {0}\n+ Bono DES (máx. {1})
 Equipment/&BattleaxeTypeTitle	Hacha de batalla
 Equipment/&BlankScrollDescription	Necesitaba crear un pergamino de hechizos.
 Equipment/&BlankScrollTitle	Desplazamiento en blanco
@@ -149,7 +149,7 @@ Equipment/&CaerLem_Document_MasterSmith_Title	Memorias del maestro tirmariano Sm
 Equipment/&CaerLem_Gate_Plaque_Content	Ilustración de TDC
 Equipment/&CaerLem_Gate_Plaque_Description	Una placa plateada de una Puerta mágica anterior al Cataclismo.
 Equipment/&CaerLem_Gate_Plaque_Title	Placa de la puerta imperial
-Equipment/&CaerLem_Henrik_Notebook_Content	... algo anda mal con el capitán. Le dije a la teniente pero ella no escuchó. No puede creer que Henrik pueda estar equivocado en algo. Puede que tenga que enfrentarme a él yo mismo ...
+Equipment/&CaerLem_Henrik_Notebook_Content	…algo le pasa al capitán. Se lo comenté a la teniente pero no me hizo caso. No puedo creer que Henrik se haya equivocado. Puede que me tenga que enfrentar a él yo mismo.
 Equipment/&CaerLem_Henrik_Notebook_Description	Una página arrancada de un cuaderno.
 Equipment/&CaerLem_Henrik_Notebook_Title	Página del cuaderno
 Equipment/&CaerLem_TirmarianSymbol_Description	Este amuleto parece un símbolo sagrado de la era anterior al cataclismo, lo que significa que es de origen tirmariano. A juzgar por su forma, pertenecía a un sacerdote de Arun.
@@ -178,21 +178,21 @@ Equipment/&ContainerPersonalTitle	Artículos transportados
 Equipment/&ContainerPotsTitle	Ollas
 Equipment/&ContainerSackTitle	Saco
 Equipment/&ContainerWeaponsRackTitle	Estante de armas
-Equipment/&CraftingManualContentDescription	Para crear el {0}, necesita:\n{1}
-Equipment/&CraftingManualDescription	Lea este manual para aprender a elaborar el artículo {0}.
+Equipment/&CraftingManualContentDescription	Para crear {0} necesita:\n{1}
+Equipment/&CraftingManualDescription	Lea este manual para aprender a crear el objeto {0}.
 Equipment/&CraftingManualTitle	Elaboración {0}
 Equipment/&CraftingPackDescription	Contiene ingredientes para empezar a elaborar pociones.
 Equipment/&CraftingPackTitle	Paquete de inicio de elaboración
 Equipment/&CurrencyCopperDescription	Piezas de cobre, cada una con un valor de una centésima parte de una pieza de oro.
-Equipment/&CurrencyCopperTitle	cp
+Equipment/&CurrencyCopperTitle	pc
 Equipment/&CurrencyElectrumDescription	Piezas de Electrum, cada una con un valor de la mitad de una pieza de oro.
-Equipment/&CurrencyElectrumTitle	ep
+Equipment/&CurrencyElectrumTitle	pe
 Equipment/&CurrencyGoldDescription	Piezas de oro.
-Equipment/&CurrencyGoldTitle	gp
+Equipment/&CurrencyGoldTitle	po
 Equipment/&CurrencyPlatinumDescription	Piezas de platino, cada una con un valor de diez piezas de oro.
-Equipment/&CurrencyPlatinumTitle	páginas
+Equipment/&CurrencyPlatinumTitle	Piezas de platino
 Equipment/&CurrencySilverDescription	Piezas de plata, cada una con un valor de una décima parte de una pieza de oro.
-Equipment/&CurrencySilverTitle	sp
+Equipment/&CurrencySilverTitle	pp
 Equipment/&Dagger_plus_1_Description	La daga de un oficial de la Legión de Hierro de la era Imperial, finamente elaborada e imbuida de magia.
 Equipment/&Dagger_plus_1_Title	Daga +1
 Equipment/&Dagger_plus_1_Unidentified_Description	Esta daga grabada con runas es claramente de mano de obra superior.
@@ -349,7 +349,7 @@ Equipment/&HeavyArmorCategoryTitle	Armadura pesada
 Equipment/&HeavyCrossbowTypeTitle	Ballesta pesada
 Equipment/&HectorLetterContent1	Fue un mal plan; Lo dije desde el principio. Me tomó un mes dominar la apariencia completa de Griff y un año construir el culto a las arañas. Los orcos ahora me son leales y están ansiosos por seguirme a la guerra, pero los carroñeros han encontrado la ciudad y han comenzado a invadir el territorio de los orcos. Decidí utilizar a los orcos antes de lo previsto y acabar con los carroñeros. Solo había una docena de ellos, pero se resistieron más de lo que esperaba, y tuve que cambiar el plan nuevamente. Sacrifiqué más orcos para capturar a su líder, un hombre llamado Héctor. Cancelaré la operación con el culto a las arañas y tomaré la apariencia de este Héctor. Un miembro destacado de los carroñeros podría resultar útil. Debo pasar tiempo a solas con él en las profundidades de las ruinas, adonde no van los orcos.
 Equipment/&HectorLetterContent2	Dejo esta nota en caso de que el Tshar envíe por mí. Puede que no salga vivo. Cometí un error al ir tan profundo, tan cerca del anfiteatro. Las arañas profundas son mucho más numerosas de lo que pensaba y han matado a mi prisionera. No podré convertirme en Héctor. La misión es un completo fracaso y responderé ante el Tshar, si sobrevivo. Intentaré escapar trepando por el anfiteatro, pero las arañas pueden ser demasiado rápidas para mí. ¡Gloria a Sorr-Tarr!
-Equipment/&HerbalismKitToolTypeDescription	Contiene una variedad de instrumentos como tijeras, mortero, plantas y productos químicos, para elaborar pociones, antitoxinas, fuego de alquimista e incluso frascos de ácido o aceite.
+Equipment/&HerbalismKitToolTypeDescription	Contiene una variedad de instrumentos como tijeras, mortero, plantas y productos químicos para elaborar pociones, antitoxinas, fuego de alquimista e incluso frascos de ácido o aceite.
 Equipment/&HerbalismKitToolTypeTitle	Kit de herboristería
 Equipment/&HolySymbolAmuletTitle	Símbolo sagrado (amuleto)
 Equipment/&HolySymbolEmblemTitle	Símbolo sagrado (emblema)
@@ -361,7 +361,7 @@ Equipment/&Ingredient_AbyssMoss_Title	Musgo del abismo
 Equipment/&Ingredient_Acid_Description	Una pequeña cantidad de ácido.
 Equipment/&Ingredient_Acid_Title	Ácido
 Equipment/&Ingredient_AngryViolet_Description	Común en el Principado de Masgarth, esta flor lleva el nombre de un famoso mago.
-Equipment/&Ingredient_AngryViolet_Title	Violeta enojado
+Equipment/&Ingredient_AngryViolet_Title	Furia Violeta
 Equipment/&Ingredient_Blood_Of_Solasta_Description	Una solución alquímica utilizada por los transmutadores del Arcaneum, su receta era un secreto muy bien guardado en los días de Manacalon. Se puede utilizar para crear objetos mágicos.
 Equipment/&Ingredient_Blood_Of_Solasta_Title	Sangre de Solasta
 Equipment/&Ingredient_Blood_Ruby_Title	Rubí de sangre
@@ -476,7 +476,7 @@ Equipment/&Ingredient_TrollAcanthus_Title	Troll Acanto
 Equipment/&Ingredient_VenomGland_Description	Obtenido del cadáver de una araña de Badlands. Se puede destilar para crear un veneno de hoja.
 Equipment/&Ingredient_VenomGland_Title	Glándula de veneno de araña
 Equipment/&Item_Food_Ration_Description	Un saco de tela con suficiente <#A95827>comida para un día</color>: pan, carne seca, verduras crudas y nueces.
-Equipment/&Item_Food_Ration_Title	Bolsa de raciones
+Equipment/&Item_Food_Ration_Title	Paquete de ración
 Equipment/&ItemBrandingFormat	{0} de {1}
 Equipment/&ItemTypeAmmunitionTitle	Munición
 Equipment/&ItemTypeArmorTitle	Armadura ({0})
@@ -604,62 +604,62 @@ Equipment/&ScaleArmorPlus1_Unidentified_Description	Esta armadura finamente deco
 Equipment/&ScaleArmorPlus1_Unidentified_Title	Magnífica armadura de escamas
 Equipment/&ScholarPackTitle	Paquete de erudito
 Equipment/&ScimitarTypeTitle	Cimitarra
-Equipment/&ScrollAcidArrowDescription	Cuando usas este pergamino, lanzas el hechizo de flecha ácida.
-Equipment/&ScrollAcidArrowTitle	Pergamino de flecha ácida
-Equipment/&ScrollBaneDescription	Cuando usas este pergamino, lanzas el hechizo Bane.
+Equipment/&ScrollAcidArrowDescription	Cuando usas este pergamino lanzas el hechizo Flecha ácida.
+Equipment/&ScrollAcidArrowTitle	Pergamino de Flecha ácida
+Equipment/&ScrollBaneDescription	Cuando usas este pergamino lanzas el hechizo  Bane.
 Equipment/&ScrollBaneTitle	Pergamino de Bane
-Equipment/&ScrollBarkskinDescription	Cuando usas este pergamino, lanzas el hechizo Piel de corteza.
+Equipment/&ScrollBarkskinDescription	Cuando usas este pergamino lanzas el hechizo  Piel de corteza.
 Equipment/&ScrollBarkskinTitle	Pergamino de piel de corteza
-Equipment/&ScrollBlessDescription	Cuando usas este pergamino, lanzas el hechizo Bless.
+Equipment/&ScrollBlessDescription	Cuando usas este pergamino lanzas el hechizo  Bendición
 Equipment/&ScrollBlessTitle	Pergamino de Bendición
-Equipment/&ScrollBurningHandsDescription	Cuando usas este pergamino, lanzas el hechizo de manos ardientes.
+Equipment/&ScrollBurningHandsDescription	Cuando usas este pergamino lanzas el hechizo  de manos ardientes.
 Equipment/&ScrollBurningHandsTitle	Pergamino de manos ardientes
-Equipment/&ScrollColorSprayDescription	Cuando usas este pergamino, lanzas el hechizo Color Spray.
+Equipment/&ScrollColorSprayDescription	Cuando usas este pergamino lanzas el hechizo  Color Spray.
 Equipment/&ScrollColorSprayTitle	Rollo de spray de color
-Equipment/&ScrollCureWoundsDescription	Cuando usas este pergamino, lanzas el hechizo Curar heridas.
+Equipment/&ScrollCureWoundsDescription	Cuando usas este pergamino lanzas el hechizo  Curar heridas.
 Equipment/&ScrollCureWoundsTitle	Pergamino de curar heridas
-Equipment/&ScrollExpeditiousRetreatDescription	Cuando usas este pergamino, lanzas el hechizo Retirada rápida.
+Equipment/&ScrollExpeditiousRetreatDescription	Cuando usas este pergamino lanzas el hechizo  Retirada rápida.
 Equipment/&ScrollExpeditiousRetreatTitle	Pergamino de retirada expeditiva
-Equipment/&ScrollFireballDescription	Cuando usas este pergamino, lanzas el hechizo Bola de fuego.
-Equipment/&ScrollFireballTitle	Pergamino de bola de fuego
-Equipment/&ScrollFogCloudDescription	Cuando usas este pergamino, lanzas el hechizo Nube de niebla.
+Equipment/&ScrollFireballDescription	Cuando usas este pergamino lanzas el hechizo Bola de fuego.
+Equipment/&ScrollFireballTitle	Pergamino de Bola de fuego
+Equipment/&ScrollFogCloudDescription	Cuando usas este pergamino lanzas el hechizo Nube de niebla.
 Equipment/&ScrollFogCloudTitle	Pergamino de nube de niebla
-Equipment/&ScrollGreaseDescription	Cuando usas este pergamino, lanzas el hechizo Grasa.
-Equipment/&ScrollGreaseTitle	Pergamino de grasa
-Equipment/&ScrollGuidingBoltDescription	Cuando usas este pergamino, lanzas el hechizo Guiding Bolt.
-Equipment/&ScrollGuidingBoltTitle	Pergamino de perno guía
-Equipment/&ScrollHideousLaughterDescription	Cuando usas este pergamino, lanzas el hechizo Risa horrible.
-Equipment/&ScrollHideousLaughterTitle	Pergamino de risa horrible
-Equipment/&ScrollHoldPersonDescription	Cuando usas este pergamino, lanzas el hechizo Hold Person.
+Equipment/&ScrollGreaseDescription	Cuando usas este pergamino lanzas el hechizo Grasa.
+Equipment/&ScrollGreaseTitle	Pergamino de Grasa
+Equipment/&ScrollGuidingBoltDescription	Cuando usas este pergamino lanzas el hechizo Guiding Bolt.
+Equipment/&ScrollGuidingBoltTitle	Pergamino de Saeta guía
+Equipment/&ScrollHideousLaughterDescription	Cuando usas este pergamino lanzas el hechizo Risa horrible.
+Equipment/&ScrollHideousLaughterTitle	Pergamino de Risa horrible
+Equipment/&ScrollHoldPersonDescription	Cuando usas este pergamino lanzas el hechizo Hold Person.
 Equipment/&ScrollHoldPersonTitle	Pergamino de persona en espera
-Equipment/&ScrollIdentifyDescription	Cuando usas este pergamino, lanzas el hechizo Identificar.
+Equipment/&ScrollIdentifyDescription	Cuando usas este pergamino lanzas el hechizo Identificar.
 Equipment/&ScrollIdentifyTitle	Desplazamiento de Identificar
-Equipment/&ScrollJumpDescription	Cuando usas este pergamino, lanzas el hechizo Jump.
-Equipment/&ScrollJumpTitle	Pergamino de salto
+Equipment/&ScrollJumpDescription	Cuando usas este pergamino lanzas el hechizo Saltar.
+Equipment/&ScrollJumpTitle	Pergamino de Salto
 Equipment/&ScrollKitToolTypeDescription	Contiene las herramientas y los materiales necesarios para preparar tinta mágica y fabricar pergaminos de hechizos.
-Equipment/&ScrollKitToolTypeTitle	Kit de desplazamiento
-Equipment/&ScrollLesserRestorationDescription	Cuando usas este pergamino, lanzas el hechizo Restauración menor.
+Equipment/&ScrollKitToolTypeTitle	Kit de creación de pergaminos
+Equipment/&ScrollLesserRestorationDescription	Cuando usas este pergamino lanzas el hechizo Restauración menor.
 Equipment/&ScrollLesserRestorationTitle	Pergamino de restauración menor
-Equipment/&ScrollLightningBoltDescription	Cuando usas este pergamino, lanzas el hechizo Lightning Bolt.
+Equipment/&ScrollLightningBoltDescription	Cuando usas este pergamino lanzas el hechizo Lightning Bolt.
 Equipment/&ScrollLightningBoltTitle	Pergamino de rayo
-Equipment/&ScrollMageArmorDescription	Cuando usas este pergamino, lanzas el hechizo Armadura de mago.
+Equipment/&ScrollMageArmorDescription	Cuando usas este pergamino lanzas el hechizo Armadura de mago.
 Equipment/&ScrollMageArmorTitle	Pergamino de armadura de mago
-Equipment/&ScrollMagicMissileDescription	Cuando usas este pergamino, lanzas el hechizo Magic Missile.
+Equipment/&ScrollMagicMissileDescription	Cuando usas este pergamino lanzas el hechizo Magic Missile.
 Equipment/&ScrollMagicMissileTitle	Pergamino de misil mágico
 Equipment/&ScrollProtectionFromEvilandGoodDescription	Cuando usas este pergamino, lanzas el hechizo Protección contra el mal y el bien.
 Equipment/&ScrollProtectionFromEvilandGoodTitle	Pergamino de protección contra el bien y el mal
 Equipment/&ScrollRaiseDeadDescription	Cuando usas este pergamino, lanzas el hechizo Levantar a los muertos.
 Equipment/&ScrollRaiseDeadTitle	Pergamino de Levantar a los muertos
-Equipment/&ScrollRevivifyDescription	Cuando usas este pergamino, lanzas el hechizo Revivificar.
-Equipment/&ScrollRevivifyTitle	Pergamino de Revivify
-Equipment/&ScrollScorchingRayDescription	Cuando usas este pergamino, lanzas el hechizo Rayo Abrasador.
+Equipment/&ScrollRevivifyDescription	Cuando usas este pergamino, lanzas el hechizo Revivir.
+Equipment/&ScrollRevivifyTitle	Pergamino de Revivir
+Equipment/&ScrollScorchingRayDescription	Cuando usas este pergamino lanzas el hechizo Rayo Abrasador.
 Equipment/&ScrollScorchingRayTitle	Pergamino de rayo abrasador
-Equipment/&ScrollShieldOfFaithDescription	Cuando usas este pergamino, lanzas el hechizo Escudo de fe.
-Equipment/&ScrollShieldOfFaithTitle	Pergamino de escudo de fe
-Equipment/&ScrollSleepDescription	Cuando usas este pergamino, lanzas el hechizo Dormir.
-Equipment/&ScrollSleepTitle	Pergamino del sueño
-Equipment/&ScrollThunderwaveDescription	Cuando usas este pergamino, lanzas el hechizo Thunderwave.
-Equipment/&ScrollThunderwaveTitle	Pergamino de Thunderwave
+Equipment/&ScrollShieldOfFaithDescription	Cuando usas este pergamino lanzas el hechizo Escudo de fe.
+Equipment/&ScrollShieldOfFaithTitle	Pergamino Escudo de fe
+Equipment/&ScrollSleepDescription	Cuando usas este pergamino lanzas el hechizo Dormir.
+Equipment/&ScrollSleepTitle	Pergamino de Sueño
+Equipment/&ScrollThunderwaveDescription	Cuando usas este pergamino lanzas el hechizo Ola atronadora.
+Equipment/&ScrollThunderwaveTitle	Pergamino de Ola atronadora
 Equipment/&Sellsword_Background_Quest_Document_01	Querido amigo, ahora que ha salvado al barón, debo hablarle sobre ciertos asuntos del pasado que ahora tengo la libertad de divulgar. No fui del todo sincero contigo durante tu última visita. ¿Pasaría por aquí la próxima vez que esté en Coparann?\n\nCielos despejados para ti\n\nMildred Warmhearth
 Equipment/&Sellsword_Background_Quest_Document_02	Queridísimo niño,\n\nPronto conoceremos nuestro destino, tu madre y yo. Un viejo amigo te entregará esta carta cuando llegues al punto en el que estás buscando un significado y respuestas a la vida.\n\nLo que hicimos, lo hicimos para protegerte, aunque sea difícil de creer. Es difícil dejar a un niño solo en el mundo, pero es mejor que otros destinos.\n\nNo fuimos lo suficientemente fuertes para resistir la tentación, pero seremos lo suficientemente fuertes para no dejar que el mal triunfe al final.
 Equipment/&Sellsword_Background_Quest_Document_03	¡Infórmeme de inmediato! Recuerde, siempre estamos mirando, y si incluso piensa en traicionarnos, ¡su hijo será el primero en sufrir! ¡Estamos en todas partes! ¡Espero su próximo informe en dos días!
@@ -685,7 +685,7 @@ Equipment/&SlingTypeTitle	Honda
 Equipment/&SpearTypeTitle	Lanza
 Equipment/&SpellbookCapacityDescription	Páginas utilizadas: {0} / {1}
 Equipment/&SpellbookContainsDescription	Hechizos: {0}
-Equipment/&SpellbookDescription	Esencial para los magos, un libro de hechizos es un tomo encuadernado en cuero con 100 páginas vitela en blanco adecuadas para registrar hechizos.
+Equipment/&SpellbookDescription	Esencial para los magos. Un libro de hechizos es un tomo encuadernado en cuero con 100 páginas en blanco preparadas para escribir hechizos.
 Equipment/&SpellbookTitle	Libro de hechizos
 Equipment/&StaffOfFireDescription	Otra creación de Lanathir Goldenfire, no una simple baratija sino un arma poderosa en las manos adecuadas.
 Equipment/&StaffOfFireTitle	Bastón de fuego
@@ -700,8 +700,8 @@ Equipment/&StartingWealth25GPDescription	Tus ahorros
 Equipment/&StartingWealth25GPTitle	25 piezas de oro
 Equipment/&StartingWealth40GPDescription	Tus ahorros
 Equipment/&StartingWealth40GPTitle	40 piezas de oro
-Equipment/&ThievesToolTypeDescription	Contiene un archivo pequeño, un juego de ganzúas, un pequeño espejo montado en un mango de metal, un juego de tijeras de hoja estrecha y un par de alicates, útiles para desarmar trampas y abrir candados.
-Equipment/&ThievesToolTypeTitle	Herramientas de ladrones
+Equipment/&ThievesToolTypeDescription	Contiene un juego de ganzúas, un pequeño espejo montado en un mango de metal, un juego de tijeras de hoja estrecha y un par de alicates, útiles para desarmar trampas y abrir candados.
+Equipment/&ThievesToolTypeTitle	Herramientas de ladrón
 Equipment/&ToM_ArchaeologicalNotes_01_Content	Esta mujer de Manacalon probablemente era un mago de alto rango. Ella podría haber estado viviendo aquí, al este del Inner Empire ... <i>A continuación se muestran varias notas sobre la estatua.</i>
 Equipment/&ToM_ArchaeologicalNotes_01_Description	Notas sobre un posible maestro de magia de Manacalon, basadas en una estatua descubierta en la torre en ruinas.
 Equipment/&ToM_ArchaeologicalNotes_01_Title	Notas arqueológicas
@@ -739,15 +739,15 @@ Equipment/&WandLightningBoltsTitle	Varita de rayos
 Equipment/&WandMagicMissileTitle	Varita de misil mágico
 Equipment/&WandSpecialDescription	Una varita de artesanía superior, posiblemente con cualidades desconocidas.
 Equipment/&WandSpecialTitle	Varita magnífica
-Equipment/&WarhammerTypeTitle	Warhammer
+Equipment/&WarhammerTypeTitle	Martillo de guerra
 Equipment/&WarpickTypeTitle	Selección de guerra
 Equipment/&WeaponTagAmmunitionTitle	Munición
-Equipment/&WeaponTagFinesseTitle	Finura
+Equipment/&WeaponTagFinesseTitle	Sutileza
 Equipment/&WeaponTagHeavyTitle	Pesado
-Equipment/&WeaponTagLightTitle	Luz
-Equipment/&WeaponTagLoadingTitle	Cargando
-Equipment/&WeaponTagReachTitle	Alcanzar
-Equipment/&WeaponTagThrownTitle	Arrojado
+Equipment/&WeaponTagLightTitle	Ligera
+Equipment/&WeaponTagLoadingTitle	Recarga
+Equipment/&WeaponTagReachTitle	Alcance
+Equipment/&WeaponTagThrownTitle	Arrojadiza
 Equipment/&WeaponTagTwoHandedTitle	Dos manos
 Equipment/&WeaponTagVersatileTitle	Versátil
 Equipment/&WhipTypeTitle	Látigo
@@ -764,7 +764,7 @@ Equipment/&kickstarter_item_Spider_Symbol_Title	Placa de orco
 Equipment/&kickstarter_item_Testament_Content	Yo, Brandil Sharpleaf, estando sano de mente y cuerpo, lego la totalidad de mis posesiones mundanas a Lady Elyria Greenblade si la muerte me encuentra durante las próximas batallas contra los invasores humanos. Para mi esposa e hijos, yo ...\n\nFalta el resto de la carta.
 Equipment/&kickstarter_item_Testament_Description	Una carta vieja, un poco andrajosa
 Equipment/&kickstarter_item_Testament_Title	Testamento
-Equipment/&ContainerHarvestable_Angry_Bush_Title	Bush enojado
+Equipment/&ContainerHarvestable_Angry_Bush_Title	Arbusto
 Equipment/&ContainerHarvestable_Angry_Bush_Description	Un pequeño arbusto que se encuentra en los Reinos del Este y las Tierras Inhóspitas que produce Angry Violets.
 Equipment/&ContainerHarvestable_MagnesiumDeposit_Title	Depósito de magnesio
 Equipment/&ContainerHarvestable_MagnesiumDeposit_Description	Un montón natural de magnesio en polvo.
@@ -1348,7 +1348,7 @@ Equipment/&Legendary_Document_Content05	Llegaron los días oscuros y los hombres
 Equipment/&Legendary_Document_Content06	Sorr-Tarr corrompió a Arivad y provocó el cisma. Arivad se dividió en dos entidades: nació Einar, limpio de toda corrupción. Arivad permaneció contaminado para siempre. Ya no eran cuatro, sino cinco.
 Equipment/&Tirmarian_GreataxeTypeTitle	Hacha sagrada de Sandraven
 Equipment/&BoltStuff_Title	Piezas de proyectil
-Equipment/&BoltStuff_Description	Un paquete de cabezas y colas para hacer tornillos o flechas usando herramientas de herrero.
+Equipment/&BoltStuff_Description	Un paquete de puntas y colas para hacer virotes o flechas usando herramientas de herrero.
 Equipment/&BoltStuff_Recipe_Title	Fabrica 20 virotes de ballesta
 Equipment/&ArrowStuff_Recipe_Title	Fabrica 20 flechas
 Equipment/&ArtisanToolSmith_Title	Pequeño kit de herramientas Smith
