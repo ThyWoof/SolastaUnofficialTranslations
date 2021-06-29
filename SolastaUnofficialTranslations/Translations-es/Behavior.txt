@@ -1,22 +1,23 @@
 Behavior/&AttackingDescription	La criatura está atacando a su objetivo.
-Behavior/&AttackingTitle	Agresor
+Behavior/&AttackingTitle	Atacando
 Behavior/&IdleDescription	La criatura no está haciendo nada en particular.
 Behavior/&IdleTitle	Inactivo
 Behavior/&InterceptingDescription	La criatura ha detectado un objetivo y se dirige hacia él.
 Behavior/&InterceptingTitle	Interceptando
 Behavior/&InvestigatingDescription	La criatura está investigando una fuente de perturbación (ruido, luz).
 Behavior/&InvestigatingTitle	Investigando
-Behavior/&MovingDescription	La criatura va a alguna parte.
-Behavior/&MovingTitle	Moviente
-Behavior/&NoBehaviorDescription	La criatura no está haciendo nada o su estado inicial no se ha lanzado.
+Behavior/&MovingDescription	La criatura se dirige a algún lugar.
+Behavior/&MovingTitle	Moviéndose
+Behavior/&NoBehaviorDescription	La criatura no está haciendo nada o no se ha puesto en marcha en su estado inicial.
 Behavior/&NoBehaviorTitle	Sin comportamiento
 Behavior/&PlanningDescription	La criatura está planeando su próxima acción.
-Behavior/&PlanningTitle	Planificación
-Behavior/&SneakingDescription	El personaje intenta ser sigiloso.
-Behavior/&SneakingTitle	Furtivo
+Behavior/&PlanningTitle	Planeando
+Behavior/&SneakingDescription	El personaje está intentando ser sigiloso.
+Behavior/&SneakingTitle	Ser sigiloso
 Behavior/&TalkingDescription	La criatura está hablando.
 Behavior/&TalkingTitle	Hablando
 Behavior/&WaitingDescription	La criatura está esperando.
 Behavior/&WaitingTitle	Esperando
-Behavior/&WatchingDescription	La criatura busca enemigos.
-Behavior/&WatchingTitle	Mirando
+Behavior/&WatchingDescription	La criatura está buscando enemigos.
+Behavior/&WatchingTitle	Vigilando
+
