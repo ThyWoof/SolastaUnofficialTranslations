@@ -3,6 +3,6 @@ SchoolOfMagic/&ConjurationTitle	Conjuración
 SchoolOfMagic/&DivinationTitle	Adivinación
 SchoolOfMagic/&EnchantmentTitle	Encantamiento
 SchoolOfMagic/&EvocationTitle	Evocación
-SchoolOfMagic/&IllusionTitle	Espejismo
+SchoolOfMagic/&IllusionTitle	Ilusionismo
 SchoolOfMagic/&NecromancyTitle	Nigromancia
 SchoolOfMagic/&TransmutationTitle	Transmutación
