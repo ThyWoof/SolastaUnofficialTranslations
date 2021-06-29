@@ -17,7 +17,7 @@ Tooltip/&AdvancementGainAdditionalTargetMultipleFormat	{0} objetivos
 Tooltip/&AdvancementGainAdditionalTargetSingleFormat	{0} objetivo
 Tooltip/&AdvancementGainAdditionalTempHPFormat	{0} puntos de vida temporales
 Tooltip/&AdvancementTitle	En niveles superiores
-Tooltip/&AdvantageTrendsTitle	Ventaja desventaja
+Tooltip/&AdvantageTrendsTitle	Ventaja / Desventaja
 Tooltip/&AmmunitionEffectsTitle	Daño / efecto adicional
 Tooltip/&ArmorEffectsTitle	Efectos de armadura
 Tooltip/&CantripSubtitleFormat	{0} Truco\n
@@ -25,14 +25,14 @@ Tooltip/&ChallengeDifficultyTitle	Calificación del desafío
 Tooltip/&CompatibleProficienciesHeaderTitle	Competencias compatibles
 Tooltip/&ContainerEmptyDescription	Vacío
 Tooltip/&ContainerUnknownContentDescription	Contenido desconocido
-Tooltip/&CoverHeaderTitle	Cubrir
+Tooltip/&CoverHeaderTitle	Cobertura
 Tooltip/&CraftingDifficultyTitle	Elaboración de DC
 Tooltip/&CraftingDurationTitle	Duración
 Tooltip/&CurrentlyEquipedTitle	Actualmente equipado
 Tooltip/&DeviceChargesMaxPlural	{0} cargas
 Tooltip/&DeviceChargesMaxSingle	{0} carga
 Tooltip/&DeviceFunctionRemainingCooldown	enfriamiento {0}
-Tooltip/&DeviceFunctionsTitle	Elemento Función (es)
+Tooltip/&DeviceFunctionsTitle	Función del objeto
 Tooltip/&DeviceFunctionsUnknown	Desconocido
 Tooltip/&DeviceRechargeTitle	Recargar
 Tooltip/&DeviceUsageTitle	Uso
@@ -42,12 +42,12 @@ Tooltip/&FeatPrerequisiteAbilityScoreFormat	Mín. {0} {1}
 Tooltip/&FeatPrerequisiteCastSpellTitle	Habilidad para lanzar hechizos
 Tooltip/&FeatPrerequisiteClassesFormat	Clases compatibles:\n{0}
 Tooltip/&FeatPrerequisiteFeatsFormat	Dotes requeridas:\n{0}
-Tooltip/&FeatPrerequisiteRacesFormat	Ascendencia compatible: {0}
+Tooltip/&FeatPrerequisiteRacesFormat	Raza compatible: {0}
 Tooltip/&FeatPrerequisitesTitle	Prerrequisitos
 Tooltip/&FeatRedundantDescription	Ya posees algunos o todos los beneficios de esta dote, por lo que es una opción menos útil.
 Tooltip/&FeatTitle	Con
-Tooltip/&HoldForMoreInfoTitle	Mantenga <Alt> para mas información
-Tooltip/&IngredientsHeaderTitle	Ingredientes requeridos
+Tooltip/&HoldForMoreInfoTitle	Mantenga <Alt> para mas info.
+Tooltip/&IngredientsHeaderTitle	Ingredientes necesarios
 Tooltip/&LightingBrightFormat	En luz brillante
 Tooltip/&LightingDarknessFormat	En la oscuridad
 Tooltip/&LightingDimFormat	En luz tenue
@@ -57,9 +57,9 @@ Tooltip/&LightingTargetDimFormat	{0} está en luz tenue
 Tooltip/&LightingTargetUnlitFormat	{0} no está iluminado.
 Tooltip/&LightingUnlitFormat	No iluminado
 Tooltip/&LightSourceEffectsTitle	Efectos de iluminación
-Tooltip/&NotProficientFormat	{0} no es competente con este artículo y no puede equiparlo.
+Tooltip/&NotProficientFormat	{0} no es competente con este objeto y no puede equiparlo.
 Tooltip/&PowerActivationTimeTitle	Activación
-Tooltip/&PowerEffectsTitle	Efectos de poder
+Tooltip/&PowerEffectsTitle	Efectos del poder
 Tooltip/&PowerRechargeTitle	Recargar
 Tooltip/&PowerUsesTitle	Usos
 Tooltip/&PropertiesTitle	Propiedades
@@ -70,7 +70,7 @@ Tooltip/&ProxyStaticTitle	Efecto mágico estático
 Tooltip/&RecipeTitle	Opción de elaboración
 Tooltip/&RemainingDurationTitle	Duración restante
 Tooltip/&RequiredSpellHeaderTitle	Hechizo requerido
-Tooltip/&SavingThrowTitle	Tiro de salvación
+Tooltip/&SavingThrowTitle	Tirada de salvación
 Tooltip/&SourceHasFeatFormat	{0} tiene {1} hazaña
 Tooltip/&SourceHasFightingStyleFormat	{0} tiene {1} estilo de lucha
 Tooltip/&SourceHasFormat	{0} tiene {1}
@@ -78,20 +78,20 @@ Tooltip/&SourceUsesItemFormat	{0} utiliza {1}
 Tooltip/&SpaceCapacityTitle	Capacidad de almacenamiento
 Tooltip/&SpaceTitle	Espacio
 Tooltip/&SpellbookContentTitle	Contenido del libro de hechizos
-Tooltip/&SpellCastingTimeTitle	Tiempo de audiciones
+Tooltip/&SpellCastingTimeTitle	T. Lanzamiento
 Tooltip/&SpellComponentsTitle	Componentes
-Tooltip/&SpellEffectsTitle	Efectos de hechizo
+Tooltip/&SpellEffectsTitle	Efectos del hechizo
 Tooltip/&SpellRangeTitle	Distancia
 Tooltip/&SpellSubtitleFormat	Nivel {0} {1}
 Tooltip/&SpellTargetTitle	Objetivo
-Tooltip/&StackSizeTitle	Tamaño de la pila
+Tooltip/&StackSizeTitle	Pila máx.
 Tooltip/&StarterPackContentTitle	Contenido
 Tooltip/&SubspellsEffectsTitle	Efectos de subhechizo
 Tooltip/&TagAmmunitionTitle	Munición
-Tooltip/&TagAreaOfEffectTitle	Area de efecto
+Tooltip/&TagAreaOfEffectTitle	Área de efecto
 Tooltip/&TagAttunementTitle	Sintonía
-Tooltip/&TagBreakConcentrationTitle	Romper la concentración
-Tooltip/&TagBuffTitle	Fuerte
+Tooltip/&TagBreakConcentrationTitle	Romper concentración
+Tooltip/&TagBuffTitle	Beneficioso
 Tooltip/&TagCarryingCapacityTitle	Capacidad de carga
 Tooltip/&TagChannelDivinityTitle	Canalizar Divinidad
 Tooltip/&TagComponentTitle	Componente
@@ -104,7 +104,7 @@ Tooltip/&TagDamageAcidTitle	Daño por ácido
 Tooltip/&TagDamageBludgeoningTitle	Daño contundente
 Tooltip/&TagDamageColdTitle	Daño por frío
 Tooltip/&TagDamageFireTitle	Daño por fuego
-Tooltip/&TagDamageForceTitle	Daño de fuerza
+Tooltip/&TagDamageForceTitle	Daño por fuerza
 Tooltip/&TagDamageLightningTitle	Daño de relámpago
 Tooltip/&TagDamageNecroticTitle	Daño necrótico
 Tooltip/&TagDamagePiercingTitle	Daño perforante
@@ -115,7 +115,7 @@ Tooltip/&TagDamageSlashingTitle	Daño cortante
 Tooltip/&TagDamageThunderTitle	Daño de trueno
 Tooltip/&TagDamageTitle	Daño
 Tooltip/&TagDisperseCloudTitle	Nube dispersa
-Tooltip/&TagDissipateSpellsTitle	Hechizos finales
+Tooltip/&TagDissipateSpellsTitle	Hechizos disipados
 Tooltip/&TagDivinationTitle	Adivinación
 Tooltip/&TagDocumentTitle	Documento
 Tooltip/&TagExtinguishFireTitle	Extinguir
@@ -150,23 +150,23 @@ Tooltip/&TagReachTitle	Alcanzar
 Tooltip/&TagReactionTitle	Reacción
 Tooltip/&TagRemoveDarknessTitle	Eliminar la oscuridad
 Tooltip/&TagRevealTrapsTitle	Detección de trampas
-Tooltip/&TagReviveTitle	Reanimar
+Tooltip/&TagReviveTitle	Revivir
 Tooltip/&TagRitualTitle	Ritual
 Tooltip/&TagScrollTitle	Desplazarse
 Tooltip/&TagShapechangerTitle	Cambiador de forma
-Tooltip/&TagSightBlockerTitle	Bloqueador de la vista
+Tooltip/&TagSightBlockerTitle	Bloquear visión
 Tooltip/&TagSilverTitle	Plata
-Tooltip/&TagSpellFocusTitle	Canalizador de hechizo
+Tooltip/&TagSpellFocusTitle	Canalizador de hechizos
 Tooltip/&TagSpellSlotsTitle	Ranuras para hechizos
 Tooltip/&TagSpellTitle	Hechizo
 Tooltip/&TagStandardTitle	Común
 Tooltip/&TagStealthAdvantageTitle	Ventaja en Sigilo
 Tooltip/&TagStealthAutofailTitle	Fallo automático en Sigilo
 Tooltip/&TagStealthDisadvantageTitle	Desventaja en Sigilo
-Tooltip/&TagSummonTitle	Convocando
+Tooltip/&TagSummonTitle	Invocar
 Tooltip/&TagTeleportTitle	Teletransportación
 Tooltip/&TagTemporaryHitPointsTitle	Puntos de golpe temporales
-Tooltip/&TagThrownTitle	Arrojado
+Tooltip/&TagThrownTitle	Arrojadiza
 Tooltip/&TagTorchTitle	Antorcha
 Tooltip/&TagTwoHandedTitle	Dos manos
 Tooltip/&TagUnlockTitle	Desbloquear
@@ -186,7 +186,7 @@ Tooltip/&TrendConditionHasFormat	{0} tiene {1}
 Tooltip/&TagDiseasedTitle	Enfermo
 Tooltip/&TagPoisonedTitle	Envenenado
 Tooltip/&ItemPropertiesTitle	Propiedades del objeto
-Tooltip/&TagDebuffTitle	Debuff
+Tooltip/&TagDebuffTitle	Perjudicial
 Tooltip/&WeaponNotLightWarningDescription	Esta arma no es Ligera, lo que evita que el personaje use un ataque adicional con el arma de la mano izquierda.
 Tooltip/&AmmunitionSelectorPrimaryDescription	Tu arma a distancia equipada usará primero la munición de esta ranura.
 Tooltip/&AmmunitionSelectorSecondaryDescription	Tu arma a distancia equipada usará la munición de esta ranura de inventario si la ranura principal está vacía. Haga clic para definir esta ranura como primaria.
@@ -194,12 +194,12 @@ Tooltip/&StealthBreakerCharacterDescription	Puede detectar un personaje oculto. 
 Tooltip/&ItemDynamicPropertyFormat	{0}: {1}
 Tooltip/&ItemDynamicPropertyRemainingUseAttackSingleFormat	Usos restantes: {0} ataque
 Tooltip/&ItemDynamicPropertyRemainingUseAttackPluralFormat	Usos restantes: {0} ataques
-Tooltip/&ItemDynamicPropertyRemainingUseHitSingleFormat	Usos restantes: {0} hit
-Tooltip/&ItemDynamicPropertyRemainingUseHitPluralFormat	Usos restantes: {0} visitas
+Tooltip/&ItemDynamicPropertyRemainingUseHitSingleFormat	Usos restantes: {0} golpe
+Tooltip/&ItemDynamicPropertyRemainingUseHitPluralFormat	Usos restantes: {0} golpes
 Tooltip/&ItemPropertyFormUsesAttackSingleFormat	({0} ataque)
 Tooltip/&ItemPropertyFormUsesAttackPluralFormat	({0} ataques)
-Tooltip/&ItemPropertyFormUsesHitSingleFormat	({0} hit)
-Tooltip/&ItemPropertyFormUsesHitPluralFormat	({0} visitas)
+Tooltip/&ItemPropertyFormUsesHitSingleFormat	({0} golpe)
+Tooltip/&ItemPropertyFormUsesHitPluralFormat	({0} golpes)
 Tooltip/&ItemRarityCommonTitle	Común
 Tooltip/&ItemRarityUncommonTitle	Poco común
 Tooltip/&ItemRarityRareTitle	Raro
@@ -218,7 +218,7 @@ Tooltip/&AbilityCheckAdditiveTrendsFormat	Modificador de comprobación de capaci
 Tooltip/&TrendCoverFormat	Cubrir
 Tooltip/&SaveVersionWarningDescription	Este guardado es de una versión anterior del juego y es posible que encuentres problemas de compatibilidad.
 Tooltip/&TrendKnownSpellFormat	{0} es un hechizo conocido.
-Tooltip/&InvalidComponentRequirementTitle	Faltan componentes de hechizo
+Tooltip/&Invalid_Component_Requirement_Title	Faltan componentes de hechizo
 Tooltip/&TagIvoryTitle	Marfil
 Tooltip/&TagPearlTitle	Perla
 Tooltip/&TagGemTitle	Joya
@@ -228,7 +228,7 @@ Tooltip/&SpecificComponentNotConsumedFormat	{0}, al menos {1} (no consumido)
 Tooltip/&TagPoisonTitle	Veneno
 Tooltip/&PowerUsesAbilityScoreFormat	{0} bonificación
 Tooltip/&PowerUsesAbilityScorePlusFixedFormat	{0} bonificación + {1}
-Tooltip/&PowerUsesProficiencyBonusTitle	Bono de Prof.
+Tooltip/&PowerUsesProficiencyBonusTitle	B. Competencia
 Tooltip/&TrendDifficultyFormat	Modificador de dificultad
 Tooltip/&TagInDimLightOrDarknessTitle	Luz tenue
 Tooltip/&RecurrentEffectTitle	Efecto recurrente:
