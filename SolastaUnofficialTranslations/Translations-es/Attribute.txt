@@ -1,3 +1,15 @@
+Attribute/&ArmorClassDescription	Clase de armadura (CA) representa el resultado que un enemigo debe superar para conseguir golpearte.
+Attribute/&ArmorClassTitle	CA
+Attribute/&AttacksNumberDescription	El número de ataques que el personaje puede realizar por turno.
+Attribute/&AttacksNumberTitle	Ataques
+Attribute/&ChannelDivinityNumberDescription	La cantidad de veces que puede usar la acción Canalizar Divinidad entre descansos.
+Attribute/&ChannelDivinityNumberTitle	Usos de Canalizar Divinidad
+Attribute/&CharacterLevelDescription	El número de niveles de experiencia que ha alcanzado el personaje, combinando todos los niveles de clase.
+Attribute/&CharacterLevelTitle	Nivel de personaje
+Attribute/&CharismaDescription	El Carisma indica tu capacidad para interaccionar con los demás de forma efectiva. Incluye aspectos como la confianza y la elocuencia, y también puede representar una personalidad encantadora o imponente.\nImportante para: Paladín, Mago.
+Attribute/&CharismaTitle	CAR
+Attribute/&CharismaTitleLong	Carisma
+Attribute/&ConstitutionDescription	Constitution measures health, stamina, and vital force.\nImportant for: everyone.
 Attribute/&ConstitutionTitle	CON
 Attribute/&ConstitutionTitleLong	Constitución
 Attribute/&CriticalThresholdDescription	El resultado más bajo en 1d20 con lo que conseguirás un golpe crítico.
