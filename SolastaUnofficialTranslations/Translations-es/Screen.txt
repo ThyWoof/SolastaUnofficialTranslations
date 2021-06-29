@@ -1,24 +1,24 @@
 Screen/&AbilityScoreBonusDescription	La bonificación a esta puntuación de habilidad, según tus elecciones actuales.
 Screen/&AbilityScoreBonusEditableDescription	La bonificación a este valor de puntuación de habilidad, que puede ajustar con sus puntos restantes.
-Screen/&AbilityScoresAssignTitle	Arrastre y suelte sus resultado en las celdas de puntuación de habilidad o asigne automáticamente.
+Screen/&AbilityScoresAssignTitle	Arrastre y suelte los resultados en las celdas de puntuación de habilidad o asigne automáticamente.
 Screen/&AbilityScoresEditPointsTitle	Edite sus resultado usando sus puntos restantes.
-Screen/&AbilityScoresMethodTitle	Seleccione el método de generación de puntaje de habilidad
+Screen/&AbilityScoresMethodTitle	Seleccione el método para la generación de los puntos de habilidad
 Screen/&AbortCreationDescription	Cancela el proceso de creación de personajes.
 Screen/&AbortLevelUpDescription	Cancela el proceso de subida de nivel del personaje.
 Screen/&AbortTitle	Atrás
-Screen/&ActiveQuestsFormatPlural	Tu equipo tiene {0} misiones activas.
-Screen/&ActiveQuestsFormatSingle	Tu equipo tiene una misión activa.
+Screen/&ActiveQuestsFormatPlural	Tu grupo tiene {0} misiones activas.
+Screen/&ActiveQuestsFormatSingle	Tu grupo tiene una misión activa.
 Screen/&AddCharacterDescription	Agrega un personaje de tu grupo de personajes locales.
 Screen/&AddCharacterTitle	Agregar personaje
 Screen/&AddNewClassTitle	Agregar nueva clase
 Screen/&AnswerChoiceTitle	Seleccione una respuesta
 Screen/&AscendDescription	Eleve el plano horizontal en una celda.
-Screen/&AttackCaptionBonusDescription	VCAÍO
-Screen/&AttackCaptionBonusTitle	VCAÍO
-Screen/&AttackCaptionMainDescription	VCAÍO
-Screen/&AttackCaptionMainTitle	VCAÍO
+Screen/&AttackCaptionBonusDescription	VACÍO
+Screen/&AttackCaptionBonusTitle	VACÍO
+Screen/&AttackCaptionMainDescription	VACÍO
+Screen/&AttackCaptionMainTitle	VACÍO
 Screen/&AttackDamageDescription	El daño que causa este ataque en un golpe exitoso.
-Screen/&AttackDamageTitle	maldición
+Screen/&AttackDamageTitle	Daño
 Screen/&AttackRollFooterTitle	Ataque
 Screen/&AttackToHitDescription	La bonificación añadida a las tiradas de ataque d20 con este arma.
 Screen/&AttackToHitTitle	para atacar
@@ -27,15 +27,15 @@ Screen/&AttunableItemsWarningFormat	{0} ha alcanzado el límite de {1} elementos
 Screen/&AttunementExecutedWarningDescription	Elimine la sintonía con este elemento para sintonizar con un elemento diferente.
 Screen/&AttunementExecutedWarningTitle	{0} ha alcanzado el límite de sintonía para este resto.
 Screen/&AttunementRemoveTitle	Eliminar
-Screen/&AvailableSlotsDescription	El número de hechizos de este nivel que puedes lanzar. Puede usar uno de estos espacios para lanzar un hechizo de nivel inferior, lo que puede aumentar su efecto.
+Screen/&AvailableSlotsDescription	El número de hechizos de este nivel que puedes lanzar. Puedes usar uno de estos espacios para lanzar un hechizo de nivel superior, lo que puede aumentar su efecto.
 Screen/&AvailableSlotsTitle	Ranuras disponibles:
 Screen/&BackgroundFeaturesTitle	Características de trasfondo
 Screen/&BackgroundHeaderTitle	Trasfondo
-Screen/&BackTitle	atrás
+Screen/&BackTitle	Atrás
 Screen/&BattleIntroTitle	¡Comienza la batalla!
 Screen/&BattleVictoryTitle	¡Victoria!
 Screen/&BonusAttackTitle	A. secundaria
-Screen/&CancelTitle	Cancela
+Screen/&CancelTitle	Cancelar
 Screen/&CaptionAbortDescription	Cancela esta acción.
 Screen/&CaptionAbortTitle	Cancelar
 Screen/&CaptionProceedDescription	Ejecute su acción aunque esté incompleta.
@@ -160,7 +160,7 @@ Screen/&EncumbranceLightTitle	Ligero
 Screen/&EncumbranceNoneTitle	Ninguno
 Screen/&EncumbranceTitle	Peso
 Screen/&EndTurnDescription	Termina el turno de este personaje y pasa a la siguiente criatura.
-Screen/&EndTurnTitle	Terminar
+Screen/&EndTurnTitle	Finalizar
 Screen/&EquipmentConfigurationSetupTitle	Arrastre el equipo para cambiar su configuración.
 Screen/&EquipmentTitle	Equipo
 Screen/&EthnicGroupSelectionTitle	Seleccione un origen.
@@ -291,9 +291,9 @@ Screen/&LoadGameTitle	Cargar juego
 Screen/&LocationIntroductionActiveQuestsFormat	Misiones activas: {0}
 Screen/&LocationIntroductionHeaderTitle	Nueva ubicacion
 Screen/&LongRestCompleteTitle	Descanso largo completo
-Screen/&LongRestDescription	Toma al menos ocho horas para comer, beber, leer, hablar, dormir, etc. Los hechizos, habilidades y puntos de golpe se recuperar al fnal de un descanso largo.
+Screen/&LongRestDescription	Toma al menos ocho horas para comer, beber, leer, hablar, dormir, etc. Los hechizos, habilidades y puntos de golpe se recuperar al fnal del descanso.
 Screen/&LongRestTitle	Descanso largo
-Screen/&LootAllDescription	Saquea todo lo del contenedor que pueda caber en tu inventario sin aumentar su índice de carga.
+Screen/&LootAllDescription	Saquea todo lo del contenedor que pueda caber en tu inventario sin sobrepasar tu carga máxima.
 Screen/&LootAllTitle	Saquear todo
 Screen/&MagicalTagDescription	Este ataque se considera mágico y puede herir a criaturas que resisten ataques no mágicos.
 Screen/&MagicRevealedPluralFormat	Se han revelado nuevos elementos como mágicos en {0}.
@@ -376,7 +376,7 @@ Screen/&ProficiencyToggleWeaponAndArmorTitle	Armas y armaduras
 Screen/&ProficiencyWeaponCategoryDescription	Eres competente con esta categoría de arma, añadiendo tu bonificación de competencia a las tiradas de ataque.
 Screen/&ProficiencyWeaponTypeDescription	Eres competente con este tipo específico de arma, añadiendo tu bonificación de competencia a las tiradas de ataque.
 Screen/&PurchaseClearAllDescription	Haga clic para borrar todos los artículos comprados.
-Screen/&PurchaseOrderTitle	Has comprado
+Screen/&PurchaseOrderTitle	Comprar
 Screen/&QuestChoiceStatusTitle	Elección:
 Screen/&QuestCompletedDescription	Misión completada
 Screen/&QuestFailedDescription	Misión fallida
@@ -457,8 +457,8 @@ Screen/&ScoreOptimizeNoneTitle	Ninguna clase seleccionada
 Screen/&ScoreRerollButtonTitle	Volver a tirar
 Screen/&ScoreResetButtonTitle	Reiniciar
 Screen/&ScribeScrollDescription	Copia el hechizo en uno de tus libros de hechizos.
-Screen/&ScribeScrollTitle	Escriba
-Screen/&SearchByCastingTimeTitle	Tiempo de audiciones
+Screen/&ScribeScrollTitle	Copiar
+Screen/&SearchByCastingTimeTitle	Tiempo de lanzamiento
 Screen/&SearchByDamageTypeTitle	Tipo de daño
 Screen/&SearchByNameTitle	Buscar por nombre
 Screen/&SearchBySchoolTitle	Colegio
@@ -521,7 +521,7 @@ Screen/&StagePreviousButtonTitle	Anterior
 Screen/&StartGameButtonDescription	Haga clic para iniciar el juego con las opciones seleccionadas.
 Screen/&StartGameButtonTitle	Empezar juego
 Screen/&StartLongRestTitle	Iniciar descanso largo
-Screen/&StartShortRestTitle	Iniciar un descanso corto
+Screen/&StartShortRestTitle	Iniciar descanso corto
 Screen/&SubclassFeaturesTitle	Características
 Screen/&SubclassPreviewFormat	Muestre las opciones de subclase otorgadas en el nivel {0}.
 Screen/&SubclassPreviewHeaderFormat	Estas subclases se otorgan en el nivel {0}.
@@ -538,12 +538,12 @@ Screen/&ToolTypeSelectionTitle	Seleccionar herramientas
 Screen/&TotalBalanceClearAllDescription	Borra toda la transacción.
 Screen/&TotalBalanceClearAllTitle	Limpiar todo
 Screen/&TotalBalanceConcludeDescription	Complete la transacción y pague / cobre el precio correspondiente.
-Screen/&TotalBalanceConcludeTitle	Concluir
-Screen/&TotalBalanceCostTitle	Tu pagas:
-Screen/&TotalBalanceGainTitle	Tu ganas:
+Screen/&TotalBalanceConcludeTitle	Confirmar
+Screen/&TotalBalanceCostTitle	Pagas:
+Screen/&TotalBalanceGainTitle	Obtienes:
 Screen/&TotalBalanceTitle	Total
 Screen/&TotalCostTitle	Coste total
-Screen/&TotalRevenueTitle	Los ingresos totales
+Screen/&TotalRevenueTitle	Ingreso total
 Screen/&TrackedQuestDescription	Actualmente, esta misión se rastrea y se muestra en la pantalla principal del juego.
 Screen/&TrackQuestDescription	Haga clic para iniciar / detener el seguimiento de esta misión y que aparezca marcada en el mapa.
 Screen/&TrackQuestTitle	Seguir la misión
