@@ -2,7 +2,7 @@ Label/&CampfireLocationRestDescription	VACÍO
 Label/&CampfireLocationRestTitle	VACÍO
 Label/&CampfireResumeTravelRestDescription	VACÍO
 Label/&CampfireResumeTravelRestTitle	VACÍO
-Label/&EnterLocationDescription	Haga que el grupo ingrese a esta ubicación.
-Label/&EnterLocationTitle	Ingresar
-Label/&TravelToLocationDescription	Prepárese para viajar a esta ubicación.
-Label/&TravelToLocationTitle	Viaje
+Label/&EnterLocationDescription	Haga que el grupo entre a esta ubicación.
+Label/&EnterLocationTitle	Entrar
+Label/&TravelToLocationDescription	El grupo se preparará para viajar a esta ubicación.
+Label/&TravelToLocationTitle	Viajar
